@@ -1,6 +1,6 @@
 ---
 created: 2025-05-26T09:50:59
-modified: 2025-05-26T09:51:01
+modified: 2025-06-01T15:29:23
 ---
 
 * The energy needed to overcome anxiety, procrastination, and fatigue

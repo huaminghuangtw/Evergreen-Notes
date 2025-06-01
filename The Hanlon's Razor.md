@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-03-12T12:50:07
+modified: 2025-06-01T15:29:24
 ---
 
 > _“Never attribute to conspiracy that is more easily explained by incentives and incompetence.” — Naval Ravikant_

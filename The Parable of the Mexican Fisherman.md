@@ -1,6 +1,6 @@
 ---
 created: 2025-02-05T00:32:11
-modified: 2025-05-26T16:23:14
+modified: 2025-06-01T15:29:24
 ---
 
 A successful American businessman was on vacation in a small Mexican coastal village when he saw a fisherman docking his small boat. Inside the boat were a few large, fresh fish.

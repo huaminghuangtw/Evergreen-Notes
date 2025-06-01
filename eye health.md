@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:50
-modified: 2025-04-09T07:46:25
+modified: 2025-06-01T15:29:24
 ---
 
 Visual Training Exercise (<https://www.youtube.com/c/VisualExercises/>)

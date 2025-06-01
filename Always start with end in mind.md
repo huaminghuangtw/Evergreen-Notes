@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-03-12T10:02:39
+modified: 2025-06-01T15:29:23
 ---
 
 > _“It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement(/accomplishment).” — Isocrates_

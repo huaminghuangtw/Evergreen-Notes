@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-03-12T12:50:11
+modified: 2025-06-01T15:29:24
 ---
 
 > _“Arriving someplace more desirable at some future time is an illusion. This is it.” — Jon Kabat-Zinn_

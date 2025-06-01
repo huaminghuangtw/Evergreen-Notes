@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-05-26T16:23:14
+modified: 2025-06-01T15:29:23
 ---
 
 > _“Start before you're ready. Don't prepare. Begin. Don't think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_

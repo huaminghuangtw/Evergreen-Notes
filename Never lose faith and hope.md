@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:50
-modified: 2025-03-12T10:02:39
+modified: 2025-06-01T15:29:24
 ---
 
 > _["Hope is a waking dream." — Aristotle](https://www.goodreads.com/quotes/3987-hope-is-a-waking-dream)_

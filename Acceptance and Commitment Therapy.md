@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T18:40:57
-modified: 2025-05-26T16:23:15
+modified: 2025-06-01T15:29:23
 ---
 
 > _“Emotion arises at the place where mind & body meet. It is the body's reaction to mind.” — Eckhart Tolle_

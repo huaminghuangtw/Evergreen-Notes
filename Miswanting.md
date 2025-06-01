@@ -1,6 +1,6 @@
 ---
 created: 2025-02-26T01:35:07
-modified: 2025-03-12T13:44:05
+modified: 2025-06-01T15:29:24
 ---
 
 A psychological concept that refers to the tendency of people to desire things that will end up make them unhappy or unsatisfied.

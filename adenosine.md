@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-05-26T16:23:14
+modified: 2025-06-01T15:29:24
 ---
 
 Adenosine (腺苷) is a neurotransmitter that promotes a person's need to sleep.

@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-05-26T16:23:14
+modified: 2025-06-01T15:29:24
 ---
 
 > _[“Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable. And you're the only one that will know that.” — John Wooden](https://www.youtube.com/watch?v=JWQIxuNGdvQ&t=95s)_

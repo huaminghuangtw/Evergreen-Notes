@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-03-12T10:02:39
+modified: 2025-06-01T15:29:24
 ---
 
 It occurs when a person is presented with a problem or situation that is similar to problems they have worked through in the past.

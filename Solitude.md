@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-04-29T18:57:57
+modified: 2025-06-01T15:29:24
 ---
 
 > _“To live alone, one must be either a beast or a god, says Aristotle. Leaving out the third case: one must be both — a philosopher.” — Nietzsche_

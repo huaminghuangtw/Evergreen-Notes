@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:50
-modified: 2025-05-26T16:23:13
+modified: 2025-06-01T15:29:25
 ---
 
 > _“Above all, do not lose your desire to walk. Everyday, I walk myself into a state of well-being & walk away from every illness. I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it.” — Søren Kierkegaard_

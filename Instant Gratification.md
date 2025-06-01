@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-05-27T19:52:58
+modified: 2025-06-01T15:29:23
 ---
 
 = Immediate Gratification = Cheap Dopamine

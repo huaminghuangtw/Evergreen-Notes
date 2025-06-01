@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-05-27T14:22:08
+modified: 2025-06-01T15:29:23
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](Stay%20curious.md) is key.

@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-05-26T16:23:14
+modified: 2025-06-01T15:29:24
 ---
 
 * Unlike some other species humans have ability to change the structure of nervous system

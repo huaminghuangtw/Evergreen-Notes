@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:50
-modified: 2025-03-12T10:02:39
+modified: 2025-06-01T15:29:25
 ---
 
 1. Do the opposite of what you think you should.

@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:50
-modified: 2025-05-26T16:23:13
+modified: 2025-06-01T15:29:25
 ---
 
 酮體 (Ketone Bodies) / 生酮飲食 (Ketogenic Diet): involves significantly decreasing your intake of carbs / 酮症 (Ketosis): a metabolic state in which your body uses fat as its primary source of energy / 生酮作用 (Ketogenesis): 指脂肪酸分解生成酮體

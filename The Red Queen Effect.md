@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-05-26T16:23:14
+modified: 2025-06-01T15:29:24
 ---
 
 “_It takes all the running you can do, to keep in the same place. If you want to get somewhere else, you must run at least twice as fast as that!_”

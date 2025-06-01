@@ -1,6 +1,6 @@
 ---
 created: 2025-01-01T16:32:50
-modified: 2025-05-28T19:47:54
+modified: 2025-06-01T15:29:24
 ---
 
 > _“Intuition is the whisper of the soul.” — Jidda krishnamurti_

@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-05-03T03:37:36
+modified: 2025-06-01T15:29:24
 ---
 
 Principled Negotiation = Interest-Based Negotiation = Win-Win Negotiation

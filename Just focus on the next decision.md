@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-05-26T16:23:14
+modified: 2025-06-01T15:29:23
 ---
 
 > _[“You are always just one good decision away from being in a better place tomorrow — just focus on the next decision.” — Sahil Bloom](https://www.sahilbloom.com/newsletter/information-action-gap-one-decision-away-more)_

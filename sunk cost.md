@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-03-12T10:02:39
+modified: 2025-06-01T15:29:24
 ---
 
 > _“If you get on the wrong train, get off at the nearest station. The longer it takes you to get off, the more expensive the return trip will be.” — Japanese proverb_

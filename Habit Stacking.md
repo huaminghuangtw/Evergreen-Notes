@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-05-26T16:23:15
+modified: 2025-06-01T15:29:23
 ---
 
 is a special form of [Implementation Intentions](Implementation%20Intentions.md). Rather than pairing a new habit with a particular time and location, you pair it with an old, current habit (the “anchor” [@foggTinyHabitsSmall2020]).

@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T18:40:57
-modified: 2025-05-26T16:23:14
+modified: 2025-06-01T15:29:24
 ---
 
 Working memory is one's ability to keep specific information for immediate use, like a little sticky note in the brain.

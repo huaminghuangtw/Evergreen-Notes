@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T16:22:20
-modified: 2025-05-26T16:23:14
+modified: 2025-06-01T15:29:24
 ---
 
 > _[“The antidote to impulsiveness is forethought.” — Nir Eyal](https://www.youtube.com/watch?v=VVez_sI1zTU)_
