@@ -1,0 +1,135 @@
+---
+created: 2024-11-18T09:18:12
+modified: 2025-05-26T16:23:15
+---
+
+> _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
+
+> _“Life is like riding a bicycle, to keep balance you must keep moving.” — Albert Einstein_
+
+> _“There are no quick fixes. But, by taking action just a little bit every day, you will build up a powerful reservoir of confidence, self-esteem, and discipline.” — Scott Allan_
+
+> _“Eighty percent of success is showing up.” — Woody Allen_
+
+> _“It does not matter how slowly you go as long as you do not stop.” — Confucius_
+
+[@gogginsCantHurtMe2018]
+
+> _“Our culture has become hooked on the quick-fix, the life hack, efficiency. Everyone is on the hunt for that simple action algorithm that nets maximum profit with the least amount of effort. There's no denying this attitude may get you some of the trappings of success, if you're lucky, but it will not lead to a calloused mind or self-mastery. If you want to master the mind and remove your governor, you'll have to become addicted to hard work. Because passion and obsession, even talent, are only useful tools if you have the work ethic to back them up.” _
+
+[@leeBeWaterMy2020]
+
+> _“I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times” — Shannon Lee_ [^1] [^2]
+
+---
+
+Persistence can change failure into extraordinary achievement
+
+---
+
+圓規為什麼可以畫圓？因爲腳在走，心不變。人為什麼不能圓夢？因爲心不定，腳不動。
+
+---
+
+騏驥一躍，不能十步，駑馬十駕，功在不舍。
+
+---
+
+專心致志 \>\>\> 聰明才智
+
+---
+
+There is a Zen Buddhist saying: “What do you do before enlightenment? _Chop wood, carry water_. What do you do after enlightenment? _Chop wood, carry water_.”
+
+---
+
+[最無聊的練習](Deliberate%20Practice.md)，沉澱出最扎實的基本功
+
+> _“No tree, it is said, can grow to heaven unless its roots reach down to hell.” — Carl Jung_
+
+> _“When the root is strong, the fruit is sweet.” — Bob Marley_
+
+* [蹲馬步](Slow%20Down%20to%20Speed%20Up.md) — [持續地把每件瑣 (碎的小) 事循序漸進、按部就班地做好才是成功的關鍵。](https://youtu.be/mZPN9W-jPm4)
+* 一步一步來，有一才有二
+* Take one step at a time. Walk before you run.
+* 「修身、齊家、治國、平天下」
+
+---
+
+細水長流
+
+---
+
+希臘神話中薛西佛斯 (Sisyphus) 推石頭的故事
+
+* Sisyphean: 形容「永無盡頭而又徒勞無功的任務」
+
+---
+
+[瀝青滴漏實驗 (The Pitch Drop Experiment)](http://www.thetenthwatch.com/)
+
+---
+
+# The “Consistently Good Rather Than Occasionally Great” Principle
+
+* Don't aim to be consistently great; aim to be great at being _consistent_.
+* Mastery follows consistent/constant work.
+
+---
+
+The None-Zero Day Principle — becoming one is non-zero
+
+---
+
+Continuous effort, not strength or intelligence, is the key to unlocking our potential.
+
+---
+
+Doing a thing once is nothing special. You're only a legend if you can do it back to back to back with thousands of hours of meticulous [preparation](Planning%20and%20preparation%20help%20maximize%20your%20productivity.md).
+
+---
+
+# 力行、奉行 [每天「一點點」](https://stephango.com/a-little-bit-every-day) 的哲學
+
+* 每天一點點讀書進修
+* 每天一點點肌膚保養
+* 每天一點點拉筋伸展
+* 每天一點點關心朋友
+* 每天一點點照顧家人
+
+---
+
+大樹不是一夜之間就可以長出來的 — 你必須在多年前就種下樹苗，經過多年的悉心培養與照料，最後才能享受綠蔭。
+
+EVERYDAY is easier than SOMEDAY. [^3] Embrace the daily mundane activities / ordinary actions. Find the lifelong rhythm.
+
+* It's easier to _keep up_ than to _catch up_.
+* It's easier to stay _motivated_ when you have _momentums_.
+
+---
+
+[恆毅力 (Grit) = perseverance and passion for very long term goals](https://www.youtube.com/watch?v=H14bBuluwB8)
+
+* Perseverance is not a long race; it is many short races one after another.
+* Don't mistake _hustle_ for _grit_. Real grit is [finishing what you start](https://sketchplanations.com/goal-gradient-effect) when it's no longer exciting. It's important to knowing when to _grit_ and when to _[quit](The%20Art%20of%20Quitting.md)_.
+* [“Slow and steady wins the race.”](Slow%20Down%20to%20Speed%20Up.md)
+
+---
+
+# Tony Robbins' Cani Theory
+
+* Committing yourself to **Constant And Never-Ending Improvement**
+
+---
+
+See also:
+
+* [Frameworks to achieve any goals](Frameworks%20to%20achieve%20any%20goals.md)
+* [Just focus on the next decision](Just%20focus%20on%20the%20next%20decision.md)
+* [The Compounding Effect](The%20Compounding%20Effect.md)
+* [Journey over destination](Journey%20over%20destination.md)
+* [The Growth Mindset](The%20Growth%20Mindset.md)
+
+[^1]: 我不怕練一萬種拳的人，但我怕一種拳練一萬次的人。
+[^2]: The only dangerous competitors are the hyper-focused ones.
+[^3]: Every day is easier than most days.
