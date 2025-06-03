@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:50
-modified: 2025-06-01T15:29:23
+modified: 2025-06-01T20:19:47
 ---
 
 # Ingredients
@@ -18,4 +18,4 @@ modified: 2025-06-01T15:29:23
 
 ### See Also
 
-* [[../How to make your own energy bars|How to make your own energy bars]]
+* [[How to make your own energy bars]]

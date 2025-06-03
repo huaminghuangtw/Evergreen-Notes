@@ -1,11 +1,13 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-01T15:29:24
+modified: 2025-06-03T19:39:15
 ---
 
 > _“Kindness is a language which the deaf can hear and the blind can see.” — Mark Twain_
 
-> *“Kindness is as important as knowledge.” — Megan Smith
+> _“Kindness is as important as knowledge.” — Megan Smith_
+
+> _[“Kindness is universal. Sometimes being kind allows others to see the goodness in humanity through you. Always be kinder than necessary.” — Germany Kent](https://www.goodreads.com/quotes/8455116-kindness-is-universal-sometimes-being-kind-allows-others-to-see)_
 
 > _“Treat everyone with politeness and kindness, not because they are nice, but because you are.” — Roy T. Bennett, The Light in the Heart_
 >

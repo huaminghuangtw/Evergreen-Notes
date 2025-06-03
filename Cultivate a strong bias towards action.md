@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-01T15:29:23
+modified: 2025-06-03T19:45:21
 ---
 
 > _“To be is to do.” — Immanuel Kant_
@@ -129,6 +129,7 @@ There is no later, because later you'll be dead.
 * Information is abundant, action is hard. Execution is everything.
 * Ideas are easy. It's the execution of ideas that really separates the sheep from the goats.
 * EXECUTION is more important than the tactic itself.
+* Knowledge is as essential to life as air, and just as no one should be denied access to air, knowledge too should be freely available to all. However, like air that must be breathed to sustain life, **knowledge only becomes truly valuable when it is applied—merely possessing it is not enough.**
 
 ---
 
