@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-01T15:29:23
+modified: 2025-06-04T13:05:52
 ---
 
 > _“It is by going down into the abyss that we recover the treasures of life. Where you stumble, there lies your treasure.” — Joseph Campbell_

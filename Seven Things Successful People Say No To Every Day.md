@@ -1,6 +1,6 @@
 ---
 created: 2024-12-10T14:18:26
-modified: 2025-06-01T15:29:24
+modified: 2025-06-04T13:05:52
 ---
 
 1. They say no to opportunities and things that don't excite them, speak to their values, or further their mission in life.

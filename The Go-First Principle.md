@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-01T15:29:24
+modified: 2025-06-04T13:05:52
 ---
 
 > _“I always say that I'll go first. That means if I'm checking out at the store, I'll say hello first. If I'm coming across somebody and make eye contact, I'll smile first. \[I wish\] people would experiment with that in their life a little bit. Be first, because – not all times, but most times – it comes in your favor.” — Olympic champion Gabby Reece_

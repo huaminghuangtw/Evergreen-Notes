@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-01T15:29:24
+modified: 2025-06-04T13:05:52
 ---
 
 Breaking your day into “snackable” 30-minute chunks/bites could help boost [productivity](Productivity.md)

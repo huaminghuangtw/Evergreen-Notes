@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-01T15:29:23
+modified: 2025-06-04T13:05:52
 ---
 
 > _“Victory is in having done your best. If you've done your best, you've won.” — Billy Bowerman_

@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-06-01T15:29:24
+modified: 2025-06-04T13:05:52
 ---
 
 > _“A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. (樂觀的人看見問題背後的機會，悲觀的人看見機會背後的問題。)” — Winston Churchill_

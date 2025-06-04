@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:50
-modified: 2025-06-01T15:29:23
+modified: 2025-06-04T19:59:40
 ---
 
 [Oat](Oat.md) (100g)
@@ -9,11 +9,13 @@ modified: 2025-06-01T15:29:23
 
 * Ingredients
 	* Cacao Powder (5g)
-	* Dates * 2-3
+	* Dates × 2–3
 	* Cinnamon
 	* Salt
 	* Banana
-	* Almond (nuts \& sliced)
+	* 長壽果或核桃
+	* (Greek) Yogurt
+	* Chia seeds
 	* [Raw honey](Raw%20honey.md)
 * Tips
 	* Microwave Timer: 4 minutes
@@ -22,7 +24,6 @@ modified: 2025-06-01T15:29:23
 
 * Ingredients
 	* (Same as above)
-	* Chia Seeds
 	* Whey Protein Powder
 	* Frozen Berries
 * Tips

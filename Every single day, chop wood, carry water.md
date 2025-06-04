@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-01T15:29:23
+modified: 2025-06-04T20:09:16
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -132,4 +132,4 @@ See also:
 
 [^1]: 我不怕練一萬種拳的人，但我怕一種拳練一萬次的人。
 [^2]: The only dangerous competitors are the hyper-focused ones.
-[^3]: Every day is easier than most days.
+[^3]: Every day (_identity_) is easier than most days (_negotiation_).

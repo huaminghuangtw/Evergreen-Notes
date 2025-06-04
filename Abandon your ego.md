@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-01T15:29:23
+modified: 2025-06-04T19:04:33
 ---
 
 > _“Showing off is the fool's idea of glory.” — Bruce Lee_
@@ -68,10 +68,12 @@ One of the great mistakes in life is suffering for years because you didn't want
 
 ---
 
-# #TODO [David Foster Wallace’s Commencement Speech “This Is Water”](https://fs.blog/david-foster-wallace-this-is-water/)
+# #TODO [David Foster Wallace’s Commencement Speech “This Is Water”](https://fs.blog/david-foster-wallace-this-is-water/) [^1]
 
 ---
 
 See also:
 
 * [The Beginner Mindset](The%20Beginner%20Mindset.md)
+
+[^1]: [The Speech That Changed How I See the World \| The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-speech-that-changed-how-i-see-the-world)
