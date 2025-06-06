@@ -1,6 +1,6 @@
 ---
 created: 2025-03-06T21:49:43
-modified: 2025-06-04T13:05:52
+modified: 2025-06-06T06:50:46
 ---
 
 [Resistance](https://stevenpressfield.com/home/) is an [internal force](Limbic%20Friction.md) that prevents us from doing the work we're meant to do. It can be categorized as [fear](fear.md), [procrastination](Procrastination.md), self-doubt, [self-sabotage](Push%20your%20limits.md), [distraction](Being%20indistractable%20is%20superpower.md), arrogance, [perfectionism](perfectionism.md), and rationalization.

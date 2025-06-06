@@ -1,6 +1,6 @@
 ---
 created: 2024-12-15T22:10:18
-modified: 2025-06-04T13:05:52
+modified: 2025-06-06T06:50:46
 ---
 
 **Loving Kindness Meditation (LKM)** is a mindfulness practice that focuses on cultivating goodwill, universal friendliness, and wishing well toward oneself and others.

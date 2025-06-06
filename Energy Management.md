@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-04T13:05:52
+modified: 2025-06-06T06:50:46
 ---
 
 > _["Your energy is currency. Spend it well. Invest it wisely. Use it Intentionally, consistently, and by your own design." — Adrienne Bosh](https://x.com/MrsAdrienneBosh/status/988908563232796672)_

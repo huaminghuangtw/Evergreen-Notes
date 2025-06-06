@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:50
-modified: 2025-06-04T13:05:52
+modified: 2025-06-06T06:50:46
 ---
 
 Let's say you woke up 10 years from now and were living your ideal life in the future.

@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-06-04T13:05:52
+modified: 2025-06-06T06:50:46
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](Stay%20curious.md) is key.
@@ -150,26 +150,3 @@ In the context of our example: _I will embody the state of being of a fulfilled 
 [@nguyenDontBelieveEverything2024]
 
 “Once we become aware of the fact that we are only feeling what we're thinking and that thinking is the root cause of our unpleasant experience, we see it for what it truly is. Then we allow it to settle by giving it space, and slowly we will see how we begin to have a clear mind again.”
-
-“Thought is not reality; yet it is through thought that our realities are created.”
-
-“It's not about the events that happen in our lives, but our interpretation of them, which causes us to feel good or bad about something.”
-
----
-
-# [Develop a “choose to / get to” mindset rather than a “have to” mindset](https://seths.blog/2008/09/get-to-vs-have/)
-
-* Level 1: “Why do I have to do this?”
-* Level 2: “I choose to do this.”
-* Level 3: “I get to do this.”
-* Level 4: “I'm blessed to do this.”
-
----
-
-See also:
-
-* [Overthinking](Overthinking.md)
-* [visualization](visualization.md)
-* [adaptability](adaptability.md)
-
-[^1]: The **RAS** is a network of neurons in the brainstem that acts as a filter for information. It prioritizes what's important based on what you frequently think about.

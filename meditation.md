@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-04T13:05:52
+modified: 2025-06-06T06:50:46
 ---
 
 > _“Meditation is all about the pursuit of nothingness. It's like the ultimate rest. It's better than the best sleep you've ever had. It's a quieting of the mind. It sharpens everything, especially your appreciation of your surroundings. It keeps life fresh.” — Hugh Jackman_
