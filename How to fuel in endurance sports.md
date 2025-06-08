@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:50
-modified: 2025-06-06T06:53:41
+modified: 2025-06-07T17:38:54
 ---
 
 Put [maltodextrin (glucose) powder](../Maltodextrin.md) in a long effervescent tablet tube

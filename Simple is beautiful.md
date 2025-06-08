@@ -1,6 +1,6 @@
 ---
 created: 2025-02-21T16:42:30
-modified: 2025-06-06T06:50:46
+modified: 2025-06-07T17:38:55
 ---
 
 > _”Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it's worth it in the end because once you get there, you can move mountains.” — Steve Jobs_

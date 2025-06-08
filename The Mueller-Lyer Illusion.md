@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-06-06T06:50:46
+modified: 2025-06-07T17:38:54
 ---
 
 = Cognitive Illusion by Daniel Kahneman

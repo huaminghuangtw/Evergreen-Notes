@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-06T06:50:46
+modified: 2025-06-07T17:38:55
 ---
 
 > _“The real price of everything, what everything really costs to the man who wants to acquire it, is the toil and trouble of acquiring it.” ― Adam Smith, The Wealth of Nations_

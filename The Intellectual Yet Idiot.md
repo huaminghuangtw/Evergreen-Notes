@@ -1,6 +1,6 @@
 ---
 created: 2025-04-12T10:48:27
-modified: 2025-06-06T06:50:46
+modified: 2025-06-07T17:38:54
 ---
 
 [By Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Skin_in_the_Game_(book)#Intellectual_Yet_Idiot)

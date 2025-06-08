@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-06T06:50:46
+modified: 2025-06-07T17:38:54
 ---
 
 > _“Difficulties strengthen the mind, as labor does the body.” — Seneca_

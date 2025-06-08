@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-06T06:50:46
+modified: 2025-06-07T17:38:55
 ---
 
 > _“NO is the basic tool of the logic system. YES is the basic tool of the belief system. PO is the basic tool of the creative system.” — Edward de Bono_

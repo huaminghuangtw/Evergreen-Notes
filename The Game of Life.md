@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-06T06:50:46
+modified: 2025-06-07T17:38:55
 ---
 
 > _[The reason to play the game is to be free of it.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)_

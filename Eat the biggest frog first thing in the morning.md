@@ -1,11 +1,13 @@
 ---
 created: 2024-12-04T17:55:24
-modified: 2025-06-06T06:50:46
+modified: 2025-06-07T17:38:55
 ---
 
 > _“Do one thing every day that scares you.” — Eleanor Roosevelt_
 
 > _“If it's your job to eat a frog, it's best to do it first thing in the morning. And if it's your job to eat two frogs, it's best to eat the biggest one first.”_
+
+> _“The key is not to [prioritize](Prioritization.md) what's on your schedule, but to schedule your priorities.” — Stephen Covey_
 
 > _[“If you don't prioritize, everything seems urgent and important. If you define the single most important task for each day, almost nothing seems urgent or important. Oftentimes, it's just a matter of letting (fires burn/) small little bad things happen (e.g., return a phone call late and apologize, pay a small late fee, lose an unreasonable customer, etc.) to get the big important things done. The answer to overwhelm is not spinning more plates—or doing more—it's defining the few things that can really fundamentally change your business and life.” — Tim Ferriss](https://x.com/tferriss/status/1674772152589996034)_ [^1]
 

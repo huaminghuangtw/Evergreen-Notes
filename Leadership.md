@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-06-06T06:50:46
+modified: 2025-06-07T17:38:55
 ---
 
 > _“The greatest sign of success for a teacher is to be able to say, 'The children are now working as if I did not exist.' But this holds true for leadership in general—give people space and they flourish.” — Maria Montessori_
