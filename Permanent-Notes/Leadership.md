@@ -1,7 +1,11 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-06-08T11:00:15
+modified: 2025-06-12T08:01:01
 ---
+
+> _“To lead people, walk beside them.” — Lao Tzu_
+
+> _[“The way to help someone is not to critique what makes them smaller, but to encourage what makes them larger.” — James Clear](https://jamesclear.com/3-2-1/march-20-2025)_
 
 > _“The greatest sign of success for a teacher is to be able to say, 'The children are now working as if I did not exist.' But this holds true for leadership in general—give people space and they flourish.” — Maria Montessori_
 

@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:50
-modified: 2025-06-07T17:38:54
+modified: 2025-06-12T08:01:01
 ---
 
 Plantar Fasciitis (足底筋膜炎) = 跑者足 (Jogger's Heel) is the inflammation of the plantar fascia

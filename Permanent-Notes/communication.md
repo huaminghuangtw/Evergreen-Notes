@@ -1,6 +1,10 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-07T17:38:54
+modified: 2025-06-12T08:01:01
+---
+
+[Timing influences communication. Talk about potential mistakes *before* they happen and people start looking for ways to prevent them. Talk about actual mistakes *after* they happen and people start looking for reasons to defend their actions. What do we need to be talking about now, so we can learn the lessons before we need them?](https://jamesclear.com/3-2-1/june-5-2025)
+
 ---
 
 Communication is not about saying what we think. Communication is about ensuring others hear what we mean.

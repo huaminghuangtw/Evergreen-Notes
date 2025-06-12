@@ -1,17 +1,15 @@
 ---
 created: 2025-02-20T10:08:47
-modified: 2025-06-07T17:38:55
+modified: 2025-06-12T08:01:01
 ---
 
 > _“Great minds discuss ideas; average minds discuss events; small minds discuss people.” — Eleanor Roosevelt_
 
+> _“When you judge another, you do not define them, you define yourself.” — Dr. Wayne Dyer_
+
 ---
 
 Do not gossip. Just don't do it.
-
----
-
-When you judge others, you do not define them; you define yourself.
 
 ---
 

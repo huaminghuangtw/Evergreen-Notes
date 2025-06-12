@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-07T17:38:54
+modified: 2025-06-12T08:01:01
 ---
 
 > _Every composer knows the anguish and despair occasioned by forgetting ideas which one had no time to write down. ― Hector Berlioz_
@@ -23,7 +23,7 @@ modified: 2025-06-07T17:38:54
 * The cost of digital storage is very cheap.
 * Our brain is made for generating/having ideas, not keeping/holding/storing them. (我們的大腦是用來作出思考和判斷的，它並不擅長用來儲存信息)
 	* ~~Keep X in mind~~, ~~Remember X~~
-	* 隨時清空/梳理大腦 (Brain Dump)，才能處理當下的思考與判斷，並檢視自己的「迷思 (myth)」和「盲點 (blind spot)」
+	* 隨時清空/梳理大腦 (Brain Dump / Cognitive Offloading)，才能處理當下的思考與判斷，並檢視自己的「迷思 (myth)」和「盲點 (blind spot)」
 
 ---
 

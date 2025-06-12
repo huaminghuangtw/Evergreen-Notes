@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:49
-modified: 2025-06-07T17:38:55
+modified: 2025-06-12T08:01:01
 ---
 
 > _“The young man knows the rules, but the old man knows the exceptions.” — Oliver Wendell Holmes, Sr._
@@ -72,6 +72,18 @@ The 3 Stages of Mastery
 ---
 
 Cutting the [Gordian knot](https://en.wikipedia.org/wiki/Gordian_Knot) (快刀斬亂麻)
+
+> **Am I trying to untie something I could just cut through?**
+
+Functional fixedness is a cognitive bias where a person is unable to see something outside of its traditional or intended function.
+
+In the case of the Gordian Knot, the fixed assumption was simple:
+
+A knot must be untied.
+
+The fixed assumption defined and limited the options of those attempting to solve the problem.
+
+Rather than being trapped, Alexander challenged the fixed assumption—metaphorically (and literally) cutting straight through it.
 
 ---
 

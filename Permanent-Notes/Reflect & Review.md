@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-07T17:38:54
+modified: 2025-06-12T08:01:01
 ---
 
 > _“Without reflection, we go blindly onour way, creating more unintended consequences, and failing to achieve anything useful.” — Margaret J. Wheatley_

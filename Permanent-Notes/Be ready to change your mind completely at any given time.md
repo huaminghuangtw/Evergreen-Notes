@@ -1,6 +1,6 @@
 ---
 created: 2024-12-04T15:59:39
-modified: 2025-06-07T17:38:55
+modified: 2025-06-12T08:01:01
 ---
 
 > _["Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in." — Alan Alda](https://www.goodreads.com/quotes/667214-your-assumptions-are-your-windows-on-the-world-scrub-them)_

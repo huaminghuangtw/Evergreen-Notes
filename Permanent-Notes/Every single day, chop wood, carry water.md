@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-07T17:38:54
+modified: 2025-06-12T08:01:01
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -101,7 +101,11 @@ Doing a thing once is nothing special. You're only a legend if you can do it bac
 
 大樹不是一夜之間就可以長出來的 — 你必須在多年前就種下樹苗，經過多年的悉心培養與照料，最後才能享受綠蔭。
 
+---
+
 EVERYDAY is easier than SOMEDAY. [^3] Embrace the daily mundane activities / ordinary actions. Find the lifelong rhythm.
+
+> _“It's easier to hold your principles 100 percent of the time than it is to hold them 98 percent of the time.” ― Clayton M. Christensen, [How Will You Measure Your Life?](https://www.goodreads.com/work/quotes/18907551)_
 
 * It's easier to _keep up_ than to _catch up_.
 * It's easier to stay _motivated_ when you have _momentums_.

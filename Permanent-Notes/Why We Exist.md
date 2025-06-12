@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-07T17:38:55
+modified: 2025-06-12T08:01:01
 ---
 
 > _“Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness.” — Leo Tolstoy_
@@ -146,6 +146,16 @@ In April of 1958, Hunter S. Thompson was 22 years old when he wrote a letter (fo
 #TODO [existential crisis](existential%20crisis.md)
 
 ---
+
+The **S.H.A.P.E. Assessment** is a self-discovery tool used primarily in Christian contexts to help individuals understand how God has uniquely designed them for service, purpose, and contribution within the church and broader community. The acronym **S.H.A.P.E.** stands for **Spiritual Gifts, Heart, Abilities, Personality,** and **Experiences**, offering a framework to discern one's unique qualities, passions, and strengths. By reflecting on these five areas, individuals can identify their God-given purpose and discover how they can best serve others meaningfully and effectively.
+
+| **Letter** | **Stands for**      | **Meaning**                                                                                 |
+| ---------- | ------------------- | ------------------------------------------------------------------------------------------- |
+| **S**      | **Spiritual Gifts** | What spiritual gifts or talents has God given you? (e.g., teaching, mercy, leadership)      |
+| **H**      | **Heart**           | What are you passionate about? What causes or activities deeply move you?                   |
+| **A**      | **Abilities**       | What natural talents, skills, or learned competencies do you have?                          |
+| **P**      | **Personality**     | How do you interact with others? Are you introverted, extroverted, structured, spontaneous? |
+| **E**      | **Experiences**     | What life experiences (good and bad) have shaped who you are today?                         |
 
 See also:
 

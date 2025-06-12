@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-07T17:38:55
+modified: 2025-06-12T08:01:01
 ---
 
 > _“Man differs from other animals in one very important respect, and that is that he has some desires which are, so to speak, infinite, which can never be fully gratified, and which would keep him restless even in Paradise.” — Bertrand Russell_

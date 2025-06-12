@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-08T11:00:16
+modified: 2025-06-12T08:01:01
 ---
 
 [@dweckMindsetNewPsychology2008]
@@ -17,7 +17,7 @@ modified: 2025-06-08T11:00:16
 
 ---
 
-持續修正，不斷嘗試、試錯，重點是積少成多、一次比一次更好的迭代/堆疊 [過程](Journey%20over%20destination.md) (like interval workouts)。
+持續修正，不斷嘗試、試錯，重點是 [積少成多、聚沙成塔](The%20Compounding%20Effect.md)、一次比一次更好的迭代/堆疊 [過程](Journey%20over%20destination.md) (like interval workouts)。
 
 ---
 

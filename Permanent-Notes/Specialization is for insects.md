@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-06-08T10:59:51
+modified: 2025-06-12T08:01:01
 ---
 
 > _“At some level, all humans are broad. We're all multivariate/multifaceted, but we get summarized in pithy ways in our lives.” — Naval Ravikant_
