@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-12T08:01:01
+modified: 2025-06-14T19:40:50
 ---
 
 **TL; DR** [A physiological response in mammals that reduces heart rate, conserves oxygen, and redirects blood to vital organs when submerged in water, especially cold water.](https://en.wikipedia.org/wiki/Diving_reflex)

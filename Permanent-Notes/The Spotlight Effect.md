@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-12T08:01:01
+modified: 2025-06-14T19:40:50
 ---
 
 > _“You have no responsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It's their mistake, not my failing.” — Richard P. Feynman_

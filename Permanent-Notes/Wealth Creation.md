@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-12T08:01:01
+modified: 2025-06-14T19:40:50
 ---
 
 Your true wealth is the quality of your [attention](attention.md). What you pay attention to—expands.

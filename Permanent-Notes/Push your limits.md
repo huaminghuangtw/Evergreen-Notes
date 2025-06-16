@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-06-12T08:01:01
+modified: 2025-06-14T19:40:50
 ---
 
 > _“Whether you think you can, or you think you can't—you're both right.” — Henry Ford_
@@ -118,7 +118,7 @@ If someone says: “That's impossible. You should understand it as: “According
 # Two Of The Biggest Impediments To Life Change
 
 * [Emotion](Emotion%20Control.md): We're all emotional creatures. We're so close to everything in our own lives that it's often hard to remove emotions from our decisions.
-* [Inaction](Cultivate%20a%20strong%20bias%20towards%20action.md): It's always easier to maintain the [status quo](status%20quo%20bias.md). It's a constant fight with yourself to take action when inaction is far less risky and painful.
+* [Inaction](Cultivate%20a%20strong%20bias%20towards%20action.md): It's always easier to maintain the [status quo](status%20quo%20bias.md) than taking action. It's a constant internal battle with yourself especially when inaction appears to be less risky and painful. Yet, when you examine the worst-case scenario, it isn't as scary as you imagined. In fact, the greatest risk lies in doing nothing at all—once you embrace taking risks, they become far less intimidating than they first seem.
 
 ---
 
