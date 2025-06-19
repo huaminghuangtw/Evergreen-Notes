@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:50
-modified: 2025-06-14T19:40:50
+modified: 2025-06-18T07:44:23
 ---
 
 > _“Show me the incentive, and I'll show you the outcome.” — Charlie Munger_

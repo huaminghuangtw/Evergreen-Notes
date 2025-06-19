@@ -1,6 +1,6 @@
 ---
 created: 2025-04-06T08:08:53
-modified: 2025-06-14T19:40:50
+modified: 2025-06-18T07:44:23
 ---
 
 The tendency to look for answers where it's easiest, rather than where they're most likely to be found.

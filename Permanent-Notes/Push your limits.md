@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-06-14T19:40:50
+modified: 2025-06-18T08:16:57
 ---
 
 > _“Whether you think you can, or you think you can't—you're both right.” — Henry Ford_
@@ -152,6 +152,8 @@ Your present circumstances don't determine where you can go; they merely determi
 ---
 
 # 後照鏡症候群 ＝ Rearview Mirror Syndrome (RMS)
+
+> _“Always focus on the front windshield and not the rear view mirror.” — Colin Powell_
 
 * 我們的潛在心理都有一面「自我設限」的後視鏡，透過這面鏡子，我們會下意識地重複依賴並複製我們過去，誤以為過去的我們就是現在的我們。這導致我們一直被過去所侷限，而限制了我們現在真正的潛力 (We mistakenly believe that _who we were is who we are_, thus limiting our true potential in the present)
 * 例如，我們想創造更好的人生，卻不知道如何「用不同於過去的方式」去改變它，而不斷地把昨天的恐懼和擔憂帶到今天。最糟糕的是，當機會來臨時，我們立刻檢視後視鏡，用過去的經驗和能力來評估自己，認為「我以前從未做過這種事」、「我還不到那個水平」，所以「我做不到」。

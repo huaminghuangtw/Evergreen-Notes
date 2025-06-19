@@ -1,6 +1,6 @@
 ---
 created: 2024-12-08T00:59:27
-modified: 2025-06-14T19:40:50
+modified: 2025-06-18T07:44:23
 ---
 
 > _“Those who look for the bad in people will surely find it.” — Abraham Lincoln*

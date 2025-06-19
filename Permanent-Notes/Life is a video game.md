@@ -1,6 +1,6 @@
 ---
 created: 2025-02-06T05:49:30
-modified: 2025-06-14T19:40:50
+modified: 2025-06-18T07:44:23
 ---
 
 > _“Think of life like a play, and it will ease your mind when you're challenged or when someone stands in your way. Told yourself they were playing a role. Every story needs a villain. So why should you waste energy being upset at the villains in your story? Instead, you could use that energy as the fuel to beat them.” — Arnold Schwarzenegger_

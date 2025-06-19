@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:50
-modified: 2025-06-14T19:40:50
+modified: 2025-06-18T16:04:22
 ---
 
 (as an elite athlete)
@@ -25,7 +25,8 @@ modified: 2025-06-14T19:40:50
 * Do high-intensity training (HIIT) in a fed state (Midday); Do low-intensity training in a fasted state (Early Morning).
 * Off-season: do training in fasted state; On-season: do training in fed state
 * Train my body to use **fat** as the main fuel source / to burn **fat** efficiently, instead of **carbs** → increase endurance performance
-* • Drink your calories while training. Don't drink your calories while not training.
+* Drink your calories while training. Don't drink your calories while not training.
+* _Macronutrients are responsible for the drive, while micronutrients take care of the efficiency of the drive._
 
 ---
 

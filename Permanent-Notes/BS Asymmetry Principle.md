@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-14T19:40:50
+modified: 2025-06-18T07:44:23
 ---
 
 * The energy required to refute bullshit is much larger than the energy required to produce it.

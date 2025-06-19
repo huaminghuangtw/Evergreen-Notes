@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-14T19:40:50
+modified: 2025-06-18T07:44:23
 ---
 
 > _[“Discipline is doing what you hate to do, but nonetheless doing it like you love it.” — Mike Tyson](https://x.com/MikeTyson/status/1051925919710027777)_

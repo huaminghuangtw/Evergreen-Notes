@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-14T19:40:50
+modified: 2025-06-18T07:44:23
 ---
 
 > _“Temperament is more important than IQ. You need reasonable intelligence, but you absolutely have to have the right temperament. Otherwise, something will snap you.” — Warren Buffett_

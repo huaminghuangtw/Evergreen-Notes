@@ -1,6 +1,6 @@
 ---
 created: 2025-02-26T16:56:29
-modified: 2025-06-14T19:40:50
+modified: 2025-06-18T07:44:23
 ---
 
 = [隧道/管窺效應](https://en.wikipedia.org/wiki/Tunnel_effect)
