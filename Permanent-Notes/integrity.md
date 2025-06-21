@@ -1,6 +1,6 @@
 ---
 created: 2025-02-03T05:30:54
-modified: 2025-06-18T07:44:23
+modified: 2025-06-21T09:56:04
 ---
 
 You are the hostage to the things you say.

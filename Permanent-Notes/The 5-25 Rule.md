@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:49
-modified: 2025-06-18T07:44:23
+modified: 2025-06-21T09:56:04
 ---
 
 > _“The difference between successful people and very successful people is that very successful people say no to almost everything.”_ — Warren Buffett

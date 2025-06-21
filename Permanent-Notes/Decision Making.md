@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-18T07:44:23
+modified: 2025-06-21T09:56:04
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -123,7 +123,7 @@ Razors
 	* When choosing two paths, choose the path that has a larger luck surface area.
 * Taleb's Surgeon
 	* If presented with two equal candidates for a role, pick the one that doesn't “look the part” / with the least amount of charisma.
-	* The uncharismatic one has got there despite their lack of charisma. The charismatic one has got there with the aid of their charisma.  
+	* The uncharismatic one has got there despite their lack of charisma. The charismatic one has got there with the aid of their charisma.
 
 ---
 

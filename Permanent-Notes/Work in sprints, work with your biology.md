@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-18T07:44:23
+modified: 2025-06-21T09:56:04
 ---
 
 > _[“If you want to operate at maximum productivity, efficiency, and creativity, you're going to work on things that you're excited about at the moment you're excited about them and accept nothing less. It is better to sit on your butt and do nothing than it is to work on things that you are not excited about.” — Naval Ravikant](https://podclips.com/c/its-better-to-do-nothing-than-work-on-something-youre-not-excited-about)_
@@ -73,7 +73,7 @@ Work like a lion. [^3] [^4] [^5] Eat like a snake. Sleep like a baby.
 
 > _“Most people in high-stress, decision-making industries are always operating at this kind of simmering six, or four, as opposed to the undulation between just deep relaxation and being at a 10. Being at a 10 is millions of times better than being at a 6. It's just in a different universe.” — Josh Waitzkin_
 
----  
+---
 
 # [More Intensity, Less Duration](https://www.inc.com/jessica-stillman/the-secret-to-happiness-at-work-less-duration-more-intensity.html)
 

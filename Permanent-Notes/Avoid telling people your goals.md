@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-18T07:44:23
+modified: 2025-06-21T09:56:04
 ---
 
 Announcing your goals can undermine your overall progress. It releases cheap dopamine and tricks your brain into thinking you've already achieved them, which will lower your motivation. Keep your goals to yourself

@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-18T07:44:23
+modified: 2025-06-21T10:46:05
 ---
 
 > _“Happiness is a state where nothing is missing.” — Naval Ravikant_

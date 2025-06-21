@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-06-18T07:44:23
+modified: 2025-06-21T09:56:04
 ---
 
 > _“The bad workouts are the most important ones. It's easy to train when you feel good, but it's crucial to show up when you don't feel like it—even if you do less than you hope. Going to the gym for 15 minutes might not improve your performance, but it reaffirms your identity. **It's not always about what happens during the workout. It's about becoming the type of person who doesn't miss workouts.**” — James Clear_

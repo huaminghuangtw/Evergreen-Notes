@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-06-18T07:44:23
+modified: 2025-06-21T09:56:04
 ---
 
 > _“At some level, all humans are broad. We're all multivariate/multifaceted, but we get summarized in pithy ways in our lives.” — Naval Ravikant_
@@ -46,7 +46,7 @@ Polymath
 ### π 型人才（Π-shaped person）
 
 * **橫的一橫**：還是一樣代表懂很多事情（廣度）。
-	
+
 * **兩條腿**：表示這個人不只在一個領域很厲害，而是在**兩個（以上）不同的領域都有深度的專業**。
 
 📌 比喻：像是一個不只數學很好，還非常會寫程式的老師，兩邊都能深入研究，也能幫大家做跨領域的事情。

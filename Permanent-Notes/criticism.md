@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:50
-modified: 2025-06-18T07:44:23
+modified: 2025-06-21T09:56:04
 ---
 
 > _“To avoid criticism, do nothing, say nothing, be nothing.” — Elbert Hubbard_
@@ -24,7 +24,7 @@ modified: 2025-06-18T07:44:23
 
 > **You:** Hi, Mara. Do you have a second?
 >
-> **Mara:** Sure. What's up?  
+> **Mara:** Sure. What's up?
 >
 > **You:** _First, I wanted to thank you for_ helping me with the Meelie Worm account [or whatever]. _I really appreciate_ you showing me how to handle that. _You're really good_ at fixing the technical issues.
 >

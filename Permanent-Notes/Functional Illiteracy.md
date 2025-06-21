@@ -1,6 +1,6 @@
 ---
 created: 2024-12-06T14:13:09
-modified: 2025-06-18T07:44:23
+modified: 2025-06-21T09:56:04
 ---
 
 [聯合國教科文組織](https://www.unesco.org/en/literacy) [^1] 重新定義新世紀的文盲標準可分為三類:

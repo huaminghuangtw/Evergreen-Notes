@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:50
-modified: 2025-06-18T07:44:23
+modified: 2025-06-21T09:56:04
 ---
 
 When exercising, follow the [Galpin Equation](https://click.convertkit-mail.com/75u92l72r2c8hko70qqf9/7qh7h8ho6pxeelf9/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1xMzdBUlluUkRHYyZ0PTI5ODlz) as a guideline for the amount of **additional** fluid you should consume

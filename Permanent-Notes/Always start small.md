@@ -1,6 +1,6 @@
 ---
 created: 2025-03-05T05:32:10
-modified: 2025-06-18T07:44:23
+modified: 2025-06-21T09:56:04
 ---
 
 > _“It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith_
@@ -38,10 +38,10 @@ Anything above zero [compounds](The%20Compounding%20Effect.md) positively
 # Don't Underestimate The Power Of 5 Good Minutes
 
 * You're always 5 good minutes away from feeling better.
-	* 5 minutes of exercise—your energy shifts.   
-	* 5 minutes of writing—your mind clears.   
-	* 5 minutes of reading—your perspective changes.   
-	* 5 minutes of breathwork—your body resets.   
+	* 5 minutes of exercise—your energy shifts. 
+	* 5 minutes of writing—your mind clears. 
+	* 5 minutes of reading—your perspective changes. 
+	* 5 minutes of breathwork—your body resets. 
 	* 5 minutes of conversation—your mood improves.
 * Whenever the day feels overwhelming and tough, try to ask yourself: _What's the best way I can spend my next 5 minutes?_
 

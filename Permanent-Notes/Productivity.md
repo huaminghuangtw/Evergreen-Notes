@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-18T07:44:23
+modified: 2025-06-21T09:56:04
 ---
 
 > _“Productivity is most important for things you don't want to be doing. Most people want to increase productivity so they can spend less time on the task. But before you worry about being more productive, think about being more selective. Rather than focusing on increasing productivity, it may be worth asking, 'What would I be delighted to spend time on, even if it went slowly?' Direct your energy toward figuring out how to start what you want to do rather than thinking about how to shorten what you don't want to do.” — James Clear_
