@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:50
-modified: 2025-06-21T09:56:04
+modified: 2025-06-22T07:57:52
 ---
 
 Steel-cut oats take 20 to 30 minutes to cook. They have a chewier texture than rolled oats. Some athletes use a crockpot to cook them overnight. Despite popular belief, steel-cut oats are nutritionally similar (notsuperior) to rolled oats.

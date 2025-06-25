@@ -1,6 +1,6 @@
 ---
 created: 2024-11-28T14:05:10
-modified: 2025-06-21T09:56:04
+modified: 2025-06-22T07:57:52
 ---
 
 > _“The scope of people's ignorance is often invisible to them. This meta-ignorance (or ignorance of ignorance) arises because lack of expertise and knowledge often hides in the realm of the “unknown unknowns” or is disguised by erroneous beliefs and background knowledge that only appear to be sufficient to conclude a right answer.” — David Dunning_

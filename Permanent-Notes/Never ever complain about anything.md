@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-21T09:56:04
+modified: 2025-06-22T07:57:52
 ---
 
 > _“If it's endurable, then endure it. Stop complaining. If it's unendurable … then stop complaining. Your destruction will mean its end as well. Just remember: you can endure anything your mind can make endurable, by treating it as in your interest to do so. In your interest, or in your nature.” — Marcus Aurelius_

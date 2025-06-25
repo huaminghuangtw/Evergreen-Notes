@@ -1,6 +1,6 @@
 ---
 created: 2024-12-08T00:37:07
-modified: 2025-06-21T09:56:04
+modified: 2025-06-22T07:57:52
 ---
 
 > _“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.” — Elie Wiesel_

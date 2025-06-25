@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:50
-modified: 2025-06-21T09:56:04
+modified: 2025-06-22T07:57:52
 ---
 
 1. The Current Path: Write out, in detail, what your life would look like 5 years from now, if you follow your current path.

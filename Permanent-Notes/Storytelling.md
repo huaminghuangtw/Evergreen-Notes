@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-21T09:56:04
+modified: 2025-06-22T07:57:52
 ---
 
 > _“Human thinking depends on metaphor. We understand new or complex things in relation to things we already know.” — Jonathan Haidt_ [^1]
