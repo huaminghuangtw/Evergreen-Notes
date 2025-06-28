@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T18:40:57
-modified: 2025-06-22T07:57:52
+modified: 2025-06-28T17:20:48
 ---
 
 > _[Live life by design, not default.](https://fs.blog/david-foster-wallace-this-is-water/) Make each day your masterpiece. How you spend your days is how you spend your life._

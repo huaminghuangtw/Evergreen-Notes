@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-22T07:57:52
+modified: 2025-06-28T17:20:48
 ---
 
 > _“Any decision that involves using a limited / the same resource like ([energy](Energy%20Management.md), [attention](attention.md), )[time](Time%20is%20the%20most%20valuable%20asset.md) or [money](money.md) will naturally result in a winner-take-all situation.” — James Clear_

@@ -1,6 +1,6 @@
 ---
 created: 2025-02-10T09:26:06
-modified: 2025-06-22T07:57:52
+modified: 2025-06-28T17:20:48
 ---
 
 * One's ability to reason more sensibly about someone else's problems than one's own

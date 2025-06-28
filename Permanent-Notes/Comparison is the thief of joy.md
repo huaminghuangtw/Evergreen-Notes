@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-22T07:57:52
+modified: 2025-06-28T17:20:48
 ---
 
 > _”Don't bother just to be better than your contemporaries or predecessors. Try to be better than yourself.” — William Faulkner_

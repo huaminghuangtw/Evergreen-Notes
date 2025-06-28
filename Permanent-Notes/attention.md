@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:50
-modified: 2025-06-22T07:57:52
+modified: 2025-06-28T17:20:48
 ---
 
 Everyone (and everything) is competing for your attention, use it wisely, you don't get the [time](Time%20is%20the%20most%20valuable%20asset.md) back! Your [energy](Energy%20Management.md) flows to where your attention goes.

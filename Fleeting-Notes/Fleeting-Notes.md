@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-06-22T07:57:52
+modified: 2025-06-28T17:20:48
 ---
 
 Remember: The answer is found in the action. What answers are hidden in the actions you avoid?
@@ -975,17 +975,14 @@ Beats Planning.
 
 The richest person isn't the one who has the most, but the one who need the least.
 
-
 ---
 
 Spiral: perceived vs actual progress
-
 
 ---
 
 Only when habits of order are formed can we advance to really interesting fields of action—and consequently accumulate grain on grain of wilful choice like a very miser—never forgetting how one link dropped undoes an indefinite number. The more of the details of our daily life we can hand over to the effortless custody of automatism, the more our higher powers of mind will be set free for their own proper work. There is no more miserable human being than one in whom nothing is habitual but indecision, and for whom the lighting of every cigar, the drinking of every cup, the time of rising and going to bed every day, and the beginning of every bit of work, are subjects of express volitional deliberation.
 
-
 ---
 
-Compare your behind-the-scenes life to others’ curated highlight reel
+Compare your behind-the-scenes life to others' curated highlight reel

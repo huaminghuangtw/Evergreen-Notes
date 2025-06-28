@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T10:16:50
-modified: 2025-06-22T07:57:52
+modified: 2025-06-28T17:20:48
 ---
 
 URL Schemes (= [Deep Linking](https://en.wikipedia.org/wiki/Deep_linking) = [x-callback-url](https://x-callback-url.com/)) is a hyperlink that links to a specific, generally searchable or indexed, piece of web content on a website (e.g., “http://example.com/path/page”), rather than the website's home page (e.g., “[http://example.com](http://example.com/)”)

@@ -1,6 +1,6 @@
 ---
 created: 2025-02-21T08:53:21
-modified: 2025-06-22T07:57:52
+modified: 2025-06-28T17:20:48
 ---
 
 A complex system that works is invariably found to have evolved from a simple system that worked.

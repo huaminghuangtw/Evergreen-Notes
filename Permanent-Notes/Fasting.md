@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-22T07:57:52
+modified: 2025-06-28T17:20:48
 ---
 
 日本生物學家大隅良典 (Yoshinori Ohsumi) 因為在細胞自噬 ([Autophagy](https://www.google.com/search?q=Autophagy)) 領域的卓越研究，於 2016 年獲得諾貝爾醫學獎

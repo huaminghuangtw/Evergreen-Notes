@@ -1,6 +1,6 @@
 ---
 created: 2024-12-13T00:22:06
-modified: 2025-06-22T07:57:52
+modified: 2025-06-28T17:20:48
 ---
 
 is a self-regulating strategy that you make beforehand about _when_ and _where_ to act. That is, _how_ you intend to implement a particular action.
