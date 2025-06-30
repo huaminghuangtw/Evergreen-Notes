@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-28T17:20:48
+modified: 2025-06-30T20:08:58
 ---
 
 * the tendency to give stronger weight to payoffs that are closer to the present time when considering trade-offs between two future moments

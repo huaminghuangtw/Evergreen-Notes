@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T10:16:50
-modified: 2025-06-28T17:20:48
+modified: 2025-06-30T20:08:58
 ---
 
  [@houselPsychologyMoneyTimeless2020]
@@ -29,7 +29,7 @@ Reasonable \> Rational
 
 * Money can only solve money problems.
 * [Money isn't nothing, it simply can't be the only thing.](https://x.com/SahilBloom/status/1870096061827854363)
-* Money doesn't buy happiness, but freedom.
+* Money doesn't buy happiness, but freedom. [^5]
 
 	[@collinsSimplePathWealth2016]
 
@@ -50,7 +50,7 @@ Don't think all poverty is due to laziness. Don't think all wealth is through ha
 # On Making Money
 
 * It's not how much money you make. It's how much you take home.
-* Use money to make more money for you [^5]
+* Use money to make more money for you [^6]
 	* “The rich get richer.”
 	* “Money begets money.”
 
@@ -63,7 +63,7 @@ Don't think all poverty is due to laziness. Don't think all wealth is through ha
 * [Consider spending money as a failure of imagination; a failure to solve problems by smarter means.](https://www.getrichslowly.org/early-retirement-extreme/)
 * [Your need for money is inversely related to your level of skill. Money buys convenience but more importantly, it compensates for lack of skill.](https://earlyretirementextreme.com/why-so-few-succeed.html)
 * [Unspent money buys something intangible but valuable: freedom, independence, autonomy, and control over your time. Every dollar of savings buys a claim check on the future.](https://collabfund.com/blog/a-few-thoughts-on-spending-money/)
-* The concept of the [Doughnut](https://www.google.com/search?q=Doughnut), as introduced by economist Kate Raworth, illustrates a balance between meeting essential human needs (_the social foundation_) and staying within planetary limits (_the ecological ceiling_). When applied to personal wealth and happiness, the Doughnut highlights a crucial insight: beyond a certain level of income—where basic needs are comfortably met—people enter a more ambiguous space of desire, where _knowing what to want_ becomes far less straightforward than _knowing what to need_. As Luke Burgis points out ,[^6] once survival is secured, people shift from necessity-driven decisions to socially influenced desires, often struggling to determine what will truly bring fulfillment.
+* The concept of the [Doughnut](https://www.google.com/search?q=Doughnut), as introduced by economist Kate Raworth, illustrates a balance between meeting essential human needs (_the social foundation_) and staying within planetary limits (_the ecological ceiling_). When applied to personal wealth and happiness, the Doughnut highlights a crucial insight: beyond a certain level of income—where basic needs are comfortably met—people enter a more ambiguous space of desire, where _knowing what to want_ becomes far less straightforward than _knowing what to need_. As Luke Burgis points out ,[^7] once survival is secured, people shift from necessity-driven decisions to socially influenced desires, often struggling to determine what will truly bring fulfillment.
 	* [The more money you have, the harder it becomes to know how to spend it in a way that will make you happy. And that confusion sets in at fairly low levels of income.](https://collabfund.com/blog/a-few-thoughts-on-spending-money/)
 * Optimize for life fulfillment/experiences, not for money-in-the-bank.
 * Don't buy “dumb things” that offer “temporary happiness.” Spend smart on the things that bring you true, long-lasting happiness.
@@ -97,7 +97,7 @@ Don't think all poverty is due to laziness. Don't think all wealth is through ha
 		* Make Money → Spend Money → Make Money → Spend Money
 		* Money more in = More money out
 			* **Lifestyle Inflation/Creep:** when your income increases, your expenses increase just as much to upgrade the quality of your life.
-* The only way to make a lot of money is to create a lot of value;[^7] The only way to make passive income is to provide value in a way that is not directly tied to your time.
+* The only way to make a lot of money is to create a lot of value;[^8] The only way to make passive income is to provide value in a way that is not directly tied to your time.
 * [True wealth is found not in attaining more, but in discovering enough.](https://x.com/SahilBloom/status/1571500995326185475)
 * Wealth = Infinite Game ↔ Status = Finite Game
 * WEALTH = Net Income + Asset Value
@@ -140,6 +140,7 @@ Don't think all poverty is due to laziness. Don't think all wealth is through ha
 [^2]: _“Being poor, for example, reduces a person's cognitive capacity more than going one full night without sleep. It is not that the poor have less bandwidth as individuals. Rather, it is that the experience of poverty reduces anyone's bandwidth.” — [@mullainathanScarcityWhyHaving2013]_
 [^3]: _[“In 58 years of Berkshire management, most of my capital-allocation decisions have been no better than so-so. [...] Our results have been the product of about a dozen truly good decisions.” — Warren Buffett](https://www.inc.com/bill-murphy-jr/warren-buffett-says-success-in-life-comes-down-to-just-12-really-good-decisions-heres-your-checklist.html)_
 [^4]: _[“When you see someone driving a nice car, you rarely think, “Wow, the guy driving that car is cool.” Instead, you think, “Wow, if I had that car people would think I’m cool.” Subconscious or not, this is how people think.”](https://www.goodreads.com/quotes/11049281-when-you-see-someone-driving-a-nice-car-you-rarely)_
-[^5]: In contrast, borrowing money creates [debt’s vicious cycle](https://sketchplanations.com/debts-vicious-cycle), leading to financial strain and growing interest payments that can be difficult to escape.
-[^6]: “[After meeting our basic needs as creatures, we enter into the human universe of desire. And knowing what to want is much harder than knowing what to need.](https://www.amazon.com/Wanting-Power-Mimetic-Desire-Everyday/dp/1250262488)”
-[^7]: [No one hands out money. No one is going to pay you just because they like you or think you're cool. That's not the way the world works. Money earned is a direct byproduct of value created—and that value is a direct byproduct of your service of others. It's not talking about the thing, it's not brainstorming about the thing, it's not asking about the thing, it's not thinking about the thing. The only way to create value is by doing the thing. Identify a problem, create a solution, scale the solution. Simple, not easy.](https://x.com/SahilBloom/status/1878069357760156057)
+[^5]: [“What's the point of having f\*ck you money if you never say f\*ck you?”](https://www.youtube.com/shorts/upfyoQdc_r4)
+[^6]: In contrast, borrowing money creates [debt’s vicious cycle](https://sketchplanations.com/debts-vicious-cycle), leading to financial strain and growing interest payments that can be difficult to escape.
+[^7]: “[After meeting our basic needs as creatures, we enter into the human universe of desire. And knowing what to want is much harder than knowing what to need.](https://www.amazon.com/Wanting-Power-Mimetic-Desire-Everyday/dp/1250262488)”
+[^8]: [No one hands out money. No one is going to pay you just because they like you or think you're cool. That's not the way the world works. Money earned is a direct byproduct of value created—and that value is a direct byproduct of your service of others. It's not talking about the thing, it's not brainstorming about the thing, it's not asking about the thing, it's not thinking about the thing. The only way to create value is by doing the thing. Identify a problem, create a solution, scale the solution. Simple, not easy.](https://x.com/SahilBloom/status/1878069357760156057)

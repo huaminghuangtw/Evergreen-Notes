@@ -1,6 +1,6 @@
 ---
 created: 2025-05-03T05:29:44
-modified: 2025-06-28T17:20:48
+modified: 2025-06-30T20:08:58
 ---
 
 ≈ Energy/Power Balls
@@ -60,6 +60,8 @@ modified: 2025-06-28T17:20:48
 ## Ingredients
 
 * Soft pitted dates (椰棗), soaked in hot water for 10 minutes
+	* 高糖分、能快速補充能量，是天然的甜味來源
+	* 富含纖維與「鉀」，有助腸道與心血管健康
 * Kidney beans
 * Cacao powder
 * Peanut butter (or coconut/avocado oil)

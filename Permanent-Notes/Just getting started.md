@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-28T17:20:48
+modified: 2025-06-30T20:08:58
 ---
 
 > _“Start before you're ready. Don't prepare. Begin. Don't think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
@@ -14,6 +14,12 @@ modified: 2025-06-28T17:20:48
 > _[“Whether a decision is good or bad can change based on how you act after the choice is made. **You can't learn all the lessons beforehand.** You learn a lot about what you want in a marriage after getting married. You discover what type of career you enjoy after doing a lot of work. And so it goes in nearly every area of life. In many cases, what you wish you knew ahead of time can only be learned after the decision is made.” — James Clear](https://jamesclear.com/3-2-1/february-13-2025)_
 
 > _[“You can act your way into feeling long before you can feel your way into action. If you wait until you feel like doing something, you will likely never accomplish it.” ― John C. Maxwell, How Successful People Think: Change Your Thinking, Change Your Life](https://www.goodreads.com/quotes/1158022-you-can-act-your-way-into-feeling-long-before-you)_
+
+---
+
+Start before you feel ready, avoid _chicken-and-egg_ — a situation where you feel stuck because **you believe you need X to do Y, but also need Y to get X**. Like the classic paradox: _Which came first, the chicken or the egg?_
+
+Don't wait until everything is perfectly prepared or until you feel completely “ready” — because if you do, you might **never start**. You'll get trapped in a loop of “_I need experience to start, but I need to start to get experience._”
 
 ---
 

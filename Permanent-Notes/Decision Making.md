@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-28T17:20:48
+modified: 2025-06-30T20:08:58
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -50,12 +50,12 @@ modified: 2025-06-28T17:20:48
 
 **[Two types of decisions](Jeff%20Bezos'%20letter%20to%20Amazon%20shareholders%201997.md)**
 
-|     Type I      |    Type II     |
-| :-------------: | :------------: |
-| One-directional | Bi-directional |
-|  One-way door   |  Two-way door  |
-|  Irreversible   |   Reversible   |
-|    三思而後行     |    三行而後思    |
+|     Type I      |                           Type II                            |
+| :-------------: | :----------------------------------------------------------: |
+| One-directional |                        Bi-directional                        |
+|  One-way door   |                         Two-way door                         |
+|  Irreversible   |                          Reversible                          |
+|      三思而後行      | [三行而後思](Cultivate%20a%20strong%20bias%20towards%20action.md) |
 
 ---
 

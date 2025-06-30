@@ -1,6 +1,6 @@
 ---
 created: 2024-12-04T15:59:39
-modified: 2025-06-28T17:20:48
+modified: 2025-06-30T20:08:58
 ---
 
 > _["Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in." — Alan Alda](https://www.goodreads.com/quotes/667214-your-assumptions-are-your-windows-on-the-world-scrub-them)_
@@ -20,6 +20,12 @@ modified: 2025-06-28T17:20:48
 二極體的特性是只有兩極，就像世間事物常被簡化為對與錯、黑與白、是與非。然而，世界並不是如此非黑即白地簡單。如果可以那倒輕鬆了些。但事實上，世事更像一條光譜。正如股癌在《[灰階思考](https://www.books.com.tw/products/0010888435)》中所提到的: 「零到一之間，有無限個數字；黑與白之間，也有無限個灰階。」
 
 這種思考方式提醒我們，絕大多數問題其實存在更多層次與 [可能性](probabilistic%20thinking.md)，值得我們跳脫二元框架，以更開放的視角探索世界的多樣性與複雜性。
+
+> _“There are no differences but differences of degree between different degrees of difference and no difference.” — William James_
+
+* He's highlighting that **all distinctions we make are relative** and lie on a **spectrum**. There's rarely a true **binary** (either/or); most things are **more or less**, **not/not-at-all**, **slightly/somewhat/extremely** different rather than **entirely different**.
+* This idea aligns with **James' pragmatism**, where the _value_ or _truth_ of a concept comes from its practical effect, and where sharp boundaries are often illusions created by language or perception.
+* In short, William James is pointing out that **apparent differences** (even between difference and no difference) are usually **quantitative, not qualitative**—and our perception of sharp boundaries is often an illusion.
 
 See also: [Duality versus Polarity](Duality%20versus%20Polarity.md)
 

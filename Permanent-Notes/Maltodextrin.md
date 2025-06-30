@@ -1,6 +1,6 @@
 ---
 created: 2025-06-06T04:04:14
-modified: 2025-06-28T17:20:48
+modified: 2025-06-30T20:08:58
 ---
 
 Maltodextrin is useful for endurance athletes like cyclists, as it is a fast-digesting carbohydrate with a high glycemic index, providing quick energy during prolonged exercise (like long rides) or aiding post-workout glycogen recovery.

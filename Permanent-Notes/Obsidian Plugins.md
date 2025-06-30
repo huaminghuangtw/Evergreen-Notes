@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-28T17:20:48
+modified: 2025-06-30T20:08:58
 ---
 
 <https://www.reddit.com/r/Anki/comments/16ttr4w/what_are_the_essential_anki_addons_for_effective/>

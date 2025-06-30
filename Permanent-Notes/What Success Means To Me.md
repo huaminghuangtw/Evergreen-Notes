@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-28T17:20:48
+modified: 2025-06-30T20:08:58
 ---
 
 > _[“Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable. And you're the only one that will know that.” — John Wooden](https://www.youtube.com/watch?v=JWQIxuNGdvQ&t=95s)_
@@ -51,6 +51,10 @@ modified: 2025-06-28T17:20:48
 ---
 
 > _[“Over the years, I have come to realize that the greatest trap in our life is not success, popularity, or power, but self-rejection. Success, popularity, and power can indeed present a great temptation, but their seductive quality often comes from the way they are part of the much larger temptation to self-rejection. When we have come to believe in the voices that call us worthless and unlovable, then success, popularity, and power are easily perceived as attractive solutions. The real trap, however, is self-rejection. As soon as someone accuses me or criticizes me, as soon as I am rejected, left alone, or abandoned, I find myself thinking, "Well, that proves once again that I am a nobody." ... [My dark side says,] I am no good... I deserve to be pushed aside, forgotten, rejected, and abandoned. Self-rejection is the greatest enemy of the spiritual life because it contradicts the sacred voice that calls us the "Beloved." Being the Beloved constitutes the core truth of our existence.” — Henri J.M. Nouwen](https://www.goodreads.com/quotes/230436-over-the-years-i-have-come-to-realize-that-the)_
+
+---
+
+[The Trap of Success: Success leads to freedom.](https://www.sahilbloom.com/newsletter/the-trap-of-success-how-to-escape-it)
 
 [^1]: is the exclusive group/circle to which people are drown to and want to belong throughout their lives.
 [^2]: [If you define success on the basis of comparison to others, you will never feel successful. _The only way to feel successful is to create your own definition of success, rather than consenting to one that was handed to you._](https://www.sahilbloom.com/newsletter/13-harsh-truths-about-success-nobody-told-you)

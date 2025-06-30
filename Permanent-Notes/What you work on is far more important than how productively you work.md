@@ -1,6 +1,6 @@
 ---
 created: 2025-02-04T06:34:16
-modified: 2025-06-28T17:20:48
+modified: 2025-06-30T20:08:58
 ---
 
 > _“If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster.” — Stephen R. Covey_

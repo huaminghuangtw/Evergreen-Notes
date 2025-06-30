@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-28T17:20:48
+modified: 2025-06-30T20:08:58
 ---
 
 It is found by pursuing your genuine curiosity on [multiple skillsets](Specialization%20is%20for%20insects.md).

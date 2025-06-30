@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-28T17:20:48
+modified: 2025-06-30T20:08:58
 ---
 
 > _[“Not wanting something is as good as having it.” — Naval Ravikant](https://www.youtube.com/watch?v=KyfUysrNaco&t=33s)_

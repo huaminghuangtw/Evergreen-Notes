@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T18:40:57
-modified: 2025-06-28T17:20:48
+modified: 2025-06-30T20:08:58
 ---
 
 > _“School is one thing. Education is another. The two don't always overlap. Whether you're in school or not, it's always your job to get yourself an education.” — Austin Kleon_

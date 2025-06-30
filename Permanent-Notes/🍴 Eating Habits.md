@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:50
-modified: 2025-06-28T17:20:48
+modified: 2025-06-30T20:08:58
 ---
 
 Eating Better
@@ -188,9 +188,16 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 * 低溫涼拌: 橄欖油
 	* Avoid anything under 10 euro/L since it's unlikely to be decent
 * 好油
-	* 紫蘇油、苦茶油、Leinöl 亞麻油 (Flaxseed Oil)、MCT 油
+	* 紫蘇油
+	* 苦茶油（茶籽油）
+		* 是一種從山茶樹種子中榨取的植物油。它是東亞地區（特別是中國南方、台灣）傳統常用的食用油，具有淡金黃色、氣味清香的特徵。茶籽油的煙點高、穩定性佳，適合炒、煎、拌等各種烹調方式，並因富含單元不飽和脂肪酸（如油酸）、維生素 E 與天然抗氧化物，被視為健康油品之一。在民間還常被用於潤膚、護髮或坐月子料理，是兼具營養與保健價值的天然植物油。
+	* 亞麻油 (= Leinöl = Flaxseed Oil)
+	* MCT 油
 * 壞油
-	* 棕櫚油、葵花油、菜籽油、大豆花生油
+	* 棕櫚油
+	* 葵花油
+	* 菜籽油
+	* 大豆花生油
 * No seed oil!!! (盡量減少品質不好的精煉植物油)
 * Myths
 	* 飽和油脂 (低溫下會凝固) 是好的
