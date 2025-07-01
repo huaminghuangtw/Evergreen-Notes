@@ -1,7 +1,9 @@
 ---
 created: 2025-06-06T04:04:14
-modified: 2025-06-30T20:08:58
+modified: 2025-07-01T11:36:43
 ---
+
+麥芽糊精是一種從「澱粉（多為玉米、小麥、馬鈴薯或米）水解」而來的多醣類，外觀通常為白色粉末，是運動飲料中的主要能量來源。
 
 Maltodextrin is useful for endurance athletes like cyclists, as it is a fast-digesting carbohydrate with a high glycemic index, providing quick energy during prolonged exercise (like long rides) or aiding post-workout glycogen recovery.
 

@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-30T20:08:58
+modified: 2025-06-30T20:22:43
 ---
 
 > _“Man is what he reads.” — Joseph Brodsky_
@@ -50,7 +50,7 @@ modified: 2025-06-30T20:08:58
 * Prefer “audiobooks” over “physical books”
 	* Listening is a better way to read
 * Use information dense areas [^1] or sight words [^2] to fill/prime your brain with the relevant context/patterns
-* When you read something helpful, write to the author—a simple act that can yield meaningful results. By expressing your appreciation, you foster **real human connection**, reminding the creator that their work matters. This small gesture also helps **reinforce your learning**, as explaining why something resonated deepens understanding. Additionally, it can **open doors** to potential mentorships, collaborations, or friendships. Because most readers remain silent, your gratitude will be **rare—and memorable**. Whether it’s a bestselling writer or a niche blogger, reaching out strengthens a culture of appreciation and may spark unexpected opportunities.
+* When you read something helpful, write to the author—a simple act that can yield meaningful results. By expressing your appreciation, you foster **real human connection**, reminding the creator that their work matters. This small gesture also helps **reinforce your learning**, as explaining why something resonated deepens understanding. Additionally, it can **open doors** to potential mentorships, collaborations, or friendships. Because most readers remain silent, your gratitude will be **rare—and memorable**. Whether it's a bestselling writer or a niche blogger, reaching out strengthens a culture of appreciation and may spark unexpected opportunities.
 * Read summary on…
 	* Wikipedia Page
 	* Amazon Book Reviews
