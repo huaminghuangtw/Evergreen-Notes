@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-30T20:08:58
+modified: 2025-07-02T10:40:18
 ---
 
 > _“One's own dharma performed imperfectly is better than another's dharma well performed…It is better to strive in one's own dharma than to succeed in the dharma of another.” — Bhagavad Gita_

@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T10:16:50
-modified: 2025-06-30T20:08:58
+modified: 2025-07-02T10:40:18
 ---
 
 **From “writing articles/posts in a traditional blogging sense” to “planting a digital garden”**

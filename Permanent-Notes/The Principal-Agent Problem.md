@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:49
-modified: 2025-06-30T20:08:58
+modified: 2025-07-02T10:40:18
 ---
 
 * [Principal–agent problem - Wikipedia](https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem)

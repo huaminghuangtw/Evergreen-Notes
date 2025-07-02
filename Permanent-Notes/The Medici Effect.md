@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-30T20:08:58
+modified: 2025-07-02T10:40:18
 ---
 
 Increased [creativity](Creativity%20is%20just%20connecting%20things.md) and [innovation](Innovation.md) occurs through diversity and intersectionality

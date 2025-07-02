@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:04:18
-modified: 2025-06-30T20:08:58
+modified: 2025-07-02T10:40:18
 ---
 
 > _“Resilience is not what happens to you. It's how you [react to, respond to](Choose%20your%20response.md), and recover from what happens to you.” — Jeffrey Gitomer_

@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-30T20:08:58
+modified: 2025-07-02T10:40:18
 ---
 
 > _“Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power.” — Lao Tzu, Tao Te Ching_

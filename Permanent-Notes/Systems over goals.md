@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-30T20:08:58
+modified: 2025-07-02T10:40:18
 ---
 
 > _“You don't rise to the level of your goals. You fall to the level of your systems. Your goal is your desired outcome. Your system is the collection of daily habits that will get you there.” — James Clear_ [^1]

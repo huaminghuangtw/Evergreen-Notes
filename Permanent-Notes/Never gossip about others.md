@@ -1,6 +1,6 @@
 ---
 created: 2025-02-20T10:08:47
-modified: 2025-06-30T20:08:58
+modified: 2025-07-02T10:40:18
 ---
 
 > _“Great minds discuss ideas; average minds discuss events; small minds discuss people.” — Eleanor Roosevelt_

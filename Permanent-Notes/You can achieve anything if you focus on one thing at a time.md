@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-30T20:08:58
+modified: 2025-07-02T10:40:18
 ---
 
 > _[“The only way to gain enough efficiency to complete The Art of Computer Programming is to operate in batch mode, concentrating intensively and uninterruptedly on one subject at a time, rather than swapping a number of topics in and out of my head.” — Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/retd.html)_

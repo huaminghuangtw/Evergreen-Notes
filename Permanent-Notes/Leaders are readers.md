@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-06-30T20:22:43
+modified: 2025-07-02T10:40:18
 ---
 
 > _“Man is what he reads.” — Joseph Brodsky_

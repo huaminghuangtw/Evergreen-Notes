@@ -1,6 +1,6 @@
 ---
 created: 2025-05-28T19:55:37
-modified: 2025-06-30T20:08:58
+modified: 2025-07-02T10:40:18
 ---
 
 * Satir Model = 薩提爾模式 = 薩提爾的對話練習 = 薩提爾冰山理論 (Iceberg Theory)
