@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“It is not that we have too little time to do all the things we need to do, it is that we feel the need to do too many things in the time we have.” — Gary Keller_
@@ -15,6 +15,6 @@ The nature of human motivation is about [pursuing pleasure](Dopamine.md) and avo
 
 ---
 
-See also:
+### See Also
 
 * [energy management](Energy%20Management.md)

@@ -1,6 +1,6 @@
 ---
 created: 2024-12-08T00:37:07
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.” — Elie Wiesel_
@@ -13,9 +13,9 @@ modified: 2025-07-02T10:40:18
 
 ---
 
-From [Empathy](Empathy.md) To Apathy [^1] [@hortensiusEmpathyApathyBystander2018]
+# From [Empathy](Empathy.md) To Apathy [^1] [@hortensiusEmpathyApathyBystander2018]
 
-**[Explanation](https://www.reddit.com/r/quotes/comments/9vhxto/the_opposite_of_love_is_not_hate_its_indifference/)**
+## [Explanation](https://www.reddit.com/r/quotes/comments/9vhxto/the_opposite_of_love_is_not_hate_its_indifference/)**
 
 > Darkness is the absence of light. Cold is the absence of heat. Going on with this will make one logically conclude that evil is the absence of good.
 >
@@ -23,7 +23,9 @@ From [Empathy](Empathy.md) To Apathy [^1] [@hortensiusEmpathyApathyBystander2018
 >
 > In conclusion, the opposite of any positive thing is indifference, while hate, ugliness, heresy, death, etc, are just examples of outcomes of indifference.
 
-See also: [Duality versus Polarity](Duality%20versus%20Polarity.md)
+### See Also
+
+* [Duality versus Polarity](Duality%20versus%20Polarity.md)
 
 ---
 
@@ -35,7 +37,7 @@ Even if we can't fix everything, we should always speak up and tell others when 
 
 ---
 
-See also:
+### See Also
 
 * [The Drowning Child in the Pond](The%20Drowning%20Child%20in%20the%20Pond.md)
 * [The Bystander Effect](The%20Bystander%20Effect.md)

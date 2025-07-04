@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _[The reason to play the game is to be free of it.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)_
@@ -52,7 +52,7 @@ modified: 2025-07-02T10:40:18
 
 ---
 
-See also:
+### See Also
 
 * [Work smart](Work%20smart.md)
 * [Escape competition through authenticity](Escape%20competition%20through%20authenticity.md)

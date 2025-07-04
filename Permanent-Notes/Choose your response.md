@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“It is the set of the sails, not the direction of the wind that determines which way we will go.” — Jim Rohn_
@@ -72,7 +72,7 @@ Most people don't stop at the first arrow. They fire a second one at themselves.
 
 ---
 
-See also:
+### See Also
 
 * [A true transformation begins with a mental shift](A%20true%20transformation%20begins%20with%20a%20mental%20shift.md)
 * [Peace from mind](Peace%20from%20mind.md)

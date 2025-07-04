@@ -1,6 +1,6 @@
 ---
 created: 2024-12-04T15:59:39
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _["Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in." — Alan Alda](https://www.goodreads.com/quotes/667214-your-assumptions-are-your-windows-on-the-world-scrub-them)_
@@ -27,7 +27,9 @@ modified: 2025-07-02T10:40:18
 * This idea aligns with **James' pragmatism**, where the _value_ or _truth_ of a concept comes from its practical effect, and where sharp boundaries are often illusions created by language or perception.
 * In short, William James is pointing out that **apparent differences** (even between difference and no difference) are usually **quantitative, not qualitative**—and our perception of sharp boundaries is often an illusion.
 
-See also: [Duality versus Polarity](Duality%20versus%20Polarity.md)
+### See Also
+
+* [Duality versus Polarity](Duality%20versus%20Polarity.md)
 
 ---
 
@@ -37,7 +39,7 @@ See also: [Duality versus Polarity](Duality%20versus%20Polarity.md)
 
 ---
 
-See also:
+### See Also
 
 * [Skepticism](Skepticism.md)
 * [Trust your gut](Trust%20your%20gut.md)

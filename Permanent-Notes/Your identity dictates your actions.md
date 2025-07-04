@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“The bad workouts are the most important ones. It's easy to train when you feel good, but it's crucial to show up when you don't feel like it—even if you do less than you hope. Going to the gym for 15 minutes might not improve your performance, but it reaffirms your identity. **It's not always about what happens during the workout. It's about becoming the type of person who doesn't miss workouts.**” — James Clear_
@@ -46,7 +46,7 @@ Actionable Steps:
 
 ---
 
-See also:
+### See Also
 
 * [Cultivate a strong bias towards action](Cultivate%20a%20strong%20bias%20towards%20action.md)
 * [Your relationship with yourself sets the tone for every other relationship you have](Your%20relationship%20with%20yourself%20sets%20the%20tone%20for%20every%20other%20relationships%20you%20have.md)

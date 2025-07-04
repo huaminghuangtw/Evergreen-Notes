@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T10:53:27
 ---
 
 > _“You have no responsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It's their mistake, not my failing.” — Richard P. Feynman_
@@ -32,6 +32,10 @@ Stop caring about what others might think of you. _Like birds sing, not worrying
 * _No one cares_ if my belt doesn't match my shoes when I attend this party.
 * _No one cares_ about the driver of Lamborghini, but they want to be the driver of Lamborghini.
 
+## Nobody cares.
+
+When you're winning, when everything is going well, when you're crushing it, nobody cares. When you're losing, when everything is falling flat, when you're down and out, nobody cares.
+
 ---
 
 There are two big mistakes in life:
@@ -41,6 +45,6 @@ There are two big mistakes in life:
 
 ---
 
-See also:
+### See Also
 
 * [Be primarily internally driven](Be%20primarily%20internally%20driven%20with%20intrinsic%20motivation.md)

@@ -1,6 +1,6 @@
 ---
 created: 2025-02-20T10:08:47
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Great minds discuss ideas; average minds discuss events; small minds discuss people.” — Eleanor Roosevelt_
@@ -27,6 +27,6 @@ Make a habit of praising people when they're not around. This is one of the fast
 
 ---
 
-See also:
+### See Also
 
 * [Judge others by intentions, judge ourselves by actions](Judge%20others%20by%20intentions,%20judge%20ourselves%20by%20actions.md)

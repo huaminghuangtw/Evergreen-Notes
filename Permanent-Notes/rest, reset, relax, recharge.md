@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Rest until you feel like playing, then play until you feel like resting.” — Martha Beck_
@@ -149,7 +149,7 @@ The best way to rest is all about _feeling calm_. Or rather, CALM. Find an activ
 
 ---
 
-See also:
+### See Also
 
 * [Slow Down to Speed Up](Slow%20Down%20to%20Speed%20Up.md)
 * [The Reitoff Principle](The%20Reitoff%20Principle.md)

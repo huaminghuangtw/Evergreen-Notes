@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Everything popular is wrong.” — Oscar Wilde_
@@ -96,7 +96,9 @@ Find a thing that's so you, that doing it is just a natural extension of you bei
 
 [Your best performances will come when you are working in a way that is a full expression of you. The work becomes a natural display of your personality. This is when you not only get better results, but also love the activity — because in doing the craft, you feel alive.](https://jamesclear.com/3-2-1/january-30-2025)
 
-See also: [Specific Knowledge](Specific%20Knowledge.md)
+### See Also
+
+* [Specific Knowledge](Specific%20Knowledge.md)
 
 ---
 
@@ -108,7 +110,7 @@ See also: [Specific Knowledge](Specific%20Knowledge.md)
 
 ---
 
-See also:
+### See Also
 
 * [Be primarily internally driven](Be%20primarily%20internally%20driven%20with%20intrinsic%20motivation.md)
 * [Comparison is the thief of joy](Comparison%20is%20the%20thief%20of%20joy.md)

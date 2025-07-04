@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _[“You are always just one good decision away from being in a better place tomorrow — just focus on the next decision.” — Sahil Bloom](https://www.sahilbloom.com/newsletter/information-action-gap-one-decision-away-more)_
@@ -27,7 +27,7 @@ modified: 2025-07-02T10:40:18
 
 ---
 
-See also:
+### See Also
 
 * [Decision Making](Decision%20Making.md)
 * [Live in the present](Live%20in%20the%20present.md)

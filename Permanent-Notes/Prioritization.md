@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“The whole point of getting things done is knowing what to leave undone.” — Oswald Chambers_
@@ -75,6 +75,6 @@ If you have more than 3 priorities, you don't have any. You must choose what to 
 
 ---
 
-See also:
+### See Also
 
 * [The 5-25 Rule](The%205-25%20Rule.md)

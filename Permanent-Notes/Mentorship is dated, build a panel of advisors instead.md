@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 ![](../_attachments/1abb6f103b7cbb0ab268cd7901aa80bb.jpg)
@@ -31,7 +31,7 @@ modified: 2025-07-02T10:40:18
 
 ---
 
-See also:
+### See Also
 
 * [The Medici Effect](The%20Medici%20Effect.md)
 * [Lateral Thinking](Lateral%20Thinking.md)

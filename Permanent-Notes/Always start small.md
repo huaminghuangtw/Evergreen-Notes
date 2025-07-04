@@ -1,6 +1,6 @@
 ---
 created: 2025-03-05T05:32:10
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith_
@@ -72,6 +72,6 @@ Anything above zero [compounds](The%20Compounding%20Effect.md) positively
 
 ---
 
-See also:
+### See Also
 
 * [Just focus on the next decision](Just%20focus%20on%20the%20next%20decision.md)

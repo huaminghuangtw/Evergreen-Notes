@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“You cannot prevent the birds of sorrow from flying over your head, but you can prevent them from building nests in your hair.” — Chinese Proverb_
@@ -97,7 +97,7 @@ Negative thoughts/emotions in life are like a glass of water. → The absolute w
 
 ---
 
-See also:
+### See Also
 
 * [A true transformation begins with a mental shift](A%20true%20transformation%20begins%20with%20a%20mental%20shift.md)
 

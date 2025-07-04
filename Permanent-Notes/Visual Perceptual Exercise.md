@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 = Space-Time Bridging = Shift between different time domains [^1]
@@ -26,7 +26,7 @@ Other tools:
 
 ---
 
-See also:
+### See Also
 
 * [visualization](visualization.md)
 

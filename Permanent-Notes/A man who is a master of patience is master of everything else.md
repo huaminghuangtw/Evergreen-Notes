@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _[“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)_
@@ -61,6 +61,6 @@ Weigh the potential **benefits of delayed action** against the **risks of inacti
 
 ---
 
-See also:
+### See Also
 
 * [The Hofstadter's Law](The%20Hofstadter's%20Law.md)

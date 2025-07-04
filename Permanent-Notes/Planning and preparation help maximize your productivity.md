@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T16:22:20
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _[“The antidote to impulsiveness is forethought.” — Nir Eyal](https://www.youtube.com/watch?v=VVez_sI1zTU)_
@@ -29,12 +29,14 @@ Planning and [doing](Cultivate%20a%20strong%20bias%20towards%20action.md) are tw
 
 ---
 
-# Preparation Always Beats Planning.
+# Preparation Always Beats Planning
 
 * Planning is based on the expectation of order. Preparation is based on the expectation of chaos.
 * Plan for order and you'll be destroyed by chaos. Prepare for chaos and you'll thrive in any condition.
 
-See also: [Hope for the best, prepare for the worst](Hope%20for%20the%20best,%20prepare%20for%20the%20worst.md)
+### See Also
+
+* [Hope for the best, prepare for the worst](Hope%20for%20the%20best,%20prepare%20for%20the%20worst.md)
 
 ---
 
@@ -75,7 +77,7 @@ When fishermen can't go to sea, they repair their nets. When the sea is too roug
 
 ---
 
-See also:
+### See Also
 
 * [Implementation Intentions](Implementation%20Intentions.md)
 

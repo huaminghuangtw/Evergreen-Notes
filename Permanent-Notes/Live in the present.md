@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.” — Dr. Robert Hutchings Goddard_
@@ -34,6 +34,8 @@ modified: 2025-07-02T10:40:18
 > _“Don't count the days. Make the days count.” — Muhammad Ali_
 
 > _[Genieße den Augenblick - denn Heute ist der erste Tag vom Rest deines Lebens! (享受當下，因為今天是剩下的生命中的第一天！)](http://www.godic.net/home/dailysentence/4056ec51-2133-4b30-8cca-8f9e279b3e45)_
+
+> _“Think of yourself in a concert hall listening to the strains of the sweetest music when you suddenly remember that you forgot to lock your car. You are anxious about the car, you cannot walk out of the hall and you cannot enjoy the music. There you have a perfect image of life as it is lived by most human beings.” — Anthony de Mello_
 
 ---
 
@@ -98,7 +100,7 @@ We often treat the present as a _vehicle for something else_, failing to see tha
 
 ---
 
-See also:
+### See Also
 
 * [Intentional Living](Intentional%20Living.md)
 * [Control the controllable](Control%20the%20controllable.md)

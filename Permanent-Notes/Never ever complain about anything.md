@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“If it's endurable, then endure it. Stop complaining. If it's unendurable … then stop complaining. Your destruction will mean its end as well. Just remember: you can endure anything your mind can make endurable, by treating it as in your interest to do so. In your interest, or in your nature.” — Marcus Aurelius_
@@ -37,7 +37,7 @@ If it's always someone else's fault, it's probably your fault.
 
 ---
 
-See also:
+### See Also
 
 * [Cynacism](Cynacism.md)
 

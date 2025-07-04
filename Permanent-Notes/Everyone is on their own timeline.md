@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“One's own dharma performed imperfectly is better than another's dharma well performed…It is better to strive in one's own dharma than to succeed in the dharma of another.” — Bhagavad Gita_
@@ -88,7 +88,7 @@ It's okay to be lost sometimes, but [never compare your timeline to other people
 
 ---
 
-See also:
+### See Also
 
 * [Comparison is the thief of joy](Comparison%20is%20the%20thief%20of%20joy.md)
 * [A man who is a master of patience is master of everything else](A%20man%20who%20is%20a%20master%20of%20patience%20is%20master%20of%20everything%20else.md)

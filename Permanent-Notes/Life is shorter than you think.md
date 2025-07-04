@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“The price of anything is the amount of life you exchange for it.” — Henry David_
@@ -35,6 +35,6 @@ Accept the impermanence of everything in our lives.
 
 ---
 
-See also:
+### See Also
 
 * [Death](Death.md)

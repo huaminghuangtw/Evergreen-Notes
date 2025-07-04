@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T10:56:20
 ---
 
 > _“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi_
@@ -29,9 +29,13 @@ You are not going to change the world, but make it slightly better.
 
 > _“No one is going to come help you. No one's coming to save you.” — [@gogginsCantHurtMe2018]_
 
-[Your entire life will change the day you realize that it's all on you. No one is coming to save you. No one will fix your problems. No one can act on your behalf. No one will change your mindsets. No one will hand you the things you want in life. It's just you. It's all on you.](https://x.com/SahilBloom/status/1855607589578453496)
+[Your entire life will change the day you realize that everything is on you. No one is coming to save you. No one will fix your problems. No one can act on your behalf. No one will change your mindsets. No one will hand you the things you want in life. It’s the acceptance that you have to hunt if you want to eat. It's all on you.](https://x.com/SahilBloom/status/1855607589578453496)
 
-See also: [Never ever complain about anything](Never%20ever%20complain%20about%20anything.md)
+---
+
+### See Also
+
+* [Never ever complain about anything](Never%20ever%20complain%20about%20anything.md)
 
 ---
 
@@ -68,9 +72,12 @@ Personal development/growth/improvement is a lifelong endeavor. Every single day
 
 * Based on these two circles, **reactive** people will think more about the **circle of concern** while **proactive** people focus more on the **circle of influence**.
 * Your Circle of Concern is all the things you worry about and that influence you but that you have no control over: Federal Government, climate change, etc.
-	* See also: [Have the courage to do the right things](Have%20the%20courage%20to%20do%20the%20right%20things.md)
 * Your Circle of Influence is all the things you can control: your actions, your habits, your attitudes, your attention etc.
 * **The more you focus on your Circle of Influence, the bigger your Circle of Influence will get, and the more you can accomplish to help fix things in your Circle of Concern.**
+
+### See Also
+
+* [Have the courage to do the right things](Have%20the%20courage%20to%20do%20the%20right%20things.md)
 
 ---
 
@@ -80,7 +87,7 @@ Personal development/growth/improvement is a lifelong endeavor. Every single day
 
 ---
 
-See also:
+### See Also
 
 * [Control the controllable](Control%20the%20controllable.md)
 

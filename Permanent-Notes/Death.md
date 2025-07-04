@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“The meaning of life is that it stops.” — Franz Kafka_
@@ -117,7 +117,7 @@ Remarks: Through history, people have gone back into their own pasts, sometime t
 
 ---
 
-See also:
+### See Also
 
 * [Life is shorter than you think](Life%20is%20shorter%20than%20you%20think.md)
 * [Intentional Living](Intentional%20Living.md)

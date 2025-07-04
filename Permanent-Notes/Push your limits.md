@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Whether you think you can, or you think you can't—you're both right.” — Henry Ford_
@@ -77,7 +77,9 @@ modified: 2025-07-02T10:40:18
 
 Self-imposed limits, Self-limiting beliefs/stories, Self-sabotaging behaviors, etc.
 
-See also: [The Streetlight Effect](The%20Streetlight%20Effect.md)
+### See Also
+
+* [The Streetlight Effect](The%20Streetlight%20Effect.md)
 
 ---
 
@@ -181,7 +183,7 @@ Your present circumstances don't determine where you can go; they merely determi
 
 ---
 
-See also:
+### See Also
 
 * [Change yourself to change the world](Change%20yourself%20to%20change%20the%20world.md)
 * [Lateral Thinking](Lateral%20Thinking.md)

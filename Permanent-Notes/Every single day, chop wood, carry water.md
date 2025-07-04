@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -126,7 +126,11 @@ EVERYDAY is easier than SOMEDAY. [^3] Embrace the daily mundane activities / ord
 
 ---
 
-See also:
+[Mental toughness](https://en.wikipedia.org/wiki/Mental_toughness) is often associated with dramatic efforts to **push through the pain**, **grind it out to the end**, and **find a way to make it happen**—the kind of perseverance needed to cross a finish line. However, true [mental toughness](resilience.md) shows up in quieter moments: it's the discipline to **show up when no one is watching**, **keep your eye on the ball**, and **do a little bit every day**. At its core, mental toughness means not skipping the days that are easy to skip.
+
+---
+
+### See Also
 
 * [Frameworks to achieve any goals](Frameworks%20to%20achieve%20any%20goals.md)
 * [Just focus on the next decision](Just%20focus%20on%20the%20next%20decision.md)

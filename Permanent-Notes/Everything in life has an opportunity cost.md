@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“The real price of everything, what everything really costs to the man who wants to acquire it, is the toil and trouble of acquiring it.” ― Adam Smith, The Wealth of Nations_
@@ -48,7 +48,7 @@ _There are many things in life that look like a great deal based on the List Pri
 
 ---
 
-See also:
+### See Also
 
 * [Do hard things](Do%20hard%20things.md)
 * [The Game of Life](The%20Game%20of%20Life.md)

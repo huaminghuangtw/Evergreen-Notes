@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Process saves us from the poverty of our intentions.” — Elizabeth King_
@@ -134,7 +134,7 @@ Paradox: Although it's being said that “you got to focus on the journey becaus
 
 ---
 
-See also:
+### See Also
 
 * [The Arrival Fallacy](The%20Arrival%20Fallacy.md)
 

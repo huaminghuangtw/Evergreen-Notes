@@ -1,6 +1,6 @@
 ---
 created: 2024-12-08T00:59:27
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Those who look for the bad in people will surely find it.” — Abraham Lincoln*
@@ -31,6 +31,6 @@ Try to interpret whatever people do in the most generous way. See if you feel be
 
 ---
 
-See also:
+### See Also
 
 * [Judge others by intentions, judge ourselves by actions](Judge%20others%20by%20intentions,%20judge%20ourselves%20by%20actions.md)

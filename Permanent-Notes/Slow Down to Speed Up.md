@@ -1,6 +1,6 @@
 ---
 created: 2024-12-05T09:05:25
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 [@ferriss4hourWorkweekEscape2011]
@@ -65,7 +65,7 @@ This is a well-known metaphor for the importance of taking time to “sharpen yo
 
 ---
 
-See also:
+### See Also
 
 * [Every single day, chop wood, carry water](Every%20single%20day,%20chop%20wood,%20carry%20water.md)
 * [slackness](slackness.md)

@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Fear is a natural reaction to moving closer to the truth” — Pema Chodron_
@@ -84,7 +84,7 @@ _Becoming the Ocean_ – A Poem by Khalil Gibram
 
 ---
 
-See also:
+### See Also
 
 * [Overthinking](Overthinking.md)
 * [Fear of Failure and Success](Fear%20of%20Failure%20and%20Success.md)

@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Compounding is the 8th wonder of the world.” — Albert Einstein_
@@ -89,7 +89,7 @@ leads to a [Vicious Cycle (良性循環)](https://www.google.com/search?q=Viciou
 
 ---
 
-See also:
+### See Also
 
 * [Every single day, chop wood, carry water](Every%20single%20day,%20chop%20wood,%20carry%20water.md)
 

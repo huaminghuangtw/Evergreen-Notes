@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Get busy living, or get busy dying.” — Stephen King_
@@ -61,7 +61,7 @@ Run your mind in a _**debug**_ mode instead of _**autopilot**_ mode 24/7
 
 ---
 
-See also:
+### See Also
 
 * [Live in the present](Live%20in%20the%20present.md)
 * [Death](Death.md)

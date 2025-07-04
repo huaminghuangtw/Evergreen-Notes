@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“A smile is a curve that sets everything straight.” — Phyllis Diller_
@@ -25,6 +25,6 @@ Always laugh out loud when you can. It is cheap medicine.
 
 ---
 
-See also:
+### See Also
 
 * [optimism](optimism.md)

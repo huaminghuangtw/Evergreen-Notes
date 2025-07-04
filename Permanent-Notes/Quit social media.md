@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -139,7 +139,7 @@ If you were to reduce screen time—especially social media—by just one hour p
 
 ---
 
-See also:
+### See Also
 
 * [BS Asymmetry Principle](BS%20Asymmetry%20Principle.md)
 * [News Sobriety](News%20Sobriety.md)

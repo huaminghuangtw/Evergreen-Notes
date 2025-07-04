@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T11:03:30
 ---
 
 It is found by pursuing your genuine curiosity on [multiple skillsets](Specialization%20is%20for%20insects.md).
@@ -9,6 +9,7 @@ It is found by pursuing your genuine curiosity on [multiple skillsets](Specializ
 * [Diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns) suggest that you don't need to excel in every foundational skill; you just need to reach a sufficient level of competence in each one.
 
 [It should feel like _play_ to you, but _work_ for others.](https://x.com/naval/status/1337144251403014144)
+- There is an enormous difference between [working hard](Work%20hard.md) on something that is a grind and working hard on something that comes easily to you. Exceptional results almost exclusively happen when you work hard on an area where you have some natural aptitude. Play to your strengths.
 
 It can be taught (hence, ≠ Unique Knowledge), but only through [apprenticeship](https://en.wikipedia.org/wiki/Cognitive_apprenticeship) (e.g., on-the-job training), not in schools.
 
@@ -18,7 +19,7 @@ It is something society cannot yet easily train other people to do (hard to repl
 
 ---
 
-See also:
+### See Also
 
 * [Specialization is for insects](Specialization%20is%20for%20insects.md)
 

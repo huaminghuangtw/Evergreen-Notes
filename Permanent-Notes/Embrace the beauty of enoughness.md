@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _「真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼? 不是誰擁有得多，而是誰需要的少。」 — 沈芯菱_
@@ -23,7 +23,9 @@ modified: 2025-07-02T10:40:18
 
 If you're not enough without [X], you'll never be enough with [X].
 
-See also: [The Arrival Fallacy](The%20Arrival%20Fallacy.md)
+### See Also
+
+* [The Arrival Fallacy](The%20Arrival%20Fallacy.md)
 
 ---
 
@@ -85,7 +87,7 @@ Don't let the pursuit of more stop you from enjoying what you already have.
 
 ---
 
-See also:
+### See Also
 
 * [The Parable of the Mexican Fisherman](The%20Parable%20of%20the%20Mexican%20Fisherman.md)
 

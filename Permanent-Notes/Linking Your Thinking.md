@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T18:40:57
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > *“Neurons that fire together wire together” — Hebb's Rule
@@ -41,6 +41,6 @@ Each link, if made deliberately, is adding value to the note. It's adding allusi
 
 ---
 
-See also:
+### See Also
 
 * [Evergreen Notes](Evergreen%20Notes.md)

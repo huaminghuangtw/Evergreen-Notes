@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _”Don't bother just to be better than your contemporaries or predecessors. Try to be better than yourself.” — William Faulkner_
@@ -44,7 +44,7 @@ When you compare yourself with others, or have the desire to be like other peopl
 
 ---
 
-See also:
+### See Also
 
 * [Escape competition through authenticity](Escape%20competition%20through%20authenticity.md)
 * [Be primarily internally driven](Be%20primarily%20internally%20driven%20with%20intrinsic%20motivation.md)

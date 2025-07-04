@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T18:40:57
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T11:01:13
 ---
 
 Working memory is one's ability to keep specific information for immediate use, like a little sticky note in the brain.
@@ -19,7 +19,7 @@ Working memory works best when you are fully focused.
 
 * For example, if I say, “Remember these numbers: 3, 5, 7,” your working memory holds those numbers while you think about them. But if you get distracted, like if someone starts talking to you about your favorite cartoon, you might forget those numbers.
 
-Working memory is crucial for sequencing daily activities, allowing individuals to remember and process information. Its impairment can lead to significant life challenges.
+Working memory is crucial for sequencing daily activities, allowing individuals to remember and process information. Your working memory capacity is important to your ability to task-switch when necessary to move throughout your day in a productive, focused way. Its impairment can lead to significant life challenges.
 
 * **Solving puzzles**: You keep the steps in your head while you figure out the next move.
 * **Remembering telephone numbers**: Let's say someone tells you their phone number: **4-2-3-7-6-8-5**. Your working memory is like a little helper holding those numbers in your head while you get your phone. You might repeat the numbers to yourself—**4-2-3, 7-6-8-5**—over and over so you don't forget them before typing.
@@ -37,4 +37,5 @@ Tools to increase dopamine levels and potentially improve working memory perform
 * NSDR or Yoga Nidra
 * [Deliberate cold exposure](Deliberate%20Heat%20Cold%20Exposure.md), such as cold showers or plunges, 30 to 60 minutes before engaging in a task
 * [Listening to 40-Hz binaural beats](https://www.youtube.com/watch?v=CQlTmOFM4Qs&t=1h11m34s)
+	* Several studies [@beaucheneEffectBinauralBeats2016] [@engelbregtEffectsBinauralMonaural2021] show increases in working memory performance when listeners use 13-30 hertz (Hz) binaural beats while doing mental tasks.
 * Supplementing with L-tyrosine

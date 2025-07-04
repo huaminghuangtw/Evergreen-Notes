@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _We are what we believe we are.” — C.S. Lewis_
@@ -64,7 +64,9 @@ Next time you catch yourself saying, “_I can't…_” or “_I'm not the type 
 
 If you tell yourself you can't, you won't. If you tell yourself you must, you'll find a way.
 
-See also: [Push your limits](Push%20your%20limits.md)
+### See Also
+
+* [Push your limits](Push%20your%20limits.md)
 
 ---
 
@@ -77,7 +79,7 @@ See also: [Push your limits](Push%20your%20limits.md)
 
 ---
 
-See also:
+### See Also
 
 * [Your identity dictates your actions](Your%20identity%20dictates%20your%20actions.md)
 * [A true transformation begins with a mental shift](A%20true%20transformation%20begins%20with%20a%20mental%20shift.md)

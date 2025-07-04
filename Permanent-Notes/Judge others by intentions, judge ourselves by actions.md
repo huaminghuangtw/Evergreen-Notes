@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“We judge ourselves by our intentions and others by their behavior.” — Stephen Covey_
@@ -40,7 +40,7 @@ modified: 2025-07-02T10:40:18
 
 ---
 
-See also:
+### See Also
 
 * [The Hanlon's Razor](The%20Hanlon's%20Razor.md)
 * [The Dunning-Kruger Effect](The%20Dunning-Kruger%20Effect.md)

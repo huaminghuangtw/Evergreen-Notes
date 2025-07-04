@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Everyone has a plan until they get punched in the mouth.” — Mike Tyson_
@@ -33,6 +33,6 @@ Write your life plan with a pencil that has an eraser.
 
 ---
 
-See also:
+### See Also
 
 * [Hope for the best, prepare for the worst](Hope%20for%20the%20best,%20prepare%20for%20the%20worst.md)

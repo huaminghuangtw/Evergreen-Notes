@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _[“If you want to operate at maximum productivity, efficiency, and creativity, you're going to work on things that you're excited about at the moment you're excited about them and accept nothing less. It is better to sit on your butt and do nothing than it is to work on things that you are not excited about.” — Naval Ravikant](https://podclips.com/c/its-better-to-do-nothing-than-work-on-something-youre-not-excited-about)_
@@ -83,7 +83,7 @@ According to the research, “_The secret to retaining the highest level of prod
 
 ---
 
-See also:
+### See Also
 
 * [Visual Perceptual Exercise](Visual%20Perceptual%20Exercise.md)
 * [What you work on is far more important than how productively you work](What%20you%20work%20on%20is%20far%20more%20important%20than%20how%20productively%20you%20work.md)

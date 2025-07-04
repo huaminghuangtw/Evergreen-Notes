@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T18:40:57
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“School is one thing. Education is another. The two don't always overlap. Whether you're in school or not, it's always your job to get yourself an education.” — Austin Kleon_
@@ -45,7 +45,7 @@ School lays the foundation, but true education starts when you step beyond the c
 
 ---
 
-See also:
+### See Also
 
 * [Stay curious](Stay%20curious.md)
 

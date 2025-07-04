@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T10:16:50
-modified: 2025-07-02T10:40:18
+modified: 2025-07-02T12:40:23
 ---
 
 **[Getting Started with AI: Good Enough Prompting | One Useful Thing](https://www.oneusefulthing.org/p/getting-started-with-ai-good-enough)**

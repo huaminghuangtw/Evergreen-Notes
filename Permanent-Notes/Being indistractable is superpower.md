@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T18:40:57
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 Being indistractable is about doing what you say you're going to do.
@@ -91,7 +91,7 @@ By redirecting potential distractions before they reach you, you preserve your w
 
 ---
 
-See also:
+### See Also
 
 * [Why it's so hard to just do the work?](Why%20it's%20so%20hard%20to%20just%20do%20the%20work.md)
 

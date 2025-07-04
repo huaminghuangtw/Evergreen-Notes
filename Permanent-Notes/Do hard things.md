@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
@@ -105,7 +105,7 @@ When things get hard, the mental gymnastics start—you start convincing yoursel
 
 ---
 
-See also:
+### See Also
 
 * [Always do your best as possible](Always%20do%20your%20best%20as%20possible.md)
 * [Delayed Gratification](Delayed%20Gratification.md)

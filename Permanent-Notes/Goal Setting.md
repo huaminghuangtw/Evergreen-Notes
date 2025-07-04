@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Setting goals is the first step in turning the invisible into the visible.” — Tony Robbins_
@@ -87,7 +87,7 @@ The key in life is to find the balance, and balance isn't about perfection. Pour
 
 ---
 
-See also:
+### See Also
 
 * [The Arrival Fallacy](The%20Arrival%20Fallacy.md)
 * [Journey over destination](Journey%20over%20destination.md)

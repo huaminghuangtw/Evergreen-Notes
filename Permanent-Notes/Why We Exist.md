@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness.” — Leo Tolstoy_
@@ -157,7 +157,7 @@ The **S.H.A.P.E. Assessment** is a self-discovery tool used primarily in Christi
 | **P**      | **Personality**     | How do you interact with others? Are you introverted, extroverted, structured, spontaneous? |
 | **E**      | **Experiences**     | What life experiences (good and bad) have shaped who you are today?                         |
 
-See also:
+### See Also
 
 * [Death](Death.md)
 * [How to live a life](How%20to%20live%20a%20life.md)

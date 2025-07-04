@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _Every composer knows the anguish and despair occasioned by forgetting ideas which one had no time to write down. ― Hector Berlioz_
@@ -53,6 +53,6 @@ What?
 
 ---
 
-See also:
+### See Also
 
 * [note-taking](note-taking.md)

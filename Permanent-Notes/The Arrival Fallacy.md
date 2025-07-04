@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Arriving someplace more desirable at some future time is an illusion. This is it.” — Jon Kabat-Zinn_
@@ -39,7 +39,7 @@ Humans have a tendency to quickly return to a baseline level of [happiness](happ
 
 ---
 
-See also:
+### See Also
 
 * [Journey over destination](Journey%20over%20destination.md)
 * [Miswanting](Miswanting.md)

@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:50
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Words are but pictures of our thoughts.” — John Dryden_
@@ -15,6 +15,6 @@ Always be aware of how you are using the word. Avoid using the word to [speak ag
 
 ---
 
-See also:
+### See Also
 
 * [Speak less, listen more](Speak%20less,%20listen%20more.md)

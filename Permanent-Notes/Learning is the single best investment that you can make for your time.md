@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T14:59:54
 ---
 
 > _“Live to learn and you'll really learn to live.” — John C. Maxwell_
@@ -218,7 +218,7 @@ Always starting from the most basic and simplest level, then adding more complex
 
 ---
 
-See also:
+### See Also
 
 * [Language Learning](Language%20Learning.md)
 * [School is nothing but the starting line of true education](True%20education%20begins%20where%20school%20ends.md)

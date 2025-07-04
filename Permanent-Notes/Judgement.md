@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Good judgment comes from experience, and experience comes from bad judgment.” — Rita Mae Brown_
@@ -11,6 +11,6 @@ modified: 2025-07-02T10:40:18
 
 ---
 
-See also:
+### See Also
 
 * [Decision Making](Decision%20Making.md)

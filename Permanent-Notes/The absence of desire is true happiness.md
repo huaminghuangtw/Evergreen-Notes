@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _[“Not wanting something is as good as having it.” — Naval Ravikant](https://www.youtube.com/watch?v=KyfUysrNaco&t=33s)_
@@ -31,6 +31,6 @@ You only lose what you cling to.
 
 ---
 
-See also:
+### See Also
 
 * [Miswanting](Miswanting.md)

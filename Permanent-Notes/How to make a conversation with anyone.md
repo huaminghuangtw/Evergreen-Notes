@@ -1,6 +1,6 @@
 ---
 created: 2025-04-05T08:17:57
-modified: 2025-07-02T10:40:18
+modified: 2025-07-02T12:40:22
 ---
 
 # [7 Ways to Make a Conversation With Anyone | Malavika Varadan](https://youtu.be/F4Zu5ZZAG7I)

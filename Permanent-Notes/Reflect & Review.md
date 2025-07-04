@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Without reflection, we go blindly onour way, creating more unintended consequences, and failing to achieve anything useful.” — Margaret J. Wheatley_
@@ -34,7 +34,7 @@ Introspection is the one of the best ways to expand our [self-awareness](Masteri
 
 ---
 
-See also:
+### See Also
 
 * [When in doubt, zoom out](When%20in%20doubt,%20zoom%20out.md)
 

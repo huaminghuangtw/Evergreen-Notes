@@ -1,6 +1,6 @@
 ---
 created: 2025-04-11T19:02:45
-modified: 2025-07-02T10:40:18
+modified: 2025-07-04T16:42:57
 ---
 
 > _[“Success is not final, failure is not fatal: it is the courage to continue that counts.” — Winston Churchill](https://www.youtube.com/watch?v=uuxMZL6ieWM)_
@@ -10,6 +10,8 @@ modified: 2025-07-02T10:40:18
 > _“Courage is resistance to fear, mastery of fear - not absence of fear.” — Mark Twain_
 
 > _“Courage is not the absence of fear, but rather the assessment that something else is more important than fear.” — Franklin D. Roosevelt_
+
+> _[“Courage is feeling fear, not getting rid of fear, and taking action in the face of fear.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7913240-courage-is-feeling-fear-not-getting-rid-of-fear-and)_
 
 > _“Life shrinks or expands in proportion to one's courage.” — Anaïs Nin_
 

@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T14:47:28
 ---
 
 > _“Life is a question and how we live it is our answer.” — [@kellerOneThingSurprisingly2013]_
@@ -52,6 +52,10 @@ Problems are a feature of life, not a bug. There will never come a time when you
 ---
 
 A good life has a healthy mix of selfish boundaries and unselfish giving.
+
+---
+
+[A great “Life Hack” is to combine 1) Mirrored Reciprocation (go positive and go first) and 2) Compound Interest (being constant) into one basic approach to living your life: “Go positive and go first, and be constant in doing it.”](https://fs.blog/great-talks/multidisciplinary-approach-thinking-peter-kaufman)
 
 ---
 

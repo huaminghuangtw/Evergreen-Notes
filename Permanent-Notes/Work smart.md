@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Whenever possible, win without fighting or, at the very least, to win the easiest battles first.” — Sun Tzu_
@@ -76,7 +76,7 @@ Usually, the hardest work is thinking of a better way to do it.
 
 ---
 
-See also:
+### See Also
 
 * [Slow Down to Speed Up](Slow%20Down%20to%20Speed%20Up.md)
 * [What you work on is far more important than how productively you work](What%20you%20work%20on%20is%20far%20more%20important%20than%20how%20productively%20you%20work.md)

@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so.” ― Mark Twain_
@@ -68,7 +68,7 @@ Naivety (= naiveness = naïveté)
 
 ---
 
-See also:
+### See Also
 
 * [The Einstellung Effect](The%20Einstellung%20Effect.md)
 * [Abandon your ego](Abandon%20your%20ego.md)

@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:55:15
 ---
 
 # 💡 Core Concept
@@ -19,7 +19,10 @@ modified: 2025-07-02T10:40:18
 	* At the end of the work day
 	* Before going to bed
 * 30 days of 30 minutes per day is 900 total minutes (i.e., 15 hours) of accumulated, focused, dedicated effort, which creates a marathon of short, manageable sprints.
-* See also: [The Power Half-Hour](The%20Power%20Half-Hour.md)
+
+### See Also
+
+* [The Power Half-Hour](The%20Power%20Half-Hour.md)
 
 ---
 

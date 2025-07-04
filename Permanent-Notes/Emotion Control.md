@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Temperament is more important than IQ. You need reasonable intelligence, but you absolutely have to have the right temperament. Otherwise, something will snap you.” — Warren Buffett_
@@ -35,7 +35,7 @@ But often, despite our best efforts, we find ourselves on the train before we ev
 
 ---
 
-See also:
+### See Also
 
 * [Abandon your ego](Abandon%20your%20ego.md)
 * [Emotional Freedom](Emotional%20Freedom.md)

@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“You don't have to be great to start, but you have to start to be great.” — Zig Ziglar_
@@ -67,7 +67,7 @@ Done is better than perfect. — First make it work. Then optimize (pretty, effi
 
 ---
 
-See also:
+### See Also
 
 * [The Growth Mindset](The%20Growth%20Mindset.md)
 

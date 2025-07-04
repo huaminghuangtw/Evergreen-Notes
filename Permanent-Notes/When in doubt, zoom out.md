@@ -1,6 +1,6 @@
 ---
 created: 2025-02-10T09:34:23
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 放慢步調，與當下的掛念保持適當的心理距離，有助於激發 [高階思考](second-order%20thinking.md)，使我們能夠以更宏觀的視角考慮、權衡大局。
@@ -25,7 +25,7 @@ If you think you have it tough, look around.
 
 ---
 
-See also:
+### See Also
 
 * [The Solomon Paradox](The%20Solomon%20Paradox.md)
 * [The Tunnel Effect](The%20Tunnel%20Effect.md)

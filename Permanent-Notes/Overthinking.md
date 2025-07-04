@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Imagination and fiction make up more than three quarters of our real life.” — Simone Weil_
@@ -45,7 +45,7 @@ A surefire way to make a bad situation worse is to continue replaying it in your
 ​
 ---
 
-See also:
+### See Also
 
 * [A true transformation begins with a mental shift](A%20true%20transformation%20begins%20with%20a%20mental%20shift.md)
 

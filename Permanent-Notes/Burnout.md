@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 = 過勞
@@ -65,7 +65,7 @@ Hemingway advised against pushing to exhaustion. Leaving energy in reserve helps
 
 ---
 
-See also:
+### See Also
 
 * [energy management](Energy%20Management.md)
 

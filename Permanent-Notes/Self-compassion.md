@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“What you deny subdues you. What you accept transforms you.” — Carl Jung_
@@ -49,7 +49,7 @@ We just need to tweak the system rather than beating ourselves up.
 
 ---
 
-See also:
+### See Also
 
 * [The Reitoff Principle](The%20Reitoff%20Principle.md)
 * [rest, reset, relax, recharge](rest,%20reset,%20relax,%20recharge.md)

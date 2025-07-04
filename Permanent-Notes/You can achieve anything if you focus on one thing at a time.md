@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _[“The only way to gain enough efficiency to complete The Art of Computer Programming is to operate in batch mode, concentrating intensively and uninterruptedly on one subject at a time, rather than swapping a number of topics in and out of my head.” — Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/retd.html)_
@@ -56,7 +56,7 @@ In The Happiness Hypothesis, New York University psychologist Jonathan Haidt des
 
 ---
 
-See also:
+### See Also
 
 * [Focus is about saying no](Focus%20is%20about%20saying%20no.md)
 * [Being indistractable is superpower](Being%20indistractable%20is%20superpower.md)

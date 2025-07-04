@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“If you aim at nothing, you will hit it every time.” — Zig Ziglar_
@@ -49,6 +49,6 @@ In this frame, the ideal combination to minimize or remove self-interference is 
 
 ---
 
-See also:
+### See Also
 
 * [Journey over destination](Journey%20over%20destination.md)

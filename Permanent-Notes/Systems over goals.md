@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“You don't rise to the level of your goals. You fall to the level of your systems. Your goal is your desired outcome. Your system is the collection of daily habits that will get you there.” — James Clear_ [^1]
@@ -39,7 +39,7 @@ Systems allow you to [make a decision](Decision%20Making.md) _one time_ instead 
 
 ---
 
-See also:
+### See Also
 
 * [Gall's Law](Gall's%20Law.md)
 

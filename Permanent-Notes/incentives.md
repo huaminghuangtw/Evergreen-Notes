@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:50
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Show me the incentive, and I'll show you the outcome.” — Charlie Munger_
@@ -20,6 +20,6 @@ We make time and energy for the things we really want. For example, if you have 
 
 ---
 
-See also:
+### See Also
 
 * [行為經濟學 Behavioral Economics](行為經濟學%20Behavioral%20Economics.md)

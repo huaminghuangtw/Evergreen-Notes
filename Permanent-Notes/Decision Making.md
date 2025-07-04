@@ -1,19 +1,17 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T09:34:27
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
 
 > _“It's better to be boldly decisive and risk being wrong than to agonise at length and be right too late.” — Marilyn Moats Kennedy_
 
----
-
 > _“Learn to make non-fatal or easily reversible decisions as quickly as possible. Fast (not rushed) decisions preserve usable [attention](attention.md) for what matters. It's deliberation—the time we vacillate over and consider each decision—consumes our attention. Embrace a choice-minimal lifestyle.” — [@ferriss4hourWorkweekEscape2011]_
 
 ---
 
-**Naval Ravikant**
+# Naval Ravikant
 
 > _We live in an age of infinite leverage. What I mean by that is that your actions can be multiplied a thousandfold, either by broadcasting a podcast or by investing capital or by having people work for you or by writing code. So because of that, the impacts of good decision-making are much higher than they used to be because now you can influence thousands or millions of people through your decisions or your code. So clear mind leads to better (sound) [judgment](Judgement.md) leads to a better outcome. So a happy, calm, peaceful person will make better decisions and have better outcomes. So if you want to operate at peak performance, you have to learn how to tame your mind. Just like you have to learn how to tame your body._
 
@@ -39,7 +37,7 @@ modified: 2025-07-02T10:40:18
 
 ---
 
-**[Look for single decision that removes hundreds or thousands of other decisions.](https://tim.blog/2020/01/20/one-decision-that-removes-100-decisions/)**
+# [Look for single decision that removes hundreds or thousands of other decisions.](https://tim.blog/2020/01/20/one-decision-that-removes-100-decisions/)
 
 > _“Don't make a hundred decisions when one will do.” — [Jim Collins](https://www.jimcollins.com/index.html)_
 
@@ -48,7 +46,7 @@ modified: 2025-07-02T10:40:18
 
 ---
 
-**[Two types of decisions](Jeff%20Bezos'%20letter%20to%20Amazon%20shareholders%201997.md)**
+# [Two types of decisions](Jeff%20Bezos'%20letter%20to%20Amazon%20shareholders%201997.md)
 
 |     Type I      |                           Type II                            |
 | :-------------: | :----------------------------------------------------------: |
@@ -59,12 +57,14 @@ modified: 2025-07-02T10:40:18
 
 ---
 
-**Two types of decision-makers**
+# Two types of decision-makers
 
 * **Maximizers:** People who want the “absolute best” option. They may leave happiness on the table.
 * **Satisficers:** People who want the “good enough” option. They may leave achievement on the table.
 
-See also: [Be primarily internally driven](Be%20primarily%20internally%20driven%20with%20intrinsic%20motivation.md)
+### See Also
+
+*  [Be primarily internally driven](Be%20primarily%20internally%20driven%20with%20intrinsic%20motivation.md)
 
 ---
 
@@ -102,6 +102,7 @@ Razors
 	* If you have a choice between entering two rooms, choose the room where you're more likely to be the dumbest/weakest one in the room.
 	* Once you're in the room, talk less and listen more.
 	* Bad for your ego—great for your growth.
+	* Related: You don’t have to be the loudest in the room. Just be the one everyone listens to when it goes quiet.
 * The Arena Razor
 	* When faced with two paths, choose the path that puts you in the arena.
 	* It's easy to throw rocks from the sidelines. It's scary and lonely in the arena—but it's where growth happens.
@@ -127,7 +128,7 @@ Razors
 
 ---
 
-See also:
+### See Also
 
 * [Mental Models](mental%20models.md)
 * [Everything in life has an opportunity cost](Everything%20in%20life%20has%20an%20opportunity%20cost.md)

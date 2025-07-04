@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:50
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T08:00:39
 ---
 
 Effervescent Tablets (發泡錠)
@@ -64,7 +64,9 @@ Supplement to Microspike Dopamine
 * Nordic Naturals
 * Renue by Science
 
-# References
+---
+
+### References
 
 * <https://examine.com/>
 

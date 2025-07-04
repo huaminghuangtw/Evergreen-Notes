@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Showing off is the fool's idea of glory.” — Bruce Lee_
@@ -72,7 +72,7 @@ One of the great mistakes in life is suffering for years because you didn't want
 
 ---
 
-See also:
+### See Also
 
 * [The Beginner Mindset](The%20Beginner%20Mindset.md)
 

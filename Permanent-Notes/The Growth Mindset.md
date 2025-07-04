@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T14:40:33
 ---
 
 [@dweckMindsetNewPsychology2008]
@@ -69,7 +69,16 @@ Approach everything in life as a _skill_ at which you can increase your competen
 
 當你要完成一個龐大而複雜的專案，例如撰寫一份長篇研究報告，可以先快速地從頭到尾寫一遍，不必擔心錯誤或資料不足，甚至可以略過某些細節，重點是先把內容大致架構起來。
 
-即使初稿再怎麼粗糙或充滿錯誤，它至少讓你從零開始向前邁進了一步，讓報告有了雛形，壓力也會隨之減輕。接下來，你可以在沒有過度焦慮的情況下，逐步修改、精煉，就像雕刻作品一樣，先調整大方向，再逐步打磨細節，從 30 分提升到 60 分、90 分。沒有人能夠一次做到完美，因此，重點在於持續改進，而不是一開始就要求「一步到位」或「 [盡善盡美](perfectionism.md)」。
+即使初稿再怎麼粗糙或充滿錯誤，它至少讓你從零開始向前邁進了一步，讓報告有了雛形，壓力也會隨之減輕。接下來，你可以在沒有過度焦慮的情況下，逐步修改、精煉，就像雕刻作品一樣，先調整大方向，再逐步打磨細節，從 30 分提升到 60 分、90 分。沒有人能夠一次做到完美，因此，重點在於持續改進，而不是一開始就要求「一步到位」或「[盡善盡美](perfectionism.md)」。
+
+---
+
+# Locus of Control
+
+Locus of Control is a psychological concept first introduced by Julian Rotter in 1954 that describes how people perceive the causes of events in their lives.
+
+* Those with an External Locus of Control believe that their outcomes are determined by forces outside their control.
+* Those with an Internal Locus of Control believe they have control over their outcomes through effort, focus, and attitude.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-02T12:40:23
 ---
 
 > _[“Open your mind before your mouth.” — Aristophanes](https://www.goodreads.com/quotes/712935-open-your-mind-before-your-mouth)_

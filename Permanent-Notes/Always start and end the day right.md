@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Write it on your heart that every day is the best day in the year. He is rich who owns the day, and no one owns the day who allows it to be invaded with fret and anxiety. Finish every day and be done with it. You have done what you could.” — Ralph Waldo Emerson_
@@ -100,7 +100,7 @@ A little [planning, preparation](Planning%20and%20preparation%20help%20maximize%
 
 ---
 
-See also:
+### See Also
 
 * [How to structure your day](Frameworks%20to%20structure%20your%20day.md)
 

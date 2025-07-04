@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Facts are the enemy of truth.” — Miguel de Cervantes_
@@ -34,6 +34,6 @@ It's usually better to be nice than right.
 
 ---
 
-See also:
+### See Also
 
 * [Have the courage to do the right things](Have%20the%20courage%20to%20do%20the%20right%20things.md)

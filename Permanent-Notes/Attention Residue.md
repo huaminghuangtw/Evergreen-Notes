@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-02T12:40:23
 ---
 
 Close “Open Loops” (Anything that is pulling your [attention](attention.md), stopping you from reaching states of flow)

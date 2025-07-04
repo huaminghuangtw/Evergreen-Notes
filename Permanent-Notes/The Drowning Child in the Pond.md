@@ -1,6 +1,6 @@
 ---
 created: 2024-12-09T10:03:35
-modified: 2025-07-02T10:40:18
+modified: 2025-07-02T12:40:23
 ---
 
 Peter Singers's thought experiment “The Drowning Child in the Pond”

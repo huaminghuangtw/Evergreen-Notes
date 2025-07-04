@@ -1,6 +1,6 @@
 ---
 created: 2024-12-04T17:55:24
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Do one thing every day that scares you.” — Eleanor Roosevelt_
@@ -70,7 +70,7 @@ You need to find XXX in your day, and ruthlessly foster/protect it from all the 
 
 ---
 
-See also:
+### See Also
 
 * [deep work](deep%20work.md)
 * [Why it's so hard to just do the work?](Why%20it's%20so%20hard%20to%20just%20do%20the%20work.md)

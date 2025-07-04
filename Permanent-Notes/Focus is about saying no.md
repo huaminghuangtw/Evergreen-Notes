@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“If you chase two rabbits, you catch none.” — Confucius_
@@ -47,6 +47,6 @@ Since focus requires [saying no](If%20it%20isn’t%20fuck%20YES,%20then%20it’s
 
 ---
 
-See also:
+### See Also
 
 * [Being indistractable is superpower](Being%20indistractable%20is%20superpower.md)

@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:49
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:56:31
 ---
 
 **TL; DR** Default to NO.
@@ -91,11 +91,11 @@ Examples:
 Two-factor authentication against your calendar by Naval Ravikant
 
 * Say no over and over again to the unimportant things flying in our direction every day and remaining focused on saying yes to the few things that truly matter.
-* See also: [Seven Things Successful People Say No To Every Day](Seven%20Things%20Successful%20People%20Say%20No%20To%20Every%20Day.md)
 
 ---
 
-See also:
+### See Also
 
+* [Seven Things Successful People Say No To Every Day](Seven%20Things%20Successful%20People%20Say%20No%20To%20Every%20Day.md)
 * [Focus is about saying no](Focus%20is%20about%20saying%20no.md)
 * [Decision Making](Decision%20Making.md)

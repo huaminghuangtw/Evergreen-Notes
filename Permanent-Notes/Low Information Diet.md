@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 **TL; DR** Consume less, but consume _intelligently_.
@@ -19,6 +19,6 @@ Cull Your [Social Media](Quit%20social%20media.md) Feed
 
 ---
 
-See also:
+### See Also
 
 * [BS Asymmetry Principle](BS%20Asymmetry%20Principle.md)

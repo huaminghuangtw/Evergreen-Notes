@@ -1,6 +1,6 @@
 ---
 created: 2025-02-21T16:42:30
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _”Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it's worth it in the end because once you get there, you can move mountains.” — Steve Jobs_
@@ -54,7 +54,7 @@ The simplest solution is…
 
 ---
 
-See also:
+### See Also
 
 * [Gall's Law](Gall's%20Law.md)
 * [The Simplicity Audit](The%20Simplicity%20Audit.md)

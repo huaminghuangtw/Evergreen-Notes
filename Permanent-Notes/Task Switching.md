@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:16:49
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 ≈ Context Switching
@@ -13,6 +13,6 @@ When we attempt to juggle multiple tasks simultaneously, the brain has to shift 
 
 ---
 
-See also:
+### See Also
 
 * [Visual Perceptual Exercise](Visual%20Perceptual%20Exercise.md)

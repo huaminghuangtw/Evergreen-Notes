@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Wisdom accepts that all things have two sides.” — Carl Jung_
@@ -33,6 +33,6 @@ See things objectively. [See things the way they truly are](Seek%20for%20the%20t
 
 ---
 
-See also:
+### See Also
 
 * [happiness](happiness.md)

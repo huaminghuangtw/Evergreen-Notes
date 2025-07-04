@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T15:25:56
 ---
 
 > _“Start before you're ready. Don't prepare. Begin. Don't think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
@@ -51,14 +51,14 @@ Start even if you can only [do a little](Always%20start%20small.md). Once you ge
 
 > _“The secret to getting ahead is getting started.” — Mark Twain_
 
-> _“The heaviest weight at the gym is the front door.” — Ed Latimore_
+> _“The heaviest weight at the gym is the front door.” — Ed Latimore_ [^1]
 
 * It's easier to steer a moving ship than to put a stationary one into motion.
 * [My yoga teacher always starts class with this line: “Congrats. The hardest part is over. You showed up.” I feel like that mindset applies to most other things. Worrying about a task often is far worse than the task itself. Starting is the hardest part.](https://mariandrew.substack.com/p/100-things-i-know)
 * The Scandinavians / In Norwegian, they have a phrase dørstokmilla ([The Doorstep Mile](https://sketchplanations.com/the-doorstep-mile))
 	* Meaning that the first mile away from your front door is the hardest of all.
 	* It is the psychological threshold that we have to get over in order to go outside, to leave the comfort of the house behind, and set foot into nature.
-* The Latin proverb “Initium est dimidium facti” [^1] reminds us of the importance of simply beginning a task. It translates to: “_Once you've started, you're halfway there._” [^2]
+* The Latin proverb “Initium est dimidium facti” [^2] reminds us of the importance of simply beginning a task. It translates to: “_Once you've started, you're halfway there._” [^3]
 
 ---
 
@@ -66,10 +66,11 @@ Work has a sort of _[activation energy](Why%20it's%20so%20hard%20to%20just%20do%
 
 * [“The Physics of Productivity” by James Clear](https://jamesclear.com/physics-productivity)
 * [@abdaalFeelGoodProductivityHow2024]
-	* **Newton's First Law of Motion**, often called **the law of inertia** :[^3] '_An object at rest stays at rest, while an object in motion stays in motion, unless acted on by an external imbalanced force._' In other words, if an object is still, it will remain still; if an object is moving, it will continue moving, unless another force (like gravity, or air resistance) prevents it from doing so.
+	* **Newton's First Law of Motion**, often called **the law of inertia** :[^4] '_An object at rest stays at rest, while an object in motion stays in motion, unless acted on by an external imbalanced force._' In other words, if an object is still, it will remain still; if an object is moving, it will continue moving, unless another force (like gravity, or air resistance) prevents it from doing so.
 	* As Newton recognized, it takes way more energy to get started than it does to keep going. When you're doing nothing, it's easy to carry on doing nothing. And when you're working, it's much easier to carry on working. When you feel like you've tried everything to properly motivate yourself but you're still procrastinating, you need one final boost to get started.
 	* I like to think of the principle of inertia as a literal hump on a road. Imagine you're about to cycle down a hill. You've got your helmet on, your gears are well oiled, and you're itching to get started. There's just one problem. You need to cycle uphill a little before you get to the long slope down. It's going to take a burst of energy to get over the hump, and exerting that energy might not be the most pleasant thing in the world. But once you've overcome it, you'll be cycling down-hill, the wind in your hair, feeling better than ever and gliding on home.
 
-[^1]: from Horace, the Roman poet, in his work Epistles
-[^2]: = “_He who has begun is half done._”
-[^3]: from [«Philosophiæ Naturalis Principia Mathematica 自然哲學的數學原理»](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)
+[^1]: The hardest part about going to the gym is GOING to the gym.
+[^2]: from Horace, the Roman poet, in his work Epistles
+[^3]: = “_He who has begun is half done._”
+[^4]: from [«Philosophiæ Naturalis Principia Mathematica 自然哲學的數學原理»](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)

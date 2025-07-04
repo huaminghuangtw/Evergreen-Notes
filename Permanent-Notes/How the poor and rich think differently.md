@@ -1,6 +1,6 @@
 ---
 created: 2025-02-17T17:36:06
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 | 窮人思維 | 富人思維 |
@@ -18,7 +18,7 @@ modified: 2025-07-02T10:40:18
 
 ---
 
-See also:
+### See Also
 
 * [The Game of Life](The%20Game%20of%20Life.md)
 

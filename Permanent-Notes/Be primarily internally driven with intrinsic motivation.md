@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-02T10:40:18
+modified: 2025-07-03T07:59:49
 ---
 
 > _“Glory is fleeting, but obscurity is forever.” — Napoleon Bonaparte_
@@ -85,7 +85,7 @@ The Two Side of Our Natures, which are at war with each other. We happen to live
 
 ---
 
-See also:
+### See Also
 
 * [Comparison is the thief of joy](Comparison%20is%20the%20thief%20of%20joy.md)
 * [Escape competition through authenticity](Escape%20competition%20through%20authenticity.md)
