@@ -1,6 +1,6 @@
 ---
 created: 2025-05-10T06:27:40
-modified: 2025-07-02T12:40:23
+modified: 2025-07-05T17:30:31
 ---
 
 > _“Enlightenment is making friendship with the whole existence.” — Amit Ray_
@@ -90,7 +90,7 @@ Someone who experienced the exact same event as you likely remembers it very dif
 
 ---
 
-# The Riptide Mentality (The “Downward Spiral” Technique)
+# The Riptide Mentality (The “Downward Spiral” [^1] Technique)
 
 > At certain times in your life, there are going to be subtle, hidden, external forces conspiring against you—pulling you further away from your desired destination.
 >
@@ -106,7 +106,7 @@ Someone who experienced the exact same event as you likely remembers it very dif
 
 > _“What you resist, persists.” — Carl Jung_
 
-Resistance amplifies [negative emotions](What%20to%20do%20when%20you%20have%20negative%20thoughts%20or%20emotions.md). [Acceptance](Acceptance%20and%20Commitment%20Therapy.md) diffuses them. It's like quicksand: The more you fight, the deeper you sink. Observing the struggle [without judgment](Dispel%20your%20narratives.md) creates mental space for solutions to emerge [naturally](Wu%20Wui.md)
+Resistance amplifies [negative emotions](What%20to%20do%20when%20you%20have%20negative%20thoughts%20or%20emotions.md). [Acceptance](Acceptance%20and%20Commitment%20Therapy.md) diffuses them. It's like quicksand: The more you fight, the deeper you sink. Observing the struggle [without judgment](Dispel%20your%20narratives.md) creates mental space for solutions to emerge [naturally](Wu%20Wui.md).
 
 ---
 
@@ -114,3 +114,5 @@ Resistance amplifies [negative emotions](What%20to%20do%20when%20you%20have%20ne
 
 * At its heart, the quote speaks to the idea of **[non-interference](Wu%20Wui.md)** and **patience**. When water is muddy, stirring it further only makes it worse — more opaque and unsettled. But if you **let it be**, the sediment will naturally settle, and the water will clear on its own.
 * Sometimes problems solve themselves if we give them space and time.
+
+[^1]: ↔ [The Upward Spiral](https://sketchplanations.com/the-upward-spiral)

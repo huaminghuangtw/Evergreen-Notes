@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-03T10:56:20
+modified: 2025-07-05T12:21:11
 ---
 
 > _“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi_
@@ -8,6 +8,8 @@ modified: 2025-07-03T10:56:20
 > _“Doctors won't make you healthy. Nutritionists won't make you slim. Teachers won't make you smart. Gurus won't make you calm. Mentors won't make you rich. Trainers won't make you fit. Ultimately, you have to take responsibility. Save yourself.” — Naval Ravikant_ [^1]
 
 > _“Nothing helps; I must help myself, or I am finished.” — Friedrich Nietzsche_
+
+> _“The secret of change is to focus all of your energy, not on fighting the old but on building the new.” — Dan Millman_
 
 ---
 

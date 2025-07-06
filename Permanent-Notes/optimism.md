@@ -1,6 +1,6 @@
 ---
 created: 2025-01-23T10:40:57
-modified: 2025-07-03T09:14:27
+modified: 2025-07-05T08:53:52
 ---
 
 > _“A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. (樂觀的人看見問題背後的機會，悲觀的人看見機會背後的問題。)” — Winston Churchill_
@@ -23,6 +23,7 @@ Optimism early, pessimism in the middle, optimism late.
 * P: 認為大部分事物都是靠機率\&運氣，要盡可能地小步迭代，所有東西都要做全面性的實驗
 
 ---
+
 # 半杯水的啟示
 
 You can always choose to look at the _bright_ side of something. Choosing to see the good in things is a superpower.
@@ -39,4 +40,3 @@ A positive mind finds a way it can be done; A negative mind looks for all the wa
 ---
 
 [Optimism Bias](https://sketchplanations.com/optimism-bias)
-

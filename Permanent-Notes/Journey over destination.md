@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-03T07:59:49
+modified: 2025-07-05T17:29:59
 ---
 
 > _“Process saves us from the poverty of our intentions.” — Elizabeth King_
@@ -61,13 +61,14 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 
 [@hesseSiddharthaIndischeDichtung2021]
 
-> _[“We are not going in circles, we are going upwards. The path is a spiral; we have already climbed many steps.” — Hermann Hesse, Siddhartha](https://www.instagram.com/mounika.studio/p/CmslMjcBEaI/)_
+> _[“We are not going in circles, we are going upwards. The path is a spiral; we have already climbed many steps.” — Hermann Hesse, Siddhartha](https://www.instagram.com/mounika.studio/p/CmslMjcBEaI/)_ [^2]
 
 * Trust the process \& Have faith in the process
 * Every step happens for a reason, and something even better is on the way.
-* _At first, progress is slow_—so subtle it's almost invisible. _Then, all at once_, everything changes.
-	* Nothing happens—then everything does.
-	* Slow. Steady. Sudden.
+* Perceived Progress v.s Actual Progress
+	* _At first, progress is slow_—so subtle it's almost invisible. _Then, all at once_, everything changes.
+		* Nothing happens—then everything does.
+		* Slow. Steady. Sudden.
 
 ---
 
@@ -139,3 +140,4 @@ Paradox: Although it's being said that “you got to focus on the journey becaus
 * [The Arrival Fallacy](The%20Arrival%20Fallacy.md)
 
 [^1]: Similar analogy: Climate v.s Weather
+[^2]: [The Upward Spiral](https://sketchplanations.com/the-upward-spiral)

@@ -1,6 +1,6 @@
 ---
 created: 2024-11-18T09:18:12
-modified: 2025-07-03T09:34:27
+modified: 2025-07-05T08:53:52
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -64,7 +64,7 @@ modified: 2025-07-03T09:34:27
 
 ### See Also
 
-*  [Be primarily internally driven](Be%20primarily%20internally%20driven%20with%20intrinsic%20motivation.md)
+* [Be primarily internally driven](Be%20primarily%20internally%20driven%20with%20intrinsic%20motivation.md)
 
 ---
 
@@ -102,7 +102,7 @@ Razors
 	* If you have a choice between entering two rooms, choose the room where you're more likely to be the dumbest/weakest one in the room.
 	* Once you're in the room, talk less and listen more.
 	* Bad for your ego—great for your growth.
-	* Related: You don’t have to be the loudest in the room. Just be the one everyone listens to when it goes quiet.
+	* Related: You don't have to be the loudest in the room. Just be the one everyone listens to when it goes quiet.
 * The Arena Razor
 	* When faced with two paths, choose the path that puts you in the arena.
 	* It's easy to throw rocks from the sidelines. It's scary and lonely in the arena—but it's where growth happens.
