@@ -983,3 +983,13 @@ Only when habits of order are formed can we advance to really interesting fields
 ---
 
 Compare your behind-the-scenes life to others' curated highlight reel
+
+
+---
+
+排序等於排定優先順序
+
+
+---
+
+零和正和遊戲
