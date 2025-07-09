@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-07-05T17:29:25
+modified: 2025-07-09T16:06:52
 ---
 
 Remember: The answer is found in the action. What answers are hidden in the actions you avoid?
@@ -978,18 +978,33 @@ The richest person isn't the one who has the most, but the one who need the leas
 ---
 
 ---
+
 Only when habits of order are formed can we advance to really interesting fields of action—and consequently accumulate grain on grain of wilful choice like a very miser—never forgetting how one link dropped undoes an indefinite number. The more of the details of our daily life we can hand over to the effortless custody of automatism, the more our higher powers of mind will be set free for their own proper work. There is no more miserable human being than one in whom nothing is habitual but indecision, and for whom the lighting of every cigar, the drinking of every cup, the time of rising and going to bed every day, and the beginning of every bit of work, are subjects of express volitional deliberation.
 
 ---
 
 Compare your behind-the-scenes life to others' curated highlight reel
 
+---
+
+排序 = 排定優先順序
 
 ---
 
-排序等於排定優先順序
-
+零和 \& 正和遊戲
 
 ---
 
-零和正和遊戲
+When I get to my 2nd or 3rd workout, I find myself wanting to exercise more. When I miss 2 to 3 workouts I find myself wanting to do nothing instead. It's all about momentum.
+
+---
+
+When you plan excitement in advance, the return on that moment compounds. You don't just enjoy it when it happens, you get the anticipation dividends too.
+
+---
+
+The power of Excitement Engineering
+
+---
+
+[A little bit of slope makes up for a lot of y-intercept.](https://sketchplanations.com/a-little-bit-of-slope-makes-up-for-a-lot-of-y-intercept)
