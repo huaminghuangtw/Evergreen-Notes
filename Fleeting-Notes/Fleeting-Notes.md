@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-07-10T08:12:27
+modified: 2025-07-10T20:10:18
 ---
 
 Remember: The answer is found in the action. What answers are hidden in the actions you avoid?
@@ -1008,7 +1008,6 @@ The power of Excitement Engineering
 ---
 
 [A little bit of slope makes up for a lot of y-intercept.](https://sketchplanations.com/a-little-bit-of-slope-makes-up-for-a-lot-of-y-intercept)
-
 
 ---
 
