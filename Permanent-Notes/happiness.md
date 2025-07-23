@@ -1,7 +1,7 @@
 ---
 title: happiness
 created: 2024-11-18T09:18:12
-modified: 2025-07-18T09:36:29
+modified: 2025-07-23T14:34:04
 ---
 
 > _“Happiness is a state where nothing is missing.” — Naval Ravikant_
@@ -9,6 +9,8 @@ modified: 2025-07-18T09:36:29
 > _“Peace is happiness at rest, and happiness is peace in motion. You can always convert peace into happiness” — Naval Ravikant_ [^1]
 
 > _“Happiness is not about positive or negative thoughts — it's about [the absence of desire](The%20absence%20of%20desire%20is%20true%20happiness.md), especially the absence of desire for external things.” — Naval Ravikant_
+
+> _“Happiness is a perfume you cannot pour on others without getting a few drops on yourself.” — Ralph Waldo Emerson_
 
 > _“You will never be happy if you continue to search for what happiness consists of.” — Albert Camus_
 
@@ -50,7 +52,7 @@ Happiness is when what you think, what you say, and what you do are in harmony.
 
 ---
 
-True happiness is not just pleasure, but comes out of [peace](Peace%20from%20mind.md) and [fundamentally understanding oneself](Mastering%20yourself%20is%20superpower.md).
+True happiness is not just pleasure, but comes out of [peace](Peace%20from%20mind.md) and [fundamentally understanding oneself](mastering-yourself-is-superpower.md).
 
 * Physical pleasure (Oh, that tasted good.)
 * Momentary pleasure (Oh, he/she loves me.)
@@ -97,7 +99,7 @@ One day, I thought, someone out there had to be the happiest person in the world
 
 You always have 3 options/choices in any circumstance/situation in life — that is:
 
-* You can [accept it](Acceptance%20and%20Commitment%20Therapy.md). ([by changing your attitude toward it.](mental-shift.md))
+* You can [accept it](Acceptance%20and%20Commitment%20Therapy.md). ([by changing your attitude toward it.](a-true-transformation-begins-with-a-mental-shift.md))
 * You can change it.
 * You can leave it.
 
