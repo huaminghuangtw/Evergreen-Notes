@@ -1,7 +1,7 @@
 ---
 title: Planning and preparation help maximize your productivity
 created: 2024-12-12T16:22:20
-modified: 2025-07-16T21:23:30
+modified: 2025-07-23T14:31:02
 ---
 
 > _[“The antidote to impulsiveness is forethought.” — Nir Eyal](https://www.youtube.com/watch?v=VVez_sI1zTU)_
@@ -18,7 +18,7 @@ modified: 2025-07-16T21:23:30
 
 ---
 
-Planning and [doing](Cultivate%20a%20strong%20bias%20towards%20action.md) are two different modes of operation. **Separate planning from doing.** [^1] Spend some time on _[task value/priority evaluation/assessment](Prioritization.md)_ before any commitments/effort. It's worth it. [^2]
+Planning and [doing](cultivate-a-strong-bias-towards-action.md) are two different modes of operation. **Separate planning from doing.** [^1] Spend some time on _[task value/priority evaluation/assessment](Prioritization.md)_ before any commitments/effort. It's worth it. [^2]
 
 ---
 
@@ -57,7 +57,7 @@ When fishermen can't go to sea, they repair their nets. When the sea is too roug
 
 * The Pilot (10% of the day) → Planning
 * The Plane (85% of the day) → Execution
-* The Engineer (5% of the day) → [Review](Reflect%20&%20Review.md)
+* The Engineer (5% of the day) → [Review](reflect-and-review.md)
 
 ---
 
