@@ -1,7 +1,7 @@
 ---
 title: Being indistractable is superpower
 created: 2025-01-23T18:40:57
-modified: 2025-07-18T09:36:26
+modified: 2025-07-23T14:34:03
 ---
 
 Being indistractable is about doing what you say you're going to do.
@@ -44,7 +44,7 @@ Distraction isn't a character flaw—it's an [impulse control](Emotion%20Control
 	* Why it works?
 		* When you tell yourself, don't check the phone, you might inadvertently make the urge stronger due to **Psychological Reactance**. [^2]
 		* Instead of disarming psychological reactance, a much better approach is to say, “Hey, I can check my phone if I want, but I choose to wait 10 minutes.”
-		* By [reframing](mental-shift.md) the urge as a choice rather than a restriction, you engage with the internal trigger with _curiosity_ rather than _contempt_.
+		* By [reframing](a-true-transformation-begins-with-a-mental-shift.md) the urge as a choice rather than a restriction, you engage with the internal trigger with _curiosity_ rather than _contempt_.
 		* Rather than being a _blamer_ who points to external factors or [a shamer who internalizes guilt](Be%20careful%20how%20you%20are%20talking%20to%20yourself.md), aim to be a _claimer_—someone who takes responsibility for managing discomfort by _having a clear plan_ for responding to urges, rather than trying to suppress them.
 		* This approach shows that you have _agency_—you can actually do what you say you're going to do, and helps to [reinforce your identity to follow through on your intentions, proving you're not controlled by distractions.](Your%20identity%20dictates%20your%20actions.md)
 		* Another way of reasoning is that, you don't immediately sneeze when you feel the urge to sneeze—you take a moment, grab a handkerchief, and cover your face to prevent getting everyone sick. Similarly, when you feel an urge, like checking your phone, instead of giving in impulsively, you pause, acknowledge it, and wait.
@@ -82,7 +82,7 @@ By redirecting potential distractions before they reach you, you preserve your w
 
 **「覺知注意（Mindfulness）」** 指的是讓思緒自然游移，[當我們發現心思飄遠時，不帶評價地察覺，然後溫和地將注意力帶回當下的感受](meditation.md)。你可以在閱讀時試試看 — 當發現自己分心，只需留意這個有趣的現象，然後輕柔地將注意力拉回到眼前的內容。
 
-這是一種「[活在當下](Live%20in%20the%20present.md)」的練習 — [覺察自己](Mastering%20yourself%20is%20superpower.md)、他人以及周遭環境。[當我們意識到心思飄移，可以成為一個中立的觀察者，單純觀看思緒的流動，而不是責備自己分心。當我們不再因無法專注而感到沮喪或焦慮，就能更有效地將注意力帶回手邊的事務。](Acceptance%20and%20Commitment%20Therapy.md)
+這是一種「[活在當下](Live%20in%20the%20present.md)」的練習 — [覺察自己](mastering-yourself-is-superpower.md)、他人以及周遭環境。[當我們意識到心思飄移，可以成為一個中立的觀察者，單純觀看思緒的流動，而不是責備自己分心。當我們不再因無法專注而感到沮喪或焦慮，就能更有效地將注意力帶回手邊的事務。](Acceptance%20and%20Commitment%20Therapy.md)
 
 想像衝浪的情境：衝浪者划出海面後，會坐在衝浪板上，隨波浮沉，耐心等待最合適的浪潮。雖然他們可以追逐每一道浪，但為了最精彩的一刻，他們選擇放棄多數浪潮，只為捕捉那最「正點」的一波，帶來最刺激、最值得的一次衝浪。
 
