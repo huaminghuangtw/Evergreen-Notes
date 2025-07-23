@@ -1,7 +1,7 @@
 ---
 title: Judge others by intentions, judge ourselves by actions
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-07-23T14:34:04
 ---
 
 > _“We judge ourselves by our intentions and others by their behavior.” — Stephen Covey_
@@ -28,7 +28,7 @@ modified: 2025-07-16T21:23:30
 * Remember: forming impressions / making judgments of a person's character based on limited information can have long-lasting effects.
 * How to avoid it?
 	* Become more emotionally \& socially intelligent
-		* This involves practicing [self-awareness](Mastering%20yourself%20is%20superpower.md) , [empathy](Empathy.md), self-regulation
+		* This involves practicing [self-awareness](mastering-yourself-is-superpower.md) , [empathy](Empathy.md), self-regulation
 	* Be grateful
 		* This will help balance out your perspective, and can help you view someone as a whole person / see the whole picture, instead of through pieces of limited information.
 		* When you become resentful at someone for a negative “quality” they demonstrate, try to make a list of five positive qualities the person also exhibits.
