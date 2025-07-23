@@ -1,7 +1,7 @@
 ---
 title: The Solomon Paradox
 created: 2025-02-10T09:26:06
-modified: 2025-07-16T21:23:31
+modified: 2025-07-23T14:38:46
 ---
 
 * One's ability to reason more sensibly about someone else's problems than one's own
@@ -23,4 +23,4 @@ modified: 2025-07-16T21:23:31
 
 ## 2. 切換觀點，練習「自我抽離」
 
-透過「[自我抽離 (self-distancing)](When%20in%20doubt,%20zoom%20out.md)」，我們可以嘗試將自己視為第三者，以客觀旁觀者的角度來分析自身問題。這種方式能增強「適應性反思 (adaptive self-reflection)」，避免情緒干擾，提升 [解決問題](Problem%20Solving.md) 的能力。
+透過「[自我抽離 (self-distancing)](when-in-doubt-zoom-out.md)」，我們可以嘗試將自己視為第三者，以客觀旁觀者的角度來分析自身問題。這種方式能增強「適應性反思 (adaptive self-reflection)」，避免情緒干擾，提升 [解決問題](Problem%20Solving.md) 的能力。
