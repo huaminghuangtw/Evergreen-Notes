@@ -1,7 +1,7 @@
 ---
 title: If it isn’t fuck YES, then it’s clear NO thank you
 created: 2024-11-18T09:16:49
-modified: 2025-07-16T21:23:30
+modified: 2025-07-22T09:50:39
 ---
 
 **TL; DR** Default to NO.
@@ -32,7 +32,7 @@ Saying yes to everything is a quick road / recipe to mediocrity
 
 ---
 
-Before you say “yes” or “no”, just **pause**. This simple pause gives you control over your choices, allowing you to [respond with intention rather than reflex](Choose%20your%20response.md).
+Before you say “yes” or “no”, just **pause**. This simple pause gives you control over your choices, allowing you to [respond with intention rather than reflex](choose-your-response.md).
 
 Remember: Whenever you say “yes” to something, [you’re saying “no” to something else.](Everything%20in%20life%20has%20an%20opportunity%20cost.md)
 
