@@ -1,7 +1,7 @@
 ---
 title: fear
 created: 2024-11-18T09:18:12
-modified: 2025-07-18T09:36:28
+modified: 2025-07-23T14:37:35
 ---
 
 > _“Fear is a natural reaction to moving closer to the truth” — Pema Chodron_
@@ -32,7 +32,7 @@ If we're controlled by fear, we're in the mode of ignorance.
 
 ---
 
-[Reframe](mental-shift.md) fear as an information gap. Gather information and conquer your fears.
+[Reframe](a-true-transformation-begins-with-a-mental-shift.md) fear as an information gap. Gather information and conquer your fears.
 
 ---
 
@@ -56,7 +56,7 @@ If we're controlled by fear, we're in the mode of ignorance.
 # Naval Ravikant
 
 * _“90% of our thoughts are fear-based. 10% of our thoughts are [desire](The%20absence%20of%20desire%20is%20true%20happiness.md)-based.”_
-* _“I think it's not we fear [death](Death.md). It's we fear not [living the life that we want](How%20to%20live%20a%20life.md). And I think the easiest way to get out of that is to [start living the life you want](Intentional%20Living.md) [now](Live%20in%20the%20present.md), not putting/frittering it off.”_
+* _“I think it's not we fear [death](Death.md). It's we fear not [living the life that we want](How%20to%20live%20a%20life.md). And I think the easiest way to get out of that is to [start living the life you want](intentional-living.md) [now](Live%20in%20the%20present.md), not putting/frittering it off.”_
 	* This will make you feel that life is long, and you will be less afraid of [dying](Death.md).
 
 ---
@@ -87,6 +87,6 @@ _Becoming the Ocean_ – A Poem by Khalil Gibram
 
 ### See Also
 
-* [Overthinking](Overthinking.md)
+* [overthinking](overthinking.md)
 * [Fear of Failure and Success](Fear%20of%20Failure%20and%20Success.md)
 * [Courage is knowing what not to fear](Courage%20is%20knowing%20what%20not%20to%20fear.md)
