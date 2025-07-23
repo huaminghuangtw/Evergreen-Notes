@@ -1,10 +1,10 @@
 ---
 title: Specific Knowledge
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-07-23T14:32:48
 ---
 
-It is found by pursuing your genuine curiosity on [multiple skillsets](Specialization%20is%20for%20insects.md).
+It is found by pursuing your genuine curiosity on [multiple skillsets](specialization-is-for-insects.md).
 
 * It's hard to become the top 1% in any field, but it's a lot easier to _combine/stack two (or more) skills_ where you're in the top 25% of each.
 * [Diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns) suggest that you don't need to excel in every foundational skill; you just need to reach a sufficient level of competence in each one.
@@ -23,6 +23,6 @@ It is something society cannot yet easily train other people to do (hard to repl
 
 ### See Also
 
-* [Specialization is for insects](Specialization%20is%20for%20insects.md)
+* [Specialization is for insects](specialization-is-for-insects.md)
 
 [^1]: 組合技，非特定技能 (unique blend of interests, hobbies, and eccentricities—The Pattern Interrupts)
