@@ -1,7 +1,7 @@
 ---
 title: Death
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:29
+modified: 2025-07-23T14:34:04
 ---
 
 > _“The meaning of life is that it stops.” — Franz Kafka_
@@ -50,7 +50,7 @@ Death is the ultimate equalizer. We may look different, live in different places
 
 [@XiaoYeZhu.YouXieShiZheXieNianWoCaiDongXiaoYeDeRenShengSiKao2012]
 
-唯有死亡等在路的盡頭，才能顯得出每個人活著的不同意義。人並不是因為死亡逼近了才會去想死亡，人在很小的時候就會知覺到生命是會消逝的，通常那就是長大成熟的開始，也是 [自覺](Mastering%20yourself%20is%20superpower.md) 的起點。
+唯有死亡等在路的盡頭，才能顯得出每個人活著的不同意義。人並不是因為死亡逼近了才會去想死亡，人在很小的時候就會知覺到生命是會消逝的，通常那就是長大成熟的開始，也是 [自覺](mastering-yourself-is-superpower.md) 的起點。
 
 ---
 
@@ -125,7 +125,7 @@ Remarks: Through history, people have gone back into their own pasts, sometime t
 ### See Also
 
 * [Life is shorter than you think](Life%20is%20shorter%20than%20you%20think.md)
-* [Intentional Living](Intentional%20Living.md)
+* [Intentional Living](intentional-living.md)
 * [How to live a life](How%20to%20live%20a%20life.md)
 * [Why We Exist](Why%20We%20Exist.md)
 
