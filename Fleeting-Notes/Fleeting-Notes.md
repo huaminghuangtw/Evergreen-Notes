@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-07-10T20:10:18
+modified: 2025-07-22T14:47:31
 ---
 
 Remember: The answer is found in the action. What answers are hidden in the actions you avoid?
@@ -797,21 +797,7 @@ Repeat 3-5 times.
 
 ---
 
-OVER-RELIANCE ON THE HEAD Another way of putting it is like this: learn to listen to your gut and start trusting it a bit more. In the West, we have a head-driven culture, where we think we can explain and rationalize everything with our minds. We ignore the fact that some of
-
-the deepest intelligence we have, as humans, is located deep within our bodies.
-
----
-
-A student once approached the Buddha and asked him for a straight answer on some of the unanswerable questions that were challenging him about life.
-
-The Buddha replied:
-
-“Imagine someone is struck by a poisoned arrow. A doctor is brought to his side to remove the arrow and treat the wound, but the man stops him.
-
-'Not so fast! First, I want to know who shot me. What town or village does he come from? I would also like to know what kind of wood his bow was made out of. Also, was it a crossbow or a longbow?'
-
-Clearly that man would die and his questions would remain unanswered. Like the man in the story, we occasionally get shot with the poisoned arrows of suffering and ignorance. But ruminating too much on the nature of that suffering and ignorance is unlikely to help us with that.”
+OVER-RELIANCE ON THE HEAD Another way of putting it is like this: learn to listen to your gut and start trusting it a bit more. In the West, we have a head-driven culture, where we think we can explain and rationalize everything with our minds. We ignore the fact that some of the deepest intelligence we have, as humans, is located deep within our bodies.
 
 ---
 
