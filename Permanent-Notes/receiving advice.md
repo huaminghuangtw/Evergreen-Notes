@@ -1,7 +1,7 @@
 ---
 title: receiving advice
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:31
+modified: 2025-07-23T14:34:04
 ---
 
 **TL; DR** When receiving advice, focus on the general, not the specific.
@@ -15,7 +15,7 @@ The point of seeking advice isn't to follow it blindly but to enhance your clari
 Be comfortable with **ignoring** advice. At the end of the day,
 
 * only you can give yourself the best advice, because it's you who knows the entire story and context, not anyone else on the internet.
-* there is really no “right way” of doing things, especially [in the age of infinite information on the internet](Information%20Overwhelm.md). Finding a [personalised](Mastering%20yourself%20is%20superpower.md) approach is key.
+* there is really no “right way” of doing things, especially [in the age of infinite information on the internet](Information%20Overwhelm.md). Finding a [personalised](mastering-yourself-is-superpower.md) approach is key.
 
 Be careful WHO you're getting advice from.
 
@@ -34,7 +34,7 @@ Subtract [incentives](incentives.md) from advice.
 * Don't ask your barber if you need a haircut.
 * Don't ask your doctor what you should do. (Instead, ask him what he would do if he were in your place.)
 
-[Prioritize action](Cultivate%20a%20strong%20bias%20towards%20action.md): Take some advice, act on it, adjust accordingly. Otherwise advice gathering can quickly become a form of procrastination.
+[Prioritize action](cultivate-a-strong-bias-towards-action.md): Take some advice, act on it, adjust accordingly. Otherwise advice gathering can quickly become a form of procrastination.
 
 ### See Also
 
