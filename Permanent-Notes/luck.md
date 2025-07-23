@@ -1,7 +1,7 @@
 ---
 title: luck
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:31
+modified: 2025-07-22T10:05:09
 ---
 
 > _“Diligence is the mother of good luck.” — Benjamin Franklin_
@@ -35,7 +35,9 @@ modified: 2025-07-16T21:23:31
 
 # How To Increase Your Luck Surface Area?
 
-* Expose yourself to more randomness.
-* Be prepared to act on those opportunities when they present themselves.
+Luck = randomness × readiness
+
+1. Expose yourself to more randomness.
+2. Be prepared to act on those opportunities when they present themselves.
 
 [^1]: James H. Austin classifies four types of chances (the word Austin uses for luck) in his book _Chase, Chance, and Creativity: The Lucky Art of Novelty_.
