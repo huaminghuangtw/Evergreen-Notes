@@ -1,7 +1,7 @@
 ---
 title: stress and anxiety
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:31
+modified: 2025-07-23T14:35:49
 ---
 
 > _“Stress happens when the mind resists what is.” — Dan Millman_
@@ -70,7 +70,7 @@ This is called “Grounding.”
 
 ---
 
-Stress and anxiety are a [tax](Everything%20in%20life%20has%20an%20opportunity%20cost.md) on extreme ambition. They feed on idleness. When you [take action](Cultivate%20a%20strong%20bias%20towards%20action.md), you starve them of the oxygen they need to survive.
+Stress and anxiety are a [tax](Everything%20in%20life%20has%20an%20opportunity%20cost.md) on extreme ambition. They feed on idleness. When you [take action](cultivate-a-strong-bias-towards-action.md), you starve them of the oxygen they need to survive.
 
 ---
 
