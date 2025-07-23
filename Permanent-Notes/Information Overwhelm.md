@@ -1,7 +1,7 @@
 ---
 title: Information Overwhelm
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-07-23T14:31:02
 ---
 
 > _“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” ― T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654)_
@@ -28,7 +28,7 @@ modified: 2025-07-16T21:23:30
 # Solutions
 
 * Just-In-Case information → Just-In-Time information
-	* It's not enough to use information for “something” — it needs to be immediate and important. If “no” on either count, don't consume it. [Information is useless if it is not applied to something important](Cultivate%20a%20strong%20bias%20towards%20action.md) or if you will forget it before you have a chance to apply it.
+	* It's not enough to use information for “something” — it needs to be immediate and important. If “no” on either count, don't consume it. [Information is useless if it is not applied to something important](cultivate-a-strong-bias-towards-action.md) or if you will forget it before you have a chance to apply it.
 * Reactive → Proactive
 	* Develop the habit of asking yourself, “_Will I definitely use this information for something immediate and important?_” before consuming any content
 * Fast, excessive consumption → Slow, gradual consumption
@@ -42,10 +42,10 @@ modified: 2025-07-16T21:23:30
 	* Think about the areas of your life where you are placing unnecessary pressure on yourself to have everything in a “completed” state, e.g., to-read pile (Read-It-Later → Never-Read-It).
 	* Perhaps that area is better viewed as a RIVER than as a BUCKET — as a cycle, not a fixed state.
 * Build a [note-taking habit](note-taking.md) and an [idea-capturing system](idea%20capture%20inbox.md)
-* Consume less. [Reflect/Review](Reflect%20&%20Review.md) or [Create/Produce/Make/Build](Creativity%20is%20just%20connecting%20things.md) More.
+* Consume less. [Reflect/Review](reflect-and-review.md) or [Create/Produce/Make/Build](Creativity%20is%20just%20connecting%20things.md) More.
 	* Embrace [Low Information Diet](Low%20Information%20Diet.md) to avoid the “[Mental Squeeze Point](https://notes.linkingyourthinking.com/Cards/Mental+Squeeze+Point)”
 	* Spend more time _connecting dots (convergent exploiting)_ than you do _collecting them (divergent exploring)_
-	* Find a balance between _consuming_ and _digesting_ information—if you're just consuming tons of content without [processing it properly](Cultivate%20a%20strong%20bias%20towards%20action.md), you're setting yourself up to forget most of it
+	* Find a balance between _consuming_ and _digesting_ information—if you're just consuming tons of content without [processing it properly](cultivate-a-strong-bias-towards-action.md), you're setting yourself up to forget most of it
 	* If you decide to consume something:
 		* Consume what you are going to create
 			* Mindset Shift: Consumer → Producer
