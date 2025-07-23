@@ -1,7 +1,7 @@
 ---
 title: Deliberate Practice
 created: 2025-01-23T10:40:57
-modified: 2025-07-16T21:23:29
+modified: 2025-07-23T14:31:02
 ---
 
 by Anders Ericsson (研究世界專家的世界專家)
@@ -37,7 +37,7 @@ Similar to the concept of Progressive Overload in Strength Training — “Reps,
 		* An athlete attempting a personal best in a challenging competition.
 		* An artist trying a new technique that requires them to expand their skills.
 4. 專注地獨立練習 ([Deeply Engaged](Flow%20State.md))
-5. 反思 ([Reassess](Reflect%20&%20Review.md)) 並尋求立即性的 [意見回饋](Feedback%20Loop.md)
+5. 反思 ([Reassess](reflect-and-review.md)) 並尋求立即性的 [意見回饋](Feedback%20Loop.md)
 
 ---
 
