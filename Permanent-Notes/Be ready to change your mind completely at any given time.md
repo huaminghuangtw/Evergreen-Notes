@@ -1,7 +1,7 @@
 ---
 title: Be ready to change your mind completely at any given time
 created: 2024-12-04T15:59:39
-modified: 2025-07-16T21:23:29
+modified: 2025-07-23T14:31:02
 ---
 
 > _["Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in." — Alan Alda](https://www.goodreads.com/quotes/667214-your-assumptions-are-your-windows-on-the-world-scrub-them)_
@@ -43,9 +43,9 @@ modified: 2025-07-16T21:23:29
 ### See Also
 
 * [Skepticism](Skepticism.md)
-* [Trust your gut](Trust%20your%20gut.md)
+* [Trust your gut](trust-your-gut.md)
 * [The Ship of Theseus](The%20Ship%20of%20Theseus.md)
-* [Reflect & Review](Reflect%20&%20Review.md)
+* [Reflect & Review](reflect-and-review.md)
 * [The Streetlight Effect](The%20Streetlight%20Effect.md)
 
 [^1]: Binary Thinking
