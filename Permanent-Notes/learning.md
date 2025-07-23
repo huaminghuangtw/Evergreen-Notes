@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-07-19T07:33:22
+modified: 2025-07-23T14:35:49
 ---
 
 > _“Live to learn and you'll really learn to live.” — John C. Maxwell_
@@ -118,7 +118,7 @@ Always starting from the most basic and simplest level, then adding more complex
 # [How to learn anything?](https://www.youtube.com/watch?v=5MgBikgcWnY)
 
 1. Deconstruct the skill—decide exactly what you want to be able to do when you're done (i.e., with the end in mind), and then look into the skill and break it down into smaller pieces.
-2. Learn enough to self-correct—[learn just enough that you can actually practice and self-correct](Cultivate%20a%20strong%20bias%20towards%20action.md) or self-edit as you practice. Use only 3-5 resources rather than something like 20 → It's just a form of procrastination.
+2. Learn enough to self-correct—[learn just enough that you can actually practice and self-correct](cultivate-a-strong-bias-towards-action.md) or self-edit as you practice. Use only 3-5 resources rather than something like 20 → It's just a form of procrastination.
 	* The Learning Habit Loop
 		1. Only read and consume content until you know what you need to do.
 		2. Then, stop reading and consuming content until what you know you need to do is done.
