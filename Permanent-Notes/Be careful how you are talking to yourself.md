@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-07-18T09:36:26
+modified: 2025-07-22T14:51:28
 ---
 
 > _We are what we believe we are.” — C.S. Lewis_
@@ -83,7 +83,7 @@ If you tell yourself you can't, you won't. If you tell yourself you must, you'll
 ### See Also
 
 * [Your identity dictates your actions](Your%20identity%20dictates%20your%20actions.md)
-* [A true transformation begins with a mental shift](mental-shift.md)
+* [A true transformation begins with a mental shift](a-true-transformation-begins-with-a-mental-shift.md)
 * [Acceptance and Commitment Therapy](Acceptance%20and%20Commitment%20Therapy.md)
 * [The Growth Mindset](The%20Growth%20Mindset.md)
 
