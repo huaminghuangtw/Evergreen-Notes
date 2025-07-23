@@ -1,7 +1,7 @@
 ---
 title: Emotional Freedom
 created: 2025-05-10T06:27:40
-modified: 2025-07-18T09:36:27
+modified: 2025-07-22T14:51:29
 ---
 
 > _“Enlightenment is making friendship with the whole existence.” — Amit Ray_
@@ -26,7 +26,7 @@ modified: 2025-07-18T09:36:27
 
 Someone who experienced the exact same event as you likely remembers it very differently. Memories are _not_ objective facts, and they _cannot_ be fully trusted. Yet, we build our sense of self from these flawed recollections—we construct a story of our lives based on memories that may not be true at all.
 
-**But if the past no longer exists, and if what you remember isn't necessarily what really happened, that means you have the power to [rewrite it](mental-shift.md).** Change [the story you tell yourself about yourself.](Be%20careful%20how%20you%20are%20talking%20to%20yourself.md) Redefine your past, and in doing so, reshape who you are.
+**But if the past no longer exists, and if what you remember isn't necessarily what really happened, that means you have the power to [rewrite it](a-true-transformation-begins-with-a-mental-shift.md).** Change [the story you tell yourself about yourself.](Be%20careful%20how%20you%20are%20talking%20to%20yourself.md) Redefine your past, and in doing so, reshape who you are.
 
 ---
 
