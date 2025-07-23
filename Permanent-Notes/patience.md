@@ -1,7 +1,7 @@
 ---
 title: A man who is a master of patience is master of everything else
 created: 2024-11-18T09:18:12
-modified: 2025-07-18T13:53:23
+modified: 2025-07-23T14:35:49
 ---
 
 > _[“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)_
@@ -52,7 +52,7 @@ Patience benefits you when:
 
 Patience is detrimental when:
 
-* Time-sensitive opportunities: [Acting fast](Cultivate%20a%20strong%20bias%20towards%20action.md) is critical.
+* Time-sensitive opportunities: [Acting fast](cultivate-a-strong-bias-towards-action.md) is critical.
 * Unsafe situations: Facing urgent crises demanding immediate action. Delaying action can be dangerous.
 * Exploitation or disrespect: Firm boundaries need immediate enforcement.
 
