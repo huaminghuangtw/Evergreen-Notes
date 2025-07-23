@@ -1,7 +1,7 @@
 ---
 title: Overthinking
 created: 2025-01-23T10:40:57
-modified: 2025-07-18T09:36:34
+modified: 2025-07-23T14:35:49
 ---
 
 > _“Imagination and fiction make up more than three quarters of our real life.” — Simone Weil_
@@ -42,12 +42,20 @@ A surefire way to make a bad situation worse is to continue replaying it in your
 
 ---
 
-**You don't have a thinking problem—you have an [action](Cultivate%20a%20strong%20bias%20towards%20action.md)/[skill](https://avthar.com/blog/growth-mindset) problem:** _Overthinking_ breeds _indecision_, leading to _inaction/underact_. Accept the consequences, stay true to your values, and move forward.
+**You don't have a thinking problem—you have an [action](cultivate-a-strong-bias-towards-action.md)/[skill](https://avthar.com/blog/growth-mindset) problem:** _Overthinking_ breeds _indecision_, leading to _inaction/underact_. Accept the consequences, stay true to your values, and move forward.
 ​
+---
+
+# The Poison Arrow Principle
+
+Imagine someone is struck by a poisoned arrow. A doctor is called to remove the arrow, but the man stops him. “Not so fast! Before you remove it, I want to know who shot me. What town or village does he come from? What kind of wood was his bow made from? Was it a crossbow or a longbow?” While he asks the questions, the poison takes hold and he dies.
+
+Like the man in the story, we occasionally get shot with the poisoned arrows of life. But ruminating too much on the nature of those arrows is unlikely to help.
+
 ---
 
 ### See Also
 
-* [A true transformation begins with a mental shift](mental-shift.md)
+* [A true transformation begins with a mental shift](a-true-transformation-begins-with-a-mental-shift.md)
 
 [^1]: An expression of the problem of infinite regress
