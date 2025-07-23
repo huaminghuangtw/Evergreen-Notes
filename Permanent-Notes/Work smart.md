@@ -1,7 +1,7 @@
 ---
 title: Work smart
 created: 2025-01-23T10:40:57
-modified: 2025-07-16T21:23:31
+modified: 2025-07-23T14:32:48
 ---
 
 > _“Whenever possible, win without fighting or, at the very least, to win the easiest battles first.” — Sun Tzu_
@@ -82,4 +82,4 @@ Usually, the hardest work is thinking of a better way to do it.
 * [Slow Down to Speed Up](Slow%20Down%20to%20Speed%20Up.md)
 * [What you work on is far more important than how productively you work](What%20you%20work%20on%20is%20far%20more%20important%20than%20how%20productively%20you%20work.md)
 
-[^1]: See also: [Specialization is for insects](Specialization%20is%20for%20insects.md)
+[^1]: See also: [Specialization is for insects](specialization-is-for-insects.md)
