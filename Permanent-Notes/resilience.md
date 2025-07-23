@@ -1,10 +1,10 @@
 ---
 title: resilience
 created: 2024-11-18T09:04:18
-modified: 2025-07-16T21:23:31
+modified: 2025-07-22T09:50:39
 ---
 
-> _“Resilience is not what happens to you. It's how you [react to, respond to](Choose%20your%20response.md), and recover from what happens to you.” — Jeffrey Gitomer_
+> _“Resilience is not what happens to you. It's how you [react to, respond to](choose-your-response.md), and recover from what happens to you.” — Jeffrey Gitomer_
 
 > _“The obstacle is the way.” — Marcus Aurelius_
 
