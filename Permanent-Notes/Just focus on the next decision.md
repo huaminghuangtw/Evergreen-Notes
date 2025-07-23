@@ -1,7 +1,7 @@
 ---
 title: Just focus on the next decision
 created: 2024-11-18T09:18:12
-modified: 2025-07-18T09:36:07
+modified: 2025-07-23T14:35:49
 ---
 
 > _[“You are always just one good decision away from being in a better place tomorrow — just focus on the next decision.” — Sahil Bloom](https://www.sahilbloom.com/newsletter/information-action-gap-one-decision-away-more)_
@@ -33,4 +33,4 @@ modified: 2025-07-18T09:36:07
 * [Decision Making](Decision%20Making.md)
 * [Live in the present](Live%20in%20the%20present.md)
 * [A man who is a master of patience is master of everything else](patience.md)
-* [Cultivate a strong bias towards action](Cultivate%20a%20strong%20bias%20towards%20action.md)
+* [Cultivate a strong bias towards action](cultivate-a-strong-bias-towards-action.md)
