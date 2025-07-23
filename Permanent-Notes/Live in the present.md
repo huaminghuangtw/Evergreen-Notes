@@ -1,7 +1,7 @@
 ---
 title: Live in the present
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-07-23T14:37:35
 ---
 
 > _“It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.” — Dr. Robert Hutchings Goddard_
@@ -52,7 +52,7 @@ modified: 2025-07-16T21:23:30
 
 ---
 
-Be [intentional](Intentional%20Living.md) and live in the present moment. Don't live backwards. Any moment is perfectly unique.
+Be [intentional](intentional-living.md) and live in the present moment. Don't live backwards. Any moment is perfectly unique.
 
 ---
 
@@ -107,7 +107,7 @@ We often treat the present as a _vehicle for something else_, failing to see tha
 
 ### See Also
 
-* [Intentional Living](Intentional%20Living.md)
+* [Intentional Living](intentional-living.md)
 * [Control the controllable](Control%20the%20controllable.md)
 * [Time is the most valuable asset](Time%20is%20the%20most%20valuable%20asset.md)
 
