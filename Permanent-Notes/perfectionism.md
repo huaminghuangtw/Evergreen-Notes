@@ -1,7 +1,7 @@
 ---
 title: perfectionism
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:31
+modified: 2025-07-23T14:35:49
 ---
 
 > _“You don't have to be great to start, but you have to start to be great.” — Zig Ziglar_
@@ -38,7 +38,7 @@ Your flaws attract the right people you want to be around and filter out those w
 # The Challenges Of Perfectionism
 
 1. **[Fear of Failure:](Fear%20of%20Failure%20and%20Success.md)** Perfectionists often avoid taking risks due to the fear of making mistakes or not meeting their own high standards.
-2. **[Procrastination:](Procrastination.md)** The pressure to produce perfect work can lead to avoidance behaviors, where individuals [overthink](Overthinking.md) and delay starting tasks due to anxiety about their performance.
+2. **[Procrastination:](Procrastination.md)** The pressure to produce perfect work can lead to avoidance behaviors, where individuals [overthink](overthinking.md) and delay starting tasks due to anxiety about their performance.
 3. **[Burnout:](Burnout.md)** Constant striving for perfection is exhausting and can lead to physical and mental burnout.
 4. **[Low Self-Esteem:](Your%20relationship%20with%20yourself%20sets%20the%20tone%20for%20every%20other%20relationships%20you%20have.md)** Perfectionists may tie their self-worth closely to their achievements, leading to feelings of inadequacy when they inevitably fall short.
 
@@ -56,7 +56,7 @@ If you don't succeed in your first attempt, just call it version 1.0 and move on
 
 ---
 
-Imperfect [action](Cultivate%20a%20strong%20bias%20towards%20action.md) trumps visualized perfection all day long.
+Imperfect [action](cultivate-a-strong-bias-towards-action.md) trumps visualized perfection all day long.
 
 ---
 
