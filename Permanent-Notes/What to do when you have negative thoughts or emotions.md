@@ -1,7 +1,7 @@
 ---
 title: What to do when you have negative thoughts or emotions
 created: 2024-11-18T09:18:12
-modified: 2025-07-18T09:36:34
+modified: 2025-07-22T14:51:30
 ---
 
 > _“You cannot prevent the birds of sorrow from flying over your head, but you can prevent them from building nests in your hair.” — Chinese Proverb_
@@ -100,6 +100,6 @@ Negative thoughts/emotions in life are like a glass of water. → The absolute w
 
 ### See Also
 
-* [A true transformation begins with a mental shift](mental-shift.md)
+* [A true transformation begins with a mental shift](a-true-transformation-begins-with-a-mental-shift.md)
 
 [^1]: e.g., by taking a cold shower, deep breath, etc.
