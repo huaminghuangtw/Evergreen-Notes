@@ -1,7 +1,7 @@
 ---
 title: Change yourself to change the world
 created: 2024-11-18T09:18:12
-modified: 2025-07-18T13:53:23
+modified: 2025-07-23T14:34:04
 ---
 
 > _“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi_
@@ -18,7 +18,7 @@ Self-[leadership](Leadership.md): Be an agent in your own rescue.
 
 ---
 
-Before changing yourself, you need to [knowing yourself](Mastering%20yourself%20is%20superpower.md) first.
+Before changing yourself, you need to [knowing yourself](mastering-yourself-is-superpower.md) first.
 
 ---
 
