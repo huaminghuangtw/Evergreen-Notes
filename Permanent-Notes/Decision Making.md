@@ -1,7 +1,7 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2025-07-18T15:00:53
+modified: 2025-07-23T14:35:49
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -34,7 +34,7 @@ modified: 2025-07-18T15:00:53
 		* 雇員
 		* 買房
 	* Note that this theory is not time-based, but [iteration-based](Deliberate%20Practice.md).
-* [Trust your gut](Trust%20your%20gut.md)
+* [Trust your gut](trust-your-gut.md)
 
 ---
 
@@ -54,7 +54,7 @@ modified: 2025-07-18T15:00:53
 | One-directional |                        Bi-directional                        |
 |  One-way door   |                         Two-way door                         |
 |  Irreversible   |                          Reversible                          |
-|      三思而後行      | [三行而後思](Cultivate%20a%20strong%20bias%20towards%20action.md) |
+|      三思而後行      | [三行而後思](cultivate-a-strong-bias-towards-action.md) |
 
 ---
 
