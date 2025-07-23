@@ -1,7 +1,7 @@
 ---
 title: What Success Means To Me
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:31
+modified: 2025-07-22T14:42:20
 ---
 
 > _[“Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable. And you're the only one that will know that.” — John Wooden](https://www.youtube.com/watch?v=JWQIxuNGdvQ&t=95s)_
@@ -9,6 +9,8 @@ modified: 2025-07-16T21:23:31
 > _“Success is not how high you have climbed, but how you make a positive difference to the world.” — Roy T. Bennett_
 
 > _“To laugh often and much: To win the respect of intelligent people and the affection of children, to earn the appreciation of honest critics and endure the betrayal of false friends; to appreciate beauty, to find the best in others, to leave the world a bit better whether by a healthy child, a garden patch, or a redeemed social condition; to know even one life has breathed easier because you lived. This is to have succeeded.” — Ralph Waldo Emerson_
+
+> _“To live content with small means. To seek elegance rather than luxury, and refinement rather than fashion. To be worthy not respectable, and wealthy not rich. To study hard, think quietly, talk gently, act frankly, to listen to stars, birds, babes, and sages with open heart, to bear all cheerfully, do all bravely, await occasions, hurry never. In a word, to let the spiritual, unbidden and unconscious, grow up through the common. This is to be my symphony.” — William Ellery Channing_
 
 > _[“Success is having everything you need and doing everything you want. It is not doing everything you need to have everything you want.” — Jacob Lund Fisker](https://earlyretirementextreme.com/manifesto.html)_
 
