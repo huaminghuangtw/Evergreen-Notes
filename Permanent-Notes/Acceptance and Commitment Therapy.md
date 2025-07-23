@@ -1,7 +1,7 @@
 ---
 title: Acceptance and Commitment Therapy
 created: 2025-01-23T18:40:57
-modified: 2025-07-18T09:36:26
+modified: 2025-07-22T14:51:28
 ---
 
 > _“Emotion arises at the place where mind & body meet. It is the body's reaction to mind.” — Eckhart Tolle_
@@ -42,4 +42,4 @@ Instead of avoiding, denying, or battling your [negative thoughts and emotions](
 
 ---
 
-Imagine you're scheduled to give a presentation at work. You might think, “_I'm nervous, and I'm going to mess it up._” Feeling nervous before a presentation is a realistic expectation to have. ACT can help you [reframe your thoughts](mental-shift.md) to: “_I know I feel nervous, and that's OK. I'm going to practice giving my presentation before the meeting so I feel more confident._”
+Imagine you're scheduled to give a presentation at work. You might think, “_I'm nervous, and I'm going to mess it up._” Feeling nervous before a presentation is a realistic expectation to have. ACT can help you [reframe your thoughts](a-true-transformation-begins-with-a-mental-shift.md) to: “_I know I feel nervous, and that's OK. I'm going to practice giving my presentation before the meeting so I feel more confident._”
