@@ -1,7 +1,7 @@
 ---
 title: Why We Exist
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:31
+modified: 2025-07-24T07:09:10
 ---
 
 > _“Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness.” — Leo Tolstoy_
@@ -160,7 +160,7 @@ The **S.H.A.P.E. Assessment** is a self-discovery tool used primarily in Christi
 
 ### See Also
 
-* [Death](Death.md)
+* [death](death.md)
 * [How to live a life](How%20to%20live%20a%20life.md)
 * [Goal Setting](Goal%20Setting.md)
 * [Everyone is on their own timeline](Everyone%20is%20on%20their%20own%20timeline.md)
