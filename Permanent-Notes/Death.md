@@ -1,7 +1,7 @@
 ---
 title: Death
 created: 2024-11-18T09:18:12
-modified: 2025-07-23T14:34:04
+modified: 2025-07-24T07:21:04
 ---
 
 > _“The meaning of life is that it stops.” — Franz Kafka_
@@ -10,13 +10,15 @@ modified: 2025-07-23T14:34:04
 
 > _“I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.” — Jimi Hendrix_
 
-> _“If you live each day as it was your last, someday you'll most certainly be right.” — Steve Jobs_
+> _[“If you live each day as it was your last, someday you'll most certainly be right.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=552)_
 
-> _“Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life.” — Steve Jobs_
+> _[“Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=580)_
 
-> _“Death is the destination we all share, no one has ever escaped it. And that is as it should be because death is very likely the single best invention of life.” ― Steve Jobs_
+> _[“Almost everything…just fall[s] away in the face of death, leaving only what is truly important…Remembering that you are going to die is the best way I know to avoid the trap of thinking: you have something to lose. You are already naked. There is no reason not to follow your heart.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=587)_
 
-> _“Almost everything…just fall[s] away in the face of death, leaving only what is truly important…Remembering that you are going to die is the best way I know to avoid the trap of thinking: you have something to lose. You are already naked. There is no reason not to follow your heart.” — Steve Jobs_
+
+> _[“Death is the destination we all share, no one has ever escaped it. And that is as it should be because death is very likely the single best invention of life.” ― Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=723)_
+
 
 > _[“It is not death that a man should fear, but he should fear never beginning to live.” — Marcus Aurelius, Meditations](https://www.goodreads.com/quotes/44693-it-is-not-death-that-a-man-should-fear-but)_
 
