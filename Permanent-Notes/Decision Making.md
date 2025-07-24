@@ -1,7 +1,7 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2025-07-23T14:35:49
+modified: 2025-07-24T07:09:09
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -22,7 +22,7 @@ modified: 2025-07-23T14:35:49
 
 # How To Make Good Decisions?
 
-* When faced with a difficult decision, ask yourself what your [80-year-old self](Death.md) would want you to do.
+* When faced with a difficult decision, ask yourself what your [80-year-old self](death.md) would want you to do.
 * Anytime you feel a high activation state of any kind of positive/negative emotions or internal arousal, you should pause/stop and reflect, because what's happening is it's revealing to you something very important.
 	* By reflecting on these states, we can uncover important lessons and insights that can inform our future decisions and actions.
 	* If you don't stop to think about why I'm so upset or why I'm so happy, you're gonna miss an important lesson. (similar to Alchemy 煉金術 \& Avocados [^1])
