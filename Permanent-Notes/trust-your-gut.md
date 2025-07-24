@@ -1,7 +1,7 @@
 ---
 title: Trust your gut
 created: 2025-01-01T16:32:50
-modified: 2025-07-23T06:59:09
+modified: 2025-07-24T07:24:34
 ---
 
 > _“Intuition is the whisper of the soul.” — Jidda krishnamurti_
@@ -72,8 +72,9 @@ The most common interpretation of the story is that we should trust in our intui
 
 > I don't think that you're born with a gut. I think the gut matures and gets better and better over time. And the struggle that most people have I think, is learning to listen to it and figuring out how to access it in some way.
 
-> Even though I'm an engineer and an analytical person at heart, the most important decision I've made had nothing to do with any of that. They were always based on intuition.
+> Even though I'm an engineer and an analytical person at heart, the most important decision I've made had nothing to do with any of that. They were always based on intuition. [^2]
 
 > I remember forming my list of pluses and minuses and I could not get the chart to work out the way that I wanted it to. I wanted something to say, you know, this says I should go to Apple, but it would not. Nothing financially would do that. I talked to people I trusted that knew me and they said, “This is not what you should do.” It wasn't so easy. And people said, “You know, you are just crazy. You are working for the top PC company in the world. How could you even think of doing this? You've lost your mind.” [^1] And yet that voice said, “Go west, young man. Go west.” And sometimes you just have to go for it.
 
 [^1]: At that time, Apple held only as little as 4 percent of the computer market.
+[^2]: Side Note: [Steve Jobs began each morning by asking himself, _“If today were the last day of my life, would I want to do what I am about to do today?”_ He believed that _“Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life.”_](death.md)
