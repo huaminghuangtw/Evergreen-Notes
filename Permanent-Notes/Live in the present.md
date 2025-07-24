@@ -1,7 +1,7 @@
 ---
 title: Live in the present
 created: 2024-11-18T09:18:12
-modified: 2025-07-23T14:37:35
+modified: 2025-07-24T07:09:10
 ---
 
 > _“It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.” — Dr. Robert Hutchings Goddard_
@@ -28,7 +28,7 @@ modified: 2025-07-23T14:37:35
 
 > _“Life exists only at this very moment, and in this moment it is infinite and eternal. For the present moment is infinitely small; before we can measure it, it has gone, and yet it persists forever.” — Alan Watts_
 
-> _“The gods envy us. They envy us because we're [mortal](Death.md), because any moment may be our last. Everything is more beautiful because we're doomed. You will never be lovelier than you are now. We will never be here again.” — Brad Pitt_
+> _“The gods envy us. They envy us because we're [mortal](death.md), because any moment may be our last. Everything is more beautiful because we're doomed. You will never be lovelier than you are now. We will never be here again.” — Brad Pitt_
 
 > _“We are always living in expectation of better things, while at the same time we often repent and long to have the past back again.We look upon the present as something to be put up with while it lasts, and serving only as the way towards our goal. Hence most people, if they glance back when they come to the end of life, will find that all along they have been living **ad interim** :[^1] they will be surprised to find that the very thing they disregarded and let slip by unenjoyed was just their life-that is to say, it was the very thing in the expectation of which they lived. Of how many a man may it not be said that hope made a fool of him until he danced into the arms of death!” — Arthur Schopenhauer_
 
