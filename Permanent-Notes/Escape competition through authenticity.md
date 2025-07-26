@@ -1,12 +1,14 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:29
+modified: 2025-07-26T14:50:51
 ---
 
 > _“Everything popular is wrong.” — Oscar Wilde_
 
 > _“To escape from the world means that one's mind is not concerned with the opinions of the world.” — Dogen_
+
+> _“Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win. The wise warrior avoids the battle.” — Sun Tzu_ [^1]
 
 > _“Whenever you find yourself on the side of the majority, it is time to pause and reflect.” — Mark Twain_
 
@@ -77,7 +79,7 @@ The world doesn't need one more _template_. It needs one more _rebel_.
 
 Attract \> Chase
 
-> _“If you spend your time chasing butterflies, they'll fly away. But if you spend your time making/mending a beautiful garden, the butterflies will come.” — Mario Quintana_ [^1]
+> _“If you spend your time chasing butterflies, they'll fly away. But if you spend your time making/mending a beautiful garden, the butterflies will come.” — Mario Quintana_ [^2]
 
 ---
 
@@ -114,8 +116,9 @@ Find a thing that's so you, that doing it is just a natural extension of you bei
 ### See Also
 
 * [Be primarily internally driven](Be%20primarily%20internally%20driven%20with%20intrinsic%20motivation.md)
-* [Comparison is the thief of joy](Comparison%20is%20the%20thief%20of%20joy.md)
+* [Comparison is the thief of joy](comparison-is-the-thief-of-joy.md)
 * [The Spotlight Effect](The%20Spotlight%20Effect.md)
 * [Standford Prison Experiment](Standford%20Prison%20Experiment.md)
 
-[^1]: _“When you let go of the outcome and stop chasing your desires, What you desire starts chasing you.” — Dr. Wayne Dyer_
+[^1]: _“Whenever possible, win without fighting or, at the very least, to win the easiest battles first.” — Sun Tzu_
+[^2]: _“When you let go of the outcome and stop chasing your desires, What you desire starts chasing you.” — Dr. Wayne Dyer_
