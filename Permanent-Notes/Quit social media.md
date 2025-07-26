@@ -1,7 +1,7 @@
 ---
 title: Quit social media
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-07-26T14:50:52
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -144,7 +144,7 @@ If you were to reduce screen time—especially social media—by just one hour p
 
 * [BS Asymmetry Principle](BS%20Asymmetry%20Principle.md)
 * [News Sobriety](News%20Sobriety.md)
-* [Comparison is the thief of joy](Comparison%20is%20the%20thief%20of%20joy.md)
+* [Comparison is the thief of joy](comparison-is-the-thief-of-joy.md)
 
 [^1]: aka Doomscrolling (= Idle Scrolling = Zombie Scrolling = Mindlessly Surfing) → Sans Scrolling
 [^2]: (1) Excessive social media use is comparable to drug (毒品) addiction (2) The best things in life are happening away from screens. Phone addiction is a silent epidemic.
