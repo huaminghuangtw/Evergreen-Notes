@@ -1,7 +1,7 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
 created: 2024-11-18T09:18:12
-modified: 2025-07-23T14:34:03
+modified: 2025-07-26T14:50:51
 ---
 
 > _“Glory is fleeting, but obscurity is forever.” — Napoleon Bonaparte_
@@ -24,7 +24,7 @@ Your external reality is often a manifestation of your internal reality. Don't l
 
 Humans are socially conditioned in nature — we are driven for external and social validation from others.
 
-[Compete](Escape%20competition%20through%20authenticity.md) externally and you [compare](Comparison%20is%20the%20thief%20of%20joy.md). Compete internally and you improve.
+[Compete](Escape%20competition%20through%20authenticity.md) externally and you [compare](comparison-is-the-thief-of-joy.md). Compete internally and you improve.
 
 Stop people-pleasing. Everyone thinking you're great means nothing, if you don't think you're great. Be impressive to others is overrated. Be impressive to yourself. You don't need to impress anyone but yourself. You become inhumanly strong when you try to impress only one person: YOU. You are always going to win the “YOU” game. The only person you have to compete against is yourself. You learn the most when there is nobody to cheer you but yourself.
 
@@ -88,7 +88,7 @@ The Two Side of Our Natures, which are at war with each other. We happen to live
 
 ### See Also
 
-* [Comparison is the thief of joy](Comparison%20is%20the%20thief%20of%20joy.md)
+* [Comparison is the thief of joy](comparison-is-the-thief-of-joy.md)
 * [Escape competition through authenticity](Escape%20competition%20through%20authenticity.md)
 * [Change yourself to change the world](Change%20yourself%20to%20change%20the%20world.md)
 * [Mastering yourself is superpower](mastering-yourself-is-superpower.md)
