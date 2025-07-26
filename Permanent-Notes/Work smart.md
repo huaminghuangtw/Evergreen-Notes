@@ -1,12 +1,8 @@
 ---
 title: Work smart
 created: 2025-01-23T10:40:57
-modified: 2025-07-23T14:32:48
+modified: 2025-07-26T14:32:27
 ---
-
-> _“Whenever possible, win without fighting or, at the very least, to win the easiest battles first.” — Sun Tzu_
-
-> _“Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.” — Sun Tzu_
 
 > _“You're more likely to unlock a big leap in performance by trying differently than by trying harder. You might be able to work 10% harder, but a different approach might work 10x better. Remain focused on the core problem, but explore a new line of attack. Persistence is not just about effort, but also strategy. Don't merely try harder, try differently.” — James Clear_
 
@@ -80,6 +76,6 @@ Usually, the hardest work is thinking of a better way to do it.
 ### See Also
 
 * [Slow Down to Speed Up](Slow%20Down%20to%20Speed%20Up.md)
-* [What you work on is far more important than how productively you work](What%20you%20work%20on%20is%20far%20more%20important%20than%20how%20productively%20you%20work.md)
+* [What you work on is far more important than how productively you work](what-you-work-on-is-far-more-important-than-how-productively-you-work.md)
 
 [^1]: See also: [Specialization is for insects](specialization-is-for-insects.md)
