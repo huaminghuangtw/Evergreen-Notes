@@ -1,7 +1,7 @@
 ---
 title: Working Memory
 created: 2025-01-23T18:40:57
-modified: 2025-07-16T21:23:31
+modified: 2025-07-26T07:52:42
 ---
 
 Working memory is one's ability to keep specific information for immediate use, like a little sticky note in the brain.
@@ -38,5 +38,5 @@ Tools to increase dopamine levels and potentially improve working memory perform
 * NSDR or Yoga Nidra
 * [Deliberate cold exposure](Deliberate%20Heat%20Cold%20Exposure.md), such as cold showers or plunges, 30 to 60 minutes before engaging in a task
 * [Listening to 40-Hz binaural beats](https://www.youtube.com/watch?v=CQlTmOFM4Qs&t=1h11m34s)
-	* Several studies [@beaucheneEffectBinauralBeats2016] [@engelbregtEffectsBinauralMonaural2021] show increases in working memory performance when listeners use 13-30 hertz (Hz) binaural beats while doing mental tasks.
+	* Several studies [@beaucheneEffectBinauralBeats2016] [@engelbregtEffectsBinauralMonaural2021] show increases in working memory performance when listeners use binaural beats while doing mental tasks.
 * Supplementing with L-tyrosine
