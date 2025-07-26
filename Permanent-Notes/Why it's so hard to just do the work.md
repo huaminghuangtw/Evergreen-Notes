@@ -1,7 +1,7 @@
 ---
 title: Why it's so hard to just do the work
 created: 2025-03-06T21:49:43
-modified: 2025-07-24T05:21:48
+modified: 2025-07-26T14:24:21
 ---
 
 [Resistance](https://stevenpressfield.com/home/) is an [internal force](Limbic%20Friction.md) that prevents us from doing the work we're meant to do. It can be categorized as [fear](fear.md), [procrastination](Procrastination.md), self-doubt, [self-sabotage](Push%20your%20limits.md), [distraction](Being%20indistractable%20is%20superpower.md), arrogance, [perfectionism](perfectionism.md), and rationalization.
