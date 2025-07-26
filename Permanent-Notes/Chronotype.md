@@ -1,7 +1,7 @@
 ---
 title: Chronotype
 created: 2025-07-01T10:43:51
-modified: 2025-07-16T21:23:29
+modified: 2025-07-25T11:28:14
 ---
 
 ## 🕰️ What is Chronotype?
@@ -33,4 +33,4 @@ Morning lark (雲雀；百靈鳥) ↔ Night owl (貓頭鷹)
 
 ### See Also
 
-* [Work in sprints, work with your biology](Work%20in%20sprints,%20work%20with%20your%20biology.md)
+* [Work in sprints, work with your biology](work-in-sprints-work-with-your-biology.md)
