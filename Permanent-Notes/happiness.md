@@ -1,7 +1,7 @@
 ---
 title: happiness
 created: 2024-11-18T09:18:12
-modified: 2025-07-23T14:34:04
+modified: 2025-07-25T14:07:40
 ---
 
 > _“Happiness is a state where nothing is missing.” — Naval Ravikant_
@@ -112,7 +112,7 @@ But resisting reality is always the wrong choice / the worst option is sitting a
 * Hedonic Happiness
 	* Achieved through [pleasure, enjoyment, or satisfaction](Dopamine.md)
 	* Associated with the maximization of short-term pleasure
-	* The happiness you feel when you seek [instant gratification](Instant%20Gratification.md)
+	* The happiness you feel when you seek [instant gratification](instant-gratification.md)
 * Eudaimonic Happiness
 	* Achieved through [purpose, meaning](Why%20We%20Exist.md), or [authenticity](Escape%20competition%20through%20authenticity.md)
 	* Associated with a focus on long-term, value-oriented, and higher-order living
