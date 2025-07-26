@@ -1,7 +1,7 @@
 ---
 title: Delayed Gratification
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:29
+modified: 2025-07-25T14:07:40
 ---
 
 > _“It is by going down into the abyss that we recover the treasures of life. Where you stumble, there lies your treasure.” — Joseph Campbell_
@@ -14,7 +14,7 @@ Caveat: Delay gratification in the extreme just results in no gratification. (or
 
 ---
 
-The reason most people fail instead of succeed is they trade what they want most for [what they want at the moment](Instant%20Gratification.md). Everything you want in life is on the other side of something that sucks.
+The reason most people fail instead of succeed is they trade what they want most for [what they want at the moment](instant-gratification.md). Everything you want in life is on the other side of something that sucks.
 
 * That suck might be 100 workouts.
 * That suck might be 100 bland meals.
