@@ -1,7 +1,7 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2025-07-24T07:09:09
+modified: 2025-07-25T14:07:40
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -14,7 +14,7 @@ modified: 2025-07-24T07:09:09
 
 # Naval Ravikant
 
-> _We live in an age of infinite leverage. What I mean by that is that your actions can be multiplied a thousandfold, either by broadcasting a podcast or by investing capital or by having people work for you or by writing code. So because of that, the impacts of good decision-making are much higher than they used to be because now you can influence thousands or millions of people through your decisions or your code. So clear mind leads to better (sound) [judgment](Judgement.md) leads to a better outcome. So a happy, calm, peaceful person will make better decisions and have better outcomes. So if you want to operate at peak performance, you have to learn how to tame your mind. Just like you have to learn how to tame your body._
+> _We live in an age of infinite leverage. What I mean by that is that your actions can be multiplied a thousandfold, either by broadcasting a podcast or by investing capital or by having people work for you or by writing code. So because of that, the impacts of good decision-making are much higher than they used to be because now you can influence thousands or millions of people through your decisions or your code. So clear mind leads to better (sound) [judgment](Judgement.md) leads to a better outcome. So a happy, calm, peaceful person will make better decisions and have better outcomes. So if you want to operate at peak performance, you have to learn how to tame your mind. [^1] Just like you have to learn how to tame your body._
 
 > _If you want to make the wrong decision, ask everyone._
 
@@ -25,7 +25,7 @@ modified: 2025-07-24T07:09:09
 * When faced with a difficult decision, ask yourself what your [80-year-old self](death.md) would want you to do.
 * Anytime you feel a high activation state of any kind of positive/negative emotions or internal arousal, you should pause/stop and reflect, because what's happening is it's revealing to you something very important.
 	* By reflecting on these states, we can uncover important lessons and insights that can inform our future decisions and actions.
-	* If you don't stop to think about why I'm so upset or why I'm so happy, you're gonna miss an important lesson. (similar to Alchemy 煉金術 \& Avocados [^1])
+	* If you don't stop to think about why I'm so upset or why I'm so happy, you're gonna miss an important lesson. (similar to Alchemy 煉金術 \& Avocados [^2])
 * **The Secretary Problem (The 37 Percent Rule) 撿石子理論**
 	* It implies that the optimal win probability is always at least 1/e (e is Napier's Constant or Euler's Number), and that the latter holds even in a much greater generality.
 		* 最佳觀察期為整條路段長度的 1/e ~ 0.36788 (略大於 1/3)
@@ -73,7 +73,7 @@ When faced with any key decision, you effectively choose one of two potential ch
 
 * The Investor is a long-term thinker who makes an investment to [delay gratification](Delayed%20Gratification.md).
 	* Investments compound positively and the future self cashes in on the rewards.
-* The Borrower is a short-term thinker who takes out a loan to [experience pleasure now](Instant%20Gratification.md).
+* The Borrower is a short-term thinker who takes out a loan to [experience pleasure now](instant-gratification.md).
 	* Loans accrue interest negatively and the future self is stuck with the bill.
 
 ---
@@ -134,4 +134,5 @@ Razors
 * [Mental Models](mental%20models.md)
 * [Everything in life has an opportunity cost](Everything%20in%20life%20has%20an%20opportunity%20cost.md)
 
-[^1]: Not Yet → Not Yet → Not Yet → Not Yet → Time To Eat → Too Late
+[^1]: _“The mind is difficult to control; swiftly and lightly it moves wherever it pleases. It is good to tame the mind, for a well-tamed mind brings happiness.” — Dhammapada_
+[^2]: Not Yet → Not Yet → Not Yet → Not Yet → Time To Eat → Too Late
