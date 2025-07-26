@@ -1,7 +1,7 @@
 ---
 title: Public Speaking
 created: 2025-01-23T10:40:57
-modified: 2025-07-19T07:33:22
+modified: 2025-07-24T11:25:07
 ---
 
 ![](../_attachments/6c8f79badba8703f7e8f9c978dca4d9c.webp)
@@ -9,6 +9,10 @@ modified: 2025-07-19T07:33:22
 ---
 
 [“Suggestions For Giving Talks” by Robert Geroch](https://arxiv.org/pdf/gr-qc/9703019)
+
+---
+
+[Think Fast. Talk Smart. | Matt Abrahams | TEDxMontaVistaHighSchool](https://youtu.be/o3K_HbpWNpg)
 
 ---
 
