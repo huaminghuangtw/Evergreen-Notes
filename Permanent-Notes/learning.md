@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-07-23T14:35:49
+modified: 2025-07-24T11:24:12
 ---
 
 > _“Live to learn and you'll really learn to live.” — John C. Maxwell_
@@ -222,7 +222,7 @@ Always starting from the most basic and simplest level, then adding more complex
 ### See Also
 
 * [Language Learning](Language%20Learning.md)
-* [School is nothing but the starting line of true education](True%20education%20begins%20where%20school%20ends.md)
+* [School is nothing but the starting line of true education](true-education-begins-where-school-ends.md)
 
 [^1]: 圖像、故事、位置空間 (羅馬房間方位記憶法 = 宮殿記憶法)
 [^2]: [The Learning Pit](https://sketchplanations.com/the-learning-pit)
