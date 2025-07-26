@@ -1,7 +1,7 @@
 ---
 title: Temptation Bundling
 created: 2024-12-16T23:33:02
-modified: 2025-07-16T21:23:30
+modified: 2025-07-26T11:30:58
 ---
 
 by Katherine Milkman [@milkmanHoldingHungerGames2014] [@kirgiosTeachingTemptationBundling2020]
@@ -19,7 +19,7 @@ A “forcing function” refers to something that forces or drives a desired out
 # Definition
 
 * 在討厭的事物中，附加喜歡的事物
-* [Linking something you enjoy with pursuing a valuable goal that might be a bit of a drag](https://characterlab.org/tips-of-the-week/temptation-bundling/)—can be a powerful way to achieve more without exerting much [self-control](Discipline%20equals%20freedom.md).
+* [Linking something you enjoy with pursuing a valuable goal that might be a bit of a drag](https://characterlab.org/tips-of-the-week/temptation-bundling/)—can be a powerful way to achieve more without exerting much [self-control](discipline-equals-freedom.md).
 * [Pair the thing you SHOULD be doing with something you WANT to do.](https://jamesclear.com/temptation-bundling)
 * Attach something you LOVE to the thing you HATE—give yourself the reward while you [do the hard thing](Do%20hard%20things.md).
 
