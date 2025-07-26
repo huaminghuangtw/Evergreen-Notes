@@ -1,7 +1,7 @@
 ---
 title: Do great work
 created: 2024-11-18T09:18:12
-modified: 2025-07-18T09:36:06
+modified: 2025-07-25T14:06:51
 ---
 
 > _“Good is the enemy of great.” — [@collinsGoodGreatWhy2001]_
@@ -24,7 +24,7 @@ modified: 2025-07-18T09:36:06
 
 [“Here’s how to live: Master something.” by Derek Sivers](https://sive.rs/htl08)
 
-> _Pick one thing and spend the rest of your life getting deeper into it. Mastery is the best goal because the rich can't buy it, the [impatient](patience.md) can't rush it, the privileged can't inherit it, and nobody can steal it. You can only earn it through hard work. Mastery is the ultimate status._
+> _Pick one thing and spend the rest of your life getting deeper into it. Mastery is the best goal because the rich can't buy it, the [impatient](a-man-who-is-a-master-of-patience-is-master-of-everything-else.md) can't rush it, the privileged can't inherit it, and nobody can steal it. You can only earn it through hard work. Mastery is the ultimate status._
 
 ---
 
