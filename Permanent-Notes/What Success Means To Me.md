@@ -1,7 +1,7 @@
 ---
 title: What Success Means To Me
 created: 2024-11-18T09:18:12
-modified: 2025-07-22T14:42:20
+modified: 2025-07-24T11:25:35
 ---
 
 > _[“Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable. And you're the only one that will know that.” — John Wooden](https://www.youtube.com/watch?v=JWQIxuNGdvQ&t=95s)_
@@ -41,7 +41,7 @@ modified: 2025-07-22T14:42:20
 > _[“The only true test of intelligence is if you get what you want out of life.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)_
 
 1. 想：知道自己想要/不想要什麼
-2. 做：有能力真正地得到/避免自己想要/不想要 の 東西
+2. 做：有能力真正地得到/避開自己想要/不想要 の 東西
 
 [Life is a game of awareness and action: Awareness to understand something's importance and action to execute on that importance.](https://www.sahilbloom.com/newsletter/11-uncommon-lessons-from-uncommon-minds)
 
