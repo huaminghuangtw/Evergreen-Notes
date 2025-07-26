@@ -1,7 +1,7 @@
 ---
 title: Choose your response
 created: 2025-01-23T10:40:57
-modified: 2025-07-22T14:51:29
+modified: 2025-07-25T11:21:14
 ---
 
 > _“It is the set of the sails, not the direction of the wind that determines which way we will go.” — Jim Rohn_
@@ -12,7 +12,7 @@ modified: 2025-07-22T14:51:29
 
 > _“How people treat you is their [karma](Life%20is%20cyclic.md); how you react is yours.” — Dr. Wayne Dyer_
 
-> _“If we are all going to be destroyed by an atomic bomb, let that bomb when it comes find us doing sensible and human things-praying, working, teaching, reading, listening to music, bathing the children, playing tennis, chatting to our friends over a pint and a game of darts—not huddled together like frightened sheep and thinking about bombs. They may break our bodies (a microbe can do that) but they need not dominate our minds.” — C.S. Lewis_
+> _“If we are all going to be destroyed by an atomic bomb, let that bomb when it comes find us doing sensible and human things-praying, working, teaching, reading, listening to music, bathing the children, playing tennis, chatting to our friends over a pint and a game of darts—not huddled together like frightened sheep and thinking about bombs. They may break our bodies (a microbe can do that) but they need not dominate our minds.” — C.S. Lewis_ [^1]
 
 ---
 
@@ -89,3 +89,5 @@ The real skill in life _isn't avoiding pain—it's refusing to shoot yourself tw
 
 * [A true transformation begins with a mental shift](a-true-transformation-begins-with-a-mental-shift.md)
 * [Peace from mind](Peace%20from%20mind.md)
+
+[^1]: _“It's like singing on a boat during a terrible storm at sea. You can't stop the raging storm, but singing can change the hearts and spirits of the people who are together on that ship.” — Anne Lamott_
