@@ -1,7 +1,7 @@
 ---
 title: Everyone is on their own timeline
 created: 2024-11-18T09:18:12
-modified: 2025-07-18T09:36:06
+modified: 2025-07-26T14:50:51
 ---
 
 > _“One's own dharma performed imperfectly is better than another's dharma well performed…It is better to strive in one's own dharma than to succeed in the dharma of another.” — Bhagavad Gita_
@@ -32,7 +32,7 @@ Just keep exploring until you find your thing, then go deep and direct all of yo
 
 No matter where you are in life _today_, you're always one good decision away from being in a better place _tomorrow_—[just focus on the next decision](Just%20focus%20on%20the%20next%20decision.md).
 
-It's okay to be lost sometimes, but [never compare your timeline to other people's, because it's a pointless comparison](Comparison%20is%20the%20thief%20of%20joy.md).
+It's okay to be lost sometimes, but [never compare your timeline to other people's, because it's a pointless comparison](comparison-is-the-thief-of-joy.md).
 
 [Life is neither a race, nor a competition.](Escape%20competition%20through%20authenticity.md) There are no rules to life. Not everything in life has to come together at the exact same time. There is no such thing as “too late” or “falling behind” when it comes to life. You might be [too scared](fear.md), but you are never too late.
 
@@ -91,5 +91,5 @@ It's okay to be lost sometimes, but [never compare your timeline to other people
 
 ### See Also
 
-* [Comparison is the thief of joy](Comparison%20is%20the%20thief%20of%20joy.md)
-* [A man who is a master of patience is master of everything else](patience.md)
+* [Comparison is the thief of joy](comparison-is-the-thief-of-joy.md)
+* [A man who is a master of patience is master of everything else](a-man-who-is-a-master-of-patience-is-master-of-everything-else.md)
