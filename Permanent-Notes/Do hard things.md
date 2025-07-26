@@ -1,7 +1,7 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:29
+modified: 2025-07-26T11:30:58
 ---
 
 > _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
@@ -22,7 +22,7 @@ modified: 2025-07-16T21:23:29
 
 > _“I learned that by constantly doing things that are hard and making myself uncomfortable, I improve my ability to handle obstacles. I get comfortable being uncomfortable—and that's real mental toughness.” ― Jesse Itzler, [Living with a SEAL: 31 Days Training with the Toughest Man on the Planet](https://www.goodreads.com/work/quotes/44751808)_
 
-> _“We must all suffer from one of two pains: the pain of [discipline](Discipline%20equals%20freedom.md) or the pain of regret. The difference is [discipline](Discipline%20equals%20freedom.md) weighs ounces while regret weighs tons.” — Jim Rohn_
+> _“We must all suffer from one of two pains: the pain of [discipline](discipline-equals-freedom.md) or the pain of regret. The difference is [discipline](discipline-equals-freedom.md) weighs ounces while regret weighs tons.” — Jim Rohn_
 
 ---
 
@@ -75,7 +75,7 @@ When we embrace _voluntary struggles_, we're better equipped/prepared for the _i
 
 > _“The costs of your good [habits](Be%20a%20habit%20and%20routine%20machine.md) are in the present. The costs of your bad [habits](Be%20a%20habit%20and%20routine%20machine.md) are in the future.” — James Clear_
 
-* [Short-term pain](Instant%20Gratification.md) typically creates compounding [long-term gain](Delayed%20Gratification.md).
+* [Short-term pain](instant-gratification.md) typically creates compounding [long-term gain](Delayed%20Gratification.md).
 * [Short-term cost pays long-term dividend.](Everything%20in%20life%20has%20an%20opportunity%20cost.md)
 * Every gain in life comes from [compound interests](The%20Compounding%20Effect.md). Almost all mistakes in life come from short-term thinking. The things that _feel good to us_ in the short-term are rarely the things that _are good for us_ in the long-term.
 * [先苦後甘 \> 先甘後苦](Do%20hard%20things.md)
