@@ -1,12 +1,14 @@
 ---
 title: Mastering yourself is superpower
 created: 2024-11-18T09:18:12
-modified: 2025-07-23T11:28:17
+modified: 2025-07-26T14:50:51
 ---
 
 > _“Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power.” — Lao Tzu, Tao Te Ching_
 
-> _“When you are content to simply be yourself and don't [compare](Comparison%20is%20the%20thief%20of%20joy.md) or [compete](Escape%20competition%20through%20authenticity.md), everybody will respect you.” — Lao Tzu, Tao Te Ching_
+> _“He who controls others may be powerful, but he who has mastered himself is mightier still. (勝人者有力，自勝者強)” — Lao Tzu_
+
+> _“When you are content to simply be yourself and don't [compare](comparison-is-the-thief-of-joy.md) or [compete](Escape%20competition%20through%20authenticity.md), everybody will respect you.” — Lao Tzu, Tao Te Ching_
 
 > _“There are 2 mistakes along the way to Self-Mastery: Not starting it, and not going all the way.” — Shi Heng Yi (释恒義)_
 
@@ -36,14 +38,6 @@ modified: 2025-07-23T11:28:17
 
 ---
 
-自我成長 の 三大核心元素：自愛、自律、自由
-
-* 自律等於自由
-* 自由是愛上真實的自己
-* 自愛的最高層次是自律
-
----
-
 「灌酒/茶」和「品酒/茶」的差別：後者多了「自覺」
 
 ---
@@ -68,7 +62,7 @@ modified: 2025-07-23T11:28:17
 * “_The universal law of being successful and happy at the same time means finding the balance._”
 * _“There are 2 mistakes along the way to Mastery: Not starting it, and not going all the way.”_
 * 5 Hindrances
-	1. [Sensual desire](Instant%20Gratification.md) (pleasures \& distractions)
+	1. [Sensual desire](instant-gratification.md) (pleasures \& distractions)
 		* from the five gates of the body:
 			* Seeing
 			* Hearing
