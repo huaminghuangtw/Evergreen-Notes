@@ -1,8 +1,10 @@
 ---
 title: Deliberate Practice
 created: 2025-01-23T10:40:57
-modified: 2025-07-23T14:31:02
+modified: 2025-07-26T14:24:21
 ---
+
+[@ericssonRoleDeliberatePractice1993]
 
 by Anders Ericsson (研究世界專家的世界專家)
 
