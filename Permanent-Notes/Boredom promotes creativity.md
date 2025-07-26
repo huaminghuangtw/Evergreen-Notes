@@ -1,7 +1,7 @@
 ---
 title: Boredom promotes creativity
 created: 2024-12-16T14:01:41
-modified: 2025-07-16T21:23:29
+modified: 2025-07-25T11:17:37
 ---
 
 [@talebBedProcrustesPhilosophical2016]
@@ -47,7 +47,7 @@ For Warren Buffett, it's a much more important practice to take the time for _[d
 
 # Boredom Alpha
 
-Your most creative moments come during bouts of boredom. Experiencing [regular periods of boredom](Solitude.md) is a competitive advantage. When you're bored, your mind [wanders](wander.md), and creative insight (洞察力) strikes.
+Your most creative moments come during bouts of boredom. Experiencing [regular periods of boredom](solitude.md) is a competitive advantage. When you're bored, your mind [wanders](wander.md), and creative insight (洞察力) strikes.
 
 Boredom is a filter. Common ideas come before it. Uncommon ideas come after it. Stay with a project long enough to get bored with it, and then push yourself even further. The most valuable insights often bubble up after you get bored.
 
