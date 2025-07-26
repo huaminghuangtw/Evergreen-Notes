@@ -1,7 +1,7 @@
 ---
 title: Always start and end the day right
 created: 2025-01-23T10:40:57
-modified: 2025-07-23T14:35:49
+modified: 2025-07-26T11:30:58
 ---
 
 > _“Write it on your heart that every day is the best day in the year. He is rich who owns the day, and no one owns the day who allows it to be invaded with fret and anxiety. Finish every day and be done with it. You have done what you could.” — Ralph Waldo Emerson_
@@ -16,7 +16,7 @@ Devote _the same_ amount of time and energy to your Morning Routine AND Evening 
 
 Reserve the first and last part of your day for activities that support your mental health (_meditation_, _reading_, _journaling_, _walking_, _yoga stretching_, etc.)
 
-⭐️ It's crucial to balance rigid [discipline](Discipline%20equals%20freedom.md) with flexible wiggle room. Too much order is fragile. Have minimal structure in terms of routines over the course of your day to accommodate unexpected surprises.
+⭐️ It's crucial to balance rigid [discipline](discipline-equals-freedom.md) with flexible wiggle room. Too much order is fragile. Have minimal structure in terms of routines over the course of your day to accommodate unexpected surprises.
 
 ---
 
