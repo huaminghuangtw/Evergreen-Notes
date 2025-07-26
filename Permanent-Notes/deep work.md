@@ -1,14 +1,14 @@
 ---
 title: deep work
 created: 2025-01-23T10:40:57
-modified: 2025-07-16T21:23:31
+modified: 2025-07-26T11:37:33
 ---
 
 [@newportDeepWorkRules2016]
 
 Deep work generates deeper satisfaction (aka., “passion”) for your work.
 
-A working life dedicated to deep work is a working life well-lived.
+[A working life dedicated to deep work is a working life well-lived.](https://calnewport.com/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/)
 
 ---
 
