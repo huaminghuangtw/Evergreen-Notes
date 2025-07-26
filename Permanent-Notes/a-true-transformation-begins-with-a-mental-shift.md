@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2025-07-23T14:37:35
+modified: 2025-07-24T11:23:56
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](Stay%20curious.md) is key.
@@ -39,6 +39,8 @@ modified: 2025-07-23T14:37:35
 > _“It won't always go your way, so you can't get trapped in this idea that just because you've imagined a possibility for yourself that you somehow deserve it. Your entitled mind is dead weight. Cut it loose. Don't focus on what you think you deserve. Take aim on what you are willing to earn!”_
 
 > _“Children are wonderfully confident in their own imaginations. Most of us lose this confidence as we grow up.” — Sir Ken Robinson_
+
+> _[“Beliefs are choices. First you choose your beliefs. Then your beliefs affect your choices.” — Roy T. Bennett](https://www.goodreads.com/quotes/7718116-beliefs-are-choices-first-you-choose-your-beliefs-then-your)_
 
 ---
 
