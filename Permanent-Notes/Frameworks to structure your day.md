@@ -1,7 +1,7 @@
 ---
 title: Frameworks to structure your day
 created: 2025-01-23T18:40:57
-modified: 2025-07-19T07:33:22
+modified: 2025-07-25T11:28:14
 ---
 
 > _[Live life by design, not default.](https://fs.blog/david-foster-wallace-this-is-water/) Make each day your masterpiece. How you spend your days is how you spend your life._
@@ -15,7 +15,7 @@ modified: 2025-07-19T07:33:22
 	* _“Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.” — Celestine Chua_
 	* _“Don't let making a living prevent you from making a life.” — John Wooden_
 * [Spend a handful of hours a day going fast. Crush a gym session. Do deep work on a project you care about. Spend the rest of the day going slow. Take walks. Read books. Get a long dinner with friends. Either way, avoid the anxious middle where you never truly relax or truly move forward.](https://x.com/charlesmiller_7/status/1897358851776610720)
-	* See also: [Work in sprints, work with your biology](Work%20in%20sprints,%20work%20with%20your%20biology.md)
+	* See also: [Work in sprints, work with your biology](work-in-sprints-work-with-your-biology.md)
 * Think of life as units of days. Think of a day as units of time.
 	* [100 Blocks A Day by Tim Urban](https://waitbutwhy.com/2016/10/100-blocks-day.html)
 		* Your awake time each day can be split into 100 × 10-minute blocks ≈ 16 hours
