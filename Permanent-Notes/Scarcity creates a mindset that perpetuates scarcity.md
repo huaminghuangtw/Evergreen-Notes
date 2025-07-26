@@ -1,7 +1,7 @@
 ---
 title: Scarcity creates a mindset that perpetuates scarcity
 created: 2025-02-26T15:42:19
-modified: 2025-07-16T21:23:30
+modified: 2025-07-25T14:07:41
 ---
 
 [@mullainathanScarcityWhyHaving2013]
@@ -47,5 +47,5 @@ modified: 2025-07-16T21:23:30
 
 * [山道猴子的一生](https://zh.wikipedia.org/zh-tw/%E5%B1%B1%E9%81%93%E7%8C%B4%E5%AD%90%E7%9A%84%E4%B8%80%E7%94%9F)
 
-[^1]: 窮人因長期勞累於掙錢，疲憊的身心使他們只能尋求 [眼前的短暫解脫](Instant%20Gratification.md)，例如吸菸、喝酒或嗑藥。由於缺乏儲蓄，稍有不慎的意外便需借高利貸度日，甚至陷入以債養債的困境，貧困因此成為難以脫身的牢籠。
+[^1]: 窮人因長期勞累於掙錢，疲憊的身心使他們只能尋求 [眼前的短暫解脫](instant-gratification.md)，例如吸菸、喝酒或嗑藥。由於缺乏儲蓄，稍有不慎的意外便需借高利貸度日，甚至陷入以債養債的困境，貧困因此成為難以脫身的牢籠。
 [^2]: [在充裕時期就妥善分配資源，設置「反匱乏」緩衝機制。](Hope%20for%20the%20best,%20prepare%20for%20the%20worst.md)
