@@ -1,7 +1,7 @@
 ---
 title: Dopamine
 created: 2024-11-18T09:18:12
-modified: 2025-07-22T14:51:29
+modified: 2025-07-25T14:07:40
 ---
 
 > _“Persons with severe addictions are among those contemporary prophets that we ignore to our own demise, for they show us who we truly are. (重度成癮者是當代的預言家，不把他們當一回事，沒有好下場的是我們，因為他們反映的正是我們真實的面貌)” — Kent Dunnington_
@@ -66,7 +66,7 @@ Feel unmotivated? [Procrastination](Procrastination.md)?
 
 ![](../_attachments/fda2af8a9381a47b8f476c2d082278d8.png)
 
-Cheap (Fake) Dopamine (associated with [short-term thinking](Instant%20Gratification.md))
+Cheap (Fake) Dopamine (associated with [short-term thinking](instant-gratification.md))
 
 * Increases our [Dopamine](Dopamine.md) baseline levels
 	* Once they drop/return to normal, we crash.
