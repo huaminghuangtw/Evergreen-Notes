@@ -1,7 +1,7 @@
 ---
 title: Peace from mind
 created: 2024-12-03T22:26:07
-modified: 2025-07-22T14:46:11
+modified: 2025-07-25T11:18:56
 ---
 
 > _“The resting place of the mind is the heart. The only thing the mind hears all day is clanging bells and noise and argument, and all it wants is quietude. The only place the mind will ever find peace is inside the silence of the heart. That's where you need to go.” — Elizabeth Gilbert_
@@ -20,4 +20,4 @@ Not having the urge to explain or defend yourself is real inner peace.
 
 ---
 
-The Japanese word [mushin (無心)](https://www.google.com/search?q=mushin) translates to “no mind” or “empty mind.” It describes a mental state central to Zen Buddhism and Japanese martial arts, where the mind is free from [anger](anger.md), [fear](fear.md), and [ego](Abandon%20your%20ego.md). This state isn't a complete absence of thought but rather a fluid, unencumbered awareness—free from attachment, conceptual [overthinking](overthinking.md), or [fixation on thoughts](Be%20ready%20to%20change%20your%20mind%20completely%20at%20any%20given%20time.md).
+The Japanese word [mushin (無心)](https://www.google.com/search?q=mushin) translates to “no mind” or “empty mind.” It describes a mental state central to Zen Buddhism and Japanese martial arts, where the mind is free from [anger](anger.md), [fear](fear.md), and [ego](Abandon%20your%20ego.md). This state isn't a complete absence of thought but rather a fluid, unencumbered awareness—free from attachment, conceptual [overthinking](overthinking.md), or [fixation on thoughts](be-ready-to-change-your-mind-completely-at-any-given-time.md).
