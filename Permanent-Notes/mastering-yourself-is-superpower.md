@@ -1,7 +1,7 @@
 ---
 title: Mastering yourself is superpower
 created: 2024-11-18T09:18:12
-modified: 2025-07-26T14:50:51
+modified: 2025-07-28T07:16:39
 ---
 
 > _“Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power.” — Lao Tzu, Tao Te Ching_
@@ -74,7 +74,7 @@ modified: 2025-07-26T14:50:51
 	4. Restlessness (unsettled/monkey mind)
 		* Regret about the past
 		* Worry about the future
-		* Unable to [stay in the present](Live%20in%20the%20present.md)
+		* Unable to [stay in the present](live-in-the-present.md)
 	5. [Skeptical doubt (indecisiveness)](overthinking.md)
 * How to remove these hindrances?
 	1. Recognize (what state of mind you're in)
