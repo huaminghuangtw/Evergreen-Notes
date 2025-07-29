@@ -1,7 +1,7 @@
 ---
 title: Eat the biggest frog first thing in the morning
 created: 2024-12-04T17:55:24
-modified: 2025-07-16T21:23:29
+modified: 2025-07-28T07:16:06
 ---
 
 > _“Do one thing every day that scares you.” — Eleanor Roosevelt_
@@ -41,7 +41,7 @@ First things first. Do the most important thing [^2] first.
 5. Look only at the items you've answered “yes” to for at least one of these questions.
 6. Block out at least 2-3 hours to focus on ONE of them for today. Let the rest of the urgent but less important stuff slide. It will still be there tomorrow.
 7. TO BE CLEAR: Block out at least 2-3 HOURS to focus on ONE of them for today. This is ONE BLOCK OF TIME. Cobbling together 10 minutes here and there to add up to 120 minutes does not work.
-8. If you get [distracted](Being%20indistractable%20is%20superpower.md) or start [procrastinating](Procrastination.md), [don't freak out and downward spiral; just gently come back to your ONE to-do.](Self-compassion.md)
+8. If you get [distracted](being-indistractable-is-superpower.md) or start [procrastinating](Procrastination.md), [don't freak out and downward spiral; just gently come back to your ONE to-do.](Self-compassion.md)
 
 ---
 
@@ -65,7 +65,7 @@ First things first. Do the most important thing [^2] first.
 * This is a _long/solid/consecutive/uninterrupted/unbroken blocks/slabs of time_, where you are three times more productive than usual.
 * _“An hour before 9 is worth two after 5.”_ — It feels like gaining extra hours in your day!
 
-You need to find XXX in your day, and ruthlessly foster/protect it from all the time thieves in your life. When you [combine XXX with a deadline](Parkinson's%20Law.md), you QUADRUPLE your productivity.
+You need to find XXX in your day, and ruthlessly foster/protect it from all the time thieves in your life. When you [combine XXX with a deadline](parkinsons-law.md), you QUADRUPLE your productivity.
 
 [As those time-chunks get separated and fragmented, my productivity drops spectacularly.](https://www.nealstephenson.com/why-i-am-a-bad-correspondent.html)
 
@@ -74,7 +74,7 @@ You need to find XXX in your day, and ruthlessly foster/protect it from all the 
 ### See Also
 
 * [deep work](deep%20work.md)
-* [Why it's so hard to just do the work?](Why%20it's%20so%20hard%20to%20just%20do%20the%20work.md)
+* [Why it's so hard to just do the work?](why-its-so-hard-to-just-do-the-work.md)
 
 [^1]: Learn to LET the small, bad things happen and MAKE the huge, great things happen.
 [^2]: = MIT = Big Cojones Action (BCA)
