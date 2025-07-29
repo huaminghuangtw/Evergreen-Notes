@@ -1,7 +1,7 @@
 ---
 title: Psychology
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-07-28T07:01:55
 ---
 
 * Egocentric Bias
@@ -51,7 +51,7 @@ modified: 2025-07-16T21:23:30
 	* Put yourself into the mindset of another person
 * [斯坦福棉花糖實驗 Standford Marshmallow Experiment on Delayed Gratification](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment)
 * 「果醬實驗」(Jam Experiment)
-	* How Choice Overloads Makes Consumers Buy Less (due to [Decision Fatigue](Decision%20Fatigue.md))
+	* How Choice Overloads Makes Consumers Buy Less (due to [Decision Fatigue](decision-fatigue.md))
 * [Loss Aversion](https://en.wikipedia.org/wiki/Loss_aversion)
 	* The pain we feel when we lose outweighs the pleasure we feel when we win.
 * Echo Chamber (同溫層效應 = 迴聲室效應 = 信息繭房)
