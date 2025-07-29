@@ -1,7 +1,7 @@
 ---
 title: Procrastination
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-07-27T11:14:03
 ---
 
 > _“To begin, begin.” — William Wordsworth_
@@ -82,7 +82,7 @@ _“[The magic you are looking for is in the work you are always avoiding.](http
 	* Falling behind is not quitting. It's just a third of the story.
 * 降低成功的門檻
 	* Telling yourself to lower the bar/stakes, embrace mediocrity, and “choose to” be satisfied
-* Observe the sensation, [write it down](Implementation%20Intentions.md), and ask yourself: “_What am I trying to escape from?_”
+* Observe the sensation, [write it down](implementation-intentions.md), and ask yourself: “_What am I trying to escape from?_”
 * [將其分割成一個個細小、可控、明確、具體的階段性任務](The%20Growth%20Mindset.md)
 	1. [Break complex, overwhelming tasks into small, manageable chunks.](https://youtu.be/TQMbvJNRpLE) [^2]
 		* E.g., [breaking down a complex image into simple gray squares](https://www.youtube.com/watch?v=TQMbvJNRpLE&t=10)
