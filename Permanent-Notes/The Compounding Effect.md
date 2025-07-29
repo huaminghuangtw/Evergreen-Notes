@@ -1,7 +1,7 @@
 ---
 title: The Compounding Effect
 created: 2024-11-18T09:18:12
-modified: 2025-07-18T13:53:23
+modified: 2025-07-27T11:16:23
 ---
 
 > _“Compounding is the 8th wonder of the world.” — Albert Einstein_
@@ -97,4 +97,4 @@ leads to a [Vicious Cycle (良性循環)](https://www.google.com/search?q=Viciou
 * [Every single day, chop wood, carry water](Every%20single%20day,%20chop%20wood,%20carry%20waters.md)
 
 [^1]: 巴菲特的「滾雪球理論」（The Snowball Theory）：必須找到「一顆可以滾得動的好雪球」與「一條夠長的下坡路」。
-[^2]: [Sometimes success is just about avoiding failure and](https://fs.blog/avoid-bad-decisions/) [making bad decisions.](Decision%20Making.md)
+[^2]: [Sometimes success is just about avoiding failure and](https://fs.blog/avoid-bad-decisions/) [making bad decisions.](decision-making.md)
