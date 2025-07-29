@@ -1,7 +1,7 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
 created: 2024-11-18T09:18:12
-modified: 2025-07-26T14:50:51
+modified: 2025-07-27T11:17:00
 ---
 
 > _“Glory is fleeting, but obscurity is forever.” — Napoleon Bonaparte_
@@ -55,7 +55,7 @@ Focus on the internal scorecard (追求內在成就), not the external/social ap
 
 * _Would you rather be the world's greatest lover, but have everyone think you're the world's worst lover? Or would you rather be the world's worst lover but have everyone think you're the world's greatest lover?_
 * _If the world couldn't see your results, would you rather be thought of as the world's greatest investor but in reality have the world's worst record? Or be thought of as the world's worst investor when you were actually the best?_
-* _Would you still be interested in buying/[learning](learning.md) [^2]/doing this thing if you cannot show it to anyone or tell anyone about it except yourself?_
+* _Would you still be interested in buying/[learning](learning-is-the-single-best-investment-that-you-can-make-for-your-time.md) [^2]/doing this thing if you cannot show it to anyone or tell anyone about it except yourself?_
 
 ---
 
