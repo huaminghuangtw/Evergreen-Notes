@@ -1,7 +1,7 @@
 ---
 title: The Solomon Paradox
 created: 2025-02-10T09:26:06
-modified: 2025-07-23T14:38:46
+modified: 2025-07-27T11:16:23
 ---
 
 * One's ability to reason more sensibly about someone else's problems than one's own
@@ -19,7 +19,7 @@ modified: 2025-07-23T14:38:46
 
 ## 1. 借助外部視角
 
-在做決策時，我們可以尋求值得信賴的朋友或專業人士的建議。通過比較他們的觀點與自己的解決方案，綜合考量後再做最終決定，從而降低 [自身情緒](Emotion%20Control.md) 對 [判斷](Decision%20Making.md) 的影響。
+在做決策時，我們可以尋求值得信賴的朋友或專業人士的建議。通過比較他們的觀點與自己的解決方案，綜合考量後再做最終決定，從而降低 [自身情緒](Emotion%20Control.md) 對 [判斷](decision-making.md) 的影響。
 
 ## 2. 切換觀點，練習「自我抽離」
 
