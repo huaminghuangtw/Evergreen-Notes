@@ -1,7 +1,7 @@
 ---
 title: Systems over goals
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-07-27T11:16:23
 ---
 
 > _“You don't rise to the level of your goals. You fall to the level of your systems. Your goal is your desired outcome. Your system is the collection of daily habits that will get you there.” — James Clear_ [^1]
@@ -24,7 +24,7 @@ Key step to build an effective system that function smoothly
 
 ---
 
-Systems allow you to [make a decision](Decision%20Making.md) _one time_ instead of _hundreds (or even thousands) of times_. [^2] Anytime you [make one decision](Decision%20Making.md) that reduces the number of decisions you need to make in the future, you are creating a system.
+Systems allow you to [make a decision](decision-making.md) _one time_ instead of _hundreds (or even thousands) of times_. [^2] Anytime you [make one decision](decision-making.md) that reduces the number of decisions you need to make in the future, you are creating a system.
 
 ---
 
