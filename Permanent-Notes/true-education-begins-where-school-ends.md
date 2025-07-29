@@ -1,12 +1,14 @@
 ---
 title: True education begins where school ends
 created: 2025-01-23T18:40:57
-modified: 2025-07-24T11:24:30
+modified: 2025-07-28T12:18:42
 ---
 
 > _“School is one thing. Education is another. The two don't always overlap. Whether you're in school or not, it's always your job to get yourself an education.” — Austin Kleon_
 
 > _“Education is what remains after one has forgotten everything he learned in school.” — Albert Einstein_
+
+> _“The most important thing we learn at school is the fact that the most important things can't be learned at school.” ― Haruki Murakami, [What I Talk About When I Talk About Running](https://www.goodreads.com/work/quotes/2475030)_
 
 > _“When you stop learning you start dying.” — Albert Einstein_
 
