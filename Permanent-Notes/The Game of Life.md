@@ -1,7 +1,7 @@
 ---
 title: The Game of Life
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:31
+modified: 2025-07-27T07:28:15
 ---
 
 > _[The reason to play the game is to be free of it.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)_
@@ -55,7 +55,7 @@ modified: 2025-07-16T21:23:31
 
 ### See Also
 
-* [Work smart](Work%20smart.md)
+* [Work smart](work-smart.md)
 * [Escape competition through authenticity](Escape%20competition%20through%20authenticity.md)
 * [Everything in life has an opportunity cost](Everything%20in%20life%20has%20an%20opportunity%20cost.md)
 
