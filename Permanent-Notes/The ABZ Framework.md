@@ -1,12 +1,12 @@
 ---
 title: The ABZ Framework
 created: 2025-01-23T18:40:57
-modified: 2025-07-23T14:35:49
+modified: 2025-07-28T07:01:55
 ---
 
 [by Shaan Puri](https://x.com/ShaanVP/status/1347252471291207681)
 
-is a [mental model](mental%20models.md) to save you from [analysis paralysis](Decision%20Fatigue.md) while starting new projects or achieving your life goals.
+is a [mental model](mental%20models.md) to save you from [analysis paralysis](decision-fatigue.md) while starting new projects or achieving your life goals.
 
 ![](../_attachments/7e708fde452803ca57beadba7c474768.png)
 
