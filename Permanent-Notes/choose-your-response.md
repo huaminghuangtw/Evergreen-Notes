@@ -1,7 +1,7 @@
 ---
 title: Choose your response
 created: 2025-01-23T10:40:57
-modified: 2025-07-25T11:21:14
+modified: 2025-07-28T07:08:53
 ---
 
 > _“It is the set of the sails, not the direction of the wind that determines which way we will go.” — Jim Rohn_
@@ -36,20 +36,16 @@ You are not the cause of everything that happens to you, but you are responsible
 
 ---
 
-Most of life's conflicts come from people _reacting_ to situation father than _responding_ to it. <u>Man who cannot control his words cannot control himself.</u>
+Most of life's conflicts come from people _reacting_ to situation rather than _responding_ to it. <u>Man who cannot control his words cannot control himself.</u>
 
-Example:
+✱ Example:
 
 * REACTING
-	* Person 1: “_Why did you do it like that?_”
+	* Person 1: “Why did you do it like that?”
 	* Person 2: “_What do you mean? What's wrong with how l've done it?_”
 * RESPONDING
 	* Person 1: “Why did you do it like that?”
 	* Person 2: “_I did it like that because I've done it in a similar way before - it's the most efficient method._”
-
----
-
-To follow up an error with a foolish reaction is to lose twice.
 
 ---
 
@@ -79,9 +75,27 @@ The second arrow is our reaction to the first. It's the emotional wound we infli
 
 But here's the thing: the second arrow is optional.
 
-Regret, guilt, and overanalysis don't change the past. They only deepen the wound.
+Regret, guilt, and over-analysis don't change the past. They only deepen the wound.
 
 The real skill in life _isn't avoiding pain—it's refusing to shoot yourself twice_.
+
+**To follow up an error with a foolish reaction is to lose twice.**
+
+---
+
+# The Empty Boat Mindset
+
+> A monk goes out on a boat in a small lake to meditate. After a few hours of uninterrupted silence, he suddenly feels the jarring impact of another boat bumping into his.
+> ​
+> While he does not open his eyes, he feels the irritation and anger building within him.
+> ​
+> “Why would someone do that? Can't they see me here? How dare they disturb my meditation?”
+> ​
+> He opens his eyes, ready to shout at the person in the other boat, only to realize that it is empty. It had come untied from the dock and was floating in the middle of the lake.
+> ​
+> In that moment, his anger and frustration disappears. After all, you cannot be angry at an empty boat.
+
+The Empty Boat Mindset is the reminder that most of these collisions you experience in life are with an empty boat. There is no negative intent. There is no desire to harm. They are simply the random collisions of objects floating along on the lake of life.
 
 ---
 
