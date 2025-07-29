@@ -1,7 +1,7 @@
 ---
 title: incentives
 created: 2024-11-18T09:16:50
-modified: 2025-07-18T09:33:53
+modified: 2025-07-27T11:16:23
 ---
 
 > _“Show me the incentive, and I'll show you the outcome.” — Charlie Munger_
@@ -10,7 +10,7 @@ modified: 2025-07-18T09:33:53
 
 = 誘因 = anything that encourages a person (or organization) to do something.
 
-Incentives are the most fundamental concept in [Decision Making](Decision%20Making.md).
+Incentives are the most fundamental concept in [Decision Making](decision-making.md).
 
 People respond to incentives like Pavlov's dogs, and they are more likely to act in their own self-interest, even if it contradicts their moral values.
 
