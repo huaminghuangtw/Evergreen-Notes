@@ -1,7 +1,7 @@
 ---
 title: Slow Down to Speed Up
 created: 2024-12-05T09:05:25
-modified: 2025-07-18T13:53:23
+modified: 2025-07-28T07:14:05
 ---
 
 [@ferriss4hourWorkweekEscape2011]
@@ -23,7 +23,7 @@ modified: 2025-07-18T13:53:23
 * Refuse to feel rushed (or in a hurry). Rushing causes errors. Errors cause setbacks. Setbacks cause delays.
 * Remember: You have all the time in the world you give yourself!
 * Think about a 45-minute versus 43-minute bike ride (No difference actually…)
-* 如同「開車」，讓日常生活中的每一個瞬間都保持在「專注，但放鬆柔和」的狀態 [^1] [^2]，建立 [心流狀態](Flow%20State.md) 中，那種如行雲流水般的節奏感。
+* 如同「開車」，讓日常生活中的每一個瞬間都保持在「專注，但放鬆柔和」的狀態 [^1] [^2]，建立 [心流狀態](flow-state.md) 中，那種如行雲流水般的節奏感。
 * Building momentum is key!
 
 ---
