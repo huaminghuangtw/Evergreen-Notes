@@ -1,10 +1,12 @@
 ---
 title: Life is cyclic
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-07-28T12:39:12
 ---
 
 > _“Life is like a wheel. Sooner or later, it always comes around to where you started again.” — Stephen King_
+
+> _“Nobody's going to win all the time. On the highway of life you can't always be in the fast lane.” ― Haruki Murakami, [What I Talk About When I Talk About Running](https://www.goodreads.com/work/quotes/2475030)_
 
 > _“Everything in life opens and closes, sheds and renews. We are no different.” — Mark Nepo_
 
@@ -16,7 +18,7 @@ modified: 2025-07-16T21:23:30
 
 ---
 
-喜憂参半是生活，起起落落 [^1] 是人生
+喜憂參半是生活，起起落落 [^1] 是人生
 
 ---
 
