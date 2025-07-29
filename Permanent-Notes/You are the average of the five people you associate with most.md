@@ -1,7 +1,7 @@
 ---
 title: You are the average of the five people you associate with most
 created: 2024-11-18T09:18:12
-modified: 2025-07-18T09:35:59
+modified: 2025-07-27T11:18:28
 ---
 
 > _“If you are wondering who your people are, they are the ones who make your heart feel seen and your nervous system feel calm.” — Yung Pueblo_
@@ -79,7 +79,7 @@ Find your “Front Row People.”
 
 You have to be very selective with whom you give your _time_, _energy_, and _attention_. Don't fall for the “[Yes Man](If%20it%20isn’t%20fuck%20YES,%20then%20it’s%20clear%20NO%20thank%20you.md)” trap. The more successful you become, the more people will want to massage your ego. Cherish the _truth tellers_ in your life.
 
-* Most of us need fewer [friends](friendship.md) and more **_intellectual sparring partners_**. Friends are easy to come by. Intellectual sparring partners are harder to find. They will call you on your BS, question your assumptions, and push you to think deeply. [^1]
+* Most of us need fewer [friends](a-friend-to-all-is-a-friend-to-none.md) and more **_intellectual sparring partners_**. Friends are easy to come by. Intellectual sparring partners are harder to find. They will call you on your BS, question your assumptions, and push you to think deeply. [^1]
 
 ---
 
