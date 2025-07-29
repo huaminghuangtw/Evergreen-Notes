@@ -1,7 +1,7 @@
 ---
 title: happiness
 created: 2024-11-18T09:18:12
-modified: 2025-07-25T14:07:40
+modified: 2025-07-28T07:16:38
 ---
 
 > _“Happiness is a state where nothing is missing.” — Naval Ravikant_
@@ -27,6 +27,8 @@ modified: 2025-07-25T14:07:40
 > _“The happiest people in the world are those who feel absolutely terrific about themselves.” — Brian Tracy_
 
 > _[“Happiness can be found even in the darkest of times, if one only remembers to turn on the light.” — J.K. Rowling, Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/quotes/1266091-happiness-can-be-found-even-in-the-darkest-of-times)_
+
+> _“What I 'discovered' was that happiness is not something that happens. It is not the result of good fortune or random chance. It is not something that money can buy or power command. It does not depend on outside events, but, rather, on how we interpret them. Happiness, in fact, is a condition that must be prepared for, cultivated, and defended privately by each person. People who learn to control inner experience will be able to determine the quality of their lives, which is as close as any of us come to being happy.” — Mihalyi Csikszentmihalyi_
 
 ---
 
@@ -128,7 +130,7 @@ But resisting reality is always the wrong choice / the worst option is sitting a
 
 ---
 
-People are often not [present](Live%20in%20the%20present.md) to what they are doing (the mismatch between being in an activity and having our mind elsewhere), and that is a great source of unhappiness, even if their thoughts are those of happy, joyful thoughts. But equally, if not more important, is to have the ability to be fully engaged in what you are doing at a given moment. That is the strongest predictor of being happy.
+People are often not [present](live-in-the-present.md) to what they are doing (the mismatch between being in an activity and having our mind elsewhere), and that is a great source of unhappiness, even if their thoughts are those of happy, joyful thoughts. But equally, if not more important, is to have the ability to be fully engaged in what you are doing at a given moment. That is the strongest predictor of being happy.
 
 A human mind is a wandering mind, and a wandering mind is an unhappy mind. [@killingsworthWanderingMindUnhappy2010]
 
