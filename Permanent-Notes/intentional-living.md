@@ -1,7 +1,7 @@
 ---
 title: Intentional Living
 created: 2024-11-18T09:18:12
-modified: 2025-07-24T07:09:10
+modified: 2025-07-28T12:21:48
 ---
 
 > _“Get busy living, or get busy dying.” — Stephen King_
@@ -59,7 +59,11 @@ Don't be a “Living Dead.” Don't _die_ before you are _dead_.
 
 ---
 
-Run your mind in a _**debug**_ mode instead of _**autopilot**_ mode 24/7
+[Make each day count.](https://youtu.be/JYdCltjvrxg) Live your life to the fullest.
+
+---
+
+Run your mind in a debug mode instead of autopilot mode 24/7
 
 * _“Watch every thought (, word, and act). Always ask, why am I having this thought (, word, and act)?” — Naval Ravikant_
 * 不要讓生活、工作、時間被「**預設值** 」決定
@@ -84,7 +88,7 @@ Run your mind in a _**debug**_ mode instead of _**autopilot**_ mode 24/7
 
 ### See Also
 
-* [Live in the present](Live%20in%20the%20present.md)
+* [Live in the present](live-in-the-present.md)
 * [death](death.md)
 
 [^1]: _[“We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.” — C.S. Lewis](https://www.goodreads.com/quotes/615-we-are-not-necessarily-doubting-that-god-will-do-the)_
