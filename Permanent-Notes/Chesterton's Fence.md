@@ -1,7 +1,7 @@
 ---
 title: Chesterton's Fence
 created: 2024-11-18T09:18:12
-modified: 2025-07-26T14:24:21
+modified: 2025-07-29T09:47:07
 ---
 
  A reminder to look before we leap; to understand before we act.
