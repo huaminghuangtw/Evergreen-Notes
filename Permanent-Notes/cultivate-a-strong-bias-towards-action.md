@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2025-07-22T07:49:53
+modified: 2025-07-28T16:02:41
 ---
 
 > _“To be is to do.” — Immanuel Kant_
@@ -65,7 +65,7 @@ It's also a lot easier to [change direction](adaptability.md) when you're moving
 
 ---
 
-Act first, insight second. [Motivation starts with action.](Why%20it's%20so%20hard%20to%20just%20do%20the%20work.md)
+Act first, insight second. [Motivation starts with action.](why-its-so-hard-to-just-do-the-work.md)
 
 ---
 
@@ -132,7 +132,7 @@ There is no later, because later you'll be dead.
 * Information is abundant, action is hard. Execution is everything.
 * Ideas are easy. It's the execution of ideas that really separates the sheep from the goats.
 * EXECUTION is more important than the tactic itself.
-* Knowledge is as essential to life as air, and just as no one should be denied access to air, knowledge too should be freely available to all. However, like air that must be breathed to sustain life, **knowledge only becomes truly valuable when it is applied—merely possessing it is not enough.**
+* Knowledge is as vital to life as air. Just as no one should be denied the right to breathe, knowledge should be freely accessible to all. Yet, like air that must be inhaled to sustain life, knowledge only becomes truly valuable when it is applied—mere possession is not enough.
 
 ---
 
