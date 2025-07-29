@@ -1,7 +1,7 @@
 ---
 title: Wu Wui
 created: 2024-12-05T23:47:15
-modified: 2025-07-16T21:23:31
+modified: 2025-07-28T07:14:05
 ---
 
 > _“Nature never hurries, yet everything is accomplished. (道常無為而無不為。)” — Lao Tzu._
@@ -11,7 +11,7 @@ modified: 2025-07-16T21:23:31
 # Definition
 
 * A concept meaning “_inexertion_”, “_inaction_”, or “_effortless action_”
-* A state of personal harmony and [free-flowing](Flow%20State.md)
+* A state of personal harmony and [free-flowing](flow-state.md)
 * ≠ 什麼事都不做、整天無所事事
 	* It doesn't mean **inaction**, but rather **not forcing things unnaturally**. [Just as water flows best when unobstructed](Be%20like%20water.md), life unfolds most harmoniously when we don't constantly interfere.
 * = 無為而治，不為自己的利益和欲望做事
@@ -22,7 +22,7 @@ modified: 2025-07-16T21:23:31
 
 [Philosopher Alan Watts believed that Wu Wei can be described as “not-forcing.”](https://youtu.be/ZzaUGhhnlQ8)
 
-* The drift of things; going with the [flow](Flow%20State.md). _It is the art of sailing, rather than rowing._
+* The drift of things; going with the [flow](flow-state.md). _It is the art of sailing, rather than rowing._
 * The river is not pushed from behind, nor is it pulled from ahead. It falls with gravity.
 
 ---
