@@ -1,7 +1,7 @@
 ---
 title: Planning and preparation help maximize your productivity
 created: 2024-12-12T16:22:20
-modified: 2025-07-23T14:31:02
+modified: 2025-07-28T07:02:52
 ---
 
 > _[“The antidote to impulsiveness is forethought.” — Nir Eyal](https://www.youtube.com/watch?v=VVez_sI1zTU)_
@@ -37,7 +37,7 @@ Planning and [doing](cultivate-a-strong-bias-towards-action.md) are two differen
 
 ### See Also
 
-* [Hope for the best, prepare for the worst](Hope%20for%20the%20best,%20prepare%20for%20the%20worst.md)
+* [Hope for the best, prepare for the worst](hope-for-the-best-prepare-for-the-worst.md)
 
 ---
 
@@ -80,7 +80,7 @@ When fishermen can't go to sea, they repair their nets. When the sea is too roug
 
 ### See Also
 
-* [Implementation Intentions](Implementation%20Intentions.md)
+* [Implementation Intentions](implementation-intentions.md)
 
 [^1]: [Separate decision from implementation](https://tim.blog/2023/03/01/matt-mochary/)
 [^2]: **[Cognitive Miser](https://www.google.com/search?q=Cognitive+Miser)** — The tendency of human minds to think and solve problems in simpler and less effortful ways, rather than in more sophisticated and effortful ways, regardless of intelligence. → 在其他條件與因素不變的情況下，我們通常傾向選擇最省力的路徑。由於那些無意識且熟練的神經例行程序運行起來輕鬆自如，而需要深思熟慮的有意識決策則較為費神，身為認知吝嗇者，只要尚可應對，我們往往依賴自動化的神經例行程序，而非投入心力進行有意識的決策。而在執行神經例行程序的動作時，我們往往會進入出神的狀態。[Merriam-Webster's Dictionary 對「出神 (trance)」的定義之一是: 「一種使你因專注於其他事物而未察覺周遭變化的狀態。」](https://www.merriam-webster.com/dictionary/trance)
