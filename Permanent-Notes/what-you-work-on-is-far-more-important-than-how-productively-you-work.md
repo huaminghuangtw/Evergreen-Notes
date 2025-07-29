@@ -1,7 +1,7 @@
 ---
 title: What you work on is far more important than how productively you work
 created: 2025-02-04T06:34:16
-modified: 2025-07-16T21:23:31
+modified: 2025-07-27T07:35:50
 ---
 
 > _“If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster.” — Stephen R. Covey_
@@ -18,7 +18,9 @@ modified: 2025-07-16T21:23:31
 
 ---
 
-[It doesn’t matter how fast you move if it’s in a worthless direction. **Picking the right thing to work on** is the most important element of productivity and usually almost ignored. Productivity in the wrong direction isn’t worth anything at all. Think more about what to work on.](https://blog.samaltman.com/productivity)
+> _[“It doesn’t matter how fast you move if it’s in a worthless direction. **Picking the right thing to work on** is the most important element of productivity and usually almost ignored. Productivity in the wrong direction isn’t worth anything at all. Think more about what to work on.” — Sam Altman](https://blog.samaltman.com/productivity)_
+
+> _[“It is much more important to work on the right thing than it is to work many hours. Most people waste most of their time on stuff that doesn’t matter.” — Sam Altman](https://blog.samaltman.com/how-to-be-successful)_
 
 ---
 
