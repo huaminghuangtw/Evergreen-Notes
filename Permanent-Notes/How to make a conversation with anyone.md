@@ -1,7 +1,7 @@
 ---
 title: How to make a conversation with anyone
 created: 2025-04-05T08:17:57
-modified: 2025-07-16T21:23:30
+modified: 2025-07-28T07:16:38
 ---
 
 # [7 Ways to Make a Conversation With Anyone | Malavika Varadan](https://youtu.be/F4Zu5ZZAG7I)
@@ -12,6 +12,6 @@ modified: 2025-07-16T21:23:30
 * **Finding Common Ground:** There is no room for negativity, find the things (e.g., interests, hobbies, etc.) in common with the person you are talking to \[[07:39](https://www.youtube.com/watch?v=F4Zu5ZZAG7I&t=459)].
 * **Giving Unique Compliments:** The speaker suggests giving honest, genuine and unique compliments \[[09:46](https://www.youtube.com/watch?v=F4Zu5ZZAG7I&t=586)].
 * **Asking for Opinions:** The speaker advises asking for simple opinions to open up a two-way conversation \[[10:27](https://www.youtube.com/watch?v=F4Zu5ZZAG7I&t=627)].
-* **Being Present:** The importance of [being fully present](Live%20in%20the%20present.md) and making eye contact during a conversation is emphasized \[[11:45](https://www.youtube.com/watch?v=F4Zu5ZZAG7I&t=705)].
+* **Being Present:** The importance of [being fully present](live-in-the-present.md) and making eye contact during a conversation is emphasized \[[11:45](https://www.youtube.com/watch?v=F4Zu5ZZAG7I&t=705)].
 * **Remembering Details:** The speaker stresses the significance of remembering details about a person, such as their name \[[12:44](https://www.youtube.com/watch?v=F4Zu5ZZAG7I&t=764)].
 * **Conversation as Reading a Book:** The speaker uses an analogy of a conversation being like [reading a book](readers-are-leaders.md), encouraging people to explore the full stories of others \[[14:06](https://www.youtube.com/watch?v=F4Zu5ZZAG7I&t=846)].
