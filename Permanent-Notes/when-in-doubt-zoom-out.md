@@ -1,7 +1,7 @@
 ---
 title: When in doubt, zoom out
 created: 2025-02-10T09:34:23
-modified: 2025-07-16T21:23:31
+modified: 2025-07-28T07:01:44
 ---
 
 放慢步調，與當下的掛念保持適當的心理距離，有助於激發 [高階思考](second-order%20thinking.md)，使我們能夠以更宏觀的視角考慮、權衡大局。
@@ -29,5 +29,5 @@ If you think you have it tough, look around.
 ### See Also
 
 * [The Solomon Paradox](The%20Solomon%20Paradox.md)
-* [The Tunnel Effect](The%20Tunnel%20Effect.md)
+* [The Tunnel Effect](the-tunnel-effect.md)
 * [rest, reset, relax, recharge](rest,%20reset,%20relax,%20recharge.md)
