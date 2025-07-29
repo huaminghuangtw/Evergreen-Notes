@@ -1,7 +1,7 @@
 ---
 title: A man who is a master of patience is master of everything else
 created: 2024-11-18T09:18:12
-modified: 2025-07-23T14:35:49
+modified: 2025-07-27T11:16:22
 ---
 
 > _[“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)_
@@ -46,7 +46,7 @@ Patience benefits you when:
 
 * Gathering information:
 	* Facing complex problems requires thoughtful solutions.
-	* [Making informed decisions](Decision%20Making.md) requires time.
+	* [Making informed decisions](decision-making.md) requires time.
 * [Negotiating](Persuation%20&%20Negotiation.md): Calmness and strategic waiting often yield better results.
 * Long-term goals: Achieving significant outcomes needs sustained effort.
 
