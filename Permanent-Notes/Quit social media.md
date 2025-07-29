@@ -1,7 +1,7 @@
 ---
 title: Quit social media
 created: 2024-11-18T09:18:12
-modified: 2025-07-26T14:50:52
+modified: 2025-07-28T15:08:37
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -66,6 +66,13 @@ Social media can feel like a second job, with people constantly deciding what to
 ---
 
 Frequent scrolling and swiping behaviors can hinder/inhibit our ability to deeply focus and gradually shorten/fragment our attention spans. As our brains are flooded with an [overwhelming stream of information](Information%20Overwhelm.md), cognitive energy and mental resources become depleted, leaving us less capable of producing meaningful and tangible outputs.
+
+---
+
+Fast Digital Consumption
+
+* is harmful to the brain, mind, and soul.
+* making re-reading the same page feels like a waste of time because the short content I constantly consume has made my brain accustomed to this behavior.
 
 ---
 
