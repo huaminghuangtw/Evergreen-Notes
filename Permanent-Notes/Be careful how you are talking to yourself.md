@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-07-22T14:51:28
+modified: 2025-07-27T07:20:56
 ---
 
 > _We are what we believe we are.” — C.S. Lewis_
@@ -79,6 +79,20 @@ If you tell yourself you can't, you won't. If you tell yourself you must, you'll
 * Next time you find yourself wanting to _criticize_ yourself for not [being great](Do%20great%20work.md), ask if you can instead _celebrate_ being [good enough](Embrace%20the%20beauty%20of%20enoughness.md).
 
 ---
+
+Legendary UCLA basketball coach John Wooden recommended the following nine promises that should be made by anyone seeking [happiness](happiness.md) and [success](what-success-means-to-me.md)…
+
+1. Promise yourself that you will talk health, happiness, and prosperity as often as possible.
+2. Promise yourself to make all your friends know there is something in them that is special and that you value.
+3. Promise yourself to think only of the best, to work only for the best, and to expect only the best in yourself and others.
+4. Promise yourself to be just as enthusiastic about the success of others as you are about your own.
+5. Promise yourself to be so strong that nothing can disturb your peace of mind.
+6. Promise yourself to forget the mistakes of the past and press on to greater achievements in the future.
+7. Promise yourself to wear a cheerful appearance at all times and give every person you meet a smile.
+8. Promise yourself to give so much time to improving yourself that you have no time to criticize others.
+9. Promise yourself to be too large for worry, too noble for anger, too strong for fear, and too happy to permit trouble to press on you.
+
+– _John Wooden, [Wooden: A Lifetime of Observations and Reflections On and Off the Court](http://amzn.to/1UqKTJ7)_
 
 ### See Also
 
