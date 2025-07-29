@@ -1,7 +1,7 @@
 ---
 title: Leaders are readers
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-07-28T07:17:30
 ---
 
 > _“Man is what he reads.” — Joseph Brodsky_
@@ -115,7 +115,7 @@ modified: 2025-07-16T21:23:30
 # How To Remember Everything You Read?
 
 * To deeply internalize and understand something you're reading, the best way is to write about it—it's not enough to just highlight or write marginalia in books: there isn't much pressure to synthesize, connect, or to get to the heart of things.
-* The best reader with the best comprehension with the best [focus](Focus%20is%20about%20saying%20no.md).
+* The best reader with the best comprehension with the best [focus](focus-is-about-saying-no.md).
 
 [^1]: **THIEVES:** (1) Title (2) Headings (3) Introduction (4) Emphasized words (i.e., bold and italicized words) (4) Visual Aids (5) End of Chapter Questions (6) Summary
 [^2]: Words that you can recognize instantly without sounding them out (or use any strategies to decode).
