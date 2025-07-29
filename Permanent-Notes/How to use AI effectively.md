@@ -1,7 +1,7 @@
 ---
 title: How to use AI effectively
 created: 2024-11-18T10:16:50
-modified: 2025-07-22T16:58:50
+modified: 2025-07-27T07:32:02
 ---
 
 **[Getting Started with AI: Good Enough Prompting | One Useful Thing](https://www.oneusefulthing.org/p/getting-started-with-ai-good-enough)**
