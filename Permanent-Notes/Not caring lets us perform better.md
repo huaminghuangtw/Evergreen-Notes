@@ -1,7 +1,7 @@
 ---
 title: Not caring lets us perform better
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-07-28T07:16:06
 ---
 
 > _“If you aim at nothing, you will hit it every time.” — Zig Ziglar_
@@ -23,7 +23,7 @@ The more Self 1 cares about achieving a goal, the more it interferes with the 
 # The Difference Between “not caring” And “not intending”
 
 * Caring is as described above, and comes with a sense of the outcome being important, that it (or we) would bad if the outcome weren't achieved. There is a physical tension associated with it.
-* Intending is the [activation energy](Why%20it's%20so%20hard%20to%20just%20do%20the%20work.md) required to take a specific action. I can intend to catch the ball (or not) as it flies towards me, while not caring whether or not I actually catch it.
+* Intending is the [activation energy](why-its-so-hard-to-just-do-the-work.md) required to take a specific action. I can intend to catch the ball (or not) as it flies towards me, while not caring whether or not I actually catch it.
 
 In this frame, the ideal combination to minimize or remove self-interference is to have a strong and unambiguous intention while caring as little as possible. The worst combination for our performance is to have a weak and ambiguous intention while caring strongly about achieving a particular outcome.
 
