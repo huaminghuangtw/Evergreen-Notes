@@ -1,7 +1,7 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-07-28T12:10:40
 ---
 
 > _“Start before you're ready. Don't prepare. Begin. Don't think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
@@ -18,7 +18,7 @@ modified: 2025-07-16T21:23:30
 
 ---
 
-Start before you feel ready, avoid _chicken-and-egg_ — a situation where you feel stuck because **you believe you need X to do Y, but also need Y to get X**. Like the classic paradox: _Which came first, the chicken or the egg?_
+[The scariest moment is always just before you start.](https://www.goodreads.com/work/quotes/150292-on-writing) Start before you feel ready, avoid _chicken-and-egg_ — a situation where you feel stuck because **you believe you need X to do Y, but also need Y to get X**. Like the classic paradox: _Which came first, the chicken or the egg?_
 
 Don't wait until everything is perfectly prepared or until you feel completely “ready” — because if you do, you might **never start**. You'll get trapped in a loop of “_I need experience to start, but I need to start to get experience._”
 
@@ -63,7 +63,7 @@ Start even if you can only [do a little](Always%20start%20small.md). Once you ge
 
 ---
 
-Work has a sort of _[activation energy](Why%20it's%20so%20hard%20to%20just%20do%20the%20work.md)_, both per day and per project. It's just about matching the required [activation energy](Why%20it's%20so%20hard%20to%20just%20do%20the%20work.md)—overcoming that initial hurdle.
+Work has a sort of _[activation energy](why-its-so-hard-to-just-do-the-work.md)_, both per day and per project. It's just about matching the required [activation energy](why-its-so-hard-to-just-do-the-work.md)—overcoming that initial hurdle.
 
 * [“The Physics of Productivity” by James Clear](https://jamesclear.com/physics-productivity)
 * [@abdaalFeelGoodProductivityHow2024]
