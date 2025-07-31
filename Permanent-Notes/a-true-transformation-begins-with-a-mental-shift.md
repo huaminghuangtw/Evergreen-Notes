@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2025-07-24T11:23:56
+modified: 2025-07-30T15:10:34
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](Stay%20curious.md) is key.
@@ -79,7 +79,7 @@ The ability to choose one thought over another is superpower—one shift in our 
 
 ---
 
-You can't change your past, but you can reframe it. Find the lesson in it. Find the opportunity in it. _You can't choose your history, but you can always choose the story you tell about it._ [Rewrite the story you tell yourself](Be%20careful%20how%20you%20are%20talking%20to%20yourself.md).
+You can't change your past, but you can reframe it. Find the lesson in it. Find the opportunity in it. _You can't choose your history, but you can always choose the story you tell about it._ [Rewrite the story you tell yourself](be-careful-how-you-are-talking-to-yourself.md).
 
 ---
 
@@ -91,7 +91,7 @@ Often when you think you're at the end of something, you're at the beginning of 
 
 ---
 
-Go laugh in the places you have cried—[change the narrative.](Be%20careful%20how%20you%20are%20talking%20to%20yourself.md)
+Go laugh in the places you have cried—[change the narrative.](be-careful-how-you-are-talking-to-yourself.md)
 
 ---
 
@@ -115,6 +115,10 @@ Go laugh in the places you have cried—[change the narrative.](Be%20careful%20h
 ---
 
 See failure as opportunity; See rejection as redirection; See frustration as fascination
+
+---
+
+Rejection is the Universe's protection.
 
 ---
 
