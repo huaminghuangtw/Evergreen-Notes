@@ -1,7 +1,7 @@
 ---
 title: busyness
 created: 2024-11-18T09:18:12
-modified: 2025-07-28T07:00:09
+modified: 2025-07-31T11:01:29
 ---
 
 > _“Beware the barrenness of a busy life.” — Socrates_
@@ -49,5 +49,6 @@ The most invisible form of wasted time is doing a good job on an unimportant tas
 ### See Also
 
 * [Scarcity creates a mindset that perpetuates scarcity](scarcity-creates-a-mindset-that-perpetuates-scarcity.md)
+* [What you work on is far more important than how productively you work](what-you-work-on-is-far-more-important-than-how-productively-you-work.md)
 
 [^1]: Hard work is a secret form of [procrastination](Procrastination.md) or laziness due to a misallocation of [time](Time%20is%20the%20most%20valuable%20asset.md) and [energy](Energy%20Management.md).
