@@ -1,7 +1,7 @@
 ---
 title: Never gossip about others
 created: 2025-02-20T10:08:47
-modified: 2025-07-16T21:23:30
+modified: 2025-07-30T14:44:22
 ---
 
 > _“Great minds discuss ideas; average minds discuss events; small minds discuss people.” — Eleanor Roosevelt_
@@ -14,7 +14,7 @@ Do not gossip. Just don't do it.
 
 ---
 
-The way you talk about others is the way [you talk to yourself.](Be%20careful%20how%20you%20are%20talking%20to%20yourself.md)
+The way you talk about others is the way [you talk to yourself.](be-careful-how-you-are-talking-to-yourself.md)
 
 ---
 
