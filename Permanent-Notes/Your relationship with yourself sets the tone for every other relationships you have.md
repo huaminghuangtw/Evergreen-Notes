@@ -1,7 +1,7 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:31
+modified: 2025-07-30T14:44:22
 ---
 
 > _“How you love yourself is how you teach others to love you.” — Rupo Kaur_
@@ -68,7 +68,7 @@ Always put yourself first. Self-prioritize yourself. Take care of yourself befor
 # The Ability To Love Yourself Improves Your Ability To Be Loved.
 
 * We are unlikely to accept a relationship that is worse than the one we have with ourselves, and thus the person who is happy and comfortable with themselves is in a great position. The person with healthy self-esteem doesn't have to jump into any relationship because they already have a great one wherever they go.
-* If the time you spend alone is already enjoyable to some degree—that is, if you have a healthy [internal monologue](Be%20careful%20how%20you%20are%20talking%20to%20yourself.md) and generally feel good about yourself—then you will have a fairly high bar for the type of relationships you'll enter.
+* If the time you spend alone is already enjoyable to some degree—that is, if you have a healthy [internal monologue](be-careful-how-you-are-talking-to-yourself.md) and generally feel good about yourself—then you will have a fairly high bar for the type of relationships you'll enter.
 * But if you're unhappy with yourself, then you are more likely to put up with bad relationships because they may occasionally make you feel better than you do alone. If you want a great relationship, the first thing you want is to be comfortable with yourself.
 
 [^1]: The way the world treats you is a reflection of the way you treat yourself.
