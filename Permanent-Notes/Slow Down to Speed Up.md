@@ -1,7 +1,7 @@
 ---
 title: Slow Down to Speed Up
 created: 2024-12-05T09:05:25
-modified: 2025-07-28T07:14:05
+modified: 2025-07-31T10:39:16
 ---
 
 [@ferriss4hourWorkweekEscape2011]
@@ -10,11 +10,27 @@ modified: 2025-07-28T07:14:05
 
 ---
 
-“Slow is smooth. Smooth is fast.”
+“Slow is smooth/steady/precision. Smooth/Steady/Precision is fast.”
 
 ---
 
 “Slow and steady wins the race.”
+
+---
+
+If you don't have time to do it twice, you don't have time to do it fast.
+
+---
+
+There's never enough time to do it right but there's plenty of time to do it over.
+
+---
+
+欲速則不達
+
+---
+
+食緊挵破碗
 
 ---
 
@@ -49,20 +65,6 @@ Slowly by slowly.
 	* Restore and gather your energy to deploy your resources more efficiently
 	* Notice small and beautiful things you previously missed
 	* Be more deliberate with actions and focus on highest leverage opportunities
-
----
-
-# The Two Woodcutters
-
-This is a well-known metaphor for the importance of taking time to “sharpen your saw,” a concept introduced by Stephen Covey in his book The 7 Habits of Highly Effective People.
-
-[@covey7HabitsHighly2013]
-
-> Once upon a time, there were two woodcutters who were hired to cut down trees in the forest. The first woodcutter worked nonstop, chopping down tree after tree with all his strength. The second woodcutter, however, took regular breaks and spent time sharpening his saw, while the first woodcutter kept hacking away without pausing.
->
-> As time went on, the first woodcutter became increasingly exhausted, yet he kept going, convinced that working harder and longer would get him the best results. The second woodcutter, on the other hand, took the time to rest and maintain his tools, believing that the efficiency gained from sharpening his saw would save him time and effort in the long run.
->
-> At the end of the day, when both woodcutters stood back to assess their work, the second woodcutter had cut down far more trees. The first woodcutter, although he had worked harder, had not been as productive because his saw had become dull, and he had not taken the time to maintain his tools.
 
 ---
 
