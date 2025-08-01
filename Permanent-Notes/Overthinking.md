@@ -1,7 +1,7 @@
 ---
 title: Overthinking
 created: 2025-01-23T10:40:57
-modified: 2025-07-23T14:35:49
+modified: 2025-08-01T11:01:33
 ---
 
 > _“Imagination and fiction make up more than three quarters of our real life.” — Simone Weil_
@@ -38,7 +38,7 @@ Understand the difference between _**imagination**_ and _**rumination**_
 
 ---
 
-A surefire way to make a bad situation worse is to continue replaying it in your mind. The damage is done. The only thing that matters now is [making the best choice given your current position.](Just%20focus%20on%20the%20next%20decision.md)
+A surefire way to make a bad situation worse is to continue replaying it in your mind. The damage is done. The only thing that matters now is [making the best choice given your current position.](just-focus-on-the-next-decision.md)
 
 ---
 
