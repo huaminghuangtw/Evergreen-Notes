@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-07-30T14:45:59
+modified: 2025-08-01T11:32:54
 ---
 
 > _We are what we believe we are.” — C.S. Lewis_
@@ -106,7 +106,7 @@ The 1980 Dartmouth Scar Experiment（傷痕實驗）
 
 ### See Also
 
-* [Your identity dictates your actions](Your%20identity%20dictates%20your%20actions.md)
+* [Your identity dictates your actions](your-identity-dictates-your-actions.md)
 * [A true transformation begins with a mental shift](a-true-transformation-begins-with-a-mental-shift.md)
 * [Acceptance and Commitment Therapy](Acceptance%20and%20Commitment%20Therapy.md)
 * [The Growth Mindset](The%20Growth%20Mindset.md)
