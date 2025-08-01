@@ -1,7 +1,7 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2025-07-25T14:07:40
+modified: 2025-08-01T11:30:54
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -65,7 +65,7 @@ modified: 2025-07-25T14:07:40
 
 ### See Also
 
-* [Be primarily internally driven](Be%20primarily%20internally%20driven%20with%20intrinsic%20motivation.md)
+* [Be primarily internally driven](be-primarily-internally-driven-with-intrinsic-motivation.md)
 
 ---
 
