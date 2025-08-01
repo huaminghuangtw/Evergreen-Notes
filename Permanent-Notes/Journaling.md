@@ -1,7 +1,7 @@
 ---
 title: Journaling
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-08-01T11:22:56
 ---
 
 > _“Create an environment where you're free to express what you're afraid to express.” — Rick Rubin_
@@ -28,7 +28,7 @@ Journaling is more than putting thoughts on paper—it's a sacred dialogue with 
 * Keep a “Victory Log” to document your daily small/tiny wins to build self-belief and momentum.
 * David Goggins' The “Cookie Jar (餅乾罐)” Method
 	* The “Cookie Jar” is a metaphorical repository of your personal victories—instances where you overcame obstacles, endured hardship, or achieved goals against the odds. Goggins refers to these memories as “cookies.” When facing a difficult situation, he mentally “reaches into the cookie jar” to remind himself of these past successes, reigniting motivation and reinforcing self-belief.
-* [Forward Thinking](https://plaintext-productivity.net/2-09-work-journal.html) → [Always start with end in mind!](Always%20start%20with%20end%20in%20mind.md)
+* [Forward Thinking](https://plaintext-productivity.net/2-09-work-journal.html) → [Always start with end in mind!](always-start-with-end-in-mind.md)
 
 ---
 
