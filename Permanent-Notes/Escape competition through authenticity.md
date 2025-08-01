@@ -1,7 +1,7 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2025-07-28T08:14:55
+modified: 2025-08-01T11:30:54
 ---
 
 > _“Everything popular is wrong.” — Oscar Wilde_
@@ -115,7 +115,7 @@ Find a thing that's so you, that doing it is just a natural extension of you bei
 
 ### See Also
 
-* [Be primarily internally driven](Be%20primarily%20internally%20driven%20with%20intrinsic%20motivation.md)
+* [Be primarily internally driven](be-primarily-internally-driven-with-intrinsic-motivation.md)
 * [Comparison is the thief of joy](comparison-is-the-thief-of-joy.md)
 * [The Spotlight Effect](The%20Spotlight%20Effect.md)
 * [Standford Prison Experiment](Standford%20Prison%20Experiment.md)
