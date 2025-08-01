@@ -1,7 +1,7 @@
 ---
 title: The Winner-Take-All Effects
 created: 2024-11-18T09:18:12
-modified: 2025-07-18T13:53:24
+modified: 2025-08-01T11:32:49
 ---
 
 > _“Any decision that involves using a limited / the same resource like ([energy](Energy%20Management.md), [attention](attention.md), )[time](Time%20is%20the%20most%20valuable%20asset.md) or [money](money.md) will naturally result in a winner-take-all situation.” — James Clear_
@@ -13,7 +13,7 @@ modified: 2025-07-18T13:53:24
 refers to
 
 * situations in which small differences in performance lead to outsized rewards / very unequal distributions when repeated over time
-* being [just a little bit / slightly better](Every%20single%20day,%20chop%20wood,%20carry%20waters.md) than the competition to secure the entire rewards
+* being [just a little bit / slightly better](every-single-day-chop-wood-carry-waters.md) than the competition to secure the entire rewards
 
 The winner gets one and the rest get zero.
 
