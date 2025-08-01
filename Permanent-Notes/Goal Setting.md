@@ -1,7 +1,7 @@
 ---
 title: Goal Setting
 created: 2025-01-23T10:40:57
-modified: 2025-07-16T21:23:30
+modified: 2025-08-01T11:22:56
 ---
 
 > _“Setting goals is the first step in turning the invisible into the visible.” — Tony Robbins_
@@ -92,7 +92,7 @@ The key in life is to find the balance, and balance isn't about perfection. Pour
 
 * [The Arrival Fallacy](The%20Arrival%20Fallacy.md)
 * [Journey over destination](Journey%20over%20destination.md)
-* [Always start with end in mind](Always%20start%20with%20end%20in%20mind.md)
+* [Always start with end in mind](always-start-with-end-in-mind.md)
 * [Avoid telling people your goals](Avoid%20telling%20people%20your%20goals.md)
 
 [^1]: _“Dream in a pragmatic way.” — Aldous Huxley_
