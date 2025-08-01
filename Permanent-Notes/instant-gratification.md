@@ -1,7 +1,7 @@
 ---
 title: Instant Gratification
 created: 2024-11-18T09:18:12
-modified: 2025-07-23T14:37:35
+modified: 2025-08-01T11:32:42
 ---
 
 = Immediate Gratification = Cheap Dopamine
@@ -29,7 +29,7 @@ modified: 2025-07-23T14:37:35
 
 ---
 
-我們經常從「[壞習慣](Be%20a%20habit%20and%20routine%20machine.md)」中獲得「立刻」的滿足，而且當下或短期內並不會產生任何明顯的負面效果，這導致人們常常放任自己、沉溺在壞習慣當中。
+我們經常從「[壞習慣](be-a-habit-and-routine-machine.md)」中獲得「立刻」的滿足，而且當下或短期內並不會產生任何明顯的負面效果，這導致人們常常放任自己、沉溺在壞習慣當中。
 
 * Doomscrolling (= Idle Scrolling = Zombie Scrolling) on [social media](Quit%20social%20media.md) [^2]
 * Playing video games [^2]
