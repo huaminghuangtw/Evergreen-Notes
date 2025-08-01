@@ -1,7 +1,7 @@
 ---
 title: The Art of Quitting
 created: 2024-11-18T09:18:12
-modified: 2025-07-28T07:17:30
+modified: 2025-08-01T11:32:49
 ---
 
 > _“I am as proud of what we don't do as I am of what we do.” — Steve Jobs_
@@ -24,7 +24,7 @@ Logically, to start a _next_ thing, you must quit the _previous_ thing.
 
 ---
 
-In life, it's not only about the [perseverance](Every%20single%20day,%20chop%20wood,%20carry%20waters.md), but also about knowing exactly when to quit. And quitting quickly allows you to move on to the next thing without incurring years of wasted time. Sometimes, holding on does more harm than letting go.
+In life, it's not only about the [perseverance](every-single-day-chop-wood-carry-waters.md), but also about knowing exactly when to quit. And quitting quickly allows you to move on to the next thing without incurring years of wasted time. Sometimes, holding on does more harm than letting go.
 
 ---
 
