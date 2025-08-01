@@ -1,7 +1,7 @@
 ---
 title: Everyone is on their own timeline
 created: 2024-11-18T09:18:12
-modified: 2025-07-26T14:50:51
+modified: 2025-08-01T11:01:33
 ---
 
 > _“One's own dharma performed imperfectly is better than another's dharma well performed…It is better to strive in one's own dharma than to succeed in the dharma of another.” — Bhagavad Gita_
@@ -30,7 +30,7 @@ You can't predict when you find your _thing_ in life. You may find it at 20, or 
 
 Just keep exploring until you find your thing, then go deep and direct all of your energy, attention, and focus towards it.
 
-No matter where you are in life _today_, you're always one good decision away from being in a better place _tomorrow_—[just focus on the next decision](Just%20focus%20on%20the%20next%20decision.md).
+No matter where you are in life _today_, you're always one good decision away from being in a better place _tomorrow_—[just focus on the next decision](just-focus-on-the-next-decision.md).
 
 It's okay to be lost sometimes, but [never compare your timeline to other people's, because it's a pointless comparison](comparison-is-the-thief-of-joy.md).
 
