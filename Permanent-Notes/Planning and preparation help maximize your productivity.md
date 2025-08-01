@@ -1,7 +1,7 @@
 ---
 title: Planning and preparation help maximize your productivity
 created: 2024-12-12T16:22:20
-modified: 2025-07-28T07:02:52
+modified: 2025-08-01T11:01:33
 ---
 
 > _[“The antidote to impulsiveness is forethought.” — Nir Eyal](https://www.youtube.com/watch?v=VVez_sI1zTU)_
@@ -49,7 +49,7 @@ No matter how often I tried to just jump right in a new task, I found that I per
 
 ---
 
-When fishermen can't go to sea, they repair their nets. When the sea is too rough to sail, the wise don't simply wait for the storm to pass—they prepare for the moment it does. Even in stillness, there is progress. It's not about idling; it's about using the pause to build [what comes next](Just%20focus%20on%20the%20next%20decision.md).
+When fishermen can't go to sea, they repair their nets. When the sea is too rough to sail, the wise don't simply wait for the storm to pass—they prepare for the moment it does. Even in stillness, there is progress. It's not about idling; it's about using the pause to build [what comes next](just-focus-on-the-next-decision.md).
 
 ---
 
