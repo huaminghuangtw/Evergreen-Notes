@@ -1,7 +1,7 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-07-23T14:35:49
+modified: 2025-08-01T11:26:54
 ---
 
 > _“Whether you think you can, or you think you can't—you're both right.” — Henry Ford_
@@ -188,7 +188,7 @@ Your present circumstances don't determine where you can go; they merely determi
 
 ### See Also
 
-* [Change yourself to change the world](Change%20yourself%20to%20change%20the%20world.md)
+* [Change yourself to change the world](change-yourself-to-change-the-world.md)
 * [Lateral Thinking](Lateral%20Thinking.md)
 * [Standford Prison Experiment](Standford%20Prison%20Experiment.md)
 * [Fear of Failure](Fear%20of%20Failure%20and%20Success.md)
