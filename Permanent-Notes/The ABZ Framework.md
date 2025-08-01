@@ -1,7 +1,7 @@
 ---
 title: The ABZ Framework
 created: 2025-01-23T18:40:57
-modified: 2025-07-28T07:01:55
+modified: 2025-08-01T11:01:33
 ---
 
 [by Shaan Puri](https://x.com/ShaanVP/status/1347252471291207681)
@@ -16,7 +16,7 @@ You don't need to know steps C, D, or E at the beginning. Focusing on them will 
 
 All you need to know today is your A-B-Z: Assess where you are (A), set your direction (Z), and decide on your immediate next step (B).
 
-[Just focus on the next action.](Just%20focus%20on%20the%20next%20decision.md) Take that action. You will figure out the rest along the way.
+[Just focus on the next action.](just-focus-on-the-next-decision.md) Take that action. You will figure out the rest along the way.
 
 | Step  | Meaning              | Question                                                               |
 | ----- | -------------------- | ---------------------------------------------------------------------- |
