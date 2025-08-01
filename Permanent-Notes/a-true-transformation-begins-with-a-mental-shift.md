@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2025-07-30T15:10:34
+modified: 2025-07-31T19:34:33
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](Stay%20curious.md) is key.
@@ -41,6 +41,8 @@ modified: 2025-07-30T15:10:34
 > _“Children are wonderfully confident in their own imaginations. Most of us lose this confidence as we grow up.” — Sir Ken Robinson_
 
 > _[“Beliefs are choices. First you choose your beliefs. Then your beliefs affect your choices.” — Roy T. Bennett](https://www.goodreads.com/quotes/7718116-beliefs-are-choices-first-you-choose-your-beliefs-then-your)_
+
+> _“By itself, conscious positive thinking cannot overcome subconscious negative feelings.” ― Joe Dispenza, [Breaking the Habit of Being Yourself: How to Lose Your Mind and Create a New One](https://www.goodreads.com/work/quotes/18108532)_
 
 ---
 
