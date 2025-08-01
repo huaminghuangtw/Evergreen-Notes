@@ -1,7 +1,7 @@
 ---
 title: Journey over destination
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-08-01T11:22:56
 ---
 
 > _“Process saves us from the poverty of our intentions.” — Elizabeth King_
@@ -11,6 +11,10 @@ modified: 2025-07-16T21:23:30
 > _“God will not look you over for medals, degrees or diplomas but for scars.” — Elbert Hubbard_
 
 > _[“The end of a melody is not its goal: but nonetheless, had the melody not reached its end it would not have reached its goal either. A parable.” ― Friedrich Nietzsche](https://www.goodreads.com/quotes/7368-the-end-of-a-melody-is-not-its-goal-but)_
+
+> _“Progress is a natural result of staying focused on the process of doing anything. When you stay on purpose, focused in the present moment, the goal comes toward you with frictionless ease.” ― Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)_
+
+> _“When, instead, your goal is to focus on the process and stay in the present, then there are no mistakes and no judging. You are just learning and doing. You are executing the activity, observing the outcome, and adjusting yourself and your practice energy to produce the desired result. There are no bad emotions, because you are not judging anything.” ― Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)_
 
 ---
 
@@ -132,7 +136,7 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 >
 > _[Focus on the company—the people you want to journey with](You%20are%20the%20average%20of%20the%20five%20people%20you%20associate%20with%20most.md)—and you'll find that the journey reveals itself in due time._
 
-Paradox: Although it's being said that “you got to focus on the journey because there is no guarantee on the destination”, you need a destination to get into the journey. [Without a destination, there is no journey—just movement.](Always%20start%20with%20end%20in%20mind.md)
+Paradox: Although it's being said that “you got to focus on the journey because there is no guarantee on the destination”, you need a destination to get into the journey. [Without a destination, there is no journey—just movement.](always-start-with-end-in-mind.md)
 
 ---
 
