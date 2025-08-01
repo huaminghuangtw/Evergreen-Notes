@@ -1,7 +1,7 @@
 ---
 title: Always start small
 created: 2025-03-05T05:32:10
-modified: 2025-07-16T21:23:29
+modified: 2025-08-01T11:32:42
 ---
 
 > _“It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith_
@@ -10,7 +10,7 @@ modified: 2025-07-16T21:23:29
 
 ---
 
-A [habit](Be%20a%20habit%20and%20routine%20machine.md) must be first _established_ before it can be _improved_.
+A [habit](be-a-habit-and-routine-machine.md) must be first _established_ before it can be _improved_.
 
 ---
 
@@ -61,7 +61,7 @@ Anything above zero [compounds](The%20Compounding%20Effect.md) positively
 
 # The Minimal Viable Action (Micro Action)
 
-* If you're having trouble sticking to a new [habit](Be%20a%20habit%20and%20routine%20machine.md) , try a miniature (2-minute) version until it becomes automatic.
+* If you're having trouble sticking to a new [habit](be-a-habit-and-routine-machine.md) , try a miniature (2-minute) version until it becomes automatic.
 * Take tiny baby steps. _Do less than you're capable of, but do it more consistently than you have before._
 * [不靠衝勁](Do%20not%20use%20your%20willpower%20unless%20you%20absolutely%20have%20to.md)，靠低門檻 [開始](Just%20getting%20started.md)
 
@@ -75,4 +75,4 @@ Anything above zero [compounds](The%20Compounding%20Effect.md) positively
 
 ### See Also
 
-* [Just focus on the next decision](Just%20focus%20on%20the%20next%20decision.md)
+* [Just focus on the next decision](just-focus-on-the-next-decision.md)
