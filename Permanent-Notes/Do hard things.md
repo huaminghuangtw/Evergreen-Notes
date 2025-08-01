@@ -1,7 +1,7 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2025-07-27T07:28:15
+modified: 2025-08-01T11:32:42
 ---
 
 > _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
@@ -73,7 +73,7 @@ When we embrace _voluntary struggles_, we're better equipped/prepared for the _i
 
 > _“Easy choices, hard life. [^1] Hard choices, easy life.” — Jerzy Gregorek_
 
-> _“The costs of your good [habits](Be%20a%20habit%20and%20routine%20machine.md) are in the present. The costs of your bad [habits](Be%20a%20habit%20and%20routine%20machine.md) are in the future.” — James Clear_
+> _“The costs of your good [habits](be-a-habit-and-routine-machine.md) are in the present. The costs of your bad [habits](be-a-habit-and-routine-machine.md) are in the future.” — James Clear_
 
 * [Short-term pain](instant-gratification.md) typically creates compounding [long-term gain](Delayed%20Gratification.md).
 * [Short-term cost pays long-term dividend.](Everything%20in%20life%20has%20an%20opportunity%20cost.md)
