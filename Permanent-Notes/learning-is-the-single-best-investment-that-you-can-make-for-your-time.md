@@ -1,17 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-07-27T07:21:02
----
-
-> _“Live to learn and you'll really learn to live.” — John C. Maxwell_
-
-> _“Education is not the learning of facts, but the training of the mind to think.” — Albert Einstein_
-
-> _“Education is the kindling of a flame, not the filling of a vessel.” — Socrates_
-
-> _“A clever person solves a problem. A wise person avoids it.” — Albert Einstein_
-
+modified: 2025-08-01T08:05:08
 ---
 
 Financial [Compounding](The%20Compounding%20Effect.md) → Intellectual Compounding
