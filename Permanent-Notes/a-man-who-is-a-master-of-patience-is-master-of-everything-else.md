@@ -1,7 +1,7 @@
 ---
 title: A man who is a master of patience is master of everything else
 created: 2024-11-18T09:18:12
-modified: 2025-07-27T11:16:22
+modified: 2025-08-01T11:32:49
 ---
 
 > _[“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)_
@@ -9,6 +9,8 @@ modified: 2025-07-27T11:16:22
 [@franklMansSearchMeaning2006]
 
 > _“Don't aim at success. The more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue.”_
+
+> _“The first step toward patience is to become aware of when your internal dialogue is running wild and dragging you with it. The second step in creating patience is understanding and accepting that there is no such thing as reaching a point of perfection in anything.” ― Thomas M. Sterner, [The Practicing Mind: Bringing Discipline and Focus into Your Life](https://www.goodreads.com/work/quotes/326331)_
 
 ---
 
@@ -28,7 +30,7 @@ modified: 2025-07-27T11:16:22
 
 ---
 
-[All the benefits in life come from compound interests.](The%20Compounding%20Effect.md) It is just a function/matter of time. Show up, and then [show up consistently](Every%20single%20day,%20chop%20wood,%20carry%20waters.md). [Play long-term games.](The%20Game%20of%20Life.md) Practice [delayed gratification](Delayed%20Gratification.md). Put in the time. Let things mature. Be patient.
+[All the benefits in life come from compound interests.](The%20Compounding%20Effect.md) It is just a function/matter of time. Show up, and then [show up consistently](every-single-day-chop-wood-carry-waters.md). [Play long-term games.](The%20Game%20of%20Life.md) Practice [delayed gratification](Delayed%20Gratification.md). Put in the time. Let things mature. Be patient.
 
 ---
 
