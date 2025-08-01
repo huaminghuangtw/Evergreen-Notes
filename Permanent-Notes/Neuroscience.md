@@ -1,7 +1,7 @@
 ---
 title: Neuroscience
 created: 2024-11-18T09:18:12
-modified: 2025-07-27T11:16:23
+modified: 2025-08-01T11:32:42
 ---
 
 The brain is a monkey brain with a supercomputer on top.
@@ -86,6 +86,8 @@ The brain is a monkey brain with a supercomputer on top.
 
 # 潛/下意識 ([Subconsciousness](https://www.psychologytoday.com/us/basics/unconscious)) ↔ 主/表/顯意識 (Consciousness)
 
+> _“Psychologists tell us that by the time we're in our mid-30s, our identity or personality will be completely formed. This means that for those of us over 35, we have memorized a select set of behaviors, attitudes, beliefs, emotional reactions, habits, skills, associative memories, conditioned responses, and perceptions that are now subconsciously programmed within us. Those programs are running us, because the body has become the mind. This means that we will think the same thoughts, feel the same feelings, react in identical ways, behave in the same manner, believe the same dogmas, and perceive reality the same ways. About 95 percent of who we are by midlife1 is a series of subconscious programs that have become automatic—driving a car, brushing our teeth, overeating when we're stressed, worrying about our future, judging our friends, complaining about our lives, blaming our parents, not believing in ourselves, and insisting on being chronically unhappy, just to name a few.” ― Joe Dispenza, [Breaking the Habit of Being Yourself: How to Lose Your Mind and Create a New One](https://www.goodreads.com/work/quotes/18108532)_
+
 * The subconscious mind is always active, continuously operating whether you're awake or asleep—like background processing.
 * You can't access your subconscious mind while you're conscious.
 * Your subconscious mind is like a vast cloud-based memory bank, effortlessly multitasking in the background, while your conscious mind holds no long-term memory and can focus on only one thought at a time.
@@ -101,7 +103,7 @@ The brain is a monkey brain with a supercomputer on top.
 		* When you **drive a car**, your conscious mind might focus on traffic, but your subconscious handles shifting gears or reacting to familiar routes.
 		* When you **meet someone**, your conscious mind processes what they're saying, but your subconscious is picking up on body language, tone, and micro-expressions.It does most of the work of our daily activities without us even realizing it.
 	* Ninety-five percent of our brain activity is unconscious, meaning that most of our decisions, actions, emotions, and behaviors are driven by processes outside of our conscious awareness. [Ninety-five percent of who you are is a subconscious or even an unconscious state of being. And that means your conscious mind’s five percent is working against the ninety-five percent of what you’ve memorized subconsciously.](https://www.instagram.com/drjoedispenza/p/CVA50vgg-Ui/)
-	* ⭐️ The unconscious really influences our [decision-making](decision-making.md) or [habits](Be%20a%20habit%20and%20routine%20machine.md)
+	* ⭐️ The unconscious really influences our [decision-making](decision-making.md) or [habits](be-a-habit-and-routine-machine.md)
 		* The subconscious mind tends to take everything literally, without distinguishing between positive and negative input. It doesn't analyze or reason on its own—it simply follows the directions it receives from your conscious thoughts. So, if you constantly tell yourself that you'll never succeed at something, chances are, that belief will shape your reality. As Henry Ford famously said, _“Whether you think you can, or you think you can't—you're right.”_
 		* Your subconscious is designed to store and retrieve data—nothing more, nothing less. It doesn't judge or analyze; it simply records and replays. It also ensures you react to that stored data—your “programming”—exactly as it was originally logged. So, if you formed a belief early on, like “I'm not good enough,” that program will continue running quietly in the background, influencing every decision you make. It shapes your behavior, locks you into familiar patterns, and reinforces a self-concept that feels “safe,” [even if it's limiting](Push%20your%20limits.md)—until you consciously choose to [upgrade that programming](a-true-transformation-begins-with-a-mental-shift.md).
 	* [Extended Mind Thesis by Andy Clark and David Chalmers](https://en.wikipedia.org/wiki/Extended_mind_thesis)
