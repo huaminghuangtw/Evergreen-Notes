@@ -1,7 +1,7 @@
 ---
 title: Comparison is the thief of joy
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:29
+modified: 2025-08-01T11:30:54
 ---
 
 > _”Don't bother just to be better than your contemporaries or predecessors. Try to be better than yourself.” — William Faulkner_
@@ -48,4 +48,4 @@ When you compare yourself with others, or have the desire to be like other peopl
 ### See Also
 
 * [Escape competition through authenticity](Escape%20competition%20through%20authenticity.md)
-* [Be primarily internally driven](Be%20primarily%20internally%20driven%20with%20intrinsic%20motivation.md)
+* [Be primarily internally driven](be-primarily-internally-driven-with-intrinsic-motivation.md)
