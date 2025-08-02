@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2025-07-28T16:02:41
+modified: 2025-08-02T15:12:18
 ---
 
 > _“To be is to do.” — Immanuel Kant_
@@ -90,6 +90,12 @@ When people talk about traveling to the past, they worry about radically changin
 ---
 
 當一個「用手思考」的人
+
+---
+
+> _“All know the way; few actually walk it.” — Bodhidharma_
+
+大部分的人在「知道」和「做到」之間有很大的鴻溝（知易行難）→ [Life is a game of awareness and action: Awareness to understand something's importance and action to execute on that importance.](https://www.sahilbloom.com/newsletter/11-uncommon-lessons-from-uncommon-minds)
 
 ---
 
