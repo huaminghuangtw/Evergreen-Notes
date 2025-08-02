@@ -1,7 +1,7 @@
 ---
 title: Slow Down to Speed Up
 created: 2024-12-05T09:05:25
-modified: 2025-08-01T11:32:49
+modified: 2025-08-02T15:27:53
 ---
 
 [@ferriss4hourWorkweekEscape2011]
@@ -41,6 +41,7 @@ There's never enough time to do it right but there's plenty of time to do it ove
 “No hurry. No pause.”
 
 * Refuse to feel rushed (or in a hurry). Rushing causes errors. Errors cause setbacks. Setbacks cause delays.
+	* Rushing sacrifices quality for speed and leaves you rebuilding later.
 * Remember: You have all the time in the world you give yourself!
 * Think about a 45-minute versus 43-minute bike ride (No difference actually…)
 * 如同「開車」，讓日常生活中的每一個瞬間都保持在「專注，但放鬆柔和」的狀態 [^1] [^2]，建立 [心流狀態](flow-state.md) 中，那種如行雲流水般的節奏感。
@@ -55,11 +56,19 @@ Move slow to move fast.
 
 ---
 
-Go slow first. Start slow, finish fast.
+Go slow first.
 
----
+Start slow, finish fast.
 
-Slowly by slowly.
+Build a strong foundation.
+
+It takes time to make a base that can hold up what comes next.
+
+The strongest things are built one brick at a time — not in bursts of speed, but in layers of [patience](a-man-who-is-a-master-of-patience-is-master-of-everything-else.md).
+
+In a world obsessed with shortcuts, endurance is a superpower.
+
+Once you've done that, that's when you can go fast.
 
 ---
 
