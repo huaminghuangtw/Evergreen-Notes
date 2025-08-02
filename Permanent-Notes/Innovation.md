@@ -1,12 +1,14 @@
 ---
 title: Innovation
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-08-02T16:18:36
 ---
 
 > _“Good ideas are always crazy until they're not.” — Larry Page_
 
 ---
+
+> _“Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.” — Bertrand Russell_
 
 Innovation is about everyone agreeing with you…later. If everyone agrees with you, you're not truly innovating.
 
