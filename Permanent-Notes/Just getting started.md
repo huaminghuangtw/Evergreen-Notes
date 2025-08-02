@@ -1,7 +1,7 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2025-07-28T12:10:40
+modified: 2025-08-01T22:58:18
 ---
 
 > _“Start before you're ready. Don't prepare. Begin. Don't think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
@@ -15,6 +15,10 @@ modified: 2025-07-28T12:10:40
 > _[“Whether a decision is good or bad can change based on how you act after the choice is made. **You can't learn all the lessons beforehand.** You learn a lot about what you want in a marriage after getting married. You discover what type of career you enjoy after doing a lot of work. And so it goes in nearly every area of life. In many cases, what you wish you knew ahead of time can only be learned after the decision is made.” — James Clear](https://jamesclear.com/3-2-1/february-13-2025)_
 
 > _[“You can act your way into feeling long before you can feel your way into action. If you wait until you feel like doing something, you will likely never accomplish it.” ― John C. Maxwell, How Successful People Think: Change Your Thinking, Change Your Life](https://www.goodreads.com/quotes/1158022-you-can-act-your-way-into-feeling-long-before-you)_
+
+---
+
+開始就不嫌晚，沒有什麼叫太晚。
 
 ---
 
