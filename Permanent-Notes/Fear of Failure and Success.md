@@ -1,7 +1,7 @@
 ---
 title: Fear of Failure and Success
 created: 2024-12-14T08:25:33
-modified: 2025-07-16T21:23:29
+modified: 2025-08-02T13:51:01
 ---
 
 > _“In order to succeed, your desire for success should be greater than your fear of failure.” — Bill Cosby_
@@ -23,7 +23,7 @@ Success > Failure > Not Trying At All
 
 ---
 
-Sometimes I refuse to [give 100% effort](Always%20do%20your%20best%20as%20possible.md) towards something because I'm scared of what will happen if I do give 100% effort and still fail. But that **self-protection mechanism** is a growth limiter. When you insulate yourself from the pain of failure, you never really learn what you're capable of. You never really put yourself out there on the edge and stare down the abyss.
+Sometimes I refuse to [give 100% effort](always-do-your-best-as-possible.md) towards something because I'm scared of what will happen if I do give 100% effort and still fail. But that **self-protection mechanism** is a growth limiter. When you insulate yourself from the pain of failure, you never really learn what you're capable of. You never really put yourself out there on the edge and stare down the abyss.
 
 ---
 
