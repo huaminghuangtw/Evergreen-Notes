@@ -1,7 +1,7 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2025-08-01T11:32:42
+modified: 2025-08-02T13:51:01
 ---
 
 > _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
@@ -108,7 +108,7 @@ When things get hard, the mental gymnastics start—you start convincing yoursel
 
 ### See Also
 
-* [Always do your best as possible](Always%20do%20your%20best%20as%20possible.md)
+* [Always do your best as possible](always-do-your-best-as-possible.md)
 * [Delayed Gratification](Delayed%20Gratification.md)
 * [resilience](resilience.md)
 
