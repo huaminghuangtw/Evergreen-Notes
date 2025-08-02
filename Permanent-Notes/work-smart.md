@@ -1,7 +1,7 @@
 ---
 title: Work smart
 created: 2025-01-23T10:40:57
-modified: 2025-07-27T07:28:15
+modified: 2025-08-02T13:54:41
 ---
 
 > _“You're more likely to unlock a big leap in performance by trying differently than by trying harder. You might be able to work 10% harder, but a different approach might work 10x better. Remain focused on the core problem, but explore a new line of attack. Persistence is not just about effort, but also strategy. Don't merely try harder, try differently.” — James Clear_
@@ -31,14 +31,6 @@ Never press the “Try/Grind Harder” button. Instead, build a sustainable _[sy
 
 ---
 
-# 不必使盡全力，用四分之三的氣力做事就夠了
-
-* 用四分之三的氣力完成一件作品或是一件事的成果才是最好的。
-* 因為使盡全力完成的東西，只會讓人覺得沉重、緊繃不已，也會散發一股「世故味」。
-* 相反的，用四分之三的氣力完成的東西，不但讓人感覺從容，也能給人安心、舒適的印象。
-
----
-
 # The Law Of Reversed Effort
 
 > _“The harder we try with the conscious will to do something, the less we shall succeed.” — Aldous Huxley_
@@ -58,6 +50,14 @@ Never press the “Try/Grind Harder” button. Instead, build a sustainable _[sy
 	* When you actively push to try to find the perfect partner, you rarely find that person.
 	* When you try to force yourself to fall asleep, you stare at the ceiling awake.
 * **Action:** The 85% Rule (Balanced Effort)
+
+---
+
+# 不必使盡全力，用四分之三的氣力做事就夠了
+
+* 用四分之三的氣力完成一件作品或是一件事的成果才是最好的。
+* 因為使盡全力完成的東西，只會讓人覺得沉重、緊繃不已，也會散發一股「世故味」。
+* 相反的，用四分之三的氣力完成的東西，不但讓人感覺從容，也能給人安心、舒適的印象。
 
 ---
 
