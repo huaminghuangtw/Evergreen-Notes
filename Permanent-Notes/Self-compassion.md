@@ -1,12 +1,16 @@
 ---
 title: Self-compassion
 created: 2025-01-23T10:40:57
-modified: 2025-07-16T21:23:30
+modified: 2025-08-01T23:50:50
 ---
+
+ｊ
 
 > _“What you deny subdues you. What you accept transforms you.” — Carl Jung_
 
 > _“Compassion is not complete if it does not include oneself.” — Allan Lokos_
+
+> _“Tension is who you think you should be. Relaxation is who you are.” — Buddha_
 
 > _“Instead of shaming your emotions, try to understand what they are telling you.” — Lindsay C. Gibson_
 
@@ -25,10 +29,6 @@ modified: 2025-07-16T21:23:30
 ---
 
 Treat yourself with respect.
-
----
-
-Tension is who you think you should be. Relaxation is who you are.
 
 ---
 
