@@ -1,7 +1,7 @@
 ---
 title: The Beginner Mindset
 created: 2024-11-18T09:18:12
-modified: 2025-08-01T19:52:36
+modified: 2025-08-04T13:00:28
 ---
 
 > _“It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so.” ― Mark Twain_
@@ -20,7 +20,17 @@ Enjoy being wrong or looking/sounding “stupid” in a public setting
 
 ---
 
-Admitting that you don't have all the answers. Embrace the awkwardness of saying “I don't know.” or “This sounds really hard.”
+Be brave enough to suck at something new.
+
+---
+
+Admitting that you don't have all the answers. Normalize the awkwardness of saying:
+
+* “I don't know.”
+* “This sounds really hard.”
+* “I don't have enough information to have an opinion on that.”
+
+It's perfectly reasonable.
 
 ---
 
