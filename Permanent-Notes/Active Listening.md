@@ -1,7 +1,7 @@
 ---
 title: Active Listening
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:29
+modified: 2025-08-03T08:18:25
 ---
 
 > _[“Open your mind before your mouth.” — Aristophanes](https://www.goodreads.com/quotes/712935-open-your-mind-before-your-mouth)_
@@ -65,7 +65,7 @@ Being able to listen well is a superpower—keep asking people “_Is there more
 
 ---
 
-「積極/主動聆聽」是指「從頭到尾很專心/認真地聽完對方說話 [^4]，同時注視對方的雙眼，並且打從心底感興趣/抱持好奇心、給予對方回應並且提出問題，以試圖加深理解」。
+「積極/主動聆聽」是指從頭到尾很專心/認真地聽完對方說話 [^4]，同時注視對方的雙眼，並且打從心底感興趣/抱持好奇心、給予對方回應並且提出問題，以試圖加深理解。
 
 [^1]: [In order to listen to someone, try to really understand what they are saying.](https://mariandrew.substack.com/p/100-things-i-know)
 [^2]: Related: _[“Tact is the ability to describe others as they see themselves.” — Abraham Lincoln](https://www.brainyquote.com/quotes/abraham_lincoln_100036)_
