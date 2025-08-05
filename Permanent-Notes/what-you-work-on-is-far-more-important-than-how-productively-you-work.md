@@ -1,7 +1,7 @@
 ---
 title: What you work on is far more important than how productively you work
 created: 2025-02-04T06:34:16
-modified: 2025-07-31T07:50:50
+modified: 2025-08-04T11:23:06
 ---
 
 > _“If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster.” — Stephen R. Covey_
@@ -30,7 +30,7 @@ modified: 2025-07-31T07:50:50
 
 ---
 
-# Efficiency Vs. Efficacy
+# Efficiency v.s. Efficacy
 
 > _“The difference between efficiency and effectiveness is the difference between knowledge and wisdom.” — Dr. Russell L. Ackoff_ [^1]
 
