@@ -1,7 +1,7 @@
 ---
 title: Death
 created: 2024-11-18T09:18:12
-modified: 2025-07-24T11:59:49
+modified: 2025-08-05T14:05:02
 ---
 
 > _“The meaning of life is that it stops.” — Franz Kafka_
@@ -93,7 +93,7 @@ To avoid these mistakes, [Paul Graham](https://paulgraham.com/todo.html) inverte
 4. Cultivate friendships
 5. Be happy
 
-Takeaway: The biggest regrets aren't about _failing_; they're about _not trying at all_. No one ever said: “_I wish I hadn't tried so many things._” or “_I wish I hadn't been so adventurous with my life._” on their deathbed. More often than not, people regret the chances they didn't take, the dreams they set aside, and the experiences they were too afraid to pursue.
+Takeaway: [The biggest regrets aren't about _failing_; they're about _not trying at all_.](https://youtu.be/RcYv5x6gZTA) No one ever said: “_I wish I hadn't tried so many things._” or “_I wish I hadn't been so adventurous with my life._” on their deathbed. More often than not, people regret the chances they didn't take, the dreams they set aside, and the experiences they were too afraid to pursue.
 
 Remarks: Through history, people have gone back into their own pasts, sometime to a precious, unstructured time in their life, and often, the mind gravitates in the past to a moment of shame, some sin of anger/self-pity committed, some act of selfishness, an act of omission/shallowness, a lack of courage.
 
