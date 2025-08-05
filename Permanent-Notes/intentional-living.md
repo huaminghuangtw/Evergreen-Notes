@@ -1,7 +1,7 @@
 ---
 title: Intentional Living
 created: 2024-11-18T09:18:12
-modified: 2025-07-31T19:10:01
+modified: 2025-08-05T14:04:09
 ---
 
 > _“Get busy living, or get busy dying.” — Stephen King_
@@ -32,9 +32,13 @@ Stop wasting your life. Start living now.
 
 ---
 
+> _“If you can't live longer, live deeper.” — Italian Proverb_
+
 > _“In the end, it's not the years in your life that count. It's the life in your years.” — Abraham Lincoln_
 
 > _“The quality, not the longevity, of one's life is what is important.” — Martin Luther King, Jr._
+
+> _[“We don't beat the reaper by living longer, but by living well, and living fully — for the reaper will come for all of us. The question is: what do we do between the time we're born and the time he shows up. Because when he shows up, it's too late to do all the things that you're always gonna, kinda get around to. **It is not the things we do in life that we regret on our death bed. It is the things we do not.**” — Randy Pausch](https://youtu.be/RcYv5x6gZTA)_
 
 ---
 
@@ -87,6 +91,8 @@ Run your mind in a debug mode instead of autopilot mode 24/7
 	4. 主動和其他玩家互動，交換資源與情報。
 
 無論你想 [把人生玩成 RPG、經營類、還是解謎遊戲](Life%20is%20a%20video%20game.md)，請記住：你永遠都有選擇權。
+
+---
 
 ### See Also
 
