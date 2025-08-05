@@ -1,7 +1,7 @@
 ---
 title: Public Speaking
 created: 2025-01-23T10:40:57
-modified: 2025-07-24T11:25:07
+modified: 2025-08-05T08:31:57
 ---
 
 ![](../_attachments/6c8f79badba8703f7e8f9c978dca4d9c.webp)
@@ -13,6 +13,25 @@ modified: 2025-07-24T11:25:07
 ---
 
 [Think Fast. Talk Smart. | Matt Abrahams | TEDxMontaVistaHighSchool](https://youtu.be/o3K_HbpWNpg)
+
+[Think Fast, Talk Smart: Communication Techniques | Matt Abrahams | Stanford Graduate School of Business,](https://youtu.be/HAnw168huqA)
+
+1. Having anxiety under control
+	* : When anxiety symptoms kick in few minutes before public speaking (as in gurgling stomach, shaking limbs, etc.), just be mindful about them, acknowledge them and don't resist them. “We simply greet our anxiety and say hallo to it.” It's normal and natural, take a deep breath, and don't let anxiety spiral out of control.
+2. Reframing public speaking as a conversation with audience
+	* Presenting isn't performing: There is no “right” or “wrong” way of presenting (although there are certainly “better” or “worse” ways).
+	* Start with questions: They are dialogic in nature. They could be rhetorical, polling, or simply asking for information.
+	* Using conversational language. Using an inclusive language and not distance the audience from ourselves and the speech, in addition to having a relaxed body language.
+	* Be in the present moment. Don't think about the far future. This in turn will clear your mind and make you less nervous. There are some ways of becoming present in the moment such as doing pushups, walking, listening to music, tongue twisters (they can help in warming up the voice as an added benefit) or it could be anything that brings the attention and use some cognitive resources.
+		* Walk out of the building before the talk
+		* Count number by back
+3. Ground rules for being comfortable in speaking in spontaneous situations
+	* Get out of your own way. Dare to be dull. Don't worry about being perfect or doing stuff flawlessly. Improvise, don't stockpile information, let your brain act spontaneously. Aiming to be perfect could be in your way due to over-evaluation, and over-analyzation which leads to freezing up.
+	* See things as opportunities and not as challenges or threats. Say “Yes, and…” instead of “No, but…”.
+	* “You need to understand the demands of the requirement you find yourself in, in order to respond appropriately.” You should be in service of audience. Don't jump to conclusions without gathering enough information. So, slow down and listen to understand and be in touch with the receiver to fulfill your obligation as a communicator. “Don't just do something, stand there.”
+	* Tell a story. Respond in a structured way. Having a structure is key to having a successful spontaneous and planned speaking. It increases processing fluency which is how effective we process information. We process and retain structured information 40% more reliably and accurately than non-structured ones. Structure helps us to memorize.
+		1. The “Problem → Solution → Benefits” Structure. You firstly start talking about what is the problem, then talk about a way/ways to solve the problem, and finally, talk about the benefit of solving it. Never lose your audience. Set expectations and provide a structure to keep the listener on track, and this structure helps with that. Could be re-framed as “Opportunity → Solution [steps to achieve it] → Benefits”.
+		2. The “What? So what? Now what?” Structure. Start firstly by talking about what the problem/idea is, why is it important, and then what the next steps are. This is a good formula for answering questions, and introducing people: Who they are? Why are they important? And what to do next with them?. In a spontaneous speaking situation, we have to think about two things simultaneously: what to say and how to say it. Practicing these structures is a key skill for effective spontaneous thinking. “Structure sets you free.”
 
 ---
 
