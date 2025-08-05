@@ -1,7 +1,7 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2025-08-01T11:30:54
+modified: 2025-08-03T11:32:37
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -126,6 +126,22 @@ Razors
 * Taleb's Surgeon
 	* If presented with two equal candidates for a role, pick the one that doesn't “look the part” / with the least amount of charisma.
 	* The uncharismatic one has got there despite their lack of charisma. The charismatic one has got there with the aid of their charisma.
+
+---
+
+# [The Cheshire Cat Principle: How to Create Clarity](https://www.sahilbloom.com/newsletter/the-cheshire-cat-principle-how-to-create-clarity)
+
+> _If you aren't clear on where you want to go, any road will take you there._
+
+In Alice's Adventures in Wonderland, there's a scene in which Alice reaches a fork in the road and has a simple exchange with the Cheshire Cat:
+
+> “Would you tell me, please, which way I ought to go from here?”
+>
+> “That depends a good deal on where you want to get to,” said the Cat.
+>
+> “I don't much care where—” said Alice.
+>
+> “Then it doesn't matter which way you go,” said the Cat.
 
 ---
 
