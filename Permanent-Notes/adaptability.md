@@ -1,7 +1,7 @@
 ---
 title: adaptability
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:31
+modified: 2025-08-03T11:00:38
 ---
 
 > _“It is not the strongest of the species that survives, nor the most intelligent. It is the one most adaptable to change.” — Charles Darwin_
@@ -12,7 +12,7 @@ modified: 2025-07-16T21:23:31
 
 > _“The measure of intelligence is the ability to change.” — Albert Einstein_
 
-> _["Consistency is about being adaptable. Adaptability is the way of consistency." — James Clear](https://jamesclear.com/quotes/in-theory-consistency-is-about-being-disciplined-determined-and-unwavering)_ [^1]
+> _[“Consistency is about being adaptable. Adaptability is the way of consistency.” — James Clear](https://jamesclear.com/quotes/in-theory-consistency-is-about-being-disciplined-determined-and-unwavering)_ [^1]
 
 > _“You can suffer the pain of change or suffer remaining the way you are.” — Joyce Meyer_
 
