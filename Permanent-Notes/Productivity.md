@@ -1,7 +1,7 @@
 ---
 title: Productivity
 created: 2024-11-18T09:18:12
-modified: 2025-07-28T07:14:05
+modified: 2025-08-03T08:04:33
 ---
 
 > _“Productivity is most important for things you don't want to be doing. Most people want to increase productivity so they can spend less time on the task. But before you worry about being more productive, think about being more selective. Rather than focusing on increasing productivity, it may be worth asking, 'What would I be delighted to spend time on, even if it went slowly?' Direct your energy toward figuring out how to start what you want to do rather than thinking about how to shorten what you don't want to do.” — James Clear_
@@ -13,7 +13,7 @@ modified: 2025-07-28T07:14:05
 Productivity is about…
 
 * living each moment to its fullest
-* minimizing the waste [^1]
+* minimizing waste [^1]
 * spending time with intent(ionality)
 * using our time in a way that's intentional, effective and enjoyable
 * doing _something_, but not _everything_
@@ -64,7 +64,7 @@ Keep in mind: An effective [system](Systems%20over%20goals.md) requires simple, 
 * [Planning and preparation help maximize your productivity](Planning%20and%20preparation%20help%20maximize%20your%20productivity.md)
 * [What you work on is far more important than how productively you work](what-you-work-on-is-far-more-important-than-how-productively-you-work.md)
 
-[^1]: Productivity can be redefined as minimizing waste in various aspects of life, such as time, energy, attention, ideas, and one's potential.
+[^1]: Productivity can be redefined as minimizing waste in various aspects of life, such as time, energy, attention, ideas, and one's potential. → [Lean Thinking](https://www.google.com/search?q=Lean+Thinking)
 [^2]: Increased productivity is creating more value in less time. It's about getting the _right_ things done, not the _most_ things done. The goal isn't to generate prolific _output_, but to generate prolific _output per unit input_. It's about the leverage on your input.
 [^3]: It's not about the number of hours you put in. It's about the _quality_ of those hours.
 [^4]: Productivity porn refers to the obsession with consuming content and strategies about productivity rather than actually being productive. It tricks you into feeling productive when in reality you didn't actually do anything productive. By focusing on the appearance of being productive (e.g., perfect planners, aesthetic workspaces), individuals may neglect the actual work that drives results or moves the needle. Productivity porn creates an endless loop of preparation. This term highlights how people often spend time reading books, watching videos, or engaging with tools and systems about productivity instead of applying these methods in practice. The abundance of advice can overwhelm users, making it harder to choose and stick to a single approach, leading to frustration and decision fatigue.
