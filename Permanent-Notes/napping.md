@@ -1,7 +1,7 @@
 ---
 title: Napping
 created: 2025-07-30T08:39:08
-modified: 2025-07-30T11:25:10
+modified: 2025-08-05T13:41:34
 ---
 
 ≈ 午休 ≈ Midday/Daytime Snoozing/Dozing ≈ [Cat Napping ≈ Power Nap](https://en.wikipedia.org/wiki/Power_nap) ≈ Siesta
@@ -26,7 +26,7 @@ Afternoon Boost: To deal with “post-lunch dip/slump”
 
 # [Nappuccino / Coffee Nap / Stimulant Nap](https://en.wikipedia.org/wiki/Power_nap#Stimulant_nap)
 
-Drinking coffee immediately before a 20-minute nap—about the time it takes for caffeine to take effect—can leave you feeling significantly more alert afterward than relying on coffee or a nap alone.
+[Drinking coffee immediately before a 20-minute nap—about the time it takes for caffeine to take effect—can leave you feeling significantly more alert afterward than relying on coffee or a nap alone.](https://sketchplanations.com/tiredness-can-kill-take-a-break)
 
 # Tips
 
