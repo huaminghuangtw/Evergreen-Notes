@@ -1,7 +1,7 @@
 ---
 title: Parkinson's Law
 created: 2025-01-23T10:40:57
-modified: 2025-08-05T15:53:52
+modified: 2025-08-07T05:39:10
 ---
 
 ![](../_attachments/3cae3b161fe3ae13dcc2ba6fadeceb34.png)
