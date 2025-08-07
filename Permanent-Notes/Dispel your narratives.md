@@ -1,7 +1,7 @@
 ---
 title: Dispel your narratives
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:29
+modified: 2025-08-07T05:47:46
 ---
 
 > _“Wisdom accepts that all things have two sides.” — Carl Jung_
@@ -18,7 +18,7 @@ The wisest among us allow events to exist without applying a narrative layer. Th
 
 ---
 
-[接受這個世界自然運行的樣貌: 當你因為外在事物而痛苦，折磨你的並非事物本身，而是你對事物的評價。其實，你是有能力立刻拋開這些評價的。訓練自己面對事物時，內心不產生意見、靈魂不為之躁動，都是我們能力所及的事；因為，事物天生並不具備讓我們產生意見的能力。](https://readingoutpost.com/meditations/)
+[接受這個世界自然運行的樣貌：當你因為外在事物而痛苦，折磨你的並非事物本身，而是你對事物的評價。其實，你是有能力立刻拋開這些評價的。訓練自己面對事物時，內心不產生意見、靈魂不為之躁動，都是我們能力所及的事；因為，事物天生並不具備讓我們產生意見的能力。](https://readingoutpost.com/meditations/)
 
 ---
 
