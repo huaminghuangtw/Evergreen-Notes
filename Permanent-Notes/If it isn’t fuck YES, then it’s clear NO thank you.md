@@ -1,7 +1,7 @@
 ---
 title: If it isn’t fuck YES, then it’s clear NO thank you
 created: 2024-11-18T09:16:49
-modified: 2025-07-28T07:17:30
+modified: 2025-08-06T05:56:22
 ---
 
 **TL; DR** Default to NO.
@@ -28,7 +28,7 @@ Say NO (resist) to protect your YES (persist)
 
 Saying yes to everything is a quick road / recipe to mediocrity
 
-* Why is it so hard for us to see this? [Inertia](be-ready-to-change-your-mind-completely-at-any-given-time.md), for one. [Ego](Abandon%20your%20ego.md), for another.
+* Why is it so hard for us to see this? [Inertia](be-ready-to-change-your-mind-completely-at-any-given-time.md), for one. [Ego](abandon-your-ego.md), for another.
 
 ---
 
