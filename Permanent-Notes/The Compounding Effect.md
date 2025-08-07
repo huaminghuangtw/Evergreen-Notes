@@ -1,7 +1,7 @@
 ---
 title: The Compounding Effect
 created: 2024-11-18T09:18:12
-modified: 2025-08-01T11:32:49
+modified: 2025-08-07T05:39:10
 ---
 
 > _“Compounding is the 8th wonder of the world.” — Albert Einstein_
@@ -45,6 +45,9 @@ leads to a [Vicious Cycle (良性循環)](https://www.google.com/search?q=Viciou
 ---
 
 10 - 1 = 0: 即使做對十件事，只要其中一件事做錯，一切就歸零，避免犯錯比什麼都重要!!!
+
+* Trust
+* Reputation
 
 ---
 
