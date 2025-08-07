@@ -1,7 +1,7 @@
 ---
 title: Stay curious
 created: 2024-11-18T09:18:12
-modified: 2025-08-03T09:04:49
+modified: 2025-08-06T05:56:22
 ---
 
 > _“The cure for boredom is curiosity. There is no cure for curiosity.” — Dorothy Parker_
@@ -37,5 +37,5 @@ Embrace a child-like curiosity. The smartest people have the curiosity of a chil
 
 ### See Also
 
-* [Abandon your ego](Abandon%20your%20ego.md)
+* [Abandon your ego](abandon-your-ego.md)
 * [Have the courage to do the right things](Have%20the%20courage%20to%20do%20the%20right%20things.md)
