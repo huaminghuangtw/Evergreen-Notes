@@ -1,7 +1,7 @@
 ---
 title: Change yourself to change the world
 created: 2024-11-18T09:18:12
-modified: 2025-08-01T11:29:47
+modified: 2025-08-07T19:41:59
 ---
 
 > _“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi_
@@ -9,6 +9,8 @@ modified: 2025-08-01T11:29:47
 > _“Doctors won't make you healthy. Nutritionists won't make you slim. Teachers won't make you smart. Gurus won't make you calm. Mentors won't make you rich. Trainers won't make you fit. Ultimately, you have to take responsibility. Save yourself.” — Naval Ravikant_ [^1]
 
 > _“Nothing helps; I must help myself, or I am finished.” — Friedrich Nietzsche_
+
+> _“You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You're on your own. And you know what you know. And YOU are the one who'll decide where to go.” ― Dr. Seuss, [Oh, the Places You’ll Go!](https://www.goodreads.com/work/quotes/2125304)_
 
 ---
 
