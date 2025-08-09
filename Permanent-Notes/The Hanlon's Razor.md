@@ -1,7 +1,7 @@
 ---
 title: The Hanlon's Razor
 created: 2024-11-18T09:18:12
-modified: 2025-08-07T05:39:10
+modified: 2025-08-09T12:50:48
 ---
 
 > _“Never attribute to conspiracy that is more easily explained by incentives and incompetence.” — Naval Ravikant_
