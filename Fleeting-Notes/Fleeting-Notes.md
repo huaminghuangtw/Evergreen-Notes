@@ -1,22 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-07-22T14:47:31
----
-
-Remember: The answer is found in the action. What answers are hidden in the actions you avoid?
-
-Every single thing you want in life is on the other side of something you don't want to do. The answers you seek are found in the actions you avoid.
-
-The body you seek is found in the workouts you avoid
-
-The relationships you seek are found in the hard conversations you delay
-
-The clarity you seek is found in the walks you skip
-
-The purpose you seek is found in the focused work you neglect
-
-The success you seek is found in the hours of execution you put off
-
+modified: 2025-08-11T17:06:25
 ---
 
 The secret to limitless energy? Nandaka by Pique.
@@ -998,3 +982,19 @@ The power of Excitement Engineering
 ---
 
 “Knowing yourself is the beginning of all wisdom.” — Aristotle
+
+---
+
+Robert Vallerand, who suggested that there are two distinct types of passion:
+
+Obsessive Passion
+
+Harmonious Passion
+
+Obsessive Passion is rigid. Your entire identity becomes interconnected with the pursuit itself. Your self-worth attached to your extrinsic success in it. Rest periods away from the pursuit are viewed as a reward for your efforts, but often create feelings of guilt or shame. It is all-consuming.
+
+The pursuit defines the life.
+
+Harmonious Passion is adaptive. It is chosen. It aligns with your identity, but it does not supersede it. It is a reflection of your priorities and values. It is naturally energizing. Rest periods away from the pursuit are viewed as an important part of your performance, not a reward for your efforts.
+
+The life defines the pursuit.
