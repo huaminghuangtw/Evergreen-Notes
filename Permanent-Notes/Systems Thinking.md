@@ -1,7 +1,7 @@
 ---
 title: Systems Thinking
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-08-10T14:28:42
 ---
 
 # 六頂思考帽 (Six Thinking Hats)
@@ -33,6 +33,6 @@ The Hermeneutic Circle describes a cyclical process of understanding where one's
 
 ---
 
-### See Also
+## See Also
 
 * [Systems over goals](Systems%20over%20goals.md)

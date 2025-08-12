@@ -1,7 +1,7 @@
 ---
 title: Hope for the best, prepare for the worst
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-08-10T14:28:42
 ---
 
 > _“Do not think there are no crocodiles just because the water is calm.”_
@@ -46,6 +46,6 @@ Do favors for tomorrow you. [Set yourself up for success. Create a condition tha
 
 ---
 
-### See Also
+## See Also
 
 * [optimism](optimism.md)

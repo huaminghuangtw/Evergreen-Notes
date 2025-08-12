@@ -1,7 +1,7 @@
 ---
 title: Instant Gratification
 created: 2024-11-18T09:18:12
-modified: 2025-08-01T11:32:42
+modified: 2025-08-10T14:28:42
 ---
 
 = Immediate Gratification = Cheap Dopamine
@@ -47,7 +47,7 @@ modified: 2025-08-01T11:32:42
 
 ---
 
-### See Also
+## See Also
 
 * [Delayed Gratification](Delayed%20Gratification.md)
 

@@ -1,7 +1,7 @@
 ---
 title: Live in the present
 created: 2024-11-18T09:18:12
-modified: 2025-08-01T11:33:09
+modified: 2025-08-10T14:28:42
 ---
 
 > _“It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.” — Dr. Robert Hutchings Goddard_
@@ -105,7 +105,7 @@ We often treat the present as a _vehicle for something else_, failing to see tha
 
 ---
 
-### See Also
+# See Also
 
 * [Intentional Living](intentional-living.md)
 * [Control the controllable](control-the-controllable.md)

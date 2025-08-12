@@ -1,7 +1,7 @@
 ---
 title: Empathy
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:29
+modified: 2025-08-10T14:28:42
 ---
 
 > _“I do not ask the wounded person how he feels, I myself become the wounded person.” — Walt Whitman_
@@ -42,7 +42,7 @@ Remember: Every single person is fighting a battle you know nothing about. Every
 
 ---
 
-### See Also
+# See Also
 
 * [Judge others by intentions, judge ourselves by actions](Judge%20others%20by%20intentions,%20judge%20ourselves%20by%20actions.md)
 

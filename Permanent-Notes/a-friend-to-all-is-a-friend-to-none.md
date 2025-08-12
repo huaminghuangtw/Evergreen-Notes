@@ -1,7 +1,7 @@
 ---
 title: A friend to all is a friend to none
 created: 2024-11-18T09:18:12
-modified: 2025-07-27T11:18:53
+modified: 2025-08-10T14:28:42
 ---
 
 > _“A true friend never gets in your way unless you happen to be going down.” — Arnold H. Glasow_
@@ -62,7 +62,7 @@ Humans are mimetic creatures. We copy those around us. Decentralized friend grou
 * **Decentralized Friend Groups:** You have many small clusters of different friends who aren't connected. The only thing they have in common is that they know you. Ambitious friends, fun friends, serious friends, relaxed friends, fitness friends, hometown friends, traveling friends, etc.
 * **Centralized Friend Groups:** You have one large cluster of friends. They all share the same history, beliefs and behaviors. They usually fit in one box. Examples: “School friends” or “Work friends”
 
-### See Also
+## See Also
 
 * [Mentorship is dated, build a panel of advisors instead](Mentorship%20is%20dated,%20build%20a%20panel%20of%20advisors%20instead.md)
 

@@ -1,7 +1,7 @@
 ---
 title: adaptability
 created: 2024-11-18T09:18:12
-modified: 2025-08-03T11:00:38
+modified: 2025-08-10T14:28:42
 ---
 
 > _“It is not the strongest of the species that survives, nor the most intelligent. It is the one most adaptable to change.” — Charles Darwin_
@@ -45,7 +45,7 @@ You'll only go as far as your ability to absorb life's punches and pivot on the 
 
 ---
 
-### See Also
+## See Also
 
 * [Life is chaotic](Life%20is%20chaotic.md)
 * [Push your limits](Push%20your%20limits.md)

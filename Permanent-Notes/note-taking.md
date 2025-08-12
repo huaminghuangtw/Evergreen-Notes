@@ -1,7 +1,7 @@
 ---
 title: note-taking
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:31
+modified: 2025-08-10T14:28:42
 ---
 
 > _“Every intellectual endeavor starts with a note.” — Sönke Ahrens_
@@ -32,7 +32,7 @@ Note-making is an _active, engaged_ process for:
 
 ---
 
-### See Also
+# See Also
 
 * [Linking Your Thinking](Linking%20Your%20Thinking.md)
 * [Evergreen Notes](Evergreen%20Notes.md)

@@ -1,7 +1,7 @@
 ---
 title: Emotional Freedom
 created: 2025-05-10T06:27:40
-modified: 2025-07-30T14:44:22
+modified: 2025-08-12T19:57:48
 ---
 
 > _“Enlightenment is making friendship with the whole existence.” — Amit Ray_
@@ -32,7 +32,7 @@ Someone who experienced the exact same event as you likely remembers it very dif
 
 [@nguyenDontBelieveEverything2024]
 
-### 🔑 Key Insights & Takeaways
+## 🔑 Key Insights & Takeaways
 
 1. **Thoughts are not facts.**
 	* Most of our emotional pain is caused by the thoughts we believe, not the reality itself.
@@ -56,7 +56,7 @@ Someone who experienced the exact same event as you likely remembers it very dif
 	* Thoughts like “I'm not good enough” are learned, not true.
 	* Question these beliefs and realize you're more than your conditioning.
 
-### ✅ Actionable Tips & Advice
+## ✅ Actionable Tips & Advice
 
 1. **Practice being the observer.**
 	* Regularly notice your thoughts [without judgment](Dispel%20your%20narratives.md). Say to yourself, “There's a thought that…” to create separation.

@@ -1,7 +1,7 @@
 ---
 title: Specific Knowledge
 created: 2024-11-18T09:18:12
-modified: 2025-07-23T14:32:48
+modified: 2025-08-10T14:28:42
 ---
 
 It is found by pursuing your genuine curiosity on [multiple skillsets](specialization-is-for-insects.md).
@@ -21,7 +21,7 @@ It is something society cannot yet easily train other people to do (hard to repl
 
 ---
 
-### See Also
+# See Also
 
 * [Specialization is for insects](specialization-is-for-insects.md)
 

@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2025-08-02T15:12:18
+modified: 2025-08-11T16:30:22
 ---
 
 > _“To be is to do.” — Immanuel Kant_
@@ -99,9 +99,17 @@ When people talk about traveling to the past, they worry about radically changin
 
 ---
 
-Action is the antidote to anxiety.
-
 > _“Inaction breeds doubt and fear. Action breeds confidence and courage.” — Dale Carnegie_
+
+Every single thing you want in life is on the other side of something you don't want to do. The answers you seek are found in the actions you avoid.
+
+* The body you seek is found in the workouts you avoid.
+* The relationships you seek are found in the hard conversations you delay.
+* The clarity you seek is found in the walks you skip.
+* The purpose you seek is found in the focused work you neglect.
+* The success you seek is found in the hours of execution you put off.
+
+**What answers are hidden in the actions you avoid?**
 
 ---
 

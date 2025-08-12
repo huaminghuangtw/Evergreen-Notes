@@ -1,7 +1,7 @@
 ---
 title: URL_Schemes
 created: 2024-11-18T10:16:50
-modified: 2025-07-16T21:23:31
+modified: 2025-08-10T14:28:42
 ---
 
 URL Schemes (= [Deep Linking](https://en.wikipedia.org/wiki/Deep_linking) = [x-callback-url](https://x-callback-url.com/)) is a hyperlink that links to a specific, generally searchable or indexed, piece of web content on a website (e.g., “http://example.com/path/page”), rather than the website's home page (e.g., “[http://example.com](http://example.com/)”)
@@ -12,7 +12,7 @@ URLs are structured as follows:
 
 > `scheme://user:password@host:port/path?query#fragment`
 
-### References
+# References
 
 * iOS Settings
 	* [iOS Settings URLs](https://github.com/FifiTheBulldog/ios-settings-urls/blob/master/settings-urls.md)

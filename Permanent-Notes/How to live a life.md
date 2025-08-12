@@ -1,7 +1,7 @@
 ---
 title: How to live a life
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-08-10T14:28:42
 ---
 
 > _“Life is a question and how we live it is our answer.” — [@kellerOneThingSurprisingly2013]_
@@ -79,3 +79,15 @@ A good life has a healthy mix of selfish boundaries and unselfish giving.
 > 下課鈴聲終於響起，我起身繳出了這張寫了很久的考卷。這是一張關於「人生」的考卷，上面有七個問答題。不是是非題，也沒有選擇題，所以我無法預知這次考試的分數。
 
 > 人生不是「是非題」，沒有 [絕對的對錯、是非和黑白](Duality%20versus%20Polarity.md)。人生的許多問題往往是相對的，常常是一體的兩面。人生也不會是「選擇題」，不因爲你每次都作了正確完美的選擇，而有了正確完美的人生。每個人的人生都不盡相同，所以正確的人生其實是不存在的。人生是環環相扣的「問答題」，[…]，只有透過一次又一次的回答，才能撥雲見日，越來越明朗。你越早去面對和思考這些問題，越不會讓自己像一球被弄亂的毛線球，理不出頭緒來，也不會繞了許多冤枉的路，最後被亂了的毛線球綑綁住自己，無法繼續前進。
+
+---
+
+You always have 3 options/choices in any circumstance/situation in life — that is:
+
+* You can [accept it](Acceptance%20and%20Commitment%20Therapy.md). ([by changing your attitude toward it.](a-true-transformation-begins-with-a-mental-shift.md))
+* You can change it.
+* You can leave it.
+
+But resisting reality is always the wrong choice / the worst option is sitting around, wishing you would change it but not changing it, or wishing you would leave it but not leaving and not accepting it. This is the struggle that is responsible for most of our misery, [anger](anger.md), and unhappiness.
+
+Life is like a maze. There are two ways to advance your life: [move forward](Just%20getting%20started.md) when you can, or if you can't, step back and try a new way. The biggest mistake is to stand still.

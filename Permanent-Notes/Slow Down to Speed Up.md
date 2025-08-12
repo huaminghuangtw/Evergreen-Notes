@@ -1,7 +1,7 @@
 ---
 title: Slow Down to Speed Up
 created: 2024-12-05T09:05:25
-modified: 2025-08-04T08:55:21
+modified: 2025-08-10T14:28:42
 ---
 
 [@ferriss4hourWorkweekEscape2011]
@@ -81,7 +81,7 @@ Once you've done that, that's when you can go fast.
 
 ---
 
-### See Also
+## See Also
 
 * [Every single day, chop wood, carry water](every-single-day-chop-wood-carry-waters.md)
 * [slackness](slackness.md)

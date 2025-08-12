@@ -1,7 +1,7 @@
 ---
 title: Frameworks to achieve any goals
 created: 2024-11-18T09:18:12
-modified: 2025-08-01T11:32:49
+modified: 2025-08-10T14:28:42
 ---
 
 # 💡 Core Concept
@@ -21,7 +21,7 @@ modified: 2025-08-01T11:32:49
 	* Before going to bed
 * 30 days of 30 minutes per day is 900 total minutes (i.e., 15 hours) of accumulated, focused, dedicated effort, which creates a marathon of short, manageable sprints.
 
-### See Also
+## See Also
 
 * [The Power Half-Hour](The%20Power%20Half-Hour.md)
 

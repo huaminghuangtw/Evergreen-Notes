@@ -1,7 +1,7 @@
 ---
 title: Everything in life has an opportunity cost
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:29
+modified: 2025-08-10T14:28:42
 ---
 
 > _“The real price of everything, what everything really costs to the man who wants to acquire it, is the toil and trouble of acquiring it.” ― Adam Smith, The Wealth of Nations_
@@ -49,7 +49,7 @@ _There are many things in life that look like a great deal based on the List Pri
 
 ---
 
-### See Also
+## See Also
 
 * [Do hard things](Do%20hard%20things.md)
 * [The Game of Life](The%20Game%20of%20Life.md)

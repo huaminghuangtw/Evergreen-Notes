@@ -1,7 +1,7 @@
 ---
 title: Being indistractable is superpower
 created: 2025-01-23T18:40:57
-modified: 2025-08-01T11:32:54
+modified: 2025-08-10T14:28:42
 ---
 
 Being indistractable is about doing what you say you're going to do.
@@ -92,7 +92,7 @@ By redirecting potential distractions before they reach you, you preserve your w
 
 ---
 
-### See Also
+## See Also
 
 * [Why it's so hard to just do the work?](why-its-so-hard-to-just-do-the-work.md)
 

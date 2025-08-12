@@ -1,7 +1,7 @@
 ---
-title: stress and anxiety
+title: Stress & Anxiety
 created: 2024-11-18T09:18:12
-modified: 2025-07-23T14:35:49
+modified: 2025-08-11T19:34:42
 ---
 
 > _“Stress happens when the mind resists what is.” — Dan Millman_
@@ -10,7 +10,7 @@ modified: 2025-07-23T14:35:49
 
 Root Cause: Having two conflicting internal [desires](The%20absence%20of%20desire%20is%20true%20happiness.md) at the same time, and you are confused which one to choose.
 
-## Examples
+# Examples
 
 1. Career vs. Passion
 	* Desire 1: You want a stable, well-paying job with benefits.
@@ -27,6 +27,17 @@ Root Cause: Having two conflicting internal [desires](The%20absence%20of%20desir
 
 ---
 
+# Two Types of Stress
+
+* 正壓力 = 優壓 (Eustress) - 當壓力「稍微高於」我們的 [適應能力](adaptability.md)
+* 負壓力 = 劣壓 (Distress) - 當壓力「遠高於」我們的 [適應能力](adaptability.md)
+
+## See Also
+
+* [The Yerkes-Dodson Law](the-yerkes-dodson-law.md)
+
+---
+
 TSST = Trier Social Stress Test
 
 MBSR = Mindfulness-Based Stress Reduction
@@ -38,12 +49,6 @@ MBSR = Mindfulness-Based Stress Reduction
 The phenomenon of “empathic stress” causes individuals who are exposed to people who are stressed to experience stress themselves.
 
 * If someone feels **同情 compassion (“I want to relieve your suffering.”)** for a stressed person instead of **同理 empathy (“I feel your suffering.”)**, they may be less likely to take on that person's stress.
-
----
-
-# The Yerkes-dodson Law
-
-* Stress and performance are positively correlated but only up to a point, after which more stress actually reduces performance.
 
 ---
 
@@ -70,7 +75,7 @@ This is called “Grounding.”
 
 ---
 
-Stress and anxiety are a [tax](Everything%20in%20life%20has%20an%20opportunity%20cost.md) on extreme ambition. They feed on idleness. When you [take action](cultivate-a-strong-bias-towards-action.md), you starve them of the oxygen they need to survive.
+Stress and anxiety are a [tax](Everything%20in%20life%20has%20an%20opportunity%20cost.md) on extreme ambition. They feed on idleness. [Action](cultivate-a-strong-bias-towards-action.md) is the antidote to anxiety. When you take action, you starve them of the oxygen they need to survive.
 
 ---
 

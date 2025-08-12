@@ -1,7 +1,7 @@
 ---
 title: Quit social media
 created: 2024-11-18T09:18:12
-modified: 2025-07-28T15:08:37
+modified: 2025-08-12T14:48:42
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -71,14 +71,14 @@ Frequent scrolling and swiping behaviors can hinder/inhibit our ability to deepl
 
 Fast Digital Consumption
 
-* is harmful to the brain, mind, and soul.
+* is harmful to the brain, mind, and soul. [^1]
 * making re-reading the same page feels like a waste of time because the short content I constantly consume has made my brain accustomed to this behavior.
 
 ---
 
 # Better Use Of Social Media
 
-* Avoid unconsciously scrolling on social media without any _intentions_ [^1]
+* Avoid unconsciously scrolling on social media without any _intentions_ [^2]
 * Unless you're making money from social media, delete them.
 * Instead of passively scrolling, engage with content by leaving thoughtful comments, asking questions, or joining conversations. Shift from passive consumption to active participation.
 * Set an intention to view social media as simply _an idealized highlight reel_ with something engaging and entertaining, but really _not a reflection_ of real life.
@@ -103,7 +103,7 @@ Fast Digital Consumption
 	* cPhones and digital distractions have amplified this issue. We can be in the same room with others physically, but still feel completely disconnected.
 * Social media has created more connectedness than ever before—a constant [dopamine drip](Dopamine.md).
 * We have more connectedness, but we feel less connected to those around us.
-* Social media is as addictive as drugs [^2] designed to make you wish you were somewhere else, doing something else, with someone else.
+* Social media is as addictive as drugs [^3] designed to make you wish you were somewhere else, doing something else, with someone else.
 * We all need to put down the phone and spend time connecting with people in person/real life.
 * “NutraSweet” Connection
 	* Social media mimics real socializing, but it's just a cheap imitation—like “[NutraSweet](https://www.google.com/search?q=NutraSweet) (甜味劑)” for the brain, tricking you into thinking you're getting what you need, only to leave you feeling empty.
@@ -147,11 +147,12 @@ If you were to reduce screen time—especially social media—by just one hour p
 
 ---
 
-### See Also
+## See Also
 
 * [BS Asymmetry Principle](BS%20Asymmetry%20Principle.md)
 * [News Sobriety](News%20Sobriety.md)
 * [Comparison is the thief of joy](comparison-is-the-thief-of-joy.md)
 
-[^1]: aka Doomscrolling (= Idle Scrolling = Zombie Scrolling = Mindlessly Surfing) → Sans Scrolling
-[^2]: (1) Excessive social media use is comparable to drug (毒品) addiction (2) The best things in life are happening away from screens. Phone addiction is a silent epidemic.
+[^1]: [Brain Rot](https://www.google.com/search?q=Brain+Rot)
+[^2]: aka Doomscrolling (= Idle Scrolling = Zombie Scrolling = Mindlessly Surfing) → Sans Scrolling
+[^3]: (1) Excessive social media use is comparable to drug (毒品) addiction (2) The best things in life are happening away from screens. Phone addiction is a silent epidemic.

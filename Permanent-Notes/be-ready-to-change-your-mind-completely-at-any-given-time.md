@@ -1,7 +1,7 @@
 ---
 title: Be ready to change your mind completely at any given time
 created: 2024-12-04T15:59:39
-modified: 2025-08-03T11:33:39
+modified: 2025-08-10T14:28:42
 ---
 
 > _["Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in." — Alan Alda](https://www.goodreads.com/quotes/667214-your-assumptions-are-your-windows-on-the-world-scrub-them)_
@@ -28,7 +28,7 @@ modified: 2025-08-03T11:33:39
 * This idea aligns with **James' pragmatism**, where the _value_ or _truth_ of a concept comes from its practical effect, and where sharp boundaries are often illusions created by language or perception.
 * In short, William James is pointing out that **apparent differences** (even between difference and no difference) are usually **quantitative, not qualitative**—and our perception of sharp boundaries is often an illusion.
 
-### See Also
+## See Also
 
 * [Duality versus Polarity](Duality%20versus%20Polarity.md)
 
@@ -42,7 +42,7 @@ modified: 2025-08-03T11:33:39
 
 ---
 
-### See Also
+## See Also
 
 * [Skepticism](Skepticism.md)
 * [Trust your gut](trust-your-gut.md)

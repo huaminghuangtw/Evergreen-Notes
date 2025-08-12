@@ -1,7 +1,7 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-08-01T11:26:54
+modified: 2025-08-10T14:28:42
 ---
 
 > _“Whether you think you can, or you think you can't—you're both right.” — Henry Ford_
@@ -80,7 +80,7 @@ modified: 2025-08-01T11:26:54
 
 Self-imposed limits, Self-limiting beliefs/stories, Self-sabotaging behaviors, etc.
 
-### See Also
+# See Also
 
 * [The Streetlight Effect](The%20Streetlight%20Effect.md)
 
@@ -186,7 +186,7 @@ Your present circumstances don't determine where you can go; they merely determi
 
 ---
 
-### See Also
+## See Also
 
 * [Change yourself to change the world](change-yourself-to-change-the-world.md)
 * [Lateral Thinking](Lateral%20Thinking.md)

@@ -1,12 +1,14 @@
 ---
 title: Focus is about saying no
 created: 2024-11-18T09:18:12
-modified: 2025-07-28T07:00:45
+modified: 2025-08-12T05:53:43
 ---
 
 > _“If you chase two rabbits, you catch none.” — Confucius_
 
 > _“People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully.” — Steve Jobs_
+
+> _“Deciding what not to do is as important as deciding what to do.” — Steve Jobs_
 
 > _“In a world where [information is abundant and easy to access](Information%20Overwhelm.md), the real advantage is knowing where to focus.” — James Clear_
 
@@ -48,6 +50,6 @@ Since focus requires [saying no](If%20it%20isn’t%20fuck%20YES,%20then%20it’s
 
 ---
 
-### See Also
+## See Also
 
 * [Being indistractable is superpower](being-indistractable-is-superpower.md)

@@ -1,7 +1,7 @@
 ---
 title: Delayed Gratification
 created: 2024-11-18T09:18:12
-modified: 2025-07-25T14:07:40
+modified: 2025-08-10T14:28:42
 ---
 
 > _“It is by going down into the abyss that we recover the treasures of life. Where you stumble, there lies your treasure.” — Joseph Campbell_
@@ -40,7 +40,7 @@ Remark: Wanting is the desire you feel before doing something. Liking is the sat
 
 ---
 
-### See Also
+# See Also
 
 * [Do hard things](Do%20hard%20things.md)
 * [Stanford Marshmallow Experiment](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment)

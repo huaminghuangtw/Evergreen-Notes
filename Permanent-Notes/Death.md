@@ -1,7 +1,7 @@
 ---
 title: Death
 created: 2024-11-18T09:18:12
-modified: 2025-08-05T14:05:02
+modified: 2025-08-10T14:28:42
 ---
 
 > _“The meaning of life is that it stops.” — Franz Kafka_
@@ -122,7 +122,7 @@ Remarks: Through history, people have gone back into their own pasts, sometime t
 
 ---
 
-### See Also
+## See Also
 
 * [Life is shorter than you think](Life%20is%20shorter%20than%20you%20think.md)
 * [Intentional Living](intentional-living.md)

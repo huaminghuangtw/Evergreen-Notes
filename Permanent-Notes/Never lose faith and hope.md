@@ -1,7 +1,7 @@
 ---
 title: Never lose faith and hope
 created: 2024-11-18T09:16:50
-modified: 2025-07-28T07:02:52
+modified: 2025-08-10T14:28:42
 ---
 
 > _["Hope is a waking dream." — Aristotle](https://www.goodreads.com/quotes/3987-hope-is-a-waking-dream)_
@@ -14,6 +14,6 @@ Faith is to believe what you do not see; the reward of this faith is to see what
 
 ---
 
-### See Also
+# See Also
 
 * [Hope for the best, prepare for the worst](hope-for-the-best-prepare-for-the-worst.md)

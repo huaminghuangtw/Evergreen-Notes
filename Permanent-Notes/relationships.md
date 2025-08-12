@@ -1,7 +1,7 @@
 ---
 title: relationships
 created: 2025-03-12T02:41:12
-modified: 2025-07-16T21:23:31
+modified: 2025-08-10T14:28:42
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other's light.” — James Baldwin_
@@ -37,6 +37,6 @@ Ask “_What can I do to be a better \_\_\_ to you?_” (partner, friend, son, e
 
 ---
 
-### See Also
+## See Also
 
 * [Start hard conversations](Start%20hard%20conversations.md)

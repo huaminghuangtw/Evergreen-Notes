@@ -1,7 +1,7 @@
 ---
 title: Self-compassion
 created: 2025-01-23T10:40:57
-modified: 2025-08-01T23:50:50
+modified: 2025-08-10T14:28:42
 ---
 
 ｊ
@@ -50,7 +50,7 @@ We just need to tweak the system rather than beating ourselves up.
 
 ---
 
-### See Also
+## See Also
 
 * [The Reitoff Principle](The%20Reitoff%20Principle.md)
 * [rest, reset, relax, recharge](rest,%20reset,%20relax,%20recharge.md)

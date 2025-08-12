@@ -1,7 +1,7 @@
 ---
 title: What you work on is far more important than how productively you work
 created: 2025-02-04T06:34:16
-modified: 2025-08-04T11:23:06
+modified: 2025-08-10T14:28:42
 ---
 
 > _“If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster.” — Stephen R. Covey_
@@ -45,7 +45,7 @@ modified: 2025-08-04T11:23:06
 
 ---
 
-### See Also
+## See Also
 
 * [If it isn’t fuck YES, then it’s clear NO thank you](If%20it%20isn’t%20fuck%20YES,%20then%20it’s%20clear%20NO%20thank%20you.md)
 

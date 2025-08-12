@@ -1,7 +1,7 @@
 ---
 title: receiving advice
 created: 2024-11-18T09:18:12
-modified: 2025-07-23T14:34:04
+modified: 2025-08-10T14:28:42
 ---
 
 **TL; DR** When receiving advice, focus on the general, not the specific.
@@ -36,6 +36,6 @@ Subtract [incentives](incentives.md) from advice.
 
 [Prioritize action](cultivate-a-strong-bias-towards-action.md): Take some advice, act on it, adjust accordingly. Otherwise advice gathering can quickly become a form of procrastination.
 
-### See Also
+# See Also
 
 * [Judgement](Judgement.md)

@@ -1,7 +1,7 @@
 ---
 title: A man who is a master of patience is master of everything else
 created: 2024-11-18T09:18:12
-modified: 2025-08-02T15:14:10
+modified: 2025-08-10T14:28:42
 ---
 
 > _[“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)_
@@ -51,7 +51,7 @@ Adopt the pace of nature: Her secret is _patience_.
 
 > **When does patience serve you, and when does it hold you back?**
 
-## Patience benefits you when:
+# Patience benefits you when:
 
 * Gathering information:
 	* Facing complex problems requires thoughtful solutions.
@@ -59,13 +59,13 @@ Adopt the pace of nature: Her secret is _patience_.
 * [Negotiating](Persuation%20&%20Negotiation.md): Calmness and strategic waiting often yield better results.
 * Long-term goals: Achieving significant outcomes needs sustained effort.
 
-## Patience is detrimental when:
+# Patience is detrimental when:
 
 * Time-sensitive opportunities: [Acting fast](cultivate-a-strong-bias-towards-action.md) is critical.
 * Unsafe situations: Facing urgent crises demanding immediate action. Delaying action can be dangerous.
 * Exploitation or disrespect: Firm boundaries need immediate enforcement.
 
-## Decision-Razor
+# Decision-Razor
 
 Weigh the potential **benefits of delayed action** against the **risks of inaction** to determine the best approach.
 
@@ -87,6 +87,6 @@ Patience builds foundations that last. Patience builds what shortcuts destroy. P
 
 ---
 
-### See Also
+## See Also
 
 * [The Hofstadter's Law](The%20Hofstadter's%20Law.md)

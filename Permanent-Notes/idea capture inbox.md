@@ -1,7 +1,7 @@
 ---
 title: idea capture inbox
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:31
+modified: 2025-08-10T14:28:42
 ---
 
 > _Every composer knows the anguish and despair occasioned by forgetting ideas which one had no time to write down. ― Hector Berlioz_
@@ -54,6 +54,6 @@ What?
 
 ---
 
-### See Also
+## See Also
 
 * [note-taking](note-taking.md)

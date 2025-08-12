@@ -1,7 +1,7 @@
 ---
 title: Emotion Control
 created: 2024-11-18T09:18:12
-modified: 2025-08-06T05:56:22
+modified: 2025-08-12T19:57:41
 ---
 
 > _“Temperament is more important than IQ. You need reasonable intelligence, but you absolutely have to have the right temperament. Otherwise, something will snap you.” — Warren Buffett_
@@ -36,7 +36,7 @@ But often, despite our best efforts, we find ourselves on the train before we ev
 
 ---
 
-### See Also
+# See Also
 
 * [Abandon your ego](abandon-your-ego.md)
-* [Emotional Freedom](Emotional%20Freedom.md)
+* [Emotional Freedom](emotional-freedom.md)

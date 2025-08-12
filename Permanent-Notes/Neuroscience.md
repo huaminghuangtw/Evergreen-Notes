@@ -1,7 +1,7 @@
 ---
 title: Neuroscience
 created: 2024-11-18T09:18:12
-modified: 2025-08-01T11:32:42
+modified: 2025-08-10T14:28:42
 ---
 
 The brain is a monkey brain with a supercomputer on top.
@@ -17,7 +17,7 @@ The brain is a monkey brain with a supercomputer on top.
 
 ---
 
-## 自律神經系統（Autonomic Nervous System, ANS）
+# 自律神經系統（Autonomic Nervous System, ANS）
 
 * 控制「非自主運作（無需意識控制）」的生理功能，例如心跳、呼吸、消化、血壓等。
 * 進一步分為：
@@ -25,7 +25,7 @@ The brain is a monkey brain with a supercomputer on top.
 	2. 副交感神經系統（Parasympathetic NS）
 	3. 腸神經系統（Enteric NS）
 
-### 「戰或逃」反應（Fight or Flight）
+## 「戰或逃」反應（Fight or Flight）
 
 * 由「交感神經系統（Sympathetic Nervous System）」主導
 * 發生在面對壓力或威脅時
@@ -35,7 +35,7 @@ The brain is a monkey brain with a supercomputer on top.
 	* 肌肉緊繃
 	* 腎上腺素分泌上升
 
-### 「休息與消化」反應（Rest and Digest）
+## 「休息與消化」反應（Rest and Digest）
 
 * 由「副交感神經系統（Parasympathetic Nervous System）」主導
 * 發生在安全、放鬆的環境中
@@ -50,7 +50,7 @@ The brain is a monkey brain with a supercomputer on top.
 | **戰或逃（Fight or Flight）**   | 交感神經   | 緊張、警覺 | 應對危機、逃生   |
 | **休息與消化（Rest and Digest）** | 副交感神經  | 放鬆、修復 | 恢復體力、維持平衡 |
 
-## 體性神經系統（Somatic Nervous System, SNS）＝Voluntary Nervous System
+# 體性神經系統（Somatic Nervous System, SNS）＝Voluntary Nervous System
 
 * 控制「自主運動（需要意識控制）」，例如移動手腳、寫字、說話等。
 * 傳遞訊號到「骨骼肌」，協調身體動作。

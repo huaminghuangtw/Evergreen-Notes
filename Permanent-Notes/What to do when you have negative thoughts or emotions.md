@@ -1,14 +1,14 @@
 ---
 title: What to do when you have negative thoughts or emotions
 created: 2024-11-18T09:18:12
-modified: 2025-07-22T14:51:30
+modified: 2025-08-12T20:00:11
 ---
 
 > _“You cannot prevent the birds of sorrow from flying over your head, but you can prevent them from building nests in your hair.” — Chinese Proverb_
 
 > _“If everything around you seems dark, look again, you may be the light.” — Rumi_
 
-> _“When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. ” — Henry Ford_
+> _“When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.” — Henry Ford_
 
 > _“Kites rise highest against the wind - not with it.” — Winston Churchill_
 
@@ -33,11 +33,8 @@ Negative thoughts/emotions in life are like a glass of water. → The absolute w
 
 # Examples
 
-* 壓力 (Stressful)
+* [壓力 (Stressful)](stress%20and%20anxiety.md)
 	* Ask yourself: “Will this crisis really matter one year from now?”
-	* Two types of stress
-		* 正壓力 = 優壓 (Eustress) - 當 [壓力](stress%20and%20anxiety.md)「稍微高於」我們的 [適應能力](adaptability.md)
-		* 負壓力 = 劣壓 (Distress) - 當 [壓力](stress%20and%20anxiety.md)「遠高於」我們的 [適應能力](adaptability.md)
 * 不安 (Discomfort)
 * 自我懷疑 (Self-doubt)
 * 悲觀 (Pessimism)
@@ -98,7 +95,7 @@ Negative thoughts/emotions in life are like a glass of water. → The absolute w
 
 ---
 
-### See Also
+## See Also
 
 * [A true transformation begins with a mental shift](a-true-transformation-begins-with-a-mental-shift.md)
 

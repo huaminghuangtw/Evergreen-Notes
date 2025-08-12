@@ -1,7 +1,7 @@
 ---
 title: Seek for the truth
 created: 2024-11-18T09:18:12
-modified: 2025-07-20T10:26:06
+modified: 2025-08-10T14:28:42
 ---
 
 > _“Facts are the enemy of truth.” — Miguel de Cervantes_
@@ -37,6 +37,6 @@ It's usually better to be nice than right.
 
 ---
 
-### See Also
+## See Also
 
 * [Have the courage to do the right things](Have%20the%20courage%20to%20do%20the%20right%20things.md)

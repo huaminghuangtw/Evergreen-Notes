@@ -1,7 +1,7 @@
 ---
 title: Napping
 created: 2025-07-30T08:39:08
-modified: 2025-08-05T13:41:34
+modified: 2025-08-10T14:28:42
 ---
 
 ≈ 午休 ≈ Midday/Daytime Snoozing/Dozing ≈ [Cat Napping ≈ Power Nap](https://en.wikipedia.org/wiki/Power_nap) ≈ Siesta
@@ -35,8 +35,8 @@ Afternoon Boost: To deal with “post-lunch dip/slump”
 
 ---
 
-### References
+## References
 
 ---
 
-### See Also
+## See Also

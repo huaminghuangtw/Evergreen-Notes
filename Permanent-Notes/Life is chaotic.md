@@ -1,7 +1,7 @@
 ---
 title: Life is chaotic
 created: 2024-11-18T09:18:12
-modified: 2025-07-28T07:02:52
+modified: 2025-08-10T14:28:42
 ---
 
 > _“Everyone has a plan until they get punched in the mouth.” — Mike Tyson_
@@ -34,6 +34,6 @@ Write your life plan with a pencil that has an eraser.
 
 ---
 
-### See Also
+# See Also
 
 * [Hope for the best, prepare for the worst](hope-for-the-best-prepare-for-the-worst.md)

@@ -1,7 +1,7 @@
 ---
 title: The Art of Quitting
 created: 2024-11-18T09:18:12
-modified: 2025-08-01T11:32:49
+modified: 2025-08-10T14:28:42
 ---
 
 > _“I am as proud of what we don't do as I am of what we do.” — Steve Jobs_
@@ -65,7 +65,7 @@ Embrace the rare [ability to start over](https://www.youtube.com/shorts/H7dxy-CW
 
 ---
 
-### See Also
+## See Also
 
 * [Decision Making](decision-making.md)
 * [Focus is about saying no](focus-is-about-saying-no.md)

@@ -1,7 +1,7 @@
 ---
 title: True education begins where school ends
 created: 2025-01-23T18:40:57
-modified: 2025-08-01T08:05:00
+modified: 2025-08-10T14:28:42
 ---
 
 > _“School is one thing. Education is another. The two don't always overlap. Whether you're in school or not, it's always your job to get yourself an education.” — Austin Kleon_
@@ -58,7 +58,7 @@ School lays the foundation, but true education starts when you step beyond the c
 
 ---
 
-### See Also
+# See Also
 
 * [Stay curious](Stay%20curious.md)
 

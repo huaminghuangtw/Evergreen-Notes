@@ -1,7 +1,7 @@
 ---
 title: Goal Setting
 created: 2025-01-23T10:40:57
-modified: 2025-08-01T11:22:56
+modified: 2025-08-10T14:28:42
 ---
 
 > _“Setting goals is the first step in turning the invisible into the visible.” — Tony Robbins_
@@ -10,7 +10,7 @@ modified: 2025-08-01T11:22:56
 
 ---
 
-## S.M.A.R.T.E.R. Goals [^2]
+# S.M.A.R.T.E.R. Goals [^2]
 
 * **S**pecific
 * **M**easurable (= Trackable = Quantifiable)
@@ -88,7 +88,7 @@ The key in life is to find the balance, and balance isn't about perfection. Pour
 
 ---
 
-### See Also
+## See Also
 
 * [The Arrival Fallacy](The%20Arrival%20Fallacy.md)
 * [Journey over destination](Journey%20over%20destination.md)

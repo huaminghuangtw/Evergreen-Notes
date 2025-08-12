@@ -1,7 +1,7 @@
 ---
 title: Life is shorter than you think
 created: 2025-01-23T10:40:57
-modified: 2025-08-01T11:36:00
+modified: 2025-08-10T14:28:42
 ---
 
 > _“The price of anything is the amount of life you exchange for it.” — Henry David_
@@ -38,6 +38,6 @@ Accept the impermanence of everything in our lives.
 
 ---
 
-### See Also
+# See Also
 
 * [death](death.md)

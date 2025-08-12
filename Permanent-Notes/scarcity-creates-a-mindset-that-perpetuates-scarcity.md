@@ -1,7 +1,7 @@
 ---
 title: Scarcity creates a mindset that perpetuates scarcity
 created: 2025-02-26T15:42:19
-modified: 2025-07-28T07:00:34
+modified: 2025-08-10T14:28:42
 ---
 
 [@mullainathanScarcityWhyHaving2013]
@@ -43,7 +43,7 @@ modified: 2025-07-28T07:00:34
 
 ---
 
-### References
+## References
 
 * [山道猴子的一生](https://zh.wikipedia.org/zh-tw/%E5%B1%B1%E9%81%93%E7%8C%B4%E5%AD%90%E7%9A%84%E4%B8%80%E7%94%9F)
 

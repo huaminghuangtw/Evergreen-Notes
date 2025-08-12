@@ -1,7 +1,7 @@
 ---
 title: Always start small
 created: 2025-03-05T05:32:10
-modified: 2025-08-01T11:32:42
+modified: 2025-08-10T14:28:42
 ---
 
 > _“It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith_
@@ -73,6 +73,6 @@ Anything above zero [compounds](The%20Compounding%20Effect.md) positively
 
 ---
 
-### See Also
+## See Also
 
 * [Just focus on the next decision](just-focus-on-the-next-decision.md)

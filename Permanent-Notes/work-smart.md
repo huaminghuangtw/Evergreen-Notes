@@ -1,7 +1,7 @@
 ---
 title: Work smart
 created: 2025-01-23T10:40:57
-modified: 2025-08-02T13:54:41
+modified: 2025-08-10T14:28:42
 ---
 
 > _“You're more likely to unlock a big leap in performance by trying differently than by trying harder. You might be able to work 10% harder, but a different approach might work 10x better. Remain focused on the core problem, but explore a new line of attack. Persistence is not just about effort, but also strategy. Don't merely try harder, try differently.” — James Clear_
@@ -73,7 +73,7 @@ Usually, the hardest work is thinking of a better way to do it.
 
 ---
 
-### See Also
+## See Also
 
 * [Slow Down to Speed Up](Slow%20Down%20to%20Speed%20Up.md)
 * [What you work on is far more important than how productively you work](what-you-work-on-is-far-more-important-than-how-productively-you-work.md)

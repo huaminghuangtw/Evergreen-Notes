@@ -1,7 +1,7 @@
 ---
 title: Work in sprints, work with your biology
 created: 2024-11-18T09:18:12
-modified: 2025-07-31T07:52:18
+modified: 2025-08-10T14:28:42
 ---
 
 > _“If you want to operate at maximum productivity, efficiency, and creativity, you're going to work on things that you're excited about at the moment you're excited about them and accept nothing less. It is better to sit on your butt and do nothing than it is to work on things that you are not excited about.” — Naval Ravikant_
@@ -89,7 +89,7 @@ According to the research, “_The secret to retaining the highest level of prod
 
 ---
 
-### See Also
+## See Also
 
 * [Visual Perceptual Exercise](Visual%20Perceptual%20Exercise.md)
 * [What you work on is far more important than how productively you work](what-you-work-on-is-far-more-important-than-how-productively-you-work.md)

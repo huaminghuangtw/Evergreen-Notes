@@ -1,7 +1,7 @@
 ---
 title: Specialization is for insects
 created: 2025-01-23T10:40:57
-modified: 2025-07-16T21:23:30
+modified: 2025-08-10T14:28:42
 ---
 
 > _“At some level, all humans are broad. We're all multivariate/multifaceted, but we get summarized in pithy ways in our lives.” — Naval Ravikant_
@@ -37,14 +37,14 @@ Polymath
 
 ---
 
-### T 型人才（T-shaped person）
+# T 型人才（T-shaped person）
 
 * **橫的一橫**：表示這個人懂很多不同領域的東西（廣度），像是通才，可以跟各種人溝通，知道很多事情的大概。
 * **一條腿**：表示這個人在某一個領域特別厲害（深度），是專家。
 
 📌 比喻：像是一個會很多東西的老師，但數學特別強，可以幫忙教其他老師數學的那種感覺。
 
-### π 型人才（Π-shaped person）
+# π 型人才（Π-shaped person）
 
 * **橫的一橫**：還是一樣代表懂很多事情（廣度）。
 * **兩條腿**：表示這個人不只在一個領域很厲害，而是在**兩個（以上）不同的領域都有深度的專業**。

@@ -1,7 +1,7 @@
 ---
 title: resilience
 created: 2024-11-18T09:04:18
-modified: 2025-08-02T13:51:01
+modified: 2025-08-10T14:28:42
 ---
 
 > _“Resilience is not what happens to you. It's how you [react to, respond to](choose-your-response.md), and recover from what happens to you.” — Jeffrey Gitomer_
@@ -69,7 +69,7 @@ The more easily you get offended, the less emotional intelligence you have. Inve
 
 ---
 
-### See Also
+# See Also
 
 * [Emotion Control](Emotion%20Control.md)
 * [The Let-Them Theory](The%20Let-Them%20Theory.md)

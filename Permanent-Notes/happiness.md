@@ -1,7 +1,7 @@
 ---
-title: happiness
+title: Happiness
 created: 2024-11-18T09:18:12
-modified: 2025-07-28T07:16:38
+modified: 2025-08-10T13:53:40
 ---
 
 > _“Happiness is a state where nothing is missing.” — Naval Ravikant_
@@ -96,29 +96,6 @@ There are two ways to be happier:
 # Happiness Is A Choice
 
 One day, I thought, someone out there had to be the happiest person in the world. That person just had to exist—someone smiling for no reason, feeling light and lucky just to be alive. And then I wondered, _why not me?_ I could be that guy. I could carry that joy, even if it was hard, even if it felt silly. I would take on that burden, and I would wear it like a crown.
-
----
-
-You always have 3 options/choices in any circumstance/situation in life — that is:
-
-* You can [accept it](Acceptance%20and%20Commitment%20Therapy.md). ([by changing your attitude toward it.](a-true-transformation-begins-with-a-mental-shift.md))
-* You can change it.
-* You can leave it.
-
-But resisting reality is always the wrong choice / the worst option is sitting around, wishing you would change it but not changing it, or wishing you would leave it but not leaving and not accepting it. This is the struggle that is responsible for most of our misery, [anger](anger.md), and unhappiness.
-
----
-
-# Two Types Of Happiness
-
-* Hedonic Happiness
-	* Achieved through [pleasure, enjoyment, or satisfaction](Dopamine.md)
-	* Associated with the maximization of short-term pleasure
-	* The happiness you feel when you seek [instant gratification](instant-gratification.md)
-* Eudaimonic Happiness
-	* Achieved through [purpose, meaning](Why%20We%20Exist.md), or [authenticity](Escape%20competition%20through%20authenticity.md)
-	* Associated with a focus on long-term, value-oriented, and higher-order living
-	* The happiness you feel when you embrace [delayed gratification](Delayed%20Gratification.md)
 
 ---
 

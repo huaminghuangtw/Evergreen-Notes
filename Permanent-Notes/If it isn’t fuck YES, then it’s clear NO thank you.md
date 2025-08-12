@@ -1,7 +1,7 @@
 ---
 title: If it isn’t fuck YES, then it’s clear NO thank you
 created: 2024-11-18T09:16:49
-modified: 2025-08-06T05:56:22
+modified: 2025-08-10T14:28:42
 ---
 
 **TL; DR** Default to NO.
@@ -95,7 +95,7 @@ Two-factor authentication against your calendar by Naval Ravikant
 
 ---
 
-### See Also
+## See Also
 
 * [Seven Things Successful People Say No To Every Day](Seven%20Things%20Successful%20People%20Say%20No%20To%20Every%20Day.md)
 * [Focus is about saying no](focus-is-about-saying-no.md)

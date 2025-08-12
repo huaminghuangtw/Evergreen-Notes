@@ -1,7 +1,7 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2025-08-02T13:51:01
+modified: 2025-08-10T14:01:43
 ---
 
 > _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
@@ -82,6 +82,10 @@ When we embrace _voluntary struggles_, we're better equipped/prepared for the _i
 	* Hard now, easy later.
 	* Always choose _harder right_ over _easier wrong_.
 
+## See Also
+
+* [Hedonic Happiness & Eudaimonic Happiness](hedonic-happiness-and-eudaimonic-happiness.md)
+
 ---
 
 > _[“We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.” — C.S. Lewis](https://www.goodreads.com/quotes/615-we-are-not-necessarily-doubting-that-god-will-do-the)_
@@ -106,7 +110,7 @@ When things get hard, the mental gymnastics start—you start convincing yoursel
 
 ---
 
-### See Also
+## See Also
 
 * [Always do your best as possible](always-do-your-best-as-possible.md)
 * [Delayed Gratification](Delayed%20Gratification.md)

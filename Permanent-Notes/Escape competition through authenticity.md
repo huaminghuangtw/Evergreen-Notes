@@ -1,7 +1,7 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2025-08-01T11:30:54
+modified: 2025-08-10T14:28:42
 ---
 
 > _“Everything popular is wrong.” — Oscar Wilde_
@@ -99,7 +99,7 @@ Find a thing that's so you, that doing it is just a natural extension of you bei
 
 [Your best performances will come when you are working in a way that is a full expression of you. The work becomes a natural display of your personality. This is when you not only get better results, but also love the activity — because in doing the craft, you feel alive.](https://jamesclear.com/3-2-1/january-30-2025)
 
-### See Also
+## See Also
 
 * [Specific Knowledge](Specific%20Knowledge.md)
 
@@ -113,7 +113,7 @@ Find a thing that's so you, that doing it is just a natural extension of you bei
 
 ---
 
-### See Also
+## See Also
 
 * [Be primarily internally driven](be-primarily-internally-driven-with-intrinsic-motivation.md)
 * [Comparison is the thief of joy](comparison-is-the-thief-of-joy.md)

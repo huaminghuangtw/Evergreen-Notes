@@ -1,7 +1,7 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2025-08-03T11:32:37
+modified: 2025-08-10T14:28:42
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -63,7 +63,7 @@ modified: 2025-08-03T11:32:37
 * **Maximizers:** People who want the “absolute best” option. They may leave happiness on the table.
 * **Satisficers:** People who want the “good enough” option. They may leave achievement on the table.
 
-### See Also
+## See Also
 
 * [Be primarily internally driven](be-primarily-internally-driven-with-intrinsic-motivation.md)
 
@@ -145,7 +145,7 @@ In Alice's Adventures in Wonderland, there's a scene in which Alice reaches a fo
 
 ---
 
-### See Also
+## See Also
 
 * [Mental Models](mental%20models.md)
 * [Everything in life has an opportunity cost](Everything%20in%20life%20has%20an%20opportunity%20cost.md)

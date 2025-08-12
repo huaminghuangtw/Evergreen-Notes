@@ -1,7 +1,7 @@
 ---
 title: incentives
 created: 2024-11-18T09:16:50
-modified: 2025-07-27T11:16:23
+modified: 2025-08-10T14:28:42
 ---
 
 > _“Show me the incentive, and I'll show you the outcome.” — Charlie Munger_
@@ -21,6 +21,6 @@ We make time and energy for the things we really want. For example, if you have 
 
 ---
 
-### See Also
+# See Also
 
 * [行為經濟學 Behavioral Economics](behavioral-economics.md)

@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-08-01T11:32:54
+modified: 2025-08-10T14:28:42
 ---
 
 > _We are what we believe we are.” — C.S. Lewis_
@@ -69,7 +69,7 @@ Next time you catch yourself saying, “_I can't…_” or “_I'm not the type 
 
 If you tell yourself you can't, you won't. If you tell yourself you must, you'll find a way.
 
-### See Also
+## See Also
 
 * [Push your limits](Push%20your%20limits.md)
 
@@ -104,7 +104,7 @@ The 1980 Dartmouth Scar Experiment（傷痕實驗）
 
 ---
 
-### See Also
+## See Also
 
 * [Your identity dictates your actions](your-identity-dictates-your-actions.md)
 * [A true transformation begins with a mental shift](a-true-transformation-begins-with-a-mental-shift.md)

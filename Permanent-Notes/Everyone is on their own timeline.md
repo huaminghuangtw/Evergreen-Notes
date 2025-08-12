@@ -1,7 +1,7 @@
 ---
 title: Everyone is on their own timeline
 created: 2024-11-18T09:18:12
-modified: 2025-08-01T11:01:33
+modified: 2025-08-10T14:28:42
 ---
 
 > _“One's own dharma performed imperfectly is better than another's dharma well performed…It is better to strive in one's own dharma than to succeed in the dharma of another.” — Bhagavad Gita_
@@ -89,7 +89,7 @@ It's okay to be lost sometimes, but [never compare your timeline to other people
 
 ---
 
-### See Also
+## See Also
 
 * [Comparison is the thief of joy](comparison-is-the-thief-of-joy.md)
 * [A man who is a master of patience is master of everything else](a-man-who-is-a-master-of-patience-is-master-of-everything-else.md)

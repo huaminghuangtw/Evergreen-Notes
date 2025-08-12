@@ -1,7 +1,7 @@
 ---
 title: How the poor and rich think differently
 created: 2025-02-17T17:36:06
-modified: 2025-07-28T07:00:09
+modified: 2025-08-10T14:28:42
 ---
 
 | 窮人思維 | 富人思維 |
@@ -19,7 +19,7 @@ modified: 2025-07-28T07:00:09
 
 ---
 
-### See Also
+# See Also
 
 * [The Game of Life](The%20Game%20of%20Life.md)
 

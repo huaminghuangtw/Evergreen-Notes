@@ -1,7 +1,7 @@
 ---
 title: The absence of desire is true happiness
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:31
+modified: 2025-08-12T19:57:28
 ---
 
 > _[“Not wanting something is as good as having it.” — Naval Ravikant](https://www.youtube.com/watch?v=KyfUysrNaco&t=33s)_
@@ -26,12 +26,15 @@ Keep your mind aware and desire asleep.
 
 ---
 
-放下你要的東西，你就不會得不到你想要的東西。
+> _“Anything you cannot relinquish when it has outlived its usefulness possesses you.” — Peace Pilgrim_
+
+放下你要的東西，你就能得到任何東西。
 
 You only lose what you cling to.
 
 ---
 
-### See Also
+# See Also
 
 * [Miswanting](Miswanting.md)
+* [Emotional Freedom](emotional-freedom.md)

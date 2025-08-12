@@ -1,12 +1,12 @@
 ---
 title: Explicit Knowledge & Tacit Knowledge
 created: 2025-07-30T14:28:55
-modified: 2025-08-01T19:42:09
+modified: 2025-08-10T14:28:42
 ---
 
 **外顯知識（Explicit Knowledge）** 和 **內隱知識（Tacit Knowledge）** 是知識管理中兩種不同型態的知識，最早由日本知識管理學者 [野中郁次郎（Ikujiro Nonaka）](https://www.google.com/search?q=Ikujiro+Nonaka) 提出。
 
-## 外顯知識（Explicit Knowledge）
+# 外顯知識（Explicit Knowledge）
 
 * **定義**：可以被明確地清楚表達、記錄和傳遞的知識，通常以文字、數字、圖表、文件或數據庫形式存在。
 * **特徵**：
@@ -14,7 +14,7 @@ modified: 2025-08-01T19:42:09
   * 可以被形式化、標準化
 * **例子**：書籍、論文、手冊/操作指南、程式碼、公司規章制度
 
-## 內隱知識（Tacit Knowledge）
+# 內隱知識（Tacit Knowledge）
 
 * **定義**：存在於個人經驗、技能、直覺、洞察中的知識，通常難以用語言或文字完整表達。
 * **特徵**：

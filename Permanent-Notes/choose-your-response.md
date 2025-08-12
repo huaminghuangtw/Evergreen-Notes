@@ -1,7 +1,7 @@
 ---
 title: Choose your response
 created: 2025-01-23T10:40:57
-modified: 2025-07-28T07:08:53
+modified: 2025-08-10T14:28:42
 ---
 
 > _“It is the set of the sails, not the direction of the wind that determines which way we will go.” — Jim Rohn_
@@ -99,7 +99,7 @@ The Empty Boat Mindset is the reminder that most of these collisions you experie
 
 ---
 
-### See Also
+## See Also
 
 * [A true transformation begins with a mental shift](a-true-transformation-begins-with-a-mental-shift.md)
 * [Peace from mind](Peace%20from%20mind.md)

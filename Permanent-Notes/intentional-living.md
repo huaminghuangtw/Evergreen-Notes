@@ -1,7 +1,7 @@
 ---
 title: Intentional Living
 created: 2024-11-18T09:18:12
-modified: 2025-08-05T14:04:09
+modified: 2025-08-10T14:28:42
 ---
 
 > _“Get busy living, or get busy dying.” — Stephen King_
@@ -94,7 +94,7 @@ Run your mind in a debug mode instead of autopilot mode 24/7
 
 ---
 
-### See Also
+## See Also
 
 * [Live in the present](live-in-the-present.md)
 * [death](death.md)

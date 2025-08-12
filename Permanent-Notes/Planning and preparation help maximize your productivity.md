@@ -1,7 +1,7 @@
 ---
 title: Planning and preparation help maximize your productivity
 created: 2024-12-12T16:22:20
-modified: 2025-08-01T11:01:33
+modified: 2025-08-10T14:28:42
 ---
 
 > _[“The antidote to impulsiveness is forethought.” — Nir Eyal](https://www.youtube.com/watch?v=VVez_sI1zTU)_
@@ -35,7 +35,7 @@ Planning and [doing](cultivate-a-strong-bias-towards-action.md) are two differen
 * Planning is based on the expectation of order. Preparation is based on the expectation of chaos.
 * Plan for order and you'll be destroyed by chaos. Prepare for chaos and you'll thrive in any condition.
 
-### See Also
+## See Also
 
 * [Hope for the best, prepare for the worst](hope-for-the-best-prepare-for-the-worst.md)
 
@@ -78,7 +78,7 @@ When fishermen can't go to sea, they repair their nets. When the sea is too roug
 
 ---
 
-### See Also
+## See Also
 
 * [Implementation Intentions](implementation-intentions.md)
 

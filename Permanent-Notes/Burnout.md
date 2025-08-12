@@ -1,7 +1,7 @@
 ---
 title: Burnout
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:29
+modified: 2025-08-10T14:28:42
 ---
 
 = 過勞
@@ -66,7 +66,7 @@ Hemingway advised against pushing to exhaustion. Leaving energy in reserve helps
 
 ---
 
-### See Also
+## See Also
 
 * [energy management](Energy%20Management.md)
 
