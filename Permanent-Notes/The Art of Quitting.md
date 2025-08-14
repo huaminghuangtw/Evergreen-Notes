@@ -1,7 +1,7 @@
 ---
 title: The Art of Quitting
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-13T16:58:59
 ---
 
 > _“I am as proud of what we don't do as I am of what we do.” — Steve Jobs_
@@ -20,7 +20,7 @@ Your capacity to [say 'No'](If%20it%20isn’t%20fuck%20YES,%20then%20it’s%20cl
 
 ---
 
-Logically, to start a _next_ thing, you must quit the _previous_ thing.
+Logically, to start a _next_ thing, you must quit the _previous_ thing. Quitting one thing is the only way to find the focus to do the next thing.
 
 ---
 
@@ -36,7 +36,7 @@ Quitting isn't just quitting. Quitting is for winners.
 
 ---
 
-Embrace the rare [ability to start over](https://www.youtube.com/shorts/H7dxy-CWszk) with a [beginner mindset](The%20Beginner%20Mindset.md)
+Embrace the rare [ability to start over](https://www.youtube.com/shorts/H7dxy-CWszk) with a [beginner mindset](the-beginner-mindset.md)
 
 ---
 
