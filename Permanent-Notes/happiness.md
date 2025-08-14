@@ -1,12 +1,10 @@
 ---
 title: Happiness
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T13:53:40
+modified: 2025-08-14T14:58:22
 ---
 
 > _“Happiness is a state where nothing is missing.” — Naval Ravikant_
-
-> _“Peace is happiness at rest, and happiness is peace in motion. You can always convert peace into happiness” — Naval Ravikant_ [^1]
 
 > _“Happiness is not about positive or negative thoughts — it's about [the absence of desire](The%20absence%20of%20desire%20is%20true%20happiness.md), especially the absence of desire for external things.” — Naval Ravikant_
 
@@ -29,6 +27,8 @@ modified: 2025-08-10T13:53:40
 > _[“Happiness can be found even in the darkest of times, if one only remembers to turn on the light.” — J.K. Rowling, Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/quotes/1266091-happiness-can-be-found-even-in-the-darkest-of-times)_
 
 > _“What I 'discovered' was that happiness is not something that happens. It is not the result of good fortune or random chance. It is not something that money can buy or power command. It does not depend on outside events, but, rather, on how we interpret them. Happiness, in fact, is a condition that must be prepared for, cultivated, and defended privately by each person. People who learn to control inner experience will be able to determine the quality of their lives, which is as close as any of us come to being happy.” — Mihalyi Csikszentmihalyi_
+
+> _“I think of happiness as an emergent property of [peace](Peace%20from%20mind.md). If you're peaceful inside and out, that will eventually result in happiness. But peace is a very hard thing to come by. The irony is the way most of us try to find peace is through war. When you start a business, in a way, you're going to war. When you struggle with your roommates as to who should clean the dishes, you're going to war. You're struggling so you can have some sense of security and peace later. In reality, peace is not a guarantee. It's always flowing. It's always changing. You want to learn the core skill set of flowing with life and accepting it in most cases. **You can get almost anything you want out of life, as long as it's one thing and you want it far more than anything else.** In my own personal experience, the place I end up the most is wanting to be at peace. **Peace is happiness at rest, and happiness is peace in motion.** You can convert peace into happiness anytime you want. But peace is what you want most of the time. If you're a peaceful person, anything you do will be a happy activity. Today, the way we think you get peace is by resolving all your external problems. But there are unlimited external problems.” — Naval Ravikant_
 
 ---
 
@@ -67,7 +67,7 @@ Happiness
 
 = Agency + Gratitude
 
-= Reality - Expectations [^2]
+= [Reality - Expectations](The%20absence%20of%20desire%20is%20true%20happiness.md) [^1]
 
 = Do what you love + Live where you like + Be with who you love
 
@@ -123,7 +123,7 @@ The ability to think about what is not happening in a moment is a cognitive achi
 
 ---
 
-# 要有隨時可以獲得快樂的能力 [^3]
+# 要有隨時可以獲得快樂的能力 [^2]
 
 [@brysonAreYouHappy2017]
 
@@ -173,6 +173,5 @@ Simple story on “Happiness is found through service of others.”
 >
 > 幸福就是這樣隨手可得的。每個人每天每時每刻都有可能體驗到幸福，除非你是一個非常頑強又自以爲是的人，把幸福當成是不能回收的垃圾，隨手丟棄，讓垃圾筒裡堆滿了你丟棄的幸福，兀自嘆息。
 
-[^1]: I think of happiness as an emergent property of peace. If you're peaceful inside and out, that will eventually result in happiness. But peace is a very hard thing to come by. The irony is the way most of us try to find peace is through war. When you start a business, in a way, you're going to war. When you struggle with your roommates as to who should clean the dishes, you're going to war. You're struggling so you can have some sense of security and peace later. In reality, peace is not a guarantee. It's always flowing. It's always changing. You want to learn the core skill set of flowing with life and accepting it in most cases. You can get almost anything you want out of life, as long as it's one thing and you want it far more than anything else. In my own personal experience, the place I end up the most is wanting to be at peace. Peace is happiness at rest, and happiness is peace in motion. You can convert peace into happiness anytime you want. But peace is what you want most of the time. If you're a peaceful person, anything you do will be a happy activity. Today, the way we think you get peace is by resolving all your external problems. But there are unlimited external problems.
-[^2]: Satisfaction = What you have ÷ What you want
-[^3]: [How to Instantly Feel Better?](https://sketchplanations.com/how-to-instantly-feel-better)
+[^1]: Satisfaction = What you have - What you want. Lowering desires/expectations can increase satisfaction.
+[^2]: [How to Instantly Feel Better?](https://sketchplanations.com/how-to-instantly-feel-better)
