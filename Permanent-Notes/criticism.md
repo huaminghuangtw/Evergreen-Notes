@@ -1,7 +1,7 @@
 ---
 title: criticism
 created: 2024-11-18T09:16:50
-modified: 2025-07-16T21:23:31
+modified: 2025-08-13T08:15:29
 ---
 
 > _“To avoid criticism, do nothing, say nothing, be nothing.” — Elbert Hubbard_
@@ -11,6 +11,10 @@ modified: 2025-07-16T21:23:31
 > _“Take criticism seriously, but not personally. If there is truth or merit in the criticism, try to learn from it. Otherwise, let it roll right off you.” — Hillary Rodham Clinton_
 
 > _“Against criticism we can neither protect nor defend ourselves; we must act in despite of it, and gradually it resigns itself to this.” — Johann Wolfgang von Goethe_
+
+---
+
+Uncomfortable facts are often the most helpful ones.
 
 ---
 
