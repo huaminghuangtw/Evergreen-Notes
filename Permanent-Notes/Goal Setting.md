@@ -1,8 +1,10 @@
 ---
 title: Goal Setting
 created: 2025-01-23T10:40:57
-modified: 2025-08-10T14:28:42
+modified: 2025-08-13T05:19:42
 ---
+
+> _“A goal is not always meant to be reached, it often serves simply as something to aim at.” — Bruce Lee_
 
 > _“Setting goals is the first step in turning the invisible into the visible.” — Tony Robbins_
 
