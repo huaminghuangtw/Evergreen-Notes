@@ -1,16 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-08-11T17:06:25
----
-
-The secret to limitless energy? Nandaka by Pique.
-
----
-
-Missing one opportunity to perform the behavior did not materially affect the habit formation process.”
-
-Skipping one day won't hurt your habit building, as long as you don't skip the next one.
-
+modified: 2025-08-13T17:02:34
 ---
 
  like to establish three levels for every daily system:
