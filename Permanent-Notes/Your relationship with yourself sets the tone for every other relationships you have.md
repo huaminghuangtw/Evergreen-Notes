@@ -1,7 +1,7 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-14T17:43:21
 ---
 
 > _“How you love yourself is how you teach others to love you.” — Rupo Kaur_
@@ -60,6 +60,7 @@ Always put yourself first. Self-prioritize yourself. Take care of yourself befor
 # Analogy
 
 * Put on your oxygen mask first.
+	* 你得先為自己戴上氧氣罩，才能開始救人。
 * A starving chef can't feed anyone.
 * You can't pour from an empty cup.
 
