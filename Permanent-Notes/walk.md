@@ -1,7 +1,7 @@
 ---
 title: walk
 created: 2024-11-18T09:16:50
-modified: 2025-08-10T14:28:42
+modified: 2025-08-14T14:58:14
 ---
 
 > _“Above all, do not lose your desire to walk. Everyday, I walk myself into a state of well-being & walk away from every illness. I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it.” — Søren Kierkegaard_
@@ -10,6 +10,7 @@ modified: 2025-08-10T14:28:42
 
 ![](../_attachments/316d587a5c95f54ea7a4f86fbb986d63.png)
 
+![](../_attachments/19d8ef9fa9213552e887aee3e54540ec.jpeg)
 ---
 
 **[Solvitur Ambulando: It Is Solved By Walking](https://sketchplanations.com/solvitur-ambulando)**
