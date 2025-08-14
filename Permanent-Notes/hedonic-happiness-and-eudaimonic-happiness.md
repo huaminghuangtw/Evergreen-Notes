@@ -1,6 +1,7 @@
 ---
+title: Hedonic Happiness & Eudaimonic Happiness
 created: 2025-08-10T13:53:39
-modified: 2025-08-10T13:53:39
+modified: 2025-08-14T19:33:45
 ---
 
 # Hedonic Happiness
