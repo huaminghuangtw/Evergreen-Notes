@@ -1,7 +1,7 @@
 ---
 title: Why We Exist
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-13T08:17:16
 ---
 
 > _“Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness.” — Leo Tolstoy_
@@ -72,7 +72,7 @@ Albert Camus argues that seeking a singular meaning of life can hinder truly liv
 
 1. Big ambitions
 2. High standards
-3. Low expectations
+3. [Low expectations](The%20absence%20of%20desire%20is%20true%20happiness.md)
 
 ---
 
