@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-08-10T13:58:53
+modified: 2025-08-14T08:29:57
 ---
 
 Financial [Compounding](The%20Compounding%20Effect.md) → Intellectual Compounding
@@ -214,7 +214,7 @@ Always starting from the most basic and simplest level, then adding more complex
 * [Language Learning](Language%20Learning.md)
 * [School is nothing but the starting line of true education](true-education-begins-where-school-ends.md)
 
-[^1]: 圖像、故事、位置空間 (羅馬房間方位記憶法 = 宮殿記憶法)
+[^1]: 圖像、故事、位置空間 ([羅馬房間方位記憶法 = 宮殿記憶法](https://en.wikipedia.org/wiki/Method_of_loci))
 [^2]: [The Learning Pit](https://sketchplanations.com/the-learning-pit)
 [^3]: refers to a person who is guided and supported by someone more experienced or knowledgeable
 [^4]: Especially the first night after learning something important to you, in order to maximize your chances of retaining the information. Without getting enough hours of quality sleep, you lose much of the chance to consolidate (“save”) the new information in your memory.
