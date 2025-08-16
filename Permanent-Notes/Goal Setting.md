@@ -1,7 +1,7 @@
 ---
 title: Goal Setting
 created: 2025-01-23T10:40:57
-modified: 2025-08-13T05:19:42
+modified: 2025-08-15T10:32:55
 ---
 
 > _“A goal is not always meant to be reached, it often serves simply as something to aim at.” — Bruce Lee_
@@ -30,8 +30,6 @@ modified: 2025-08-13T05:19:42
 
 ---
 
-# Frameworks
-
 ## The Abc Goal System (by Sahil Bloom)
 
 * A Goal
@@ -44,12 +42,26 @@ modified: 2025-08-13T05:19:42
 	* Minimum viable level, anything above zero compounds.
 	* E.g., Finish the race.
 
+---
+
 ## Annual Planning (by Sahil Bloom)
 
 * Big Goal
+	* These are your big, year-long goals. They should be large and ambitious.
+	* If these big goals don't scare you a little bit, I'd encourage you to think bigger.
+	* The Big Goals are the summit of the mountain—motivating on a macro scale, but too far off and intimidating to be motivating on a micro daily basis.
 * Checkpoint Goals
+	* Work backwards from your Big Goals to formulate a set of Checkpoint Goals.
+	* If the Big Goals are the summit of the mountain, the Checkpoint Goals are the mid-climb campsites. You can't reach the summit without reaching these points, as all paths lead directly through them.
 * Anti Goals
+	* Anti-Goals are the things we don't want to happen on our journey to achieve our Big Goals.
+	* If the Big Goals are your summit, Anti-Goals are the things you don't want to sacrifice while executing the climb—like your life, your toes, or your sanity. You want to reach the summit, but not at the expense of these things.
+	* For example, your Big Goal is to become CEO, but your Anti-Goals may be spending over 300 nights away from your family and allowing your health to suffer from constant travel and stress. You want to achieve the Big Goal, but not if it means having those Anti-Goals become real.
 * Daily Systems
+	* These are the 2-3 daily actions that you need to take to create tangible, compounding forward progress. The simplest daily actions to generate progress in a given arena.
+	* If the Big Goals and Checkpoint Goals are your compass, establishing your direction, the Daily Systems are your feet, moving you forward on your climb.
+
+---
 
 ## [The Harada Method](https://theharadamethod.com/about-the-method) [^3]
 
@@ -58,6 +70,8 @@ The Open Window 64 Chart (曼陀羅九宮格)
 ![](../_attachments/6f4c2aa5fa18b1a5d243d85423c9ebd6.png)
 
 ![](../_attachments/986f32407054d1d07ad29fa02571d9b2.png)
+
+---
 
 ## [The Wheel of Life](https://wheeloflife.noomii.com/)
 
@@ -87,6 +101,10 @@ The key in life is to find the balance, and balance isn't about perfection. Pour
 	* Goals are specific _achievements you set for the future_. They have a natural endpoint. Intentions, on the other hand, are _attitudes for the present_. They guide your thoughts and actions in each moment. Intention creates reality.
 * Sacrifices
 	* Goals require sacrifice.What are you willing to pay? What will you give up?
+
+---
+
+# Warren Buffett's [The 5-25 Rule](the-5-25-rule.md)
 
 ---
 
