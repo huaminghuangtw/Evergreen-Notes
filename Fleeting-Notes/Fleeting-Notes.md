@@ -1,60 +1,12 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-08-13T17:02:34
----
-
- like to establish three levels for every daily system:
-
-A: Most ambitious, perfect case
-
-B: Middle ground, base case
-
-C: Minimum viable level
-
-On days when you feel great, you hit your A. On days when you feel ok, you hit your B. On days when you feel bad, just hit your C.
-
-The ABC System removes any intimidation or guilt: As long as you hit your C, you're making forward progress. Anything above zero compounds.
-
-The system prevents optimal (A) from getting in the way of beneficial (C) and gives you the flexibility to make progress while allowing the inevitable chaos of life to enter.
-
+modified: 2025-08-15T10:36:17
 ---
 
 Spend 30 minutes daily…
 
 * engaging with readers and community members
 * connecting with the audience
-
----
-
-Goals vs. Non-goals
-
-Anti-Goals are the things we don't want to happen on our journey to achieve our Big Goals.
-
-If the Big Goals are your summit, Anti-Goals are the things you don't want to sacrifice while executing the climb—like your life, your toes, or your sanity. You want to reach the summit, but not at the expense of these things.
-
-For example, your Big Goal is to become CEO, but your Anti-Goals may be spending over 300 nights away from your family and allowing your health to suffer from constant travel and stress. You want to achieve the Big Goal, but not if it means having those Anti-Goals become real.
-
----
-
-These are the 2-3 daily actions that you need to take to create tangible, compounding forward progress. The simplest daily actions to generate progress in a given arena.
-
-If the Big Goals and Checkpoint Goals are your compass, establishing your direction, the Daily Systems are your feet, moving you forward on your climb.
-
----
-
-Big Goals
-
-These are your big, year-long goals. They should be large and ambitious.
-
-If these big goals don't scare you a little bit, I'd encourage you to think bigger.
-
-The Big Goals are the summit of the mountain—motivating on a macro scale, but too far off and intimidating to be motivating on a micro daily basis.
-
-1. Checkpoint Goals
-
-Work backwards from your Big Goals to formulate a set of Checkpoint Goals.
-
-If the Big Goals are the summit of the mountain, the Checkpoint Goals are the mid-climb campsites. You can't reach the summit without reaching these points, as all paths lead directly through them.
 
 ---
 
@@ -988,3 +940,25 @@ The pursuit defines the life.
 Harmonious Passion is adaptive. It is chosen. It aligns with your identity, but it does not supersede it. It is a reflection of your priorities and values. It is naturally energizing. Rest periods away from the pursuit are viewed as an important part of your performance, not a reward for your efforts.
 
 The life defines the pursuit.
+
+---
+
+You are the cracked pot. Perfectly imperfect. Remember that. The Story of the Cracked Pot
+
+There was an old man who lived in a village in India. Every morning, he would place a long stick across his back, hang a water pot from each end, and walk several miles to the river to get fresh water for his family.
+
+But the two water pots were not the same. One had a series of small cracks in its side, causing it to leak.
+
+The old man would fill both pots at the river, but by the time he got back to his home, the cracked pot would be half empty, the water having leaked out during the walk.
+
+The cracked pot grew increasingly ashamed of its inability to complete the task for which it was made. One day, while the old man filled the two pots at the river, the cracked pot spoke to him.
+
+“I'm sorry. I'm so embarrassed that I cannot fulfill my responsibilities as well as the other pot.”
+
+The old man smiled and replied, “On the walk home today, rather than hanging your head in shame, I want you to look up at the side of the path.”
+
+The cracked pot reluctantly agreed to do as the old man asked. As they left the riverbank and started on the path, he couldn't believe his eyes.
+
+On his side of the path was a beautiful row of flowers.
+
+“You see,” the old man said, “I've always known you had those cracks, so I planted flower seeds along your side of the path. Each day, your cracks helped me water them. And now, I pick these flowers to share their beauty with the entire village.”
