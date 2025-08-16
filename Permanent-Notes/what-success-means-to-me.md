@@ -1,7 +1,7 @@
 ---
 title: What Success Means To Me
 created: 2024-11-18T09:18:12
-modified: 2025-07-24T11:25:35
+modified: 2025-08-15T13:38:03
 ---
 
 > _[“Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable. And you're the only one that will know that.” — John Wooden](https://www.youtube.com/watch?v=JWQIxuNGdvQ&t=95s)_
@@ -17,6 +17,8 @@ modified: 2025-07-24T11:25:35
 > _[“Extreme success is not going to make you happy. In fact, success amplifies who you already are and how you already feel.” — Mark Manson](https://www.youtube.com/watch?v=_ZJpU43NA0c&t=10m49s)_
 
 > _[“Success in life is not for those who run fast, but for those who keep running and always on the move.” — Bangambiki Habyarimana, Pearls Of Eternity](https://www.goodreads.com/quotes/7890685-success-in-life-is-not-for-those-who-run-fast)_
+
+> _“Success is being excited to go to work and being excited to come home.” — Will Ahmed_
 
 > _[“He has achieved success who has worked well, laughed often, and loved much.” — Elbert Hubbard](https://www.brainyquote.com/quotes/elbert_hubbard_103488)_
 
