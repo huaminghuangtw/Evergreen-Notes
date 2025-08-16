@@ -1,7 +1,7 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2025-08-01T22:58:18
+modified: 2025-08-15T13:39:32
 ---
 
 > _“Start before you're ready. Don't prepare. Begin. Don't think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
@@ -25,6 +25,16 @@ modified: 2025-08-01T22:58:18
 [The scariest moment is always just before you start.](https://www.goodreads.com/work/quotes/150292-on-writing) Start before you feel ready, avoid _chicken-and-egg_ — a situation where you feel stuck because **you believe you need X to do Y, but also need Y to get X**. Like the classic paradox: _Which came first, the chicken or the egg?_
 
 Don't wait until everything is perfectly prepared or until you feel completely “ready” — because if you do, you might **never start**. You'll get trapped in a loop of “_I need experience to start, but I need to start to get experience._”
+
+---
+
+# Everything above zero compounds positively
+
+* Running one mile has more in common with running a marathon than sitting at home.
+* Investing $100 has more in common with being a millionaire than being broke.
+* Writing one sentence has more in common with writing a book than never writing one.
+
+Every race starts with one step. Every fortune starts with a small deposit. Every book begins as one sentence.
 
 ---
 
