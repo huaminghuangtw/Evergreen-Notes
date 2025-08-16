@@ -1,7 +1,7 @@
 ---
 title: Life is cyclic
 created: 2024-11-18T09:18:12
-modified: 2025-07-28T12:39:12
+modified: 2025-08-16T15:39:06
 ---
 
 > _“Life is like a wheel. Sooner or later, it always comes around to where you started again.” — Stephen King_
@@ -45,6 +45,16 @@ Some seasons you produce fruit, some seasons you prune, and some seasons you let
 ---
 
 The [Solstice (至日)](https://en.wikipedia.org/wiki/Solstice) [^2] reminds us: life is a beautiful cycle of _renewal_ and _retreat_, each phase mirroring the other. [^3] Embrace life's natural rhythms.
+
+---
+
+好是壞的開始，壞是好的開始。
+
+---
+
+# See Also
+
+* [Hope for the best, prepare for the worst](hope-for-the-best-prepare-for-the-worst.md)
 
 [^1]: the ebb and the flow
 [^2]: marks the longest and shortest days of the year
