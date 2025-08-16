@@ -1,7 +1,7 @@
 ---
 title: What to do when you have negative thoughts or emotions
 created: 2024-11-18T09:18:12
-modified: 2025-08-12T20:00:11
+modified: 2025-08-16T15:39:06
 ---
 
 > _“You cannot prevent the birds of sorrow from flying over your head, but you can prevent them from building nests in your hair.” — Chinese Proverb_
@@ -10,7 +10,7 @@ modified: 2025-08-12T20:00:11
 
 > _“When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.” — Henry Ford_
 
-> _“Kites rise highest against the wind - not with it.” — Winston Churchill_
+> _“Kites rise highest against the wind - not with it.” — Winston Churchill_ [^1]
 
 ---
 
@@ -25,7 +25,7 @@ modified: 2025-08-12T20:00:11
 * Learn to laugh at yourself. The more you can laugh at yourself, the happier you'll be. When you screw something up, practice laughing at yourself instead of beating yourself up / wrestling with yourself.
 * [Acceptance and Commitment Therapy](Acceptance%20and%20Commitment%20Therapy.md)
 * The Triple S Technique by Tony Robbins
-	* Shift your STATE [^1]
+	* Shift your STATE [^2]
 	* Change your STORY
 	* STRATEGIZE your future
 
@@ -99,4 +99,5 @@ Negative thoughts/emotions in life are like a glass of water. → The absolute w
 
 * [A true transformation begins with a mental shift](a-true-transformation-begins-with-a-mental-shift.md)
 
-[^1]: e.g., by taking a cold shower, deep breath, etc.
+[^1]: Do not fear the winds of adversity. Remember, a kite rises against the wind rather than with it.
+[^2]: e.g., by taking a cold shower, deep breath, etc.
