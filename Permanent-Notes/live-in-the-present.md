@@ -1,7 +1,7 @@
 ---
 title: Live in the present
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-16T14:51:57
 ---
 
 > _“It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.” — Dr. Robert Hutchings Goddard_
@@ -37,6 +37,8 @@ modified: 2025-08-10T14:28:42
 > _[Genieße den Augenblick - denn Heute ist der erste Tag vom Rest deines Lebens! (享受當下，因為今天是剩下的生命中的第一天！)](http://www.godic.net/home/dailysentence/4056ec51-2133-4b30-8cca-8f9e279b3e45)_
 
 > _“Think of yourself in a concert hall listening to the strains of the sweetest music when you suddenly remember that you forgot to lock your car. You are anxious about the car, you cannot walk out of the hall and you cannot enjoy the music. There you have a perfect image of life as it is lived by most human beings.” — Anthony de Mello_
+
+> _“Realize deeply that the present moment is all you ever have.” — Eckhart Tolle_
 
 ---
 
