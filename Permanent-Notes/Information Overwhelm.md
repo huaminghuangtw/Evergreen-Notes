@@ -1,7 +1,7 @@
 ---
 title: Information Overwhelm
 created: 2024-11-18T09:18:12
-modified: 2025-07-28T16:52:00
+modified: 2025-08-15T13:46:05
 ---
 
 > _“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” ― T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654)_
@@ -48,6 +48,9 @@ modified: 2025-07-28T16:52:00
 			* Mindset Shift: Consumer → Producer
 			* _“The number of hours I spend consuming should never equal or exceed the number of hours I spend creating.” ― Nicolas Cole, The Art and Business of Online Writing_
 		* Only consume quality contents that have stood the test of time.
+
+			> _[Hype erodes. Quality persists.](https://x.com/JamesClear/status/1956069352601477465)_
+
 			* [The Lindy Library](The%20Lindy%20Effect.md)
 			* [Brain Attic](Brain%20Attic.md)
 		* Study history to predict the future
