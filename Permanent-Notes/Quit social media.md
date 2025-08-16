@@ -1,7 +1,7 @@
 ---
 title: Quit social media
 created: 2024-11-18T09:18:12
-modified: 2025-08-12T14:48:42
+modified: 2025-08-15T08:21:43
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -153,6 +153,6 @@ If you were to reduce screen time—especially social media—by just one hour p
 * [News Sobriety](News%20Sobriety.md)
 * [Comparison is the thief of joy](comparison-is-the-thief-of-joy.md)
 
-[^1]: [Brain Rot](https://www.google.com/search?q=Brain+Rot)
+[^1]: [Brain Rot (腦腐)](https://www.google.com/search?q=Brain+Rot)
 [^2]: aka Doomscrolling (= Idle Scrolling = Zombie Scrolling = Mindlessly Surfing) → Sans Scrolling
 [^3]: (1) Excessive social media use is comparable to drug (毒品) addiction (2) The best things in life are happening away from screens. Phone addiction is a silent epidemic.
