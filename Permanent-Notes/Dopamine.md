@@ -1,7 +1,7 @@
 ---
 title: Dopamine
 created: 2024-11-18T09:18:12
-modified: 2025-07-25T14:07:40
+modified: 2025-08-26T05:35:26
 ---
 
 > _“Persons with severe addictions are among those contemporary prophets that we ignore to our own demise, for they show us who we truly are. (重度成癮者是當代的預言家，不把他們當一回事，沒有好下場的是我們，因為他們反映的正是我們真實的面貌)” — Kent Dunnington_
@@ -25,6 +25,8 @@ Dopamine triggers the [desire](The%20absence%20of%20desire%20is%20true%20happine
 多巴胺其實並非直接帶來快樂的化學物質，而是促使我們追求快樂的關鍵因子。作為「獎勵路徑（reward pathway）」的一部分，它驅動我們採取行動，提升動機，並塑造行為模式。然而，多巴胺本身並不提供真正的滿足感或獎勵感，而是讓我們渴望並持續尋求這些感受。真正的快樂來自於多種神經傳導物質的共同作用，包括血清素、催產素和內啡肽等。血清素與穩定情緒和幸福感有關，催產素則與親密關係和社交連結帶來的溫暖感受相關，而內啡肽則能減輕疼痛並產生欣快感。這些化學物質相互協作，讓我們體驗到真正的快樂與滿足。
 
 ---
+
+# Key: Pain Before Pleasure
 
 Dopamine makes you feel best when you earn it with efforts. Learn to spike dopamine from the effort (an equalizer) itself!
 
@@ -51,7 +53,7 @@ Our [baseline dopamine](https://youtu.be/QmOF0crdyRU?t=2218) levels are influe
 	* ❗️ Be very cautious about _**stacking and layering**_ in too many dopamine peak inducing behaviors all at once on a regular basis❗️
 		* **Dopamine stacking**—combining multiple sources of dopamine at once—can short-cirtcuit/disrupt the normal function of the brain's reward system, making it harder to feel satisfied with normal experiences and increasing the risk of compulsive behaviors.
 * How to manage/regulate the _**peak level of dopamine**_ for sustainable/persistent goal-directed motivation?
-	* Use **[Randomly Intermittent Reward Timing (RIRT)](Randomly%20Intermittent%20Reward%20Timing%20(RIRT).md)**
+	* Use **[Randomly Intermittent Reward Timing (RIRT)](randomly-intermittent-reward-timing.md)**
 	* Remember that Dopamine is Subjective
 		* The brain does not know external rewards — no dopamine is dripped in your brain — it only knows the associations of events with internal chemical (in this case, dopamine) release.
 
@@ -68,7 +70,7 @@ Feel unmotivated? [Procrastination](Procrastination.md)?
 
 Cheap (Fake) Dopamine (associated with [short-term thinking](instant-gratification.md))
 
-* Increases our [Dopamine](Dopamine.md) baseline levels
+* Increases our [Dopamine](dopamine.md) baseline levels
 	* Once they drop/return to normal, we crash.
 	* Then we need more dopamine to beat the previous dopamine spike/hit/high.
 * Often associated with _**struggle**_
