@@ -1,7 +1,7 @@
 ---
 title: Advice
 created: 2024-11-18T09:16:50
-modified: 2025-08-23T04:28:57
+modified: 2025-08-25T05:52:55
 ---
 
 # On Giving Advice
@@ -42,7 +42,9 @@ Selfish people should listen to advice to be more selfless, selfless people shou
 
 The point of seeking advice isn't to follow it blindly but to enhance your clarity of thought. Advice is often rooted in the giver's unique experiences, values, and goals, which may not align with your own. People give guidance from what works for them. It may or may not apply to you. This is particularly true for online advice, where blog posts and articles reflect the writer's perspective and lifestyle, often without context about your situation. They have no idea about you. There's no guarantee that what works for them will also work for you. Without the opportunity to question causality or critically filter the advice, it risks becoming mental clutter, occupying your mind and to-do list without being meaningfully internalized.
 
-Be comfortable with **ignoring** advice. At the end of the day,
+The Advice Paradox: Taking more advice can leave you less well-prepared.
+
+It's dangerous to use someone else's map of reality to navigate yours. Develop your own filters and selectively accept and implement advice—take the signal, skip the noise. Be comfortable with **ignoring** advice. At the end of the day,
 
 * only you can give yourself the best advice, because it's you who knows the entire story and context, not anyone else on the internet.
 * there is really no “right way” of doing things, especially [in the age of infinite information on the internet](Information%20Overwhelm.md). Finding a [personalised](mastering-yourself-is-superpower.md) approach is key.
