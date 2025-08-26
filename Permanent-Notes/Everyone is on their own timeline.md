@@ -1,7 +1,7 @@
 ---
 title: Everyone is on their own timeline
 created: 2024-11-18T09:18:12
-modified: 2025-08-22T15:26:58
+modified: 2025-08-26T14:39:41
 ---
 
 > _“One's own dharma performed imperfectly is better than another's dharma well performed…It is better to strive in one's own dharma than to succeed in the dharma of another.” — Bhagavad Gita_
@@ -40,6 +40,14 @@ It's okay to be lost sometimes, but [never compare your timeline to other people
 [Life is neither a race, nor a competition.](Escape%20competition%20through%20authenticity.md) There are no rules to life. Not everything in life has to come together at the exact same time. There is no such thing as “too late” or “falling behind” when it comes to life. You might be [too scared](fear.md), but you are never too late.
 
 Each planet has its own orbit agenda. We spin through life at our own pace—no two paths are exactly the same. [Everyone is on their own clock.](https://www.youtube.com/watch?v=vvJmGY0XK_0&ab_channel=SulimanAlsmairat)
+
+---
+
+In Japan, there are four beautiful trees that all bloom during the spring: Cherry, Plum, Peach, and Apricot. They don't bloom concurrently. Each tree blooms on its own timeline. It's own cadence. It's own order.
+
+The Japanese philosophy of Oubaitori is a manifestation of this natural way: Humans, like trees, bloom on their own timelines. Their journeys and growth are unique to each individual.
+
+日文「桜梅桃李（おうばいとうり）」字面意為櫻、梅、桃、李四種花卉，象徵各自綻放、各具風姿、各自承載天地的安排。人也應當專注於自身的獨特之美，不必追逐他人的影子，只需活出與生俱來的個性與魅力。
 
 ---
 
@@ -97,6 +105,7 @@ Each planet has its own orbit agenda. We spin through life at our own pace—no 
 ## See Also
 
 * [Comparison is the thief of joy](comparison-is-the-thief-of-joy.md)
+* [Escape competition through authenticity](Escape%20competition%20through%20authenticity.md)
 * [A man who is a master of patience is master of everything else](a-man-who-is-a-master-of-patience-is-master-of-everything-else.md)
 * [What Success Means To Me](what-success-means-to-me.md)
 
