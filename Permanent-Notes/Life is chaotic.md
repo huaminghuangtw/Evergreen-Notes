@@ -1,7 +1,7 @@
 ---
 title: Life is chaotic
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-26T15:11:45
 ---
 
 > _“Everyone has a plan until they get punched in the mouth.” — Mike Tyson_
@@ -30,7 +30,15 @@ Write your life plan with a pencil that has an eraser.
 
 ---
 
-「我與命運有個約會! (赴命運之約!)」 (I have a [rendezvous](https://dictionary.cambridge.org/dictionary/english/rendezvous) with destiny!) ，意謂著生命的轉折點。
+「我與命運有個約會！（赴命運之約！）」 (I have a [rendezvous](https://dictionary.cambridge.org/dictionary/english/rendezvous) with destiny!) ，意謂著生命的轉折點。
+
+---
+
+[@mansonSubtleArtNot2016]
+
+> _“Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.” ― Mark Manson, The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life_
+
+Problems are a feature of life, not a bug. There will never come a time when you have no problems.
 
 ---
 
