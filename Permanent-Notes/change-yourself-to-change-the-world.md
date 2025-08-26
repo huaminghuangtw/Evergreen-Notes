@@ -1,7 +1,7 @@
 ---
 title: Change yourself to change the world
 created: 2024-11-18T09:18:12
-modified: 2025-08-18T16:38:48
+modified: 2025-08-26T14:30:43
 ---
 
 > _“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi_
@@ -48,6 +48,8 @@ Before changing yourself, you need to [knowing yourself](mastering-yourself-is-s
 
 * Water your own grass
 * Mow your own lawn
+
+Tend your garden. Sow your seeds. Water your grass. The grass is greener where you water it.
 
 ---
 
