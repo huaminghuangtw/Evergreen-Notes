@@ -1,10 +1,10 @@
 ---
-title: slackness
+title: Slackness
 created: 2024-12-05T09:42:10
-modified: 2025-07-16T21:23:31
+modified: 2025-08-26T05:28:46
 ---
 
-_**[slackness (鬆弛; 懈怠; 不積極) - the absence of a binding constraint](https://thezvi.wordpress.com/2017/09/30/slack/)**_
+**[Slackness (鬆弛; 懈怠; 不積極) - the absence of a binding constraint](https://thezvi.wordpress.com/2017/09/30/slack/)**
 
 * Slack means margin for error. You can relax.
 * Slack allows pursuing opportunities. You can explore. You can trade.
