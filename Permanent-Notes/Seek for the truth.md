@@ -1,7 +1,7 @@
 ---
 title: Seek for the truth
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-26T05:42:55
 ---
 
 > _“Facts are the enemy of truth.” — Miguel de Cervantes_
@@ -23,10 +23,6 @@ Finding the truth is much more important than being right. Focus on finding the 
 ---
 
 Do not sacrifice being correct for being right.
-
----
-
-It's usually better to be nice than right.
 
 ---
 
