@@ -1,7 +1,7 @@
 ---
 title: Feedback
 created: 2024-11-18T09:18:12
-modified: 2025-08-21T07:14:52
+modified: 2025-08-26T09:56:03
 ---
 
 # On Giving Feedback
@@ -44,6 +44,8 @@ When people hesitate to give you honest feedback, ask for a score from 0-10, ins
 * 「我認為你觸及到核心問題了，請多說一些。」
 * 「你的觀點似乎切中要害，能否再深入說明？」
 * 「我覺得你點到關鍵了，可以再多分享一些嗎？」
+
+Don't confuse DISAGREEMENT with DISRESPECT. Never confuse your CRITICS with your HATERS. Feedback can skyrocket your growth _if you don't take it personally_.
 
 ## See Also
 
