@@ -1,7 +1,7 @@
 ---
 title: perfectionism
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-26T14:43:16
 ---
 
 > _“You don't have to be great to start, but you have to start to be great.” — Zig Ziglar_
