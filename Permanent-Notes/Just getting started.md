@@ -1,7 +1,7 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2025-08-15T13:39:32
+modified: 2025-08-26T14:43:45
 ---
 
 > _“Start before you're ready. Don't prepare. Begin. Don't think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
@@ -16,9 +16,11 @@ modified: 2025-08-15T13:39:32
 
 > _[“You can act your way into feeling long before you can feel your way into action. If you wait until you feel like doing something, you will likely never accomplish it.” ― John C. Maxwell, How Successful People Think: Change Your Thinking, Change Your Life](https://www.goodreads.com/quotes/1158022-you-can-act-your-way-into-feeling-long-before-you)_
 
+> _“If we wait for the moment when everything, absolutely everything is ready, we shall never begin.” — Ivan Turgenev_
+
 ---
 
-開始就不嫌晚，沒有什麼叫太晚。
+開始就不嫌晚，沒有什麼叫太晚。前進就不嫌慢，沒有什麼叫太慢。
 
 ---
 
