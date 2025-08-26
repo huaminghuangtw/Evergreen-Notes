@@ -1,7 +1,7 @@
 ---
 title: How to live a life
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-25T13:13:16
 ---
 
 > _“Life is a question and how we live it is our answer.” — [@kellerOneThingSurprisingly2013]_
@@ -91,3 +91,5 @@ You always have 3 options/choices in any circumstance/situation in life — that
 But resisting reality is always the wrong choice / the worst option is sitting around, wishing you would change it but not changing it, or wishing you would leave it but not leaving and not accepting it. This is the struggle that is responsible for most of our misery, [anger](anger.md), and unhappiness.
 
 Life is like a maze. There are two ways to advance your life: [move forward](Just%20getting%20started.md) when you can, or if you can't, step back and try a new way. The biggest mistake is to stand still.
+
+人生中遇到任何情況，其實只有三種選擇：接受它（改變自己的態度）、改變它，或是離開它。最糟糕的做法，是抗拒現實 — 既不接受、也不改變、也不離開，只停留在抱怨、擔心與掙扎中 — 這就是大部分痛苦的根源。人生就像一座迷宮，能前進時就勇敢前行，走不通時就退一步換條路，但絕不是原地僵住不動。
