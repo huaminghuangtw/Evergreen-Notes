@@ -1,7 +1,7 @@
 ---
 title: resilience
 created: 2024-11-18T09:04:18
-modified: 2025-08-24T08:46:11
+modified: 2025-08-26T05:40:22
 ---
 
 > _“Resilience is not what happens to you. It's how you [react to, respond to](choose-your-response.md), and recover from what happens to you.” — Jeffrey Gitomer_
@@ -66,6 +66,8 @@ The more easily you get offended, the less emotional intelligence you have. Inve
 > _“You cannot control the behavior of others, but you can always choose how you respond to it.” — Roy T. Bennett_
 
 > _“It is difficult to free fools from the chains they revere.” — Voltaire_
+
+> _“Talk sense to a fool and he calls you foolish.” — Euripides_
 
 * 不要和白痴吵架
 	* _[Dogs do not get tired of barking.](https://www.google.com/search?q=Dogs+do+not+get+tired+of+barking.)_
