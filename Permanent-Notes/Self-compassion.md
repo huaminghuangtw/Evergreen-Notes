@@ -1,7 +1,7 @@
 ---
 title: Self-compassion
 created: 2025-01-23T10:40:57
-modified: 2025-08-10T14:28:42
+modified: 2025-08-26T06:00:43
 ---
 
 ｊ
@@ -25,6 +25,10 @@ modified: 2025-08-10T14:28:42
 ---
 
 人生，就是要適時地放過自己。永遠要寬容、慈悲地對待自己。展現自我同情。
+
+---
+
+Being kind to others is mostly about your actions. Being kind to yourself is mostly about your thoughts.
 
 ---
 
