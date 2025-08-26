@@ -1,7 +1,7 @@
 ---
 title: adaptability
 created: 2024-11-18T09:18:12
-modified: 2025-08-16T08:07:35
+modified: 2025-08-25T05:50:13
 ---
 
 > _“It is not the strongest of the species that survives, nor the most intelligent. It is the one most adaptable to change; but the species that survives is the one that is able best to adapt and adjust to the changing environment in which it finds itself.” — Charles Darwin_ [^1]
@@ -15,6 +15,8 @@ modified: 2025-08-16T08:07:35
 > _[“Consistency is about being adaptable. Adaptability is the way of consistency.” — James Clear](https://jamesclear.com/quotes/in-theory-consistency-is-about-being-disciplined-determined-and-unwavering)_ [^2]
 
 > _“You can suffer the pain of change or suffer remaining the way you are.” — Joyce Meyer_
+
+> _“When you are finished changing, you are finished.” — Benjamin Franklin_
 
 ---
 
