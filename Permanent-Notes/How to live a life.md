@@ -1,7 +1,7 @@
 ---
 title: How to live a life
 created: 2024-11-18T09:18:12
-modified: 2025-08-25T13:13:16
+modified: 2025-08-26T14:28:26
 ---
 
 > _“Life is a question and how we live it is our answer.” — [@kellerOneThingSurprisingly2013]_
@@ -41,14 +41,6 @@ Life is neither a problem to be solved nor a game to be won.
 ---
 
 [Life is not a debate—it's not about winning the argument or being right.](https://tim.blog/2018/08/02/ann-miura-ko/) Winning an argument doesn't make you right. Someone might win an argument and still be wrong. Being good at debating is not the same as being right.
-
----
-
-[@mansonSubtleArtNot2016]
-
-> _“Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.” ― Mark Manson, The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life_
-
-Problems are a feature of life, not a bug. There will never come a time when you have no problems.
 
 ---
 
