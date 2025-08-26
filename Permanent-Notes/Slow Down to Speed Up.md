@@ -1,7 +1,7 @@
 ---
 title: Slow Down to Speed Up
 created: 2024-12-05T09:05:25
-modified: 2025-08-21T07:35:49
+modified: 2025-08-26T05:29:12
 ---
 
 [@ferriss4hourWorkweekEscape2011]
@@ -39,6 +39,10 @@ There's never enough time to do it right but there's plenty of time to do it ove
 ---
 
 果實熟透了，才能採摘。思考沉穩了，才能充分表達。
+
+---
+
+One step back for two steps forward.
 
 ---
 
@@ -88,7 +92,7 @@ Once you've done that, that's when you can go fast.
 ## See Also
 
 * [Every single day, chop wood, carry water](every-single-day-chop-wood-carry-waters.md)
-* [slackness](slackness.md)
+* [Slackness](slackness.md)
 * [Wu Wui](Wu%20Wui.md)
 * [A man who is a master of patience is master of everything else](a-man-who-is-a-master-of-patience-is-master-of-everything-else.md)
 
