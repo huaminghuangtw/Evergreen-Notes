@@ -1,7 +1,7 @@
 ---
 title: Work hard
 created: 2024-11-18T09:16:50
-modified: 2025-07-28T07:14:05
+modified: 2025-08-25T05:56:59
 ---
 
 > _“Without ambition one starts nothing. Without work one finishes nothing. The prize will not be sent to you. You have to win it.” — Ralph Waldo Emerson_
@@ -24,9 +24,6 @@ Working hard for something we don't care about is called **stress**. Working har
 
 ---
 
-你必須很努力，才能看起來 [毫不費力](flow-state.md)。
-
-* Earned Effortlessness
-* Studied Carelessness
+你必須很努力，才能看起來 [毫不費力](sprezzatura.md)。
 
 [^1]: 眼高，也要手高
