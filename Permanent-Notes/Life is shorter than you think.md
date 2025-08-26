@@ -1,8 +1,10 @@
 ---
 title: Life is shorter than you think
 created: 2025-01-23T10:40:57
-modified: 2025-08-10T14:28:42
+modified: 2025-08-26T15:11:45
 ---
+
+> _“No matter how many times you do something, there will come a day when you do it for the last time.” — Sam Harris_
 
 > _“The price of anything is the amount of life you exchange for it.” — Henry David_
 
@@ -28,7 +30,11 @@ modified: 2025-08-10T14:28:42
 
 We often hear “Life is short, enjoy it.”, but often forget: “Eternity is long, prepare for it.”
 
+---
+
 Accept the impermanence of everything in our lives.
+
+---
 
 [The Insignificance of Human Existence](https://www.youtube.com/watch?v=wupToqz1e2g)
 
@@ -38,6 +44,12 @@ Accept the impermanence of everything in our lives.
 
 ---
 
+# [Live Like It's The Last Time](https://www.sahilbloom.com/newsletter/live-like-its-the-last-time)
+
+You won't know when it's the last time. But you can live like it is.
+
+---
+
 # See Also
 
-* [death](death.md)
+* [Death](death.md)
