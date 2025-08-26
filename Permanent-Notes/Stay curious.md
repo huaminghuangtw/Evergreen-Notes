@@ -1,12 +1,14 @@
 ---
 title: Stay curious
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-25T06:23:51
 ---
 
 > _“The cure for boredom is curiosity. There is no cure for curiosity.” — Dorothy Parker_
 
 > _[“Curiosity is something you can activate at any time. It leads to a sense of wonder, awe, and even joy. Curiosity is the cure to the mundane.” — Nick Milo](https://www.linkingyourthinking.com/ideaverse/curiosity-is-the-cure-to-the-mundane)_
+
+> _“Curiosity is the engine of achievement.” — Sir Ken Robinso_
 
 > _“If you don't know it, it's because you aren't interested in it.” — Naval Ravikant_
 
