@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2025-08-21T08:09:57
+modified: 2025-08-26T14:49:47
 ---
 
 > _“To be is to do.” — Immanuel Kant_
@@ -137,7 +137,7 @@ Later is where your dream life goes to die.
 
 Later is the self-limiting word of the broken.
 
-There is no later, because later you'll be dead.
+There is no later, because later you'll be [dead](death.md).
 
 ---
 
