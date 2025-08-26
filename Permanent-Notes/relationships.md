@@ -1,7 +1,7 @@
 ---
 title: relationships
 created: 2025-03-12T02:41:12
-modified: 2025-08-20T06:18:23
+modified: 2025-08-26T05:43:15
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other's light.” — James Baldwin_
@@ -34,6 +34,10 @@ Ask “_What can I do to be a better \_\_\_ to you?_” (partner, friend, son, e
 
 1. Outreach involves meeting new people and reconnecting with those you may not see regularly.
 2. Connection focuses on nurturing deeper, more meaningful bonds with those already in your life.
+
+---
+
+It's usually better to be nice than right.
 
 ---
 
