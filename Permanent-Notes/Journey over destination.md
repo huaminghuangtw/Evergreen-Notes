@@ -1,7 +1,7 @@
 ---
 title: Journey over destination
 created: 2024-11-18T09:18:12
-modified: 2025-08-23T04:29:31
+modified: 2025-08-26T05:35:26
 ---
 
 > _If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable.” — Maxime Lagace_
@@ -58,7 +58,7 @@ Achieving [goals](Goal%20Setting.md) is overrated, striving toward them is under
 
 # Detach Inputs From Outputs
 
-Attach to input/intention. Detach from output/outcomes. Focus on efforts (which generate [dopamine](Dopamine.md)), not outcomes. Forget about outcomes, focus on growth/processes instead. Be [genuinely not care about](Not%20caring%20lets%20us%20perform%20better.md) the outcomes.
+Attach to input/intention. Detach from output/outcomes. Focus on efforts (which generate [dopamine](__temp__dopamine.md)), not outcomes. Forget about outcomes, focus on growth/processes instead. Be [genuinely not care about](Not%20caring%20lets%20us%20perform%20better.md) the outcomes.
 
 ---
 
