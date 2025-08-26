@@ -1,7 +1,7 @@
 ---
 title: Instant Gratification
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-26T05:35:26
 ---
 
 = Immediate Gratification = Cheap Dopamine
@@ -24,7 +24,7 @@ modified: 2025-08-10T14:28:42
 
 * 比起長遠的利益，我們 (未經訓練) 的大腦更偏好馬上就可以得到的快樂和感官享受 (Sensory Pleasures) [^1]
 	* 慾望滿足 → 大腦獎賞機制 → 多巴胺分泌 → 上癮
-* **Sigmund Freud's Pleasure Principle:** The nature of human motivation is [pursuing pleasure](Dopamine.md) and avoiding pain (i.e., the desire to stay in the comfort zone; to escape the discomfort).
+* **Sigmund Freud's Pleasure Principle:** The nature of human motivation is [pursuing pleasure](__temp__dopamine.md) and avoiding pain (i.e., the desire to stay in the comfort zone; to escape the discomfort).
 * Our brains are optimized for [energy efficiency](Energy%20Management.md), and they only turn on the CPU (Consciousness Processing Unit) when absolutely necessary
 
 ---
