@@ -1,10 +1,8 @@
 ---
 title: Self-compassion
 created: 2025-01-23T10:40:57
-modified: 2025-08-26T06:00:43
+modified: 2025-08-26T14:29:31
 ---
-
-ｊ
 
 > _“What you deny subdues you. What you accept transforms you.” — Carl Jung_
 
@@ -15,6 +13,8 @@ modified: 2025-08-26T06:00:43
 > _“Instead of shaming your emotions, try to understand what they are telling you.” — Lindsay C. Gibson_
 
 > _“The truth is: Belonging starts with [self-acceptance](Acceptance%20and%20Commitment%20Therapy.md). Your level of belonging, in fact, can never be greater than your level of self-acceptance, because believing that you're enough is what gives you the courage to be authentic, vulnerable and imperfect.” — Brene Brown_
+
+> _“If your compassion does not include yourself, it is incomplete.” — Jack Kornfield_
 
 ---
 
