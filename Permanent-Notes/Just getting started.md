@@ -1,7 +1,7 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2025-08-26T14:43:45
+modified: 2025-08-27T08:43:13
 ---
 
 > _“Start before you're ready. Don't prepare. Begin. Don't think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
@@ -20,7 +20,11 @@ modified: 2025-08-26T14:43:45
 
 ---
 
-開始就不嫌晚，沒有什麼叫太晚。前進就不嫌慢，沒有什麼叫太慢。
+種一棵樹最好的時間點是十年前，其次就是現在。
+
+---
+
+只要開始就不嫌晚，沒有什麼叫太晚。只要前進就不嫌慢，沒有什麼叫太慢。我們都有恐懼和害怕，但我們永遠不會太遲。
 
 ---
 
