@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-27T05:06:27
 ---
 
 > _We are what we believe we are.” — C.S. Lewis_
@@ -100,7 +100,7 @@ Legendary UCLA basketball coach John Wooden recommended the following nine promi
 
 ---
 
-The 1980 Dartmouth Scar Experiment（傷痕實驗）
+Victim Mentality: The 1980 Dartmouth Scar Experiment（傷痕實驗）
 
 ---
 
