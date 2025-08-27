@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-08-26T05:40:45
+modified: 2025-08-27T08:55:42
 ---
 
 Spend 30 minutes daily…
@@ -14,19 +14,9 @@ The Nova Effect is a term coined by psychologists Richard Wiseman and Daniel Gil
 
 ---
 
-mental time travel—which involves zooming out from the present to gain improved perspective on your actions and decisions.
-
----
-
 [Social contagion of challenge-seeking behavior - PubMed](<https://pubmed.ncbi.nlm.nih.gov/39250231/>)
 
 ---
-
-“With renunciation life begins.” — Amelia Barr Art of quitting
-
-physical, mental, and spiritual health
-
-Victim Mindset extreme ownership
 
 “Money poisons you when you've got it, and starves you when you haven't.” — D. H. Lawrence
 
@@ -408,8 +398,6 @@ Confused, she asked one of the keepers why the elephants didn't break the ropes 
 
 “Well, when the elephants were very young, we used the same small rope, but at that age, it was strong enough to hold them. Now, even though they are much bigger, they still believe the rope can hold them, so they never try to break it.”
 
-The Dartmouth Scar Experiment is an interesting case study on the impact of a so-called “victim mentality”
-
 Beware of destination addiction: The idea that happiness is in the next place, the next job, or even with the next partner. Until you give up the idea that happiness is somewhere else, it will
 
 never be where you are.
@@ -455,14 +443,6 @@ The Narrative Fallacy is the tendency to craft a story around data, events, and 
 Therefore, the original stories are often the ones that gets preserved and deeply entrenched:
 
 New information is massaged to fit that story, or rejected if it doesn't.
-
----
-
-Create Space: Pause, reset, and engage. Our immediate reactions are almost always emotional, and we make bad decisions in the heat of emotion.
-
-Use Mental Time Travel: Imagine yourself in the past and consider yourself in the present. Imagine yourself in the future and consider yourself in the present.
-
-Remember: When in doubt, zoom out.
 
 ---
 
