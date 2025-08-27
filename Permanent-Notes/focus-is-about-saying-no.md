@@ -1,7 +1,7 @@
 ---
 title: Focus is about saying no
 created: 2024-11-18T09:18:12
-modified: 2025-08-24T06:19:13
+modified: 2025-08-27T05:01:52
 ---
 
 > _“If you chase two rabbits, you catch none.” — Confucius_
@@ -42,7 +42,7 @@ You'd rather have one sharp knife than 1,000 dull ones.
 
 ---
 
-Since focus requires [saying no](If%20it%20isn’t%20fuck%20YES,%20then%20it’s%20clear%20NO%20thank%20you.md), it also means what smart people and strong competitors are saying no to are usually great ideas/opportunities.
+Since focus requires [saying no](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md), it also means what smart people and strong competitors are saying no to are usually great ideas/opportunities.
 
 * If you're trying to find your way in an organization, it's worth thinking about the most focused people around you and asking them about the best idea they're not working on.
 * If you're a company, it's worth thinking about what your strongest competition is not doing.
