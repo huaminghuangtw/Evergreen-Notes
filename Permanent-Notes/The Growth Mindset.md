@@ -1,7 +1,7 @@
 ---
 title: The Growth Mindset
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-27T06:10:47
 ---
 
 [@dweckMindsetNewPsychology2008]
@@ -30,7 +30,9 @@ Kaizen (改善)
 
 ---
 
-Approach everything in life as a _skill_ at which you can increase your competency through [deliberate practices](Deliberate%20Practice.md). You get better at what you practice. [What you like to practice is what’s worth pursuing. Getting to perform is just a bonus.](https://www.workingtheorys.com/p/about-practice) Everything is practice. Practice makes perfect. [^1]
+> _“Talent is a pursued interest. Anything that you're willing to practice, you can do.” — Bob Ross_
+
+Approach everything in life as a _skill_ at which you can increase your competency through [practices](Deliberate%20Practice.md). You get better at what you practice. [What you like to practice is what’s worth pursuing. Getting to perform is just a bonus.](https://www.workingtheorys.com/p/about-practice) Everything is practice. [Practice makes perfect.](Deliberate%20Practice.md) [^1]
 
 # [How to Make Anything a Skill](https://avthar.com/blog/growth-mindset)
 
