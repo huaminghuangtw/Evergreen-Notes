@@ -1,7 +1,7 @@
 ---
 title: Self-compassion
 created: 2025-01-23T10:40:57
-modified: 2025-08-26T14:29:31
+modified: 2025-08-28T07:57:09
 ---
 
 > _“What you deny subdues you. What you accept transforms you.” — Carl Jung_
@@ -36,7 +36,7 @@ Treat yourself with respect.
 
 ---
 
-To embrace oneself fully, to understand our imperfections, to accept one's truth, and still maintain the desire for growth and change, is to [live a fulfilling life](Why%20We%20Exist.md). Forgive yourself. You are a human, not a machine.
+To embrace oneself fully, to understand our imperfections, to accept one's truth, and still maintain the desire for growth and change, is to [live a fulfilling life](why-we-exist.md). Forgive yourself. You are a human, not a machine.
 
 ---
 
