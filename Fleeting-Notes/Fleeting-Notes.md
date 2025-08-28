@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-08-27T08:55:42
+modified: 2025-08-28T09:29:29
 ---
 
 Spend 30 minutes daily…
@@ -30,14 +30,13 @@ Dr. Rhonda Patrick's (@foundmyfitness) smoothie recipe for peak focus and perfor
 * Protein Powder - Protein
 * Collagen Powder - Improves skin elasticity
 * Moringa Powder - Zinc, iron, magnesium, moringagen
-Squat to stands
-Hip Switches
-Dead Bugs
-Spiderman Stretch
-Bear Crawling
+
 X google 猴子與基座舞台 火把猴 沒戲唱
+
 The approach suggests celebrating twice as often as setting new goals.
+
 Instead of the outdated 'criticism sandwich (criticize twice, praise once)' method, where criticism is sandwiched between two praises within 30 seconds, it is advised to provide two praises at different times during the day and one criticism, as well as two thank-yous and one private criticism throughout the week.
+
 It is much more important to work on the right thing than it is to work many hours. Most people waste most of their time on stuff that doesn't matter.
 
 The Trichotomy of Control adds some important nuance to this idea that we should only concern ourselves with things that are within our control.
