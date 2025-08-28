@@ -1,7 +1,7 @@
 ---
 title: The Hofstadter's Law
 created: 2024-11-18T09:18:12
-modified: 2025-08-27T19:06:59
+modified: 2025-08-28T15:02:12
 ---
 
 In contradiction to [Parkinson's Law](parkinsons-law.md)
