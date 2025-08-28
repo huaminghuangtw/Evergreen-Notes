@@ -1,7 +1,7 @@
 ---
 title: A friend to all is a friend to none
 created: 2024-11-18T09:18:12
-modified: 2025-08-23T05:53:28
+modified: 2025-08-28T08:01:31
 ---
 
 > _“A true friend never gets in your way unless you happen to be going down.” — Arnold H. Glasow_
@@ -46,7 +46,7 @@ If you have too many _deal friends_, you won't have enough _real friends_.
 
 ---
 
-# [Good Questions to Justify Who is Your Best Friend](How%20to%20ask%20good%20and%20right%20questions.md)
+# [Good Questions to Justify Who is Your Best Friend](how-to-ask-good-and-right-questions.md)
 
 * _“Who do you have the least amount of internal filters with when you are around them?”_
 * _“Who can you sit in silence with and not have to feel it?”_
