@@ -1,7 +1,7 @@
 ---
 title: Hedonic Happiness & Eudaimonic Happiness
 created: 2025-08-10T13:53:39
-modified: 2025-08-26T05:35:26
+modified: 2025-08-28T07:56:59
 ---
 
 # Hedonic Happiness
@@ -12,6 +12,6 @@ modified: 2025-08-26T05:35:26
 
 # Eudaimonic Happiness
 
-* Achieved through [purpose, meaning](Why%20We%20Exist.md), or [authenticity](Escape%20competition%20through%20authenticity.md)
+* Achieved through [purpose, meaning](why-we-exist.md), or [authenticity](escape-competition-through-authenticity.md)
 * Associated with a focus on long-term, value-oriented, and higher-order living
 * The happiness you feel when you embrace [delayed gratification](Delayed%20Gratification.md)

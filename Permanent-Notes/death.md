@@ -1,7 +1,7 @@
 ---
 title: Death
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-28T07:57:09
 ---
 
 > _“The meaning of life is that it stops.” — Franz Kafka_
@@ -22,7 +22,7 @@ modified: 2025-08-10T14:28:42
 
 > _[“The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.” — Mark Twain](https://www.goodreads.com/quotes/5785-the-fear-of-death-follows-from-the-fear-of-life)_
 
-> _“Why do we fear death? Why are we so afraid of death? In fact, when you are in the deep sleep phase every night, you're essentially dead. It's not the experience of being dead that we fear, but the time we haven't spent on living the life we wanted or doing things we wanted to do that we fear. If you were truly living your ideal, dream, and [fulfilling](Why%20We%20Exist.md) life on your own terms, in a way you want, I don't think you really fear death. Why? First, you would be too busy living. Second, you don't have any regrets.” — Naval Ravikant_
+> _“Why do we fear death? Why are we so afraid of death? In fact, when you are in the deep sleep phase every night, you're essentially dead. It's not the experience of being dead that we fear, but the time we haven't spent on living the life we wanted or doing things we wanted to do that we fear. If you were truly living your ideal, dream, and [fulfilling](why-we-exist.md) life on your own terms, in a way you want, I don't think you really fear death. Why? First, you would be too busy living. Second, you don't have any regrets.” — Naval Ravikant_
 
 > _[“Death is not the opposite of life, but a part of it.” — Haruki Murakami, Blind Willow, Sleeping Woman: 24 Stories](https://www.goodreads.com/quotes/83202-death-is-not-the-opposite-of-life-but-a-part)_
 
@@ -127,7 +127,7 @@ Remarks: Through history, people have gone back into their own pasts, sometime t
 * [Life is shorter than you think](Life%20is%20shorter%20than%20you%20think.md)
 * [Intentional Living](intentional-living.md)
 * [How to live a life](How%20to%20live%20a%20life.md)
-* [Why We Exist](Why%20We%20Exist.md)
+* [Why We Exist](why-we-exist.md)
 
 [^1]: **The Regret Minimization Framework:** The goal is to minimize the number of _regrets_, _[remorse (懊悔; 悔恨; 自責)](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%B9%81%E4%BD%93/remorse)_, and “_acts of omission (the act of not including something or someone that should have been included)_” in life.
 [^2]: None of them is “_I wish I had earned more money._”

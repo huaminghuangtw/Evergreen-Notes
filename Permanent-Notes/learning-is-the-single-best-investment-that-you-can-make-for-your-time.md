@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-08-22T14:34:11
+modified: 2025-08-28T07:57:09
 ---
 
 Financial [Compounding](The%20Compounding%20Effect.md) → Intellectual Compounding
@@ -200,7 +200,7 @@ Always starting from the most basic and simplest level, then adding more complex
 * Mental Framing
 	* Actively/Voluntarily engage your focus / draw your attention into whatever you are trying to learn
 		* Tell yourself the material is important. Use a silent script in your head like “I get to learn this!”
-	* [Attach learning to an aspirational goal that motivates you, e.g., how your learning will change/impact your life](Why%20We%20Exist.md)
+	* [Attach learning to an aspirational goal that motivates you, e.g., how your learning will change/impact your life](why-we-exist.md)
 		* Be specific about [what success will look like and why that success is important.](what-success-means-to-me.md)
 * ⭐️ Take several brief breaks (with each 5-30 seconds) during study / in the act of consuming/absorbing material, and reflect on the material to reinforce memory
 	* **Pro Tip:** Pause longer after key points to allow the “Gap Effects” to happen
