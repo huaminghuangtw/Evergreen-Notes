@@ -1,7 +1,7 @@
 ---
 title: What Success Means To Me
 created: 2024-11-18T09:18:12
-modified: 2025-08-15T13:38:03
+modified: 2025-08-29T08:30:45
 ---
 
 > _[“Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable. And you're the only one that will know that.” — John Wooden](https://www.youtube.com/watch?v=JWQIxuNGdvQ&t=95s)_
@@ -63,4 +63,4 @@ modified: 2025-08-15T13:38:03
 
 [^1]: is the exclusive group/circle to which people are drown to and want to belong throughout their lives.
 [^2]: [If you define success on the basis of comparison to others, you will never feel successful. _The only way to feel successful is to create your own definition of success, rather than consenting to one that was handed to you._](https://www.sahilbloom.com/newsletter/13-harsh-truths-about-success-nobody-told-you)
-[^3]: _“Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.” — Brené Brown_
+[^3]: _“Owning our story and loving ourselves through that process is the bravest thing that we’ll ever do.” — Brené Brown_
