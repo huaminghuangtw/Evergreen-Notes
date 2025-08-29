@@ -1,22 +1,22 @@
 ---
 title: sleep
 created: 2024-11-18T09:18:12
-modified: 2025-08-22T05:49:58
+modified: 2025-08-29T08:30:45
 ---
 
 [Matt Walker: Sleep is your superpower \| TED Talk](https://www.ted.com/talks/matt_walker_sleep_is_your_superpower/)
 
-> I could tell you about sleep loss and your cardiovascular system, and that all it takes is one hour. Because there is a global experiment performed on 1.6 billion people across 70 countries twice a year, and it's called daylight saving time. [^1] Now, in the spring, when we lose one hour of sleep, we see a subsequent 24-percent increase in heart attacks that following day. In the autumn, when we gain an hour of sleep, we see a 21-percent reduction in heart attacks. Isn't that incredible? And you see exactly the same profile for car crashes, road traffic accidents, even suicide rates.
+> I could tell you about sleep loss and your cardiovascular system, and that all it takes is one hour. Because there is a global experiment performed on 1.6 billion people across 70 countries twice a year, and it’s called daylight saving time. [^1] Now, in the spring, when we lose one hour of sleep, we see a subsequent 24-percent increase in heart attacks that following day. In the autumn, when we gain an hour of sleep, we see a 21-percent reduction in heart attacks. Isn’t that incredible? And you see exactly the same profile for car crashes, road traffic accidents, even suicide rates.
 
-> The first is regularity. Go to bed at the same time, wake up at the same time, no matter whether it's the weekday or the weekend. Regularity is king, and it will anchor your sleep and improve the quantity and the quality of that sleep. The second is keep it cool. Your body needs to drop its core temperature by about two to three degrees Fahrenheit to initiate sleep and then to stay asleep, and it's the reason you will always find it easier to fall asleep in a room that's too cold than too hot. So aim for a bedroom temperature of around 65 degrees, or about 18 degrees Celsius. That's going to be optimal for the sleep of most people. And then finally, in taking a step back, then, what is the mission-critical statement here? Well, I think it may be this: sleep, unfortunately, is not an optional lifestyle luxury. Sleep is a nonnegotiable biological necessity. It is your life-support system, and it is Mother Nature's best effort yet at immortality. And the decimation of sleep throughout industrialized nations is having a catastrophic impact on our health, our wellness, even the safety and the education of our children. It's a silent sleep loss epidemic, and it's fast becoming one of the greatest public health challenges that we face in the 21st century.
+> The first is regularity. Go to bed at the same time, wake up at the same time, no matter whether it’s the weekday or the weekend. Regularity is king, and it will anchor your sleep and improve the quantity and the quality of that sleep. The second is keep it cool. Your body needs to drop its core temperature by about two to three degrees Fahrenheit to initiate sleep and then to stay asleep, and it’s the reason you will always find it easier to fall asleep in a room that’s too cold than too hot. So aim for a bedroom temperature of around 65 degrees, or about 18 degrees Celsius. That’s going to be optimal for the sleep of most people. And then finally, in taking a step back, then, what is the mission-critical statement here? Well, I think it may be this: sleep, unfortunately, is not an optional lifestyle luxury. Sleep is a nonnegotiable biological necessity. It is your life-support system, and it is Mother Nature’s best effort yet at immortality. And the decimation of sleep throughout industrialized nations is having a catastrophic impact on our health, our wellness, even the safety and the education of our children. It’s a silent sleep loss epidemic, and it’s fast becoming one of the greatest public health challenges that we face in the 21st century.
 
-> So if you are staying in bed awake for too long, you should get out of bed and go to a different room and do something different. The reason is because your brain will very quickly associate your bedroom with the place of wakefulness, and you need to break that association. So only return to bed when you are sleepy, and that way you will relearn the association that you once had, which is your bed is the place of sleep. **So the analogy would be, you'd never sit at the dinner table, waiting to get hungry, so why would you lie in bed, waiting to get sleepy?**
+> So if you are staying in bed awake for too long, you should get out of bed and go to a different room and do something different. The reason is because your brain will very quickly associate your bedroom with the place of wakefulness, and you need to break that association. So only return to bed when you are sleepy, and that way you will relearn the association that you once had, which is your bed is the place of sleep. **So the analogy would be, you’d never sit at the dinner table, waiting to get hungry, so why would you lie in bed, waiting to get sleepy?**
 
 ---
 
-You can't force sleep. The more you force sleep, the more it resists.
+You can’t force sleep. The more you force sleep, the more it resists.
 
-* Insomniac delusion: If you can't fall asleep, just try harder. This will do the opposite.
+* Insomniac delusion: If you can’t fall asleep, just try harder. This will do the opposite.
 * [If you can’t sleep, pretend you’re lying in a canoe.](https://mariandrew.substack.com/p/100-things-i-know)
 
 # Why We Sleep?
@@ -27,7 +27,7 @@ Sleep is the best biohacking technique with the highest ROI.
 
 Sleep is the best legal performance enhancing drug / magic pill on the planet.
 
-sleep is the absolute foundation of your mental health, your physical health and your performance in all endeavors. So if there's one area of your life to really focus on and try and optimize if your goal is to be happier and more productive and just have a better life over all, i can confidently say that Sleep is really the thing to optimise.
+sleep is the absolute foundation of your mental health, your physical health and your performance in all endeavors. So if there’s one area of your life to really focus on and try and optimize if your goal is to be happier and more productive and just have a better life over all, i can confidently say that Sleep is really the thing to optimise.
 
 Sleep deprivation makes hard things feel impossible. High quality sleep makes seemingly impossible things doable.
 
@@ -53,17 +53,17 @@ sleep semi-naked, but warm your hands/feet with gloves/socks on, so as to send b
 
 * 睡覺時，環境要冷，手腳要暖
 
-Aim for consistent bedtimes and wake times with a ± 30 minutes margin of error, whether it's the weekend or a weekday.
+Aim for consistent bedtimes and wake times with a ± 30 minutes margin of error, whether it’s the weekend or a weekday.
 
 ---
 
 In addition to your morning alarm clock, consider adding a “bedtime alarm,” which tells you when to go to sleep.
 
-* You do not have 24 hours in the day. You only have ~16 hours per day being awake once you factor in the sleep tax. That's like confusing revenue with profit.
+* You do not have 24 hours in the day. You only have ~16 hours per day being awake once you factor in the sleep tax. That’s like confusing revenue with profit.
 
 ---
 
-In the evening, dim the lights in your home to signal the body that it's time to wind down. Use low-positioned lights (rather than overhead) and yellow or, even better, deep orange/red lightbulbs, if available; they are less stimulating than typical lights.
+In the evening, dim the lights in your home to signal the body that it’s time to wind down. Use low-positioned lights (rather than overhead) and yellow or, even better, deep orange/red lightbulbs, if available; they are less stimulating than typical lights.
 
 **Separate bed covers — sleeping the Scandinavian way**
 Individual duvets provide the warmest way to sleep, eliminating air gaps and the risk of your partner pulling or hogging the duvet in the middle of the night, ultimately stop nightly battle over the bedsheets.
@@ -76,7 +76,7 @@ Stick your hands or feet out from underneath the covers to help cool down.
 
 Eating closer to bedtime can increase the likelihood of gastric reflux (heartburn) and impair sleep
 
-Much like slowing down a car before stopping, a 'deceleration' from the day's activities is essential for good sleep. Establish a wind-down routine to prepare the body and mind for sleep:
+Much like slowing down a car before stopping, a ‘deceleration’ from the day’s activities is essential for good sleep. Establish a wind-down routine to prepare the body and mind for sleep:
 
 Avoid stimulating activities before bed, such as watching television, reading the news, strenuous exercise, or social media.
 
@@ -111,7 +111,7 @@ Taking **magnesium** (200–400 mg) and **L-theanine** (100–400 mg) together 3
 
 ## Huberman Sleep Cocktail
 
-apigenin isn't that great. Just get chamomile if you want to try it.
+apigenin isn’t that great. Just get chamomile if you want to try it.
 
 * **[Magnesium Threonate](https://momentous.go2cloud.org/aff_c?offer_id=1&aff_id=1218&url_id=47)**: **200-400mg 2-3 hours before sleep**
 	* **_(use code PODCASTNOTES for 15% off)_**
@@ -145,10 +145,10 @@ Why do I wake up in the middle of the night, no matter what time I go to sleep?
 
 * Checking the time when you wake up at night can train your brain to continue waking at that time. This is a form of **learning** whereby checking the clock strengthens the memory association with that specific time.
 	* Remove visible clocks from your bedroom to help disrupt this pattern.
-* If you wake up in the middle of the night, don't check the time. This will allow you to fall back asleep without worrying about how many hours you have left. → Alternatives: (1) 冥想 (搭配: 腹式呼吸、身體掃描等等) (2) 看書 (3) 聽 Podcasts
+* If you wake up in the middle of the night, don’t check the time. This will allow you to fall back asleep without worrying about how many hours you have left. → Alternatives: (1) 冥想 (搭配: 腹式呼吸、身體掃描等等) (2) 看書 (3) 聽 Podcasts
 
 **Can we “bank” sleep or catch up on lost sleep?**
-Sleep doesn't work like a bank. You cannot accumulate a sleep “debt” and then hopefully pay it off later, such as on the weekend. There is no such a credit system when it comes to sleep. The body can **only recoup ~25% of the lost hours**. Frequently sleeping less than the recommended 7 to 8 hours/night (some may need 6, others 9 or even 10 hours!) means you will always be running a sleep debt - predictive of ill health outcomes and early mortality.
+Sleep doesn’t work like a bank. You cannot accumulate a sleep “debt” and then hopefully pay it off later, such as on the weekend. There is no such a credit system when it comes to sleep. The body can **only recoup ~25% of the lost hours**. Frequently sleeping less than the recommended 7 to 8 hours/night (some may need 6, others 9 or even 10 hours!) means you will always be running a sleep debt - predictive of ill health outcomes and early mortality.
 
 Reframing: 把睡覺當作是…
 
@@ -157,7 +157,7 @@ Reframing: 把睡覺當作是…
 
 Best Vacation: Sleep one more hour for 7 days in a row, then you will get an extra night of sleep at the end of last day.
 
-If you've experienced a poor night's sleep, your impulse may be to sleep in, drink a much-needed cup of coffee as you roll out of bed, and push your morning workout until the evening when you're feeling up for it. But the best way to recover from a poor night's sleep is to make sure it doesn't affect your next night's sleep. Get up at the same time as usual. Sleeping more than 1 hour past your usual wakeup time can shift your circadian clock later (called phase delay), making it harder to fall asleep that night. [^2]
+If you’ve experienced a poor night’s sleep, your impulse may be to sleep in, drink a much-needed cup of coffee as you roll out of bed, and push your morning workout until the evening when you’re feeling up for it. But the best way to recover from a poor night’s sleep is to make sure it doesn’t affect your next night’s sleep. Get up at the same time as usual. Sleeping more than 1 hour past your usual wakeup time can shift your circadian clock later (called phase delay), making it harder to fall asleep that night. [^2]
 
 Eating more fiber and less saturated fat for dinner, to promote serotonin, calm sleep.
 
@@ -172,4 +172,4 @@ slow-wave sleep (SWS) = deep sleep
 * [Jet Leg](jet-leg.md)
 
 [^1]: **Daylight Saving Time = DST (日光節約時間)** or **Summer Time (夏令時間)** is the practice of setting the clock forward by one hour during the warmer months in order to extend evening daylight. Typically, clocks are set forward in the spring and set back in the fall. This practice aims to make better use of daylight during the longer days of summer, potentially saving energy and encouraging outdoor leisure activities in the evening.
-[^2]: When done correctly, your body's natural circadian rhythms should cause you to feel sleepy at the same time every day.
+[^2]: When done correctly, your body’s natural circadian rhythms should cause you to feel sleepy at the same time every day.
