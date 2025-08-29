@@ -1,7 +1,7 @@
 ---
 title: Overthinking
 created: 2025-01-23T10:40:57
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:45
 ---
 
 > _“Imagination and fiction make up more than three quarters of our real life.” — Simone Weil_
@@ -42,7 +42,7 @@ A surefire way to make a bad situation worse is to continue replaying it in your
 
 ---
 
-**You don't have a thinking problem—you have an [action](cultivate-a-strong-bias-towards-action.md)/[skill](https://avthar.com/blog/growth-mindset) problem:** _Overthinking_ breeds _indecision_, leading to _inaction/underact_. Accept the consequences, stay true to your values, and move forward.
+**You don’t have a thinking problem—you have an [action](cultivate-a-strong-bias-towards-action.md)/[skill](https://avthar.com/blog/growth-mindset) problem:** _Overthinking_ breeds _indecision_, leading to _inaction/underact_. Accept the consequences, stay true to your values, and move forward.
 ​
 ---
 
