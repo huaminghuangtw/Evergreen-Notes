@@ -1,7 +1,7 @@
 ---
 title: The Bystander Effect
 created: 2025-01-23T10:40:57
-modified: 2025-07-16T21:23:30
+modified: 2025-08-29T08:30:45
 ---
 
 = Bystander Apathy
@@ -17,9 +17,9 @@ Poem: «Everybody Somebody Anybody and Nobody»
 >
 > Anybody could have done it, but Nobody did it.
 >
-> Somebody got angry about that because it was Everybody's job.
+> Somebody got angry about that because it was Everybody’s job.
 >
-> Everybody thought that Anybody could do it, but Nobody realized that Everybody wouldn't do it.
+> Everybody thought that Anybody could do it, but Nobody realized that Everybody wouldn’t do it.
 >
 > It ended up that Everybody blamed Somebody when Nobody did what Anybody could have done.
 >
