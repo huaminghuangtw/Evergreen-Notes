@@ -1,7 +1,7 @@
 ---
 title: Two Types of Work
 created: 2024-12-12T21:39:10
-modified: 2025-07-16T21:23:31
+modified: 2025-08-29T08:30:45
 ---
 
 > _[More generally, tasks that require little concentration seem to be best done in batches if possible, while tasks that require a lot of concentration seem to be best done individually, with as few distractions as one can manage.](https://terrytao.wordpress.com/2008/08/07/on-time-management/)_
@@ -26,7 +26,7 @@ modified: 2025-07-16T21:23:31
 
 ---
 
-It's crucial to schedule time for both types of work to keep life in order. Think of it like managing a boat: _admin tasks_ are like bailing out water that's piling up — essential for keeping the boat afloat but not propelling it forward. On the other hand, _focused tasks_ are like rowing, actively moving you toward your goals and desired direction. Neglecting either can lead to problems; too much focus on rowing without managing admin tasks might sink the boat due to neglected responsibilities like taxes or bills. Striking a balance ensures both progress and stability.
+It’s crucial to schedule time for both types of work to keep life in order. Think of it like managing a boat: _admin tasks_ are like bailing out water that’s piling up — essential for keeping the boat afloat but not propelling it forward. On the other hand, _focused tasks_ are like rowing, actively moving you toward your goals and desired direction. Neglecting either can lead to problems; too much focus on rowing without managing admin tasks might sink the boat due to neglected responsibilities like taxes or bills. Striking a balance ensures both progress and stability.
 
 [^1]: See also: [The Maintenance Day](The%20Maintenance%20Day.md)
-[^2]: Multitasking isn't always bad — you just have to make sure the conditions are right.
+[^2]: Multitasking isn’t always bad — you just have to make sure the conditions are right.
