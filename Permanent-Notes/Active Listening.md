@@ -1,12 +1,12 @@
 ---
 title: Active Listening
 created: 2024-11-18T09:18:12
-modified: 2025-08-03T08:18:25
+modified: 2025-08-29T08:30:46
 ---
 
 > _[“Open your mind before your mouth.” — Aristophanes](https://www.goodreads.com/quotes/712935-open-your-mind-before-your-mouth)_
 
-> _“If we cannot listen mindfully, we cannot practice right speech. No matter what we say, it will not be mindful, because we'll be speaking only our own ideas and not in response to the other person.” — Thích Nhất Hạnh_
+> _“If we cannot listen mindfully, we cannot practice right speech. No matter what we say, it will not be mindful, because we’ll be speaking only our own ideas and not in response to the other person.” — Thích Nhất Hạnh_
 
 ---
 
@@ -35,9 +35,9 @@ Share with someone who wants to listen or listen to someone who wants to share.
 
 # Three Levels Of Listening
 
-1. **“Me” Listening:** You're having a conversation, but your internal voice is relating everything you hear to something in your own life. Your internal voice runs off on tangents, thinking about your own life while the other person is talking about theirs. You're waiting to speak, not listening to learn. This is the default mode of listening for everyone.
-2. **“You” Listening:** You're having a conversation, and you are deeply focused on what the other person is saying. You are present and intently focused. You're not waiting to speak, you're listening to learn.
-3. **“Us” Listening:** You're building a “map” of the other person, understanding how all the new information they are sharing fits into that broader map of their life and world. You're listening to understand, considering the layers beneath what the other person is saying. [^1]
+1. **“Me” Listening:** You’re having a conversation, but your internal voice is relating everything you hear to something in your own life. Your internal voice runs off on tangents, thinking about your own life while the other person is talking about theirs. You’re waiting to speak, not listening to learn. This is the default mode of listening for everyone.
+2. **“You” Listening:** You’re having a conversation, and you are deeply focused on what the other person is saying. You are present and intently focused. You’re not waiting to speak, you’re listening to learn.
+3. **“Us” Listening:** You’re building a “map” of the other person, understanding how all the new information they are sharing fits into that broader map of their life and world. You’re listening to understand, considering the layers beneath what the other person is saying. [^1]
 
 ---
 
