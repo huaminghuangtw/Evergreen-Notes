@@ -1,7 +1,7 @@
 ---
 title: adaptability
 created: 2024-11-18T09:18:12
-modified: 2025-08-25T05:50:13
+modified: 2025-08-29T08:30:45
 ---
 
 > _“It is not the strongest of the species that survives, nor the most intelligent. It is the one most adaptable to change; but the species that survives is the one that is able best to adapt and adjust to the changing environment in which it finds itself.” — Charles Darwin_ [^1]
@@ -24,7 +24,7 @@ Adaptability (\& Flexibility) is the single most powerful trait in life—the ab
 
 ---
 
-You'll only go as far as your ability to absorb life's punches and pivot on the fly.
+You’ll only go as far as your ability to absorb life’s punches and pivot on the fly.
 
 ---
 
