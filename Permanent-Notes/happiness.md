@@ -1,12 +1,12 @@
 ---
 title: Happiness
 created: 2024-11-18T09:18:12
-modified: 2025-08-14T14:58:22
+modified: 2025-08-29T08:30:45
 ---
 
 > _“Happiness is a state where nothing is missing.” — Naval Ravikant_
 
-> _“Happiness is not about positive or negative thoughts — it's about [the absence of desire](The%20absence%20of%20desire%20is%20true%20happiness.md), especially the absence of desire for external things.” — Naval Ravikant_
+> _“Happiness is not about positive or negative thoughts — it’s about [the absence of desire](The%20absence%20of%20desire%20is%20true%20happiness.md), especially the absence of desire for external things.” — Naval Ravikant_
 
 > _“Happiness is a perfume you cannot pour on others without getting a few drops on yourself.” — Ralph Waldo Emerson_
 
@@ -26,9 +26,9 @@ modified: 2025-08-14T14:58:22
 
 > _[“Happiness can be found even in the darkest of times, if one only remembers to turn on the light.” — J.K. Rowling, Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/quotes/1266091-happiness-can-be-found-even-in-the-darkest-of-times)_
 
-> _“What I 'discovered' was that happiness is not something that happens. It is not the result of good fortune or random chance. It is not something that money can buy or power command. It does not depend on outside events, but, rather, on how we interpret them. Happiness, in fact, is a condition that must be prepared for, cultivated, and defended privately by each person. People who learn to control inner experience will be able to determine the quality of their lives, which is as close as any of us come to being happy.” — Mihalyi Csikszentmihalyi_
+> _“What I ‘discovered’ was that happiness is not something that happens. It is not the result of good fortune or random chance. It is not something that money can buy or power command. It does not depend on outside events, but, rather, on how we interpret them. Happiness, in fact, is a condition that must be prepared for, cultivated, and defended privately by each person. People who learn to control inner experience will be able to determine the quality of their lives, which is as close as any of us come to being happy.” — Mihalyi Csikszentmihalyi_
 
-> _“I think of happiness as an emergent property of [peace](Peace%20from%20mind.md). If you're peaceful inside and out, that will eventually result in happiness. But peace is a very hard thing to come by. The irony is the way most of us try to find peace is through war. When you start a business, in a way, you're going to war. When you struggle with your roommates as to who should clean the dishes, you're going to war. You're struggling so you can have some sense of security and peace later. In reality, peace is not a guarantee. It's always flowing. It's always changing. You want to learn the core skill set of flowing with life and accepting it in most cases. **You can get almost anything you want out of life, as long as it's one thing and you want it far more than anything else.** In my own personal experience, the place I end up the most is wanting to be at peace. **Peace is happiness at rest, and happiness is peace in motion.** You can convert peace into happiness anytime you want. But peace is what you want most of the time. If you're a peaceful person, anything you do will be a happy activity. Today, the way we think you get peace is by resolving all your external problems. But there are unlimited external problems.” — Naval Ravikant_
+> _“I think of happiness as an emergent property of [peace](Peace%20from%20mind.md). If you’re peaceful inside and out, that will eventually result in happiness. But peace is a very hard thing to come by. The irony is the way most of us try to find peace is through war. When you start a business, in a way, you’re going to war. When you struggle with your roommates as to who should clean the dishes, you’re going to war. You’re struggling so you can have some sense of security and peace later. In reality, peace is not a guarantee. It’s always flowing. It’s always changing. You want to learn the core skill set of flowing with life and accepting it in most cases. **You can get almost anything you want out of life, as long as it’s one thing and you want it far more than anything else.** In my own personal experience, the place I end up the most is wanting to be at peace. **Peace is happiness at rest, and happiness is peace in motion.** You can convert peace into happiness anytime you want. But peace is what you want most of the time. If you’re a peaceful person, anything you do will be a happy activity. Today, the way we think you get peace is by resolving all your external problems. But there are unlimited external problems.” — Naval Ravikant_
 
 ---
 
@@ -80,7 +80,7 @@ Happiness
 	* Satisfaction: The feeling of reward from a job well done
 	* Purpose: Big picture meaning and significance
 * To be a happy person, you need to have these three in balance and abundance.
-* The happiest people have a transcendental understanding of life. It's just to say that they have an understanding of life bigger than themselves.
+* The happiest people have a transcendental understanding of life. It’s just to say that they have an understanding of life bigger than themselves.
 
 ---
 
@@ -103,7 +103,7 @@ One day, I thought, someone out there had to be the happiest person in the world
 
 * Visible metrics → e.g., money
 * Hidden metrics → e.g., time with family, [peace of mind](Peace%20from%20mind.md)
-* Remember: _The hidden metrics only become visible when it's too late…_
+* Remember: _The hidden metrics only become visible when it’s too late…_
 
 ---
 
@@ -115,9 +115,9 @@ The ability to think about what is not happening in a moment is a cognitive achi
 
 ---
 
-# How Do You Tell If Someone's Actually Happy In Life?
+# How Do You Tell If Someone’s Actually Happy In Life?
 
-* They're happy for other people's happiness.
+* They’re happy for other people’s happiness.
 * Rarely put others down/criticize. They [assume positive intent of others](Always%20assume%20positive%20intents%20and%20intentions%20in%20others.md).
 * Not on social media/not on their phone too much. Deeply present when you talk to them.
 
