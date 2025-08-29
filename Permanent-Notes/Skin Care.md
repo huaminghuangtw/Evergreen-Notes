@@ -1,7 +1,7 @@
 ---
 title: Skin Care
 created: 2025-01-23T10:40:57
-modified: 2025-07-16T21:23:30
+modified: 2025-08-29T08:30:45
 ---
 
 # 如何擁有「水煮蛋肌」?
@@ -107,10 +107,10 @@ modified: 2025-07-16T21:23:30
 3. Vitamin C
 4. Moisturizer
 	* 要在臉濕潤的狀態下使用，才能達到保濕的效果
-	* Don't neglect your neck!
+	* Don’t neglect your neck!
 5. ⭐ Sunscreen
 	* You should wear sunscreen every single day of the year, no matter what the weather is like, because when you are outside, you are constantly exposed to UV radiation
-		* Even when it's cloudy/overcast days, UV rays can still penetrate through the clouds
+		* Even when it’s cloudy/overcast days, UV rays can still penetrate through the clouds
 		* 防止 Photoaging \& Skin cancer
 		* “Truck Driver Face”: the result of sun damage after years and massive hours behind the wheel driving a truck
 		* The easiest way is to sneak our sunscreen into the products we already wear every day (SPF moisturizers)
@@ -141,7 +141,7 @@ modified: 2025-07-16T21:23:30
 4. Moisturizer
 	* 選擇溫和型、不含玻尿酸的面霜
 	* 可以減少精華液對皮膚的刺激
-	* Don't neglect your neck!
+	* Don’t neglect your neck!
 
 [^1]: 初期建議先三天塗抹一次，使用一段時間後，若無乾燥脫皮現象，再慢慢增加使用頻率 (視膚況而定)
 [^2]: 剛開始使用時會有所謂的「爆痘期」，這是因為酸類正在發揮作用，將毛孔內已經成型的粉刺慢慢代謝出來。在這段期間，可能會引起發炎/感染，最後變成痘痘
