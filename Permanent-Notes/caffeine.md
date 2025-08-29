@@ -1,7 +1,7 @@
 ---
 title: caffeine
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:31
+modified: 2025-08-29T08:30:45
 ---
 
 提神 ≠ 專注
@@ -14,7 +14,7 @@ Caffeine is a diuretic, causing the loss of fluid, sodium and other electrolytes
 
 Do not drink coffee immediately upon waking. Instead, delaying coffee consumption for a minimum of 1.5 to 2 hours after waking.
 
-* Caffeine wakes you up by fooling/blocking the [adenosine](adenosine.md) from adhering to its normal receptors in the brain. You want your body to clear out the adenosine before adding caffeine, otherwise you'll feel drowsy again once the caffeine wears off.
+* Caffeine wakes you up by fooling/blocking the [adenosine](adenosine.md) from adhering to its normal receptors in the brain. You want your body to clear out the adenosine before adding caffeine, otherwise you’ll feel drowsy again once the caffeine wears off.
 * This could greatly help to get rid of the “afternoon crash/post-lunch slump.”
 * The best time to drink coffee is likely mid-to-late morning, when your cortisol levels start to drop.
 
