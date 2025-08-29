@@ -1,10 +1,10 @@
 ---
 title: Always start and end the day right
 created: 2025-01-23T10:40:57
-modified: 2025-08-22T05:48:39
+modified: 2025-08-29T08:30:46
 ---
 
-> _“Every morning in Africa, a gazelle wakes up, it knows it must outrun the fastest lion or it will be killed. Every morning in Africa, a lion wakes up. It knows it must run faster than the slowest gazelle, or it will starve. It doesn't matter whether you're the lion or a gazelle-when the sun comes up, you'd better be running.” — Christopher McDougall_
+> _“Every morning in Africa, a gazelle wakes up, it knows it must outrun the fastest lion or it will be killed. Every morning in Africa, a lion wakes up. It knows it must run faster than the slowest gazelle, or it will starve. It doesn’t matter whether you’re the lion or a gazelle-when the sun comes up, you’d better be running.” — Christopher McDougall_
 
 > _“Write it on your heart that every day is the best day in the year. He is rich who owns the day, and no one owns the day who allows it to be invaded with fret and anxiety. Finish every day and be done with it. You have done what you could.” — Ralph Waldo Emerson_
 
@@ -14,11 +14,11 @@ modified: 2025-08-22T05:48:39
 
 <https://routinebase.com>
 
-Devote _the same_ amount of time and energy to your Morning Routine AND Evening Routine. They're both equally critical to achieving your goals.
+Devote _the same_ amount of time and energy to your Morning Routine AND Evening Routine. They’re both equally critical to achieving your goals.
 
 Reserve the first and last part of your day for activities that support your mental health (_meditation_, _reading_, _journaling_, _walking_, _yoga stretching_, etc.)
 
-⭐️ It's crucial to balance rigid [discipline](discipline-equals-freedom.md) with flexible wiggle room. Too much order is fragile. Have minimal structure in terms of routines over the course of your day to accommodate unexpected surprises.
+⭐️ It’s crucial to balance rigid [discipline](discipline-equals-freedom.md) with flexible wiggle room. Too much order is fragile. Have minimal structure in terms of routines over the course of your day to accommodate unexpected surprises.
 
 ---
 
@@ -67,10 +67,10 @@ After sunset and in the hours before bedtime, opt for _dim, low-positioned light
 
 Your best work is going to be done anywhere from 4 to 6 hours after your [temperature minimum](temperature-minimum.md). [^2]
 
-## The Paradox Of Morning Routines — You Don't Need To Follow An Extensive Morning Routine For A Productive Morning
+## The Paradox Of Morning Routines — You Don’t Need To Follow An Extensive Morning Routine For A Productive Morning
 
 * Instead of encouraging you to start meaningful activities that set you up for success, excessive morning routines merely create a sense of [busyness](busyness.md) that disguises as productivity—while also exhausting you.
-* In many cases, they serve as nothing more than a form of [procrastination](Procrastination.md). _Most people don't need another “to-do list” in their mornings, but a list of what NOT to do._ _A morning routine, no matter how simple, is still a task._ Your morning routine is the reason you're losing your productivity as you waste your most productive hours doing it.
+* In many cases, they serve as nothing more than a form of [procrastination](Procrastination.md). _Most people don’t need another “to-do list” in their mornings, but a list of what NOT to do._ _A morning routine, no matter how simple, is still a task._ Your morning routine is the reason you’re losing your productivity as you waste your most productive hours doing it.
 * Remember: our morning routine is meant to _serve_ you, not _own_ you.
 
 ## Do The Opposite
@@ -79,10 +79,10 @@ Rather than squandering this prime mental state on activities meant to _prepare_
 
 * <u>The “One-Priority-Only” (Reverse / Inverse) Morning Routine</u>
 	1. Dive straight into the highest-priority task right after waking up
-		* [Spend the first 90 minutes of your day working on your no.1 priority in life without any distractions and interruption.](Eat%20the%20biggest%20frog%20first%20thing%20in%20the%20morning.md) It's that simple.
+		* [Spend the first 90 minutes of your day working on your no.1 priority in life without any distractions and interruption.](Eat%20the%20biggest%20frog%20first%20thing%20in%20the%20morning.md) It’s that simple.
 	2. Do your normal morning routine (yoga, meditation, etc.)
-* _“Whenever I see another entrepreneur who's obsessive about their routines things like if I don't have my morning routine I'm a mess or I can't even function I am so grateful because it just shows how weak they are.” — Alex Hormozi_
-	* _Alex Hormozi's Morning Routine_
+* _“Whenever I see another entrepreneur who’s obsessive about their routines things like if I don’t have my morning routine I’m a mess or I can’t even function I am so grateful because it just shows how weak they are.” — Alex Hormozi_
+	* _Alex Hormozi’s Morning Routine_
 		1. Wake up
 		2. Drink coffee
 		3. Get to work
@@ -94,11 +94,11 @@ Every morning, you naturally wake up in a flow zone—your brain operates at the
 
 ## The Only Thing You Need For A Productive Morning
 
-The key to a productive morning is preparation the night before. Your [to-do list](Variants%20of%20to-do%20list.md) should be ready before you sleep—waiting until morning to plan means you're already too late. _Today's to-do list is for tomorrow._
+The key to a productive morning is preparation the night before. Your [to-do list](Variants%20of%20to-do%20list.md) should be ready before you sleep—waiting until morning to plan means you’re already too late. _Today’s to-do list is for tomorrow._
 
 A little [planning, preparation](Planning%20and%20preparation%20help%20maximize%20your%20productivity.md), and visualization is a small nightly habit that pays major dividends.
 
-1. Spend 10-15 minutes writing down and setting up everything for the top 2-3 priority tasks _the night before (at the end of your workday)_, in order to remove the friction for getting started on [the ONE THING](Eat%20the%20biggest%20frog%20first%20thing%20in%20the%20morning.md) for _the next morning_. By making your to-do list the night before, you can wake up and get right to work immediately without thinking too much. _Morning is for [action](cultivate-a-strong-bias-towards-action.md), not [decision-making](decision-making.md)._ [Decision fatigue](decision-fatigue.md) will stop you from getting into the flow state as you'll have to decide what to do rather than diving in head first.
+1. Spend 10-15 minutes writing down and setting up everything for the top 2-3 priority tasks _the night before (at the end of your workday)_, in order to remove the friction for getting started on [the ONE THING](Eat%20the%20biggest%20frog%20first%20thing%20in%20the%20morning.md) for _the next morning_. By making your to-do list the night before, you can wake up and get right to work immediately without thinking too much. _Morning is for [action](cultivate-a-strong-bias-towards-action.md), not [decision-making](decision-making.md)._ [Decision fatigue](decision-fatigue.md) will stop you from getting into the flow state as you’ll have to decide what to do rather than diving in head first.
 2. At the end of your day, conclude your conscious thinking on the [Most Important Question (MIQ)](https://mindfulambition.net/most-important-question-journal/)—_a highest-order question, hat, if answered, would create the biggest positive impact in your life_—and hand it over to your unconscious mind to process overnight. Let go, rest, and avoid stressing about it. Then, revisit the MIQ before exposing yourself to new inputs **[before exposing yourself to any new inputs](https://www.youtube.com/watch?v=wAnDWfEIwoE&t=2h56m30s)** in the morning. [^3]
 
 ---
