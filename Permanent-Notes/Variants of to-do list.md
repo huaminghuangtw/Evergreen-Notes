@@ -1,7 +1,7 @@
 ---
 title: Variants of to-do list
 created: 2025-01-23T10:40:57
-modified: 2025-07-16T21:23:31
+modified: 2025-08-29T08:30:45
 ---
 
 **Could-Do List → Should-Do List → Must-Do list
@@ -21,7 +21,7 @@ modified: 2025-07-16T21:23:31
 **The “Open List” and The “Closed List” (“集中” \& “分散” 原則)**
 
 1. Dump all the tasks you need to do to the “Open List”
-2. Transfer some tasks from the “Open List” to the “Closed List,” which has a maximum of ten entries — it's a way to stay focused on what truly matters.
+2. Transfer some tasks from the “Open List” to the “Closed List,” which has a maximum of ten entries — it’s a way to stay focused on what truly matters.
 
 ---
 
@@ -47,12 +47,12 @@ modified: 2025-07-16T21:23:31
 * Why?
 	* Many people seem to feel as if they start off each morning in a kind of “Productivity Debt”, which they must struggle to pay off through the day, in hopes of reaching a zero balance by the time evening comes.
 * How?
-	* Start with a blank slate each day and gradually fill it with completed tasks. It's a helpful reminder of what you've accomplished, no matter how small. This helps build momentum.
+	* Start with a blank slate each day and gradually fill it with completed tasks. It’s a helpful reminder of what you’ve accomplished, no matter how small. This helps build momentum.
 
 ---
 
 **The “Stop-Doing” List [@collinsGoodGreatWhy2001]**
-* “To-Don't List” or “Anti To-Do List”
+* “To-Don’t List” or “Anti To-Do List”
 * _**Via negativa**_ is essentially the study of what not to do
 
 ---
@@ -62,10 +62,10 @@ modified: 2025-07-16T21:23:31
 [@bogostPlayAnythingPleasure2016] [@abdaalFeelGoodProductivityHow2024]
 
 * To do lists = Anxiety inducing. (待辦清單 → 焦慮清單); Video game levels = Excitement inducing.
-* **Fun doesn't have to be enjoyable. Treat play as a pathway to focus. You don't have to enjoy play.** Why? Because play can be a useful tool to hold our attention long enough to get the task done.
+* **Fun doesn’t have to be enjoyable. Treat play as a pathway to focus. You don’t have to enjoy play.** Why? Because play can be a useful tool to hold our attention long enough to get the task done.
 * How to make a task into play? How to add fun to a task?
 	* Enforcing constraint (such as time limits) creates a sense of urgency that helps to concentrate efforts
 	* Introducing variability encourages curiosity and engagement by exploring the uncertainties within a task
-* **The Broaden-and-Build Theory:** Positive emotions broaden one's awareness and encourage novel, exploratory thoughts and actions. Over time, this broadened behavioral repertoire builds useful skills and psychological resources.
+* **The Broaden-and-Build Theory:** Positive emotions broaden one’s awareness and encourage novel, exploratory thoughts and actions. Over time, this broadened behavioral repertoire builds useful skills and psychological resources.
 
 [^1]: 或是背面。
