@@ -1,7 +1,7 @@
 ---
 title: Fluid Intelligence versus Crystallized Intelligence
 created: 2025-01-27T14:52:44
-modified: 2025-07-16T21:23:29
+modified: 2025-08-29T08:30:46
 ---
 
 ![](../_attachments/91220db8072cb9879c79d2a95812fbfe.jpg)
@@ -13,7 +13,7 @@ modified: 2025-07-16T21:23:29
 
 * 流體智力指邏輯推理、靈活思考以及解決新問題的能力，通常在成年早期達到高峰，30 至 40 歲後開始下滑。
 * It is characterized by the ability to think creatively and abstractly, learn new concepts, draw flexible connections, and reason across different domains.
-* Fluid Intelligence represents the intelligence of _youth_. It peaks during the early stages of one's career—generally in the 20s and 30s—and begins to decline thereafter. Many groundbreaking innovations stem from Fluid Intelligence, which explains why a significant proportion of such achievements come from individuals in the early stages of their careers.
+* Fluid Intelligence represents the intelligence of _youth_. It peaks during the early stages of one’s career—generally in the 20s and 30s—and begins to decline thereafter. Many groundbreaking innovations stem from Fluid Intelligence, which explains why a significant proportion of such achievements come from individuals in the early stages of their careers.
 
 # 「晶體智力」(Crystallized Intelligence, G<sub>c</sub>)
 
