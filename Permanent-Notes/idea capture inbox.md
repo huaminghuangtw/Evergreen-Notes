@@ -1,7 +1,7 @@
 ---
 title: idea capture inbox
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:45
 ---
 
 > _Every composer knows the anguish and despair occasioned by forgetting ideas which one had no time to write down. ― Hector Berlioz_
@@ -32,7 +32,7 @@ modified: 2025-08-10T14:28:42
 
 * In 📥 \& Out 📤 Paper Tray
 * Quick Note
-	* Informal sketch (by giving barely enough details to allow you to readily reconstruct the whole thing later on, don't care about the format)
+	* Informal sketch (by giving barely enough details to allow you to readily reconstruct the whole thing later on, don’t care about the format)
 	* Only write down “keywords”, not “sentences”
 * Core Concept: Keep the process low-friction or even frictionless
 
@@ -47,7 +47,7 @@ What?
 [Brainstorm/Insight Notebook by Tim Ferriss](https://www.youtube.com/watch?v=UFdR8w_R1HA)
 
 * For thought-dumping (interesting goals and ideas)
-* Multiple passes and constantly ask what did I think was important or cool through different times, so you're not just spewing onto the page and then forgetting it
+* Multiple passes and constantly ask what did I think was important or cool through different times, so you’re not just spewing onto the page and then forgetting it
 	* 1st pass: when you first took notes
 	* 2nd pass: maybe a week or a month after the note was taken; underscore ideas you find interesting at this time
 	* 3rd pass: maybe a quarter after; encircle ideas you find interesting at this time
@@ -56,4 +56,4 @@ What?
 
 ## See Also
 
-* [note-taking](note-taking.md)
+* [Note Taking](note-taking.md)
