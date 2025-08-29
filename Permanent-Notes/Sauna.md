@@ -1,7 +1,7 @@
 ---
 title: Sauna
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-08-29T08:30:45
 ---
 
 #TODO
@@ -31,7 +31,7 @@ modified: 2025-07-16T21:23:30
 	* Unwind: meditation, breathwork, tree pose, sit stretching, etc.
 	* Remove jewelry or watches to avoid damaging them in the heat and moisture
 * After the sauna
-	* Shower and let your body cool completely before getting dressed (or you're gonna sweat)
+	* Shower and let your body cool completely before getting dressed (or you’re gonna sweat)
 	* Drink LOTS of water (Stay hydrated)
 	* Eat after one hour
 * Why no clothes? (only “towel” or “robe”)
