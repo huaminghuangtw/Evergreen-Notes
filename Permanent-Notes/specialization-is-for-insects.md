@@ -1,10 +1,10 @@
 ---
 title: Specialization is for insects
 created: 2025-01-23T10:40:57
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:45
 ---
 
-> _“At some level, all humans are broad. We're all multivariate/multifaceted, but we get summarized in pithy ways in our lives.” — Naval Ravikant_
+> _“At some level, all humans are broad. We’re all multivariate/multifaceted, but we get summarized in pithy ways in our lives.” — Naval Ravikant_
 
 > _[“Exploration is how you discover what works. Persistence is how you make the most of what already works.” — James Clear](https://jamesclear.com/3-2-1/september-12-2024)_
 
