@@ -1,12 +1,12 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2025-08-26T14:33:26
+modified: 2025-08-29T08:30:45
 ---
 
 > _“Everything popular is wrong.” — Oscar Wilde_
 
-> _“To escape from the world means that one's mind is not concerned with the opinions of the world.” — Dogen_
+> _“To escape from the world means that one’s mind is not concerned with the opinions of the world.” — Dogen_
 
 > _“Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win. The wise warrior avoids the battle.” — Sun Tzu_ [^1]
 
@@ -14,9 +14,9 @@ modified: 2025-08-26T14:33:26
 
 > _“The eyes of others our prisons; their thoughts our cages.” — Virginia Woolf_
 
-> _“If you want to be successful in life, simply watch what most people would do in a given situation, and then [do the total opposite](https://www.youtube.com/watch?v=1Y_6fZGSOQI)—nine times out of ten, you'll receive greater rewards.” — Earl Nightingale_
+> _“If you want to be successful in life, simply watch what most people would do in a given situation, and then [do the total opposite](https://www.youtube.com/watch?v=1Y_6fZGSOQI)—nine times out of ten, you’ll receive greater rewards.” — Earl Nightingale_
 
-> _“The world wants you to be typical – in a thousand ways, it pulls at you. Don't let it happen. You have to pay a price for your distinctiveness, and it's worth it.” — Jeff Bezos_
+> _“The world wants you to be typical – in a thousand ways, it pulls at you. Don’t let it happen. You have to pay a price for your distinctiveness, and it’s worth it.” — Jeff Bezos_
 
 > _[“Don't try to emulate. It's a fool's errand. Instead, each person is uniquely qualified at something. They have some specific knowledge, capability, and desire nobody else in the world does, purely from the combinatorics of human DNA and development.” — Naval Ravikant](https://nav.al/competition-authenticity)_
 
@@ -36,7 +36,7 @@ modified: 2025-08-26T14:33:26
 
 > _“Always be a first-rate version of yourself, instead of a second-rate version of someone else.” — Judy Garland_
 
-> _“If stars needed the sky's permission to shine, the universe would be a very dark place.” — Matshona Dhliwayo_
+> _“If stars needed the sky’s permission to shine, the universe would be a very dark place.” — Matshona Dhliwayo_
 
 > _“Too many people overvalue what they are not and undervalue what they are.” — Malcolm S. Forbes_
 
@@ -44,7 +44,7 @@ modified: 2025-08-26T14:33:26
 
 # The Fight Against Normalcy
 
-> _“You can't be normal and expect abnormal returns.” — Jeffrey Pfeffer_
+> _“You can’t be normal and expect abnormal returns.” — Jeffrey Pfeffer_
 
 > _“Extreme people get extreme results.” — Sam Altman_
 
@@ -57,9 +57,9 @@ modified: 2025-08-26T14:33:26
 
 Normal behavior is forgotten. Only weird behavior survives. _Nobody tells stories of when you did the expected — they only tell stories when you did the unexpected._ Normalize being weird. Weirdness is what sets us apart, makes us unique. Be your unapologetically weird self. In fact, being weird may even find you the ultimate happiness.
 
-1. If you pay for the bill at everyone in the table — the short-term reaction is shock and confusion. In the long term, it's everyone's favorite memory of you.
-2. If you travel across the world for a friend's birthday, the friend's initial reaction is: “You don't have to do that” — but it's the story they tell at your funeral.
-3. If you're 100% honest with your feedback on people's business ideas, the short-term reaction is anger. In the long term, you become one of the few people they trust.
+1. If you pay for the bill at everyone in the table — the short-term reaction is shock and confusion. In the long term, it’s everyone’s favorite memory of you.
+2. If you travel across the world for a friend’s birthday, the friend’s initial reaction is: “You don’t have to do that” — but it’s the story they tell at your funeral.
+3. If you’re 100% honest with your feedback on people’s business ideas, the short-term reaction is anger. In the long term, you become one of the few people they trust.
 
 ---
 
@@ -67,19 +67,19 @@ Normal behavior is forgotten. Only weird behavior survives. _Nobody tells storie
 
 ---
 
-Sometimes becoming who you are is actually about _unbecoming_ who you aren't.
+Sometimes becoming who you are is actually about _unbecoming_ who you aren’t.
 
 * Uncondition/Undo yourself
 
 ---
 
-The world doesn't need one more _template_. It needs one more _rebel_.
+The world doesn’t need one more _template_. It needs one more _rebel_.
 
 ---
 
 Attract \> Chase
 
-> _“If you spend your time chasing butterflies, they'll fly away. But if you spend your time making/mending a beautiful garden, the butterflies will come.” — Mario Quintana_ [^3]
+> _“If you spend your time chasing butterflies, they’ll fly away. But if you spend your time making/mending a beautiful garden, the butterflies will come.” — Mario Quintana_ [^3]
 
 ---
 
@@ -89,13 +89,13 @@ What you are good at is different from what you are genetically encoded for.
 
 Do not go where the path may lead, go instead where there is no path and leave a trail. Remember that life is an adventure.
 
-> _“If the path before you is clear, you're probably on someone else's.” — Joseph Campbell_
+> _“If the path before you is clear, you’re probably on someone else’s.” — Joseph Campbell_
 
 ---
 
 找到只有你能做得好的一件事，你就會事半功倍，最後你將成為那件事的世界第一，並且熱愛生命
 
-Find a thing that's so you, that doing it is just a natural extension of you being yourself.
+Find a thing that’s so you, that doing it is just a natural extension of you being yourself.
 
 [Your best performances will come when you are working in a way that is a full expression of you. The work becomes a natural display of your personality. This is when you not only get better results, but also love the activity — because in doing the craft, you feel alive.](https://jamesclear.com/3-2-1/january-30-2025)
 
