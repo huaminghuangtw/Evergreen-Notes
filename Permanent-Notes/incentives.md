@@ -1,10 +1,10 @@
 ---
 title: incentives
 created: 2024-11-18T09:16:50
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:45
 ---
 
-> _“Show me the incentive, and I'll show you the outcome.” — Charlie Munger_
+> _“Show me the incentive, and I’ll show you the outcome.” — Charlie Munger_
 
 ---
 
@@ -12,7 +12,7 @@ modified: 2025-08-10T14:28:42
 
 Incentives are the most fundamental concept in [Decision Making](decision-making.md).
 
-People respond to incentives like Pavlov's dogs, and they are more likely to act in their own self-interest, even if it contradicts their moral values.
+People respond to incentives like Pavlov’s dogs, and they are more likely to act in their own self-interest, even if it contradicts their moral values.
 
 We make time and energy for the things we really want. For example, if you have a vacation planned and need to make a 6am flight, you have no issue getting up at 3am to make it, because you have the _**desire**_.
 
