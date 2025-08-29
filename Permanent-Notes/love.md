@@ -1,12 +1,12 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2025-08-21T16:50:35
+modified: 2025-08-29T08:30:45
 ---
 
 > _“Love is the absence of judgment.” — Dalai Lama_
 
-> _“Love does not cause suffering: what causes it is the sense of ownership, which is love's opposite_.” — Antoine de Saint-Exupéry
+> _“Love does not cause suffering: what causes it is the sense of ownership, which is love’s opposite_.” — Antoine de Saint-Exupéry
 
 > _“Love is the only way to grasp another human being in the innermost core of his personality.” — Viktor Frankl_
 
@@ -16,7 +16,7 @@ modified: 2025-08-21T16:50:35
 
 > _[“Love consists in this, that two solitudes protect and touch and greet each other.” — Rainer Maria Rilke](https://www.brainyquote.com/quotes/rainer_maria_rilke_164598)_
 
-> _“You don't love because: you love despite; not for the virtues, but despite the faults.” — William Faulkner_
+> _“You don’t love because: you love despite; not for the virtues, but despite the faults.” — William Faulkner_
 
 > _“I have learned not to worry about love; but to honor its coming with all my heart.” — Alice Walker_
 
@@ -26,11 +26,11 @@ modified: 2025-08-21T16:50:35
 
 > _「這世界上最不缺的就是，隨處可見的漂亮妞，隨處可見的有錢人和隨處泛濫的愛情。卻唯獨缺少了愛情裡，本不該缺失的那份責任感、安全感還有忠誠。一個人有多好，一點都不重要，一個人對你有多好，才重要。在這個放蕩不羈又充滿誘惑的世界裡，如果有一個人能給你安全感和忠誠，為你承擔那份責任，那他—定比這個世界更迷人。」— 楊絳_
 
-> _“The most important aspect of love is not in giving or the receiving: it's in the being.” — Ram Dass_
+> _“The most important aspect of love is not in giving or the receiving: it’s in the being.” — Ram Dass_
 
 > _“When you love someone, you have to offer that person the best you have. The best thing we can offer another person is our true presence (full attention).” — Thích Nhất Hạnh_
 
-> _“It's enough for me to be sure that you and I exist at this moment.” — Gabriel García Márquez_
+> _“It’s enough for me to be sure that you and I exist at this moment.” — Gabriel García Márquez_
 
 > _“I no longer believed in the idea of soul mates, or love at first sight. But I was beginning to believe that a very few times in your life, if you were lucky, you might meet someone who was exactly right for you. Not because he was perfect, or because you were, but because your combined flaws were arranged in a way that allowed two separate beings to hinge together.” — Lisa Kleypas_
 
@@ -40,7 +40,7 @@ modified: 2025-08-21T16:50:35
 
 [@mansonSubtleArtNot2016]
 
-> _“Unhealthy love is based on two people trying to escape their problems through their emotions for each other—in other words, they're using each other as an escape. Healthy love is based on two people acknowledging and addressing their own problems with each other's support.” ― Mark Manson, [The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/work/quotes/48297245)_
+> _“Unhealthy love is based on two people trying to escape their problems through their emotions for each other—in other words, they’re using each other as an escape. Healthy love is based on two people acknowledging and addressing their own problems with each other’s support.” ― Mark Manson, [The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/work/quotes/48297245)_
 
 ---
 
@@ -54,9 +54,9 @@ Being in love > Being loved
 
 # Marry Only For Love!
 
-* Who you choose as a partner is the most important decision you'll ever make in your life.
+* Who you choose as a partner is the most important decision you’ll ever make in your life.
 * Choose your husband/wife wisely. This is the person that will be with you on your greatest and worst days. Choose a man/woman that will see you for who you are.
-* Don't marry anyone you can't _laugh with_ or _dance with_.
+* Don’t marry anyone you can’t _laugh with_ or _dance with_.
 
 ---
 
@@ -67,14 +67,14 @@ Being in love > Being loved
 	* Q: “How to find a good spouse?” → A: “The best single way is to deserve a good spouse.”
 * Attract > Chase
 
-	> _“If you spend your time chasing butterflies, they'll fly away. But if you spend your time making/mending a beautiful garden, the butterflies will come.” — Mario Quintana_
+	> _“If you spend your time chasing butterflies, they’ll fly away. But if you spend your time making/mending a beautiful garden, the butterflies will come.” — Mario Quintana_
 
 ---
 
 # Good Chemistry
 
 * _“[A woman/man sitting with a man/woman, suddenly feels very comfortable being a woman/man](https://www.tiktok.com/@therealrabbimanis/video/7281009010029989162)” — [Manis Friedman](https://www.google.com/search?q=Manis+Friedman)_
-* When you find someone you're willing to give up your natural/innate selfishness for, you've found your person.
+* When you find someone you’re willing to give up your natural/innate selfishness for, you’ve found your person.
 
 ---
 
@@ -113,18 +113,18 @@ Find a partner who believes in you more than you believe in yourself.
 
 > _“Love does not consist in gazing at each other, but in looking” — Antoine De Saint-Exupéry_
 
-* Is this relationship making me fulfilled or just less lonely? If a relationship isn't creating feelings of fulfillment, it won't last.
+* Is this relationship making me fulfilled or just less lonely? If a relationship isn’t creating feelings of fulfillment, it won’t last.
 * Find the people who create your fulfillment, not just reduce your loneliness.
 
 ---
 
 [@chapman5LoveLanguages2014]
 
-1. **Acts of Service:** Proactively make your partner's life easier. Even a small task like cleaning their room counts. This shows that their concerns are your concerns and that their priorities are your priorities.
+1. **Acts of Service:** Proactively make your partner’s life easier. Even a small task like cleaning their room counts. This shows that their concerns are your concerns and that their priorities are your priorities.
 2. **Words of Affirmation:** Use acknowledgement and encouragement to help your partner feel more confident about their decisions in life.
 3. **Physical Touch:** Provide intimacy in whatever way your partner appreciates it.
-4. **Quality Time:** Make dedicated time to be with your partner. This doesn't mean being together in the same room. It means having one-on-one time to focus on how to help each other grow and continue to love each other.
-5. **Receiving Gifts:** For some, receiving gifts signals that you remain top of mind for your partner and that they can't shake the desire to make you feel good. Gifts can be tangible or intangible, expensive or free.
+4. **Quality Time:** Make dedicated time to be with your partner. This doesn’t mean being together in the same room. It means having one-on-one time to focus on how to help each other grow and continue to love each other.
+5. **Receiving Gifts:** For some, receiving gifts signals that you remain top of mind for your partner and that they can’t shake the desire to make you feel good. Gifts can be tangible or intangible, expensive or free.
 
 ---
 
@@ -151,18 +151,18 @@ Fall deeply. Fail fast. Burn beautifully.
 
 > Love one another, but make not a bond of love.
 > Let it rather be a moving sea between the shores of your souls.
-> Fill each other's cup but drink not from one cup.
+> Fill each other’s cup but drink not from one cup.
 > Give one another of your bread but eat not from the same loaf.
 >
-> Give your hearts, but not into each other's keeping.
+> Give your hearts, but not into each other’s keeping.
 > For only the hand of Life can contain your hearts.
 > And stand together yet not too near together:
 > For the pillars of the temple stand apart,
-> And the oak tree and the cypress grow not in each other's shadow.
+> And the oak tree and the cypress grow not in each other’s shadow.
 
 ---
 
-Don't make assumptions about your partner's feelings — just ask.
+Don’t make assumptions about your partner’s feelings — just ask.
 
 ---
 
