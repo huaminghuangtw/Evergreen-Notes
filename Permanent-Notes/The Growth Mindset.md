@@ -1,7 +1,7 @@
 ---
 title: The Growth Mindset
 created: 2024-11-18T09:18:12
-modified: 2025-08-27T06:10:47
+modified: 2025-08-29T08:30:45
 ---
 
 [@dweckMindsetNewPsychology2008]
@@ -30,7 +30,7 @@ Kaizen (改善)
 
 ---
 
-> _“Talent is a pursued interest. Anything that you're willing to practice, you can do.” — Bob Ross_
+> _“Talent is a pursued interest. Anything that you’re willing to practice, you can do.” — Bob Ross_
 
 Approach everything in life as a _skill_ at which you can increase your competency through [practices](Deliberate%20Practice.md). You get better at what you practice. [What you like to practice is what’s worth pursuing. Getting to perform is just a bonus.](https://www.workingtheorys.com/p/about-practice) Everything is practice. [Practice makes perfect.](Deliberate%20Practice.md) [^1]
 
@@ -54,19 +54,19 @@ Approach everything in life as a _skill_ at which you can increase your competen
 
 # [The Power of Yet](https://youtu.be/J-swZaKN2Ic)
 
-> _“Not the 'not,' but the 'not yet.' — [@markaurelMeditations2006]_
+> _“Not the ‘not,’ but the ‘not yet.’ — [@markaurelMeditations2006]_
 
-* “I'm not good enough” → “I'm not good enough…_yet_.”
-* “I don't know how to do it” → “I don't know how to do it…_yet_.”
-* “I'm not capable of that” → “I'm not capable of that…_yet_.”
+* “I’m not good enough” → “I’m not good enough…_yet_.”
+* “I don’t know how to do it” → “I don’t know how to do it…_yet_.”
+* “I’m not capable of that” → “I’m not capable of that…_yet_.”
 
 ---
 
 # The “have been” Mindset
 
-* I am strong because I've been weak.
-* I am fearless because I've been afraid.
-* I am wise because I've been foolish.
+* I am strong because I’ve been weak.
+* I am fearless because I’ve been afraid.
+* I am wise because I’ve been foolish.
 
 ---
 
