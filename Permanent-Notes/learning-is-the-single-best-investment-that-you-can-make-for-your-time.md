@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-08-28T07:57:09
+modified: 2025-08-29T08:30:45
 ---
 
 Financial [Compounding](The%20Compounding%20Effect.md) → Intellectual Compounding
@@ -82,13 +82,13 @@ Financial [Compounding](The%20Compounding%20Effect.md) → Intellectual Compound
 
 Stick to the **basics/fundamentals** and **big picture**, then you can learn anything you want
 
-* Don't overlook the basics. Don't ignore the foundation.
+* Don’t overlook the basics. Don’t ignore the foundation.
 * Learning is a condensing and incremental process.
 
 Always starting from the most basic and simplest level, then adding more complexities gradually
 
 * Because it takes a lot more time going backward
-* It's very important to _crawl_ before you can _walk_
+* It’s very important to _crawl_ before you can _walk_
 * See also: [First-Principle Thinking](first-principle%20thinking.md)
 
 ---
@@ -98,36 +98,36 @@ Always starting from the most basic and simplest level, then adding more complex
 * 如果要把一個知識點運用到生活當中，就要把它給記錄下來，然後不斷地練習和自我提醒，加強對那個知識點的印象，才能慢慢變成自己的東西
 * 記憶 = 連結 Association [^1] \& 意義 Meaning
 * Recognizing or being familiar with something is not the same as having agility/mastery/virtuosity of that thing.
-* Chunking – [Break down complex/abstract ideas into tangible/digestible chunks](https://youtu.be/TQMbvJNRpLE), and link those chunks to vivid [mental representations/images](visualization.md). By creating such visual associations, _you're not just memorizing - you're understanding._ Your mind is a storage system. Learn to catalog efficiently.
-* If you found yourself need to memorize something, it's an indication that you don't understand that stuff well enough.
-	* Don't try to memorize/cram what you can look up.
+* Chunking – [Break down complex/abstract ideas into tangible/digestible chunks](https://youtu.be/TQMbvJNRpLE), and link those chunks to vivid [mental representations/images](visualization.md). By creating such visual associations, _you’re not just memorizing - you’re understanding._ Your mind is a storage system. Learn to catalog efficiently.
+* If you found yourself need to memorize something, it’s an indication that you don’t understand that stuff well enough.
+	* Don’t try to memorize/cram what you can look up.
 	* True learning is solid, deep understanding. [Change](adaptability.md) is the end result of all true learning.
 
 ---
 
 # [How to learn anything?](https://www.youtube.com/watch?v=5MgBikgcWnY)
 
-1. Deconstruct the skill—decide exactly what you want to be able to do when you're done (i.e., with the end in mind), and then look into the skill and break it down into smaller pieces.
-2. Learn enough to self-correct—[learn just enough that you can actually practice and self-correct](cultivate-a-strong-bias-towards-action.md) or self-edit as you practice. Use only 3-5 resources rather than something like 20 → It's just a form of procrastination.
+1. Deconstruct the skill—decide exactly what you want to be able to do when you’re done (i.e., with the end in mind), and then look into the skill and break it down into smaller pieces.
+2. Learn enough to self-correct—[learn just enough that you can actually practice and self-correct](cultivate-a-strong-bias-towards-action.md) or self-edit as you practice. Use only 3-5 resources rather than something like 20 → It’s just a form of procrastination.
 	* The Learning Habit Loop
 		1. Only read and consume content until you know what you need to do.
 		2. Then, stop reading and consuming content until what you know you need to do is done.
 	* _“Do the best you can until you know better. Then when you know better, do better.” — Maya Angelou_
 3. Remove barriers to practice—remove the distractions that are keeping you from practicing.
 4. Practice for at least 20 hours—by pre-committing to practicing whatever it is that you want to do for at least 20 hours, you will be able to overcome initial frustration barrier and stick with the practice long enough to actually reap the rewards.
-5. The major barrier's not intellectual, it's emotional.
+5. The major barrier’s not intellectual, it’s emotional.
 
 ---
 
 # How To Learn Faster? [Deliberate Practice](Deliberate%20Practice.md)
 
-**Embrace the challenge: The best learning outcome happens when it's the hardest.**
+**Embrace the challenge: The best learning outcome happens when it’s the hardest.**
 
 [@abdaalFeelGoodProductivityHow2024]
 
 > _[“Next time you're feeling like a task or project is particularly difficult, ask yourself, 'What would it look like if I were really confident at this?' Just by asking yourself the question, you'll visualize yourself confidently approaching the task at hand. The switch has been flipped.” ― Ali Abdaal, Feel-Good Productivity: How to Do More of What Matters to You](https://www.goodreads.com/work/quotes/100097284-feel-good-productivity-how-to-do-more-of-what-matters-to-you)_
 
-* Studying should be difficult—if you're not worrying that you won't be able to understand something you're learning, it isn't hard enough. [^2]
+* Studying should be difficult—if you’re not worrying that you won’t be able to understand something you’re learning, it isn’t hard enough. [^2]
 * [Agitation (焦慮，躁動，緊張不安)](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%B9%81%E4%BD%93/agitation) is good, helping to release norepinephrine and adrenaline
 * [When you tackle a chunk of work, push for a result that is beyond — _but not too far beyond_ — what's comfortable for your current skill level. Design this chunk to feature enough difficulty that you _quickly get stuck_. At this point, you should slow down, and advance deliberately, in a state of real _mental strain_. This **stretch** is important to: (a) extract the most out of your current abilities; and (b) ensure that your abilities continue to improve. Finding chunks that require stretch, but are not so hard that you get permanently blocked, is non-trivival (very important).](https://calnewport.com/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/)
 * See also: [Do hard things](Do%20hard%20things.md)
@@ -147,7 +147,7 @@ Always starting from the most basic and simplest level, then adding more complex
 			> _“When one teaches, two learn.” — Robert Half_
 
 		* _“Those who know, do. Those that understand, teach.” — Aristotle_
-			* You don't fully understand a thing until you try to explain/speak for it
+			* You don’t fully understand a thing until you try to explain/speak for it
 			* [Explain It To Me Like I'm 5 (ELI5)](https://www.reddit.com/r/explainlikeimfive/)
 		* The Protégé [^3] Effect [@chaseTeachableAgentsProtege2009]
 			* The people who had to teach others about a subject would learn the material better themselves.
@@ -158,7 +158,7 @@ Always starting from the most basic and simplest level, then adding more complex
 			* Study Groups
 	* [Learn In Public](https://www.swyx.io/learn-in-public)
 	* “The Feynman Razor”
-		* If someone uses a lot of complexity and jargon to explain something to you, they probably don't understand it.
+		* If someone uses a lot of complexity and jargon to explain something to you, they probably don’t understand it.
 		* Use simple and elegant language.
 * [刻意練習 (Deliberate Practice)](Deliberate%20Practice.md)
 * 交錯練習 (Interleaving Practice / Interleaved Learning)
@@ -205,7 +205,7 @@ Always starting from the most basic and simplest level, then adding more complex
 * ⭐️ Take several brief breaks (with each 5-30 seconds) during study / in the act of consuming/absorbing material, and reflect on the material to reinforce memory
 	* **Pro Tip:** Pause longer after key points to allow the “Gap Effects” to happen
 * Avoid phone immediately after a study session to offset forgetting
-* A good night of [restorative](https://dictionary.cambridge.org/dictionary/english/restorative) [sleep](sleep.md) BEFORE and AFTER [^4] studying/learning is crucial for get the best out of your studying/learning efforts. [^5] → _“If you don't snooze, you lose.”_ [^6]
+* A good night of [restorative](https://dictionary.cambridge.org/dictionary/english/restorative) [sleep](sleep.md) BEFORE and AFTER [^4] studying/learning is crucial for get the best out of your studying/learning efforts. [^5] → _“If you don’t snooze, you lose.”_ [^6]
 
 ---
 
