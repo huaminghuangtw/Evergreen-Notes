@@ -1,7 +1,7 @@
 ---
 title: The absence of desire is true happiness
 created: 2024-11-18T09:18:12
-modified: 2025-08-12T19:57:28
+modified: 2025-08-29T08:30:45
 ---
 
 > _[“Not wanting something is as good as having it.” — Naval Ravikant](https://www.youtube.com/watch?v=KyfUysrNaco&t=33s)_
@@ -10,7 +10,7 @@ modified: 2025-08-12T19:57:28
 
 > _“Desire makes slaves out of kings, while patience makes kings out of slaves.” ― Imam Al-Ghazali_
 
-> _“Freedom is secured not by the fulfilling of one's desires, but by the removal of desire.” — Epictetus_
+> _“Freedom is secured not by the fulfilling of one’s desires, but by the removal of desire.” — Epictetus_
 
 [@mansonSubtleArtNot2016]
 
