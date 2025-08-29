@@ -1,10 +1,10 @@
 ---
 title: Flow State
 created: 2025-01-23T18:40:57
-modified: 2025-07-28T07:16:01
+modified: 2025-08-29T08:30:45
 ---
 
-You're in “the zone.” ( like _[one-buttock playing](https://sketchplanations.com/one-buttock-playing)_)
+You’re in “the zone.” ( like _[one-buttock playing](https://sketchplanations.com/one-buttock-playing)_)
 
 You feel fully immersed in your work.
 
@@ -38,7 +38,7 @@ Flow is [a state of optimal experience](https://www.flowresearchcollective.com/a
 # The 4 Stages Of The Flow Cycle By Herbert Benson
 
 * 4 stages
-	1. [Struggle](why-its-so-hard-to-just-do-the-work.md)
+	1. [Struggle](why-is-it-so-hard-to-just-do-the-work.md)
 	2. Release
 	3. Flow
 	4. Recovery
