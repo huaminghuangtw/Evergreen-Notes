@@ -1,14 +1,14 @@
 ---
 title: Ketogenic Diet
 created: 2024-11-18T09:16:50
-modified: 2025-07-18T15:01:43
+modified: 2025-08-29T08:30:46
 ---
 
 酮體 (Ketone Bodies) / 生酮飲食 (Ketogenic Diet): involves significantly decreasing your intake of carbs / 酮症 (Ketosis): a metabolic state in which your body uses fat as its primary source of energy / 生酮作用 (Ketogenesis): 指脂肪酸分解生成酮體
 
 ketosis, the state of the body using ketones (produced from stored fat metabolized by the liver, an alternative energy source for the brain and body) instead of blood sugar
 
-It's important to take/get extra/more _**salt**_ in ketogenic diet.
+It’s important to take/get extra/more _**salt**_ in ketogenic diet.
 
 Eat more fat
 
@@ -25,7 +25,7 @@ Eat more fat
 	* improved insulin sensitivity
 	* increased ketone production
 	* reduced risk of heart disease
-* is better absorbed after it's been emulsified (乳化)
+* is better absorbed after it’s been emulsified (乳化)
 
 ---
 
