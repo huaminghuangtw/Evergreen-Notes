@@ -1,12 +1,12 @@
 ---
 title: Just focus on the next decision
 created: 2024-11-18T09:18:12
-modified: 2025-08-27T07:47:56
+modified: 2025-08-29T08:30:45
 ---
 
 > _[“You are always just one good decision away from being in a better place tomorrow — just focus on the next decision.” — Sahil Bloom](https://www.sahilbloom.com/newsletter/information-action-gap-one-decision-away-more)_
 
-> _“Any success takes one in a row. Do one thing well, then another. Once, then once more. Over and over until the end, then it's one in a row again.” — [@mcconaugheyGreenlights2021]_
+> _“Any success takes one in a row. Do one thing well, then another. Once, then once more. Over and over until the end, then it’s one in a row again.” — [@mcconaugheyGreenlights2021]_
 
 > _[“At some point, everything's gonna go south on you and you're going to say, this is it. This is how I end. Now you can either accept that, or you can get to work. That's all it is. You just begin. You do the math. You solve one problem and you solve the next one, and then the next. And If you solve enough problems, you get to come home.” — The Martian](https://www.youtube.com/watch?v=mDYCLFE86Po)_
 
@@ -30,7 +30,7 @@ Next Play Mentality
 
 # The One-Move Mindset​
 
-Don't try to solve everything. Focus on one clear step you can take right now. [Progress](Journey%20over%20destination.md), not [perfection](perfectionism.md).
+Don’t try to solve everything. Focus on one clear step you can take right now. [Progress](Journey%20over%20destination.md), not [perfection](perfectionism.md).
 
 ---
 
