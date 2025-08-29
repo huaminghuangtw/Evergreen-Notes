@@ -1,7 +1,7 @@
 ---
 title: Quit social media
 created: 2024-11-18T09:18:12
-modified: 2025-08-26T05:35:26
+modified: 2025-08-29T08:30:45
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -12,7 +12,7 @@ modified: 2025-08-26T05:35:26
 
 > _“There are only two industries that refer to their customers as “users”: the illegal drug trade and tech companies. Both thrive by creating addicts and profiting from the addiction.” — [The Social Dilemma (2020 film)](https://www.imdb.com/title/tt11464826/)_
 
-> _“Social media should be used as a platform to share your efforts (show your work) with the world, not as a place to mindlessly spend your time. The key is realizing that the flow needs to go from the real world into the digital space, not the other way around. Those who understand this will be the ones who succeed in life, almost guaranteed, barring some accident or injury. It's that simple.” — Andrew Huberman_
+> _“Social media should be used as a platform to share your efforts (show your work) with the world, not as a place to mindlessly spend your time. The key is realizing that the flow needs to go from the real world into the digital space, not the other way around. Those who understand this will be the ones who succeed in life, almost guaranteed, barring some accident or injury. It’s that simple.” — Andrew Huberman_
 
 ---
 
@@ -40,7 +40,7 @@ The goal of social media is to make every problem, your problem.
 
 ---
 
-Social media is a highly judgmental space. What you see there is merely a curated highlight reel—a _second reality_ that doesn't tell the full story of people's lives.
+Social media is a highly judgmental space. What you see there is merely a curated highlight reel—a _second reality_ that doesn’t tell the full story of people’s lives.
 
 ---
 
@@ -51,7 +51,7 @@ Social media increases two things:
 
 ---
 
-Social media content, which offers a quick, easily accessible way that makes you happy _or, even if it doesn't make you happy_, offers an escape from the thing that makes you unhappy.
+Social media content, which offers a quick, easily accessible way that makes you happy _or, even if it doesn’t make you happy_, offers an escape from the thing that makes you unhappy.
 
 ---
 
@@ -79,14 +79,14 @@ Fast Digital Consumption
 # Better Use Of Social Media
 
 * Avoid unconsciously scrolling on social media without any _intentions_ [^2]
-* Unless you're making money from social media, delete them.
+* Unless you’re making money from social media, delete them.
 * Instead of passively scrolling, engage with content by leaving thoughtful comments, asking questions, or joining conversations. Shift from passive consumption to active participation.
 * Set an intention to view social media as simply _an idealized highlight reel_ with something engaging and entertaining, but really _not a reflection_ of real life.
-* Don't take content recommendations from algorithms. Get your recommendations from people you follow who've earned your trust.
+* Don’t take content recommendations from algorithms. Get your recommendations from people you follow who’ve earned your trust.
 * Set boundaries for social media usage → helpful for taming/calming the _monkey mind_
-* Not all photos/videos need to be shared. It's the memories that count.
+* Not all photos/videos need to be shared. It’s the memories that count.
 * Unfollow celebrities/influencers/brands.
-* Mute everyone online who doesn't do at least one of the following:
+* Mute everyone online who doesn’t do at least one of the following:
 	* Teach you something new
 	* Make you laugh
 	* Want to see them in the next 6 months
@@ -106,7 +106,7 @@ Fast Digital Consumption
 * Social media is as addictive as drugs [^3] designed to make you wish you were somewhere else, doing something else, with someone else.
 * We all need to put down the phone and spend time connecting with people in person/real life.
 * “NutraSweet” Connection
-	* Social media mimics real socializing, but it's just a cheap imitation—like “[NutraSweet](https://www.google.com/search?q=NutraSweet) (甜味劑)” for the brain, tricking you into thinking you're getting what you need, only to leave you feeling empty.
+	* Social media mimics real socializing, but it’s just a cheap imitation—like “[NutraSweet](https://www.google.com/search?q=NutraSweet) (甜味劑)” for the brain, tricking you into thinking you’re getting what you need, only to leave you feeling empty.
 
 ---
 
@@ -139,7 +139,7 @@ By quitting social media, you gonna experience:
 
 ---
 
-If you were to reduce screen time—especially social media—by just one hour per day for the next 40 years, that's 15,000 hours of your life.
+If you were to reduce screen time—especially social media—by just one hour per day for the next 40 years, that’s 15,000 hours of your life.
 
 * Enough time to become a master at nearly anything.
 * Enough time to build a thriving business.
