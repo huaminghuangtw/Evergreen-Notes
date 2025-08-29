@@ -1,14 +1,14 @@
 ---
 title: Mastering yourself is superpower
 created: 2024-11-18T09:18:12
-modified: 2025-08-28T07:56:59
+modified: 2025-08-29T08:30:45
 ---
 
 > _“Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power.” — Lao Tzu, Tao Te Ching_
 
 > _“He who controls others may be powerful, but he who has mastered himself is mightier still. (勝人者有力，自勝者強)” — Lao Tzu_
 
-> _“When you are content to simply be yourself and don't [compare](comparison-is-the-thief-of-joy.md) or [compete](escape-competition-through-authenticity.md), everybody will respect you.” — Lao Tzu, Tao Te Ching_
+> _“When you are content to simply be yourself and don’t [compare](comparison-is-the-thief-of-joy.md) or [compete](escape-competition-through-authenticity.md), everybody will respect you.” — Lao Tzu, Tao Te Ching_
 
 > _“There are 2 mistakes along the way to Self-Mastery: Not starting it, and not going all the way.” — Shi Heng Yi (释恒義)_
 
@@ -77,7 +77,7 @@ modified: 2025-08-28T07:56:59
 		* Unable to [stay in the present](live-in-the-present.md)
 	5. [Skeptical doubt (indecisiveness)](overthinking.md)
 * How to remove these hindrances?
-	1. Recognize (what state of mind you're in)
+	1. Recognize (what state of mind you’re in)
 	2. [Accept & Acknowledge](Acceptance%20and%20Commitment%20Therapy.md) (the situations and people to be the way as it is/they are)
 		* Just let it rain
 	3. Investigate (your emotional & mental state)
@@ -85,7 +85,7 @@ modified: 2025-08-28T07:56:59
 			* _“Why did it come up?”_
 			* _“What is the consequence if I remain in this state?”_
 	4. Non-Identification (無我)
-		* Practice “_I'm not the body, I'm not the mind, I'm not my emotion, I can just see all these 3 aspects about me._” [^4]
+		* Practice “_I’m not the body, I’m not the mind, I’m not my emotion, I can just see all these 3 aspects about me._” [^4]
 
 [^1]: _“Instead of shaming your emotions, try to understand what they are telling you.” — Lindsay C. Gibson_
 [^2]: _“We lie the loudest when we lie to ourselves.” — Eric Hoffer_
