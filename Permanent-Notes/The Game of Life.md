@@ -1,7 +1,7 @@
 ---
 title: The Game of Life
 created: 2024-11-18T09:18:12
-modified: 2025-08-28T07:56:59
+modified: 2025-08-29T08:30:45
 ---
 
 > _[The reason to play the game is to be free of it.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)_
@@ -11,7 +11,7 @@ modified: 2025-08-28T07:56:59
 = 人生賽局
 
 * Be carefully selective/picky in the games you choose to play. Which game you play is much more important than how well you play the game. Fight battles you are destined to win.
-* Don't play games you don't want to win. If you play stupid games, you will win stupid prizes. [Escape the rat race cycle.](https://fs.blog/david-foster-wallace-this-is-water/)
+* Don’t play games you don’t want to win. If you play stupid games, you will win stupid prizes. [Escape the rat race cycle.](https://fs.blog/david-foster-wallace-this-is-water/)
 * Analogy: 夾娃娃機
 	* 本體 (e.g., 機台造型、擺設方式)
 	* 贈品 (e.g., 保夾金額、物品價值)
@@ -21,7 +21,7 @@ modified: 2025-08-28T07:56:59
 |                              Finite Game (有限賽局)                               |                          Infinite Game (無限賽局)                          |
 | :---------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
 |                                is short-term, soon-ending                              |                            is long-term, never-ending                             |
-|       = Zero-Sum Game = Loser's Game = Multi-Player Game = Status Game [^1]      | = Positive-Sum Game [^2] = Winner's Game = Single-Player Game = Wealth Game |
+|       = Zero-Sum Game = Loser’s Game = Multi-Player Game = Status Game [^1]      | = Positive-Sum Game [^2] = Winner’s Game = Single-Player Game = Wealth Game |
 |    You win by avoiding errors and waiting for your opponent to make errors    |              You win by hitting incredible/elegant shots               |
 |                          The goal is to win the game                          |      The goal is to stay in the game and continue playing forever      |
 |                             打敗多少人? (Competition)                              |                         幫助多少人? (Collaboration) [^3]                         |
@@ -48,7 +48,7 @@ modified: 2025-08-28T07:56:59
 | Earned Status Game | Bought Status Game |
 | :---: | :---: |
 | _Could the richest person in the world acquire the thing I want by tomorrow?_ | _Would I still be interested in buying (or doing/learning) this thing if I could not show it to anyone or tell anyone about it?_ |
-| If the answer to this question is NO, you're playing an Earned Status Game. | If the answer to this question is NO, you're playing a Bought Status Game. |
+| If the answer to this question is NO, you’re playing an Earned Status Game. | If the answer to this question is NO, you’re playing a Bought Status Game. |
 | 要裡子 | 爭面子 |
 
 ---
