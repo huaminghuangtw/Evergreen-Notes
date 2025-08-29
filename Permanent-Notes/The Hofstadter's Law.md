@@ -1,16 +1,16 @@
 ---
-title: The Hofstadter's Law
+title: The Hofstadter’s Law
 created: 2024-11-18T09:18:12
-modified: 2025-08-28T15:02:12
+modified: 2025-08-29T08:30:45
 ---
 
 In contradiction to [Parkinson's Law](parkinsons-law.md)
 
 ---
 
-Things usually take longer than you expect, _even when you take into account The Hofstadter's Law itself_. [^1]
+Things usually take longer than you expect, _even when you take into account The Hofstadter’s Law itself_. [^1]
 
-E.g., if you think you'll finish your homework in an hour, it might actually take two hours.
+E.g., if you think you’ll finish your homework in an hour, it might actually take two hours.
 
 ---
 
