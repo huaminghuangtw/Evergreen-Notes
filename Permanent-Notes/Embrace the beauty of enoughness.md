@@ -1,12 +1,12 @@
 ---
 title: Embrace the beauty of enoughness
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:46
 ---
 
 > _「真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。」 — 沈芯菱_
 
-> _“Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough.” — Oprah Winfrey_
+> _“Be thankful for what you have; you’ll end up having more. If you concentrate on what you don’t have, you will never, ever have enough.” — Oprah Winfrey_
 
 > _“A Gold Medal is a wonderful thing. But if you are not enough without it, you will never be enough with it.” — Irv Blitzer (John Candy) from the movie [Cool Runnings](https://www.imdb.com/title/tt0106611/)_ [^1]
 
@@ -20,9 +20,9 @@ modified: 2025-08-10T14:28:42
 
 ---
 
-“If I get [X], then I'll be happy.” is a dangerous trap/mirage/fallacy.
+“If I get [X], then I’ll be happy.” is a dangerous trap/mirage/fallacy.
 
-If you're not enough without [X], you'll never be enough with [X].
+If you’re not enough without [X], you’ll never be enough with [X].
 
 # See Also
 
@@ -38,7 +38,7 @@ If you're not enough without [X], you'll never be enough with [X].
 
 [Things in excess become their opposite.](https://www.goodreads.com/quotes/9512978-things-in-excess-become-their-opposite-it-is-possible-to) [^2][@ferriss4hourWorkweekEscape2011]
 
-The dose makes the poison. Some things are beneficial in small amounts but become harmful in excess—such as free time, intensity, and stress. The key is to find the optimal dose, which is unique to you and will evolve through different seasons of your life. Never accept someone else's prescribed dose as your own.
+The dose makes the poison. Some things are beneficial in small amounts but become harmful in excess—such as free time, intensity, and stress. The key is to find the optimal dose, which is unique to you and will evolve through different seasons of your life. Never accept someone else’s prescribed dose as your own.
 
 For everything in life, the answer always lies somewhere in the middle. Beyond a certain point, any additional amount can lead to diminishing or even negative returns. Be careful listening to extremists of either side. Too much of anything is harmful.
 
@@ -55,7 +55,7 @@ Key: Set boundaries \& Find/Maintain balance/sweet spot/trade-off
 
 ---
 
-More isn't always better.
+More isn’t always better.
 
 ---
 
@@ -63,7 +63,7 @@ Moderation/Harmony is key. Enough is enough.
 
 ---
 
-[Lagom](https://www.google.com/search?q=lagom) is a Swedish word meaning '_just the right amount_' or '_not too much, not too little_.'
+[Lagom](https://www.google.com/search?q=lagom) is a Swedish word meaning ‘_just the right amount_’ or ‘_not too much, not too little_.’
 
 ---
 
@@ -71,7 +71,7 @@ Moderation/Harmony is key. Enough is enough.
 
 ---
 
-Don't let the pursuit of more stop you from enjoying what you already have.
+Don’t let the pursuit of more stop you from enjoying what you already have.
 
 ---
 
