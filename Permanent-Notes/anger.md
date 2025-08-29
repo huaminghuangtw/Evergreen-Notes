@@ -1,7 +1,7 @@
 ---
 title: Anger
 created: 2024-11-18T09:18:12
-modified: 2025-07-21T13:58:43
+modified: 2025-08-29T08:30:45
 ---
 
 > _“Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.” — Mark Twain_
@@ -24,7 +24,7 @@ modified: 2025-07-21T13:58:43
 
 ---
 
-Beneath anger there's always [fear](fear.md).
+Beneath anger there’s always [fear](fear.md).
 
 ---
 
@@ -36,7 +36,7 @@ Beneath anger there's always [fear](fear.md).
 
 發火/憤怒/生氣時不講話/決策
 
-* Speak when you're angry and you'll make the best speech you'll ever regret.
+* Speak when you’re angry and you’ll make the best speech you’ll ever regret.
 * The greatest remedy for anger is delay. When you are angry, try your best to go to sleep, it keeps you away from speaking and thinking.
 
 ---
@@ -59,7 +59,7 @@ Beneath anger there's always [fear](fear.md).
 >
 > “What do you have to say to me? I attack you and you just smile?”
 >
-> The Buddha replied: “If you buy a gift for someone and that person doesn't accept it, to whom does the gift belong?”
+> The Buddha replied: “If you buy a gift for someone and that person doesn’t accept it, to whom does the gift belong?”
 >
 > The young man, agitated, replied that the gift would still belong to him, because he was the one who had bought it.
 >
