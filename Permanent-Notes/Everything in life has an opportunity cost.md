@@ -1,7 +1,7 @@
 ---
 title: Everything in life has an opportunity cost
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:46
 ---
 
 > _“The real price of everything, what everything really costs to the man who wants to acquire it, is the toil and trouble of acquiring it.” ― Adam Smith, The Wealth of Nations_
@@ -26,7 +26,7 @@ Anything you do in life is a _trade_ of your finite remaining time for something
 
 ---
 
-If you choose to use an hour of your life on one thing—you can't use that hour for something else. Choose wisely.
+If you choose to use an hour of your life on one thing—you can’t use that hour for something else. Choose wisely.
 
 ---
 
@@ -43,9 +43,9 @@ Most people focus on (1) but very rarely think about (2) and (3).
 * **List Price:** The actual, direct price to pay for the thing you want. The effort, hard work, discipline, and energy required to buy or earn that thing
 * **Real Price:** The List Price, plus _**the hidden, indirect price in the form of the tradeoffs and opportunity cost of the pursuit**_. The Real Price incorporates the price of the things you said “no” to by saying “yes” to this one thing.
 
-There's the List Price (what it costs on the surface) you see, and the Real Price (what you have to give up to get it) you don't.
+There’s the List Price (what it costs on the surface) you see, and the Real Price (what you have to give up to get it) you don’t.
 
-_There are many things in life that look like a great deal based on the List Price, but a ripoff based on the Real Price. Before you go after anything, make sure you're willing to pay both._
+_There are many things in life that look like a great deal based on the List Price, but a ripoff based on the Real Price. Before you go after anything, make sure you’re willing to pay both._
 
 ---
 
