@@ -1,7 +1,7 @@
 ---
 title: Feedback
 created: 2024-11-18T09:18:12
-modified: 2025-08-26T09:56:03
+modified: 2025-08-29T08:30:45
 ---
 
 # On Giving Feedback
@@ -21,23 +21,23 @@ Criticism Sandwich — 善用「先稱讚，再建議」的順序
 
 > **You:** Hi, Mara. Do you have a second?
 >
-> **Mara:** Sure. What's up?
+> **Mara:** Sure. What’s up?
 >
-> **You:** _First, I wanted to thank you for_ helping me with the Meelie Worm account [or whatever]. _I really appreciate_ you showing me how to handle that. _You're really good_ at fixing the technical issues.
+> **You:** _First, I wanted to thank you for_ helping me with the Meelie Worm account [or whatever]. _I really appreciate_ you showing me how to handle that. _You’re really good_ at fixing the technical issues.
 >
 > **Mara:** No problem.
 >
-> **You:** _Here's the thing_. [^1] There is a lot of work coming down on everyone, and _I'm feeling_ [^2] a bit overwhelmed. _Normally, priorities are really clear to me_ ,[^3] but I've been having trouble recently figuring out which tasks are highest on the list. _Could you help me_ by pointing out the most important items when a handful need to be done? _I'm sure it's just me, but I'd really appreciate it, and I think it would help._
+> **You:** _Here’s the thing_. [^1] There is a lot of work coming down on everyone, and _I’m feeling_ [^2] a bit overwhelmed. _Normally, priorities are really clear to me_ ,[^3] but I’ve been having trouble recently figuring out which tasks are highest on the list. _Could you help me_ by pointing out the most important items when a handful need to be done? _I’m sure it’s just me, but I’d really appreciate it, and I think it would help._
 >
-> **Mara:** Uhh … I'll see what I can do.
+> **Mara:** Uhh … I’ll see what I can do.
 >
-> **You:** _That means a lot to me. Thanks. Before I forget_ ,[^4] last week's presentation was excellent.
+> **You:** _That means a lot to me. Thanks. Before I forget_ ,[^4] last week’s presentation was excellent.
 >
 > **Mara:** Did you think so? Blah, blah, blah …
 
 # On Receiving Feedback
 
-When people hesitate to give you honest feedback, ask for a score from 0-10, instead of asking, “_What do you think?_”—which invites ambiguity. You'll rarely get a perfect 10, and this makes it easy to follow up with, “_What would make this closer to a 10?_” Better questions lead to better feedback—and faster growth.
+When people hesitate to give you honest feedback, ask for a score from 0-10, instead of asking, “_What do you think?_”—which invites ambiguity. You’ll rarely get a perfect 10, and this makes it easy to follow up with, “_What would make this closer to a 10?_” Better questions lead to better feedback—and faster growth.
 
 避免抱持任何預設立場，永遠以「對方或許更接近真相」來思考（假設別人是對的，自己是錯的），甚至可以在對話/交流中這樣回應：
 
@@ -45,7 +45,7 @@ When people hesitate to give you honest feedback, ask for a score from 0-10, ins
 * 「你的觀點似乎切中要害，能否再深入說明？」
 * 「我覺得你點到關鍵了，可以再多分享一些嗎？」
 
-Don't confuse DISAGREEMENT with DISRESPECT. Never confuse your CRITICS with your HATERS. Feedback can skyrocket your growth _if you don't take it personally_.
+Don’t confuse DISAGREEMENT with DISRESPECT. Never confuse your CRITICS with your HATERS. Feedback can skyrocket your growth _if you don’t take it personally_.
 
 ## See Also
 
@@ -57,7 +57,7 @@ Don't confuse DISAGREEMENT with DISRESPECT. Never confuse your CRITICS with your
 
 * [Advice](advice.md)
 
-[^1]: Don't call it a “problem” if you can avoid it.
+[^1]: Don’t call it a “problem” if you can avoid it.
 [^2]: No one can argue with your feelings, so use this to avoid a debate about external circumstances.
 [^3]: Take “you” out of the sentence to avoid finger-pointing → ~~“Normally, you make priorities clear.”~~
 [^4]: “Before I forget” is a great segue to the closing compliment, which is also a topic shifter and gets you off the sensitive topic without awkwardness.
