@@ -1,10 +1,10 @@
 ---
 title: True education begins where school ends
 created: 2025-01-23T18:40:57
-modified: 2025-08-25T05:56:01
+modified: 2025-08-29T08:30:45
 ---
 
-> _“School is one thing. Education is another. The two don't always overlap. Whether you're in school or not, it's always your job to get yourself an education.” — Austin Kleon_
+> _“School is one thing. Education is another. The two don’t always overlap. Whether you’re in school or not, it’s always your job to get yourself an education.” — Austin Kleon_
 
 > _“Education is what remains after one has forgotten everything he learned in school.” — Albert Einstein_
 
@@ -12,13 +12,13 @@ modified: 2025-08-25T05:56:01
 
 > _“Education is the kindling of a flame, not the filling of a vessel.” — Socrates_
 
-> _“The most important thing we learn at school is the fact that the most important things can't be learned at school.” ― Haruki Murakami, [What I Talk About When I Talk About Running](https://www.goodreads.com/work/quotes/2475030)_
+> _“The most important thing we learn at school is the fact that the most important things can’t be learned at school.” ― Haruki Murakami, [What I Talk About When I Talk About Running](https://www.goodreads.com/work/quotes/2475030)_
 
 > _“When you stop learning you start dying.” — Albert Einstein_
 
 > _「畢業是站在制度性學習的終點，自主性學習的起點」— 龍應台_
 
-> _“Live to learn and you'll really learn to live.” — John C. Maxwell_
+> _“Live to learn and you’ll really learn to live.” — John C. Maxwell_
 
 > _“Live as if you were to die tomorrow. Learn as if you were to live forever.” — Mahatma Gandhi_
 
@@ -40,14 +40,14 @@ School lays the foundation, but true education starts when you step beyond the c
 
 > _["The only true wisdom is in knowing you know nothing." — Socrates](https://www.goodreads.com/quotes/9431-the-only-true-wisdom-is-in-knowing-you-know-nothing)_
 
-> _“Real knowledge is to know the extent of one's ignorance.” — Confucius_ [^1] [^2]
+> _“Real knowledge is to know the extent of one’s ignorance.” — Confucius_ [^1] [^2]
 
 > _“The fool who knows he is a fool is that much wiser. The fool who thinks himself wise is a fool indeed.” — Buddhism_
 
-* _“The more you know, the more you realize you don't know.”_
+* _“The more you know, the more you realize you don’t know.”_
 * The more I learn, the less I feel I know.
 * The more you learn, the more you are exposed to the immense unknown.
-* Experts are only aware of what they don't know.
+* Experts are only aware of what they don’t know.
 
 ---
 
