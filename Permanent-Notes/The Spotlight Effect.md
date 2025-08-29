@@ -1,10 +1,10 @@
 ---
 title: The Spotlight Effect
 created: 2024-11-18T09:18:12
-modified: 2025-08-01T11:30:54
+modified: 2025-08-29T08:30:45
 ---
 
-> _“You have no responsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It's their mistake, not my failing.” — Richard P. Feynman_
+> _“You have no responsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It’s their mistake, not my failing.” — Richard P. Feynman_
 
 > _“Care about what other people might think of you and you will always be their prisoners.” — LAO TZU_
 
@@ -20,8 +20,8 @@ People tend to overestimate the degree to which other people are noticing, obser
 
 Harsh truth in reality:
 
-* Nobody is thinking about you as much as you are. Everyone is concerned mostly about themselves, how how _they're_ coming across. They are just/far too busy thinking about themselves.
-* Most people don't actually care about you; They are really just going through life worried about themselves.
+* Nobody is thinking about you as much as you are. Everyone is concerned mostly about themselves, how how _they’re_ coming across. They are just/far too busy thinking about themselves.
+* Most people don’t actually care about you; They are really just going through life worried about themselves.
 
 Stop caring about what others might think of you. _Like birds sing, not worrying about who hears._
 
@@ -29,13 +29,13 @@ Stop caring about what others might think of you. _Like birds sing, not worrying
 
 # The “No One Cares” Mindset
 
-* _No one cares_ if I write blog posts that are a bit rambly because I haven't had much experience of writing.
-* _No one cares_ if my belt doesn't match my shoes when I attend this party.
+* _No one cares_ if I write blog posts that are a bit rambly because I haven’t had much experience of writing.
+* _No one cares_ if my belt doesn’t match my shoes when I attend this party.
 * _No one cares_ about the driver of Lamborghini, but they want to be the driver of Lamborghini.
 
 ## Nobody cares.
 
-When you're winning, when everything is going well, when you're crushing it, nobody cares. When you're losing, when everything is falling flat, when you're down and out, nobody cares.
+When you’re winning, when everything is going well, when you’re crushing it, nobody cares. When you’re losing, when everything is falling flat, when you’re down and out, nobody cares.
 
 ---
 
