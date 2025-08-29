@@ -1,7 +1,7 @@
 ---
 title: Delayed Gratification
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:46
 ---
 
 > _“It is by going down into the abyss that we recover the treasures of life. Where you stumble, there lies your treasure.” — Joseph Campbell_
@@ -10,7 +10,7 @@ modified: 2025-08-10T14:28:42
 
 ---
 
-Caveat: Delay gratification in the extreme just results in no gratification. (or it's called obsession)
+Caveat: Delay gratification in the extreme just results in no gratification. (or it’s called obsession)
 
 ---
 
@@ -20,7 +20,7 @@ The reason most people fail instead of succeed is they trade what they want most
 * That suck might be 100 bland meals.
 * That suck might be 100 hours of focused work.
 
-Remember: Nothing worth having in life should be easy. The things that matter in life are supposed/meant to be hard/difficult to build. If it were easy, everyone would do it. That's part of the journey toward growth and part of struggle/craft pushing through the discomfort. The best things in life require that upfront pain. Embrace the suck.
+Remember: Nothing worth having in life should be easy. The things that matter in life are supposed/meant to be hard/difficult to build. If it were easy, everyone would do it. That’s part of the journey toward growth and part of struggle/craft pushing through the discomfort. The best things in life require that upfront pain. Embrace the suck.
 
 ---
 
@@ -36,7 +36,7 @@ Remark: Wanting is the desire you feel before doing something. Liking is the sat
 
 [@rubinSecretsAdulthoodSimple2025]
 
-> _“Happiness doesn't always make us feel happy. Living up to our values, challenging ourselves, facing our mistakes, depriving ourselves… these aims make our lives happier, but they don't always make us feel happy in the moment.” — Gretchen Rubin_
+> _“Happiness doesn’t always make us feel happy. Living up to our values, challenging ourselves, facing our mistakes, depriving ourselves… these aims make our lives happier, but they don’t always make us feel happy in the moment.” — Gretchen Rubin_
 
 ---
 
