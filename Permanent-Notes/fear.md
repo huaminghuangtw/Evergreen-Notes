@@ -1,7 +1,7 @@
 ---
 title: fear
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:45
 ---
 
 > _“Fear is a natural reaction to moving closer to the truth” — Pema Chodron_
@@ -10,11 +10,11 @@ modified: 2025-08-10T14:28:42
 
 > _“Life can be the scariest and most beautiful thing simultaneously.” — Maxime Lagace_
 
-> _“You can conquer almost any fear if you will only make up your mind to do so. For remember, fear doesn't exist anywhere except in the mind.” — Dale Carnegie_
+> _“You can conquer almost any fear if you will only make up your mind to do so. For remember, fear doesn’t exist anywhere except in the mind.” — Dale Carnegie_
 
 > _“There is no fear for one whose mind is not filled with desires.” — The Buddha_
 
-> _“FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours.” — Zig Ziglar_
+> _“FEAR has two meanings: ‘Forget Everything And Run’ or ‘Face Everything And Rise.’ The choice is yours.” — Zig Ziglar_
 
 > _“If you approach the mountain in fear, it will look bigger than it appears.” — Tene Edwards_
 
@@ -24,11 +24,11 @@ modified: 2025-08-10T14:28:42
 
 ---
 
-If you can't beat the fear, do it scared.
+If you can’t beat the fear, do it scared.
 
 ---
 
-If we're controlled by fear, we're in the mode of ignorance.
+If we’re controlled by fear, we’re in the mode of ignorance.
 
 ---
 
@@ -56,7 +56,7 @@ If we're controlled by fear, we're in the mode of ignorance.
 # Naval Ravikant
 
 * _“90% of our thoughts are fear-based. 10% of our thoughts are [desire](The%20absence%20of%20desire%20is%20true%20happiness.md)-based.”_
-* _“I think it's not we fear [death](death.md). It's we fear not [living the life that we want](How%20to%20live%20a%20life.md). And I think the easiest way to get out of that is to [start living the life you want](intentional-living.md) [now](live-in-the-present.md), not putting/frittering it off.”_
+* _“I think it’s not we fear [death](death.md). It’s we fear not [living the life that we want](How%20to%20live%20a%20life.md). And I think the easiest way to get out of that is to [start living the life you want](intentional-living.md) [now](live-in-the-present.md), not putting/frittering it off.”_
 	* This will make you feel that life is long, and you will be less afraid of [dying](death.md).
 
 ---
@@ -81,7 +81,7 @@ _Becoming the Ocean_ – A Poem by Khalil Gibram
 >
 > _To go back is impossible in existence._
 >
-> _**The river needs to take the risk of entering the ocean because only then will fear disappear because that's where the river will know it's not about disappearing into the ocean, but of becoming the ocean.**_
+> _**The river needs to take the risk of entering the ocean because only then will fear disappear because that’s where the river will know it’s not about disappearing into the ocean, but of becoming the ocean.**_
 
 ---
 
