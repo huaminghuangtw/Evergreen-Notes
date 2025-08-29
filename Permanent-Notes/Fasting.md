@@ -1,7 +1,7 @@
 ---
 title: Fasting
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:29
+modified: 2025-08-29T08:30:46
 ---
 
 日本生物學家大隅良典 (Yoshinori Ohsumi) 因為在細胞自噬 ([Autophagy](https://www.google.com/search?q=Autophagy)) 領域的卓越研究，於 2016 年獲得諾貝爾醫學獎
@@ -28,7 +28,7 @@ How to determine if something breaks the fast?
 
 Wear a continuous glucose monitor and inject little bits of food of different kinds, or large amounts of food of different kinds, and measure the blood glucose level.
 
-The world's largest fasting study published in 2019 [@xieRandomizedControlledTrial2022]
+The world’s largest fasting study published in 2019 [@xieRandomizedControlledTrial2022]
 
 **Different Types of Fasting**
 * Modified Therapeutic Fasting (such as Buchinger Fasting): involves consuming low-calorie liquids like juice and vegetable broth
