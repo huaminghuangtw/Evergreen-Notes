@@ -1,7 +1,7 @@
 ---
 title: How to Make Your Own Energy Bars
 created: 2025-05-03T05:29:44
-modified: 2025-08-27T04:58:26
+modified: 2025-08-29T08:30:45
 ---
 
 ≈ Energy/Power Balls
@@ -38,7 +38,7 @@ modified: 2025-08-27T04:58:26
 ## Steps
 
 1. Use a rice cooker if you have one. Boil the rice, water, coconut oil, cinnamon, and coconut sugar. Let it boil until all of the water has been absorbed.
-2. Fold the cream cheese into the rice while it's still warm.
+2. Fold the cream cheese into the rice while it’s still warm.
 3. Mix in the agave nectar and blend thoroughly.
 4. Pour into a three-liter plastic bag with a zip lock. Flatten the bag and leave in the fridge overnight to let it cool.
 5. Take the bag out of the fridge and cut/slice the rice mix into 5 cm × 5 cm squares. Wrap the squares in aluminum foil.
