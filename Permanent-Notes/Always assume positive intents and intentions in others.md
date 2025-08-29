@@ -1,7 +1,7 @@
 ---
 title: Always assume positive intents and intentions in others
 created: 2024-12-08T00:59:27
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:46
 ---
 
 > _“Those who look for the bad in people will surely find it.” — Abraham Lincoln*
@@ -16,7 +16,7 @@ API (Assuming Positive Intent)
 
 ---
 
-When assessing someone's actions, we shouldn't assume that they acted out of a desire to cause harm _if there's a reasonable alternative explanation—different beliefs, lack of intelligence, incompetence, or [ignorance](Have%20the%20courage%20to%20do%20the%20right%20things.md)_.
+When assessing someone’s actions, we shouldn’t assume that they acted out of a desire to cause harm _if there’s a reasonable alternative explanation—different beliefs, lack of intelligence, incompetence, or [ignorance](Have%20the%20courage%20to%20do%20the%20right%20things.md)_.
 
 ---
 
@@ -24,7 +24,7 @@ When lacking all the facts, assume the best in others.
 
 ---
 
-Imagine you're walking along a road and see a dog growling and barking furiously. “What a mean and vicious dog!” you think. But as you get closer, you notice its leg is caught in a trap, torn and bleeding. In an instant, your anger turns to compassion, and all you want is to help.
+Imagine you’re walking along a road and see a dog growling and barking furiously. “What a mean and vicious dog!” you think. But as you get closer, you notice its leg is caught in a trap, torn and bleeding. In an instant, your anger turns to compassion, and all you want is to help.
 
 ---
 
