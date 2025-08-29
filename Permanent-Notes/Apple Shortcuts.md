@@ -1,13 +1,13 @@
 ---
 title: Apple Shortcuts
 created: 2024-11-18T10:16:50
-modified: 2025-07-16T21:23:29
+modified: 2025-08-29T08:30:46
 ---
 
 [比較]
 
-  * iOS: Apple's Shortcuts
-  * Android: Google's Action Blocks
+  * iOS: Apple’s Shortcuts
+  * Android: Google’s Action Blocks
 
 Actions
 
@@ -34,8 +34,8 @@ Actions
   * ? “Get Contents of URL” → make webhook calls
   * “Open X-Callback URL” (= [URL\_Schemes](URL_Schemes.md))
 	* Allow you to go beyond “Open App” in Shortcuts
-	* They are helpful in the Shortcuts app when the App itself doesn't have any Shortcut Actions support available by default
-	* **Tip:** If you'd like to run one shortcut from another shortcut, use the `Run Shortcut` action instead of a URL scheme. You should only run shortcuts with a URL if you're integrating from another app outside of Shortcuts
+	* They are helpful in the Shortcuts app when the App itself doesn’t have any Shortcut Actions support available by default
+	* **Tip:** If you’d like to run one shortcut from another shortcut, use the `Run Shortcut` action instead of a URL scheme. You should only run shortcuts with a URL if you’re integrating from another app outside of Shortcuts
 	* [Run a shortcut using a URL scheme on iPhone or iPad](https://support.apple.com/en-gb/guide/shortcuts/apd624386f42/ios)
 		* Import Shortcut: `shortcuts://import-shortcut/?url=[url]&name=[name]`
 			* Parameters:
@@ -63,7 +63,7 @@ Actions
 			* `shortcuts://gallery/search?query=[query]`
 	* _Run Shortcut_ v.s _URL Scheme_
 		* Difference
-			* _URL Scheme_ requires to open the Shortcuts app, while _Run Shortcut_ doesn't.
+			* _URL Scheme_ requires to open the Shortcuts app, while _Run Shortcut_ doesn’t.
 		* Command-line version of `shortcuts://run-shortcut` from Terminal ([Run Shortcuts from the command line](https://sixcolors.com/post/2021/12/run-shortcuts-from-the-mac-command-line/))
 			* Run Shell Script
 				* Select shell as `bin/bash`
@@ -88,14 +88,14 @@ Actions
 [比較]
 
 * `Open X-Callback URL`: If your Shortcut has to wait for response
-* `Open URLs`: If your Shortcut doesn't have to wait for response
+* `Open URLs`: If your Shortcut doesn’t have to wait for response
 
 Troubleshooting Tips
 
   * Magic variables
   * Time limitation: a running shortcut will only stay active for a short period of time (around 3 mins) when you are away from the Shortcuts application
   * 如何透過 Siri 呼叫 “Ask for Input” (not just “Dictate Text”) 指令? Add “Dismiss Siri and Continue” in the very beginning
-  * “Export for Pushcut” Can't Be Opened: Since iOS 13 any shortcut from an external link is considered “untrusted” by Apple. If you get this error, please go to Settings -> Shortcuts and check Allow Untrusted Shortcuts. You only need to do this once.
+  * “Export for Pushcut” Can’t Be Opened: Since iOS 13 any shortcut from an external link is considered “untrusted” by Apple. If you get this error, please go to Settings -> Shortcuts and check Allow Untrusted Shortcuts. You only need to do this once.
 
 Use “Get Images from Input” action to get Shortcut icon
 
@@ -116,9 +116,9 @@ Use “Get Images from Input” action to get Shortcut icon
 
 What do iCloud Shortcut share links actually link to?
 
-* It's a link to a point-in-time snapshot at the time you shared it. Any further changes you make will not be reflected in that link.
-* It's permanent, so make a copy and remove the personal information before sharing.
-* It presumably gets uploaded to the generic iCloud server that doesn't belong to anyone's account, along with some metadata. Although it's still tied to your account (and that's why you're able to stop sharing at any time), no one sees the account info from the shortcut. You can check the metadata by inserting `/api/records/` to the iCloud URL → Change the url part from “icloud.com/shortcuts/\<identifier\>” to “icloud.com/shortcuts/api/records/\<identifier\>”, then you could access a dictionary including a download url.
+* It’s a link to a point-in-time snapshot at the time you shared it. Any further changes you make will not be reflected in that link.
+* It’s permanent, so make a copy and remove the personal information before sharing.
+* It presumably gets uploaded to the generic iCloud server that doesn’t belong to anyone’s account, along with some metadata. Although it’s still tied to your account (and that’s why you’re able to stop sharing at any time), no one sees the account info from the shortcut. You can check the metadata by inserting `/api/records/` to the iCloud URL → Change the url part from “icloud.com/shortcuts/\<identifier\>” to “icloud.com/shortcuts/api/records/\<identifier\>”, then you could access a dictionary including a download url.
 
 ---
 
