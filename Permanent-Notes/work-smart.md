@@ -1,10 +1,10 @@
 ---
 title: Work smart
 created: 2025-01-23T10:40:57
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:45
 ---
 
-> _“You're more likely to unlock a big leap in performance by trying differently than by trying harder. You might be able to work 10% harder, but a different approach might work 10x better. Remain focused on the core problem, but explore a new line of attack. Persistence is not just about effort, but also strategy. Don't merely try harder, try differently.” — James Clear_
+> _“You’re more likely to unlock a big leap in performance by trying differently than by trying harder. You might be able to work 10% harder, but a different approach might work 10x better. Remain focused on the core problem, but explore a new line of attack. Persistence is not just about effort, but also strategy. Don’t merely try harder, try differently.” — James Clear_
 
 ---
 
@@ -12,7 +12,7 @@ modified: 2025-08-10T14:28:42
 
 _“The Lizard had the tree in mind when challenging the Dog to a fight.”_
 
-_“You have to [work hard](https://jamesclear.com/3-2-1/december-26-2024) to discover how to [work smart](work-smart.md). You won't know the best solutions until you've made nearly all the mistakes.” — James Clear_ [^1]
+_“You have to [work hard](https://jamesclear.com/3-2-1/december-26-2024) to discover how to [work smart](work-smart.md). You won’t know the best solutions until you’ve made nearly all the mistakes.” — James Clear_ [^1]
 
 Often, strategy outweighs sheer effort.
 
@@ -41,7 +41,7 @@ Never press the “Try/Grind Harder” button. Instead, build a sustainable _[sy
 >
 > The teacher replies, “10 years.”
 >
-> The student, looking impatient, responds, “I want to master it faster than that. I will work harder than anyone else. I will push myself to practice for many hours every single day. I won't rest until I become a master. How long will it take then?”
+> The student, looking impatient, responds, “I want to master it faster than that. I will work harder than anyone else. I will push myself to practice for many hours every single day. I won’t rest until I become a master. How long will it take then?”
 >
 > The teacher considers this new information, smiles, and answers, “20 years.”
 
