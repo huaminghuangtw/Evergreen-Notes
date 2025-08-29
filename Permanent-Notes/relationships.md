@@ -1,20 +1,20 @@
 ---
 title: relationships
 created: 2025-03-12T02:41:12
-modified: 2025-08-26T05:43:15
+modified: 2025-08-29T08:30:45
 ---
 
-> _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other's light.” — James Baldwin_
+> _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
 
-> _“You don't earn loyalty in a day. You earn loyalty day-by-day.” — Jeffrey Gitomer_
+> _“You don’t earn loyalty in a day. You earn loyalty day-by-day.” — Jeffrey Gitomer_
 
-> _“Relationships are mysterious. We doubt the positive qualities in others, seldom the negative. You will say to your partner: do you really love me? Are you sure you love me? You will ask this a dozen times and drive the person nuts. But you never ask: are you really mad at me? Are you sure you're angry? When someone is angry, you don't doubt it for a moment. Yet the reverse should be true. We should doubt the negative in life, and have faith in the positive.” — Christopher Pike, Remember Me_
+> _“Relationships are mysterious. We doubt the positive qualities in others, seldom the negative. You will say to your partner: do you really love me? Are you sure you love me? You will ask this a dozen times and drive the person nuts. But you never ask: are you really mad at me? Are you sure you’re angry? When someone is angry, you don’t doubt it for a moment. Yet the reverse should be true. We should doubt the negative in life, and have faith in the positive.” — Christopher Pike, Remember Me_
 
 > _["We have to recognize that there cannot be relationships unless there is commitment, unless there is loyalty, unless there is love, patience, persistence." — Cornel West, Breaking Bread: Insurgent Black Intellectual Life](https://www.goodreads.com/quotes/234703-we-have-to-recognise-that-there-cannot-be-relationships-unless)_
 
 ---
 
-Time doesn't heal anything when it comes to relationships.
+Time doesn’t heal anything when it comes to relationships.
 
 ---
 
@@ -37,7 +37,7 @@ Ask “_What can I do to be a better \_\_\_ to you?_” (partner, friend, son, e
 
 ---
 
-It's usually better to be nice than right.
+It’s usually better to be nice than right.
 
 ---
 
