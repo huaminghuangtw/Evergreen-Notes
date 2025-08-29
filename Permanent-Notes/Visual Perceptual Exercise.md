@@ -1,7 +1,7 @@
 ---
 title: Visual Perceptual Exercise
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:45
 ---
 
 = Space-Time Bridging = Shift between different time domains [^1]
@@ -11,10 +11,10 @@ This is a useful tool for our nervous system to manage [stress](stress%20and%20a
 Steps
 
 1. Start with eyes closed, focusing on the internal state of body sensations like breathing and heart rate (_Fine/Thin Time Slicing_)
-2. Then eyes open, focusing on the surface of one's body.
+2. Then eyes open, focusing on the surface of one’s body.
 3. Gradually look further into the distance, expanding your perception from near to far, maybe 10 feet away.
 4. Then look at a location off to the horizon. Imagine yourself in a broader context, [like viewing the whole world or the entire globe.](https://en.wikipedia.org/wiki/Overview_effect) (_Coarse/Thick Time Slicing_)
-5. And then back to one's immediate surroundings by closing one's eyes.
+5. And then back to one’s immediate surroundings by closing one’s eyes.
 
 ---
 
@@ -23,7 +23,7 @@ Other tools:
 * Overt Visual Focus
 	* Physically focus your visual attention on a **specific point** (or “**spotlight**”) will help maintain focus during bouts of goal work.
 * Covert Visual Focus
-	* Focus your eyes on one location, such as a pen, but direct your focus elsewhere in the room or location that you're in.
+	* Focus your eyes on one location, such as a pen, but direct your focus elsewhere in the room or location that you’re in.
 
 ---
 
