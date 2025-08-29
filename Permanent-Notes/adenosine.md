@@ -1,7 +1,7 @@
 ---
 title: Adenosine
 created: 2024-11-18T09:18:12
-modified: 2025-07-30T11:40:11
+modified: 2025-08-29T08:30:45
 ---
 
 = 腺苷
@@ -9,7 +9,7 @@ modified: 2025-07-30T11:40:11
 ---
 
 * is a key molecule / neurotransmitter that builds up in your brain during wakefulness and triggers/induces sleepiness.
-* is a byproduct of cellular energy use, accumulates in the brain throughout the day, promoting one's need to sleep as levels rise.
+* is a byproduct of cellular energy use, accumulates in the brain throughout the day, promoting one’s need to sleep as levels rise.
 
 ---
 
