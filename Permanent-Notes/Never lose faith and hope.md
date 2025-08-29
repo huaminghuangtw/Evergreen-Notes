@@ -1,10 +1,10 @@
 ---
 title: Never lose faith and hope
 created: 2024-11-18T09:16:50
-modified: 2025-08-14T05:04:06
+modified: 2025-08-29T08:30:46
 ---
 
-> _“Sometimes life hits you in the head with a brick. Don't lose faith.” — Steve Jobs_
+> _“Sometimes life hits you in the head with a brick. Don’t lose faith.” — Steve Jobs_
 
 > _["Hope is a waking dream." — Aristotle](https://www.goodreads.com/quotes/3987-hope-is-a-waking-dream)_
 
