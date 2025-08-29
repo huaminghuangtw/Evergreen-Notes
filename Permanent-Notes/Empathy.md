@@ -1,12 +1,12 @@
 ---
 title: Empathy
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:46
 ---
 
 > _“I do not ask the wounded person how he feels, I myself become the wounded person.” — Walt Whitman_
 
-> _“It's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.” — Barack Obama_
+> _“It’s important to make sure that we’re talking with each other in a way that heals, not in a way that wounds.” — Barack Obama_
 
 > _[“People have boldness to criticize but not to sensitize.” — Amit Kalantri](https://www.goodreads.com/quotes/1134221-people-have-boldness-to-criticize-but-not-to-sensitize)_
 
