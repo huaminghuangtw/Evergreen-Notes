@@ -1,7 +1,7 @@
 ---
 title: The Daily Blueprint
 created: 2024-11-18T09:16:50
-modified: 2025-07-16T21:23:31
+modified: 2025-08-29T08:30:45
 ---
 
 ==My Daily Habits/Routines/Rituals==
@@ -59,7 +59,7 @@ modified: 2025-07-16T21:23:31
 * 👂 Ear Plug
 * 🪖 The Military Sleep Method
 * 🫁 The 4-7-8 Breathing Technique
-* 🧠 Subconscious Mind Exercise — upon closing your eyes, give your mind an overnight task and don't try to solve it then, e.g., “How might I make an extra $1k each month?”, and brainstorm on this question first thing in the morning before any input.
+* 🧠 Subconscious Mind Exercise — upon closing your eyes, give your mind an overnight task and don’t try to solve it then, e.g., “How might I make an extra $1k each month?”, and brainstorm on this question first thing in the morning before any input.
 
 [^1]: **The Maui Habit:** Kickstart your day with an uplifting statement like, “_Today is going to be a great day._” This small shift can transform your mindset and perspective!
 [^2]: Or: [“Accountability Mirror (問責鏡子)” by David Goggins](https://www.google.com/search?q=accountability+mirror+david+goggins)
