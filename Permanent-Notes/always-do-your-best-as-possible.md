@@ -1,12 +1,12 @@
 ---
 title: Always do your best as possible
 created: 2024-11-18T09:18:12
-modified: 2025-08-02T14:32:03
+modified: 2025-08-29T08:30:45
 ---
 
-> _“If you deliberately plan to be less than you are capable of being, then I warn you that you'll be deeply unhappy for the rest of your life.” — Abraham Maslow_
+> _“If you deliberately plan to be less than you are capable of being, then I warn you that you’ll be deeply unhappy for the rest of your life.” — Abraham Maslow_
 
-> _“Victory is in having done your best. If you've done your best, you've won.” — Billy Bowerman_
+> _“Victory is in having done your best. If you’ve done your best, you’ve won.” — Billy Bowerman_
 
 > _“Whatever you do, strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.” — Benjamin Mays_
 
@@ -31,13 +31,13 @@ To be the best at something, you need to enjoy it…
 
 ---
 
-If you don't try to be the best, you won't even be good.
+If you don’t try to be the best, you won’t even be good.
 
-* It's easier to try to be the best than to try merely to be good.
+* It’s easier to try to be the best than to try merely to be good.
 
 ---
 
-Don't try to be anything, except the best.
+Don’t try to be anything, except the best.
 
 ---
 
