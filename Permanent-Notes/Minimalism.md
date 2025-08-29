@@ -1,7 +1,7 @@
 ---
 title: Minimalism
 created: 2024-11-18T09:18:12
-modified: 2025-08-19T05:11:43
+modified: 2025-08-29T08:30:46
 ---
 
 [@collinsSimplePathWealth2016]
@@ -30,7 +30,7 @@ modified: 2025-08-19T05:11:43
 
 ---
 
-Let's declutter/downsize/simplify!
+Let’s declutter/downsize/simplify!
 
 ---
 
@@ -38,7 +38,7 @@ Let's declutter/downsize/simplify!
 
 ---
 
-What is absolutely necessary \& Get rid of everything I don't need
+What is absolutely necessary \& Get rid of everything I don’t need
 
 * To renounce all but the essentials!
 * Have no excess stuff.
