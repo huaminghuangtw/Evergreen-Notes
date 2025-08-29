@@ -1,12 +1,12 @@
 ---
 title: Slow Down to Speed Up
 created: 2024-12-05T09:05:25
-modified: 2025-08-26T05:29:12
+modified: 2025-08-29T08:30:45
 ---
 
 [@ferriss4hourWorkweekEscape2011]
 
-> _“Slow Dance: Have you ever watched kids, On a merry-go-round? Or listened to the rain, Slapping on the ground? Ever followed a butterfly's erratic flight? Or gazed at the sun into the fading night? You better slow down. Don't dance too fast. Time is short. The music won't last. Do you run through each day, On the fly? When you ask: How are you? Do you hear the reply? When the day is done, do you lie in your bed, With the next hundred chores, Running through your head? You'd better slow down, Don't dance too fast. Time is short, The music won't last. Ever told your child we'll do it tomorrow? And in your haste, Not see his sorrow? Ever lost touch, Let a good friendship die, Cause you never had time, To call and say Hi? You'd better slow down. Don't dance so fast. Time is short. The music won't last. When you run so fast to get somewhere, You miss half the fun of getting there. When you worry and hurry through your day, It is like an unopened gift thrown away. Life is not a race. Do take it slower. Hear the music, Before the song is over.” ― Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
+> _“Slow Dance: Have you ever watched kids, On a merry-go-round? Or listened to the rain, Slapping on the ground? Ever followed a butterfly’s erratic flight? Or gazed at the sun into the fading night? You better slow down. Don’t dance too fast. Time is short. The music won’t last. Do you run through each day, On the fly? When you ask: How are you? Do you hear the reply? When the day is done, do you lie in your bed, With the next hundred chores, Running through your head? You’d better slow down, Don’t dance too fast. Time is short, The music won’t last. Ever told your child we’ll do it tomorrow? And in your haste, Not see his sorrow? Ever lost touch, Let a good friendship die, Cause you never had time, To call and say Hi? You’d better slow down. Don’t dance so fast. Time is short. The music won’t last. When you run so fast to get somewhere, You miss half the fun of getting there. When you worry and hurry through your day, It is like an unopened gift thrown away. Life is not a race. Do take it slower. Hear the music, Before the song is over.” ― Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
 
 > _“Rushing had become so much of a habit that I was amazed at the amount of concentration it took to work slowly on purpose.” ― Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)_
 
@@ -22,11 +22,11 @@ modified: 2025-08-26T05:29:12
 
 ---
 
-If you don't have time to do it twice, you don't have time to do it fast.
+If you don’t have time to do it twice, you don’t have time to do it fast.
 
 ---
 
-There's never enough time to do it right but there's plenty of time to do it over.
+There’s never enough time to do it right but there’s plenty of time to do it over.
 
 ---
 
@@ -50,7 +50,7 @@ One step back for two steps forward.
 
 * Refuse to feel rushed (or in a hurry). Rushing causes errors. Errors cause setbacks. Setbacks cause delays.
 	* Rushing sacrifices quality for speed and leaves you rebuilding later.
-	* It's better to climb slowly up the right mountain than fast up the wrong one.
+	* It’s better to climb slowly up the right mountain than fast up the wrong one.
 * Remember: You have all the time in the world you give yourself!
 * Think about a 45-minute versus 43-minute bike ride (No difference actually…)
 * 如同「開車」，讓日常生活中的每一個瞬間都保持在「專注，但放鬆柔和」的狀態 [^1] [^2]，建立 [心流狀態](flow-state.md) 中，那種如行雲流水般的節奏感。
@@ -60,7 +60,7 @@ One step back for two steps forward.
 Move slow to move fast.
 
 * Wanna go fast? Try slowing down.
-* If you slow down, you'll speed up.
+* If you slow down, you’ll speed up.
 
 ---
 
@@ -76,7 +76,7 @@ The strongest things are built one brick at a time — not in bursts of speed, b
 
 In a world obsessed with shortcuts, endurance is a superpower.
 
-Once you've done that, that's when you can go fast.
+Once you’ve done that, that’s when you can go fast.
 
 ---
 
@@ -93,7 +93,7 @@ Once you've done that, that's when you can go fast.
 
 * [Every single day, chop wood, carry water](every-single-day-chop-wood-carry-waters.md)
 * [Slackness](slackness.md)
-* [Wu Wui](Wu%20Wui.md)
+* [Wu Wei](wu-wei.md)
 * [A man who is a master of patience is master of everything else](a-man-who-is-a-master-of-patience-is-master-of-everything-else.md)
 
 [^1]: 柔中帶剛 (Strength in softness)
