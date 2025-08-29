@@ -1,7 +1,7 @@
 ---
 title: Discipline equals freedom
 created: 2024-11-18T09:18:12
-modified: 2025-07-26T11:31:38
+modified: 2025-08-29T08:30:45
 ---
 
 > _[“Discipline is doing what you hate to do, but nonetheless doing it like you love it.” — Mike Tyson](https://x.com/MikeTyson/status/1051925919710027777)_
@@ -16,7 +16,7 @@ Discipline is about what you do on the days when you feel like crap.
 
 ---
 
-Discipline is the highest form of [self-love](Self-compassion.md). It's choosing short-term pain over long-term gain. Its loving yourself enough to not trade what you want most for what you want now.
+Discipline is the highest form of [self-love](Self-compassion.md). It’s choosing short-term pain over long-term gain. Its loving yourself enough to not trade what you want most for what you want now.
 
 ---
 
@@ -50,7 +50,7 @@ Winners are not people who never _fail_, but people who never _quit_. Remember: 
 
 # The One-second Decision By David Goggins
 
-> _When you are doing something hard in life, you are making a second by second decision to keep going. If you lose one of those seconds, you've lost. Each second is an opportunity to keep going or to quit._
+> _When you are doing something hard in life, you are making a second by second decision to keep going. If you lose one of those seconds, you’ve lost. Each second is an opportunity to keep going or to quit._
 
 ---
 
