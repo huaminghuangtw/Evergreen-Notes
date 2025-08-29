@@ -1,7 +1,7 @@
 ---
 title: Low Information Diet
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:46
 ---
 
 > _“The art of not reading is a very important one. It consists in not taking an interest in whatever may be engaging the attention of the general public at any particular time. When some political or ecclesiastical pamphlet, or novel, or poem is making a great commotion, you should remember that he who writes for fools always finds a large public. A precondition for reading good books is not reading bad ones: for life is short.” — Arthur Schopenhauer_
@@ -14,7 +14,7 @@ modified: 2025-08-10T14:28:42
 
 (Social) Media Fast
 
-Your diet isn't just about what you eat (the food you put into your body), but also what you read, watch, listen to (the information you take in), as well as who you follow on social platforms \& the friends you hang around. Your digital environment shapes your thinking just as much (if not more) than your physical environment.
+Your diet isn’t just about what you eat (the food you put into your body), but also what you read, watch, listen to (the information you take in), as well as who you follow on social platforms \& the friends you hang around. Your digital environment shapes your thinking just as much (if not more) than your physical environment.
 
 Cull Your [Social Media](Quit%20social%20media.md) Feed
 
@@ -22,7 +22,7 @@ Cull Your [Social Media](Quit%20social%20media.md) Feed
 
 [The quality of your thoughts is determined by the quality of your reading. Spend more time thinking about the inputs.](https://jamesclear.com/3-2-1/march-6-2025)
 
-You're only as smart as the information you consume.
+You’re only as smart as the information you consume.
 
 What digital content we consume is as important as what we eat.
 
