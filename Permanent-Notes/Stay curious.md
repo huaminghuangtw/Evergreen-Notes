@@ -1,7 +1,7 @@
 ---
 title: Stay curious
 created: 2024-11-18T09:18:12
-modified: 2025-08-25T06:23:51
+modified: 2025-08-29T08:30:45
 ---
 
 > _“The cure for boredom is curiosity. There is no cure for curiosity.” — Dorothy Parker_
@@ -10,7 +10,7 @@ modified: 2025-08-25T06:23:51
 
 > _“Curiosity is the engine of achievement.” — Sir Ken Robinso_
 
-> _“If you don't know it, it's because you aren't interested in it.” — Naval Ravikant_
+> _“If you don’t know it, it’s because you aren’t interested in it.” — Naval Ravikant_
 
 > _“There are no uninteresting things, only uninterested people.” — Gilbert Chesterton_
 
