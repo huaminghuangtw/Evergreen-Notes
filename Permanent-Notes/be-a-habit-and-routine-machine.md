@@ -1,7 +1,7 @@
 ---
 title: Be a habit and routine machine
 created: 2024-11-18T09:18:12
-modified: 2025-07-31T19:18:35
+modified: 2025-08-29T08:30:45
 ---
 
 > _“We are what we repeatedly do every day. Excellence, then, is not an act, but a habit.” — Will Durant_
@@ -16,7 +16,7 @@ modified: 2025-07-31T19:18:35
 
 [@curreyDailyRitualsHow2013]
 
-> _“The repetition itself becomes the important thing; it's a form of mesmerism. I mesmerize myself to reach a deeper state of mind.”_
+> _“The repetition itself becomes the important thing; it’s a form of mesmerism. I mesmerize myself to reach a deeper state of mind.”_
 
 > _“Habits and practice are very interrelated. What we practice will become a habit.” ― Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)_
 
@@ -44,7 +44,7 @@ Intention → Action → Practice → Consistency → **Habit** → Simply Who Y
 
 # [The 95% Compliance Rule by Sahil Bloom](https://x.com/SahilBloom/status/1832407335303835752)
 
-Focus on 95% compliance with any routine. It's high enough to get the benefits of the structure, but leaves room for the 5% chaos where a lot of incredible memories are made.
+Focus on 95% compliance with any routine. It’s high enough to get the benefits of the structure, but leaves room for the 5% chaos where a lot of incredible memories are made.
 
 More often than not (= usually)
 
@@ -54,9 +54,9 @@ More often than not (= usually)
 
 * **Keystone Habits** [@duhiggPowerHabitWhy2014]
 	* Habits that…
-		* set off a chain reaction that extends to all aspects of a person's life
+		* set off a chain reaction that extends to all aspects of a person’s life
 		* lead to a cascade of other habits that are much easier to accomplish
-		* act as an anchor, grounding your boat to the ocean floor so it doesn't get pulled out to sea during a tumultuous storm
+		* act as an anchor, grounding your boat to the ocean floor so it doesn’t get pulled out to sea during a tumultuous storm
 	* 建立一個核心習慣，自然帶動其他好行為
 		* 例如：每天運動 → 睡得更好 → 飲食更健康
 	* [「上游習慣」會順水推舟「下游習慣」](https://podcasts.apple.com/de/podcast/%E9%9B%BB%E6%89%B6%E6%A2%AF%E8%B5%B0%E5%B7%A6%E9%82%8A-with-jacky-left-side-escalator/id1544225078?i=1000679697289)
@@ -65,7 +65,7 @@ More often than not (= usually)
 		* AM Bookend: The morning ritual that primes you for _productivity_
 		* PM Bookend: The evening ritual that primes you for _recovery_
 	* Analogy
-		* Books on a shelf will topple over if you don't give them support. Bookends provide structure on either end to keep the books in their best state! The contents of your days are like a set of books. You can never predict what will happen during the course of a day. Some days will have you toppling left, and other days you'll topple right. But by creating your own set of “bookends”, you set up yourself to be better supported and show up at your best every day.
+		* Books on a shelf will topple over if you don’t give them support. Bookends provide structure on either end to keep the books in their best state! The contents of your days are like a set of books. You can never predict what will happen during the course of a day. Some days will have you toppling left, and other days you’ll topple right. But by creating your own set of “bookends”, you set up yourself to be better supported and show up at your best every day.
 	* Create a [positive ripple effect](The%20Compounding%20Effect.md) and help set the tone for a smooth and productive day.
 * **Micro Habits**
 	* Habit that are small, often subtle actions that occur almost unconsciously, yet they have the potential to significantly influence our state of mind.
@@ -99,14 +99,14 @@ There are 3 ways to break a bad habit.
 
 ---
 
-Golden Rule: Don't resist craving, redirect it; keeping the cue and the reward and just replacing the routine.
+Golden Rule: Don’t resist craving, redirect it; keeping the cue and the reward and just replacing the routine.
 
 ---
 
-“Cold turkey” refers to suddenly and completely stopping a habit or addiction, especially something like smoking, drinking, or drug use, _without tapering off (gradual quitting) or using substitutes._ It's often used when someone decides to quit abruptly, with no gradual reduction or medical aid.
+“Cold turkey” refers to suddenly and completely stopping a habit or addiction, especially something like smoking, drinking, or drug use, _without tapering off (gradual quitting) or using substitutes._ It’s often used when someone decides to quit abruptly, with no gradual reduction or medical aid.
 
   The phrase can also be used metaphorically, like: **“I went cold turkey on social media.”** Meaning the person quit all at once.
 
-  Quitting cold turkey can be effective but also intense, often leading to withdrawal symptoms depending on what's being quit.
+  Quitting cold turkey can be effective but also intense, often leading to withdrawal symptoms depending on what’s being quit.
 
 [^1]: Most people overlook this one. (Mostly neglected)
