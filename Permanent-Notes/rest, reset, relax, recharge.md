@@ -1,14 +1,14 @@
 ---
 title: rest, reset, relax, recharge
 created: 2024-11-18T09:18:12
-modified: 2025-07-31T08:44:12
+modified: 2025-08-29T08:30:45
 ---
 
 > _“Rest until you feel like playing, then play until you feel like resting.” — Martha Beck_
 
-> _“Rest is not idleness, and to lie sometimes on the grass under trees on a summer's day, listening to the murmur of the water, or watching the clouds float across the sky, is by no means a waste of time.” — John Lubbock, The Use of Life ​​_
+> _“Rest is not idleness, and to lie sometimes on the grass under trees on a summer’s day, listening to the murmur of the water, or watching the clouds float across the sky, is by no means a waste of time.” — John Lubbock, The Use of Life ​​_
 
-> _“If you keep interrupting your evening to check and respond to e-mail, or put aside a few hours after dinner to catch up on an approaching deadline, you're robbing your directed attention centers of the uninterrupted rest they need for restoration. Even if these work dashes consume only a small amount of time, they prevent you from reaching the levels of deeper relaxation in which attention restoration can occur. Only the confidence that you're done with work until the next day can convince your brain to downshift to the level where it can begin to recharge for the next day to follow. Put another way, trying to squeeze a little more work out of your evenings might reduce your effectiveness the next day enough that you end up getting less done than if you had instead respected a shutdown.” — [@newportDeepWorkRules2016]_
+> _“If you keep interrupting your evening to check and respond to e-mail, or put aside a few hours after dinner to catch up on an approaching deadline, you’re robbing your directed attention centers of the uninterrupted rest they need for restoration. Even if these work dashes consume only a small amount of time, they prevent you from reaching the levels of deeper relaxation in which attention restoration can occur. Only the confidence that you’re done with work until the next day can convince your brain to downshift to the level where it can begin to recharge for the next day to follow. Put another way, trying to squeeze a little more work out of your evenings might reduce your effectiveness the next day enough that you end up getting less done than if you had instead respected a shutdown.” — [@newportDeepWorkRules2016]_
 
 ---
 
@@ -20,7 +20,7 @@ Structured, deliberate pauses are beneficial, unlike random interruptions that d
 
 ---
 
-It's important to take time to [sharpen the saw](https://sketchplanations.com/sharpen-the-saw).
+It’s important to take time to [sharpen the saw](https://sketchplanations.com/sharpen-the-saw).
 
 # The Two Woodcutters
 
@@ -44,7 +44,7 @@ Build a daily ritual that allows you to _create space to think_ and _wrestle wit
 
 ---
 
-There's a simple formula for identifying the highest leverage relaxation for yourself = Energy produced ÷ Time it takes
+There’s a simple formula for identifying the highest leverage relaxation for yourself = Energy produced ÷ Time it takes
 
 * If rest increases your output per unit of time, then it was productive.
 
@@ -52,8 +52,8 @@ There's a simple formula for identifying the highest leverage relaxation for you
 
 ⭐️ Stop treating rest as a reward and start treating it as a critical/essential part of your high performance routine.
 
-* Breaks aren't a special treat. They're an absolute necessity.
-* Replace the label “relaxing” or “relaxation” with “recovery,” so you don't view it as wasted time. Think of _relaxing_ as _recovery_ because it very much is.
+* Breaks aren’t a special treat. They’re an absolute necessity.
+* Replace the label “relaxing” or “relaxation” with “recovery,” so you don’t view it as wasted time. Think of _relaxing_ as _recovery_ because it very much is.
 
 ---
 
@@ -103,7 +103,7 @@ Properly break in your breaks — no sneaky working.
 
 [Kaffikok](https://sketchplanations.com/kaffikok) is a charming term from the Sámi people of northern Norway, Sweden, and Finland. It combines the words for “coffee” and “boil” to describe the distance/interval between coffee breaks during activities like hiking or traveling. More than just a measure of distance, it reflects the cultural value of taking mindful pauses during journeys to rest, savor the moment, connect with others, and enjoy a warm drink, often prepared communally in nature.
 
-**Fika** is a cherished Swedish tradition of taking a break—usually once or twice a day—to enjoy coffee and a light snack like pastries or sandwiches, often in the company of others. More than just a coffee break, fika emphasizes slowing down, connecting with people, and creating a moment of calm and joy in daily life. It's deeply embedded in Swedish culture, including workplace routines, and reflects values of balance, mindfulness, and community.
+**Fika** is a cherished Swedish tradition of taking a break—usually once or twice a day—to enjoy coffee and a light snack like pastries or sandwiches, often in the company of others. More than just a coffee break, fika emphasizes slowing down, connecting with people, and creating a moment of calm and joy in daily life. It’s deeply embedded in Swedish culture, including workplace routines, and reflects values of balance, mindfulness, and community.
 
 ---
 
@@ -153,7 +153,7 @@ The best way to rest is all about _feeling calm_. Or rather, CALM. Find an activ
 			1. <u>Expected Reward</u>: Children were told they would receive a reward for drawing.
 			2. <u>Unexpected Reward</u>: Children received a reward after drawing, without prior notice.
 			3. <u>No Reward</u>: Children engaged in drawing without any mention of a reward.
-		* Two weeks later, researchers observed the children's free-choice drawing activity. The findings revealed that children in the **expected reward** group showed significantly less interest in drawing compared to the other groups. This suggests that the anticipation of a reward can undermine intrinsic motivation.
+		* Two weeks later, researchers observed the children’s free-choice drawing activity. The findings revealed that children in the **expected reward** group showed significantly less interest in drawing compared to the other groups. This suggests that the anticipation of a reward can undermine intrinsic motivation.
 		* This study underscores the importance of engaging in CALM activities for the sheer enjoyment they provide. Introducing external incentives can shift the focus from intrinsic satisfaction to extrinsic outcomes, potentially diminishing the original joy derived from the activity.
 	* Three strategies for escaping The Passion Paradox:
 		1. Keep play as play.
