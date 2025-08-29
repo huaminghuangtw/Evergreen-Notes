@@ -1,7 +1,7 @@
 ---
 title: Self-compassion
 created: 2025-01-23T10:40:57
-modified: 2025-08-28T07:57:09
+modified: 2025-08-29T15:06:11
 ---
 
 > _“What you deny subdues you. What you accept transforms you.” — Carl Jung_
@@ -12,7 +12,7 @@ modified: 2025-08-28T07:57:09
 
 > _“Instead of shaming your emotions, try to understand what they are telling you.” — Lindsay C. Gibson_
 
-> _“The truth is: Belonging starts with [self-acceptance](Acceptance%20and%20Commitment%20Therapy.md). Your level of belonging, in fact, can never be greater than your level of self-acceptance, because believing that you're enough is what gives you the courage to be authentic, vulnerable and imperfect.” — Brene Brown_
+> _“The truth is: Belonging starts with [self-acceptance](Acceptance%20and%20Commitment%20Therapy.md). Your level of belonging, in fact, can never be greater than your level of self-acceptance, because believing that you’re enough is what gives you the courage to be authentic, vulnerable and imperfect.” — Brene Brown_
 
 > _“If your compassion does not include yourself, it is incomplete.” — Jack Kornfield_
 
@@ -36,7 +36,7 @@ Treat yourself with respect.
 
 ---
 
-To embrace oneself fully, to understand our imperfections, to accept one's truth, and still maintain the desire for growth and change, is to [live a fulfilling life](why-we-exist.md). Forgive yourself. You are a human, not a machine.
+To embrace oneself fully, to understand our imperfections, to accept one’s truth, and still maintain the desire for growth and change, is to [live a fulfilling life](why-we-exist.md). Forgive yourself. You are a human, not a machine.
 
 ---
 
@@ -58,4 +58,4 @@ We just need to tweak the system rather than beating ourselves up.
 
 * [The Reitoff Principle](The%20Reitoff%20Principle.md)
 * [rest, reset, relax, recharge](rest,%20reset,%20relax,%20recharge.md)
-* [Your relationship with yourself sets the tone for every other relationships you have](Your%20relationship%20with%20yourself%20sets%20the%20tone%20for%20every%20other%20relationships%20you%20have.md)
+* [Your relationship with yourself sets the tone for every other relationships you have](your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md)
