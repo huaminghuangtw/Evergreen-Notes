@@ -1,7 +1,7 @@
 ---
 title: Goal Setting
 created: 2025-01-23T10:40:57
-modified: 2025-08-19T04:43:58
+modified: 2025-08-29T08:30:46
 ---
 
 > _“A goal is not always meant to be reached, it often serves simply as something to aim at.” — Bruce Lee_
@@ -48,14 +48,14 @@ modified: 2025-08-19T04:43:58
 
 * Big Goal
 	* These are your big, year-long goals. They should be large and ambitious.
-	* If these big goals don't scare you a little bit, I'd encourage you to think bigger.
+	* If these big goals don’t scare you a little bit, I’d encourage you to think bigger.
 	* The Big Goals are the summit of the mountain—motivating on a macro scale, but too far off and intimidating to be motivating on a micro daily basis.
 * Checkpoint Goals
 	* Work backwards from your Big Goals to formulate a set of Checkpoint Goals.
-	* If the Big Goals are the summit of the mountain, the Checkpoint Goals are the mid-climb campsites. You can't reach the summit without reaching these points, as all paths lead directly through them.
+	* If the Big Goals are the summit of the mountain, the Checkpoint Goals are the mid-climb campsites. You can’t reach the summit without reaching these points, as all paths lead directly through them.
 * Anti Goals
-	* Anti-Goals are the things we don't want to happen on our journey to achieve our Big Goals.
-	* If the Big Goals are your summit, Anti-Goals are the things you don't want to sacrifice while executing the climb—like your life, your toes, or your sanity. You want to reach the summit, but not at the expense of these things.
+	* Anti-Goals are the things we don’t want to happen on our journey to achieve our Big Goals.
+	* If the Big Goals are your summit, Anti-Goals are the things you don’t want to sacrifice while executing the climb—like your life, your toes, or your sanity. You want to reach the summit, but not at the expense of these things.
 	* For example, your Big Goal is to become CEO, but your Anti-Goals may be spending over 300 nights away from your family and allowing your health to suffer from constant travel and stress. You want to achieve the Big Goal, but not if it means having those Anti-Goals become real.
 * Daily Systems
 	* These are the 2-3 daily actions that you need to take to create tangible, compounding forward progress. The simplest daily actions to generate progress in a given arena.
@@ -75,19 +75,19 @@ The Open Window 64 Chart (曼陀羅九宮格)
 
 ## [The Wheel of Life](https://wheeloflife.noomii.com/)
 
-Traditional wisdom treats life's key areas—work, relationships, health, hobbies, etc.—as _On-Off Switches._ It suggests you can only have one or two “on” at a time, leaving the rest “off.”
+Traditional wisdom treats life’s key areas—work, relationships, health, hobbies, etc.—as _On-Off Switches._ It suggests you can only have one or two “on” at a time, leaving the rest “off.”
 
 The problem with this mindset is that, if one stays off too long, it may never turn back on:
 
-* If you don't invest in your relationships in your 20s and 30s, you won't have them in your 40s
-* If you don't invest in your health in your 40s and 50s, you won't have it in your 60s
-* If you don't take care of your mind in your 60s and 70s, you won't have it in your 80s
+* If you don’t invest in your relationships in your 20s and 30s, you won’t have them in your 40s
+* If you don’t invest in your health in your 40s and 50s, you won’t have it in your 60s
+* If you don’t take care of your mind in your 60s and 70s, you won’t have it in your 80s
 
 The new mindset: Each area of your life exists on a _Dimmer Switch_. [^4][@bloom5TypesWealth2025]
 
 Rather than shutting areas down completely, you adjust them like “dials”. At different seasons of life, some get higher level of “brightness” while others dim, but nothing is left in total “darkness”.
 
-The key in life is to find the balance, and balance isn't about perfection. Pour your energy into all spokes (areas) of your life wheel_, even if only a little._ Neglecting one for too long might give you a bumpy ride, but giving them all some love will help you to cruise smoothly toward your goals. This dynamic approach helps you maintain harmony, where all areas of your life work together.
+The key in life is to find the balance, and balance isn’t about perfection. Pour your energy into all spokes (areas) of your life wheel_, even if only a little._ Neglecting one for too long might give you a bumpy ride, but giving them all some love will help you to cruise smoothly toward your goals. This dynamic approach helps you maintain harmony, where all areas of your life work together.
 
 ![](../_attachments/f3a9f4c4007bda7d81cc2c54610a0513.png)
 
@@ -95,7 +95,7 @@ The key in life is to find the balance, and balance isn't about perfection. Pour
 
 ---
 
-# Don't Just Set Goals. Set These Things As Well.
+# Don’t Just Set Goals. Set These Things As Well.
 
 * Intentions
 	* Goals are specific _achievements you set for the future_. They have a natural endpoint. Intentions, on the other hand, are _attitudes for the present_. They guide your thoughts and actions in each moment. Intention creates reality.
@@ -104,7 +104,7 @@ The key in life is to find the balance, and balance isn't about perfection. Pour
 
 ---
 
-# Warren Buffett's [The 5-25 Rule](the-5-25-rule.md)
+# Warren Buffett’s [The 5-25 Rule](the-5-25-rule.md)
 
 ---
 
