@@ -1,13 +1,13 @@
 ---
 title: Specific Knowledge
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:45
 ---
 
 It is found by pursuing your genuine curiosity on [multiple skillsets](specialization-is-for-insects.md).
 
-* It's hard to become the top 1% in any field, but it's a lot easier to _combine/stack two (or more) skills_ where you're in the top 25% of each.
-* [Diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns) suggest that you don't need to excel in every foundational skill; you just need to reach a sufficient level of competence in each one.
+* It’s hard to become the top 1% in any field, but it’s a lot easier to _combine/stack two (or more) skills_ where you’re in the top 25% of each.
+* [Diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns) suggest that you don’t need to excel in every foundational skill; you just need to reach a sufficient level of competence in each one.
 
 [It should feel like _play_ to you, but _work_ for others.](https://x.com/naval/status/1337144251403014144)
 
