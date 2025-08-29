@@ -1,10 +1,10 @@
 ---
 title: An Ideal Day In Life
 created: 2024-11-18T09:16:50
-modified: 2025-07-16T21:23:29
+modified: 2025-08-29T08:30:46
 ---
 
-Let's say you woke up 10 years from now and were living your ideal life in the future.
+Let’s say you woke up 10 years from now and were living your ideal life in the future.
 
 What does your life look like? What are you doing? Where are you living? Who are you living with? What are you reading? What are you making? What excites you? How is your health/relationships?
 
@@ -12,8 +12,8 @@ What does your entire day look like? Start from the minute you wake up, brush yo
 
 Dream big, without any fear of failure. Write as if you could do anything you want. Write like there is no tomorrow. Write like your life depends on it because it does. Write it all down.
 
-You don't have to share it with anyone other than yourself. Put all your heart into it.
+You don’t have to share it with anyone other than yourself. Put all your heart into it.
 
 And then read it once a year, and see what happens.
 
-It's magic.
+It’s magic.
