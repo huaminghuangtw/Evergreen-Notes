@@ -1,7 +1,7 @@
 ---
 title: Work hard
 created: 2024-11-18T09:16:50
-modified: 2025-08-25T05:56:59
+modified: 2025-08-29T08:30:45
 ---
 
 > _“Without ambition one starts nothing. Without work one finishes nothing. The prize will not be sent to you. You have to win it.” — Ralph Waldo Emerson_
@@ -16,11 +16,11 @@ modified: 2025-08-25T05:56:59
 
 ---
 
-Working hard for something we don't care about is called **stress**. Working hard for something we love is called **passion**.
+Working hard for something we don’t care about is called **stress**. Working hard for something we love is called **passion**.
 
 ---
 
- Assiduity: Sit down and do it until it's done.
+ Assiduity: Sit down and do it until it’s done.
 
 ---
 
