@@ -1,7 +1,7 @@
 ---
-title: Parkinson's Law
+title: Parkinson’s Law
 created: 2025-01-23T10:40:57
-modified: 2025-08-28T15:02:12
+modified: 2025-08-29T08:03:14
 ---
 
 ![](../_attachments/3cae3b161fe3ae13dcc2ba6fadeceb34.png)
@@ -25,4 +25,4 @@ Enforcing constraint such as time limits, creates a sense of urgency that helps 
 * Stuff expands to fill the available space
 * Cost expands to fill the available budget
 
-[^1]: If failing to do a task by a certain date has serious repercussions, then it should have a “_due date (hard deadline)_”. Otherwise, it shouldn't.
+[^1]: If failing to do a task by a certain date has serious repercussions, then it should have a “_due date (hard deadline)_”. Otherwise, it shouldn’t.
