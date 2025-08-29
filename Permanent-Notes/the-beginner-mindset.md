@@ -1,10 +1,10 @@
 ---
 title: The Beginner Mindset
 created: 2024-11-18T09:18:12
-modified: 2025-08-25T06:28:16
+modified: 2025-08-29T08:30:45
 ---
 
-> _“It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so.” ― Mark Twain_
+> _“It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” ― Mark Twain_
 
 > _“I am always doing that which I cannot do, in order that I may learn how to do it.” — Pablo Picasso_
 
@@ -12,7 +12,7 @@ modified: 2025-08-25T06:28:16
 
 > _“Every act of conscious [learning](learning-is-the-single-best-investment-that-you-can-make-for-your-time.md) requires the willingness to suffer an [injury to one's self-esteem](abandon-your-ego.md). That is why young children, before they are aware of their own self-importance, learn so easily; and why older persons, especially if vain or important, cannot learn at all.” — Thomas Szasz_
 
-> _“You can't be content with mastery; you have to push yourself to become a student again.” — [@kleonShowYourWork2014]_
+> _“You can’t be content with mastery; you have to push yourself to become a student again.” — [@kleonShowYourWork2014]_
 
 ---
 
@@ -24,13 +24,13 @@ Be brave enough to suck at something new.
 
 ---
 
-Admitting that you don't have all the answers. Normalize the awkwardness of saying:
+Admitting that you don’t have all the answers. Normalize the awkwardness of saying:
 
-* “I don't know.”
+* “I don’t know.”
 * “This sounds really hard.”
-* “I don't have enough information to have an opinion on that.”
+* “I don’t have enough information to have an opinion on that.”
 
-It's perfectly reasonable.
+It’s perfectly reasonable.
 
 ---
 
@@ -42,7 +42,7 @@ It's perfectly reasonable.
 
 忽視或無知的代價往往極其高昂。唯有持續保持對新事物的 [好奇心](Stay%20curious.md)，才能不斷突破固有的「認知邊界」，開拓更廣闊的視野與可能性。
 
-You don't know what you don't know, the _unknown unknowns_.
+You don’t know what you don’t know, the _unknown unknowns_.
 
 ---
 
@@ -71,11 +71,11 @@ Naivety (= naiveness = naïveté)
 >
 > One day, a scholar arrived, eager for advice. “I wish to learn about Zen,” he told the master.
 >
-> However, the scholar couldn't stop talking about his own thoughts and knowledge. He kept interrupting the master, sharing his own ideas and not paying attention to what the master had to say. The master remained calm and suggested they have tea.
+> However, the scholar couldn’t stop talking about his own thoughts and knowledge. He kept interrupting the master, sharing his own ideas and not paying attention to what the master had to say. The master remained calm and suggested they have tea.
 >
-> The master began pouring tea into the scholar's cup. As the cup filled, the master continued pouring, causing the tea to spill onto the table, the floor, and finally onto the scholar's clothing. Shocked, the scholar exclaimed, “Stop! The cup is overflowing! It can't hold any more.”
+> The master began pouring tea into the scholar’s cup. As the cup filled, the master continued pouring, causing the tea to spill onto the table, the floor, and finally onto the scholar’s clothing. Shocked, the scholar exclaimed, “Stop! The cup is overflowing! It can’t hold any more.”
 >
-> The master smiled and said, “Just like this cup, you are filled with your own thoughts. There's no room for anything new. Come back when your cup is empty.”
+> The master smiled and said, “Just like this cup, you are filled with your own thoughts. There’s no room for anything new. Come back when your cup is empty.”
 
 ---
 
