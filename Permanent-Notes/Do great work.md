@@ -1,7 +1,7 @@
 ---
 title: Do great work
 created: 2024-11-18T09:18:12
-modified: 2025-07-25T14:06:51
+modified: 2025-08-29T08:30:46
 ---
 
 > _“Good is the enemy of great.” — [@collinsGoodGreatWhy2001]_
@@ -10,7 +10,7 @@ modified: 2025-07-25T14:06:51
 
 > _“Quality is more important than quantity. One home run is better than two doubles.” — Steve Jobs_
 
-> _“Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. […] You've got to find what you love.” — Steve Jobs_
+> _“Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. […] You’ve got to find what you love.” — Steve Jobs_
 
 > _“To seek greatness is the only righteous vengeance.” — Criss Jami_
 
@@ -24,7 +24,7 @@ modified: 2025-07-25T14:06:51
 
 [“Here’s how to live: Master something.” by Derek Sivers](https://sive.rs/htl08)
 
-> _Pick one thing and spend the rest of your life getting deeper into it. Mastery is the best goal because the rich can't buy it, the [impatient](a-man-who-is-a-master-of-patience-is-master-of-everything-else.md) can't rush it, the privileged can't inherit it, and nobody can steal it. You can only earn it through hard work. Mastery is the ultimate status._
+> _Pick one thing and spend the rest of your life getting deeper into it. Mastery is the best goal because the rich can’t buy it, the [impatient](a-man-who-is-a-master-of-patience-is-master-of-everything-else.md) can’t rush it, the privileged can’t inherit it, and nobody can steal it. You can only earn it through hard work. Mastery is the ultimate status._
 
 ---
 
@@ -58,7 +58,7 @@ Cultivating infinite devotion with internal drive is the prerequisite for becomi
 
 ---
 
-If it's worth doing, it's worth doing very well.
+If it’s worth doing, it’s worth doing very well.
 
 ---
 
