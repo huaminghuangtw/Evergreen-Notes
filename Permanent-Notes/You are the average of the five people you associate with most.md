@@ -1,14 +1,14 @@
 ---
 title: You are the average of the five people you associate with most
 created: 2024-11-18T09:18:12
-modified: 2025-08-27T05:01:52
+modified: 2025-08-29T08:30:45
 ---
 
 > _“If you are wondering who your people are, they are the ones who make your heart feel seen and your nervous system feel calm.” — Yung Pueblo_
 
 > _“The closer you want to get to me, the better your values have to be” — Navel Ravikant_
 
-> _“If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly.” — Steve Maraboli_
+> _“If you hang out with chickens, you’re going to cluck and if you hang out with eagles, you’re going to fly.” — Steve Maraboli_
 
 > _[“Everyone you meet is a part of your journey, but not all of them are meant to stay in your life. Some people are just passing through to bring you gifts; either they're blessings or lessons.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7929987-everyone-you-meet-is-a-part-of-your-journey-but)_ [^1]
 
@@ -43,7 +43,7 @@ A person is either _holding you back_ (like boat anchors) or _pushing/driving yo
 Three types of people in your life (by Tyler Perry):
 
 * <u>Leaves</u>: These are the people that are only around from time to time (every now and then) when the weather is good. They blow around as the winds change. They provide shade during the summer, but as soon as winter comes, they fall off the tree and disappear.
-* <u>Branches</u>: These are the people who are more present and stable than the leaves, but they aren't permanent. They look strong, but if you try to stand on them or pull yourself up from them, they may break under your weight.
+* <u>Branches</u>: These are the people who are more present and stable than the leaves, but they aren’t permanent. They look strong, but if you try to stand on them or pull yourself up from them, they may break under your weight.
 * <u>Roots</u>: These are the people who are permanent. They are deep and wide. They are there in the summer and the winter, they are unperturbed by the changing seasons. The leaves and branches may come and go, but the roots are there forever.
 
 ---
@@ -58,9 +58,9 @@ Surround yourself with 3 types of people:
 
 Surround yourself with people…
 
-* you'd want to spend your last day of life with.
+* you’d want to spend your last day of life with.
 	* Take the time to think about who we would want to spend our “last day” of life with—and then spend “tomorrow” with them.
-	* Don't wait until your “last day” to spend time with the people who truly matter—because you never know when that “last day” will come.
+	* Don’t wait until your “last day” to spend time with the people who truly matter—because you never know when that “last day” will come.
 * who make your eyes light up.
 * who think differently than you.
 
@@ -77,7 +77,7 @@ Find your “Front Row People.”
 
 ---
 
-You have to be very selective with whom you give your _time_, _energy_, and _attention_. Don't fall for the “[Yes Man](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md)” trap. The more successful you become, the more people will want to massage your ego. Cherish the _truth tellers_ in your life.
+You have to be very selective with whom you give your _time_, _energy_, and _attention_. Don’t fall for the “[Yes Man](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md)” trap. The more successful you become, the more people will want to massage your ego. Cherish the _truth tellers_ in your life.
 
 * Most of us need fewer [friends](a-friend-to-all-is-a-friend-to-none.md) and more **_intellectual sparring partners_**. Friends are easy to come by. Intellectual sparring partners are harder to find. They will call you on your BS, question your assumptions, and push you to think deeply. [^3]
 
