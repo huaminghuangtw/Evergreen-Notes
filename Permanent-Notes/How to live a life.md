@@ -1,7 +1,7 @@
 ---
 title: How to live a life
 created: 2024-11-18T09:18:12
-modified: 2025-08-26T14:28:26
+modified: 2025-08-29T08:30:46
 ---
 
 > _“Life is a question and how we live it is our answer.” — [@kellerOneThingSurprisingly2013]_
@@ -10,7 +10,7 @@ modified: 2025-08-26T14:28:26
 
 > _“There are two ways to live: you can live as if nothing is a miracle; you can live as if everything is a miracle.” — Albert Einstein_
 
-> _“There is no magic pill or shortcuts in life. The only shortcut is doing something the right way the first time so that you don't waste any time on the shortcuts.” — Arnold Schwarzenegger_
+> _“There is no magic pill or shortcuts in life. The only shortcut is doing something the right way the first time so that you don’t waste any time on the shortcuts.” — Arnold Schwarzenegger_
 
 > _“Do not stop thinking of life as an adventure.” — Eleanor Roosevelt_
 
@@ -40,7 +40,7 @@ Life is neither a problem to be solved nor a game to be won.
 
 ---
 
-[Life is not a debate—it's not about winning the argument or being right.](https://tim.blog/2018/08/02/ann-miura-ko/) Winning an argument doesn't make you right. Someone might win an argument and still be wrong. Being good at debating is not the same as being right.
+[Life is not a debate—it's not about winning the argument or being right.](https://tim.blog/2018/08/02/ann-miura-ko/) Winning an argument doesn’t make you right. Someone might win an argument and still be wrong. Being good at debating is not the same as being right.
 
 ---
 
@@ -82,6 +82,6 @@ You always have 3 options/choices in any circumstance/situation in life — that
 
 But resisting reality is always the wrong choice / the worst option is sitting around, wishing you would change it but not changing it, or wishing you would leave it but not leaving and not accepting it. This is the struggle that is responsible for most of our misery, [anger](anger.md), and unhappiness.
 
-Life is like a maze. There are two ways to advance your life: [move forward](Just%20getting%20started.md) when you can, or if you can't, step back and try a new way. The biggest mistake is to stand still.
+Life is like a maze. There are two ways to advance your life: [move forward](Just%20getting%20started.md) when you can, or if you can’t, step back and try a new way. The biggest mistake is to stand still.
 
 人生中遇到任何情況，其實只有三種選擇：接受它（改變自己的態度）、改變它，或是離開它。最糟糕的做法，是抗拒現實 — 既不接受、也不改變、也不離開，只停留在抱怨、擔心與掙扎中 — 這就是大部分痛苦的根源。人生就像一座迷宮，能前進時就勇敢前行，走不通時就退一步換條路，但絕不是原地僵住不動。
