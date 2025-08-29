@@ -1,7 +1,7 @@
 ---
 title: How to ask good and right questions
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-08-29T08:30:45
 ---
 
 > _[“One who knows all the answers has not been asked all the questions.” — Confucius](https://www.goodreads.com/quotes/26930-he-who-knows-all-the-answers-has-not-been-asked)_
@@ -28,9 +28,9 @@ The beginner chases the right answer. The master chases the right questions.
 
 帶著答案去問問題 (To avoid [The XY Problem](https://sketchplanations.com/the-xy-problem) [^1])
 
-* Weave what you've learned into an informed question.
+* Weave what you’ve learned into an informed question.
 * Always include information about a broader picture along with any attempted solution.
 
 **Socratic Questioning (The Socratic Method)** is a simple process of asking and answering questions that stimulate critical thinking to expose and vet underlying assumptions and logic.
 
-[^1]: Avoid focusing on the attempted solution, rather than the actual problem. People don't want a faster horse. They want to get to their destination faster.
+[^1]: Avoid focusing on the attempted solution, rather than the actual problem. People don’t want a faster horse. They want to get to their destination faster.
