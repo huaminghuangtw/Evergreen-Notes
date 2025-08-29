@@ -1,10 +1,10 @@
 ---
 title: The Ship of Theseus
 created: 2025-02-06T04:52:16
-modified: 2025-08-15T14:17:07
+modified: 2025-08-29T08:30:45
 ---
 
-aka _**Theseus's Paradox 船舶悖論**_
+aka _**Theseus’s Paradox 船舶悖論**_
 
 is a thought experiment and paradox about whether an object is the same object after having all of its original components replaced over time, typically one after the other.
 
