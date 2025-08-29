@@ -1,10 +1,10 @@
 ---
 title: attention
 created: 2024-11-18T09:16:50
-modified: 2025-08-12T14:57:50
+modified: 2025-08-29T08:30:45
 ---
 
-Everyone (and everything) is competing for your attention, use it wisely, you don't get the [time](Time%20is%20the%20most%20valuable%20asset.md) back! Your [energy](Energy%20Management.md) flows to where your attention goes.
+Everyone (and everything) is competing for your attention, use it wisely, you don’t get the [time](Time%20is%20the%20most%20valuable%20asset.md) back! Your [energy](Energy%20Management.md) flows to where your attention goes.
 
 ---
 
