@@ -1,7 +1,7 @@
 ---
 title: Frameworks to structure your day
 created: 2025-01-23T18:40:57
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:46
 ---
 
 > _[Live life by design, not default.](https://fs.blog/david-foster-wallace-this-is-water/) Make each day your masterpiece. How you spend your days is how you spend your life._
@@ -13,7 +13,7 @@ modified: 2025-08-10T14:28:42
 * Just as [“constraints” in mathematical optimization](https://en.wikipedia.org/wiki/Constrained_optimization) help find the best solution, design a lifestyle by defining a clear boundary for your ideal day and optimizing within it—_rather than the other way around._ If something pulls you outside that box, simply say, “No, thank you.”
 	* _[“Look for a way of life, not goals. Identify how you want to live, not what you want to achieve. Within that lifestyle, see what you can do to make a living.” — Hunter S. Thompson](https://www.notion.so/beca85a66c624275b80ffb4faae2b44c)_
 	* _“Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.” — Celestine Chua_
-	* _“Don't let making a living prevent you from making a life.” — John Wooden_
+	* _“Don’t let making a living prevent you from making a life.” — John Wooden_
 * [Spend a handful of hours a day going fast. Crush a gym session. Do deep work on a project you care about. Spend the rest of the day going slow. Take walks. Read books. Get a long dinner with friends. Either way, avoid the anxious middle where you never truly relax or truly move forward.](https://x.com/charlesmiller_7/status/1897358851776610720)
 	* See also: [Work in sprints, work with your biology](work-in-sprints-work-with-your-biology.md)
 * Think of life as units of days. Think of a day as units of time.
@@ -26,13 +26,13 @@ modified: 2025-08-10T14:28:42
 		* **Chronos** = sequential, quantitative time
 			* Chronos belongs in the realm of clocks. Chronos marks linear time or duration. Chronos is years, months, days, hours.
 		* **Kairos** = fluctuating, qualitative time
-			* Kairos refers to those moments in time that are more impactful than others—those that stand out from the regular flow of time and become memories we treasured/cherished. It's what makes time feel _slower or even paused._ (<u>Time Dilation</u>)
+			* Kairos refers to those moments in time that are more impactful than others—those that stand out from the regular flow of time and become memories we treasured/cherished. It’s what makes time feel _slower or even paused._ (<u>Time Dilation</u>)
 			* **Seek novelty in the mundane:** Combat the sense that time speeds up by finding newness in daily life, e.g., take different routes or observe your surroundings more closely.
 			* **Story-worthy moments:** Each night, write down (journal) the most “story-worthy” thing that happened during the day. This is an easy way to plant those mental flagpoles and make each day feel a bit more special.
 			* **Inject/Introduce planned spontaneity/memories into your days:**
 				* Do not fall into The Retirement Trap
 
-					> _“Remember the motto: 'Work hard, play hard.' Regard your personal time as just as important as your work time and give as much attention to planning it as you do to planning your work. What are you working for if you don't have a personal life?” ― [@forsterItTomorrowOther2008]_
+					> _“Remember the motto: ‘Work hard, play hard.’ Regard your personal time as just as important as your work time and give as much attention to planning it as you do to planning your work. What are you working for if you don’t have a personal life?” ― [@forsterItTomorrowOther2008]_
 					* Always put non-work commitments in the calendar FIRST, knowing that work will always have a tendency to fill in the gaps.
 					* Block in time for **holidays** and **trips** _first_, rather than letting the calendar fill up with work-stuff by default
 				* Downtime deserves time management too. The time you PLAN to waste is not a waste of time. The time you ENJOY wasting is not a waste of time.
@@ -67,7 +67,7 @@ modified: 2025-08-10T14:28:42
 			* Meetings, admin tasks, etc.
 		* **Quarter 4 (Evening)**
 			* Quality time with family \& friends, self-care, evening routine, etc.
-	* 💡 _Life happens. Sometimes we're on top of the world, other times the world is on top of us. No day is perfect. If you screw up one quarter, just get back on track for / reset to execute the next one. Each quarter is a new opportunity to reset, take control, and refocus your energy. <u>Keep the mistake contained in that quarter, so that you don't lose / write off the entire day, but only that quarter.</u> Lamenting over an interrupted routine won't get you anything worth having. Be like the “bend but don't break” willow tree—even when the storm comes, the willow is tough enough to bend with the blows and not break beneath them. Simple metaphor. Bend don't break. Roll with life chaos/punches. Enjoy the ride. Be ready to [adapt](adaptability.md), often._
+	* 💡 _Life happens. Sometimes we’re on top of the world, other times the world is on top of us. No day is perfect. If you screw up one quarter, just get back on track for / reset to execute the next one. Each quarter is a new opportunity to reset, take control, and refocus your energy. <u>Keep the mistake contained in that quarter, so that you don’t lose / write off the entire day, but only that quarter.</u> Lamenting over an interrupted routine won’t get you anything worth having. Be like the “bend but don’t break” willow tree—even when the storm comes, the willow is tough enough to bend with the blows and not break beneath them. Simple metaphor. Bend don’t break. Roll with life chaos/punches. Enjoy the ride. Be ready to [adapt](adaptability.md), often._
 * Distribute brainpower in a _descending_ order across the day
 * The formula to become a superhuman
 	* 1 really good cup of coffee
@@ -103,4 +103,4 @@ modified: 2025-08-10T14:28:42
 
 * [Always start and end the day right](Always%20start%20and%20end%20the%20day%20right.md)
 
-[^1]: _“Instead of feeling that you've blown the day and thinking, “I'll get back on track tomorrow,” try thinking of each day as a set of four quarters: morning, midday, afternoon, evening. If you blow one quarter, you get back on track for the next quarter. Fail small, not big.” — Gretchen Rubin, Better Than Before_ [@rubinBetterMasteringHabits2015]
+[^1]: _“Instead of feeling that you’ve blown the day and thinking, “I’ll get back on track tomorrow,” try thinking of each day as a set of four quarters: morning, midday, afternoon, evening. If you blow one quarter, you get back on track for the next quarter. Fail small, not big.” — Gretchen Rubin, Better Than Before_ [@rubinBetterMasteringHabits2015]
