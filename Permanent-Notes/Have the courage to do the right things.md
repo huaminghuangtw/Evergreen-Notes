@@ -1,10 +1,10 @@
 ---
 title: Have the courage to do the right things
 created: 2024-12-08T00:37:07
-modified: 2025-07-16T21:23:30
+modified: 2025-08-29T08:30:46
 ---
 
-> _“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.” — Elie Wiesel_
+> _“The opposite of love is not hate, it’s indifference. The opposite of art is not ugliness, it’s indifference. The opposite of faith is not heresy, it’s indifference. And the opposite of life is not death, it’s indifference.” — Elie Wiesel_
 
 > _“There is only one good, knowledge, and one evil, ignorance.” — Socrates_
 
@@ -20,7 +20,7 @@ modified: 2025-07-16T21:23:30
 
 > Darkness is the absence of light. Cold is the absence of heat. Going on with this will make one logically conclude that evil is the absence of good.
 >
-> So, with other words, if you don't do good, nor bad, then it means you are indifferent, which as concluded earlier, falls under the evil category.
+> So, with other words, if you don’t do good, nor bad, then it means you are indifferent, which as concluded earlier, falls under the evil category.
 >
 > In conclusion, the opposite of any positive thing is indifference, while hate, ugliness, heresy, death, etc, are just examples of outcomes of indifference.
 
@@ -34,7 +34,7 @@ Never be a spectator of unfairness or stupidity. [Fight bullshit and bureaucracy
 
 ---
 
-Even if we can't fix everything, we should always speak up and tell others when something is wrong. It's our moral responsibility to say something and stand up for what's right, even if we can't change it all by ourselves.
+Even if we can’t fix everything, we should always speak up and tell others when something is wrong. It’s our moral responsibility to say something and stand up for what’s right, even if we can’t change it all by ourselves.
 
 ---
 
