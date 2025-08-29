@@ -1,12 +1,12 @@
 ---
 title: Comparison is the thief of joy
 created: 2024-11-18T09:18:12
-modified: 2025-08-28T07:56:59
+modified: 2025-08-29T08:30:45
 ---
 
-> _”Don't bother just to be better than your contemporaries or predecessors. Try to be better than yourself.” — William Faulkner_
+> _”Don’t bother just to be better than your contemporaries or predecessors. Try to be better than yourself.” — William Faulkner_
 
-> _“Don't compare your beginning to someone else's middle.” — Jon Acuff_
+> _“Don’t compare your beginning to someone else’s middle.” — Jon Acuff_
 
 ---
 
@@ -25,7 +25,7 @@ Compare yourself…
 
 ---
 
-Stop comparing your day 1 to everyone else's day 1000.
+Stop comparing your day 1 to everyone else’s day 1000.
 
 ---
 
@@ -33,17 +33,17 @@ Stop comparing your day 1 to everyone else's day 1000.
 
 ---
 
-Don't follow the crowd. Run your own race. Free yourself from society's advice, because most of them have no idea what they're doing.
+Don’t follow the crowd. Run your own race. Free yourself from society’s advice, because most of them have no idea what they’re doing.
 
 ---
 
-The best way to diminish your achievement is to compare it to someone else's.
+The best way to diminish your achievement is to compare it to someone else’s.
 
 When you compare yourself with others, or have the desire to be like other people, you [start doing things that aren't aligned with your true self, abandoning your awesome uniqueness](escape-competition-through-authenticity.md), and [engaging in a competitive zero-sum game](The%20Game%20of%20Life.md).
 
 Every ounce of energy you spend comparing yourself to others is an ounce that could have been spent on developing yourself.
 
-The only time you should look in someone else's bowl is to see if they have enough.
+The only time you should look in someone else’s bowl is to see if they have enough.
 
 ---
 
