@@ -1,7 +1,7 @@
 ---
 title: The Intellectual Yet Idiot
 created: 2025-04-12T10:48:27
-modified: 2025-08-06T10:08:00
+modified: 2025-08-29T08:30:45
 ---
 
 [By Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Skin_in_the_Game_(book)#Intellectual_Yet_Idiot)
@@ -20,6 +20,6 @@ The **IYI** is:
 According to Taleb, the IYI:
 
 * Believes in top-down solutions and central planning,
-* Is detached from the consequences of their advice (they don't “have skin in the game”),
-* Can't survive outside a protected environment,
+* Is detached from the consequences of their advice (they don’t “have skin in the game”),
+* Can’t survive outside a protected environment,
 * Dismisses traditional knowledge or the instincts of less-credentialed people.
