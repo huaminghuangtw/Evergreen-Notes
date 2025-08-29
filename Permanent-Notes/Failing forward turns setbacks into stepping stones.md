@@ -1,12 +1,12 @@
 ---
 title: Failing forward turns setbacks into stepping stones
 created: 2024-11-18T09:18:12
-modified: 2025-08-16T15:02:33
+modified: 2025-08-29T08:30:46
 ---
 
 > _“Opportunity often comes disguised in the form of misfortune or temporary defeat.” — Napoleon Hill_
 
-> _“I've missed more than 9,000 shots in my career. I've lost almost 300 games. Twenty-six times I've been trusted to take the game-winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.” — Michael Jordan_
+> _“I’ve missed more than 9,000 shots in my career. I’ve lost almost 300 games. Twenty-six times I’ve been trusted to take the game-winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.” — Michael Jordan_
 
 > _“Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.” — Samuel Beckett_
 
@@ -28,7 +28,7 @@ modified: 2025-08-16T15:02:33
 * _“You must expect failure as part of your journey of success, failure and success go hand in hand, you cannot have one without the other.” — Richard Parkes Cordock_
 * _“When you double your rate of failure you double your rate of success.” — James Swanwick_
 * _[“Legends aren't defined by their success, they're defined by how they bounce back from their failures.” — Chris Bosh](https://www.imdb.com/title/tt21837726/)_
-* Failure is not the opposite of success, it's part of success. Failure is success in progress.
+* Failure is not the opposite of success, it’s part of success. Failure is success in progress.
 * Success comes from turning _setbacks_ into _comebacks_.
 
 ---
