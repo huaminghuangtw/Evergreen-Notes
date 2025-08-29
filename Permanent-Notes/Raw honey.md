@@ -1,12 +1,12 @@
 ---
 title: Raw honey
 created: 2024-11-30T17:38:31
-modified: 2025-07-16T21:23:30
+modified: 2025-08-29T08:30:45
 ---
 
 WHAT IS RAW HONEY?
 
-* Honey that hasn't been filtered, pasteurized (巴氏消毒), or processed.
+* Honey that hasn’t been filtered, pasteurized (巴氏消毒), or processed.
 
 WHY RAW HONEY?
 
