@@ -1,7 +1,7 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2025-08-27T05:01:19
+modified: 2025-08-29T08:30:45
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -14,7 +14,7 @@ modified: 2025-08-27T05:01:19
 
 [@gogginsCantHurtMe2018]
 
-> _“Our culture has become hooked on the quick-fix, the life hack, efficiency. Everyone is on the hunt for that simple action algorithm that nets maximum profit with the least amount of effort. There's no denying this attitude may get you some of the trappings of success, if you're lucky, but it will not lead to a calloused mind or self-mastery. If you want to master the mind and remove your governor, you'll have to become addicted to hard work. Because passion and obsession, even talent, are only useful tools if you have the work ethic to back them up.” _
+> _“Our culture has become hooked on the quick-fix, the life hack, efficiency. Everyone is on the hunt for that simple action algorithm that nets maximum profit with the least amount of effort. There’s no denying this attitude may get you some of the trappings of success, if you’re lucky, but it will not lead to a calloused mind or self-mastery. If you want to master the mind and remove your governor, you’ll have to become addicted to hard work. Because passion and obsession, even talent, are only useful tools if you have the work ethic to back them up.” _
 
 [@leeBeWaterMy2020]
 
@@ -71,7 +71,7 @@ There is a Zen Buddhist saying: “What do you do before enlightenment? _Chop w
 
 # The “Consistently Good Rather Than Occasionally Great” Principle
 
-* Don't aim to be consistently great; aim to be great at being _consistent_.
+* Don’t aim to be consistently great; aim to be great at being _consistent_.
 * Mastery follows consistent/constant work.
 * **Consistency \> Intensity:** Intensity makes a good story. Consistency makes progress.
 
@@ -85,7 +85,7 @@ Continuous effort, not strength or intelligence, is the key to unlocking our pot
 
 ---
 
-Doing a thing once is nothing special. You're only a legend if you can do it back to back to back with thousands of hours of meticulous [preparation](Planning%20and%20preparation%20help%20maximize%20your%20productivity.md).
+Doing a thing once is nothing special. You’re only a legend if you can do it back to back to back with thousands of hours of meticulous [preparation](Planning%20and%20preparation%20help%20maximize%20your%20productivity.md).
 
 ---
 
@@ -105,28 +105,28 @@ Doing a thing once is nothing special. You're only a legend if you can do it bac
 
 EVERYDAY is easier than SOMEDAY. [^3] Embrace the daily mundane activities / ordinary actions. Find the lifelong rhythm.
 
-> _“It's easier to hold your principles 100 percent of the time than it is to hold them 98 percent of the time.” ― Clayton M. Christensen, [How Will You Measure Your Life?](https://www.goodreads.com/work/quotes/18907551)_
+> _“It’s easier to hold your principles 100 percent of the time than it is to hold them 98 percent of the time.” ― Clayton M. Christensen, [How Will You Measure Your Life?](https://www.goodreads.com/work/quotes/18907551)_
 
-* It's easier to _keep up_ than to _catch up_.
-* It's easier to stay _motivated_ when you have _momentums_.
+* It’s easier to _keep up_ than to _catch up_.
+* It’s easier to stay _motivated_ when you have _momentums_.
 
 ---
 
 [恆毅力 (Grit) = perseverance and passion for very long term goals](https://www.youtube.com/watch?v=H14bBuluwB8)
 
 * Perseverance is not a long race; it is many short races one after another.
-* Don't mistake _hustle_ for _grit_. Real grit is [finishing what you start](https://sketchplanations.com/goal-gradient-effect) when it's no longer exciting. It's important to knowing when to _grit_ and when to _[quit](the-art-of-quitting.md)_.
+* Don’t mistake _hustle_ for _grit_. Real grit is [finishing what you start](https://sketchplanations.com/goal-gradient-effect) when it’s no longer exciting. It’s important to knowing when to _grit_ and when to _[quit](the-art-of-quitting.md)_.
 * [“Slow and steady wins the race.”](Slow%20Down%20to%20Speed%20Up.md)
 
 ---
 
-# Tony Robbins' Cani Theory
+# Tony Robbins’ Cani Theory
 
 * Committing yourself to **Constant And Never-Ending Improvement**
 
 ---
 
-[Mental toughness](https://en.wikipedia.org/wiki/Mental_toughness) is often associated with dramatic efforts to **push through the pain**, **grind it out to the end**, and **find a way to make it happen**—the kind of perseverance needed to cross a finish line. However, true [mental toughness](resilience.md) shows up in quieter moments: it's the discipline to **show up when no one is watching**, **keep your eye on the ball**, and **do a little bit every day**. At its core, mental toughness means not skipping the days that are easy to skip.
+[Mental toughness](https://en.wikipedia.org/wiki/Mental_toughness) is often associated with dramatic efforts to **push through the pain**, **grind it out to the end**, and **find a way to make it happen**—the kind of perseverance needed to cross a finish line. However, true [mental toughness](resilience.md) shows up in quieter moments: it’s the discipline to **show up when no one is watching**, **keep your eye on the ball**, and **do a little bit every day**. At its core, mental toughness means not skipping the days that are easy to skip.
 
 ---
 
@@ -137,7 +137,7 @@ On your bad days, you have a choice to make:
 1. Show up anyway.
 2. Wait until they see me on a good day.
 
-There's a magic in showing up on your bad days. The choice is yours. Choose wisely.
+There’s a magic in showing up on your bad days. The choice is yours. Choose wisely.
 
 ---
 
