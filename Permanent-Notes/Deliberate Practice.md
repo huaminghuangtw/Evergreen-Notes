@@ -1,7 +1,7 @@
 ---
 title: Deliberate Practice
 created: 2025-01-23T10:40:57
-modified: 2025-08-26T09:17:22
+modified: 2025-08-29T08:30:46
 ---
 
 > _“Practice does not make perfect. Perfect practice makes perfect.” — Vince Lombardi_
@@ -18,7 +18,7 @@ by Anders Ericsson (研究世界專家的世界專家)
 
 ---
 
-Constantly improve/revise in an _iterative_ manner → Don't track number of _hours_, track number of _iterations (error corrections)_.
+Constantly improve/revise in an _iterative_ manner → Don’t track number of _hours_, track number of _iterations (error corrections)_.
 
 ---
 
@@ -49,7 +49,7 @@ Similar to the concept of Progressive Overload in Strength Training — “Reps,
 
 **[“The Capability Gap” by Nick Saban](https://x.com/SahilBloom/status/1730586779730772302)**
 
-* What you're capable of, relative to what you are doing
+* What you’re capable of, relative to what you are doing
 * Better terms for “potential”
 * It requires an understanding/awareness of:
 	* Your current delivery
