@@ -1,7 +1,7 @@
 ---
 title: Neuroscience
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:46
 ---
 
 The brain is a monkey brain with a supercomputer on top.
@@ -79,33 +79,33 @@ The brain is a monkey brain with a supercomputer on top.
 # 大腦掌管記憶的區域
 
 * 短期記憶：海馬迴 (Hippocampi) / 海馬體 (Hippocampus)
-	* 阿茲海默症 (Alzheimer's Disease): 海馬體萎縮，屬於「退化性 (Degenerative Dementias) 失智症」的一種
+	* 阿茲海默症 (Alzheimer’s Disease): 海馬體萎縮，屬於「退化性 (Degenerative Dementias) 失智症」的一種
 * 長期記憶：皮質層 (Cortex)
 
 ---
 
 # 潛/下意識 ([Subconsciousness](https://www.psychologytoday.com/us/basics/unconscious)) ↔ 主/表/顯意識 (Consciousness)
 
-> _“Psychologists tell us that by the time we're in our mid-30s, our identity or personality will be completely formed. This means that for those of us over 35, we have memorized a select set of behaviors, attitudes, beliefs, emotional reactions, habits, skills, associative memories, conditioned responses, and perceptions that are now subconsciously programmed within us. Those programs are running us, because the body has become the mind. This means that we will think the same thoughts, feel the same feelings, react in identical ways, behave in the same manner, believe the same dogmas, and perceive reality the same ways. About 95 percent of who we are by midlife1 is a series of subconscious programs that have become automatic—driving a car, brushing our teeth, overeating when we're stressed, worrying about our future, judging our friends, complaining about our lives, blaming our parents, not believing in ourselves, and insisting on being chronically unhappy, just to name a few.” ― Joe Dispenza, [Breaking the Habit of Being Yourself: How to Lose Your Mind and Create a New One](https://www.goodreads.com/work/quotes/18108532)_
+> _“Psychologists tell us that by the time we’re in our mid-30s, our identity or personality will be completely formed. This means that for those of us over 35, we have memorized a select set of behaviors, attitudes, beliefs, emotional reactions, habits, skills, associative memories, conditioned responses, and perceptions that are now subconsciously programmed within us. Those programs are running us, because the body has become the mind. This means that we will think the same thoughts, feel the same feelings, react in identical ways, behave in the same manner, believe the same dogmas, and perceive reality the same ways. About 95 percent of who we are by midlife1 is a series of subconscious programs that have become automatic—driving a car, brushing our teeth, overeating when we’re stressed, worrying about our future, judging our friends, complaining about our lives, blaming our parents, not believing in ourselves, and insisting on being chronically unhappy, just to name a few.” ― Joe Dispenza, [Breaking the Habit of Being Yourself: How to Lose Your Mind and Create a New One](https://www.goodreads.com/work/quotes/18108532)_
 
-* The subconscious mind is always active, continuously operating whether you're awake or asleep—like background processing.
-* You can't access your subconscious mind while you're conscious.
+* The subconscious mind is always active, continuously operating whether you’re awake or asleep—like background processing.
+* You can’t access your subconscious mind while you’re conscious.
 * Your subconscious mind is like a vast cloud-based memory bank, effortlessly multitasking in the background, while your conscious mind holds no long-term memory and can focus on only one thought at a time.
 * The Iceberg of Conscious Mind [^1]
 	* Our consciousness (i.e., voice in your head) is just the iceberg tip of our cognition. Only about 10% of our brain activity is conscious, while 90% operates unconsciously.
 	* Much like an iceberg, your mind has two parts: the _visible_ portion above the surface, and the _hidden_ depths beneath it.
 	* **What That Means**
 		* **Conscious Mind (≈10%)**
-			* This is the part you're actively aware of—your thoughts, decisions, focus, willpower, etc. It includes logical reasoning, short-term memory, and deliberate action.
+			* This is the part you’re actively aware of—your thoughts, decisions, focus, willpower, etc. It includes logical reasoning, short-term memory, and deliberate action.
 		* **Unconscious or Subconscious Mind (≈90%)**
 			* This massive part handles things automatically: habits, emotions, instincts, beliefs, body functions (like breathing or heartbeat), and even deeply stored memories or reactions.
 	* **Examples**
 		* When you **drive a car**, your conscious mind might focus on traffic, but your subconscious handles shifting gears or reacting to familiar routes.
-		* When you **meet someone**, your conscious mind processes what they're saying, but your subconscious is picking up on body language, tone, and micro-expressions.It does most of the work of our daily activities without us even realizing it.
+		* When you **meet someone**, your conscious mind processes what they’re saying, but your subconscious is picking up on body language, tone, and micro-expressions.It does most of the work of our daily activities without us even realizing it.
 	* Ninety-five percent of our brain activity is unconscious, meaning that most of our decisions, actions, emotions, and behaviors are driven by processes outside of our conscious awareness. [Ninety-five percent of who you are is a subconscious or even an unconscious state of being. And that means your conscious mind’s five percent is working against the ninety-five percent of what you’ve memorized subconsciously.](https://www.instagram.com/drjoedispenza/p/CVA50vgg-Ui/)
 	* ⭐️ The unconscious really influences our [decision-making](decision-making.md) or [habits](be-a-habit-and-routine-machine.md)
-		* The subconscious mind tends to take everything literally, without distinguishing between positive and negative input. It doesn't analyze or reason on its own—it simply follows the directions it receives from your conscious thoughts. So, if you constantly tell yourself that you'll never succeed at something, chances are, that belief will shape your reality. As Henry Ford famously said, _“Whether you think you can, or you think you can't—you're right.”_
-		* Your subconscious is designed to store and retrieve data—nothing more, nothing less. It doesn't judge or analyze; it simply records and replays. It also ensures you react to that stored data—your “programming”—exactly as it was originally logged. So, if you formed a belief early on, like “I'm not good enough,” that program will continue running quietly in the background, influencing every decision you make. It shapes your behavior, locks you into familiar patterns, and reinforces a self-concept that feels “safe,” [even if it's limiting](Push%20your%20limits.md)—until you consciously choose to [upgrade that programming](a-true-transformation-begins-with-a-mental-shift.md).
+		* The subconscious mind tends to take everything literally, without distinguishing between positive and negative input. It doesn’t analyze or reason on its own—it simply follows the directions it receives from your conscious thoughts. So, if you constantly tell yourself that you’ll never succeed at something, chances are, that belief will shape your reality. As Henry Ford famously said, _“Whether you think you can, or you think you can’t—you’re right.”_
+		* Your subconscious is designed to store and retrieve data—nothing more, nothing less. It doesn’t judge or analyze; it simply records and replays. It also ensures you react to that stored data—your “programming”—exactly as it was originally logged. So, if you formed a belief early on, like “I’m not good enough,” that program will continue running quietly in the background, influencing every decision you make. It shapes your behavior, locks you into familiar patterns, and reinforces a self-concept that feels “safe,” [even if it's limiting](Push%20your%20limits.md)—until you consciously choose to [upgrade that programming](a-true-transformation-begins-with-a-mental-shift.md).
 	* [Extended Mind Thesis by Andy Clark and David Chalmers](https://en.wikipedia.org/wiki/Extended_mind_thesis)
 		![](../_attachments/a135fc8c995209eb21fb030ba06c94fa.png)
 * If the unconscious mind runs the show most of the time, the key is to **become more conscious of the unconscious**.
