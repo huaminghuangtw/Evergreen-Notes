@@ -1,18 +1,18 @@
 ---
 title: A mistake repeated more than once is a decision
 created: 2025-03-10T05:58:19
-modified: 2025-08-24T06:08:15
+modified: 2025-08-29T08:30:45
 ---
 
-> _“A man who has committed a mistake and doesn't correct it, is committing another mistake.” — Confucius_
+> _“A man who has committed a mistake and doesn’t correct it, is committing another mistake.” — Confucius_
 
 > _“A mistake repeated more than once is a decision.” — Paulo Coelho_
 
-> _“If you're not making mistakes, then you're not making decisions (and progress).” — Catherine Cook_
+> _“If you’re not making mistakes, then you’re not making decisions (and progress).” — Catherine Cook_
 
 > _“Experience is simply the name we give our mistakes.” — Oscar Wilde_
 
-> _“Make mistakes, just don't make them permanent.” — James Clear_
+> _“Make mistakes, just don’t make them permanent.” — James Clear_
 
 > _“Take chances, make mistakes, get messy!” — Ms. Frizzle_
 
