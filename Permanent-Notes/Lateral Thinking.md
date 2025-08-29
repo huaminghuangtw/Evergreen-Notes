@@ -1,7 +1,7 @@
 ---
 title: Lateral Thinking
 created: 2024-11-18T09:16:49
-modified: 2025-08-13T16:58:59
+modified: 2025-08-29T08:30:46
 ---
 
 > _“The young man knows the rules, but the old man knows the exceptions.” — Oliver Wendell Holmes, Sr._
@@ -16,9 +16,9 @@ modified: 2025-08-13T16:58:59
 
 > _“Learn the rules like a pro, so you can break them like an artist.”_
 
-> _“I learned over the years that people don't argue with rules. We've been taught our whole lives to follow the rules, but we've never thought of how to create rules for ourselves that we just follow when we're at our worst. We all know no matter how bad our day is, we shouldn't speed on the highway because it's against the rules. What we don't think about is how do we use rules to our advantage?” — Daniel Kahneman_
+> _“I learned over the years that people don’t argue with rules. We’ve been taught our whole lives to follow the rules, but we’ve never thought of how to create rules for ourselves that we just follow when we’re at our worst. We all know no matter how bad our day is, we shouldn’t speed on the highway because it’s against the rules. What we don’t think about is how do we use rules to our advantage?” — Daniel Kahneman_
 
-* Don't follow the rules/crowd. Break the rule/frame.
+* Don’t follow the rules/crowd. Break the rule/frame.
 * Rule Follower → Rule Breaker
 * Break the rules with intention, not ignorance.
 * Create rules that change the rules.
@@ -58,7 +58,7 @@ Turn off filters. [Don't be too conservative.](be-ready-to-change-your-mind-comp
 
 ---
 
-Reality is largely negotiable. If you stress-test the boundaries and experiment with the “impossibles,” you'll quickly discover that most limitations are a fragile collection of socially reinforced rules you can choose to break at any time.
+Reality is largely negotiable. If you stress-test the boundaries and experiment with the “impossibles,” you’ll quickly discover that most limitations are a fragile collection of socially reinforced rules you can choose to break at any time.
 
 ---
 
