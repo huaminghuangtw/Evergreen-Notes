@@ -1,7 +1,7 @@
 ---
 title: Always start small
 created: 2025-03-05T05:32:10
-modified: 2025-08-21T08:09:57
+modified: 2025-08-29T08:30:46
 ---
 
 > _“It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith_
@@ -31,26 +31,26 @@ A [habit](be-a-habit-and-routine-machine.md) must be first _established_ before 
 
 # The Rule of 100:
 
-If you spend 100 hours a year in any discipline (which is only 18 minutes a day), you'll be better than 95% of the world in that discipline.
+If you spend 100 hours a year in any discipline (which is only 18 minutes a day), you’ll be better than 95% of the world in that discipline.
 
 ---
 
 Anything above zero [compounds](The%20Compounding%20Effect.md) positively
 
-* One doesn't seem like much, but it's something real. At zero, you're still dreaming.
+* One doesn’t seem like much, but it’s something real. At zero, you’re still dreaming.
 * Two is twice as good as one, but one is infinitely better than zero.
 
 ---
 
-# Don't Underestimate The Power Of 5 Good Minutes
+# Don’t Underestimate The Power Of 5 Good Minutes
 
-* You're always 5 good minutes away from feeling better.
+* You’re always 5 good minutes away from feeling better.
 	* 5 minutes of exercise—your energy shifts. 
 	* 5 minutes of writing—your mind clears. 
 	* 5 minutes of reading—your perspective changes. 
 	* 5 minutes of breathwork—your body resets. 
 	* 5 minutes of conversation—your mood improves.
-* Whenever the day feels overwhelming and tough, try to ask yourself: _What's the best way I can spend my next 5 minutes?_
+* Whenever the day feels overwhelming and tough, try to ask yourself: _What’s the best way I can spend my next 5 minutes?_
 
 ---
 
@@ -67,8 +67,8 @@ Anything above zero [compounds](The%20Compounding%20Effect.md) positively
 
 # The Minimal Viable Action (Micro Action)
 
-* If you're having trouble sticking to a new [habit](be-a-habit-and-routine-machine.md) , try a miniature (2-minute) version until it becomes automatic.
-* Take tiny baby steps. _Do less than you're capable of, but do it more consistently than you have before._
+* If you’re having trouble sticking to a new [habit](be-a-habit-and-routine-machine.md) , try a miniature (2-minute) version until it becomes automatic.
+* Take tiny baby steps. _Do less than you’re capable of, but do it more consistently than you have before._
 * [不靠衝勁](Do%20not%20use%20your%20willpower%20unless%20you%20absolutely%20have%20to.md)，靠低門檻 [開始](Just%20getting%20started.md)
 
 ---
