@@ -1,7 +1,7 @@
 ---
 title: Obsidian Plugins
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-08-29T08:30:45
 ---
 
 <https://www.reddit.com/r/Anki/comments/16ttr4w/what_are_the_essential_anki_addons_for_effective/>
@@ -43,7 +43,7 @@ modified: 2025-07-16T21:23:30
 			* Photopea is a free, web-based photo and graphic editing tool that mimics many features of professional software like Adobe Photoshop.
 			* [Ivan Kutskir](https://www.reddit.com/r/IAmA/comments/9urjmg/i_made_a_free_alternative_to_photoshop_that_is/)
 		* Canvas
-		* Obsidian's Canvas
+		* Obsidian’s Canvas
 - [ ] !!! Dataview !!!
 	* Learn
 		* Implicit (Auto) \& Inline Fields
@@ -55,7 +55,7 @@ modified: 2025-07-16T21:23:30
 	* The most important thing that Longform does for me is to compile my individual chapters into a manuscript (stripping the front matter), i.e., compile all of the chapters into one long markdown file, with the front matter of each chapter, comments, etc. stripped out. Any other functions of Longform (word counting/targets, moving scenes around, etc. are nice to have, but not necessary for me.
 		* Each chapter is a separate file
 		* Each chapter is named with a number and brief description of the scene
-		* !!! Do not use the “Strip Frontmatter” option if you don't have frontmatter in each chapter. It will strip out anything between your first two — dividers.
+		* !!! Do not use the “Strip Frontmatter” option if you don’t have frontmatter in each chapter. It will strip out anything between your first two — dividers.
 - [ ] For all images (attachments): (1) Automatically convert dropped/pasted images into `.png` (2) [auto resize](https://help.obsidian.md/Linking+notes+and+files/Embed+files#Embed+an+image+in+a+note)
 	- [ ] [GitHub - sissilab/obsidian-image-toolkit: An Obsidian plugin for viewing an image.](https://github.com/sissilab/obsidian-image-toolkit)
 	- [ ] [GitHub - nicojeske/mousewheel-image-zoom: An Obsidian plugin that enables you to increase/decrease the size of an image by holding down a configurable key (defaults to left alt), hovering over an image in preview mode and scrolling.](https://github.com/nicojeske/mousewheel-image-zoom)
