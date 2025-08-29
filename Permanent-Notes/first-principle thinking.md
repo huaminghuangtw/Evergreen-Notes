@@ -1,10 +1,10 @@
 ---
 title: first-principle thinking
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:31
+modified: 2025-08-29T08:30:45
 ---
 
-> _“There comes a point where we need to stop just pulling people out of the river. We need to go upstream and find out why they're falling in.” — Desmond Tutu_
+> _“There comes a point where we need to stop just pulling people out of the river. We need to go upstream and find out why they’re falling in.” — Desmond Tutu_
 
 > _“The person who grasps principles can successfully select their own methods. The person who tries methods, ignoring principles, is sure to have trouble.” — Harrington Emerson_
 
