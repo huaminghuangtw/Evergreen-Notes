@@ -1,7 +1,7 @@
 ---
 title: Stress & Anxiety
 created: 2024-11-18T09:18:12
-modified: 2025-08-22T05:24:17
+modified: 2025-08-29T08:30:45
 ---
 
 > _“Stress happens when the mind resists what is.” — Dan Millman_
@@ -15,11 +15,11 @@ Root Cause: Having two conflicting internal [desires](The%20absence%20of%20desir
 1. Career vs. Passion
 	* Desire 1: You want a stable, well-paying job with benefits.
 	* Desire 2: You want to pursue your passion (e.g., music, art, travel) full time.
-	* Result: You feel stuck, unfulfilled at work, and anxious because you're ignoring what lights you up — but afraid of the instability if you chase your passion.
+	* Result: You feel stuck, unfulfilled at work, and anxious because you’re ignoring what lights you up — but afraid of the instability if you chase your passion.
 2. Authenticity vs. Acceptance
 	* Desire 1: You want to express your true self, thoughts, and beliefs.
 	* Desire 2: You want to be liked, accepted, and avoid conflict.
-	* Result: You bottle things up, second-guess yourself, and feel like you're performing — which creates internal stress.
+	* Result: You bottle things up, second-guess yourself, and feel like you’re performing — which creates internal stress.
 3. Change vs. Comfort
 	* Desire 1: You want to grow, try something new, or break out of a rut.
 	* Desire 2: You fear uncertainty and prefer to stay in your comfort zone.
@@ -48,18 +48,18 @@ MBSR = Mindfulness-Based Stress Reduction
 
 The phenomenon of “empathic stress” causes individuals who are exposed to people who are stressed to experience stress themselves.
 
-* If someone feels **同情 compassion (“I want to relieve your suffering.”)** for a stressed person instead of **同理 empathy (“I feel your suffering.”)**, they may be less likely to take on that person's stress.
+* If someone feels **同情 compassion (“I want to relieve your suffering.”)** for a stressed person instead of **同理 empathy (“I feel your suffering.”)**, they may be less likely to take on that person’s stress.
 
 ---
 
 # 3Q Filters Test
 
 * If you want to curb stress, you need to curate your thoughts.
-* Run them through Jon Acuff's 3 filters:
+* Run them through Jon Acuff’s 3 filters:
 	* _Is it true?_
 	* _Is it helpful?_
 	* _Is it kind?_
-* If they're not accurate, not serving you and making you feel worse, discard them immediately.
+* If they’re not accurate, not serving you and making you feel worse, discard them immediately.
 
 ---
 
