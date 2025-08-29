@@ -1,7 +1,7 @@
 ---
 title: Planning and preparation help maximize your productivity
 created: 2024-12-12T16:22:20
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:45
 ---
 
 > _[“The antidote to impulsiveness is forethought.” — Nir Eyal](https://www.youtube.com/watch?v=VVez_sI1zTU)_
@@ -18,7 +18,7 @@ modified: 2025-08-10T14:28:42
 
 ---
 
-Planning and [doing](cultivate-a-strong-bias-towards-action.md) are two different modes of operation. **Separate planning from doing.** [^1] Spend some time on _[task value/priority evaluation/assessment](Prioritization.md)_ before any commitments/effort. It's worth it. [^2]
+Planning and [doing](cultivate-a-strong-bias-towards-action.md) are two different modes of operation. **Separate planning from doing.** [^1] Spend some time on _[task value/priority evaluation/assessment](Prioritization.md)_ before any commitments/effort. It’s worth it. [^2]
 
 ---
 
@@ -33,7 +33,7 @@ Planning and [doing](cultivate-a-strong-bias-towards-action.md) are two differen
 # Preparation Always Beats Planning
 
 * Planning is based on the expectation of order. Preparation is based on the expectation of chaos.
-* Plan for order and you'll be destroyed by chaos. Prepare for chaos and you'll thrive in any condition.
+* Plan for order and you’ll be destroyed by chaos. Prepare for chaos and you’ll thrive in any condition.
 
 ## See Also
 
@@ -49,7 +49,7 @@ No matter how often I tried to just jump right in a new task, I found that I per
 
 ---
 
-When fishermen can't go to sea, they repair their nets. When the sea is too rough to sail, the wise don't simply wait for the storm to pass—they prepare for the moment it does. Even in stillness, there is progress. It's not about idling; it's about using the pause to build [what comes next](just-focus-on-the-next-decision.md).
+When fishermen can’t go to sea, they repair their nets. When the sea is too rough to sail, the wise don’t simply wait for the storm to pass—they prepare for the moment it does. Even in stillness, there is progress. It’s not about idling; it’s about using the pause to build [what comes next](just-focus-on-the-next-decision.md).
 
 ---
 
@@ -67,11 +67,11 @@ When fishermen can't go to sea, they repair their nets. When the sea is too roug
 	* Facts (完成任務時必須達成的具體標準或數據指標)
 		* _What are the facts when I complete the goal?_
 	* Feeling (完成任務後，團隊成員應該感受到的心理狀態)
-		* _What do I expect to feel once I've completed the goal?_
+		* _What do I expect to feel once I’ve completed the goal?_
 	* Functionality (任務完成後，應能如何幫助他人)
 		* _Why do I care for the goal in the first place?_
 * **Plan**
-	* _What's the plan that I am going to follow to get to the goal?_
+	* _What’s the plan that I am going to follow to get to the goal?_
 	* _What are the 3 to 5 major chess moves that I am going to do to get to the goal?_
 * **System**
 	* _What do I need to do everyday / every week that will help me stick to the plan and achieve the goal?_
