@@ -1,7 +1,7 @@
 ---
 title: Life is chaotic
 created: 2024-11-18T09:18:12
-modified: 2025-08-26T15:11:45
+modified: 2025-08-29T08:30:46
 ---
 
 > _“Everyone has a plan until they get punched in the mouth.” — Mike Tyson_
@@ -12,7 +12,7 @@ modified: 2025-08-26T15:11:45
 
 [@markaurelMeditations2006]
 
-> _“When jarred, unavoidably, by circumstances, revert at once to yourself, and don't lose the rhythm more than you can help. You'll have a better grasp of the harmony if you keep on going back to it.” — Marcus Aurelius_
+> _“When jarred, unavoidably, by circumstances, revert at once to yourself, and don’t lose the rhythm more than you can help. You’ll have a better grasp of the harmony if you keep on going back to it.” — Marcus Aurelius_
 
 > _[“We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.” — C.S. Lewis](https://www.goodreads.com/quotes/615-we-are-not-necessarily-doubting-that-god-will-do-the)_
 
