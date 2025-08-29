@@ -1,7 +1,7 @@
 ---
 title: How to search on Google
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-08-29T08:30:46
 ---
 
 * **Search for an exact match:** enter a word or phrase inside quotes (quotation marks)
@@ -15,7 +15,7 @@ modified: 2025-07-16T21:23:30
 		* Searching `apple microsoft` will prioritize results where both words/terms are found together
 			* Results will likely include both “apple” and “microsoft” somewhere on the page (not necessarily next to each other, but both terms will appear in the content)
 		* Searching `apple OR microsoft` provides you with results that contain either “apple”, “microsoft” or both
-			* More inclusive results: it's not required for both to be present on a single page
+			* More inclusive results: it’s not required for both to be present on a single page
 	* The vertical bar `|` is a shorthand for the OR operator
 * Range operator (two periods `..`)
 	* For example
