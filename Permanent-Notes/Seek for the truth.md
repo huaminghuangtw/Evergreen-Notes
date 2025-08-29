@@ -1,12 +1,12 @@
 ---
 title: Seek for the truth
 created: 2024-11-18T09:18:12
-modified: 2025-08-26T05:42:55
+modified: 2025-08-29T08:30:45
 ---
 
 > _“Facts are the enemy of truth.” — Miguel de Cervantes_
 
-> _“There's a world of difference between truth and facts. Facts can obscure the truth.” — Maya Angelou_
+> _“There’s a world of difference between truth and facts. Facts can obscure the truth.” — Maya Angelou_
 
 > _“The great advantage about telling the truth is that nobody ever believes it.” — Dorothy L. Sayers_
 
