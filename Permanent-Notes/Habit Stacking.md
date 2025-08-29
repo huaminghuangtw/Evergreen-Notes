@@ -1,7 +1,7 @@
 ---
 title: Habit Stacking
 created: 2025-01-23T10:40:57
-modified: 2025-07-27T11:14:03
+modified: 2025-08-29T08:30:46
 ---
 
 is a special form of [Implementation Intentions](implementation-intentions.md). Rather than pairing a new habit with a particular time and location, you pair it with an old, current habit (the “anchor” [@foggTinyHabitsSmall2020]).
@@ -17,7 +17,7 @@ You can even combine [temptation bundling](Temptation%20Bundling.md) with habit
 > 1. After \[CURRENT HABIT\], I will \[HABIT I NEED\].
 > 2. After \[HABIT I NEED\], I will \[HABIT I WANT\].
 
-Habit stacking increases the likelihood that you'll stick with a habit by stacking your new behavior on top of an old one. This process can be repeated to chain numerous habits together, each one acting as the _cue_ for the next.
+Habit stacking increases the likelihood that you’ll stick with a habit by stacking your new behavior on top of an old one. This process can be repeated to chain numerous habits together, each one acting as the _cue_ for the next.
 
 ![](../_attachments/97bd9eeee18cdf76f9f4c4a1e46a3c63.png)
 
