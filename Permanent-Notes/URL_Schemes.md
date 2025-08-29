@@ -1,10 +1,10 @@
 ---
 title: URL_Schemes
 created: 2024-11-18T10:16:50
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:45
 ---
 
-URL Schemes (= [Deep Linking](https://en.wikipedia.org/wiki/Deep_linking) = [x-callback-url](https://x-callback-url.com/)) is a hyperlink that links to a specific, generally searchable or indexed, piece of web content on a website (e.g., “http://example.com/path/page”), rather than the website's home page (e.g., “[http://example.com](http://example.com/)”)
+URL Schemes (= [Deep Linking](https://en.wikipedia.org/wiki/Deep_linking) = [x-callback-url](https://x-callback-url.com/)) is a hyperlink that links to a specific, generally searchable or indexed, piece of web content on a website (e.g., “http://example.com/path/page”), rather than the website’s home page (e.g., “[http://example.com](http://example.com/)”)
 
 x-callback-url is originally for handling errors and communication between different apps. Using x-callback-url, _source_ apps can launch other apps passing data and context information, and also provide parameters instructing the _target_ app to return data and control back to the source app after executing an action.
 
