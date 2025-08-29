@@ -1,24 +1,24 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-08-20T06:22:01
+modified: 2025-08-29T08:30:45
 ---
 
-> _“Whether you think you can, or you think you can't—you're both right.” — Henry Ford_
+> _“Whether you think you can, or you think you can’t—you’re both right.” — Henry Ford_
 
-> _“Argue for your limitations and, sure enough, they're yours.” — Richard Bach_
+> _“Argue for your limitations and, sure enough, they’re yours.” — Richard Bach_
 
-> _“It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so.” ― Mark Twain_
+> _“It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” ― Mark Twain_
 
 > _“There are no traffic jams on the extra mile.” — Zig Ziglar_
 
-> _“It always seems impossible until it's done.” — Nelson Mandela_
+> _“It always seems impossible until it’s done.” — Nelson Mandela_
 
 > _“Reality leaves a lot to the imagination.” — John Lennon_
 
 > _“What the mind can conceive, it can achieve.” — Napoleon Hill_
 
-> _“Don't do what you can do. Try what you can't do.” — William Faulkner_
+> _“Don’t do what you can do. Try what you can’t do.” — William Faulkner_
 
 > _“Never say never because limits, like [fears](fear.md), are often just an illusion.” — Michael Jordan_
 
@@ -28,7 +28,7 @@ modified: 2025-08-20T06:22:01
 
 > _“The garden of the world has no limits, except in your mind.” — Rumi_
 
-> _“If you hear a voice within you say 'you cannot paint,' then by all means paint and that voice will be silenced.” — Vincent Van Gogh_
+> _“If you hear a voice within you say ‘you cannot paint,’ then by all means paint and that voice will be silenced.” — Vincent Van Gogh_
 
 > _["The people who are crazy enough to think they can change the world are the ones that do." — Steve Jobs](https://www.goodreads.com/quotes/9859550-the-people-who-are-crazy-enough-to-think-they-can)_
 
@@ -40,21 +40,21 @@ modified: 2025-08-20T06:22:01
 
 > _“You cannot swim for new horizons until you have courage to lose sight of the shore.” — William Faulkner_
 
-> _“They are born, then put in a box; they go home to live in a box; they study by ticking boxes; they go to what is called 'work' in a box, where they sit in their cubicle box; they drive to the grocery store in a box to buy food in a box; they go to the gym in a box to sit in a box; they talk about thinking 'outside the box'; and when they die they are put in a box. All boxes, Euclidean, geometrically smooth boxes.” — [@talebBedProcrustesPhilosophical2016]_
+> _“They are born, then put in a box; they go home to live in a box; they study by ticking boxes; they go to what is called ‘work’ in a box, where they sit in their cubicle box; they drive to the grocery store in a box to buy food in a box; they go to the gym in a box to sit in a box; they talk about thinking ‘outside the box’; and when they die they are put in a box. All boxes, Euclidean, geometrically smooth boxes.” — [@talebBedProcrustesPhilosophical2016]_
 
 > _“At the end of the day, we can endure much more than we think we can.” — Frida Kahlo_
 
 > _[“Sometimes it takes a heartbreak to shake us awake & help us see we are worth so much more than we're settling for.” — Mandy Hale, The Single Woman–Life, Love, and a Dash of Sass: Embracing Singleness with Confidence](https://www.goodreads.com/quotes/862014-sometimes-it-takes-a-heartbreak-to-shake-us-awake)_
 
-> _“Don't let your imagination be crushed by life as a whole. Don't try to picture everything bad that could possibly happen. Stick with the situation at hand, and ask, “Why is this so unbearable? Why can't I endure it?” — [@markaurelMeditations2006]_
+> _“Don’t let your imagination be crushed by life as a whole. Don’t try to picture everything bad that could possibly happen. Stick with the situation at hand, and ask, “Why is this so unbearable? Why can’t I endure it?” — [@markaurelMeditations2006]_
 
-> _“Pain is neither unbearable nor unending, as long as you keep in mind its limits and don't magnify them in your imagination.” — [@markaurelMeditations2006]_
+> _“Pain is neither unbearable nor unending, as long as you keep in mind its limits and don’t magnify them in your imagination.” — [@markaurelMeditations2006]_
 
 > _["Believe in your infinite potential. Your only limitations are those you set upon yourself." — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7721794-believe-in-your-infinite-potential-your-only-limitations-are-those)_
 
 > _“You are in danger of living a life so comfortable and soft, that you will die without ever realizing your true potential.” — [@gogginsCantHurtMe2018]_
 
-> _“Ask how something can be done rather than say it can't be done.” — Bo Bennett_
+> _“Ask how something can be done rather than say it can’t be done.” — Bo Bennett_
 
 > _“We ought to walk through the rooms of our lives not looking for flaws, but looking for potential.” — Ellen Goodman_
 
@@ -107,12 +107,12 @@ Self-imposed limits, Self-limiting beliefs/stories, Self-sabotaging behaviors, e
 	* [Closed mouths don't get fed.](https://youtu.be/zkTf0LmDqKI)
 	* [The squeaky wheel gets the grease. (會吵的小孩有糖吃)](https://www.google.com/search?q=The+squeaky+wheel+gets+the+grease)
 2. Believe
-	* You can't get to a place that you don't believe exists.
+	* You can’t get to a place that you don’t believe exists.
 3. Receive
 
 ---
 
-If someone says: “That's impossible. You should understand it as: “According to my very limited experience and narrow understanding of reality, that's very unlikely.”
+If someone says: “That’s impossible. You should understand it as: “According to my very limited experience and narrow understanding of reality, that’s very unlikely.”
 
 ---
 
@@ -122,24 +122,24 @@ If someone says: “That's impossible. You should understand it as: “According
 
 # Two Of The Biggest Impediments To Life Change
 
-* [Emotion](Emotion%20Control.md): We're all emotional creatures. We're so close to everything in our own lives that it's often hard to remove emotions from our decisions.
-* [Inaction](cultivate-a-strong-bias-towards-action.md): It's always easier to maintain the [status quo](status%20quo%20bias.md) than taking action. It's a constant internal battle with yourself especially when inaction appears to be less risky and painful. Yet, when you examine the worst-case scenario, it isn't as scary as you imagined. In fact, the greatest risk lies in doing nothing at all—once you embrace taking risks, they become far less intimidating than they first seem.
+* [Emotion](Emotion%20Control.md): We’re all emotional creatures. We’re so close to everything in our own lives that it’s often hard to remove emotions from our decisions.
+* [Inaction](cultivate-a-strong-bias-towards-action.md): It’s always easier to maintain the [status quo](status%20quo%20bias.md) than taking action. It’s a constant internal battle with yourself especially when inaction appears to be less risky and painful. Yet, when you examine the worst-case scenario, it isn’t as scary as you imagined. In fact, the greatest risk lies in doing nothing at all—once you embrace taking risks, they become far less intimidating than they first seem.
 
 ---
 
 # 跨越心理制約的框架
 
-* Don't limit your challenges. Challenge your limits.
+* Don’t limit your challenges. Challenge your limits.
 * Know your limits but never stop trying to exceed them.
 * The only limits in life are…
 	* the laws of physics.
 	* the ones we create for ourselves.
-* Don't cage yourself. You are capable of much more than you could imagine. You are much more than what you perceive yourself to be. Don't be the one to tell yourself no.
+* Don’t cage yourself. You are capable of much more than you could imagine. You are much more than what you perceive yourself to be. Don’t be the one to tell yourself no.
 * Always think big [@schwartzMagicThinkingBig1987]—when you think big and lose, you often grow more than when you think small and win.
 
 ---
 
-Your present circumstances don't determine where you can go; they merely determine where you start.
+Your present circumstances don’t determine where you can go; they merely determine where you start.
 
 ---
 
@@ -147,11 +147,11 @@ Your present circumstances don't determine where you can go; they merely determi
 
 [@gogginsCantHurtMe2018]
 
-> _“When you think that you are done, you're only 40% in to what your body's capable of doing. That's just the limits that we put on ourselves.”_
+> _“When you think that you are done, you’re only 40% in to what your body’s capable of doing. That’s just the limits that we put on ourselves.”_
 
 * People typically quit when they are only 40% exhausted; they still have 60% left in the tank.
 	* 當你覺得自己已經「撐不下去了」時，其實你只用了自己潛力的 40%，還有 60% 的潛力沒有被挖掘出來。人的極限常常是心理設下的，而不是身體真正的極限。
-* When the low fuel light comes on, your tank still holds 10–15% of fuel — enough to keep going for dozens of kilometers. Your brain works the same way: it warns you to stop long before you're truly empty. Trust that you've still got more in the tank.
+* When the low fuel light comes on, your tank still holds 10–15% of fuel — enough to keep going for dozens of kilometers. Your brain works the same way: it warns you to stop long before you’re truly empty. Trust that you’ve still got more in the tank.
 	* 汽車加油燈的比喻：當汽車的油燈亮起時，很多人會以為「完了，快沒油了，撐不住了」。但實際上，它只是個警告燈；只是在提醒你油量低了—通常是在油箱還剩下 10～15% 燃油時才會亮起，換句話說，你往往還能再開個 50 到 100 公里沒問題。因此，當油燈（心理極限）亮起時，其實你體內還有很多燃料（潛力）沒被發揮。不要一看到「油燈」亮就急著停下來，學會信任自己，其實你還能再前進一段不短的距離。
 
 ---
@@ -170,10 +170,10 @@ Your present circumstances don't determine where you can go; they merely determi
 
 ![](../_attachments/686c89d43115bb2063ac5188d8552357.png)
 
-* Human beings are works in progress that mistakenly think they're finished.
+* Human beings are works in progress that mistakenly think they’re finished.
 * People tend to underestimate how much they will change in the future, despite knowing how much they have changed over time.
-* We somehow imagine that the person we are right now is the person we'll be for the rest of time. (Hint: This is not the case!)
-* The person you are right now is as transient, as fleeting, and as temporary as all the people you've ever been.
+* We somehow imagine that the person we are right now is the person we’ll be for the rest of time. (Hint: This is not the case!)
+* The person you are right now is as transient, as fleeting, and as temporary as all the people you’ve ever been.
 * The only constant in life is change.
 
 ---
