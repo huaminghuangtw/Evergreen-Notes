@@ -1,12 +1,12 @@
 ---
 title: Life is cyclic
 created: 2024-11-18T09:18:12
-modified: 2025-08-16T15:39:06
+modified: 2025-08-29T08:30:46
 ---
 
 > _“Life is like a wheel. Sooner or later, it always comes around to where you started again.” — Stephen King_
 
-> _“Nobody's going to win all the time. On the highway of life you can't always be in the fast lane.” ― Haruki Murakami, [What I Talk About When I Talk About Running](https://www.goodreads.com/work/quotes/2475030)_
+> _“Nobody’s going to win all the time. On the highway of life you can’t always be in the fast lane.” ― Haruki Murakami, [What I Talk About When I Talk About Running](https://www.goodreads.com/work/quotes/2475030)_
 
 > _“Everything in life opens and closes, sheds and renews. We are no different.” — Mark Nepo_
 
@@ -44,7 +44,7 @@ Some seasons you produce fruit, some seasons you prune, and some seasons you let
 
 ---
 
-The [Solstice (至日)](https://en.wikipedia.org/wiki/Solstice) [^2] reminds us: life is a beautiful cycle of _renewal_ and _retreat_, each phase mirroring the other. [^3] Embrace life's natural rhythms.
+The [Solstice (至日)](https://en.wikipedia.org/wiki/Solstice) [^2] reminds us: life is a beautiful cycle of _renewal_ and _retreat_, each phase mirroring the other. [^3] Embrace life’s natural rhythms.
 
 ---
 
