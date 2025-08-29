@@ -1,7 +1,7 @@
 ---
 title: If It Isn’t Fuck Yes, Then It’s Clear No Thank You
 created: 2024-11-18T09:16:49
-modified: 2025-08-27T05:02:03
+modified: 2025-08-29T08:30:45
 ---
 
 **TL; DR** Default to NO.
@@ -12,13 +12,13 @@ modified: 2025-08-27T05:02:03
 
 > _“When you say no, you are only saying no to one option. When you say yes, you are saying no to every other option. No is a decision. Yes is a responsibility. Be careful what (and who) you say yes to. It will shape your day, your career, your family, your life.” — James Clear_
 
-> _“We need to learn the slow 'yes' and the quick 'no.'” — Tom Friel, the former CEO of Heidrick & Struggles_
+> _“We need to learn the slow ‘yes’ and the quick ‘no.’” — Tom Friel, the former CEO of Heidrick & Struggles_
 
 > _“Half of the troubles of this life can be traced to saying yes too quickly and not saying no soon enough.” — Josh Billings_
 
 ---
 
-When you say 'yes' to others, make sure you are not saying 'no' to yourself. Don't be the one to tell yourself no.
+When you say ‘yes’ to others, make sure you are not saying ‘no’ to yourself. Don’t be the one to tell yourself no.
 
 ---
 
@@ -60,7 +60,7 @@ Remember: Whenever you say “yes” to something, [you’re saying “no” to 
 
 **[Don't agree to anything “quick” unless you're willing to spend 3+ hours on it.](https://www.workingtheorys.com/p/3-hours)**
 
-When you follow this rule, your priorities get clear, you procrastinate less, you're more focused and more productive, and time management becomes a lot easier. You say “no” a LOT more. And the “yes” becomes a lot more emphatic. You find yourself less stressed, less overthinking about the past and less anxious about the future.
+When you follow this rule, your priorities get clear, you procrastinate less, you’re more focused and more productive, and time management becomes a lot easier. You say “no” a LOT more. And the “yes” becomes a lot more emphatic. You find yourself less stressed, less overthinking about the past and less anxious about the future.
 
 ---
 
@@ -68,7 +68,7 @@ When you follow this rule, your priorities get clear, you procrastinate less, yo
 
 * You say, “Yes,” and then the future date arrives, and you say, “Damn!”
 	* We often say yes to things assuming that we will have more time or energy for them in the future. But when that future date arrives, we regret it.
-* As a rule of thumb, if you're going to say yes to anything because you think you'll have more time or energy for it in the future, say no instead!
+* As a rule of thumb, if you’re going to say yes to anything because you think you’ll have more time or energy for it in the future, say no instead!
 * 做任何事情前，先問自己能不能「全情投入、給出承諾」。而承諾就像灌木叢，需要定期修剪。[@forsterItTomorrowOther2008]
 
 ---
