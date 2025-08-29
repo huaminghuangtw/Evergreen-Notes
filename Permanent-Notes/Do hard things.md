@@ -1,7 +1,7 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2025-08-18T05:43:45
+modified: 2025-08-29T08:30:46
 ---
 
 > _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
@@ -16,11 +16,11 @@ modified: 2025-08-18T05:43:45
 
 > _“Difficult and meaningful will always bring more satisfaction than easy and meaningless.” — Maxime Lagace_
 
-> _“I thought I'd solved a problem when really I was creating new ones by taking the path of least resistance.” — [@gogginsCantHurtMe2018]_
+> _“I thought I’d solved a problem when really I was creating new ones by taking the path of least resistance.” — [@gogginsCantHurtMe2018]_
 
-> _“Our culture has become hooked on the quick-fix, the life hack, efficiency. Everyone is on the hunt for that simple action algorithm that nets maximum profit with the least amount of effort. There's no denying this attitude may get you some of the trappings of success, if you're lucky, but it will not lead to a calloused mind or self-mastery. If you want to master the mind and remove your governor, you'll have to become addicted to hard work. Because passion and obsession, even talent, are only useful tools if you have the work ethic to back them up.” — [@gogginsCantHurtMe2018]_
+> _“Our culture has become hooked on the quick-fix, the life hack, efficiency. Everyone is on the hunt for that simple action algorithm that nets maximum profit with the least amount of effort. There’s no denying this attitude may get you some of the trappings of success, if you’re lucky, but it will not lead to a calloused mind or self-mastery. If you want to master the mind and remove your governor, you’ll have to become addicted to hard work. Because passion and obsession, even talent, are only useful tools if you have the work ethic to back them up.” — [@gogginsCantHurtMe2018]_
 
-> _“I learned that by constantly doing things that are hard and making myself uncomfortable, I improve my ability to handle obstacles. I get comfortable being uncomfortable—and that's real mental toughness.” ― Jesse Itzler, [Living with a SEAL: 31 Days Training with the Toughest Man on the Planet](https://www.goodreads.com/work/quotes/44751808)_
+> _“I learned that by constantly doing things that are hard and making myself uncomfortable, I improve my ability to handle obstacles. I get comfortable being uncomfortable—and that’s real mental toughness.” ― Jesse Itzler, [Living with a SEAL: 31 Days Training with the Toughest Man on the Planet](https://www.goodreads.com/work/quotes/44751808)_
 
 > _“We must all suffer from one of two pains: the pain of [discipline](discipline-equals-freedom.md) or the pain of regret. The difference is [discipline](discipline-equals-freedom.md) weighs ounces while regret weighs tons.” — Jim Rohn_
 
@@ -28,7 +28,7 @@ modified: 2025-08-18T05:43:45
 
 Do the hard thing, because after doing it, you will feel that you can do anything.
 
-* [Confidence](Confidence%20comes%20from%20preparation.md) is built, not born. Manufacturing evidence of your ability to do hard things is how you create [confidence](Confidence%20comes%20from%20preparation.md) when you're feeling low.
+* [Confidence](Confidence%20comes%20from%20preparation.md) is built, not born. Manufacturing evidence of your ability to do hard things is how you create [confidence](Confidence%20comes%20from%20preparation.md) when you’re feeling low.
 
 ---
 
@@ -44,11 +44,11 @@ Do very hard things to make yourself feel like a savage/badass! 🐐🦍
 
 ---
 
-Hard means worry: if you're not worrying that something you're making will come out badly, or that you won't be able to understand something you're studying, it isn't hard enough.
+Hard means worry: if you’re not worrying that something you’re making will come out badly, or that you won’t be able to understand something you’re studying, it isn’t hard enough.
 
 ---
 
-It's better to be a warrior in the garden than a gardener at war.
+It’s better to be a warrior in the garden than a gardener at war.
 
 ---
 
@@ -56,7 +56,7 @@ Stop wanting things to be easy. Prepare for them to be hard.
 
 ---
 
-When we embrace _voluntary struggles_, we're better equipped/prepared for the _involuntary struggles_ that inevitably enter our world.
+When we embrace _voluntary struggles_, we’re better equipped/prepared for the _involuntary struggles_ that inevitably enter our world.
 
 * Get comfortable by being uncomfortable.
 * Avoid unchosen suffering by choosing chosen suffering.
@@ -73,7 +73,7 @@ When we embrace _voluntary struggles_, we're better equipped/prepared for the _i
 
 ---
 
-> _“If you have 2 choices to make and they're relatively equal (50-50), take the path that is more difficult and painful in the short term.” — Naval Ravikant_
+> _“If you have 2 choices to make and they’re relatively equal (50-50), take the path that is more difficult and painful in the short term.” — Naval Ravikant_
 
 > _“Easy choices, hard life. [^1] Hard choices, easy life.” — Jerzy Gregorek_
 
@@ -98,19 +98,19 @@ Comfort is the most seductive thing in existence. Comfort is not free. It comes 
 
 ---
 
-When things get hard, the mental gymnastics start—you start convincing yourself that it's ok to ease up, that [the clear path to your lesser goals](https://www.goodreads.com/quotes/875504-we-are-kept-from-our-goal-not-by-obstacles-but) looks pretty darn good. At this moment, tell yourself: “_It's supposed/meant to be hard/difficult. If it were easy, everyone would do it._ ”
+When things get hard, the mental gymnastics start—you start convincing yourself that it’s ok to ease up, that [the clear path to your lesser goals](https://www.goodreads.com/quotes/875504-we-are-kept-from-our-goal-not-by-obstacles-but) looks pretty darn good. At this moment, tell yourself: “_It’s supposed/meant to be hard/difficult. If it were easy, everyone would do it._ ”
 
 ---
 
 **The Sinatra Test:** Something passes the test if a single example of success is sufficient to effectively create a halo of “credibility” for future endeavors.
 
-* “If I can make it there, I'll make it anywhere.” (from Frank Sinatra's famous song, New York, New York)
+* “If I can make it there, I’ll make it anywhere.” (from Frank Sinatra’s famous song, New York, New York)
 
 ---
 
 [Doing the Unrealistic is Easier Than Doing the Realistic](https://tim.blog/2008/06/19/why-bigger-goals-less-competition-plus-eco-bounty-winners/)
 
-> _“It's lonely at the top. Ninety-nine percent of people in the world are convinced they are incapable of achieving great things, so they aim for the mediocre. The level of competition is thus fiercest for 'realistic' goals, paradoxically making them the most time and energy-consuming.” ― Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
+> _“It’s lonely at the top. Ninety-nine percent of people in the world are convinced they are incapable of achieving great things, so they aim for the mediocre. The level of competition is thus fiercest for ‘realistic’ goals, paradoxically making them the most time and energy-consuming.” ― Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
 
 ---
 
