@@ -1,22 +1,22 @@
 ---
 title: Dispel your narratives
 created: 2024-11-18T09:18:12
-modified: 2025-08-26T06:22:11
+modified: 2025-08-29T08:30:46
 ---
 
 > _“Wisdom accepts that all things have two sides.” — Carl Jung_
 
-> _I never ask if “I like it” or “I don't like it.” I think “this is what it is” or “this is what it isn't.” – Richard Feynman_
+> _I never ask if “I like it” or “I don’t like it.” I think “this is what it is” or “this is what it isn’t.” – Richard Feynman_
 
 ---
 
-It's easy to label things as “good” or “bad” in the moment, but the truth is, we rarely know how things will play out in the long run.
+It’s easy to label things as “good” or “bad” in the moment, but the truth is, we rarely know how things will play out in the long run.
 
 The wisest among us allow events to exist without applying a narrative layer. They let the space for the events to just exist, to be neither good nor bad—to just be, rather than place judgment on each reality—whether something is [“good” or “bad”](Duality%20versus%20Polarity.md).
 
 ---
 
-[The ability to _observe without evaluating_ is the highest form of intelligence.](https://www.reddit.com/r/QuotesPorn/comments/usvq74/the_ability_to_observe_without_evaluating_is_the/) — Like children, their life goes without saying: whether it is good or bad makes no difference. This is because children don't see the world, don't observe the world, don't contemplate the world, but are so deeply immersed in the world that they don't distinguish between it and their own selves.
+[The ability to _observe without evaluating_ is the highest form of intelligence.](https://www.reddit.com/r/QuotesPorn/comments/usvq74/the_ability_to_observe_without_evaluating_is_the/) — Like children, their life goes without saying: whether it is good or bad makes no difference. This is because children don’t see the world, don’t observe the world, don’t contemplate the world, but are so deeply immersed in the world that they don’t distinguish between it and their own selves.
 
 ---
 
@@ -42,9 +42,9 @@ A farmer and his son had a beloved horse who helped the family earn a living. On
 
 A few days later, the horse returned home, leading a few wild horses back to the farm as well. The neighbors shouted out, “Your horse has returned, and brought several horses home with him. What great luck!” The farmer replied, “Maybe so, maybe not.”
 
-Later that week, the farmer's son was trying to break one of the horses, and it threw him to the ground, breaking his leg. The neighbors cried, “Your son broke his leg, what terrible luck!” The farmer replied, “Maybe so, maybe not.”
+Later that week, the farmer’s son was trying to break one of the horses, and it threw him to the ground, breaking his leg. The neighbors cried, “Your son broke his leg, what terrible luck!” The farmer replied, “Maybe so, maybe not.”
 
-A few weeks later, soldiers from the national army marched through town, recruiting all boys for the army. They did not take the farmer's son, because he had a broken leg. The neighbors shouted, “Your boy is spared, what tremendous luck!” To which the farmer replied, “Maybe so, maybe not. We'll see.”
+A few weeks later, soldiers from the national army marched through town, recruiting all boys for the army. They did not take the farmer’s son, because he had a broken leg. The neighbors shouted, “Your boy is spared, what tremendous luck!” To which the farmer replied, “Maybe so, maybe not. We’ll see.”
 
 ---
 
