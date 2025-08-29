@@ -1,7 +1,7 @@
 ---
 title: Psychology
 created: 2024-11-18T09:18:12
-modified: 2025-08-20T06:22:01
+modified: 2025-08-29T08:30:45
 ---
 
 * Egocentric Bias
@@ -11,7 +11,7 @@ modified: 2025-08-20T06:22:01
 	* 指鹿為馬的「從眾心理」
 * The Illusory Truth Effect
 	* The tendency to believe false information to be correct after repeated exposure
-* The Centipede's Dilemma
+* The Centipede’s Dilemma
 	* How overthinking kills productivity
 * The Confirmation Bias
 	* 意識形態
@@ -21,7 +21,7 @@ modified: 2025-08-20T06:22:01
 * The Survivorship Bias
 	* What is unseen often has just as much value as what is seen
 	* Fighting The Zebra Effect is hard (but worth it)
-		* Standing out is dangerous. It's always going to be safer and more comfortable to blend in. But it's only by taking this risk that you can accomplish truly remarkable things.
+		* Standing out is dangerous. It’s always going to be safer and more comfortable to blend in. But it’s only by taking this risk that you can accomplish truly remarkable things.
 		* Those from our class who were willing to look crazy for long periods of time had built unique and impactful things. They also seemed happier on average.
 * The Pyrrhic Victory
 * [The Cobra Effect](The%20Cobra%20Effect.md)
@@ -40,7 +40,7 @@ modified: 2025-08-20T06:22:01
 		> “My good woman,” Picasso smiled, “It took me thirty years to draw that masterpiece in thirty seconds.”
 
 * The Peter Principle
-	* Employees in hierarchies are steadily promoted for competence—until they reach a level where they're incompetent.
+	* Employees in hierarchies are steadily promoted for competence—until they reach a level where they’re incompetent.
 	* People are promoted up to the level of peak _incompetence_.
 	* Examples: senior management at large organizations
 * The Diderot Effect
