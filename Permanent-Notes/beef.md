@@ -1,7 +1,7 @@
 ---
 title: 🥩 Beef
 created: 2024-11-18T09:16:50
-modified: 2025-07-16T21:23:31
+modified: 2025-08-29T08:30:45
 ---
 
 * 草飼 > 穀飼
@@ -29,5 +29,5 @@ modified: 2025-07-16T21:23:31
 	* 乾式 Dry Aging
 	* 濕式 Wet Aging
 * 牛排部位
-	* Onglet (aka hanger steak or butcher's steak = 側腹橫隔膜 (裙邊)/屠夫牛排)
+	* Onglet (aka hanger steak or butcher’s steak = 側腹橫隔膜 (裙邊)/屠夫牛排)
 	* Entrecôte (Rib-Eye Steak)
