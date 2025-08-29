@@ -1,7 +1,7 @@
 ---
 title: Never gossip about others
 created: 2025-02-20T10:08:47
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:46
 ---
 
 > _“Great minds discuss ideas; average minds discuss events; small minds discuss people.” — Eleanor Roosevelt_
@@ -10,7 +10,7 @@ modified: 2025-08-10T14:28:42
 
 ---
 
-Do not gossip. Just don't do it.
+Do not gossip. Just don’t do it.
 
 ---
 
@@ -24,7 +24,7 @@ When you talk bad about others, people wonder if you talk bad about them too.
 
 # Practice “Positive Gossip”
 
-Make a habit of praising people when they're not around. This is one of the fastest ways to foster a positive work/social environment.
+Make a habit of praising people when they’re not around. This is one of the fastest ways to foster a positive work/social environment.
 
 ---
 
