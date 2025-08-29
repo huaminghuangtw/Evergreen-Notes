@@ -1,7 +1,7 @@
 ---
 title: A friend to all is a friend to none
 created: 2024-11-18T09:18:12
-modified: 2025-08-28T08:01:31
+modified: 2025-08-29T08:30:45
 ---
 
 > _“A true friend never gets in your way unless you happen to be going down.” — Arnold H. Glasow_
@@ -28,7 +28,7 @@ The real gauge of friendship is how clean your house needs to be before they can
 
 ---
 
-Be the someone else's friend who is always there—in good times and bad. Be the **Darkest Hour Friend (Foxhole/Yes Friend)**.
+Be the someone else’s friend who is always there—in good times and bad. Be the **Darkest Hour Friend (Foxhole/Yes Friend)**.
 
 ---
 
@@ -38,11 +38,11 @@ Be the someone else's friend who is always there—in good times and bad. Be the
 
 ---
 
-You don't need hundreds of friends, you just need a few challenge-seekers.
+You don’t need hundreds of friends, you just need a few challenge-seekers.
 
 ---
 
-If you have too many _deal friends_, you won't have enough _real friends_.
+If you have too many _deal friends_, you won’t have enough _real friends_.
 
 ---
 
@@ -73,7 +73,7 @@ Good “inner circle” friendships must be treasured.
 
 Humans are mimetic creatures. We copy those around us. Decentralized friend groups are medicine for the mimetic mind.
 
-* **Decentralized Friend Groups:** You have many small clusters of different friends who aren't connected. The only thing they have in common is that they know you. Ambitious friends, fun friends, serious friends, relaxed friends, fitness friends, hometown friends, traveling friends, etc.
+* **Decentralized Friend Groups:** You have many small clusters of different friends who aren’t connected. The only thing they have in common is that they know you. Ambitious friends, fun friends, serious friends, relaxed friends, fitness friends, hometown friends, traveling friends, etc.
 * **Centralized Friend Groups:** You have one large cluster of friends. They all share the same history, beliefs and behaviors. They usually fit in one box. Examples: “School friends” or “Work friends”
 
 ## See Also
@@ -88,9 +88,9 @@ Humans are mimetic creatures. We copy those around us. Decentralized friend grou
 
 There are two types of friends:
 
-* **Summer Friends** are the ones who are there for you when it's warm and sunny, but disappear when the weather starts to turn. They are the seasonal tourists, not the locals.
+* **Summer Friends** are the ones who are there for you when it’s warm and sunny, but disappear when the weather starts to turn. They are the seasonal tourists, not the locals.
 	* Most people in your life are Summer Friends, and when winter inevitably comes, they are gone.
-* **Winter Friends** are the ones who are there for you when it's cold and dark. They are the locals, who have the wisdom to know that the seasons come and go.
+* **Winter Friends** are the ones who are there for you when it’s cold and dark. They are the locals, who have the wisdom to know that the seasons come and go.
 	* The Winter Friends are the relationships that you really need to cultivate. Those are the people who will be there for you throughout the different seasons of your life.
 
 [^1]: Why does this happen? “Energy Transference”
