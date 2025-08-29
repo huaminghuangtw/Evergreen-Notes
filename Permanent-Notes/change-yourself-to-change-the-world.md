@@ -1,16 +1,16 @@
 ---
 title: Change yourself to change the world
 created: 2024-11-18T09:18:12
-modified: 2025-08-26T14:30:43
+modified: 2025-08-29T08:30:45
 ---
 
 > _“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi_
 
-> _“Doctors won't make you healthy. Nutritionists won't make you slim. Teachers won't make you smart. Gurus won't make you calm. Mentors won't make you rich. Trainers won't make you fit. Ultimately, you have to take responsibility. Save yourself.” — Naval Ravikant_ [^1]
+> _“Doctors won’t make you healthy. Nutritionists won’t make you slim. Teachers won’t make you smart. Gurus won’t make you calm. Mentors won’t make you rich. Trainers won’t make you fit. Ultimately, you have to take responsibility. Save yourself.” — Naval Ravikant_ [^1]
 
 > _“Nothing helps; I must help myself, or I am finished.” — Friedrich Nietzsche_
 
-> _“You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You're on your own. And you know what you know. And YOU are the one who'll decide where to go.” ― Dr. Seuss, [Oh, the Places You’ll Go!](https://www.goodreads.com/work/quotes/2125304)_
+> _“You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You’re on your own. And you know what you know. And YOU are the one who’ll decide where to go.” ― Dr. Seuss, [Oh, the Places You’ll Go!](https://www.goodreads.com/work/quotes/2125304)_
 
 ---
 
@@ -28,7 +28,7 @@ Before changing yourself, you need to [knowing yourself](mastering-yourself-is-s
 
 [@gogginsCantHurtMe2018]
 
-> _“No one is going to come help you. No one's coming to save you.”_
+> _“No one is going to come help you. No one’s coming to save you.”_
 
 > _“You take your life in your own hands, and what happens? A terrible thing, no one to blame.” — Erica Jong_
 
@@ -44,7 +44,7 @@ Before changing yourself, you need to [knowing yourself](mastering-yourself-is-s
 
 ---
 
-# It's A Lot Easier To Change Yourself Than To Change The World. Be The Change You Want To See In The World.
+# It’s A Lot Easier To Change Yourself Than To Change The World. Be The Change You Want To See In The World.
 
 * Water your own grass
 * Mow your own lawn
@@ -94,4 +94,4 @@ Personal development/growth/improvement is a lifelong endeavor. Every single day
 
 * [Control the controllable](control-the-controllable.md)
 
-[^1]: The only person who's going to magically show up to save you— is you.
+[^1]: The only person who’s going to magically show up to save you— is you.
