@@ -1,7 +1,7 @@
 ---
 title: Courage is knowing what not to fear
 created: 2025-04-11T19:02:45
-modified: 2025-07-16T21:23:29
+modified: 2025-08-29T08:30:46
 ---
 
 > _[“Success is not final, failure is not fatal: it is the courage to continue that counts.” — Winston Churchill](https://www.youtube.com/watch?v=uuxMZL6ieWM)_
@@ -14,7 +14,7 @@ modified: 2025-07-16T21:23:29
 
 > _[“Courage is feeling fear, not getting rid of fear, and taking action in the face of fear.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7913240-courage-is-feeling-fear-not-getting-rid-of-fear-and)_
 
-> _“Life shrinks or expands in proportion to one's courage.” — Anaïs Nin_
+> _“Life shrinks or expands in proportion to one’s courage.” — Anaïs Nin_
 
 > _“The only courage that matters is the kind that gets you from one moment to the next.” — Mignon McLaughlin_
 
