@@ -1,7 +1,7 @@
 ---
 title: Optimism
 created: 2025-01-23T10:40:57
-modified: 2025-08-22T05:20:36
+modified: 2025-08-29T08:30:45
 ---
 
 > _“A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.” — Winston Churchill_ [^1]
@@ -36,7 +36,7 @@ You can always choose to look at the _bright_ side of something. Choosing to see
 
 ---
 
-A positive mind finds a way it can be done; A negative mind looks for all the ways it can't be done.
+A positive mind finds a way it can be done; A negative mind looks for all the ways it can’t be done.
 
 ---
 
