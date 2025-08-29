@@ -1,10 +1,10 @@
 ---
 title: Journey over destination
 created: 2024-11-18T09:18:12
-modified: 2025-08-26T05:35:26
+modified: 2025-08-29T08:30:46
 ---
 
-> _If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable.” — Maxime Lagace_
+> _If you focus on results and finding shortcuts, you’ll get impatient. If you focus on the process and doing the right thing, you’ll be unstoppable.” — Maxime Lagace_
 
 > _“Process saves us from the poverty of our intentions.” — Elizabeth King_
 
@@ -34,7 +34,7 @@ The climb is the fun part.
 
 The climb is always better than the view from the summit.
 
-Real, durable satisfaction, happiness and contentment are found in the anticipation of the achievement, not the achievement itself. It's the quest. It's the hunt. It's the process. It's the journey.
+Real, durable satisfaction, happiness and contentment are found in the anticipation of the achievement, not the achievement itself. It’s the quest. It’s the hunt. It’s the process. It’s the journey.
 
 ---
 
@@ -45,7 +45,7 @@ Real, durable satisfaction, happiness and contentment are found in the anticipat
 Focus on the [happiness](happiness.md) of pursuit, not the pursuit of happiness.
 
 * Becoming is better than being.
-* Having things isn't fun. Getting things is fun.
+* Having things isn’t fun. Getting things is fun.
 * The pleasure of anticipation is often greater than the pleasure of acquisition.
 
 ---
@@ -73,7 +73,7 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 * Trust the process \& Have faith in the process
 * Every step happens for a reason, and something even better is on the way.
 * Perceived Progress v.s Actual Progress
-	* _At first, progress is slow_—so subtle it's almost invisible. _Then, all at once_, everything changes.
+	* _At first, progress is slow_—so subtle it’s almost invisible. _Then, all at once_, everything changes.
 		* Nothing happens—then everything does.
 		* Slow. Steady. Sudden.
 
@@ -91,7 +91,7 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 
 * A **project** is a sequence of tasks that must be completed within a defined timeline to attain a certain outcome. An **effort** is _an exertion of energy to do something_—where the steps, deadlines, and outcomes may or may not be clearly defined.
 * **Projects** are rigid and narrowly defined (_top-down_) with a hard deadline. **Efforts** are freeing, fluid, expandable and loosely defined (_bottom-up_), allowing ideas to breath
-* If you work in a corporate environment with clear deadlines, you'll be fine with projects. If your work requires creativity, you'll find this approach profound, liberating, and empowering.
+* If you work in a corporate environment with clear deadlines, you’ll be fine with projects. If your work requires creativity, you’ll find this approach profound, liberating, and empowering.
 
 ---
 
@@ -100,13 +100,13 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 ![](../_attachments/6e29ddafb0cf36ac8feca32a4f35bff0.jpg)
 
 * Instead of treating your goals like [to-do list](Variants%20of%20to-do%20list.md) items, try turning them into quests (= a journey, an adventure toward a specific mission or a goal).
-* Goals are practical attempts to change your circumstances/situations. A quest is personally transformative – the endeavor itself shapes _who you are (your identity)_ and _what you're capable of (your potential)_.
+* Goals are practical attempts to change your circumstances/situations. A quest is personally transformative – the endeavor itself shapes _who you are (your identity)_ and _what you’re capable of (your potential)_.
 
 ---
 
 # The Checkpoint Mentality
 
-* “_It's just a checkpoint, not the destination._”
+* “_It’s just a checkpoint, not the destination._”
 
 ---
 
@@ -114,7 +114,7 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 
 > _How long will it take you to become a master?_
 >
-> _It doesn't matter._
+> _It doesn’t matter._
 >
 > _Imagine getting to a mountaintop after a long hike through a gorgeous forest._
 >
@@ -124,9 +124,9 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 
 # By [James Clear](https://jamesclear.com/quotes/when-you-choose-the-benefits-of-an-action-you-also-choose-the-drawbacks)
 
-> _If you want to be an author, you can't only choose the finished novel and book signings. You are also choosing months of lonely typing._
+> _If you want to be an author, you can’t only choose the finished novel and book signings. You are also choosing months of lonely typing._
 >
-> _If you want to be a bodybuilder, you can't only choose the fit body and attention. You are also choosing the boring meals and calorie counting._
+> _If you want to be a bodybuilder, you can’t only choose the fit body and attention. You are also choosing the boring meals and calorie counting._
 
 ---
 
@@ -136,9 +136,9 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 >
 > _When you surround yourself with inspiring people, the journeys become more beautiful and the destinations become more brilliant._
 >
-> _[Focus on the company—the people you want to journey with](You%20are%20the%20average%20of%20the%20five%20people%20you%20associate%20with%20most.md)—and you'll find that the journey reveals itself in due time._
+> _[Focus on the company—the people you want to journey with](You%20are%20the%20average%20of%20the%20five%20people%20you%20associate%20with%20most.md)—and you’ll find that the journey reveals itself in due time._
 
-Paradox: Although it's being said that “you got to focus on the journey because there is no guarantee on the destination”, you need a destination to get into the journey. [Without a destination, there is no journey—just movement.](always-start-with-end-in-mind.md)
+Paradox: Although it’s being said that “you got to focus on the journey because there is no guarantee on the destination”, you need a destination to get into the journey. [Without a destination, there is no journey—just movement.](always-start-with-end-in-mind.md)
 
 ---
 
