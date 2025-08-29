@@ -1,7 +1,7 @@
 ---
 title: You can achieve anything if you focus on one thing at a time
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:45
 ---
 
 > _[“The only way to gain enough efficiency to complete The Art of Computer Programming is to operate in batch mode, concentrating intensively and uninterruptedly on one subject at a time, rather than swapping a number of topics in and out of my head.” — Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/retd.html)_
@@ -26,7 +26,7 @@ Avoid “[priority ping-pong](Task%20Switching.md)” — stay committed to one 
 
 # The Cocktail Party Effect
 
-* refers to the ability to focus one's attention a particular stimulus while filtering out a range of other stimuli (i.e., noise)
+* refers to the ability to focus one’s attention a particular stimulus while filtering out a range of other stimuli (i.e., noise)
 
 ---
 
@@ -62,4 +62,4 @@ In The Happiness Hypothesis, New York University psychologist Jonathan Haidt des
 * [Focus is about saying no](focus-is-about-saying-no.md)
 * [Being indistractable is superpower](being-indistractable-is-superpower.md)
 
-[^1]: Multitasking isn't always bad — you just have to make sure the conditions are right.
+[^1]: Multitasking isn’t always bad — you just have to make sure the conditions are right.
