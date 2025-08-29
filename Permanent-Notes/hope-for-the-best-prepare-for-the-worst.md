@@ -1,7 +1,7 @@
 ---
 title: Hope for the best, prepare for the worst
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:45
 ---
 
 > _“Do not think there are no crocodiles just because the water is calm.”_
@@ -42,7 +42,7 @@ Do favors for tomorrow you. [Set yourself up for success. Create a condition tha
 
 > A Zen master received a beautiful glass cup from a former student. He loved it, used it daily, and showed it to visitors. he would hold the cup in his hand and remind himself, “This cup is already broken.”
 >
-> One day, a visitor knocked the cup from its shelf. It fell to the ground and broke into pieces. While others gasped, the master stayed calm. Smiling, he said, “Ah, yes, let's begin,” picked up a broom, and started to sweep up the pieces.
+> One day, a visitor knocked the cup from its shelf. It fell to the ground and broke into pieces. While others gasped, the master stayed calm. Smiling, he said, “Ah, yes, let’s begin,” picked up a broom, and started to sweep up the pieces.
 
 ---
 
