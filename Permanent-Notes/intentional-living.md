@@ -1,7 +1,7 @@
 ---
 title: Intentional Living
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:45
 ---
 
 > _“Get busy living, or get busy dying.” — Stephen King_
@@ -14,15 +14,15 @@ modified: 2025-08-10T14:28:42
 
 > _“Life, if well lived, is long enough.” — Seneca_
 
-> _“I don't want to get to the end of my life and find that I just lived the length of it. I want to live the width of it as well.” — Diane Ackerman_
+> _“I don’t want to get to the end of my life and find that I just lived the length of it. I want to live the width of it as well.” — Diane Ackerman_
 
-> _“One day your life will flash before your eyes. Make sure it's worth watching.” — Gerard Way_
+> _“One day your life will flash before your eyes. Make sure it’s worth watching.” — Gerard Way_
 
 ---
 
 [@markaurelMeditations2006]
 
-> _“Concentrate every minute like a Roman—like a man—on doing what's in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions.”_
+> _“Concentrate every minute like a Roman—like a man—on doing what’s in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions.”_
 
 > _“To affect the quality of the day, that is the highest of arts. Every man is tasked to make his life, even in its details, worthy of the contemplation of his most elevated and critical hour.” ― Henry David Thoreau_
 
@@ -32,11 +32,11 @@ Stop wasting your life. Start living now.
 
 ---
 
-> _“If you can't live longer, live deeper.” — Italian Proverb_
+> _“If you can’t live longer, live deeper.” — Italian Proverb_
 
-> _“In the end, it's not the years in your life that count. It's the life in your years.” — Abraham Lincoln_
+> _“In the end, it’s not the years in your life that count. It’s the life in your years.” — Abraham Lincoln_
 
-> _“The quality, not the longevity, of one's life is what is important.” — Martin Luther King, Jr._
+> _“The quality, not the longevity, of one’s life is what is important.” — Martin Luther King, Jr._
 
 > _[“We don't beat the reaper by living longer, but by living well, and living fully — for the reaper will come for all of us. The question is: what do we do between the time we're born and the time he shows up. Because when he shows up, it's too late to do all the things that you're always gonna, kinda get around to. **It is not the things we do in life that we regret on our death bed. It is the things we do not.**” — Randy Pausch](https://youtu.be/RcYv5x6gZTA)_
 
@@ -53,10 +53,10 @@ Many people just fill their hours with things that are easy rather than things t
 
 ---
 
-Don't be a “Living Dead.” Don't _die_ before you are _dead_.
+Don’t be a “Living Dead.” Don’t _die_ before you are _dead_.
 
 * 「大半的人在二十歲或三十歲上就死了。一過這個年齡，他們只變了自己的影子。以後的生命不過是用來模仿自己，把以前真正有人味的時代所說的，所做的，所想的，所喜歡的，一天天的重複，而且重複的方式越來越機械，越來越脫腔走板。」— Christopher Nolan
-* _“Most people die at 25 and aren't buried until they're 75.” — Benjamin Franklin_
+* _“Most people die at 25 and aren’t buried until they’re 75.” — Benjamin Franklin_
 * _“To live is the rarest thing in the world. Most people exist, that is all.” — Oscar Wilde_
 * _“Some people are old at 19 and some are still young at 90.”_
 * 乾枯的靈魂
