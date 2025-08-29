@@ -1,7 +1,7 @@
 ---
 title: How the poor and rich think differently
 created: 2025-02-17T17:36:06
-modified: 2025-08-10T14:28:42
+modified: 2025-08-29T08:30:46
 ---
 
 | 窮人思維 | 富人思維 |
@@ -13,7 +13,7 @@ modified: 2025-08-10T14:28:42
 | Buy [Liabilities](Assets%20versus%20Liabilities.md) | Invest [Assets](Assets%20versus%20Liabilities.md) |
 | 消費者心態 | 生產者心態 |
 | [匱乏 (Scarcity) 心理](scarcity-creates-a-mindset-that-perpetuates-scarcity.md) [^1]，認為資源有限，通常是悲觀主義者 | [豐盛 (Abundance) 心理](The%20Growth%20Mindset.md)，認為資源無限，通常是樂觀主義者 |
-| 利己，不願與他人分享，常與人建立競爭關係 (One person's gain is another person's loss) | 利他，樂於幫助它人，常與人建立互利/雙贏關係 (Everyone can win, not just one person.) |
+| 利己，不願與他人分享，常與人建立競爭關係 (One person’s gain is another person’s loss) | 利他，樂於幫助它人，常與人建立互利/雙贏關係 (Everyone can win, not just one person.) |
 | 小事斤斤計較，大事件件糊塗 | 大事斤斤計較，小事件件糊塗 |
 | Ask $3 questions | Ask $30,000 questions |
 
