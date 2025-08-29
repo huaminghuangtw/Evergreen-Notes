@@ -1,14 +1,14 @@
 ---
 title: Life is shorter than you think
 created: 2025-01-23T10:40:57
-modified: 2025-08-26T15:11:45
+modified: 2025-08-29T08:30:46
 ---
 
 > _“No matter how many times you do something, there will come a day when you do it for the last time.” — Sam Harris_
 
 > _“The price of anything is the amount of life you exchange for it.” — Henry David_
 
-> _“There are 100 billion planets in our galaxy and only one, as far as we know, with intelligent life. The fact that you are reading this book is the result of the longest tail you can imagine. That's something to be happy about.” — [@houselPsychologyMoneyTimeless2020]_
+> _“There are 100 billion planets in our galaxy and only one, as far as we know, with intelligent life. The fact that you are reading this book is the result of the longest tail you can imagine. That’s something to be happy about.” — [@houselPsychologyMoneyTimeless2020]_
 
 > _“Every man has two lives, and the second starts when he realizes he has just one.” — Confucius_
 
@@ -22,9 +22,9 @@ modified: 2025-08-26T15:11:45
 
 ["Life Is Short" by Paul Graham](https://paulgraham.com/vb.html)
 
-> _Life is short and finite. Don't take things for granted. Appreciate every day. When you take things for granted, they're gone.—You think you can always write that book, or climb that mountain, or whatever, and then you realize the window has closed. The saddest windows close when other people die.—Their lives are short too._
+> _Life is short and finite. Don’t take things for granted. Appreciate every day. When you take things for granted, they’re gone.—You think you can always write that book, or climb that mountain, or whatever, and then you realize the window has closed. The saddest windows close when other people die.—Their lives are short too._
 
-> _Relentlessly prune bullshit, don't wait to do things that matter and important to you, and savor the time you have. That's what you do when life is short._
+> _Relentlessly prune bullshit, don’t wait to do things that matter and important to you, and savor the time you have. That’s what you do when life is short._
 
 ---
 
@@ -46,7 +46,7 @@ Accept the impermanence of everything in our lives.
 
 # [Live Like It's The Last Time](https://www.sahilbloom.com/newsletter/live-like-its-the-last-time)
 
-You won't know when it's the last time. But you can live like it is.
+You won’t know when it’s the last time. But you can live like it is.
 
 ---
 
