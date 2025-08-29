@@ -1,7 +1,7 @@
 ---
 title: fame
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:31
+modified: 2025-08-29T08:30:45
 ---
 
 > _“Uneasy lies the head that wears a crown.” — William Shakespeare_
@@ -18,7 +18,7 @@ is a “social debt.”
 
 ---
 
-Don't volunteer information. Don't tell people more than they need to know. Respect your privacy.
+Don’t volunteer information. Don’t tell people more than they need to know. Respect your privacy.
 
 ---
 
@@ -26,7 +26,7 @@ Travel and tell no one. Live a true love story and tell no one. Live happily and
 
 ---
 
-People can't ruin what they don't know. Privacy is power. Don't overshare.
+People can’t ruin what they don’t know. Privacy is power. Don’t overshare.
 
 ---
 
@@ -40,7 +40,7 @@ Keep quiet about your… (不要張揚這些事)
 
 ---
 
-Never try to be famous — it's a trap.
+Never try to be famous — it’s a trap.
 
 ---
 
@@ -56,4 +56,4 @@ Less eyes on you = more freedom
 
 * Becoming famous is the most amazing feeling in the world.
 * Being famous is a mixed bag.
-* Losing fame is a pain like you've never felt before.
+* Losing fame is a pain like you’ve never felt before.
