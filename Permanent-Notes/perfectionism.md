@@ -1,14 +1,14 @@
 ---
 title: perfectionism
 created: 2024-11-18T09:18:12
-modified: 2025-08-26T14:43:16
+modified: 2025-08-29T15:06:11
 ---
 
-> _“You don't have to be great to start, but you have to start to be great.” — Zig Ziglar_
+> _“You don’t have to be great to start, but you have to start to be great.” — Zig Ziglar_
 
 [@ferriss4hourWorkweekEscape2011]
 
-> _“Conditions are never perfect. 'Someday”' is a disease that will take your dreams to the grave with you. Pro and con lists are just as bad. If it's important to you and you want to do it 'eventually,' just do it and correct course along the way.” ― Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
+> _“Conditions are never perfect. ‘Someday”’ is a disease that will take your dreams to the grave with you. Pro and con lists are just as bad. If it’s important to you and you want to do it ‘eventually,’ just do it and correct course along the way.” ― Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
 
 ---
 
@@ -31,7 +31,7 @@ Perfectionism is a [double-edged sword (雙面刃)](Duality%20versus%20Polarity.
 
 [Kintsugi](https://www.google.com/search?q=Kintsugi)—the Japanese practice of repairing broken pottery with gold, rendering a new piece that is more exquisite than it was before the break.
 
-Your flaws attract the right people you want to be around and filter out those who don't belong.
+Your flaws attract the right people you want to be around and filter out those who don’t belong.
 
 ---
 
@@ -40,7 +40,7 @@ Your flaws attract the right people you want to be around and filter out those w
 1. **[Fear of Failure:](Fear%20of%20Failure%20and%20Success.md)** Perfectionists often avoid taking risks due to the fear of making mistakes or not meeting their own high standards.
 2. **[Procrastination:](Procrastination.md)** The pressure to produce perfect work can lead to avoidance behaviors, where individuals [overthink](overthinking.md) and delay starting tasks due to anxiety about their performance.
 3. **[Burnout:](Burnout.md)** Constant striving for perfection is exhausting and can lead to physical and mental burnout.
-4. **[Low Self-Esteem:](Your%20relationship%20with%20yourself%20sets%20the%20tone%20for%20every%20other%20relationships%20you%20have.md)** Perfectionists may tie their self-worth closely to their achievements, leading to feelings of inadequacy when they inevitably fall short.
+4. **[Low Self-Esteem:](your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md)** Perfectionists may tie their self-worth closely to their achievements, leading to feelings of inadequacy when they inevitably fall short.
 
 ---
 
@@ -48,7 +48,7 @@ History remembers those who got to market first. [^1] Getting your creation out 
 
 ---
 
-If you don't succeed in your first attempt, just call it version 1.0 and move on.
+If you don’t succeed in your first attempt, just call it version 1.0 and move on.
 
 ---
 
@@ -64,7 +64,7 @@ Imperfect [action](cultivate-a-strong-bias-towards-action.md) trumps visualized 
 
 > _“Premature optimization is the root of all evil.” — Donald Knuth_ [^2]
 
-Done is better than perfect. — First make it work. Then optimize (pretty, efficient, documented). Don't over-engineer. Never start to scale/optimize things too early. Use [feedback](feedback.md) for fast iterations. _**It's okay to be wrong.**_
+Done is better than perfect. — First make it work. Then optimize (pretty, efficient, documented). Don’t over-engineer. Never start to scale/optimize things too early. Use [feedback](feedback.md) for fast iterations. _**It’s okay to be wrong.**_
 
 ---
 
