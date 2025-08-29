@@ -1,14 +1,14 @@
 ---
 title: Leadership
 created: 2025-01-23T10:40:57
-modified: 2025-07-16T21:23:30
+modified: 2025-08-29T08:30:46
 ---
 
 > _“To lead people, walk beside them.” — Lao Tzu_
 
 > _[“The way to help someone is not to critique what makes them smaller, but to encourage what makes them larger.” — James Clear](https://jamesclear.com/3-2-1/march-20-2025)_
 
-> _“The greatest sign of success for a teacher is to be able to say, 'The children are now working as if I did not exist.' But this holds true for leadership in general—give people space and they flourish.” — Maria Montessori_
+> _“The greatest sign of success for a teacher is to be able to say, ‘The children are now working as if I did not exist.’ But this holds true for leadership in general—give people space and they flourish.” — Maria Montessori_
 
 > _“Great leaders create more leaders, not followers. Great leaders have vision, share vision, and inspire others to create their own.” — Roy T. Bennett_
 
@@ -16,7 +16,7 @@ modified: 2025-07-16T21:23:30
 
 [@sengeFifthDisciplineArt2006]
 
-> _“The bad leader is he who the people despise; the good leader is he who the people praise; the great leader is he who the people say, 'We did it ourselves.'”_
+> _“The bad leader is he who the people despise; the good leader is he who the people praise; the great leader is he who the people say, ‘We did it ourselves.’”_
 
 [@sinekLeadersEatLast2014]
 
@@ -32,7 +32,7 @@ Leadership is seeing the greatness in others before they see it in themselves.
 
 ---
 
-When you find yourself in a situation where everyone looks at each other, it's time for you to lead the way.
+When you find yourself in a situation where everyone looks at each other, it’s time for you to lead the way.
 
 ---
 
@@ -42,7 +42,7 @@ When you find yourself in a situation where everyone looks at each other, it's t
 
 # [Leading from Any Chair](https://sketchplanations.com/leading-from-any-chair)
 
-* We all have the opportunity to make an impact, even when we're not standing at the front. When you choose to step up, you may discover that that leadership is more complex than it appears and develop greater empathy for those in leadership roles. Learn to lead by constantly asking yourself, “What would I say should I suddenly be called upon to lead?”
+* We all have the opportunity to make an impact, even when we’re not standing at the front. When you choose to step up, you may discover that that leadership is more complex than it appears and develop greater empathy for those in leadership roles. Learn to lead by constantly asking yourself, “What would I say should I suddenly be called upon to lead?”
 
 ---
 
@@ -51,7 +51,7 @@ When you find yourself in a situation where everyone looks at each other, it's t
 * 砌磚工人 ([The Three Bricklayers Story](https://sketchplanations.com/the-three-bricklayers))
 	![](../_attachments/5cf0f716caabb0cc924e875773c27193.jpg)
 * 造船工人
-	* If you want to build a ship, don't drum up the men to gather wood, divide the work and give orders. Instead, teach/inspire them to yearn for the vast and endless sea. Audacious ideas motivate people.
+	* If you want to build a ship, don’t drum up the men to gather wood, divide the work and give orders. Instead, teach/inspire them to yearn for the vast and endless sea. Audacious ideas motivate people.
 	* You should not build something just for the sake of building. You should build something because it will help you to fulfill a dream, in this case, going to sea.
 
 ---
@@ -71,4 +71,4 @@ Think of a great leader like a captain of a ship: they make sure everyone is saf
 
 “I can afford to wait, because I trust myself and my tribe.”
 
-Insecure leaders rush to take first, fearing there's not enough. Confident leaders **create abundance** by leading with stability and assurance.
+Insecure leaders rush to take first, fearing there’s not enough. Confident leaders **create abundance** by leading with stability and assurance.
