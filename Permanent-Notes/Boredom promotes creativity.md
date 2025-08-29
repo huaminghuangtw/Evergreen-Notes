@@ -1,7 +1,7 @@
 ---
 title: Boredom promotes creativity
 created: 2024-12-16T14:01:41
-modified: 2025-07-25T11:17:37
+modified: 2025-08-29T08:30:46
 ---
 
 [@talebBedProcrustesPhilosophical2016]
@@ -20,7 +20,7 @@ modified: 2025-07-25T11:17:37
 
 After observing that highly creative individuals like Einstein, Mozart, and da Vinci valued “free-floating periods of thought,” [@andreasenJourneyChaosCreativity2011] studied brain activity during idle moments.
 
-Surprisingly, the brain wasn't idle at all but rather engaged in active processes. This state, called **Random Episodic Silent Thinking (R.E.S.T.)** or the **Default Mode Network (DMN)**, is when the brain actively seeks connections and forms associations, making sense of experiences.
+Surprisingly, the brain wasn’t idle at all but rather engaged in active processes. This state, called **Random Episodic Silent Thinking (R.E.S.T.)** or the **Default Mode Network (DMN)**, is when the brain actively seeks connections and forms associations, making sense of experiences.
 
 DMN is best known for being active when a person is not focused on the outside world, engaged with doing mindless activities (such as _walking_, _running_, _bike riding_, _taking shower_ ,[^2] _driving_, _house cleaning_, _washing the dishes_, _hanging up the laundry_, _going to the grocery store_, _sitting on the beach/couch/sofa_, etc.), and the brain is at wakeful rest (such as during daydreaming and mind-wandering [^3]).
 
@@ -32,12 +32,12 @@ DMN is best known for being active when a person is not focused on the outside w
 
 # When the brain relaxes sufficiently, creative solutions do appear.
 
-* Our brain is a self-organizing system—default to creativity when it's in a “wakeful resting state”—free of inputs/free to [wander](wander.md).
+* Our brain is a self-organizing system—default to creativity when it’s in a “wakeful resting state”—free of inputs/free to [wander](wander.md).
 * Creativity tends to arise in states of relaxation which are _preceded by a long period of focused deep thinking_.
 
 ---
 
-For Warren Buffett, it's a much more important practice to take the time for _[doing nothing](Wu%20Wui.md) and just sitting and thinking_ than filling out every minute of his day with tasks.
+For Warren Buffett, it’s a much more important practice to take the time for _[doing nothing](wu-wei.md) and just sitting and thinking_ than filling out every minute of his day with tasks.
 
 ---
 
@@ -47,7 +47,7 @@ For Warren Buffett, it's a much more important practice to take the time for _[d
 
 # Boredom Alpha
 
-Your most creative moments come during bouts of boredom. Experiencing [regular periods of boredom](solitude.md) is a competitive advantage. When you're bored, your mind [wanders](wander.md), and creative insight (洞察力) strikes.
+Your most creative moments come during bouts of boredom. Experiencing [regular periods of boredom](solitude.md) is a competitive advantage. When you’re bored, your mind [wanders](wander.md), and creative insight (洞察力) strikes.
 
 Boredom is a filter. Common ideas come before it. Uncommon ideas come after it. Stay with a project long enough to get bored with it, and then push yourself even further. The most valuable insights often bubble up after you get bored.
 
