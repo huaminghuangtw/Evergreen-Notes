@@ -1,7 +1,7 @@
 ---
 title: Information Overwhelm
 created: 2024-11-18T09:18:12
-modified: 2025-08-15T13:46:05
+modified: 2025-08-29T08:30:46
 ---
 
 > _“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” ― T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654)_
@@ -25,7 +25,7 @@ modified: 2025-08-15T13:46:05
 # Solutions
 
 * Just-In-Case information → Just-In-Time information
-	* It's not enough to use information for “something” — it needs to be immediate and important. If “no” on either count, don't consume it. [Information is useless if it is not applied to something important](cultivate-a-strong-bias-towards-action.md) or if you will forget it before you have a chance to apply it.
+	* It’s not enough to use information for “something” — it needs to be immediate and important. If “no” on either count, don’t consume it. [Information is useless if it is not applied to something important](cultivate-a-strong-bias-towards-action.md) or if you will forget it before you have a chance to apply it.
 * Reactive → Proactive
 	* Develop the habit of asking yourself, “_Will I definitely use this information for something immediate and important?_” before consuming any content
 * Fast, excessive consumption → Slow, gradual engagement
@@ -42,7 +42,7 @@ modified: 2025-08-15T13:46:05
 * Consume less. [Reflect/Review](reflect-and-review.md) or [Create/Produce/Make/Build](Creativity%20is%20just%20connecting%20things.md) More.
 	* Embrace [Low Information Diet](Low%20Information%20Diet.md) to avoid the “[Mental Squeeze Point](https://notes.linkingyourthinking.com/Cards/Mental+Squeeze+Point)”
 	* Spend more time _connecting dots (convergent exploiting)_ than you do _collecting them (divergent exploring)_
-	* Strive for a balance between _consuming_ and _digesting_ information—because if you only take in content without truly processing it, you're likely to forget most of what you encounter.
+	* Strive for a balance between _consuming_ and _digesting_ information—because if you only take in content without truly processing it, you’re likely to forget most of what you encounter.
 	* If you decide to consume something:
 		* Consume what you are going to create
 			* Mindset Shift: Consumer → Producer
@@ -54,7 +54,7 @@ modified: 2025-08-15T13:46:05
 			* [The Lindy Library](The%20Lindy%20Effect.md)
 			* [Brain Attic](Brain%20Attic.md)
 		* Study history to predict the future
-			* It's all just history repeating itself (Historic Recurrence).
+			* It’s all just history repeating itself (Historic Recurrence).
 			* Humans tend to repeat the mistakes humans make.
 			* _“History never repeats itself. Man always does.” ― Voltaire_
 	* Remember: _Information_ and _knowledge_ are two different things!
