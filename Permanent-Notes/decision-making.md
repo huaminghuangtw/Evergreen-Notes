@@ -1,16 +1,16 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2025-08-23T04:26:39
+modified: 2025-08-29T08:30:45
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
 
-> _“It's better to be boldly decisive and risk being wrong than to agonise at length and be right too late.” — Marilyn Moats Kennedy_
+> _“It’s better to be boldly decisive and risk being wrong than to agonise at length and be right too late.” — Marilyn Moats Kennedy_
 
-> _“Learn to make non-fatal or easily reversible decisions as quickly as possible. Fast (not rushed) decisions preserve usable [attention](attention.md) for what matters. It's deliberation—the time we vacillate over and consider each decision—consumes our attention. Embrace a choice-minimal lifestyle.” — [@ferriss4hourWorkweekEscape2011]_
+> _“Learn to make non-fatal or easily reversible decisions as quickly as possible. Fast (not rushed) decisions preserve usable [attention](attention.md) for what matters. It’s deliberation—the time we vacillate over and consider each decision—consumes our attention. Embrace a choice-minimal lifestyle.” — [@ferriss4hourWorkweekEscape2011]_
 
-> _“I've learned that whenever I decide something with an open heart, I usually make the right decision.” — Maya Angelou_
+> _“I’ve learned that whenever I decide something with an open heart, I usually make the right decision.” — Maya Angelou_
 
 ---
 
@@ -25,11 +25,11 @@ modified: 2025-08-23T04:26:39
 # How To Make Good Decisions?
 
 * When faced with a difficult decision, ask yourself what your [80-year-old self](death.md) would want you to do.
-* Anytime you feel a high activation state of any kind of positive/negative emotions or internal arousal, you should pause/stop and reflect, because what's happening is it's revealing to you something very important.
+* Anytime you feel a high activation state of any kind of positive/negative emotions or internal arousal, you should pause/stop and reflect, because what’s happening is it’s revealing to you something very important.
 	* By reflecting on these states, we can uncover important lessons and insights that can inform our future decisions and actions.
-	* If you don't stop to think about why I'm so upset or why I'm so happy, you're gonna miss an important lesson. (similar to Alchemy 煉金術 \& Avocados [^2])
+	* If you don’t stop to think about why I’m so upset or why I’m so happy, you’re gonna miss an important lesson. (similar to Alchemy 煉金術 \& Avocados [^2])
 * **The Secretary Problem (The 37 Percent Rule) 撿石子理論**
-	* It implies that the optimal win probability is always at least 1/e (e is Napier's Constant or Euler's Number), and that the latter holds even in a much greater generality.
+	* It implies that the optimal win probability is always at least 1/e (e is Napier’s Constant or Euler’s Number), and that the latter holds even in a much greater generality.
 		* 最佳觀察期為整條路段長度的 1/e ~ 0.36788 (略大於 1/3)
 	* Examples
 		* 擇偶
@@ -42,7 +42,7 @@ modified: 2025-08-23T04:26:39
 
 # [Look for single decision that removes hundreds or thousands of other decisions.](https://tim.blog/2020/01/20/one-decision-that-removes-100-decisions/)
 
-> _“Don't make a hundred decisions when one will do.” — [Jim Collins](https://www.jimcollins.com/index.html)_
+> _“Don’t make a hundred decisions when one will do.” — [Jim Collins](https://www.jimcollins.com/index.html)_
 
 * 「哪一種決定是可以把水龍頭🚰關起來的? 」
 * [Style is consistent constraint. Having a style collapses hundreds of future decisions into one, and gives you focus. Style gives you leverage. Every time you reuse your style you save time. A durable style is a great investment. Collect constraints you enjoy.](https://stephango.com/style)
@@ -59,7 +59,7 @@ A simple decision-making framework created by author and speaker Suzy Welch. The
 
 ---
 
-# [Two types of decisions](Jeff%20Bezos'%20letter%20to%20Amazon%20shareholders%201997.md)
+# [Two types of decisions](jeff-bezoss-letter-to-amazon-shareholders-1997.md)
 
 |     Type I      |                           Type II                            |
 | :-------------: | :----------------------------------------------------------: |
@@ -99,8 +99,8 @@ When faced with any key decision, you effectively choose one of two potential ch
 
 [One filter I use for making decisions: “*How much can I influence the outcome after the initial choice is made?*”](https://jamesclear.com/3-2-1/october-5-2023)
 
-* When I can do a lot to influence the outcome, I'm less worried about risk. Even if the choice appears risky on the surface, I can likely create a good outcome with effort.
-* When I can't do much to influence the outcome, I'm more risk averse. Even my best effort won't move the needle.
+* When I can do a lot to influence the outcome, I’m less worried about risk. Even if the choice appears risky on the surface, I can likely create a good outcome with effort.
+* When I can’t do much to influence the outcome, I’m more risk averse. Even my best effort won’t move the needle.
 * Your ability to influence the outcome after a decision is made is a crucial thing to consider.
 
 ---
@@ -112,48 +112,48 @@ Razors
 = rule of thumbs that simplifies the decision-making process
 
 * The Rooms Razor
-	* If you have a choice between entering two rooms, choose the room where you're more likely to be the dumbest/weakest one in the room.
-	* Once you're in the room, talk less and listen more.
+	* If you have a choice between entering two rooms, choose the room where you’re more likely to be the dumbest/weakest one in the room.
+	* Once you’re in the room, talk less and listen more.
 	* Bad for your ego—great for your growth.
-	* Related: You don't have to be the loudest in the room. Just be the one everyone listens to when it goes quiet.
+	* Related: You don’t have to be the loudest in the room. Just be the one everyone listens to when it goes quiet.
 * The Arena Razor
 	* When faced with two paths, choose the path that puts you in the arena.
-	* It's easy to throw rocks from the sidelines. It's scary and lonely in the arena—but it's where growth happens.
+	* It’s easy to throw rocks from the sidelines. It’s scary and lonely in the arena—but it’s where growth happens.
 * The Duck Test
-	* If it looks like a duck, swims like a duck, and quacks like a duck, it's probably a duck.
+	* If it looks like a duck, swims like a duck, and quacks like a duck, it’s probably a duck.
 	* You can determine a lot about a person by observing their habitual actions and characteristics.
 	* When someone tells you who they are, believe them the first time.
 * [The Hanlon's Razor](The%20Hanlon's%20Razor.md)
-* The Hitchens' Razor \& Newton's Flaming Laser Sword
+* The Hitchens’ Razor \& Newton’s Flaming Laser Sword
 	* Anything asserted without evidence can be dismissed without evidence.
-	* If something cannot be settled by reasonable experiment or observation, it's not worth debating.
+	* If something cannot be settled by reasonable experiment or observation, it’s not worth debating.
 * The Bragging Razor
-	* If someone brags about their success or happiness, assume it's half what they claim.
+	* If someone brags about their success or happiness, assume it’s half what they claim.
 		* If a person tells you why their thing (city, relationship, or job) is great, take it with a pinch of salt.
-	* If someone downplays their success or happiness, assume it's double what they claim.
+	* If someone downplays their success or happiness, assume it’s double what they claim.
 		* If a person tells you why their thing (city, relationship, or job) is terrible, take it like a handful of gold.
 	* Beware of Trojan Horses (特洛伊木馬)
 * The [Luck](luck.md) Razor
 	* When choosing two paths, choose the path that has a larger luck surface area.
-* Taleb's Surgeon
-	* If presented with two equal candidates for a role, pick the one that doesn't “look the part” / with the least amount of charisma.
+* Taleb’s Surgeon
+	* If presented with two equal candidates for a role, pick the one that doesn’t “look the part” / with the least amount of charisma.
 	* The uncharismatic one has got there despite their lack of charisma. The charismatic one has got there with the aid of their charisma.
 
 ---
 
 # [The Cheshire Cat Principle: How to Create Clarity](https://www.sahilbloom.com/newsletter/the-cheshire-cat-principle-how-to-create-clarity)
 
-> _If you aren't clear on where you want to go, any road will take you there._
+> _If you aren’t clear on where you want to go, any road will take you there._
 
-In Alice's Adventures in Wonderland, there's a scene in which Alice reaches a fork in the road and has a simple exchange with the Cheshire Cat:
+In Alice’s Adventures in Wonderland, there’s a scene in which Alice reaches a fork in the road and has a simple exchange with the Cheshire Cat:
 
 > “Would you tell me, please, which way I ought to go from here?”
 >
 > “That depends a good deal on where you want to get to,” said the Cat.
 >
-> “I don't much care where—” said Alice.
+> “I don’t much care where—” said Alice.
 >
-> “Then it doesn't matter which way you go,” said the Cat.
+> “Then it doesn’t matter which way you go,” said the Cat.
 
 ---
 
