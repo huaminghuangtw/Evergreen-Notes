@@ -1,7 +1,7 @@
 ---
 title: What you work on is far more important than how productively you work
 created: 2025-02-04T06:34:16
-modified: 2025-08-27T05:01:52
+modified: 2025-08-29T08:30:45
 ---
 
 > _“If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster.” — Stephen R. Covey_
@@ -14,9 +14,9 @@ modified: 2025-08-27T05:01:52
 
 > _“The biggest waste of time is to do well something that we need not do at all.” ― Gretchen Rubin_
 
-> _“We all want progress, but if you're on the wrong road, progress means doing an about-turn and walking back to the right road; in that case, the man who turns back soonest is the most progressive.” — C.S. Lewis_
+> _“We all want progress, but if you’re on the wrong road, progress means doing an about-turn and walking back to the right road; in that case, the man who turns back soonest is the most progressive.” — C.S. Lewis_
 
-> _“We like to view the world as linear, which is, I'm gonna put in 8 hours of work, I'm gonna get back 8 hours of output, right? It doesn't work that way. Guy running the corner grocery store is working just as hard or harder than you and me. How much output is he getting? **What you do, who you do it with, and how you do it, are way more important than how hard you work.** Outputs are non-linear based on the **quality** of the work that you put in.” — Naval Ravikant_
+> _“We like to view the world as linear, which is, I’m gonna put in 8 hours of work, I’m gonna get back 8 hours of output, right? It doesn’t work that way. Guy running the corner grocery store is working just as hard or harder than you and me. How much output is he getting? **What you do, who you do it with, and how you do it, are way more important than how hard you work.** Outputs are non-linear based on the **quality** of the work that you put in.” — Naval Ravikant_
 
 ---
 
@@ -38,7 +38,7 @@ modified: 2025-08-27T05:01:52
 * [Become a strategist.](Prioritization.md) It is much more important to do the right things compared to doing things right.
 * 許多人習慣談論「效率」，卻較少使用「效能」這個詞，因此常常將兩者混淆。而**所謂的「效率」，其實是建立在「效能」的前提/基礎上討論的** — 唯有確保做對的事情，提升效率才有意義。因此，在談效率時，是假設已經在做對的事情了。
 * 在任何行動之前，我們應該先思考:「這件事是該做的嗎? 」(效能) ，然後再考慮如何把它做好 (效率) 。
-* It's important to balance _**quantity**_ with the _**quality**_ and _**value**_ of your work
+* It’s important to balance _**quantity**_ with the _**quality**_ and _**value**_ of your work
 * 「對人」講求「效能」，「對事」講求「效率」
 * [生產力不是指做了多少事 (efficiency)，而是成就了多少事 (efficacy)。](https://www.goodreads.com/book/show/25733994-the-productivity-project)
 * [知識工作不像生產線，能用「每小時生產多少零件」衡量，而是需要考量工作成果的品質與影響力，強調「效能」而非僅僅是「效率」。](https://calnewport.com/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/)
