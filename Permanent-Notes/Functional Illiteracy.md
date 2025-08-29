@@ -1,7 +1,7 @@
 ---
 title: Functional Illiteracy
 created: 2024-12-06T14:13:09
-modified: 2025-07-16T21:23:30
+modified: 2025-08-29T08:30:46
 ---
 
 [聯合國教科文組織](https://www.unesco.org/en/literacy) [^1] 重新定義新世紀的文盲標準可分為三類:
@@ -16,5 +16,5 @@ modified: 2025-07-16T21:23:30
 
 [^1]: UNESCO = United Nations Educational, Scientific, and Cultural Organization
 [^2]: A person cannot use reading, writing, and calculation skills beyond a basic level to manage daily living tasks.
-[^3]: According to [UNESCO](https://uis.unesco.org/en/glossary-term/functional-literacy), functional literacy refers to the capacity of a person to engage in all those activities in which literacy is required for effective function of his or her group and community and also for enabling him or her to continue to use reading, writing and calculation for his or her own and the community's development.
+[^3]: According to [UNESCO](https://uis.unesco.org/en/glossary-term/functional-literacy), functional literacy refers to the capacity of a person to engage in all those activities in which literacy is required for effective function of his or her group and community and also for enabling him or her to continue to use reading, writing and calculation for his or her own and the community’s development.
 [^4]: 原指酒糟、米糟或豆糟等粗劣食物，現指無用沒有價值的東西。
