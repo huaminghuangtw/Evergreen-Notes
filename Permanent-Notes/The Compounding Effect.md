@@ -1,7 +1,7 @@
 ---
 title: The Compounding Effect
 created: 2024-11-18T09:18:12
-modified: 2025-08-07T05:39:10
+modified: 2025-08-29T08:30:45
 ---
 
 > _“Compounding is the 8th wonder of the world.” — Albert Einstein_
@@ -22,7 +22,7 @@ The Butterfly/Ripple/Domino Effect: the cumulative effect produced when one even
 
 The Cascade Effect
 
-All the great outcomes in life come from compound interests, whether it's in investing, or whether it's in relationships.
+All the great outcomes in life come from compound interests, whether it’s in investing, or whether it’s in relationships.
 
 Growth fuels more growth over time—the more you grow, the more feelings of growing.
 
@@ -51,11 +51,11 @@ leads to a [Vicious Cycle (良性循環)](https://www.google.com/search?q=Viciou
 
 ---
 
-> _“It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe.” — Muhammad Ali_
+> _“It isn’t the mountains ahead to climb that wear you out; it’s the pebble in your shoe.” — Muhammad Ali_
 
-* You can't conquer the mountain in your path until you remove the pebble in your shoes.
-* What truly exhausts us isn't always the big, obvious obstacle — it's the small, nagging issue we ignore/overlook.
-* The real threat to progress often comes from within or from things we deem too minor to fix. It's like trying to run a marathon while ignoring a blister.
+* You can’t conquer the mountain in your path until you remove the pebble in your shoes.
+* What truly exhausts us isn’t always the big, obvious obstacle — it’s the small, nagging issue we ignore/overlook.
+* The real threat to progress often comes from within or from things we deem too minor to fix. It’s like trying to run a marathon while ignoring a blister.
 * How it applies in life:
 	* A student might fail not because the coursework is too hard, but because they keep doubting their intelligence.
 	* A relationship might crumble not from a huge fight, but from years of minor miscommunications or unspoken resentment.
@@ -91,9 +91,9 @@ leads to a [Vicious Cycle (良性循環)](https://www.google.com/search?q=Viciou
 
 ## Charlie Munger
 
-> _“All I want to know is where I'm going to die, so I'll never go there.”_
+> _“All I want to know is where I’m going to die, so I’ll never go there.”_
 
-> _“I just try to avoid being stupid. I have a way of handling a lot of problems—I put them in what I call my 'too hard pile,' and just leave them there. I'm not trying to succeed in my too hard pile.”_ [^2]
+> _“I just try to avoid being stupid. I have a way of handling a lot of problems—I put them in what I call my ‘too hard pile,’ and just leave them there. I’m not trying to succeed in my too hard pile.”_ [^2]
 
 ---
 
