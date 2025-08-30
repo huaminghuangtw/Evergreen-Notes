@@ -1,7 +1,7 @@
 ---
 title: Journey over destination
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:46
+modified: 2025-08-30T07:37:15
 ---
 
 > _If you focus on results and finding shortcuts, you’ll get impatient. If you focus on the process and doing the right thing, you’ll be unstoppable.” — Maxime Lagace_
@@ -12,15 +12,13 @@ modified: 2025-08-29T08:30:46
 
 > _“God will not look you over for medals, degrees or diplomas but for scars.” — Elbert Hubbard_
 
+> _[“You have to enjoy your journey, the journey is all that there is.” — Naval Ravikant](http://www.youtube.com/watch?v=KyfUysrNaco&t=453)_
+
 > _[“The end of a melody is not its goal: but nonetheless, had the melody not reached its end it would not have reached its goal either. A parable.” ― Friedrich Nietzsche](https://www.goodreads.com/quotes/7368-the-end-of-a-melody-is-not-its-goal-but)_
 
 > _“Progress is a natural result of staying focused on the process of doing anything. When you stay on purpose, focused in the present moment, the goal comes toward you with frictionless ease.” ― Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)_
 
 > _“When, instead, your goal is to focus on the process and stay in the present, then there are no mistakes and no judging. You are just learning and doing. You are executing the activity, observing the outcome, and adjusting yourself and your practice energy to produce the desired result. There are no bad emotions, because you are not judging anything.” ― Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)_
-
----
-
-You have to enjoy your journey, the journey is all that there is.
 
 ---
 
@@ -38,7 +36,7 @@ Real, durable satisfaction, happiness and contentment are found in the anticipat
 
 ---
 
-[Since most of life is spent on the journey, it's crucial to find enjoyment in the process rather than solely focusing on the destination.](http://www.youtube.com/watch?v=KyfUysrNaco&t=453)
+Since most of life is spent on the journey, it’s crucial to find enjoyment in the process rather than solely focusing on the destination.
 
 ---
 
