@@ -1,7 +1,7 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-08-29T15:36:07
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -59,7 +59,7 @@ A simple decision-making framework created by author and speaker Suzy Welch. The
 
 ---
 
-# [Two types of decisions](jeff-bezoss-letter-to-amazon-shareholders-1997.md)
+# [Two types of decisions](jeff-bezos-letter-to-amazon-shareholders-1997.md)
 
 |     Type I      |                           Type II                            |
 | :-------------: | :----------------------------------------------------------: |
