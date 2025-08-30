@@ -1,7 +1,7 @@
 ---
 title: Emotional Freedom
 created: 2025-05-10T06:27:40
-modified: 2025-08-29T08:30:45
+modified: 2025-08-30T05:13:38
 ---
 
 > _“Enlightenment is making friendship with the whole existence.” — Amit Ray_
@@ -69,7 +69,7 @@ Someone who experienced the exact same event as you likely remembers it very dif
 	* [Allow emotions to pass through you like waves, without suppressing or clinging to them.](Acceptance%20and%20Commitment%20Therapy.md)
 	* Labeling emotions (e.g., “This is anxiety”) helps reduce their intensity.
 5. **Write your thoughts down.**
-	* [Journaling](Journaling.md) helps you see patterns and detach from negative thinking.
+	* [Journaling](__temp__journaling.md) helps you see patterns and detach from negative thinking.
 	* Use prompts like: _What am I thinking right now? Is it helpful or true?_
 6. **Let go of the need to be right.**
 	* Many thoughts are attempts to control or protect the ego. [Letting go of mental arguments](Dispel%20your%20narratives.md) brings peace.
