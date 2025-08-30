@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-08-29T08:30:46
+modified: 2025-08-30T06:57:39
 ---
 
 Spend 30 minutes daily…
@@ -47,17 +47,17 @@ Being busy is a form of laziness—lazy thinking and indiscriminate action.
 Being overwhelmed is often as unproductive as doing nothing, and is far more unpleasant. Being selective —doing less— is the path of the productive. Focus on the important few and ignore the rest.
 3. Doing something unimportant well does not make it impor tant.
 4. Requiring a lot of time does not make a task important.
-From this moment forward, remember this: What you do is infinitely more important than how you do it. Efficiency is still impor-tant, but it is useless unless applied to the right things.
-Being Effective vs. Being Efficient
-Eercienes doing he hi gita get you doer to you on or.
-not) in the most economical manner possible. Being efficient without regard to effectiveness is the default mode of the universe.
-I would consider the best door-to-door salesperson efficient— that is, refined and excellent at selling door-to-door without wasting time—but utterly ineffective. He or she would sell more using a better vehicle such as e-mail or direct mail.
-This is also true for the person who checks e-mail 3o times per day and develops an elaborate system of folder rules and sophisticated techniques for ensuring that each of those 3o brain farts moves as quickly as possible. I was a specialist at such professional wheel-spinning. It is efficient on some perverse level, but far from effective.
+
 Here are two truisms to keep in mind:
+
 “I do what I always do: find a personal e-mail if possible, often through their little-known personal blogs, send a twoto three-paragraph e-mail which explains that I am familiar with their work, and ask one simple-to-answer but thought-provoking question in that e-mail related to their work or life philosophies. The goal is to start a dialogue so they take the time to answer future e-mails—not to ask for help. That can only come after at least three or four genuine e-mail exchanges.”
+
 Taurine helps regulate body temperature by increasing the rate at which sweat is produced, which is how the body cools itself.
+
 The more your body heats up during a workout, the faster you fatigue. But if you could keep your body a little cooler, then you might be able to push harder or last longer during exercise.
+
 “Love is merely the name for the desire and pursuit of the whole (原本的樣子).” — Aristophanes
+
 * (1.00)365 = 1.00 • (1.01) 365 = 37.7
 “𝘓𝘦𝘵𝘵𝘪𝘯𝘨 𝘨𝘰 𝘮𝘦𝘢𝘯𝘴 𝘵𝘰 𝘤𝘰𝘮𝘦 𝘵𝘰 𝘵𝘩𝘦 𝘳𝘦𝘢𝘭𝘪𝘻𝘢𝘵𝘪𝘰𝘯 𝘵𝘩𝘢𝘵 𝘴𝘰𝘮𝘦 𝘱𝘦𝘰𝘱𝘭𝘦 𝘢𝘳𝘦 𝘢 𝘱𝘢𝘳𝘵 𝘰𝘧 𝘺𝘰𝘶𝘳 𝘩𝘪𝘴𝘵𝘰𝘳𝘺, 𝘣𝘶𝘵 𝘯𝘰𝘵 𝘢 𝘱𝘢𝘳𝘵 𝘰𝘧 𝘺𝘰𝘶𝘳 𝘥𝘦𝘴𝘵𝘪𝘯𝘺.„ — 𝘚𝘵𝘦𝘷𝘦 𝘔𝘢𝘳𝘢𝘣𝘰𝘭𝘪
 “The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.” — Brian Tracy
