@@ -1,7 +1,7 @@
 ---
 title: Note Taking
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-08-30T05:13:38
 ---
 
 > _“Every intellectual endeavor starts with a note.” — Sönke Ahrens_
@@ -42,7 +42,7 @@ Note-making is an _active, engaged_ process for:
 
 ---
 
-Note-taking is building a relationship with your future self; [journaling](Journaling.md) is building a relationship with your past self.
+Note-taking is building a relationship with your future self; [journaling](__temp__journaling.md) is building a relationship with your past self.
 
 * 日記記錄昨日，筆記召喚明日。
 * 寫日記，是回顧；寫筆記，是展望。
