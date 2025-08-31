@@ -1,7 +1,7 @@
 ---
 title: Productivity
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-08-31T05:31:51
 ---
 
 > _“Productivity is most important for things you don’t want to be doing. Most people want to increase productivity so they can spend less time on the task. But before you worry about being more productive, think about being more selective. Rather than focusing on increasing productivity, it may be worth asking, ‘What would I be delighted to spend time on, even if it went slowly?’ Direct your energy toward figuring out how to start what you want to do rather than thinking about how to shorten what you don’t want to do.” — James Clear_
@@ -57,7 +57,7 @@ Keep in mind: An effective [system](Systems%20over%20goals.md) requires simple, 
 ---
 
 * 正向情緒有助於快速進入高專注力的「[心流](flow-state.md)」狀態。
-* [負面情緒](What%20to%20do%20when%20you%20have%20negative%20thoughts%20or%20emotions.md) 則如同「漏電」，消耗 [能量/精力](Energy%20Management.md) 並降低 [效率](What%20to%20do%20when%20you%20have%20negative%20thoughts%20or%20emotions.md)。
+* [負面情緒](What%20to%20do%20when%20you%20have%20negative%20thoughts%20or%20emotions.md) 則如同「漏電」，消耗 [能量/精力](energy-management.md) 並降低 [效率](What%20to%20do%20when%20you%20have%20negative%20thoughts%20or%20emotions.md)。
 
 ---
 
