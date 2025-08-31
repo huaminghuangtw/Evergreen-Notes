@@ -1,7 +1,7 @@
 ---
 title: Choose your response
 created: 2025-01-23T10:40:57
-modified: 2025-08-29T08:30:45
+modified: 2025-08-31T05:31:51
 ---
 
 > _“It is the set of the sails, not the direction of the wind that determines which way we will go.” — Jim Rohn_
@@ -28,7 +28,7 @@ It’s not what happens to us that shapes our lives, but how we _choose to_ resp
 
 ---
 
-Knowing when to stop is a superpower. You don’t need to attend every argument you’re invited to, nor should you [waste your energy](Energy%20Management.md) every time.
+Knowing when to stop is a superpower. You don’t need to attend every argument you’re invited to, nor should you [waste your energy](energy-management.md) every time.
 
 ---
 
