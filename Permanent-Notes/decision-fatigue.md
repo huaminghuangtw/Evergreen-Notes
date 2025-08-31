@@ -1,7 +1,7 @@
 ---
 title: Decision Fatigue
 created: 2025-01-23T10:40:57
-modified: 2025-07-16T21:23:29
+modified: 2025-08-31T05:31:51
 ---
 
 ![71dacbcf34b15b9c99d1ae5471fe8e56](../_attachments/71dacbcf34b15b9c99d1ae5471fe8e56.png)
@@ -14,7 +14,7 @@ Paradox of Choice
 
 一個人做的決定數量 (Quantity) 越多，消耗的意志力、自控力和自律能力也就越多，決策品質 (Quality) 將會越低
 
-每個人在一天的 [精力](Energy%20Management.md) [^1] 都非常地有限，減少大腦要做日常抉擇/選擇的次數，把一些瑣碎不重要的事情變成「日常慣例 (Daily Routine)」
+每個人在一天的 [精力](energy-management.md) [^1] 都非常地有限，減少大腦要做日常抉擇/選擇的次數，把一些瑣碎不重要的事情變成「日常慣例 (Daily Routine)」
 
 * 例如:
 	* 今天出門要穿的衣服 (Clothes)
