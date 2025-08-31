@@ -1,7 +1,7 @@
 ---
 title: Work in sprints, work with your biology
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-08-31T05:31:51
 ---
 
 > _“If you want to operate at maximum productivity, efficiency, and creativity, you’re going to work on things that you’re excited about at the moment you’re excited about them and accept nothing less. It is better to sit on your butt and do nothing than it is to work on things that you are not excited about.” — Naval Ravikant_
@@ -14,11 +14,11 @@ Humans are not machines.
 
 ---
 
-[能量/精力管理](Energy%20Management.md) \> [時間管理](Time%20Management.md)
+[能量/精力管理](energy-management.md) \> [時間管理](Time%20Management.md)
 
 Why?
 
-* 時間是有限的 [^1]，但 [能量或精力可以無限](Energy%20Management.md)
+* 時間是有限的 [^1]，但 [能量或精力可以無限](energy-management.md)
 * 時間以不變的速度流逝，但能量或精力不斷地在變。
 
 ---
