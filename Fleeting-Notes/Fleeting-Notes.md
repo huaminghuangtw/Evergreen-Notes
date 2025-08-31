@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-08-30T06:57:39
+modified: 2025-08-31T06:13:35
 ---
 
 Spend 30 minutes daily…
@@ -26,8 +26,6 @@ Dr. Rhonda Patrick’s (@foundmyfitness) smoothie recipe for peak focus and perf
 * Protein Powder - Protein
 * Collagen Powder - Improves skin elasticity
 * Moringa Powder - Zinc, iron, magnesium, moringagen
-
-X google 猴子與基座舞台 火把猴 沒戲唱
 
 The approach suggests celebrating twice as often as setting new goals.
 
@@ -694,3 +692,57 @@ On his side of the path was a beautiful row of flowers.
 ---
 
 憂患意識
+
+---
+
+<https://sketchplanations.com/public-commitment-pledge>
+
+---
+
+Morgan Freeman 直到 1987 年才憑《Street Smart》獲得突破，當時他約 50 歲。
+
+---
+
+Friday Night Lights (the movie) has a famous scene where a notoriously quiet player gives a riveting speech that turns around a game.
+
+---
+
+Running one mile has more in common with running a marathon than sitting at home.
+
+Investing $100 has more in common with being a millionaire than being broke.
+
+Writing one sentence has more in common with writing a book than never writing one.
+
+It always feels small in the beginning and the big goals seem far away. It’s easy to talk yourself out of the early attempts because they feel kind of meaningless.
+
+But every race starts with one step. Every fortune starts with a small deposit. Every book begins as one sentence.
+
+---
+
+‘Do not ask your children to strive’
+
+by William Martin Do not ask your children
+
+to strive for extraordinary lives. Such striving may seem admirable,
+
+but it is the way of foolishness. Help them instead to find the wonder
+
+and the marvel of an ordinary life. Show them the joy of tasting
+
+tomatoes, apples and pears. Show them how to cry
+
+when pets and people die. Show them the infinite pleasure
+
+in the touch of a hand.
+
+And make the ordinary come alive for them.
+
+The extraordinary will take care of itself.
+
+---
+
+“Looking at beauty in the world, is the first step of purifying the mind.” — Amit Ray, Finding the beauty in the thing that already exists without needing to alter it is the next step.
+
+---
+
+[“I have not failed. I've just found 10,000 ways that won't work.” — Thomas A. Edison](https://www.goodreads.com/quotes/8287-i-have-not-failed-i-ve-just-found-10-000-ways-that)
