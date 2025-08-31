@@ -1,8 +1,10 @@
 ---
 title: Active Listening
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:46
+modified: 2025-08-30T16:58:06
 ---
+
+> _“There is a difference between listening and waiting for your turn to speak.” — Simon Sinek_
 
 > _[“Open your mind before your mouth.” — Aristophanes](https://www.goodreads.com/quotes/712935-open-your-mind-before-your-mouth)_
 
