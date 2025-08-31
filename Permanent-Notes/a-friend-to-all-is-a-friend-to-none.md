@@ -1,7 +1,7 @@
 ---
 title: A friend to all is a friend to none
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-08-31T05:31:50
 ---
 
 > _“A true friend never gets in your way unless you happen to be going down.” — Arnold H. Glasow_
@@ -63,10 +63,10 @@ Good “inner circle” friendships must be treasured.
 【比較】[^1]
 
 * **Treadmill Friends**
-	* Friends that give you [energy](Energy%20Management.md)
+	* Friends that give you [energy](energy-management.md)
 	* After hanging out with them, you have so much energy that you want to run on a treadmill to calm down
 * **Sofa Friends**
-	* Friends that drain your [energy](Energy%20Management.md)
+	* Friends that drain your [energy](energy-management.md)
 	* After hanging out with them, you are so drained that you want to lie on a sofa to recover
 
 ---
