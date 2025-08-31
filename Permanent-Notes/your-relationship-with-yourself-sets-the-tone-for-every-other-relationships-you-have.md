@@ -1,7 +1,7 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T15:06:18
+modified: 2025-08-30T16:56:01
 ---
 
 > _“Your relationship with yourself sets the tone for every other relationship you have.” — Robert Holden_
@@ -30,7 +30,7 @@ To fall in love with yourself is the first secret to [happiness](happiness.md).
 
 ---
 
- [Self-esteem is the reputation that you have with yourself.](https://x.com/naval/status/819595652644491264) If you want to have high self-esteem, earn your self-respect first. The hardest respect to earn is one’s own.
+ [Self-esteem is the reputation that you have with yourself.](https://x.com/naval/status/819595652644491264) If you want to have high self-esteem, earn your self-respect first. The hardest respect to earn is one’s own. Treat yourself with respect.
 
 ---
 
