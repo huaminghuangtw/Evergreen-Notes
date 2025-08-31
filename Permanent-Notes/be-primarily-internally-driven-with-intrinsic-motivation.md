@@ -1,7 +1,7 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-08-31T18:07:12
 ---
 
 > _“Glory is fleeting, but obscurity is forever.” — Napoleon Bonaparte_
@@ -30,7 +30,7 @@ Your external reality is often a manifestation of your internal reality. Don’t
 
 Stop people-pleasing. Everyone thinking you’re great means nothing, if you don’t think you’re great. Be impressive to others is overrated. Be impressive to yourself. You don’t need to impress anyone but yourself. You become inhumanly strong when you try to impress only one person: YOU. You are always going to win the “YOU” game. The only person you have to compete against is yourself. You learn the most when there is nobody to cheer you but yourself.
 
-Don’t be a people pleaser (好好先生)
+Don’t be a people pleaser (好好先生、[濫/爛好人](https://www.google.com/search?q=濫好人))
 
 * 不要有了頭銜，卻失去了名字，就像法老王一樣。
 * Parable: 父子騎驢
