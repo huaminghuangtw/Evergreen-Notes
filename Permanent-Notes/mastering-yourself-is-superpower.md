@@ -1,7 +1,7 @@
 ---
 title: Mastering yourself is superpower
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-08-31T07:19:14
 ---
 
 > _“Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power.” — Lao Tzu, Tao Te Ching_
