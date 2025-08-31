@@ -1,7 +1,7 @@
 ---
 title: Journey over destination
 created: 2024-11-18T09:18:12
-modified: 2025-08-30T07:37:15
+modified: 2025-08-31T05:31:51
 ---
 
 > _If you focus on results and finding shortcuts, you’ll get impatient. If you focus on the process and doing the right thing, you’ll be unstoppable.” — Maxime Lagace_
@@ -26,7 +26,7 @@ Enjoy the process. Love the effort. The journey itself is the reward.
 
 ---
 
-So often people focus all their [energy](Energy%20Management.md) on the _summits_—but completely fail to recognize that 99% of life is spent on the _climb_.
+So often people focus all their [energy](energy-management.md) on the _summits_—but completely fail to recognize that 99% of life is spent on the _climb_.
 
 The climb is the fun part.
 
