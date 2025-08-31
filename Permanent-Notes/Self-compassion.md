@@ -1,7 +1,7 @@
 ---
 title: Self-compassion
 created: 2025-01-23T10:40:57
-modified: 2025-08-29T15:06:11
+modified: 2025-08-30T16:55:35
 ---
 
 > _“What you deny subdues you. What you accept transforms you.” — Carl Jung_
@@ -32,7 +32,9 @@ Being kind to others is mostly about your actions. Being kind to yourself is mos
 
 ---
 
-Treat yourself with respect.
+接納自己的第一步是停止拿自己和別人比較。
+
+> _“The first step to accepting yourself is to stop comparing yourself to others.” — Joe Duncan_
 
 ---
 
