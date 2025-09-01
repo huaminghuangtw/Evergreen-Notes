@@ -1,7 +1,7 @@
 ---
 title: Impostor Syndrome
 created: 2025-01-23T10:40:57
-modified: 2025-08-29T08:30:46
+modified: 2025-09-01T06:59:42
 ---
 
 # You don’t need to be a _guru_. You can just be a _guide_.
@@ -12,7 +12,7 @@ If you’re worried that you’re not “qualified” to teach someone else, rem
 
 ---
 
-相反症狀: “[The Dunning-Kruger Effect](The%20Dunning-Kruger%20Effect.md)” (overconfident/arrogant/complacent)
+相反症狀: “[The Dunning-Kruger Effect](the-dunning-kruger-effect.md)” (overconfident/arrogant/complacent)
 
 ---
 
