@@ -1,7 +1,7 @@
 ---
 title: Feedback
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-01T07:04:19
 ---
 
 # On Giving Feedback
@@ -34,6 +34,8 @@ Criticism Sandwich — 善用「先稱讚，再建議」的順序
 > **You:** _That means a lot to me. Thanks. Before I forget_ ,[^4] last week’s presentation was excellent.
 >
 > **Mara:** Did you think so? Blah, blah, blah …
+
+Instead of the outdated “criticism sandwich (criticize twice, praise once)” method, where criticism is sandwiched between two praises within 30 seconds, it is advised to provide two praises at different times during the day and one criticism, as well as two thank-yous and one private criticism throughout the week.
 
 # On Receiving Feedback
 
