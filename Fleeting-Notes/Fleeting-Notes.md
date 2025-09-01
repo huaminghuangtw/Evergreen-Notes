@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-08-31T06:13:35
+modified: 2025-09-01T08:01:09
 ---
 
 Spend 30 minutes daily…
@@ -27,12 +27,6 @@ Dr. Rhonda Patrick’s (@foundmyfitness) smoothie recipe for peak focus and perf
 * Collagen Powder - Improves skin elasticity
 * Moringa Powder - Zinc, iron, magnesium, moringagen
 
-The approach suggests celebrating twice as often as setting new goals.
-
-Instead of the outdated ‘criticism sandwich (criticize twice, praise once)’ method, where criticism is sandwiched between two praises within 30 seconds, it is advised to provide two praises at different times during the day and one criticism, as well as two thank-yous and one private criticism throughout the week.
-
-It is much more important to work on the right thing than it is to work many hours. Most people waste most of their time on stuff that doesn’t matter.
-
 The Trichotomy of Control adds some important nuance to this idea that we should only concern ourselves with things that are within our control.
 
 This presents a very curious phenomenon. There are two synergistic approaches for increasing productivity that are inversions of each other:
@@ -54,11 +48,10 @@ Taurine helps regulate body temperature by increasing the rate at which sweat is
 
 The more your body heats up during a workout, the faster you fatigue. But if you could keep your body a little cooler, then you might be able to push harder or last longer during exercise.
 
-“Love is merely the name for the desire and pursuit of the whole (原本的樣子).” — Aristophanes
-
-* (1.00)365 = 1.00 • (1.01) 365 = 37.7
 “𝘓𝘦𝘵𝘵𝘪𝘯𝘨 𝘨𝘰 𝘮𝘦𝘢𝘯𝘴 𝘵𝘰 𝘤𝘰𝘮𝘦 𝘵𝘰 𝘵𝘩𝘦 𝘳𝘦𝘢𝘭𝘪𝘻𝘢𝘵𝘪𝘰𝘯 𝘵𝘩𝘢𝘵 𝘴𝘰𝘮𝘦 𝘱𝘦𝘰𝘱𝘭𝘦 𝘢𝘳𝘦 𝘢 𝘱𝘢𝘳𝘵 𝘰𝘧 𝘺𝘰𝘶𝘳 𝘩𝘪𝘴𝘵𝘰𝘳𝘺, 𝘣𝘶𝘵 𝘯𝘰𝘵 𝘢 𝘱𝘢𝘳𝘵 𝘰𝘧 𝘺𝘰𝘶𝘳 𝘥𝘦𝘴𝘵𝘪𝘯𝘺.„ — 𝘚𝘵𝘦𝘷𝘦 𝘔𝘢𝘳𝘢𝘣𝘰𝘭𝘪
+
 “The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.” — Brian Tracy
+
 “Everything is created twice, first in the mind and then in reality.” — Robin Sharma
 
 “We are all born ignorant, but one must work hard to remain stupid.” — Benjamin Franklin “Beware of false knowledge, it is more dangerous than ignorance.” — George Bernard Shaw
