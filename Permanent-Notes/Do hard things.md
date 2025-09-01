@@ -1,7 +1,7 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:46
+modified: 2025-09-01T07:09:26
 ---
 
 > _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
@@ -23,6 +23,8 @@ modified: 2025-08-29T08:30:46
 > _“I learned that by constantly doing things that are hard and making myself uncomfortable, I improve my ability to handle obstacles. I get comfortable being uncomfortable—and that’s real mental toughness.” ― Jesse Itzler, [Living with a SEAL: 31 Days Training with the Toughest Man on the Planet](https://www.goodreads.com/work/quotes/44751808)_
 
 > _“We must all suffer from one of two pains: the pain of [discipline](discipline-equals-freedom.md) or the pain of regret. The difference is [discipline](discipline-equals-freedom.md) weighs ounces while regret weighs tons.” — Jim Rohn_
+
+> _“Growth is painful. Change is painful. But nothing is as painful as staying stuck somewhere you don’t belong.” — Mandy Hale_
 
 ---
 
