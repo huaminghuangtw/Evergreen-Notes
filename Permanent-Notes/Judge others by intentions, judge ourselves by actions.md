@@ -1,7 +1,7 @@
 ---
 title: Judge others by intentions, judge ourselves by actions
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:46
+modified: 2025-09-01T06:59:42
 ---
 
 > _“We judge ourselves by our intentions and others by their behavior.” — Stephen Covey_
@@ -44,5 +44,5 @@ modified: 2025-08-29T08:30:46
 ## See Also
 
 * [The Hanlon's Razor](The%20Hanlon's%20Razor.md)
-* [The Dunning-Kruger Effect](The%20Dunning-Kruger%20Effect.md)
+* [The Dunning-Kruger Effect](the-dunning-kruger-effect.md)
 * [The Halo Effect](The%20Halo%20Effect.md)
