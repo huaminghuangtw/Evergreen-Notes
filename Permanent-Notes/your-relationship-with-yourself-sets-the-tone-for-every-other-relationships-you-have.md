@@ -1,7 +1,7 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
 created: 2024-11-18T09:18:12
-modified: 2025-08-30T16:56:01
+modified: 2025-09-03T07:00:02
 ---
 
 > _“Your relationship with yourself sets the tone for every other relationship you have.” — Robert Holden_
@@ -74,6 +74,10 @@ Always put yourself first. Self-prioritize yourself. Take care of yourself befor
 * We are unlikely to accept a relationship that is worse than the one we have with ourselves, and thus the person who is happy and comfortable with themselves is in a great position. The person with healthy self-esteem doesn’t have to jump into any relationship because they already have a great one wherever they go.
 * If the time you spend alone is already enjoyable to some degree—that is, if you have a healthy [internal monologue](be-careful-how-you-are-talking-to-yourself.md) and generally feel good about yourself—then you will have a fairly high bar for the type of relationships you’ll enter.
 * But if you’re unhappy with yourself, then you are more likely to put up with bad relationships because they may occasionally make you feel better than you do alone. If you want a great relationship, the first thing you want is to be comfortable with yourself.
+
+---
+
+Learn to laugh at yourself. The more you can laugh at yourself, the happier you’ll be. When you screw something up, practice laughing at yourself instead of beating yourself up / wrestling with yourself.
 
 [^1]: The way the world treats you is a reflection of the way you treat yourself.
 [^2]: _“How people treat you is their karma; how you react is yours.” — Dr. Wayne Dyer_
