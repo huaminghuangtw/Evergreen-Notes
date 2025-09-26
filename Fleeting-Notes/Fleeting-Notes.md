@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-09-01T08:01:09
+modified: 2025-09-26T05:35:50
 ---
 
 Spend 30 minutes daily…
@@ -29,88 +29,38 @@ Dr. Rhonda Patrick’s (@foundmyfitness) smoothie recipe for peak focus and perf
 
 The Trichotomy of Control adds some important nuance to this idea that we should only concern ourselves with things that are within our control.
 
-This presents a very curious phenomenon. There are two synergistic approaches for increasing productivity that are inversions of each other:
-
-1. Limit tasks to the important to shorten work time (80/20).
-2. Shorten work time to limit tasks to the important (Parkin-son’s Law).
 The best solution is to use both together: Identify the few critical tasks that contribute most to income and schedule them with very short and clear deadlines.
-Slow down and remember this: Most things make no difference.
-Being busy is a form of laziness—lazy thinking and indiscriminate action.
-Being overwhelmed is often as unproductive as doing nothing, and is far more unpleasant. Being selective —doing less— is the path of the productive. Focus on the important few and ignore the rest.
-3. Doing something unimportant well does not make it impor tant.
-4. Requiring a lot of time does not make a task important.
 
 Here are two truisms to keep in mind:
 
-“I do what I always do: find a personal e-mail if possible, often through their little-known personal blogs, send a twoto three-paragraph e-mail which explains that I am familiar with their work, and ask one simple-to-answer but thought-provoking question in that e-mail related to their work or life philosophies. The goal is to start a dialogue so they take the time to answer future e-mails—not to ask for help. That can only come after at least three or four genuine e-mail exchanges.”
+“I do what I always do: find a personal e-mail if possible, often through their little-known personal blogs, send a two to three-paragraph e-mail which explains that I am familiar with their work, and ask one simple-to-answer but thought-provoking question in that e-mail related to their work or life philosophies. The goal is to start a dialogue so they take the time to answer future e-mails—not to ask for help. That can only come after at least three or four genuine e-mail exchanges.”
 
 Taurine helps regulate body temperature by increasing the rate at which sweat is produced, which is how the body cools itself.
 
 The more your body heats up during a workout, the faster you fatigue. But if you could keep your body a little cooler, then you might be able to push harder or last longer during exercise.
 
-“𝘓𝘦𝘵𝘵𝘪𝘯𝘨 𝘨𝘰 𝘮𝘦𝘢𝘯𝘴 𝘵𝘰 𝘤𝘰𝘮𝘦 𝘵𝘰 𝘵𝘩𝘦 𝘳𝘦𝘢𝘭𝘪𝘻𝘢𝘵𝘪𝘰𝘯 𝘵𝘩𝘢𝘵 𝘴𝘰𝘮𝘦 𝘱𝘦𝘰𝘱𝘭𝘦 𝘢𝘳𝘦 𝘢 𝘱𝘢𝘳𝘵 𝘰𝘧 𝘺𝘰𝘶𝘳 𝘩𝘪𝘴𝘵𝘰𝘳𝘺, 𝘣𝘶𝘵 𝘯𝘰𝘵 𝘢 𝘱𝘢𝘳𝘵 𝘰𝘧 𝘺𝘰𝘶𝘳 𝘥𝘦𝘴𝘵𝘪𝘯𝘺.„ — 𝘚𝘵𝘦𝘷𝘦 𝘔𝘢𝘳𝘢𝘣𝘰𝘭𝘪
-
-“The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.” — Brian Tracy
-
-“Everything is created twice, first in the mind and then in reality.” — Robin Sharma
-
-“We are all born ignorant, but one must work hard to remain stupid.” — Benjamin Franklin “Beware of false knowledge, it is more dangerous than ignorance.” — George Bernard Shaw
-
-It’s not the load that breaks you down, it’s the way you carry it.
-
 Lifestyle Creep
 
-financially wealthy because you are constantly wanting more
-
-You will never be rich.
-
-If your expectations are growing faster than your asset
-
+Traditional definition of financial wealth = Asset - Liability
+ 
+Expectation Inflation
 Expectation is the greatest liability
 
-Expectation Inflation
-
-traditional def financial wealth = asset - liability
-
-Technology is applied science. Science is the study of nature. Mathematics is the language of nature. Philosophy is the root of mathematics. All tightly interrelated.
-
-Naval Ravikant
-
-“Always seek out the seed of triumph in every adversity.” — Og Mandino
+You will never be rich (financially wealthy) if your expectations are growing faster than your asset because you are constantly wanting more
 
 Successful investment is when you lose the password of your investment account. The best investment is “buy and forget.”
 
-因無所懼，而生其心
-
-Killing Ants = autonatic negative thoughts
-
-connect things you don’t know to things you do know
-
-The point is to be mindful of cultivating both a mixture of activities that require effort to derive pleasure and also seeking contentment from what you have, and to realize that anything that quickly spikes dopamine without effort is likely to be destructive in the long run
-
-The important thing to understand about dopamine is that the faster and higher it goes, the lower and longer it drops below baseline afterwards.
-
-In order to keep the reward systems of your brain working for you instead of against you, it can be wise to avoid things that lead to big dopamine increases without much effort.
-
-不完美的活出自己的生命勝過於完美的模仿他人
-
-Circadian Optics Light Therapy Lamp
-
-I find most meetings are best scheduled for 15-20 minutes, or 2 hours.  The default of 1 hour is usually wrong, and leads to a lot of wasted time.
-
 Maybe you’re already there. Maybe you’re right where you’re supposed to be.
 
-Nearing the end of a long journey, a young Buddhist comes to the banks of a deep, wide river. He doesn’t know how to cross it and begins to ponder the challenge.
-
-After several hours, he sees a Zen master on the other side of the river and calls out to him:
-
-“Oh wise one, can you tell me how to cross this river and get to the other side?”
-
-The Zen master thinks for a few moments and then replies:
-
-“My son, you are on the other side.”
-
-Shinrin-yoku (“forest bathing”) is a Japanese practice that leverages time in nature as a form of therapy and healing.
+> Nearing the end of a long journey, a young Buddhist comes to the banks of a deep, wide river. He doesn’t know how to cross it and begins to ponder the challenge.
+> 
+> After several hours, he sees a Zen master on the other side of the river and calls out to him:
+> 
+> “Oh wise one, can you tell me how to cross this river and get to the other side?”
+> 
+> The Zen master thinks for a few moments and then replies:
+> 
+> “My son, you are on the other side.”
 
 “You pile up enough tomorrows, and you’ll find you are left with nothing but a lot of empty yesterdays.” ― Meredith Willson, The Music Man
 
@@ -128,31 +78,13 @@ But suddenly, in the fifth year, everything changes:
 
 The Chinese bamboo tree breaks through the surface, and in the span of just six weeks, grows up to 90-feet-tall.
 
-Chris Williamson’s Law of Inverse Charisma:
-
-Lost Better
-
 Brand DNA Helix
-
-Different is better than better
 
 Digitalization of Reputation
 
-the reason why they tell you to crack your eggs into a bowl first before adding it into something.
+The Farmer & The Horse Parable maybe story cyclic judgement
 
-The Farmer & The Hourse Parable maybe story cyclic judgement
-
-Therefore Story & Statistics
-
-People buy with emotions, but justify with reasoning
-
-It’s better to have one bird in your than a thousand in the woods
-
-課題分離 Separation of concern
-
-You have to be naive to start and stubborn to finish.
-
-At any given moment you have the power to say: this is not how the story is going to end.
+People buy with emotions, but justify with reasoning.
 
 Corporate jobs are filled with people who like to look busy getting any work done. Just a bunch of men/women who want to feel important so they throw on a suit, attend a meeting or two, walk around and gossip with co workers, then go about their day and get Obviously, getting paid for doing practically nothing is something that everyone dreams of so i’m not knocking
 
@@ -739,3 +671,7 @@ The extraordinary will take care of itself.
 ---
 
 [“I have not failed. I've just found 10,000 ways that won't work.” — Thomas A. Edison](https://www.goodreads.com/quotes/8287-i-have-not-failed-i-ve-just-found-10-000-ways-that)
+
+---
+
+The misstep doesn’t define you. Your next move does.
