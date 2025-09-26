@@ -1,7 +1,7 @@
 ---
 title: Prioritization
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-04T05:22:55
 ---
 
 > _“The whole point of getting things done is knowing what to leave undone.” — Oswald Chambers_
@@ -25,6 +25,10 @@ modified: 2025-08-29T08:30:45
 ---
 
 先做完該做的事，再做你想做的事。
+
+---
+
+Inequality, Everywhere
 
 ---
 
@@ -67,15 +71,7 @@ If you have more than 3 priorities, you don’t have any. You must choose what t
 
 ---
 
-# Mental Tools
-
-* The 80/20 Rule (The 99/1 Rule)
-* Bottleneck Analysis
-* Inequality, Everywhere
-* The 20-slot Life Punchcard Rule ~~by Warren Buffett~~
-
----
-
-## See Also
+# See Also
 
 * [The 5-25 Rule](the-5-25-rule.md)
+* [The Pareto Principle](the-pareto-principle.md)
