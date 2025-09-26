@@ -1,7 +1,7 @@
 ---
 title: Seek for the truth
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-24T20:07:21
 ---
 
 > _“Facts are the enemy of truth.” — Miguel de Cervantes_
@@ -15,6 +15,8 @@ modified: 2025-08-29T08:30:45
 > _[“A lie can travel half way around the world while the truth is putting on its shoes.” — Mark Twain](https://www.goodreads.com/quotes/76-a-lie-can-travel-half-way-around-the-world-while)_
 
 > _“Wrong does not cease to be wrong because the majority share in it.” — Leo Tolstoy_
+
+> _[“Truth-seekers take feedback from nature (planes have to fly), free markets (customers have to buy), or competition (militaries have to win). Consensus-seekers take feedback from people (actors want fans, academics want honors, politicians want votes, journalists want status).” — Naval Ravikant](https://x.com/naval/status/1856965245690081637)_ [^1]
 
 ---
 
@@ -36,3 +38,5 @@ Do not sacrifice being correct for being right.
 ## See Also
 
 * [Have the courage to do the right things](Have%20the%20courage%20to%20do%20the%20right%20things.md)
+
+[^1]: Truth-seekers take feedback from **action**. Consensus-seekers take feedback from **words**.
