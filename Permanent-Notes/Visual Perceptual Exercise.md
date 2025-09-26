@@ -1,12 +1,12 @@
 ---
 title: Visual Perceptual Exercise
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-03T07:10:59
 ---
 
 = Space-Time Bridging = Shift between different time domains [^1]
 
-This is a useful tool for our nervous system to manage [stress](stress%20and%20anxiety.md) and enhancing cognitive flexibility.
+This is a useful tool for our nervous system to manage [stress](stress-and-anxiety.md) and enhancing cognitive flexibility.
 
 Steps
 
