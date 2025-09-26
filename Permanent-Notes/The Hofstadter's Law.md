@@ -1,10 +1,10 @@
 ---
 title: The Hofstadter’s Law
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-04T04:48:39
 ---
 
-In contradiction to [Parkinson's Law](parkinsons-law.md)
+In contradiction to [Parkinson's Law](the-parkinsons-law.md)
 
 ---
 
