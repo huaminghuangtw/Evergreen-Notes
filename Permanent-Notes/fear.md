@@ -1,7 +1,7 @@
 ---
-title: fear
+title: Fear
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-21T06:56:22
 ---
 
 > _“Fear is a natural reaction to moving closer to the truth” — Pema Chodron_
@@ -40,6 +40,10 @@ If we’re controlled by fear, we’re in the mode of ignorance.
 
 ---
 
+心中有敵，天下皆為敵。心中無敵，無敵於天下。
+
+---
+
 # Solution
 
 * #TODO [Fear-setting by Tim Ferriss](https://tim.blog/wp-content/uploads/2017/06/ted_ferriss_fear_setting_sample_slides.pdf) (define your fears instead of your goals)
@@ -56,7 +60,7 @@ If we’re controlled by fear, we’re in the mode of ignorance.
 # Naval Ravikant
 
 * _“90% of our thoughts are fear-based. 10% of our thoughts are [desire](The%20absence%20of%20desire%20is%20true%20happiness.md)-based.”_
-* _“I think it’s not we fear [death](death.md). It’s we fear not [living the life that we want](How%20to%20live%20a%20life.md). And I think the easiest way to get out of that is to [start living the life you want](intentional-living.md) [now](live-in-the-present.md), not putting/frittering it off.”_
+* _“I think it’s not we fear [death](death.md). It’s we fear not [living the life that we want](how-to-live-a-life.md). And I think the easiest way to get out of that is to [start living the life you want](intentional-living.md) [now](live-in-the-present.md), not putting/frittering it off.”_
 	* This will make you feel that life is long, and you will be less afraid of [dying](death.md).
 
 ---
