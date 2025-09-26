@@ -1,7 +1,7 @@
 ---
 title: Mastering yourself is superpower
 created: 2024-11-18T09:18:12
-modified: 2025-08-31T07:19:14
+modified: 2025-09-03T07:10:50
 ---
 
 > _“Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power.” — Lao Tzu, Tao Te Ching_
@@ -69,7 +69,7 @@ modified: 2025-08-31T07:19:14
 			* Smelling
 			* Tasting (口腹之慾)
 			* Feeling
-	2. [Ill-will (aversion & negative thoughts)](What%20to%20do%20when%20you%20have%20negative%20thoughts%20or%20emotions.md)
+	2. [Ill-will (aversion & negative thoughts)](negative-thoughts-and-emotions.md)
 	3. Slothful body & mind (lack of energy/motivation, heaviness of body, dullness of mind)
 	4. Restlessness (unsettled/monkey mind)
 		* Regret about the past
