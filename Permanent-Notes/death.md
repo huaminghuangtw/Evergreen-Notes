@@ -1,7 +1,7 @@
 ---
 title: Death
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-21T06:56:22
 ---
 
 > _“The meaning of life is that it stops.” — Franz Kafka_
@@ -126,7 +126,7 @@ Remarks: Through history, people have gone back into their own pasts, sometime t
 
 * [Life is shorter than you think](Life%20is%20shorter%20than%20you%20think.md)
 * [Intentional Living](intentional-living.md)
-* [How to live a life](How%20to%20live%20a%20life.md)
+* [How to live a life](how-to-live-a-life.md)
 * [Why We Exist](why-we-exist.md)
 
 [^1]: **The Regret Minimization Framework:** The goal is to minimize the number of _regrets_, _[remorse (懊悔; 悔恨; 自責)](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%B9%81%E4%BD%93/remorse)_, and “_acts of omission (the act of not including something or someone that should have been included)_” in life.
