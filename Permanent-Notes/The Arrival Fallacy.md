@@ -1,7 +1,7 @@
 ---
 title: The Arrival Fallacy
 created: 2025-01-23T10:40:57
-modified: 2025-08-29T08:30:45
+modified: 2025-09-24T04:47:11
 ---
 
 > _“Arriving someplace more desirable at some future time is an illusion. This is it.” — Jon Kabat-Zinn_
@@ -38,12 +38,12 @@ Humans have a tendency to quickly return to a baseline level of [happiness](happ
 	* Reward Prediction Error = Actual Reward – Expected Reward
 	* Miracles do happen when you least expect it.
 	* 「[把目標砍半，以退為進](https://onyourpsy.com/010219/)」
-	* 「不要將任何願望的實現視為終點，亦或是一切焦慮與煩惱的終結。」— 雖然實現目標會帶來喜悅，但這種快樂往往比不上追求過程中的期待與熱情。一旦達成一個目標，我們便會開始追尋新的方向，這也是人生 [焦慮](stress%20and%20anxiety.md) 不斷的根源。沒有任何狀態能帶來絕對的安全感，因為人類天性便是不斷追求與 [渴望](The%20absence%20of%20desire%20is%20true%20happiness.md)。**因此，我們的目標不應是永久去除焦慮，而是學習如何控制焦慮，與焦慮共處。**
+	* 「不要將任何願望的實現視為終點，亦或是一切焦慮與煩惱的終結。」— 雖然實現目標會帶來喜悅，但這種快樂往往比不上追求過程中的期待與熱情。一旦達成一個目標，我們便會開始追尋新的方向，這也是人生 [焦慮](stress-and-anxiety.md) 不斷的根源。沒有任何狀態能帶來絕對的安全感，因為人類天性便是不斷追求與 [渴望](The%20absence%20of%20desire%20is%20true%20happiness.md)。**因此，我們的目標不應是永久去除焦慮，而是學習如何控制焦慮，與焦慮共處。**
 
 ---
 
 ## See Also
 
 * [Journey over destination](Journey%20over%20destination.md)
-* [Miswanting](Miswanting.md)
+* [Miswanting](__temp__miswanting.md)
 * [[The Impact Bias]]
