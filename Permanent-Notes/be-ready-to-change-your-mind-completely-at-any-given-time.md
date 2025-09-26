@@ -1,10 +1,10 @@
 ---
 title: Be ready to change your mind completely at any given time
 created: 2024-12-04T15:59:39
-modified: 2025-08-29T08:30:45
+modified: 2025-09-06T07:18:50
 ---
 
-> _["Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in." — Alan Alda](https://www.goodreads.com/quotes/667214-your-assumptions-are-your-windows-on-the-world-scrub-them)_
+> _[“Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won’t come in.” — Alan Alda](https://www.goodreads.com/quotes/667214-your-assumptions-are-your-windows-on-the-world-scrub-them)_
 
 > _“Our life always expresses the result of our dominant thoughts.” — Soren Kierkegaard_
 
@@ -14,9 +14,15 @@ modified: 2025-08-29T08:30:45
 
 > _“The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.” — F. Scott Fitzgerald_
 
+> _“Beware of false knowledge, it is more dangerous than ignorance.” — George Bernard Shaw_
+
+> _“The first principle is that you must not fool yourself—and you are the easiest person to fool.” — Richard P. Feynman_
+
+> _“We are all born ignorant, but one must work hard to remain stupid.” — Benjamin Franklin_ [^1] [^2]
+
 ---
 
-# 從二極體到光譜 — 擺脫二元論的思維 [^1]
+# 從二極體到光譜 — 擺脫二元論的思維 [^3]
 
 二極體的特性是只有兩極，就像世間事物常被簡化為對與錯、黑與白、是與非。然而，世界並不是如此非黑即白地簡單。如果可以那倒輕鬆了些。但事實上，世事更像一條光譜。正如股癌在《[灰階思考](https://www.books.com.tw/products/0010888435)》中所提到的: 「零到一之間，有無限個數字；黑與白之間，也有無限個灰階。」
 
@@ -50,4 +56,6 @@ modified: 2025-08-29T08:30:45
 * [Reflect & Review](reflect-and-review.md)
 * [The Streetlight Effect](The%20Streetlight%20Effect.md)
 
-[^1]: Binary Thinking
+[^1]: To remain “stupid” means refusing to learn, refusing to think, or deliberately avoiding knowledge and growth.
+[^2]: The “work hard” part is ironic. It suggests that since life constantly gives us chances to learn—from experience, other people, mistakes, books, etc.—you’d actually have to put in effort to ignore all that and stay uninformed.
+[^3]: Binary Thinking
