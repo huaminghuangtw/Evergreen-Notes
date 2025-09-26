@@ -1,7 +1,7 @@
 ---
 title: Burnout
 created: 2024-11-18T09:18:12
-modified: 2025-08-31T05:31:51
+modified: 2025-09-05T04:46:59
 ---
 
 = 過勞
@@ -60,14 +60,15 @@ According to the [World Health Organization (WHO)](https://www.who.int/news/item
 
 # How To Avoid Burnout?
 
-**“Never pump yourself dry.”**
+**“Never pump yourself dry.”** (& Stop before you are exhausted.)
 
 Hemingway advised against pushing to exhaustion. Leaving energy in reserve helps you maintain enthusiasm and consistency without burnout.
 
 ---
 
-## See Also
+# See Also
 
-* [energy management](energy-management.md)
+* [Energy Management](energy-management.md)
+* [Busyness](busyness.md)
 
 [^1]: “Crunch mode”, also referred to as “crunch time,” is the term used by those in the software development industry to describe working extra hours for extended periods of time in order to finish a project or meet a deadline. ↔ [Slack](slackness.md) in project management is the time a task can be delayed without causing a delay to either subsequent tasks or project completion time. The amount of time before a constraint binds.
