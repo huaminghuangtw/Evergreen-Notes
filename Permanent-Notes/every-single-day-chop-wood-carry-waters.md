@@ -1,7 +1,7 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-05T03:34:56
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -48,7 +48,7 @@ There is a Zen Buddhist saying: “What do you do before enlightenment? _Chop w
 
 > _“When the root is strong, the fruit is sweet.” — Bob Marley_
 
-* [蹲馬步](Slow%20Down%20to%20Speed%20Up.md) — [持續地把每件瑣 (碎的小) 事循序漸進、按部就班地做好才是成功的關鍵。](https://youtu.be/mZPN9W-jPm4)
+* [蹲馬步](slow-down-to-speed-up.md) — [持續地把每件瑣 (碎的小) 事循序漸進、按部就班地做好才是成功的關鍵。](https://youtu.be/mZPN9W-jPm4)
 * 一步一步來，有一才有二
 * Take one step at a time. Walk before you run.
 * 「修身、齊家、治國、平天下」
@@ -116,7 +116,7 @@ EVERYDAY is easier than SOMEDAY. [^3] Embrace the daily mundane activities / ord
 
 * Perseverance is not a long race; it is many short races one after another.
 * Don’t mistake _hustle_ for _grit_. Real grit is [finishing what you start](https://sketchplanations.com/goal-gradient-effect) when it’s no longer exciting. It’s important to knowing when to _grit_ and when to _[quit](the-art-of-quitting.md)_.
-* [“Slow and steady wins the race.”](Slow%20Down%20to%20Speed%20Up.md)
+* [“Slow and steady wins the race.”](slow-down-to-speed-up.md)
 
 ---
 
