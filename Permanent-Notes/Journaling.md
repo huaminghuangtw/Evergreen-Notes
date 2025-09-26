@@ -1,7 +1,7 @@
 ---
 title: Journaling
 created: 2024-11-18T09:18:12
-modified: 2025-08-30T06:57:39
+modified: 2025-09-25T16:12:11
 ---
 
 > _“Create an environment where you’re free to express what you’re afraid to express.” — Rick Rubin_
@@ -77,6 +77,7 @@ E.g., feelings, emotions, thoughts, memories, special moments/occasions/events
 * [“Bullet Journaling (Bujo)” by Ryder Caroll](https://bulletjournal.com)
 	* A chronological record of the day
 * “Shadow-Work Journaling (陰影日記)” by Keila Shaheen
+* “The 6 Minute Diary” by Dominik Spenst
 * “Morning Pages (晨間日記)” by Julia Cameron
 	* Three pages of unfiltered, longhand, and stream-of-conscious [free writing](https://en.wikipedia.org/wiki/Free_writing) (自由書寫).
 	* About anything and everything that crosses your mind.
@@ -95,6 +96,6 @@ E.g., feelings, emotions, thoughts, memories, special moments/occasions/events
 * [The Five Minute Journal](https://www.intelligentchange.com/products/the-five-minute-journal)
 * Gratitude Journaling (感恩日記)
 
-[^1]: Memory is everything. You’re doing this for your future self. Future You will want to look back at this time in your life, and find out what you were actually doing, day-to-day, and how you really felt back then. It will help you make better decisions. Future You will thank Today You.
+[^1]: Memory is everything. You’re doing this for your future self. Future You will want to look back at this time in your life, and find out what you were actually doing, day-to-day, and how you really felt back then. It will help you [make better decisions](https://fs.blog/decision-journal/). Future You will thank Today You.
 [^2]: Or: 工作日誌（Worklog）
 [^3]: [Always start with end in mind!](always-start-with-end-in-mind.md)
