@@ -1,7 +1,7 @@
 ---
 title: When in doubt, zoom out
 created: 2025-02-10T09:34:23
-modified: 2025-08-30T17:15:02
+modified: 2025-09-05T03:34:52
 ---
 
 退一步海闊天空。
@@ -16,7 +16,13 @@ modified: 2025-08-30T17:15:02
 
 ---
 
-It is important to take time to [zoom out/sit back/slow down](Slow%20Down%20to%20Speed%20Up.md) on a regular basis.
+[Slow down](slow-down-to-speed-up.md) and remember this: Most things make no difference.
+
+> _[“I do believe that 99% of effort in life is ‘wasted’. And it’s not wasted in the sense that you don’t learn something; you do learn something. But if you look back at all the term papers you wrote and all the classes you took and all the people you dated and on all the thoughts you had and all the things you stressed about and all the decisions you made, 99% of them didn’t matter; they were inconsequential; and there were a few 1% decisions that did matter.” — Naval Ravikant](https://www.reddit.com/r/NavalRavikant/comments/ublf3u/do_you_agree_with_naval_is_99_of_effort_really/)_
+
+---
+
+It is important to take time to [zoom out/sit back/slow down](slow-down-to-speed-up.md) on a regular basis.
 
 ---
 
