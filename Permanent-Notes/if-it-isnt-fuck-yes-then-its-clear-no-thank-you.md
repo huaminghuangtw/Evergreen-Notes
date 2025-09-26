@@ -1,7 +1,7 @@
 ---
 title: If It Isn’t Fuck Yes, Then It’s Clear No Thank You
 created: 2024-11-18T09:16:49
-modified: 2025-08-29T08:30:45
+modified: 2025-09-05T03:44:26
 ---
 
 **TL; DR** Default to NO.
@@ -46,6 +46,7 @@ Remember: Whenever you say “yes” to something, [you’re saying “no” to 
 
 * The goal is to achieve more by doing less, and the only way to get more things done is to have fewer things to do. Remember: [The more things you do, the less well you do each of them.](https://www.workingtheorys.com/p/3-hours) The less you have to do, the more time you get to chase randomness and enjoy the things you really want to do.
 * Less is often more—but getting to “less” is the hard part.
+* [Being overwhelmed](Burnout.md) is just as unproductive as doing nothing—and far more unpleasant. [Productivity](Productivity.md) comes from being selective: do less, but focus on what truly matters. [Prioritize](Prioritization.md) the vital few and ignore the rest.
 
 ---
 
