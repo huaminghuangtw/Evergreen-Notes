@@ -1,7 +1,7 @@
 ---
 title: Emotion Control
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:46
+modified: 2025-09-03T07:10:15
 ---
 
 > _“Temperament is more important than IQ. You need reasonable intelligence, but you absolutely have to have the right temperament. Otherwise, something will snap you.” — Warren Buffett_
@@ -36,7 +36,27 @@ But often, despite our best efforts, we find ourselves on the train before we ev
 
 ---
 
+# The HALT Method
+
+Before making an important decision ask: “_Am I **hungry**, **angry**, **lonely**, or **tired**?_” If you answer “yes” to any of them, address it before [making any decisions](decision-making.md).
+
+* When your thinking is contaminated by negative emotions, make as few decisions and engage in as few interactions as possible. This keeps these emotions from spilling over into your life and prevents you from making hasty decisions.
+* You never regret taking a night to sleep on an emotional response. But you do regret ones done in the moment.
+* If you’re about to take an emotion-induced action, take more deep breaths and wait 24 hours.
+
+---
+
+# The Triple S Technique by Tony Robbins
+
+1. Shift your STATE [^1]
+2. Change your STORY
+3. STRATEGIZE your future
+
+---
+
 # See Also
 
 * [Abandon your ego](abandon-your-ego.md)
 * [Emotional Freedom](emotional-freedom.md)
+
+[^1]: e.g., by taking a cold shower, deep breath, etc.
