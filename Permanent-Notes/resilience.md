@@ -1,7 +1,7 @@
 ---
 title: resilience
 created: 2024-11-18T09:04:18
-modified: 2025-08-29T08:30:45
+modified: 2025-09-21T15:13:30
 ---
 
 > _“Resilience is not what happens to you. It’s how you [react to, respond to](choose-your-response.md), and recover from what happens to you.” — Jeffrey Gitomer_
@@ -21,6 +21,8 @@ modified: 2025-08-29T08:30:45
 > _“Our greatest glory is not in never failing, but in rising up every time we [fail](Failing%20forward%20turns%20setbacks%20into%20stepping%20stones.md).” — Ralph Waldo Emerson_
 
 > _[“It's not about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward.” — Rocky balboa Sylvester Stallone](https://youtu.be/tZUC-uAGLEA)_
+
+> _“Always seek out the seed of triumph in every adversity.” — Og Mandino_
 
 ---
 
@@ -77,6 +79,7 @@ The more easily you get offended, the less emotional intelligence you have. Inve
 * [“Taking Souls (收割靈魂)” by David Goggins](https://www.google.com/search?q=taking+souls+david+goggings)
 	* Love your enemies—not by seeking their approval, but by turning your feelings about them into fuel. Let their doubt drive you. [Be so exceptional at what you do](always-do-your-best-as-possible.md) that they’re forced to respect you, not out of affection, but awe. They don’t need to like you. It’s about earning respect through undeniable excellence, shattering their preconceptions with your relentless work and undeniable results.
 * [Reminder: If someone is acting like an idiot, you can just move on and let them be wrong. You do not have a personal obligation to correct people who are committed to being stupid. Sure, sometimes you need to attempt to get on the same page, but usually you can simply reclaim your time and move on to more productive ventures.](https://jamesclear.com/3-2-1/april-24-2025)
+* 笑罵由人、唾面自乾
 
 ---
 
