@@ -1,12 +1,12 @@
 ---
 title: What you work on is far more important than how productively you work
 created: 2025-02-04T06:34:16
-modified: 2025-09-01T07:02:54
+modified: 2025-09-05T04:46:59
 ---
 
 > _“If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster.” — Stephen R. Covey_
 
-> _“What you do is more important than how you do everything else, and doing something well does not make it important.” — Tim Ferriss_
+> _“What you do is more important than how you do everything else, and doing something unimportant well does not make it important.” — Tim Ferriss_ [^1]
 
 > _[“The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work.” — Paul Graham](https://paulgraham.com/selfindulgence.html)_
 
@@ -34,10 +34,10 @@ modified: 2025-09-01T07:02:54
 
 # Efficiency v.s. Efficacy / Being Efficient vs. Being Effective
 
-> _“The difference between efficiency and effectiveness is the difference between knowledge and wisdom.” — Dr. Russell L. Ackoff_ [^1]
+> _“The difference between efficiency and effectiveness is the difference between knowledge and wisdom.” — Dr. Russell L. Ackoff_ [^2]
 
 * Most people try to be fast, but forget to check if they are doing the right thing. Trying to be efficient without caring about effectiveness is the default mode of the universe.
-* 「效率 (Efficiency)」是把事情做好 (Doing things right)，而「效能 (Effectiveness/Efficacy)」則是做對的事情 (Doing the right things) [^2]
+* 「效率 (Efficiency)」是把事情做好 (Doing things right)，而「效能 (Effectiveness/Efficacy)」則是做對的事情 (Doing the right things) [^3]
 * [Become a strategist.](Prioritization.md) It is much more important to do the right things compared to doing things right.
 * 許多人習慣談論「效率」，卻較少使用「效能」這個詞，因此常常將兩者混淆。而**所謂的「效率」，其實是建立在「效能」的前提/基礎上討論的** — 唯有確保做對的事情，提升效率才有意義。因此，在談效率時，是假設已經在做對的事情了。
 * 在任何行動之前，我們應該先思考：「這件事是該做的嗎? 」（效能），然後再考慮如何把它做好（效率）。
@@ -55,5 +55,6 @@ Examples
 
 * [If it isn’t fuck YES, then it’s clear NO thank you](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md)
 
-[^1]: _“Knowledge is proud that it knows so much; wisdom is humble that it knows no more.” — [William Cowper](https://www.brainyquote.com/authors/william-cowper-quotes)_
-[^2]: 經得起時間考驗
+[^1]: Also, [requiring a lot of time](busyness.md) does not make a task important.
+[^2]: _“Knowledge is proud that it knows so much; wisdom is humble that it knows no more.” — [William Cowper](https://www.brainyquote.com/authors/william-cowper-quotes)_
+[^3]: 經得起時間考驗
