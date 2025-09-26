@@ -1,7 +1,7 @@
 ---
 title: Quit social media
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-03T07:15:28
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -101,7 +101,7 @@ Fast Digital Consumption
 
 * More connected, less connected.
 	* cPhones and digital distractions have amplified this issue. We can be in the same room with others physically, but still feel completely disconnected.
-* Social media has created more connectedness than ever before—a constant [dopamine drip](__temp__dopamine.md).
+* Social media has created more connectedness than ever before—a constant [dopamine drip](dopamine.md).
 * We have more connectedness, but we feel less connected to those around us.
 * Social media is as addictive as drugs [^3] designed to make you wish you were somewhere else, doing something else, with someone else.
 * We all need to put down the phone and spend time connecting with people in person/real life.
