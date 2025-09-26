@@ -1,7 +1,7 @@
 ---
 title: You are the average of the five people you associate with most
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-26T05:32:35
 ---
 
 > _“If you are wondering who your people are, they are the ones who make your heart feel seen and your nervous system feel calm.” — Yung Pueblo_
@@ -16,7 +16,7 @@ modified: 2025-08-29T08:30:45
 
 ---
 
-Find people who want _relationships_, not _transactions_.
+Find people who want _[relationships](relationships.md)_, not _transactions_.
 
 ---
 
@@ -86,6 +86,12 @@ You have to be very selective with whom you give your _time_, _energy_, and _att
 # The Spillover Effect
 
 [Performance is contagious: sitting near a high performer can make you better at your job—your productivity rises. But sit near a low performer, and it can just as easily plummet.](https://insight.kellogg.northwestern.edu/article/sitting-near-a-high-performer-can-make-you-better-at-your-job)
+
+---
+
+# See Also
+
+* [Stanford Prison Experiment](stanford-prison-experiment.md)
 
 [^1]: People come into your life for a reason, a season, or a lifetime.
 [^2]: Some people come into our life to learn and others come to teach.
