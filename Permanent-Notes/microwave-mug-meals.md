@@ -1,7 +1,7 @@
 ---
 title: 🥙 Microwave Mug MealsRecipes
 created: 2024-11-18T09:16:50
-modified: 2025-08-29T08:30:45
+modified: 2025-09-22T11:42:49
 ---
 
 that require little cleanup
@@ -23,7 +23,7 @@ that require little cleanup
 		* Stabbing/Poking 4-5 holes in the yolk with a toothpick (or piercing the yolk with a fork)
 * Mug Porridge
 	* Oats
-	* Banana (快要爛掉的)
+	* Banana (熟透，快要爛掉的 → 越熟越甜！)
 	* Milk
 	* Chia Seed
 	* Datteln
