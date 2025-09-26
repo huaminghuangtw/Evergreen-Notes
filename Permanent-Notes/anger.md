@@ -1,7 +1,7 @@
 ---
 title: Anger
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-03T06:49:35
 ---
 
 > _“Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.” — Mark Twain_
@@ -28,6 +28,14 @@ Beneath anger there’s always [fear](fear.md).
 
 ---
 
+Anger is what fear and pain look like when they show themselves in public.
+
+---
+
+It’s okay to be sad, disappointed, or get lost, but don’t be angry. Anger is never the answer.
+
+---
+
 > _“For every minute you are angry you lose sixty seconds of happiness.” — Ralph Waldo Emerson_
 
 每生氣一分鐘，就會少 60 秒的快樂。
@@ -41,7 +49,7 @@ Beneath anger there’s always [fear](fear.md).
 
 ---
 
-沈默是反擊無恥的無聲風暴，憤怒是抗擊外辱的有效自殘
+沈默是反擊無恥的無聲風暴，憤怒是抗擊外辱的有效自殘。
 
 ---
 
@@ -49,7 +57,7 @@ Beneath anger there’s always [fear](fear.md).
 
 ---
 
-**The story of the Buddha and the Angry Man**
+# The story of the Buddha and the Angry Man
 
 > One day, the Buddha was walking through a village when a young man approached and began yelling at him.
 >
