@@ -1,7 +1,7 @@
 ---
 title: Productivity
 created: 2024-11-18T09:18:12
-modified: 2025-08-31T05:31:51
+modified: 2025-09-26T05:57:32
 ---
 
 > _“Productivity is most important for things you don’t want to be doing. Most people want to increase productivity so they can spend less time on the task. But before you worry about being more productive, think about being more selective. Rather than focusing on increasing productivity, it may be worth asking, ‘What would I be delighted to spend time on, even if it went slowly?’ Direct your energy toward figuring out how to start what you want to do rather than thinking about how to shorten what you don’t want to do.” — James Clear_
@@ -40,6 +40,8 @@ Fill your day with hope and face it with joy. Do bold things with a pleasant and
 
 ❗Toxic Productivity / Productivity Porn [^4]❗
 
+Hot take: Most “productivity” tools are actually “[procrastination](Procrastination.md)” tools in disguise.
+
 The only thing that actually works (for me) in productivity is **easy systems** with **shorts ways**.
 
 ---
@@ -57,11 +59,20 @@ Keep in mind: An effective [system](Systems%20over%20goals.md) requires simple, 
 ---
 
 * 正向情緒有助於快速進入高專注力的「[心流](flow-state.md)」狀態。
-* [負面情緒](What%20to%20do%20when%20you%20have%20negative%20thoughts%20or%20emotions.md) 則如同「漏電」，消耗 [能量/精力](energy-management.md) 並降低 [效率](What%20to%20do%20when%20you%20have%20negative%20thoughts%20or%20emotions.md)。
+* [負面情緒](negative-thoughts-and-emotions.md) 則如同「漏電」，消耗 [能量/精力](energy-management.md) 並降低 [效率](negative-thoughts-and-emotions.md)。
 
 ---
 
-## See Also
+[@ferriss4hourWorkweekEscape2011]
+
+There are two synergistic approaches for increasing productivity that are inversions of each other:
+
+1. Limit tasks to the important to shorten work time ([The Pareto Principle](the-pareto-principle.md)).
+2. Shorten work time to limit tasks to the important ([The Parkinson’s Law](the-parkinsons-law.md)).
+
+---
+
+# See Also
 
 * [Planning and preparation help maximize your productivity](Planning%20and%20preparation%20help%20maximize%20your%20productivity.md)
 * [What you work on is far more important than how productively you work](what-you-work-on-is-far-more-important-than-how-productively-you-work.md)
