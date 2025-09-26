@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2025-08-29T08:30:45
+modified: 2025-09-03T07:16:54
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](Stay%20curious.md) is key.
@@ -60,6 +60,10 @@ Rewire your brain
 
 ---
 
+It’s not the load that breaks you down, it’s the way you carry it.
+
+---
+
 The ability to choose one thought over another is superpower—one shift in our thoughts can completely change how we feel.
 
 ---
@@ -99,6 +103,9 @@ Go laugh in the places you have cried—[change the narrative.](be-careful-how-y
 
 * “I am really anxious.” → “I am experiencing anxiety.”
 	* You are not your feelings. Just because you’re experiencing anxious feelings doesn’t mean it’s an inherent part of who you are.
+	* We are not our emotions. We are not sad or anxious (_feeling emotions_). We have sadness or anxiety on us (_being emotions_).
+		* I am sad. → There is sadness on me.
+		* I am anxious. → There is anxiety on me.
 * “How hard it is? (這有多難?)” → “How hard can it be? (這能有多難?)”
 * “以後不知道該怎麼辦…” → 不知道以後會怎樣耶!
 * “[I am afraid to fail.](Fear%20of%20Failure%20and%20Success.md)” → “I am excited to try.”
