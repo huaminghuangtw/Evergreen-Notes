@@ -1,7 +1,7 @@
 ---
 title: Dopamine
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-22T08:12:56
 ---
 
 > _“Persons with severe addictions are among those contemporary prophets that we ignore to our own demise, for they show us who we truly are. (重度成癮者是當代的預言家，不把他們當一回事，沒有好下場的是我們，因為他們反映的正是我們真實的面貌)” — Kent Dunnington_
@@ -30,13 +30,21 @@ Dopamine triggers the [desire](The%20absence%20of%20desire%20is%20true%20happine
 
 Dopamine makes you feel best when you earn it with efforts. Learn to spike dopamine from the effort (an equalizer) itself!
 
+Addiction is a progressive narrowing of the things that bring you pleasure. Happiness is a progressive expansion of the things that bring you pleasure. The former emerges passively.
+
+The latter takes work.
+
+The point is to be mindful of cultivating both a mixture of activities that require effort to derive pleasure and also seeking contentment from what you have, and to realize that anything that quickly spikes dopamine without effort is likely to be destructive in the long run.
+
+In order to keep the reward systems of your brain working for you instead of against you, it can be wise to avoid things that lead to big dopamine increases without much effort. Beware anything that delivers high dopamine with minimal effort. Keep the amount of effort scaled with the amount of dopamine.
+
 [Dopamine is a powerful neurotransmitter that is responsible for our pleasure from effort. It's accessible to all of us, but can be inhibited by factors that can interfere with and prevent us from getting dopamine release from effort itself, such as spiking dopamine before and/or after engaging in effort.](https://www.hubermanlab.com/episode/controlling-your-dopamine-for-motivation-focus-and-satisfaction)
 
 ---
 
 是一種爽痛平衡 (Pleasure-Pain Balance)，如翹翹板的兩端 (爽快 + 痛苦)
 
-A spike in [dopamine](https://click.convertkit-mail.com/5quox4vxzxu7hv6w7eei0s94g7v44tn/kkhmh6hlq9d4rmck/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dD01MDExcyZ2PUstVFcyQ2hwejRr) will always be followed by a dip below baseline before it returns to baseline. (多巴胺濃度怎麼上去，就會怎麼下來)
+The important thing to understand about dopamine is that the faster and higher it goes, the lower and longer it drops below baseline afterwards. A spike in [dopamine](https://click.convertkit-mail.com/5quox4vxzxu7hv6w7eei0s94g7v44tn/kkhmh6hlq9d4rmck/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dD01MDExcyZ2PUstVFcyQ2hwejRr) will always be followed by a dip below baseline before it returns to baseline. (多巴胺濃度怎麼上去，就會怎麼下來)
 
 我們的大腦天生具備維持平衡的能力，因此，當多巴胺水平持續飆升時，大腦可能會進行「補償」，使我們需要更高頻率或更大量的多巴胺分泌才能感受到相同的快感。
 
