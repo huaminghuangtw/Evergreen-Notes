@@ -1,12 +1,14 @@
 ---
 title: Comparison is the thief of joy
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-03T06:46:04
 ---
 
 > _”Don’t bother just to be better than your contemporaries or predecessors. Try to be better than yourself.” — William Faulkner_
 
 > _“Don’t compare your beginning to someone else’s middle.” — Jon Acuff_
+
+> _“Be your unapologetically weird self.” — Chris Sacca_
 
 ---
 
@@ -20,8 +22,8 @@ If you want to compare yourself with someone else, study ultra-successful people
 
 Compare yourself…
 
-* to who you were _yesterday_ (past self), not to who someone else is _today_
-* against your personal benchmarks
+* to who you were _yesterday_ (past self), not to who someone else is _today_.
+* against your personal benchmarks.
 
 ---
 
