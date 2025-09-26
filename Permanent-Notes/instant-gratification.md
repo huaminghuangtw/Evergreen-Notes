@@ -1,7 +1,7 @@
 ---
 title: Instant Gratification
 created: 2024-11-18T09:18:12
-modified: 2025-08-31T05:31:51
+modified: 2025-09-06T07:24:19
 ---
 
 = Immediate Gratification = Cheap Dopamine
@@ -16,6 +16,10 @@ modified: 2025-08-31T05:31:51
 
 ---
 
+Temptation is an ever-present failure trigger.
+
+---
+
 **Greedy Algorithm** operates on the principle of “taking the best option now (Local Maximum)” without considering the long-term consequences.
 
 ---
@@ -24,7 +28,7 @@ modified: 2025-08-31T05:31:51
 
 * 比起長遠的利益，我們 (未經訓練) 的大腦更偏好馬上就可以得到的快樂和感官享受 (Sensory Pleasures) [^1]
 	* 慾望滿足 → 大腦獎賞機制 → 多巴胺分泌 → 上癮
-* **Sigmund Freud’s Pleasure Principle:** The nature of human motivation is [pursuing pleasure](__temp__dopamine.md) and avoiding pain (i.e., the desire to stay in the comfort zone; to escape the discomfort).
+* **Sigmund Freud’s Pleasure Principle:** The nature of human motivation is [pursuing pleasure](dopamine.md) and avoiding pain (i.e., the desire to stay in the comfort zone; to escape the discomfort).
 * Our brains are optimized for [energy efficiency](energy-management.md), and they only turn on the CPU (Consciousness Processing Unit) when absolutely necessary
 
 ---
