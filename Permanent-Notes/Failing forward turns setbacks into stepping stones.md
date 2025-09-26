@@ -1,14 +1,14 @@
 ---
 title: Failing forward turns setbacks into stepping stones
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:46
+modified: 2025-09-23T08:02:29
 ---
 
 > _“Opportunity often comes disguised in the form of misfortune or temporary defeat.” — Napoleon Hill_
 
 > _“I’ve missed more than 9,000 shots in my career. I’ve lost almost 300 games. Twenty-six times I’ve been trusted to take the game-winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.” — Michael Jordan_
 
-> _“Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.” — Samuel Beckett_
+> _“Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.” — Samuel Beckett_ [^1]
 
 > _“Failure is simply the opportunity to begin again, this time more intelligently.” — Henry Ford_
 
@@ -68,3 +68,5 @@ Life will inevitably throw dirt your way—challenges, setbacks, and all kinds o
 ## See Also
 
 * [A true transformation begins with a mental shift](a-true-transformation-begins-with-a-mental-shift.md)
+
+[^1]: Lost Better
