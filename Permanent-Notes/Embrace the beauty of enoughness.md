@@ -1,7 +1,7 @@
 ---
 title: Embrace the beauty of enoughness
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:46
+modified: 2025-09-25T17:24:09
 ---
 
 > _「真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。」 — 沈芯菱_
@@ -36,22 +36,39 @@ If you’re not enough without [X], you’ll never be enough with [X].
 
 凡事過猶不及
 
-[Things in excess become their opposite.](https://www.goodreads.com/quotes/9512978-things-in-excess-become-their-opposite-it-is-possible-to) [^2][@ferriss4hourWorkweekEscape2011]
+---
 
-The dose makes the poison. Some things are beneficial in small amounts but become harmful in excess—such as free time, intensity, and stress. The key is to find the optimal dose, which is unique to you and will evolve through different seasons of your life. Never accept someone else’s prescribed dose as your own.
-
-For everything in life, the answer always lies somewhere in the middle. Beyond a certain point, any additional amount can lead to diminishing or even negative returns. Be careful listening to extremists of either side. Too much of anything is harmful.
-
-> _“Life is the art of drawing sufficient conclusions from insufficient premises.” — Samuel Butler_
-
-Key: Set boundaries \& Find/Maintain balance/sweet spot/trade-off
-
-* Peak/Inflection Point = Point of [Diminishing Returns](https://en.wikipedia.org/wiki/Diminishing_returns) = Point of Maximum Yield = Marginal Utility
-* Costs/Benefits Ratio
+人生的最高點就是站在平衡點！
 
 ---
 
 凡事剛剛好的藝術
+
+---
+
+[@ferriss4hourWorkweekEscape2011]
+
+[Things in excess become their opposite.](https://www.goodreads.com/quotes/9512978-things-in-excess-become-their-opposite-it-is-possible-to) [^2]
+
+The dose makes the poison. Some things are beneficial in small amounts but become harmful in excess—such as free time, intensity, and stress. The key is to find the optimal dose, which is unique to you and will evolve through different seasons of your life. Never accept someone else’s prescribed dose as your own.
+
+---
+
+For everything in life, the answer always lies somewhere in the middle. Beyond a certain point, any additional amount can lead to diminishing or even negative returns. Be careful listening to extremists of either side. Too much of anything is harmful.
+
+---
+
+> _“Life is the art of drawing sufficient conclusions from insufficient premises.” — Samuel Butler_
+
+Keys:
+
+* Set boundaries
+* Find/Maintain balance/sweet spot/trade-off
+
+Notice:
+
+* Peak/Inflection Point = Point of [Diminishing Returns](https://en.wikipedia.org/wiki/Diminishing_returns) = Point of Maximum Yield = Marginal Utility
+* Costs/Benefits Ratio
 
 ---
 
