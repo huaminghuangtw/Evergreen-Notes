@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-26T05:36:12
 ---
 
 > _We are what we believe we are.” — C.S. Lewis_
@@ -39,6 +39,10 @@ Never say, I’ll never…
 ---
 
 If you say you can. Yes, you can! If you say you can’t. Yes, you’re right!
+
+---
+
+At any given moment you have the power to say: “This is not how the story is going to end.”
 
 ---
 
