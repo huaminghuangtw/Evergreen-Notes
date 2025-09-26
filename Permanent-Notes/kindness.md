@@ -1,7 +1,7 @@
 ---
 title: kindness
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-20T08:30:36
 ---
 
 > _“Kindness is a language which the deaf can hear and the blind can see.” — Mark Twain_
@@ -32,3 +32,4 @@ Sometimes the greatest act of kindness is…
 # See Also
 
 * [Empathy](Empathy.md)
+* [The Small-World Phenomenon](the-small-world-phenomenon.md)
