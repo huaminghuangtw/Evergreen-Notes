@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T14:50:36
+modified: 2025-09-25T19:39:53
 ---
 
 > _“To be is to do.” — Immanuel Kant_
@@ -36,7 +36,9 @@ modified: 2025-08-29T14:50:36
 
 > _[“The problem with smart people is they can come up with a good reason for not doing anything. They are smart enough to find the cracks, to foresee the challenges, and to talk themselves out of the idea. They are experts at justifying their lack of courage or lack of action with an intelligent excuse. But there will always be reasons to not do something, and this is particularly true of anything worth doing. We value those moments in which we overcame challenge, not those in which we avoided it. Ultimately, action is a choice. The choice to emphasize the reasons for doing it despite the reasons you have for avoiding it.” — James Clear](https://jamesclear.com/3-2-1/august-8-2024)_
 
-> _[Action kills anxiety](stress%20and%20anxiety.md). You only feel afraid of doing the thing when you’re not doing the thing. Once you’re doing it, you just focus on doing it. If you want to get fit, go to the gym. Right now. If you want to build a business, find one thing you can do and do it. Right now. If you want to expand your network, start sending cold DMs. Right now. If you want a romantic partner, join a group where you might meet someone. Right now. The more you procrastinate, the worse you’ll feel. [Get in the arena.](https://www.workingtheorys.com/p/before-the-crowd) It’s ironically easier to be in it than anxiously watching and waiting on the sidelines.” — Charles Miller_
+> _[Action kills anxiety](stress-and-anxiety.md). You only feel afraid of doing the thing when you’re not doing the thing. Once you’re doing it, you just focus on doing it. If you want to get fit, go to the gym. Right now. If you want to build a business, find one thing you can do and do it. Right now. If you want to expand your network, start sending cold DMs. Right now. If you want a romantic partner, join a group where you might meet someone. Right now. The more you procrastinate, the worse you’ll feel. [Get in the arena.](https://www.workingtheorys.com/p/before-the-crowd) It’s ironically easier to be in it than anxiously watching and waiting on the sidelines.” — Charles Miller_
+
+> _“You can’t climb the ladder of success with your hands in your pockets.” — Arnold Schwarzenegger_
 
 ---
 
@@ -93,9 +95,13 @@ When people talk about traveling to the past, they worry about radically changin
 
 ---
 
+# Identify and close your **Say-Do Gap**
+
 > _“All know the way; few actually walk it.” — Bodhidharma_
 
-大部分的人在「知道」和「做到」之間有很大的鴻溝（知易行難）→ [Life is a game of awareness and action: Awareness to understand something's importance and action to execute on that importance.](https://www.sahilbloom.com/newsletter/11-uncommon-lessons-from-uncommon-minds)
+大部分的人在「知道」和「做到」之間有很大的鴻溝（知易行難）
+
+[Life is a game of awareness and action: Awareness to understand something's importance and action to execute on that importance.](https://www.sahilbloom.com/newsletter/11-uncommon-lessons-from-uncommon-minds)
 
 ---
 
@@ -162,12 +168,12 @@ There is no later, because later you’ll be [dead](death.md).
 
 ---
 
-# Two Type Of Priorities
+# Two Type of Priorities
 
 1. **Stated Priorities:** Priorities that people say they have
 2. **Demonstrated Priorities:** Priorities that people’s actions show they have
 
-True priorities must be verbalized!
+**If someone observed my actions for a week, what would they say my priorities are? Does my actions align with my intention?**
 
 ---
 
