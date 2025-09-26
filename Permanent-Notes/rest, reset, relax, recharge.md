@@ -1,7 +1,7 @@
 ---
 title: rest, reset, relax, recharge
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-25T07:23:07
 ---
 
 > _“Rest until you feel like playing, then play until you feel like resting.” — Martha Beck_
@@ -47,6 +47,10 @@ Build a daily ritual that allows you to _create space to think_ and _wrestle wit
 There’s a simple formula for identifying the highest leverage relaxation for yourself = Energy produced ÷ Time it takes
 
 * If rest increases your output per unit of time, then it was productive.
+
+---
+
+放鬆不是懶惰，而是一種對身心界線的尊重。
 
 ---
 
@@ -164,7 +168,7 @@ The best way to rest is all about _feeling calm_. Or rather, CALM. Find an activ
 
 ### See Also
 
-* [Slow Down to Speed Up](Slow%20Down%20to%20Speed%20Up.md)
+* [Slow Down to Speed Up](slow-down-to-speed-up.md)
 * [The Reitoff Principle](The%20Reitoff%20Principle.md)
 
 [^1]: Either doing _nothing_ or _unplanned energizing distractions / unrelated activities_
