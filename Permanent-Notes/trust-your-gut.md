@@ -1,10 +1,12 @@
 ---
 title: Trust your gut
 created: 2025-01-01T16:32:50
-modified: 2025-08-29T08:30:45
+modified: 2025-09-22T17:46:02
 ---
 
-> _“Intuition is the whisper of the soul.” — Jidda krishnamurti_
+> _“Intuition is the whisper of the soul.” — Jidda Krishnamurti_
+
+> _“Remember that wherever your heart is, there you will find your treasure.” — Paulo Coelho_
 
 ---
 
