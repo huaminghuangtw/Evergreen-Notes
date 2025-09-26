@@ -1,7 +1,7 @@
 ---
 title: Emotional Freedom
 created: 2025-05-10T06:27:40
-modified: 2025-08-30T05:13:38
+modified: 2025-09-22T08:05:35
 ---
 
 > _“Enlightenment is making friendship with the whole existence.” — Amit Ray_
@@ -11,6 +11,16 @@ modified: 2025-08-30T05:13:38
 我們始終擁有「選擇權」— 選擇不受外在任何人事物影響情緒的權利。
 
 只要我們夠愛自己、夠尊敬自己、夠重視自己的快樂和內心的平靜，情緒便能真正自由。
+
+---
+
+# The Very First Step
+
+> _“Instead of shaming your emotions, try to understand what they are telling you.” — Lindsay C. Gibson_
+
+* Embrace the whole range of your emotions. To feel is to be alive.
+* “I am grateful to be able to feel a spectrum of amazing emotions.”
+* 哭很好，難過很棒，生氣也沒關係。
 
 ---
 
@@ -59,7 +69,7 @@ Someone who experienced the exact same event as you likely remembers it very dif
 ## ✅ Actionable Tips & Advice
 
 1. **Practice being the observer.**
-	* Regularly notice your thoughts [without judgment](Dispel%20your%20narratives.md). Say to yourself, “There’s a thought that…” to create separation.
+	* Regularly notice your thoughts [without judgment](dispel-your-narratives.md). Say to yourself, “There’s a thought that…” to create separation.
 2. **Use mindfulness to stay grounded.**
 	* Anchor yourself in the [present moment](live-in-the-present.md) using your breath, body, or senses.
 	* [Meditation](meditation.md) is a helpful tool, but simple awareness throughout the day works too.
@@ -69,10 +79,10 @@ Someone who experienced the exact same event as you likely remembers it very dif
 	* [Allow emotions to pass through you like waves, without suppressing or clinging to them.](Acceptance%20and%20Commitment%20Therapy.md)
 	* Labeling emotions (e.g., “This is anxiety”) helps reduce their intensity.
 5. **Write your thoughts down.**
-	* [Journaling](__temp__journaling.md) helps you see patterns and detach from negative thinking.
+	* [Journaling](journaling.md) helps you see patterns and detach from negative thinking.
 	* Use prompts like: _What am I thinking right now? Is it helpful or true?_
 6. **Let go of the need to be right.**
-	* Many thoughts are attempts to control or protect the ego. [Letting go of mental arguments](Dispel%20your%20narratives.md) brings peace.
+	* Many thoughts are attempts to control or protect the ego. [Letting go of mental arguments](dispel-your-narratives.md) brings peace.
 7. **Embrace stillness and silence.**
 	* Spend time away from distractions to reconnect with your deeper self and hear your inner wisdom.
 8. **Understand that healing is subtractive, not additive.**
@@ -107,7 +117,7 @@ Someone who experienced the exact same event as you likely remembers it very dif
 
 > _“What you resist, persists.” — Carl Jung_
 
-Resistance amplifies [negative emotions](What%20to%20do%20when%20you%20have%20negative%20thoughts%20or%20emotions.md). [Acceptance](Acceptance%20and%20Commitment%20Therapy.md) diffuses them. It’s like quicksand: The more you fight, the deeper you sink. Observing the struggle [without judgment](Dispel%20your%20narratives.md) creates mental space for solutions to emerge [naturally](wu-wei.md).
+Resistance amplifies [negative emotions](negative-thoughts-and-emotions.md). [Acceptance](Acceptance%20and%20Commitment%20Therapy.md) diffuses them. It’s like quicksand: The more you fight, the deeper you sink. Observing the struggle [without judgment](dispel-your-narratives.md) creates mental space for solutions to emerge [naturally](wu-wei.md).
 
 ---
 
