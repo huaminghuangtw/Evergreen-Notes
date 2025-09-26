@@ -1,7 +1,7 @@
 ---
 title: walk
 created: 2024-11-18T09:16:50
-modified: 2025-08-29T08:30:45
+modified: 2025-09-03T07:10:59
 ---
 
 > _“Above all, do not lose your desire to walk. Everyday, I walk myself into a state of well-being & walk away from every illness. I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it.” — Søren Kierkegaard_
@@ -37,7 +37,7 @@ Goal: 8000 - 10000 steps per day
 # Benefits
 
 * generates [optic flow](optic%20flow.md)
-* lowers activity in the [amygdala](amygdala.md), thereby reducing levels of [stress and anxiety](stress%20and%20anxiety.md)
+* lowers activity in the [amygdala](amygdala.md), thereby reducing levels of [stress and anxiety](stress-and-anxiety.md)
 * leads to focused alertness
 * opens up the free flow of creative ideas — a thought process called [Divergent Thinking](Lateral%20Thinking.md)
 
