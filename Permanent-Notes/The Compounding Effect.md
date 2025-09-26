@@ -1,7 +1,7 @@
 ---
 title: The Compounding Effect
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-23T05:39:59
 ---
 
 > _“Compounding is the 8th wonder of the world.” — Albert Einstein_
@@ -48,6 +48,12 @@ leads to a [Vicious Cycle (良性循環)](https://www.google.com/search?q=Viciou
 
 * Trust
 * Reputation
+
+---
+
+# [Creeping Normality](https://www.google.com/search?q=Creeping+Normality)
+
+The gradual acceptance of negative change, because it happens in such small increments that you hardly notice it at all.
 
 ---
 
