@@ -1,7 +1,7 @@
 ---
 title: Public Speaking
 created: 2025-01-23T10:40:57
-modified: 2025-08-29T08:30:45
+modified: 2025-09-25T19:30:24
 ---
 
 ![](../_attachments/6c8f79badba8703f7e8f9c978dca4d9c.webp)
@@ -57,7 +57,7 @@ The Zone 2 Practice Session fixes that: You prepare while in the elevated heart 
 
 Next time you have a big talk or presentation to prepare for, give it a shot:
 
-Do a few rounds of prep while out on a jog or brisk walk. It’s a weird trick, and it may feel uncomfortable at first, but it just plain works.
+Do a few rounds of prep while out on a jog or brisk walk. It’s a weird trick, and it may feel uncomfortable at first, but it works.
 
 ---
 
