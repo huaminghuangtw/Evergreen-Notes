@@ -1,10 +1,12 @@
 ---
 title: Focus is about saying no
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-26T05:36:52
 ---
 
 > _“If you chase two rabbits, you catch none.” — Confucius_
+
+> _“He who chases two hares catches neither.” — Desiderius Erasmus_
 
 > _“People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully.” — Steve Jobs_
 
@@ -28,9 +30,19 @@ modified: 2025-08-29T08:30:45
 
 laser/hyper-focus requires ruthless [prioritization](Prioritization.md)
 
+---
+
 Focus is the art of knowing what to ignore.
 
+---
+
 A focused fool can accomplish more than a distracted genius.
+
+---
+
+It’s better to have one bird in your hand than a thousand in the woods.
+
+---
 
 You’d rather have one sharp knife than 1,000 dull ones.
 
