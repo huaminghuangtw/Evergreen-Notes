@@ -1,13 +1,13 @@
 ---
 title: Slow Productivity
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-05T03:34:56
 ---
 
 Requires:
 
 * [Doing fewer things](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md) (少做)
-* [Working at a natural pace](Slow%20Down%20to%20Speed%20Up.md) (放慢)
+* [Working at a natural pace](slow-down-to-speed-up.md) (放慢)
 * [Obsessing over quality](always-do-your-best-as-possible.md) (重質)
 
 ---
