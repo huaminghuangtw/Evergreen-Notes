@@ -1,12 +1,12 @@
 ---
 title: Hedonic Happiness & Eudaimonic Happiness
 created: 2025-08-10T13:53:39
-modified: 2025-08-28T07:56:59
+modified: 2025-09-03T07:15:11
 ---
 
 # Hedonic Happiness
 
-* Achieved through [pleasure, enjoyment, or satisfaction](__temp__dopamine.md)
+* Achieved through [pleasure, enjoyment, or satisfaction](dopamine.md)
 * Associated with the maximization of short-term pleasure
 * The happiness you feel when you seek [instant gratification](instant-gratification.md)
 
