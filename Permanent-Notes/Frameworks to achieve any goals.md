@@ -1,7 +1,7 @@
 ---
 title: Frameworks to achieve any goals
 created: 2024-11-18T09:18:12
-modified: 2025-08-10T14:28:42
+modified: 2025-09-05T03:22:20
 ---
 
 # 💡 Core Concept
@@ -23,7 +23,7 @@ modified: 2025-08-10T14:28:42
 
 ## See Also
 
-* [The Power Half-Hour](The%20Power%20Half-Hour.md)
+* [The Power Half-Hour](the-power-half-hour.md)
 
 ---
 
