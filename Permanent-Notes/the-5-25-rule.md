@@ -1,10 +1,14 @@
 ---
 title: The 5-25 Rule
 created: 2024-11-18T09:16:49
-modified: 2025-08-24T06:15:24
+modified: 2025-09-04T04:51:50
 ---
 
 > _“The difference between successful people and very successful people is that very successful people say no to almost everything.” — Warren Buffett_
+
+---
+
+= The 20-Slot Life Punchcard Rule
 
 ---
 
