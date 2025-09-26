@@ -1,7 +1,7 @@
 ---
 title: Procrastination
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-05T03:22:52
 ---
 
 > _“To begin, begin.” — William Wordsworth_
@@ -75,7 +75,7 @@ _“[The magic you are looking for is in the work you are always avoiding.](http
 * [The “(10+2) × 5” Method](https://www.reddit.com/r/productivity/s/LGYDi5SCQM)
 	1. Set a timer for 10 minutes. For those 10 minutes, give your task your full, undivided attention. Seriously—it’s just 10 minutes. No “quick research,” no doom-scrolling, no distractions. Just pure focus.
 	2. When the timer ends, take a 2-minute break. Do whatever recharges you—grab a coffee, hydrate, stretch, or walk around (or any light movement to reset your brain.) Avoid hopping online; this break is for your body and mind, not your browser. Stick to the 2-minute limit—no more, no less.
-	3. Repeat [this work-break cycle](The%20Pomodoro%20Technique.md) five times. That’s the “×5” part. Altogether, you’ll get in a solid hour: 50 minutes of focused work and 10 minutes of purposeful breaks.
+	3. Repeat [this work-break cycle](the-pomodoro-technique.md) five times. That’s the “×5” part. Altogether, you’ll get in a solid hour: 50 minutes of focused work and 10 minutes of purposeful breaks.
 * Make it easy to start. [Make it hard to skip.](https://sketchplanations.com/the-power-of-streaks)
 * **The “Fall Behind”, “Catch Up”, “Go Ahead” Mentality**
 	* 當拖延已發生時，可抱持的心態
