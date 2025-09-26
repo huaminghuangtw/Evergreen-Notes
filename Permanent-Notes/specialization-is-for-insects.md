@@ -1,7 +1,7 @@
 ---
 title: Specialization is for insects
 created: 2025-01-23T10:40:57
-modified: 2025-08-29T08:30:45
+modified: 2025-09-06T04:49:57
 ---
 
 > _“At some level, all humans are broad. We’re all multivariate/multifaceted, but we get summarized in pithy ways in our lives.” — Naval Ravikant_
@@ -33,7 +33,7 @@ Polymath
 
 [Don't specialize, hybridize](https://stephango.com/hybridize)
 
-[Specific Knowledge](Specific%20Knowledge.md)
+[Specific Knowledge](specific-knowledge.md)
 
 ---
 
