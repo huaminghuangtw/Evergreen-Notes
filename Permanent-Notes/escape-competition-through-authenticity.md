@@ -1,7 +1,7 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-22T17:46:02
 ---
 
 > _“Everything popular is wrong.” — Oscar Wilde_
@@ -55,6 +55,8 @@ modified: 2025-08-29T08:30:45
 
 > _“Be weird. Your strangeness is your magic.” — Parker Lewis_
 
+The things that make you weird are often the things that make you memorable. Lean into your Pattern Interrupts.
+
 Normal behavior is forgotten. Only weird behavior survives. _Nobody tells stories of when you did the expected — they only tell stories when you did the unexpected._ Normalize being weird. Weirdness is what sets us apart, makes us unique. Be your unapologetically weird self. In fact, being weird may even find you the ultimate happiness.
 
 1. If you pay for the bill at everyone in the table — the short-term reaction is shock and confusion. In the long term, it’s everyone’s favorite memory of you.
@@ -101,7 +103,7 @@ Find a thing that’s so you, that doing it is just a natural extension of you b
 
 ## See Also
 
-* [Specific Knowledge](Specific%20Knowledge.md)
+* [Specific Knowledge](specific-knowledge.md)
 
 ---
 
@@ -109,7 +111,10 @@ Find a thing that’s so you, that doing it is just a natural extension of you b
 
 ---
 
-特立獨行: Different is better than better.
+# Different is better than better.
+
+* 不完美地活出自己的生命勝過於完美地模仿他人
+* 特立獨行
 
 ---
 
