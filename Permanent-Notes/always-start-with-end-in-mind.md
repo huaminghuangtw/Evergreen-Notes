@@ -1,7 +1,7 @@
 ---
 title: Always start with end in mind
 created: 2024-11-18T09:18:12
-modified: 2025-08-01T11:23:03
+modified: 2025-09-26T05:50:54
 ---
 
 > _“It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement(/accomplishment).” — Isocrates_
@@ -9,6 +9,8 @@ modified: 2025-08-01T11:23:03
 > _“There is nothing so useless as doing efficiently that which should not be done at all.” — Peter Drucker_
 
 > _“Having lost sight of our objectives, we redoubled our efforts.” — Walt Kelly_
+
+> _“First say to yourself what you would be; and then do what you have to do.” — Epictetus_
 
 ---
 
