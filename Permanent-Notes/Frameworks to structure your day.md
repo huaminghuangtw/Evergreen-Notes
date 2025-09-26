@@ -1,7 +1,7 @@
 ---
 title: Frameworks to structure your day
 created: 2025-01-23T18:40:57
-modified: 2025-08-29T08:30:46
+modified: 2025-09-05T03:22:20
 ---
 
 > _[Live life by design, not default.](https://fs.blog/david-foster-wallace-this-is-water/) Make each day your masterpiece. How you spend your days is how you spend your life._
@@ -19,7 +19,7 @@ modified: 2025-08-29T08:30:46
 * Think of life as units of days. Think of a day as units of time.
 	* [100 Blocks A Day by Tim Urban](https://waitbutwhy.com/2016/10/100-blocks-day.html)
 		* Your awake time each day can be split into 100 × 10-minute blocks ≈ 16 hours
-	* [The Power Half-Hour](The%20Power%20Half-Hour.md)
+	* [The Power Half-Hour](the-power-half-hour.md)
 		* Breaking your day into “_snackable_” 30-minute chunks/bites
 	* Try thinking about your time in a day in terms of _Kairos_, not _Chronos_.
 		![](../_attachments/b1c977f4afcd7fdc61cd94ab1bd35745.png)
