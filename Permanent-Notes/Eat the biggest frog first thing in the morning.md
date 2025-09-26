@@ -1,7 +1,7 @@
 ---
 title: Eat the biggest frog first thing in the morning
 created: 2024-12-04T17:55:24
-modified: 2025-08-29T08:30:46
+modified: 2025-09-05T03:42:50
 ---
 
 > _“Do one thing every day that scares you.” — Eleanor Roosevelt_
@@ -14,19 +14,19 @@ modified: 2025-08-29T08:30:46
 
 ---
 
-First things first. Do the most important thing [^2] first.
+First things first. Do the most important thing [^2] first, not the most urgent one.
 
-* There is never enough time to do everything, but there is always enough time to do the most important thing.
+> There is never enough time to do everything, but there is always enough time to do the most important thing.
 
 ---
 
 早上是一天當中最有精力、思路最清晰、心智能量最彙集/最強大的時刻，要用來做:
 
-* Things that genuinely matter to you
-* Things that require lots of brain power (e.g., writing, coding, etc.)
-* Things that you are easily tempted to do something else
-* Things that you are not enjoying that much
-* Things that you feel most uncomfortable with and scare you most, usually due to some chances of rejection or conflict
+* Things that genuinely matter to you.
+* Things that require lots of brain power (e.g., writing, coding, etc.).
+* Things that you are easily tempted to do something else.
+* Things that you are not enjoying that much.
+* Things that you feel most uncomfortable with and scare you most, usually due to some chances of rejection or conflict.
 
 ---
 
@@ -65,7 +65,7 @@ First things first. Do the most important thing [^2] first.
 * This is a _long/solid/consecutive/uninterrupted/unbroken blocks/slabs of time_, where you are three times more productive than usual.
 * _“An hour before 9 is worth two after 5.”_ — It feels like gaining extra hours in your day!
 
-You need to find XXX in your day, and ruthlessly foster/protect it from all the time thieves in your life. When you [combine XXX with a deadline](parkinsons-law.md), you QUADRUPLE your productivity.
+You need to find XXX in your day, and ruthlessly foster/protect it from all the time thieves in your life. When you [combine XXX with a deadline](the-parkinsons-law.md), you QUADRUPLE your productivity.
 
 [As those time-chunks get separated and fragmented, my productivity drops spectacularly.](https://www.nealstephenson.com/why-i-am-a-bad-correspondent.html)
 
