@@ -1,7 +1,7 @@
 ---
 title: Optimism
 created: 2025-01-23T10:40:57
-modified: 2025-08-29T08:30:45
+modified: 2025-09-03T07:14:53
 ---
 
 > _“A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.” — Winston Churchill_ [^1]
@@ -10,7 +10,7 @@ modified: 2025-08-29T08:30:45
 
 > _“We should be optimistic not because we believe that our problems are smaller than we thought. We should be optimistic because we believe that our capacity to solve problems is greater than we thought.” — from TED Talk “[The Future Will Be Shaped by Optimists](https://www.youtube.com/watch?v=FrqBWQ-mVEc)” by Kevin Kelly_
 
-> _“[Cynacism](__temp__cynacism.md) is easy. Mimicry is easy. Optimistic contrarians are the rarest breed.” — Naval Ravikant_
+> _“[Cynacism](cynacism.md) is easy. Mimicry is easy. Optimistic contrarians are the rarest breed.” — Naval Ravikant_
 
 ---
 
