@@ -1,10 +1,12 @@
 ---
 title: Judge others by intentions, judge ourselves by actions
 created: 2024-11-18T09:18:12
-modified: 2025-09-01T06:59:42
+modified: 2025-09-24T05:24:35
 ---
 
 > _“We judge ourselves by our intentions and others by their behavior.” — Stephen Covey_
+
+> _“When you judge others, you do not define them, you define yourself.” — Earl Nightingale_
 
 ---
 
