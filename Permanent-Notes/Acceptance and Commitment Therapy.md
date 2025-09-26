@@ -1,7 +1,7 @@
 ---
 title: Acceptance and Commitment Therapy
 created: 2025-01-23T18:40:57
-modified: 2025-08-29T08:30:46
+modified: 2025-09-03T07:10:50
 ---
 
 > _“Emotion arises at the place where mind & body meet. It is the body’s reaction to mind.” — Eckhart Tolle_
@@ -30,7 +30,7 @@ It is a type of mental health therapy (psychotherapy) / an empirically-based psy
 
 ---
 
-Instead of avoiding, denying, or battling your [negative thoughts and emotions](What%20to%20do%20when%20you%20have%20negative%20thoughts%20or%20emotions.md), ACT encourages people to face them with [openness](be-ready-to-change-your-mind-completely-at-any-given-time.md)—_**accepting**_ that these deeper feelings are natural and appropriate responses to certain situations, rather than reasons to avoid them. By embracing this perspective, you begin to accept your challenges and focus on committing to meaningful changes in your behavior.
+Instead of avoiding, denying, or battling your [negative thoughts and emotions](negative-thoughts-and-emotions.md), ACT encourages people to face them with [openness](be-ready-to-change-your-mind-completely-at-any-given-time.md)—_**accepting**_ that these deeper feelings are natural and appropriate responses to certain situations, rather than reasons to avoid them. By embracing this perspective, you begin to accept your challenges and focus on committing to meaningful changes in your behavior.
 
 ---
 
