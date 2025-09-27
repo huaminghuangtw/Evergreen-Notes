@@ -1,7 +1,7 @@
 ---
 title: Leaders are readers
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T15:09:42
+modified: 2025-09-27T08:37:08
 ---
 
 > _“Man is what he reads.” — Joseph Brodsky_
@@ -23,7 +23,7 @@ modified: 2025-08-29T15:09:42
 * One sign you haven’t done enough reading is if you find yourself agreeing with whatever book you read last. At first, it’s easy to be swayed by any reasonable argument. Once you’ve read a lot, you can see that even the best arguments have limitations.
 * Reading is a conversation. All books talk. But a good book listens as well.
 * Reading without [taking notes](note-taking.md) is [useless](https://x.com/neuranne/status/1261991953593401346).
-* It’s important to read unconventional books as well, not just New York Times Best Sellers.
+* 「雜食」：It’s important to read unconventional books as well, not just New York Times Best Sellers.
 * Keep in mind that whenever you pick up a good book to read, you are taking an extensive journey into the mind of the author — You have immediate access to the greatest minds of the past and present, and can absorb decades of their toiling research and experience in just a matter of hours/days/weeks!
 	* The amount of value you can get from a book is astronomical. You’ve got years, if not decades, of someone’s research compiled down into something that will only take you a few hours to read.
 * [The purpose of reading a book isn’t to retain information, it’s to refine your worldview just a little bit with each one.](https://x.com/anuatluru/status/1742196321178513782)
