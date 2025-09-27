@@ -1,7 +1,7 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-09-23T05:37:39
+modified: 2025-09-27T08:05:32
 ---
 
 > _“Whether you think you can, or you think you can’t—you’re both right.” — Henry Ford_
@@ -80,6 +80,11 @@ modified: 2025-09-23T05:37:39
 
 Self-imposed limits, Self-limiting beliefs/stories, Self-sabotaging behaviors, etc.
 
+# Examples
+
+1. 習得性無助（Learned Helplessness）[^1] 的狗
+2. 綁在木樁的小象
+
 # See Also
 
 * [The Streetlight Effect](The%20Streetlight%20Effect.md)
@@ -123,7 +128,7 @@ If someone says: “That’s impossible. You should understand it as: “Accordi
 # Two Of The Biggest Impediments To Life Change
 
 * [Emotion](Emotion%20Control.md): We’re all emotional creatures. We’re so close to everything in our own lives that it’s often hard to remove emotions from our decisions.
-* [Inaction](cultivate-a-strong-bias-towards-action.md): It’s always easier to maintain the [status quo](status%20quo%20bias.md) than taking action. It’s a constant internal battle with yourself especially when inaction appears to be less risky and painful. Yet, when you examine the worst-case scenario, it isn’t as scary as you imagined. In fact, the greatest risk lies in doing nothing at all—once you embrace taking risks, they become far less intimidating than they first seem.
+* [Inaction](cultivate-a-strong-bias-towards-action.md): It’s always easier to maintain the [status quo](the-present-bias.md) than taking action. It’s a constant internal battle with yourself especially when inaction appears to be less risky and painful. Yet, when you examine the worst-case scenario, it isn’t as scary as you imagined. In fact, the greatest risk lies in doing nothing at all—once you embrace taking risks, they become far less intimidating than they first seem.
 
 ---
 
@@ -190,5 +195,7 @@ Your present circumstances don’t determine where you can go; they merely deter
 
 * [Change yourself to change the world](change-yourself-to-change-the-world.md)
 * [Lateral Thinking](Lateral%20Thinking.md)
-* [Standford Prison Experiment](stanford-prison-experiment.md)
+* [Stanford Prison Experiment](stanford-prison-experiment.md)
 * [Fear of Failure](Fear%20of%20Failure%20and%20Success.md)
+
+[^1]: 3Ps: Personal, Pervasive, Permanent
