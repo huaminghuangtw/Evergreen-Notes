@@ -1,7 +1,7 @@
 ---
 title: Busyness
 created: 2024-11-18T09:18:12
-modified: 2025-09-05T03:48:51
+modified: 2025-09-27T06:51:47
 ---
 
 > _“Beware the barrenness of a busy life.” — Socrates_
@@ -11,6 +11,7 @@ modified: 2025-09-05T03:48:51
 > _[Working hard for a long time without checking what the better things to be working on are is a hidden form of laziness. A laziness that disguises itself as something to be proud of. — Julian Shapiro](https://x.com/Julian/status/1452676852032499713)_
 
 > _“Busyness is no different from laziness when it doesn’t lead you to accomplish anything.” ― [@baileyProductivityProjectAccomplishing2016]_
+
 
 ---
 
@@ -30,8 +31,9 @@ modified: 2025-09-05T03:48:51
 
 # [“Being In Motion vs. Taking Action” by James Clear](https://jamesclear.com/taking-action)
 
-* You gain clarity through _motion_, but don’t mistake motion with _action_.
-* _“Never mistake activity for achievement.” — John Wooden_
+> _“Never mistake activity for achievement.” — John Wooden_
+
+* You gain clarity through _motion_, but don’t mistake motion with _action_. Beware of false progress.
 
 ---
 
