@@ -1,7 +1,7 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2025-09-01T07:05:03
+modified: 2025-09-27T16:23:38
 ---
 
 > _“Love is the absence of judgment.” — Dalai Lama_
@@ -77,6 +77,10 @@ Being in love > Being loved
 
 * _“[A woman/man sitting with a man/woman, suddenly feels very comfortable being a woman/man](https://www.tiktok.com/@therealrabbimanis/video/7281009010029989162)” — [Manis Friedman](https://www.google.com/search?q=Manis+Friedman)_
 * When you find someone you’re willing to give up your natural/innate selfishness for, you’ve found your person.
+
+---
+
+喜歡一朵花，你會摘下它；愛一朵花，你會灌溉它。
 
 ---
 
