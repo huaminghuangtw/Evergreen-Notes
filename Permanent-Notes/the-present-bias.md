@@ -1,7 +1,11 @@
 ---
 title: The Present Bias
-created: 2024-11-18T09:18:12
-modified: 2025-07-27T11:16:23
+created: 2024-11-18T09:16:50
+modified: 2025-09-27T08:05:58
+---
+
+= 維持/安於現狀偏誤 = The Present Bias
+
 ---
 
 **Present Bias** refers to the cognitive tendency for people to give stronger weight to immediate rewards over future ones, even when the future benefits are larger. [^1]
@@ -13,5 +17,11 @@ This can lead to [impatience](a-man-who-is-a-master-of-patience-is-master-of-eve
 For example, someone might plan to start exercising next week but, when the time comes, choose rest instead.
 
 Understanding present bias is crucial in fields like behavioral economics, health, and productivity, as it helps design better incentives and systems — like _automatic savings_ or _habit trackers_ — to align short-term actions with long-term goals.
+
+---
+
+# See Also
+
+* [Sunk Cost](the-sunk-cost-fallacy.md)
 
 [^1]: The tendency to overvalue the present, often at the expense of the future.
