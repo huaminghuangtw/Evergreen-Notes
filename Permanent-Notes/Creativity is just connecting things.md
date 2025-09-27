@@ -1,7 +1,7 @@
 ---
 title: Creativity is just connecting things
 created: 2025-03-12T02:41:12
-modified: 2025-08-29T08:30:46
+modified: 2025-09-26T14:54:43
 ---
 
 > _“Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. That’s because they were able to connect experiences they’ve had and synthesize new things. And the reason they were able to do that was that they’ve had more experiences or they have thought more about their experiences than other people.” — Steve Jobs_
@@ -56,7 +56,7 @@ modified: 2025-08-29T08:30:46
 
 ---
 
-# [The Creativity Faucet by Julian Sharpiro](https://www.julian.com/blog/creativity-faucet)
+# [“The Creativity Faucet” by Julian Sharpiro](https://www.julian.com/blog/creativity-faucet)
 
 1. Visualize your creativity as a backed-up pipe of water.
 2. The first mile is wastewater that needs to be emptied.
