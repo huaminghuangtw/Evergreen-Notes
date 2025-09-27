@@ -1,7 +1,7 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T15:36:07
+modified: 2025-09-27T08:03:58
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -157,6 +157,14 @@ In Alice’s Adventures in Wonderland, there’s a scene in which Alice reaches 
 
 ---
 
+# **Think in Expected Value**
+
+[@dukeQuitPowerKnowing2022]
+
+- Decisions should be made like bets: weighing probability of success × payoff.
+- If the expected value of continuing is lower than switching, [**quit sooner**](the-art-of-quitting.md).
+
+---
 ## See Also
 
 * [Mental Models](mental%20models.md)
