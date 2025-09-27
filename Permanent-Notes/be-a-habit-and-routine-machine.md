@@ -1,7 +1,7 @@
 ---
 title: Be a habit and routine machine
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-26T14:57:12
 ---
 
 > _“We are what we repeatedly do every day. Excellence, then, is not an act, but a habit.” — Will Durant_
@@ -34,7 +34,9 @@ Repeating a particular motion sixty times a day over twenty-one days will form a
 
 ---
 
-**The Personal Paradigm Shift:** A single habit or lifestyle change that has an _outsized impact_ on everything else in your life.
+# The Personal Paradigm Shift
+
+A single habit or lifestyle change that has an _outsized impact_ on everything else in your life.
 
 ---
 
@@ -50,7 +52,7 @@ More often than not (= usually)
 
 ---
 
-# Types Of Habits
+# Types of Habits
 
 * **Keystone Habits** [@duhiggPowerHabitWhy2014]
 	* Habits that…
@@ -83,13 +85,19 @@ More often than not (= usually)
 
 # Building Good Habits
 
+> Philosophy: Everyday is easier than someday.
+
 Why is it so important to form good habits? They allow you to offload cognitive resources, enabling routine operations to run automatically in the background (背景處理) while you focus on other life demands.
 
 Good habits have a “blast radius” — Those around you are watching. Be a light for those looking to grow.
 
+When determining the size or complexity of a new habit ask yourself: **“What can I stick to—even on my worst day?”** Start there. Master the art of showing up. Then advance.
+
 ---
 
 # Breaking/Replacing Bad Habits
+
+> Philosophy: None is better than sum.
 
 There are 3 ways to break a bad habit.
 
