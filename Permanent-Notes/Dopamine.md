@@ -1,7 +1,7 @@
 ---
 title: Dopamine
 created: 2024-11-18T09:18:12
-modified: 2025-09-22T08:12:56
+modified: 2025-09-27T05:33:43
 ---
 
 > _“Persons with severe addictions are among those contemporary prophets that we ignore to our own demise, for they show us who we truly are. (重度成癮者是當代的預言家，不把他們當一回事，沒有好下場的是我們，因為他們反映的正是我們真實的面貌)” — Kent Dunnington_
@@ -17,6 +17,7 @@ modified: 2025-09-22T08:12:56
 ---
 
 Dopamine triggers the [desire](The%20absence%20of%20desire%20is%20true%20happiness.md) / endless chasing for MORE
+
 
 ---
 
@@ -46,7 +47,7 @@ In order to keep the reward systems of your brain working for you instead of aga
 
 The important thing to understand about dopamine is that the faster and higher it goes, the lower and longer it drops below baseline afterwards. A spike in [dopamine](https://click.convertkit-mail.com/5quox4vxzxu7hv6w7eei0s94g7v44tn/kkhmh6hlq9d4rmck/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dD01MDExcyZ2PUstVFcyQ2hwejRr) will always be followed by a dip below baseline before it returns to baseline. (多巴胺濃度怎麼上去，就會怎麼下來)
 
-我們的大腦天生具備維持平衡的能力，因此，當多巴胺水平持續飆升時，大腦可能會進行「補償」，使我們需要更高頻率或更大量的多巴胺分泌才能感受到相同的快感。
+我們的大腦天生具備維持平衡的能力，因此，當多巴胺水平持續飆升時，大腦可能會進行「補償」，使我們需要更高頻率或更大量的多巴胺分泌才能感受到相同的快感。越是追求刺激，越是感覺不到刺激/重口味。
 
 ---
 
