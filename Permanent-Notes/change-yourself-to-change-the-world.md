@@ -1,7 +1,7 @@
 ---
 title: Change yourself to change the world
 created: 2024-11-18T09:18:12
-modified: 2025-09-01T07:09:17
+modified: 2025-09-27T11:54:32
 ---
 
 > _“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi_
@@ -33,6 +33,8 @@ Before changing yourself, you need to [knowing yourself](mastering-yourself-is-s
 > _“You take your life in your own hands, and what happens? A terrible thing, no one to blame.” — Erica Jong_
 
 [Your entire life will change the day you realize that everything is on you. No one is coming to save you. No one will fix your problems. No one can act on your behalf. No one will change your mindsets. No one will hand you the things you want in life. It’s the acceptance that you have to hunt if you want to eat. It's all on you.](https://x.com/SahilBloom/status/1855607589578453496)
+
+Self-reliance is the ultimate source of strength. Self-help is the best help.
 
 # See Also
 
