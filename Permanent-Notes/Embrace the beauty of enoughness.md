@@ -1,7 +1,7 @@
 ---
 title: Embrace the beauty of enoughness
 created: 2024-11-18T09:18:12
-modified: 2025-09-25T17:24:09
+modified: 2025-09-26T21:38:39
 ---
 
 > _「真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。」 — 沈芯菱_
@@ -94,9 +94,9 @@ Don’t let the pursuit of more stop you from enjoying what you already have.
 
 # [The Four Pillars of Too Much](https://sketchplanations.com/the-four-pillars-of-too-much)
 
-* Too much stuff
 * Too much/many choice(s)
 * Too much information
+* Too much stuff
 * Too fast
 
 ---
