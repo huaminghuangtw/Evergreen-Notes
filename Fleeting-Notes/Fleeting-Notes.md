@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-09-26T05:35:50
+modified: 2025-09-27T05:32:07
 ---
 
 Spend 30 minutes daily…
@@ -42,8 +42,9 @@ The more your body heats up during a workout, the faster you fatigue. But if you
 Lifestyle Creep
 
 Traditional definition of financial wealth = Asset - Liability
- 
+
 Expectation Inflation
+
 Expectation is the greatest liability
 
 You will never be rich (financially wealthy) if your expectations are growing faster than your asset because you are constantly wanting more
@@ -53,13 +54,13 @@ Successful investment is when you lose the password of your investment account. 
 Maybe you’re already there. Maybe you’re right where you’re supposed to be.
 
 > Nearing the end of a long journey, a young Buddhist comes to the banks of a deep, wide river. He doesn’t know how to cross it and begins to ponder the challenge.
-> 
+>
 > After several hours, he sees a Zen master on the other side of the river and calls out to him:
-> 
+>
 > “Oh wise one, can you tell me how to cross this river and get to the other side?”
-> 
+>
 > The Zen master thinks for a few moments and then replies:
-> 
+>
 > “My son, you are on the other side.”
 
 “You pile up enough tomorrows, and you’ll find you are left with nothing but a lot of empty yesterdays.” ― Meredith Willson, The Music Man
@@ -155,14 +156,6 @@ the best phrase to close a deal is for you to say, that was brilliant.
 Trying to live each day as if you’ve come back from the future
 I just try to live everyday as if I’ve deliberately come back to this one, to enjoy it, as if it was the final full day of my extraordinary, ordinary life.
 the Limbo-Titrate-Quality approach was designed to motivate participants to achieve the lowest possible level of fat or carbohydrate intake, that is, an approach that was equally ambitious with maximal overall nutritional quality and a dietary pattern that could be continued for a lifetime.
-詮釋文學與美學的發言者
-越是追求刺激，越是感覺不到刺激 重口味
-
-Today, I choose not to “should” myself; I will not say I should be busier, I should be healthier, I should…
-
-溝通姿態: 指責、討好、超理性、打岔
-
-習得無助的狗 綁在木樁的小象
 
 The Fosbury Flop
 
