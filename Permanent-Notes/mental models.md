@@ -1,7 +1,7 @@
 ---
 title: mental models
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:31
+modified: 2025-09-27T08:31:46
 ---
 
 > _“Being aware of your mental models is key to being objective.” — Elizabeth Thornton_
@@ -44,6 +44,6 @@ They are…
 
 * [First-Principle Thinking](first-principle%20thinking.md)
 * [Second-Order Thinking](second-order%20thinking.md)
-* [Probabilistic Thinking](probabilistic%20thinking.md)
+* [Probabilistic Thinking](probabilistic-thinking.md)
 * [Lateral Thinking](Lateral%20Thinking.md)
 * [Systems Thinking](Systems%20Thinking.md)
