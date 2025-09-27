@@ -1,7 +1,7 @@
 ---
-title: integrity
+title: Integrity
 created: 2025-02-03T05:30:54
-modified: 2025-08-02T09:01:00
+modified: 2025-09-27T08:34:18
 ---
 
 You are the hostage to the things you say.
