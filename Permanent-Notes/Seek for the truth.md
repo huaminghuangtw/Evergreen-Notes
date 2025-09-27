@@ -1,7 +1,7 @@
 ---
 title: Seek for the truth
 created: 2024-11-18T09:18:12
-modified: 2025-09-24T20:07:21
+modified: 2025-09-26T14:59:34
 ---
 
 > _“Facts are the enemy of truth.” — Miguel de Cervantes_
@@ -17,6 +17,10 @@ modified: 2025-09-24T20:07:21
 > _“Wrong does not cease to be wrong because the majority share in it.” — Leo Tolstoy_
 
 > _[“Truth-seekers take feedback from nature (planes have to fly), free markets (customers have to buy), or competition (militaries have to win). Consensus-seekers take feedback from people (actors want fans, academics want honors, politicians want votes, journalists want status).” — Naval Ravikant](https://x.com/naval/status/1856965245690081637)_ [^1]
+
+---
+
+實事求是
 
 ---
 
