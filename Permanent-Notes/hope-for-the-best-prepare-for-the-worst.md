@@ -1,7 +1,7 @@
 ---
 title: Hope for the best, prepare for the worst
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-27T06:45:35
 ---
 
 > _“Do not think there are no crocodiles just because the water is calm.”_
@@ -35,6 +35,10 @@ Do favors for tomorrow you. [Set yourself up for success. Create a condition tha
 # [Rational Optimists](https://nav.al/rational-optimists)
 
 自信的謙虛 (Confident Humility) — 不是自大，而是自信 (Be Confident, But Humble)
+
+---
+
+[Premortem](Premortem.md)
 
 ---
 
