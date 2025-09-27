@@ -1,7 +1,7 @@
 ---
 title: Psychology
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-27T08:04:48
 ---
 
 * Egocentric Bias
@@ -45,23 +45,18 @@ modified: 2025-08-29T08:30:45
 	* Examples: senior management at large organizations
 * The Diderot Effect
 	* When acquiring a new possession leads to a spiral of consumption that results in the acquisition of even more possessions. In other words, it means that buying something new can cause a chain reaction of buying more and more things because the new item makes one feel like one needs other things to go with it or to keep up with it.
-* The Endowment Effect
-	* People tend to value items that they own more highly than they would if they did not own the same items
 * The Theory of Mind
 	* Put yourself into the mindset of another person
-* [斯坦福棉花糖實驗 Standford Marshmallow Experiment on Delayed Gratification](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment)
+* [斯坦福棉花糖實驗 Stanford Marshmallow Experiment on Delayed Gratification](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment)
 * 「果醬實驗」(Jam Experiment)
 	* How Choice Overloads Makes Consumers Buy Less (due to [Decision Fatigue](decision-fatigue.md))
-* [Loss Aversion](https://en.wikipedia.org/wiki/Loss_aversion)
-	* The pain we feel when we lose outweighs the pleasure we feel when we win.
 * Echo Chamber (同溫層效應 = 迴聲室效應 = 信息繭房)
 * 信使效應 on 壞消息 → shoot the messenger
 * 鴕鳥心態 (Ostrich Effect): 指一種人類因為不敢面對現實而逃避問題，以求得心理上安全感的懦弱行為
 * The Shiny Object/Toy Syndrome
-* [The Status Quo Bias](status%20quo%20bias.md)
 * Ambiguity Effect
 	* People tend to…
 		* avoid options that we consider to be ambiguous (i.e., a lack of information)
 		* select options for which the probability of a favorable outcome is _known_, over an option for which the probability of a favorable outcome is _unknown_.
 * [The Halo Effect](The%20Halo%20Effect.md)
-[Standford Prison Experiment](stanford-prison-experiment.md)
+- [Stanford Prison Experiment](stanford-prison-experiment.md)
