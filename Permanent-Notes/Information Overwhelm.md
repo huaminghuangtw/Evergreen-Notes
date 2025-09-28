@@ -1,10 +1,12 @@
 ---
 title: Information Overwhelm
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:46
+modified: 2025-09-28T14:53:00
 ---
 
 > _“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” ― T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654)_
+
+> _Knowledge is cumulative. Intelligence is selective. It’s a matter of efficiency versus effectiveness._
 
 ---
 
