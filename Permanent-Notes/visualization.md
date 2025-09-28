@@ -1,7 +1,7 @@
 ---
 title: Visualization
 created: 2024-11-18T09:18:12
-modified: 2025-09-27T06:46:10
+modified: 2025-09-27T17:38:29
 ---
 
 > _“Everything you can imagine is real.” — Pablo Picasso_
@@ -33,4 +33,5 @@ Your skill in any area is a function of the quantity and quality of **Mental Rep
 * Harnessing the power of _anticipated regret_, which involves envisioning the potential disappointment you’ll feel in the future if you don’t take certain actions today, can guide you to [make decisions](decision-making.md) that your future self will truly appreciate.
 
 ## See Also
-- [Premortem](Premortem.md)
+
+* [Premortem](Premortem.md)
