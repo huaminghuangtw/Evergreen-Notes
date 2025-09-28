@@ -1,7 +1,7 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:46
+modified: 2025-09-28T05:02:35
 ---
 
 > _“Start before you’re ready. Don’t prepare. Begin. Don’t think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
@@ -25,6 +25,10 @@ modified: 2025-08-29T08:30:46
 ---
 
 只要開始就不嫌晚，沒有什麼叫太晚。只要前進就不嫌慢，沒有什麼叫太慢。我們都有恐懼和害怕，但我們永遠不會太遲。
+
+---
+
+The most difficult thing is the decision to start/act, the rest is merely tenacity.
 
 ---
 
