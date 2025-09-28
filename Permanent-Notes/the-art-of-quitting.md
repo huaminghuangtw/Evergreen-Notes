@@ -1,7 +1,7 @@
 ---
 title: The Art of Quitting
 created: 2024-11-18T09:18:12
-modified: 2025-09-27T08:33:52
+modified: 2025-09-27T17:38:29
 ---
 
 > _“I am as proud of what we don’t do as I am of what we do.” — Steve Jobs_
@@ -58,8 +58,8 @@ In life, it’s not only about the [perseverance](every-single-day-chop-wood-car
 
 > _“Success does not lie in sticking to things. It lies in picking the right thing to stick to and quitting the rest.” ― Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
 
-- Success isn’t sticking forever; it’s **maximizing long-term outcomes**.
-- Success isn’t about never quitting; it’s about **strategically quitting the wrong things**.
+* Success isn’t sticking forever; it’s **maximizing long-term outcomes**.
+* Success isn’t about never quitting; it’s about **strategically quitting the wrong things**.
 
 ---
 
@@ -156,5 +156,5 @@ Instead of _“Should I quit?”_, ask: _“If I wasn’t already in this, would
 
 * [Decision Making](decision-making.md)
 * [Focus is about saying no](focus-is-about-saying-no.md)
-* [The Endowment Effect](Evergreen-Notes/Permanent-Notes/The%20Endowment%20Effect.md)
+* [The Endowment Effect](The%20Endowment%20Effect.md)
 * [Loss Aversion](Loss%20Aversion.md)
