@@ -1,7 +1,7 @@
 ---
 title: Apple Shortcuts
 created: 2024-11-18T10:16:50
-modified: 2025-08-29T08:30:46
+modified: 2025-09-27T17:21:19
 ---
 
 [比較]
@@ -32,7 +32,7 @@ Actions
 	* Method II: Type = Text → `If "myBooleanVar" is Yes/No`
   * ? “Run Script over SSH”
   * ? “Get Contents of URL” → make webhook calls
-  * “Open X-Callback URL” (= [URL\_Schemes](URL_Schemes.md))
+  * “Open X-Callback URL” (= [URL_Schemes](URL_Schemes.md))
 	* Allow you to go beyond “Open App” in Shortcuts
 	* They are helpful in the Shortcuts app when the App itself doesn’t have any Shortcut Actions support available by default
 	* **Tip:** If you’d like to run one shortcut from another shortcut, use the `Run Shortcut` action instead of a URL scheme. You should only run shortcuts with a URL if you’re integrating from another app outside of Shortcuts
