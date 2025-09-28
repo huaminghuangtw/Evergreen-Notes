@@ -1,7 +1,7 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-09-27T08:05:32
+modified: 2025-09-27T17:38:29
 ---
 
 > _“Whether you think you can, or you think you can’t—you’re both right.” — Henry Ford_
