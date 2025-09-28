@@ -1,7 +1,7 @@
 ---
 title: Stress & Anxiety
 created: 2024-11-18T09:18:12
-modified: 2025-09-03T06:54:26
+modified: 2025-09-28T04:37:39
 ---
 
 > _“Stress happens when the mind resists what is.” — Dan Millman_
@@ -29,8 +29,8 @@ Root Cause: Having two conflicting internal [desires](The%20absence%20of%20desir
 
 # Two Types of Stress
 
-* 正壓力 = 優壓 (Eustress) - 當壓力「稍微高於」我們的 [適應能力](adaptability.md)
-* 負壓力 = 劣壓 (Distress) - 當壓力「遠高於」我們的 [適應能力](adaptability.md)
+* 正壓力 = 優壓（Eustress）- 當壓力「稍微高於」我們的 [適應能力](adaptability.md)
+* 負壓力 = 劣壓（Distress）- 當壓力「遠高於」我們的 [適應能力](adaptability.md)
 
 ## See Also
 
@@ -75,7 +75,7 @@ The phenomenon of “empathic stress” causes individuals who are exposed to pe
 * 2 things you can smell (or 2 smells you like)
 * 1 emotion you feel
 
-This is called “Grounding.”
+This is called **“Grounding.”**
 
 ---
 
