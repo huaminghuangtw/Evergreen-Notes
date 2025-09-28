@@ -1,7 +1,7 @@
 ---
 title: Specialization is for insects
 created: 2025-01-23T10:40:57
-modified: 2025-09-06T04:49:57
+modified: 2025-09-28T15:02:35
 ---
 
 > _“At some level, all humans are broad. We’re all multivariate/multifaceted, but we get summarized in pithy ways in our lives.” — Naval Ravikant_
@@ -18,20 +18,39 @@ modified: 2025-09-06T04:49:57
 
 ![](../_attachments/31bfb57423212e7f5a7dae4bb5979390.png)
 
+---
+
 Before you discover what you love: _fewer commitments, more experiments_. After you discover what you love: _fewer experiments, more commitments_.
 
-The “generalist first, specialist later” Mindset
+---
+
+# The “generalist first, specialist later” Mindset
 
 > You should explore a range of pursuits early in your career and life, with that _exploration_ leaving you better equipped for the _exploitation_ phase when you go deeper on the arena that provides you with maximum leverage.
 
-Polymath
+---
+
+# Polymath
 
 * Renaissance Man
-* Generalist > Specialist
 * A person with wide-ranging, multi-disciplinary knowledge \& skills
 * 博學多聞的通才
 
+---
+
+# Emilie Wapnick’s TED Talk [“Why some of us don’t have one true calling”](https://youtu.be/4sZdcB6bjI8)
+
+* [Multipotentiality/Multipotentialite](https://www.google.com/search?q=Multipotentiality) is someone with many interests and creative pursuits.
+* Three “superpowers” that multipotentialites have:
+	1. [Idea Synthesis](Creativity%20is%20just%20connecting%20things.md)
+	2. [Rapid Learning](learning-is-the-single-best-investment-that-you-can-make-for-your-time.md)
+	3. [Adaptability](adaptability.md)
+
+---
+
 [Don't specialize, hybridize](https://stephango.com/hybridize)
+
+---
 
 [Specific Knowledge](specific-knowledge.md)
 
