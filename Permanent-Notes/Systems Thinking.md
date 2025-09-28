@@ -1,7 +1,12 @@
 ---
 title: Systems Thinking
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-28T16:34:00
+---
+
+> _“The whole is greater than the sum of its parts.” — Aristotle_
+
+
 ---
 
 # 六頂思考帽 (Six Thinking Hats)
