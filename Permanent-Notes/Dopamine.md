@@ -1,7 +1,7 @@
 ---
 title: Dopamine
 created: 2024-11-18T09:18:12
-modified: 2025-09-27T05:33:43
+modified: 2025-09-27T17:38:29
 ---
 
 > _“Persons with severe addictions are among those contemporary prophets that we ignore to our own demise, for they show us who we truly are. (重度成癮者是當代的預言家，不把他們當一回事，沒有好下場的是我們，因為他們反映的正是我們真實的面貌)” — Kent Dunnington_
@@ -17,7 +17,6 @@ modified: 2025-09-27T05:33:43
 ---
 
 Dopamine triggers the [desire](The%20absence%20of%20desire%20is%20true%20happiness.md) / endless chasing for MORE
-
 
 ---
 
