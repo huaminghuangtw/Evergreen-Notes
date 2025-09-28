@@ -1,7 +1,7 @@
 ---
 title: Psychology
 created: 2024-11-18T09:18:12
-modified: 2025-09-27T08:04:48
+modified: 2025-09-27T17:38:29
 ---
 
 * Egocentric Bias
@@ -59,4 +59,4 @@ modified: 2025-09-27T08:04:48
 		* avoid options that we consider to be ambiguous (i.e., a lack of information)
 		* select options for which the probability of a favorable outcome is _known_, over an option for which the probability of a favorable outcome is _unknown_.
 * [The Halo Effect](The%20Halo%20Effect.md)
-- [Stanford Prison Experiment](stanford-prison-experiment.md)
+* [Stanford Prison Experiment](stanford-prison-experiment.md)
