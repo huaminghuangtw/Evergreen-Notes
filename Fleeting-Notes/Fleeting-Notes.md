@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-09-27T05:32:07
+modified: 2025-09-28T05:08:33
 ---
 
 Spend 30 minutes daily…
@@ -87,41 +87,8 @@ The Farmer & The Horse Parable maybe story cyclic judgement
 
 People buy with emotions, but justify with reasoning.
 
-Corporate jobs are filled with people who like to look busy getting any work done. Just a bunch of men/women who want to feel important so they throw on a suit, attend a meeting or two, walk around and gossip with co workers, then go about their day and get Obviously, getting paid for doing practically nothing is something that everyone dreams of so i’m not knocking
-
-Naval, you recommend to treat books as blogs and chapters as blog posts by roaming/stopping at will.
-
 * Answer every question posed (ideally by helping them find the answer). Never leave curiosity unsatisfied. • Be incredibly honest with children, hold nothing back. • Don’t force children to do or not do things unless they’re going to put themselves in harms way. If you wouldn’t force an adult to do something, don’t force the child either. • Love them, unconditionally. My children teach me to love. It’s not their job to love me back. • They aren’t going to be you or what you want.
-What’s the correct very-long-term solution? How do I solve this using and committing the minimum amount of time possible?
-The most difficult thing is the decision to act, the rest is merely tenacity.”
-To improve progress of achieving your goals, continually write down your goals every day and use visual reminders (e.g., Post-It sticky notes) that you update the content or change the location regularly
-However, scientific data show that this initial motivation quickly diminishes, making us less likely to achieve our goals. This phenomenon is known as the post-it fallacy and the myth of accountability. So, it’s best to keep our goals to ourselves and focus on the behaviors that lead to success.
-inform certain people.
-yourself, unless it’s necessary to
-It’s best to keep your goals to
-psychological effects.
-doubts you may have negative
-However, finding someone who
-desire to prove them wrong. (* Be willing to look stupid until those who called you dumb ask you how you did it!)
-doubts you can activate your
-Instead, telling someone who
-motivation.
-feedback can decrease
-action, as receiving positive
-about your goals before taking
-Summary Don’t tell people
-hinder progress.
-sharing goals with others can
-accountability suggests that
-them. The myth of
-higher chance of achieving
-goals and actions on paper for a
-Instead, spend time with your
-announcing your goals to others.
-world” rule advises against
-Summary The “don’t tell the
-Accountability
-The Myth of
+
 visualizing failure and the negative consequences can be more effective than focusing on positive outcomes, according to
 practiced by anyone. By focusing on a specific spot, you activate brain circuitry that releases neurochemicals, increasing alertness. Conversely, relaxing your visual attention can create a panoramic vision.
 [Summary We all have natural rhythms of attention and motivation. According to a review in the Yale journal Biology and Medicine, the best times for focus are 30 minutes, 3 hours, and 11 hours after waking up.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6430172/)
