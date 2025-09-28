@@ -1,7 +1,7 @@
 ---
 title: Leaders are readers
 created: 2024-11-18T09:18:12
-modified: 2025-09-27T08:37:08
+modified: 2025-09-28T05:01:08
 ---
 
 > _“Man is what he reads.” — Joseph Brodsky_
@@ -35,6 +35,7 @@ modified: 2025-09-27T08:37:08
 # Naval Ravikant
 
 * “Never feel obligated to finish a book—treat it as a piece of information on the web.”
+	* Treat books as blogs and chapters as blog posts by roaming/stopping at will.
 	* When deciding what to read, just read whatever grabs you. When it stops grabbing you, put it down.
 	* Ruthlessly quit a book you’re reading whenever it no longer inspires/resonates you (必要時要勇敢地放棄正在讀的書)
 * “Read what you love until you love what you read.”
