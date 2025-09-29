@@ -1,7 +1,7 @@
 ---
 title: How to live a life
 created: 2024-11-18T09:18:12
-modified: 2025-09-24T08:53:53
+modified: 2025-09-29T12:11:50
 ---
 
 > _“As long as you live, keep learning how to live.” — Seneca_
@@ -10,7 +10,7 @@ modified: 2025-09-24T08:53:53
 
 > _“Life is a balance of holding on and letting go.” — Rumi_
 
-> _“There are two ways to live: you can live as if nothing is a miracle; you can live as if everything is a miracle.” — Albert Einstein_
+> _“There are two ways to live: you can live as if nothing is a miracle; you can live as if everything is a miracle.” — Albert Einstein_ [^1]
 
 > _“There is no magic pill or shortcuts in life. The only shortcut is doing something the right way the first time so that you don’t waste any time on the shortcuts.” — Arnold Schwarzenegger_
 
@@ -91,3 +91,5 @@ But resisting reality is always the wrong choice / the worst option is sitting a
 Life is like a maze. There are two ways to advance your life: [move forward](Just%20getting%20started.md) when you can, or if you can’t, step back and try a new way. The biggest mistake is to stand still.
 
 人生中遇到任何情況，其實只有三種選擇：接受它（改變自己的態度）、改變它，或是離開它。最糟糕的做法，是抗拒現實 — 既不接受、也不改變、也不離開，只停留在抱怨、擔心與掙扎中 — 這就是大部分痛苦的根源。人生就像一座迷宮，能前進時就勇敢前行，走不通時就退一步換條路，但絕不是原地僵住不動。
+
+[^1]: _“The greatest miracle is to be alive.” — Thich Nhat Hanh_
