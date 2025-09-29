@@ -1,7 +1,7 @@
 ---
 title: Procrastination
 created: 2024-11-18T09:18:12
-modified: 2025-09-05T03:22:52
+modified: 2025-09-29T05:11:46
 ---
 
 > _“To begin, begin.” — William Wordsworth_
@@ -44,7 +44,7 @@ _“[The magic you are looking for is in the work you are always avoiding.](http
 
 當我們面對一個龐大、困難的專案的時候，很容易會感覺到心理壓力 (feel unprepared/concerned about the potential negative outcome)，不知道從何開始，內心就會產生抗拒和焦慮，遲遲不願意開始做事情。
 
-[明知道自己手上有一兩件應該要先做的重要大事，最後卻先選擇其他比較簡單的事來做。](Two%20Types%20of%20Work.md) 如果只是偶爾為之，的確能創造出一定程度的成果和價值，但如果想讓待辦清單發揮正確的功效，一定要先做 [最重要的工作](Eat%20the%20biggest%20frog%20first%20thing%20in%20the%20morning.md)。
+[明知道自己手上有一兩件應該要先做的重要大事，最後卻先選擇其他比較簡單的事來做。](two-types-of-work.md) 如果只是偶爾為之，的確能創造出一定程度的成果和價值，但如果想讓待辦清單發揮正確的功效，一定要先做 [最重要的工作](Eat%20the%20biggest%20frog%20first%20thing%20in%20the%20morning.md)。
 
 ---
 
