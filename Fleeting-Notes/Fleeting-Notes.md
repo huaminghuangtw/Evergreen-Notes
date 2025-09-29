@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-09-28T05:08:33
+modified: 2025-09-29T05:29:28
 ---
 
 Spend 30 minutes daily…
@@ -63,21 +63,6 @@ Maybe you’re already there. Maybe you’re right where you’re supposed to be
 >
 > “My son, you are on the other side.”
 
-“You pile up enough tomorrows, and you’ll find you are left with nothing but a lot of empty yesterdays.” ― Meredith Willson, The Music Man
-
-Communication is about what is received, not what is intended. If there is a gap between what you are saying and what they are hearing, you have to find a new way to say it.
-
-The Chinese bamboo tree can grow to be nearly 100 feet tall—but it’s how it achieves that growth that makes it even more interesting.
-
-After being planted in the ground, it requires daily watering and nurturing.
-
-And then, nothing happens: Despite the effort, days, weeks, months, and even years go by with no signs of any growth.
-
-Two years, three years, four years pass, with continued daily inputs and not so much as a break in the surface to show for it.
-
-But suddenly, in the fifth year, everything changes:
-
-The Chinese bamboo tree breaks through the surface, and in the span of just six weeks, grows up to 90-feet-tall.
 
 Brand DNA Helix
 
@@ -87,14 +72,15 @@ The Farmer & The Horse Parable maybe story cyclic judgement
 
 People buy with emotions, but justify with reasoning.
 
-* Answer every question posed (ideally by helping them find the answer). Never leave curiosity unsatisfied. • Be incredibly honest with children, hold nothing back. • Don’t force children to do or not do things unless they’re going to put themselves in harms way. If you wouldn’t force an adult to do something, don’t force the child either. • Love them, unconditionally. My children teach me to love. It’s not their job to love me back. • They aren’t going to be you or what you want.
 
-visualizing failure and the negative consequences can be more effective than focusing on positive outcomes, according to
-practiced by anyone. By focusing on a specific spot, you activate brain circuitry that releases neurochemicals, increasing alertness. Conversely, relaxing your visual attention can create a panoramic vision.
 [Summary We all have natural rhythms of attention and motivation. According to a review in the Yale journal Biology and Medicine, the best times for focus are 30 minutes, 3 hours, and 11 hours after waking up.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6430172/)
+
 There are specific times during the day that are for optimal goal work. Dr. Pablo Valdez describes three peak times each day when our attention and focus are at their highest. As a rough guide, 30 minutes, 3 hours, and 11 hours after you wake up are great times for hard work. This happens because of the body’s circadian rhythm (sleep-wake cycle) and rhythmicity of body temperature and associated neurochemicals.
+
 false [scarcity](https://www.goodreads.com/book/show/17286670-scarcity) like timing can be misleading and create distrust
+
 funnel can create true scarcity.
+
 * Online tools like deadline
 tactic.
 * False scarcity is a common
@@ -105,7 +91,6 @@ highlight values that are bigger
 * Never tell the price first, but
 price juxtaposition.
 * After the features, focus on
-白帽思考
 Expert Story Positioning (ESP)
 f people are judging features before change conversions go down, if they want the change and the features, give them the change conversions go
 * Benefits are more important than features in marketing. • Make people want the benefits before telling them about what they get. • Focus on how their life changes and the overall benefit extension. • Features can be discussed after emphasizing the benefits.
