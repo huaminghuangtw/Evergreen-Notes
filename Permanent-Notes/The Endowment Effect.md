@@ -1,8 +1,9 @@
 ---
 title: The Endowment Effect
 created: 2025-09-27T07:58:43
-modified: 2025-09-27T08:04:26
+modified: 2025-09-29T07:23:02
 ---
+= 擁有偏誤
 
 People tend to value items that they own more highly than they would if they did not own the same items
 
