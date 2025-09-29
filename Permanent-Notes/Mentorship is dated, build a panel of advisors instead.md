@@ -1,7 +1,7 @@
 ---
 title: Mentorship is dated, build a panel of advisors instead
 created: 2025-01-23T10:40:57
-modified: 2025-08-29T08:30:46
+modified: 2025-09-29T07:37:23
 ---
 
 ![](../_attachments/1abb6f103b7cbb0ab268cd7901aa80bb.jpg)
@@ -25,7 +25,7 @@ modified: 2025-08-29T08:30:46
 
 ---
 
-# Murder Board
+# Murder Board = Red Team
 
 * also known as a “scrub-down”
 * is a committee of questioners set up to critically review a proposal and/or help someone prepare for a difficult oral examination.
