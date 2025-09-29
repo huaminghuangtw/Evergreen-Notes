@@ -1,7 +1,7 @@
 ---
 title: Live in the present
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-29T05:21:37
 ---
 
 > _“It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.” — Dr. Robert Hutchings Goddard_
@@ -9,6 +9,8 @@ modified: 2025-08-29T08:30:45
 > _“Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why we call it the present” — Eleanor Roosevelt_
 
 > _“Yesterday is but today’s memory, tomorrow is today’s dream.” — Kahlil Gibran_
+
+> _“You pile up enough tomorrows, and you’ll find you are left with nothing but a lot of empty yesterdays.” ― Meredith Willson, The Music Man_
 
 > _“Forget yesterday - it has already forgotten you. Don’t sweat tomorrow - you haven’t even met. Instead, open your eyes and your heart to a truly precious gift - today.” — Steve Maraboli_
 
