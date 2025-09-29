@@ -1,14 +1,17 @@
 ---
 title: Visual Perceptual Exercise
 created: 2024-11-18T09:18:12
-modified: 2025-09-03T07:10:59
+modified: 2025-09-29T05:28:24
 ---
 
 = Space-Time Bridging = Shift between different time domains [^1]
 
+---
+
 This is a useful tool for our nervous system to manage [stress](stress-and-anxiety.md) and enhancing cognitive flexibility.
 
-Steps
+---
+# Steps
 
 1. Start with eyes closed, focusing on the internal state of body sensations like breathing and heart rate (_Fine/Thin Time Slicing_)
 2. Then eyes open, focusing on the surface of one’s body.
@@ -18,7 +21,11 @@ Steps
 
 ---
 
-Other tools:
+By focusing on a specific spot, you activate brain circuitry that releases neuro chemicals, increasing alertness. Conversely, relaxing your visual attention can create a panoramic vision.
+
+---
+
+# Other Tools
 
 * Overt Visual Focus
 	* Physically focus your visual attention on a **specific point** (or “**spotlight**”) will help maintain focus during bouts of goal work.
