@@ -1,7 +1,7 @@
 ---
 title: The Compounding Effect
 created: 2024-11-18T09:18:12
-modified: 2025-09-27T07:00:16
+modified: 2025-09-29T08:08:39
 ---
 
 > _“Compounding is the 8th wonder of the world.” — Albert Einstein_
@@ -100,6 +100,12 @@ The gradual acceptance of negative change, because it happens in such small incr
 > _“All I want to know is where I’m going to die, so I’ll never go there.”_
 
 > _“I just try to avoid being stupid. I have a way of handling a lot of problems—I put them in what I call my ‘too hard pile,’ and just leave them there. I’m not trying to succeed in my too hard pile.”_ [^2]
+
+---
+
+> _「不要想著贏、要想不能輸。」— 電影《KANO》_
+
+不輸才是贏，少輸也是贏。
 
 ---
 
