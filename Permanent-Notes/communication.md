@@ -1,10 +1,13 @@
 ---
 title: Communication
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-09-29T05:20:26
 ---
 
-Communication is not about saying what we think. Communication is about ensuring others hear what we mean.
+* Communication is not about saying what we think. Communication is about ensuring others hear what we mean.
+* Communication is about what is received, not what is intended.
+
+If there is a gap between what you are saying and what they are hearing, you have to find a new way to say it.
 
 ---
 
