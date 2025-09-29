@@ -1,7 +1,7 @@
 ---
 title: luck
 created: 2024-11-18T09:18:12
-modified: 2025-07-22T10:05:09
+modified: 2025-09-28T19:54:20
 ---
 
 > _“Diligence is the mother of good luck.” — Benjamin Franklin_
@@ -13,6 +13,8 @@ modified: 2025-07-22T10:05:09
 > _“Luck is a dividend of sweat. The more you sweat, the luckier you get.” — Ray Kroc_
 
 > _“Luck has nothing to do with it, because I have spent many, many hours, countless hours, on the court working for my one moment in time, not knowing when it would come.” — Serena William_
+
+> _「你要儘量靠近果樹，即使來不及接住掉落的蘋果，也要當第一個撿起來的人。」— 黃仁勳_
 
 ---
 
