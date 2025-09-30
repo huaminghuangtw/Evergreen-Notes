@@ -1,7 +1,7 @@
 ---
 title: Work in sprints, work with your biology
 created: 2024-11-18T09:18:12
-modified: 2025-09-29T05:11:46
+modified: 2025-09-29T16:02:56
 ---
 
 > _“If you want to operate at maximum productivity, efficiency, and creativity, you’re going to work on things that you’re excited about at the moment you’re excited about them and accept nothing less. It is better to sit on your butt and do nothing than it is to work on things that you are not excited about.” — Naval Ravikant_
@@ -43,7 +43,7 @@ Why?
 
 **Choose [the right task](two-types-of-work.md) at the right time / Put your time in the right places**
 
-|                  ![](../_attachments/b592b3f9521574f1f4c2c0cb803edf84.png)                   |
+|          ![](../_attachments/b592b3f9521574f1f4c2c0cb803edf84.png)          |
 | :-------------------------------------------------------------------------: |
 | <sub>[Source]( https://barbaraoakley.com/books/learning-how-to-learn)</sub> |
 |                                                                             |
