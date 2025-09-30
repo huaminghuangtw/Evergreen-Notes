@@ -1,7 +1,7 @@
 ---
 title: Visual Perceptual Exercise
 created: 2024-11-18T09:18:12
-modified: 2025-09-29T05:28:24
+modified: 2025-09-29T15:54:57
 ---
 
 = Space-Time Bridging = Shift between different time domains [^1]
@@ -11,6 +11,7 @@ modified: 2025-09-29T05:28:24
 This is a useful tool for our nervous system to manage [stress](stress-and-anxiety.md) and enhancing cognitive flexibility.
 
 ---
+
 # Steps
 
 1. Start with eyes closed, focusing on the internal state of body sensations like breathing and heart rate (_Fine/Thin Time Slicing_)
