@@ -1,7 +1,7 @@
 ---
 title: The Art of Quitting
 created: 2024-11-18T09:18:12
-modified: 2025-09-29T08:08:15
+modified: 2025-09-30T12:39:03
 ---
 
 > _“I am as proud of what we don’t do as I am of what we do.” — Steve Jobs_
@@ -35,8 +35,6 @@ modified: 2025-09-29T08:08:15
 ---
 
 > _“Quit and grit are two sides of the exact same decision. Decision-making in the real world requires action without complete information. Quitting is the tool that allows us to react to new information that is revealed after we make a decision.” ― Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
-
-Grit 是延長賽；Quit 是調整賽局。
 
 **Grit is good when the path is worthwhile. Quitting is essential when it’s not.**
 
@@ -109,43 +107,23 @@ Embrace the rare [ability to start over](https://www.youtube.com/shorts/H7dxy-CW
 
 [@dukeQuitPowerKnowing2022]
 
-> _“Monkeys and pedestals is a mental model that helps you quit sooner. Pedestals are the part of the problem you know you can already solve, like designing the perfect business card or logo. The hardest thing is training the monkey. When faced with a complex, ambitious goal, (a) identify the hard thing first; (b) try to solve for that as quickly as possible; and (c) beware of false progress. Building pedestals creates the illusion that you are making progress toward your goal, but doing the easy stuff is a waste of time if the hard stuff is actually impossible. Tackling the monkey first gets you to no faster, limiting the time, effort, and money you sink into a project, making it easier to walk away. When we butt up against a hard problem we can’t solve, we have a tendency to turn to pedestal-building rather than choosing to quit. Advance planning and precommitment contracts increase the chances you will quit sooner. When you enter into a course of action, create a set of **kill criteria**. This is a list of signals you might see in the future that would tell you it’s time to quit. Kill criteria will help inoculate you against bad decision-making when you’re “in it” by limiting the number of decisions you’ll have to make once you’re already in the gains or in the losses. In organizations, kill criteria allow people a different way to get rewarded beyond dogged and blind pursuit of a project until the bitter end.” ― Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
+> _“Monkeys and pedestals is a mental model that helps you quit sooner. Pedestals are the part of the problem you know you can already solve, like designing the perfect business card or logo. The hardest thing is training the monkey. When faced with a complex, ambitious goal, (a) identify the hard thing first; (b) try to solve for that as quickly as possible; and (c) beware of false progress. Building pedestals creates the illusion that you are making progress toward your goal, but doing the easy stuff is a waste of time if the hard stuff is actually impossible. Tackling the monkey first gets you to no faster, limiting the time, effort, and money you sink into a project, making it easier to walk away. When we butt up against a hard problem we can’t solve, we have a tendency to turn to pedestal-building rather than choosing to quit. Advance planning and precommitment contracts increase the chances you will quit sooner.” ― Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
 
-假設有人提案要訓練一隻猴子，讓牠能在舞台上用燃燒的火把雜耍。這個表演需要兩個元素：
-
-1. 猴子能學會雜耍
-2. 有一個漂亮的基座讓牠站上去
-
-在這個計畫裡，真正的瓶頸是「猴子能不能被訓練成功」。
-
-如果猴子學不會，再漂亮的基座也沒戲唱。
-
-但很多人會選擇先蓋基座，因為它比較簡單、短期可見、看起來有「進展」。問題是，你可能投入大量資源（時間、人力、金錢）蓋基座，到最後卻發現猴子根本學不會，導致陷入「[沉沒成本](the-sunk-cost-fallacy.md)」效應 — 明知無望，卻更難放棄 — 等於把寶貴資源浪費掉，錯失了投入到其他更有前景項目的機會。
-
-**比喻**
-
-* 猴子 = 專案中最不確定、最棘手的挑戰
-* 基座 = 相對簡單，但不會決定成敗的工作
-
-**Key Takeaway: Bottleneck Analysis**
-
- 在做專案或追求目標時，應該 [先全力訓練「猴子」](Eat%20the%20biggest%20frog%20first%20thing%20in%20the%20morning.md)，解決真正阻礙成功的核心問題，證明最困難的瓶頸是可行的（能訓練出火把猴），再來投資其他資源。否則，如果猴子訓練不出來，再漂亮的「基座」都沒有意義，只是自欺欺人。
 
 常犯錯誤：先放下猴子去蓋基座，以為有了漂亮的基座，猴子就能「自然」學會表演 → 雙面災難：
 
 1. 資源錯置，誤把進度當成果
 2. 被心理綁架，難以抽身，越陷越深，無法止損
 
-這就像你想開一家餐廳，最核心問題是「菜好不好吃」。
+應該先做 Bottleneck Analysis，然後[全力訓練「猴子」](Eat%20the%20biggest%20frog%20first%20thing%20in%20the%20morning.md)
 
-* 但你先砸錢裝潢（蓋基座），最後發現主廚根本煮不好（猴子訓練失敗）。
-* 店面裝潢的錢已經花下去（沉沒成本），你又不好意思收掉，只好繼續虧錢硬撐。
+Example: [GoogleX 實驗室](https://x.company/)
 
 ---
 
 好的堅持條件：路徑仍具正期望值（Expected Value）
 
-錯的堅持信號：僅由沉沒成本、面子或情緒驅動
+錯的堅持信號：僅由[沉沒成本](the-sunk-cost-fallacy.md)、面子或情緒驅動
 
 ---
 
@@ -156,6 +134,8 @@ Instead of _“Should I quit?”_, ask: _“If I wasn’t already in this, would
 ---
 
 # **“Kill Criteria”**
+
+> _“When you enter into a course of action, create a set of **kill criteria**. This is a list of signals you might see in the future that would tell you it’s time to quit. Kill criteria will help inoculate you against bad decision-making when you’re “in it” by limiting the number of decisions you’ll have to make once you’re already in the gains or in the losses. In organizations, kill criteria allow people a different way to get rewarded beyond dogged and blind pursuit of a project until the bitter end.” ― Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
 
 * Before committing, set **clear conditions under which you will quit**. Example: _“If sales don’t reach X by month 6, we shut it down.”_
 * This prevents emotional decision-making later when biases are strongest.
