@@ -1,7 +1,7 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2025-09-28T05:02:35
+modified: 2025-09-29T21:14:44
 ---
 
 > _“Start before you’re ready. Don’t prepare. Begin. Don’t think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
@@ -17,6 +17,8 @@ modified: 2025-09-28T05:02:35
 > _[“You can act your way into feeling long before you can feel your way into action. If you wait until you feel like doing something, you will likely never accomplish it.” ― John C. Maxwell, How Successful People Think: Change Your Thinking, Change Your Life](https://www.goodreads.com/quotes/1158022-you-can-act-your-way-into-feeling-long-before-you)_
 
 > _“If we wait for the moment when everything, absolutely everything is ready, we shall never begin.” — Ivan Turgenev_
+
+> _[“Action isn’t just the effect of motivation; it’s also the cause of it. ” — Mark Manson](https://www.goodreads.com/quotes/11945271-action-isn-t-just-the-effect-of-motivation-it-s-also-the)_
 
 ---
 
