@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-09-29T05:29:28
+modified: 2025-09-30T05:53:17
 ---
 
 Spend 30 minutes daily…
@@ -63,7 +63,6 @@ Maybe you’re already there. Maybe you’re right where you’re supposed to be
 >
 > “My son, you are on the other side.”
 
-
 Brand DNA Helix
 
 Digitalization of Reputation
@@ -72,56 +71,46 @@ The Farmer & The Horse Parable maybe story cyclic judgement
 
 People buy with emotions, but justify with reasoning.
 
-
 [Summary We all have natural rhythms of attention and motivation. According to a review in the Yale journal Biology and Medicine, the best times for focus are 30 minutes, 3 hours, and 11 hours after waking up.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6430172/)
 
 There are specific times during the day that are for optimal goal work. Dr. Pablo Valdez describes three peak times each day when our attention and focus are at their highest. As a rough guide, 30 minutes, 3 hours, and 11 hours after you wake up are great times for hard work. This happens because of the body’s circadian rhythm (sleep-wake cycle) and rhythmicity of body temperature and associated neurochemicals.
 
-false [scarcity](https://www.goodreads.com/book/show/17286670-scarcity) like timing can be misleading and create distrust
+false [scarcity](https://www.goodreads.com/book/show/17286670-scarcity) like timing can be misleading and create distrust. Funnel can create true scarcity.
 
-funnel can create true scarcity.
+Never tell the price first, but price juxtaposition.
 
-* Online tools like deadline
-tactic.
-* False scarcity is a common
-to action.
-* Scarcity is often used as a call
-than the price.
-highlight values that are bigger
-* Never tell the price first, but
-price juxtaposition.
-* After the features, focus on
-Expert Story Positioning (ESP)
-f people are judging features before change conversions go down, if they want the change and the features, give them the change conversions go
-* Benefits are more important than features in marketing. • Make people want the benefits before telling them about what they get. • Focus on how their life changes and the overall benefit extension. • Features can be discussed after emphasizing the benefits.
-Getting people to say no a that that rewarding all your yes oriented questions into no orient questions, and say, would you like to do this? Say, are you against this?Getting people to say no a that that rewarding all your yes oriented questions into no orient questions, and say, would you like to do this? Say, are you against this?
-mirror, which is just repeating the last one to three words of what someone has just said
-intentionally
+Benefits are more important than features in marketing.
+
+* Make people want the benefits before telling them about what they get.
+* Focus on how their life changes and the overall benefit extension.
+* Features can be discussed after emphasizing the benefits.
+* After the features, focus on Expert Story Positioning (ESP)
+
+Getting people to say no a that rewarding all your yes oriented questions into no orient questions, and say, would you like to do this? Say, are you against this?
+
+intentionally mirror, which is just repeating the last one to three words of what someone has just said.
+
 Label: “It seems that you’ve got something in mind.”
+
 Whether someone is superior, a peer, or subordinate, treating them with deference generates appreciation and respect.
-Let’s do that.
-the best phrase to close a deal is for you to say, that was brilliant.
+
+
 saying no to bad ideas. The best phrase to close a deal is ‘That was brilliant. Let’s do that.’ Implementation is the key, not just agreement. Fake lesses won’t get you what you want. Make it the other side’s idea for effective implementation and saving time.
+
 The Art of Negotiation: Letting the Other Side Go First
-Let’s do that.
-the best phrase to close a deal is for you to say, that was brilliant.
-Trying to live each day as if you’ve come back from the future
-I just try to live everyday as if I’ve deliberately come back to this one, to enjoy it, as if it was the final full day of my extraordinary, ordinary life.
+
+
 the Limbo-Titrate-Quality approach was designed to motivate participants to achieve the lowest possible level of fat or carbohydrate intake, that is, an approach that was equally ambitious with maximal overall nutritional quality and a dietary pattern that could be continued for a lifetime.
 
 The Fosbury Flop
 
-So the older you get, the more it makes sense to spend money to save time.
-
-But time just gets more and more expensive. We start out as time fat cats and end up in time poverty.
+But time just gets more and more expensive. We start out as time fat cats and end up in time poverty. The older you get, the more it makes sense to spend money to save time.
 
 People tend to get wealthier as they get older, which is like everything becoming cheaper as you age.
 
-「意義治療法」)Logotherapy)
+「意義治療法（Logotherapy）」
 
-Happy people get a lot of joy from receiving benefits from others while people leading meaningful lives get a lot of joy from giving to others.
-
-How much more harmful are the consequences of anger and grief than the circumstances that aroused them in us!
+Happy people get a lot of joy from *receiving* benefits from others while people leading meaningful lives get a lot of joy from *giving* to others.
 
 以及「顯著性偏誤，正常化偏誤」
 
@@ -153,7 +142,6 @@ No one can destroy iron, but its own rust can. Likewise no one can destroy a per
 
 你我之間所需的最佳距離是，找到遠不孤單，近不受傷，剛剛好的距離
 
-Today, I strive to learn from my mistakes without self criticism or judgment.
 
 You may think your attention has fully shifted to the new task, but your brain has a lag.
 
