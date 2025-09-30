@@ -1,7 +1,7 @@
 ---
 title: Eat the biggest frog first thing in the morning
 created: 2024-12-04T17:55:24
-modified: 2025-09-05T03:42:50
+modified: 2025-09-29T19:42:51
 ---
 
 > _“Do one thing every day that scares you.” — Eleanor Roosevelt_
@@ -57,7 +57,7 @@ First things first. Do the most important thing [^2] first, not the most urgent 
 
 **Quite/Dark Hours**
 
-**Holy/Power Hour**
+**The Golden/Holy/Power Hour**
 
 * Spending an hour in the morning before checking any emails, notifications, or text messages, and exclusively working on the “Important but not Urgent” stuff.
 
