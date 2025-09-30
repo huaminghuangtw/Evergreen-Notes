@@ -1,7 +1,7 @@
 ---
 title: rest, reset, relax, recharge
 created: 2024-11-18T09:18:12
-modified: 2025-09-25T07:23:07
+modified: 2025-09-29T16:50:20
 ---
 
 > _“Rest until you feel like playing, then play until you feel like resting.” — Martha Beck_
@@ -12,7 +12,7 @@ modified: 2025-09-25T07:23:07
 
 ---
 
-helps to get most of your work done outside of work.
+helps to [get most of your work done outside of work.](https://timdenning.com/ten-unconventional-productivity-tips-that-got-me-back-10-hours-a-week/)
 
 ---
 
