@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2025-09-25T19:39:53
+modified: 2025-09-29T21:14:52
 ---
 
 > _“To be is to do.” — Immanuel Kant_
@@ -39,6 +39,8 @@ modified: 2025-09-25T19:39:53
 > _[Action kills anxiety](stress-and-anxiety.md). You only feel afraid of doing the thing when you’re not doing the thing. Once you’re doing it, you just focus on doing it. If you want to get fit, go to the gym. Right now. If you want to build a business, find one thing you can do and do it. Right now. If you want to expand your network, start sending cold DMs. Right now. If you want a romantic partner, join a group where you might meet someone. Right now. The more you procrastinate, the worse you’ll feel. [Get in the arena.](https://www.workingtheorys.com/p/before-the-crowd) It’s ironically easier to be in it than anxiously watching and waiting on the sidelines.” — Charles Miller_
 
 > _“You can’t climb the ladder of success with your hands in your pockets.” — Arnold Schwarzenegger_
+
+> _[“Action isn’t just the effect of motivation, but also the cause of it.” — Mark Manson](https://www.goodreads.com/quotes/11945271-action-isn-t-just-the-effect-of-motivation-it-s-also-the)_
 
 ---
 
