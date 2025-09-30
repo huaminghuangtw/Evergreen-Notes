@@ -1,7 +1,7 @@
 ---
 title: Life is shorter than you think
 created: 2025-01-23T10:40:57
-modified: 2025-08-29T08:30:46
+modified: 2025-09-30T06:18:01
 ---
 
 > _“No matter how many times you do something, there will come a day when you do it for the last time.” — Sam Harris_
@@ -46,7 +46,9 @@ Accept the impermanence of everything in our lives.
 
 # [Live Like It's The Last Time](https://www.sahilbloom.com/newsletter/live-like-its-the-last-time)
 
-You won’t know when it’s the last time. But you can live like it is.
+- You won’t know when it’s the last time. But you can live like it is.
+- Live each day as it were your last, because someday you’ll certainly be right.
+- Try to live each day as if you’ve come back from the future, as if it was the final full day of your extraordinary, ordinary life.
 
 ---
 
