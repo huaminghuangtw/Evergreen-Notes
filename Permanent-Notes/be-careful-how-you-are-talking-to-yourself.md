@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-09-26T05:36:12
+modified: 2025-10-01T05:35:56
 ---
 
 > _We are what we believe we are.” — C.S. Lewis_
@@ -56,7 +56,7 @@ The quality of your stories impacts the quality of your life.
 * If you tell yourself you aren’t worthy, you won’t reach for it.
 * If you tell yourself you’re a static entity, you won’t attempt to grow.
 
-So often, it’s not [the sheer difficulty of achieving something](Do%20hard%20things.md) that stops you—it’s the ease of continuing to tell yourself the story that you can’t. Don’t be the one to tell yourself no.
+So often, it’s not [the sheer difficulty of achieving something](do-hard-things.md) that stops you—it’s the ease of continuing to tell yourself the story that you can’t. Don’t be the one to tell yourself no.
 
 ---
 
