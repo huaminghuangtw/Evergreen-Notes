@@ -1,7 +1,7 @@
 ---
 title: Dopamine
 created: 2024-11-18T09:18:12
-modified: 2025-09-27T17:38:29
+modified: 2025-10-01T05:35:56
 ---
 
 > _“Persons with severe addictions are among those contemporary prophets that we ignore to our own demise, for they show us who we truly are. (重度成癮者是當代的預言家，不把他們當一回事，沒有好下場的是我們，因為他們反映的正是我們真實的面貌)” — Kent Dunnington_
@@ -70,7 +70,7 @@ Our [baseline dopamine](https://youtu.be/QmOF0crdyRU?t=2218) levels are influe
 Feel unmotivated? [Procrastination](Procrastination.md)?
 
 * **Passive:** Wait for dopamine replenishment
-* **Active:** Put yourself into a painful/uncomfortable state to teach your brain to [do hard things](Do%20hard%20things.md)
+* **Active:** Put yourself into a painful/uncomfortable state to teach your brain to [do hard things](do-hard-things.md)
 
 ---
 
@@ -85,7 +85,7 @@ Cheap (Fake) Dopamine (associated with [short-term thinking](instant-gratificati
 
 Natural (Real) Dopamine (associated with [long-term thinking](Delayed%20Gratification.md))
 
-* [Reprogram yourself](a-true-transformation-begins-with-a-mental-shift.md) so that [uncomfortable is your default factory setting](Push%20your%20limits.md). Constantly [do hard things](Do%20hard%20things.md) that make you feel terrified/scared. That’s how you grow.
+* [Reprogram yourself](a-true-transformation-begins-with-a-mental-shift.md) so that [uncomfortable is your default factory setting](Push%20your%20limits.md). Constantly [do hard things](do-hard-things.md) that make you feel terrified/scared. That’s how you grow.
 
 ---
 
