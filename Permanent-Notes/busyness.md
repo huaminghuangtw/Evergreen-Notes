@@ -1,14 +1,14 @@
 ---
 title: Busyness
 created: 2024-11-18T09:18:12
-modified: 2025-09-27T17:38:29
+modified: 2025-10-01T08:11:30
 ---
 
 > _“Beware the barrenness of a busy life.” — Socrates_
 
 > _“If you do not change direction, you may end up where you are heading.” — Lao Tzu_
 
-> _[Working hard for a long time without checking what the better things to be working on are is a hidden form of laziness. A laziness that disguises itself as something to be proud of. — Julian Shapiro](https://x.com/Julian/status/1452676852032499713)_
+> _[“Working hard for a long time without checking what the better things to be working on are is a hidden form of laziness. A laziness that disguises itself as something to be proud of.” — Julian Shapiro](https://x.com/Julian/status/1452676852032499713)_
 
 > _“Busyness is no different from laziness when it doesn’t lead you to accomplish anything.” ― [@baileyProductivityProjectAccomplishing2016]_
 
