@@ -1,12 +1,14 @@
 ---
 title: Simple is beautiful
 created: 2025-02-21T16:42:30
-modified: 2025-09-25T06:57:44
+modified: 2025-10-01T12:44:35
 ---
 
 > _”Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.” — Steve Jobs_
 
 > _“Take a simple idea, and take it seriously.” — Charlie Munger_
+
+> _“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” — Antoine de Saint-Exupéry_
 
 ---
 
