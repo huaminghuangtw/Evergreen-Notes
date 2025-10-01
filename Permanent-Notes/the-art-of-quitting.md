@@ -1,12 +1,12 @@
 ---
 title: The Art of Quitting
 created: 2024-11-18T09:18:12
-modified: 2025-09-30T12:39:03
+modified: 2025-10-01T12:55:05
 ---
 
 > _“I am as proud of what we don’t do as I am of what we do.” — Steve Jobs_
 
-> 「取是能力，舍是境界。」— 電影《破風》
+> _「取是能力，捨是境界。」— 電影《破風》_
 
 [@ferriss4hourWorkweekEscape2011]
 
@@ -18,7 +18,7 @@ modified: 2025-09-30T12:39:03
 
 > _“When people quit on time, it will usually feel like they are quitting too early, because it will be long before they experience the choice as a close call.” ― Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
 
-> _“Making a plan for when to quit should be done long before you are facing the quitting decision. It recognizes, as Daniel Kahneman has pointed out, that the worst time to make a decision is when you’re “in it.” ― Annie Duke, Quit: The Power of Knowing When to Walk Away_
+> _“Making a plan for when to quit should be done long before you are facing the quitting decision. It recognizes, as Daniel Kahneman has pointed out, that the worst time to make a decision is when you’re ‘in it.’” ― Annie Duke, Quit: The Power of Knowing When to Walk Away_
 
 > _“Contrary to popular belief, winners quit a lot. That’s how they win.” ― Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
 
@@ -109,13 +109,12 @@ Embrace the rare [ability to start over](https://www.youtube.com/shorts/H7dxy-CW
 
 > _“Monkeys and pedestals is a mental model that helps you quit sooner. Pedestals are the part of the problem you know you can already solve, like designing the perfect business card or logo. The hardest thing is training the monkey. When faced with a complex, ambitious goal, (a) identify the hard thing first; (b) try to solve for that as quickly as possible; and (c) beware of false progress. Building pedestals creates the illusion that you are making progress toward your goal, but doing the easy stuff is a waste of time if the hard stuff is actually impossible. Tackling the monkey first gets you to no faster, limiting the time, effort, and money you sink into a project, making it easier to walk away. When we butt up against a hard problem we can’t solve, we have a tendency to turn to pedestal-building rather than choosing to quit. Advance planning and precommitment contracts increase the chances you will quit sooner.” ― Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
 
-
 常犯錯誤：先放下猴子去蓋基座，以為有了漂亮的基座，猴子就能「自然」學會表演 → 雙面災難：
 
 1. 資源錯置，誤把進度當成果
 2. 被心理綁架，難以抽身，越陷越深，無法止損
 
-應該先做 Bottleneck Analysis，然後[全力訓練「猴子」](Eat%20the%20biggest%20frog%20first%20thing%20in%20the%20morning.md)
+應該先做 Bottleneck Analysis，然後 [全力訓練「猴子」](Eat%20the%20biggest%20frog%20first%20thing%20in%20the%20morning.md)
 
 Example: [GoogleX 實驗室](https://x.company/)
 
@@ -123,7 +122,7 @@ Example: [GoogleX 實驗室](https://x.company/)
 
 好的堅持條件：路徑仍具正期望值（Expected Value）
 
-錯的堅持信號：僅由[沉沒成本](the-sunk-cost-fallacy.md)、面子或情緒驅動
+錯的堅持信號：僅由 [沉沒成本](the-sunk-cost-fallacy.md)、面子或情緒驅動
 
 ---
 
