@@ -1,7 +1,7 @@
 ---
 title: Work in sprints, work with your biology
 created: 2024-11-18T09:18:12
-modified: 2025-09-29T16:02:56
+modified: 2025-10-01T15:12:15
 ---
 
 > _“If you want to operate at maximum productivity, efficiency, and creativity, you’re going to work on things that you’re excited about at the moment you’re excited about them and accept nothing less. It is better to sit on your butt and do nothing than it is to work on things that you are not excited about.” — Naval Ravikant_
@@ -32,7 +32,7 @@ Why?
 * is a biological fact that our alertness naturally rises and falls in 90‑minute cycles
 	* Aim for 1–3 × 90-minute intervals per day.
 		* 4 × 90-minute blocks of focused work per day, while possible, is highly unusual.
-		* Go to a deliberate [defocus](rest,%20reset,%20relax,%20recharge.md) for 10-30 minutes after each of 90-minute [deep work](deep%20work.md) bout.
+		* Go to a deliberate [defocus](rest,%20reset,%20relax,%20recharge.md) for 10-30 minutes after each of 90-minute [deep work](deep-work.md) bout.
 	* [Ultra Focus Odyssey = UFO](https://shosho.tw/blog/super-productivity-system-2024)
 
 ---
@@ -48,9 +48,11 @@ Why?
 | <sub>[Source]( https://barbaraoakley.com/books/learning-how-to-learn)</sub> |
 |                                                                             |
 
+# Match energy level with tasks
+
 * Phase 1 (0-8 hours after waking up) - **Focused Mode**
 	* optimal for analytic “hard” thinking and [any work that you find particularly challenging](Eat%20the%20biggest%20frog%20first%20thing%20in%20the%20morning.md)
-	* 戰鬥時間 → 登峰造極時刻 ([Deep Work](deep%20work.md))
+	* 戰鬥時間 → 登峰造極時刻 ([Deep Work](deep-work.md))
 * Phase 2 (9-16 hours after waking up) - **Diffused Mode**
 	* optimal for brainstorming and creative work
 	* 戰略時間
