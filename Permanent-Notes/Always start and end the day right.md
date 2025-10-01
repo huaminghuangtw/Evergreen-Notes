@@ -1,7 +1,7 @@
 ---
 title: Always start and end the day right
 created: 2025-01-23T10:40:57
-modified: 2025-09-29T20:01:59
+modified: 2025-09-30T17:14:09
 ---
 
 > _“Every morning in Africa, a gazelle wakes up, it knows it must outrun the fastest lion or it will be killed. Every morning in Africa, a lion wakes up. It knows it must run faster than the slowest gazelle, or it will starve. It doesn’t matter whether you’re the lion or a gazelle-when the sun comes up, you’d better be running.” — Christopher McDougall_
@@ -69,7 +69,7 @@ Your best work is going to be done anywhere from 4–6 hours after your [tempera
 
 ## The Paradox Of Morning Routines
 
-* You don’t need to follow an extensive morning routine for a productive morning. You just need to create a *frictionless* morning.
+* You don’t need to follow an extensive morning routine for a productive morning. You just need to create a _frictionless_ morning.
 * Instead of encouraging you to start meaningful activities that set you up for success, excessive morning routines merely create a sense of [busyness](busyness.md) that disguises as productivity—while also exhausting you.
 * In many cases, they serve as nothing more than a form of [procrastination](Procrastination.md). _Most people don’t need another “to-do list” in their mornings, but a list of what NOT to do._ _A morning routine, no matter how simple, is still a task._ Your morning routine is the reason you’re losing your productivity as you waste your most productive hours doing it.
 * Remember: our morning routine is meant to _serve_ you, not _own_ you.
