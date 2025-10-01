@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2025-09-27T11:54:55
+modified: 2025-10-01T05:46:20
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](Stay%20curious.md) is key.
@@ -71,6 +71,10 @@ The ability to choose one thought over another is superpower—one shift in our 
 ---
 
 [You can reorient your life in a new direction quickly but the underlying rewriting of scripts and rewiring of your nervous system takes much longer than you would ever expect.](https://newsletter.pathlesspath.com/p/40-thoughts-on-turning-40-287)
+
+---
+
+No one can break iron, but its own rust can. Likewise, no one can break a person, but his own mindset can.
 
 ---
 
