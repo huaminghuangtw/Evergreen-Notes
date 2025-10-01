@@ -1,7 +1,7 @@
 ---
 title: rest, reset, relax, recharge
 created: 2024-11-18T09:18:12
-modified: 2025-09-29T16:50:20
+modified: 2025-10-01T06:51:10
 ---
 
 > _“Rest until you feel like playing, then play until you feel like resting.” — Martha Beck_
@@ -71,7 +71,7 @@ Properly break in your breaks — no sneaky working.
 
 # Prioritize Downtime
 
-* Downtime replenishes our ability to practice [deep work](deep%20work.md).
+* Downtime replenishes our ability to practice [deep work](deep-work.md).
 * Downtime improves our thinking.
 * Downtime deserves [time management](Time%20Management.md) too.
 
