@@ -1,7 +1,7 @@
 ---
 title: Eat the biggest frog first thing in the morning
 created: 2024-12-04T17:55:24
-modified: 2025-09-29T19:42:51
+modified: 2025-10-01T06:50:57
 ---
 
 > _“Do one thing every day that scares you.” — Eleanor Roosevelt_
@@ -34,7 +34,7 @@ First things first. Do the most important thing [^2] first, not the most urgent 
 
 1. Wake up at least 1 hour before you have to be at a computer screen. E-mail is the mind killer.
 2. Make a cup of tea (I like pu-erh) and sit down with a pen/pencil and paper.
-3. Write down the 3-5 things — and no more — that are making you most anxious or uncomfortable. They’re often things that have been punted from one day’s to-do list to the next, to the next, to the next, and so on. _**Most important usually = most uncomfortable**_, with some chance of rejection or conflict.
+3. Write down the 3– things — and no more — that are making you most anxious or uncomfortable. They’re often things that have been punted from one day’s to-do list to the next, to the next, to the next, and so on. _**Most important usually = most uncomfortable**_, with some chance of rejection or conflict.
 4. For each item, ask yourself:
 	* “_If this were the only thing I accomplished today, would I be satisfied with my day?_”
 	* “_Will moving this forward make all the other TODOs unimportant/irrelevant or easier to do later?_”
@@ -73,7 +73,7 @@ You need to find XXX in your day, and ruthlessly foster/protect it from all the 
 
 ## See Also
 
-* [deep work](deep%20work.md)
+* [Deep Work](deep-work.md)
 * [Why is it so hard to just do the work?](why-is-it-so-hard-to-just-do-the-work.md)
 
 [^1]: Learn to LET the small, bad things happen and MAKE the huge, great things happen.
