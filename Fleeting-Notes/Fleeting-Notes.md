@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-09-30T05:53:17
+modified: 2025-10-01T05:43:20
 ---
 
 Spend 30 minutes daily…
@@ -94,11 +94,9 @@ Label: “It seems that you’ve got something in mind.”
 
 Whether someone is superior, a peer, or subordinate, treating them with deference generates appreciation and respect.
 
-
 saying no to bad ideas. The best phrase to close a deal is ‘That was brilliant. Let’s do that.’ Implementation is the key, not just agreement. Fake lesses won’t get you what you want. Make it the other side’s idea for effective implementation and saving time.
 
 The Art of Negotiation: Letting the Other Side Go First
-
 
 the Limbo-Titrate-Quality approach was designed to motivate participants to achieve the lowest possible level of fat or carbohydrate intake, that is, an approach that was equally ambitious with maximal overall nutritional quality and a dietary pattern that could be continued for a lifetime.
 
@@ -110,7 +108,6 @@ People tend to get wealthier as they get older, which is like everything becomin
 
 「意義治療法（Logotherapy）」
 
-Happy people get a lot of joy from *receiving* benefits from others while people leading meaningful lives get a lot of joy from *giving* to others.
 
 以及「顯著性偏誤，正常化偏誤」
 
@@ -136,12 +133,9 @@ Amateur tennis is a Loser’s Game: 80% of points are lost on unforced errors. Y
 
 In the 1999 tennis book, Extraordinary Tennis for the Ordinary Tennis Player, author Simon Ramo broke down the difference between amateur and professional tennis, writing that they were two different types of games:
 
-No one can destroy iron, but its own rust can. Likewise no one can destroy a person, but his own mindset can.
-
 肯定有一種最佳距離，不會讓人因為過於 親近而受傷，也不會因為太過疏遠而感到 孤單
 
 你我之間所需的最佳距離是，找到遠不孤單，近不受傷，剛剛好的距離
-
 
 You may think your attention has fully shifted to the new task, but your brain has a lag.
 
