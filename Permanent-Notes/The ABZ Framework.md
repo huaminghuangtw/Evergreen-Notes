@@ -1,7 +1,7 @@
 ---
 title: The ABZ Framework
 created: 2025-01-23T18:40:57
-modified: 2025-08-29T08:30:45
+modified: 2025-10-02T03:58:13
 ---
 
 [by Shaan Puri](https://x.com/ShaanVP/status/1347252471291207681)
@@ -12,7 +12,7 @@ is a [mental model](mental%20models.md) to save you from [analysis paralysis](de
 
 ![](../_attachments/f1e6b3fe0cd63387aba69da042b75197.png)
 
-You don’t need to know steps C, D, or E at the beginning. Focusing on them will cause you to [overthinking](overthinking.md)/[procrastinate](Procrastination.md) instead of [taking action](cultivate-a-strong-bias-towards-action.md).
+You don’t need to know steps C, D, or E at the beginning. Focusing on them will cause you to [overthinking](overthinking.md)/[procrastinate](__temp__procrastination.md) instead of [taking action](cultivate-a-strong-bias-towards-action.md).
 
 All you need to know today is your A-B-Z: Assess where you are (A), set your direction (Z), and decide on your immediate next step (B).
 
