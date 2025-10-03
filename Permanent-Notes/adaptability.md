@@ -1,7 +1,7 @@
 ---
 title: Adaptability
 created: 2024-11-18T09:18:12
-modified: 2025-09-28T15:02:41
+modified: 2025-10-02T04:00:48
 ---
 
 > _“It is not the strongest of the species that survives, nor the most intelligent. It is the one most adaptable to change; but the species that survives is the one that is able best to adapt and adjust to the changing environment in which it finds itself.” — Charles Darwin_ [^1]
@@ -50,7 +50,7 @@ You’ll only go as far as your ability to absorb life’s punches and pivot on 
 ## See Also
 
 * [Life is chaotic](Life%20is%20chaotic.md)
-* [Push your limits](Push%20your%20limits.md)
+* [Push your limits](push-your-limits.md)
 * [The Ship of Theseus](The%20Ship%20of%20Theseus.md)
 
 [^1]: _[In the struggle for survival, the fittest win out at the expense of their rivals because they succeed in adapting themselves best to their environment.](https://www.darwinproject.ac.uk/people/about-darwin/six-things-darwin-never-said/evolution-misquotation)_
