@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-01T05:43:20
+modified: 2025-10-03T06:56:10
 ---
 
 Spend 30 minutes daily…
@@ -71,9 +71,6 @@ The Farmer & The Horse Parable maybe story cyclic judgement
 
 People buy with emotions, but justify with reasoning.
 
-[Summary We all have natural rhythms of attention and motivation. According to a review in the Yale journal Biology and Medicine, the best times for focus are 30 minutes, 3 hours, and 11 hours after waking up.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6430172/)
-
-There are specific times during the day that are for optimal goal work. Dr. Pablo Valdez describes three peak times each day when our attention and focus are at their highest. As a rough guide, 30 minutes, 3 hours, and 11 hours after you wake up are great times for hard work. This happens because of the body’s circadian rhythm (sleep-wake cycle) and rhythmicity of body temperature and associated neurochemicals.
 
 false [scarcity](https://www.goodreads.com/book/show/17286670-scarcity) like timing can be misleading and create distrust. Funnel can create true scarcity.
 
@@ -108,7 +105,6 @@ People tend to get wealthier as they get older, which is like everything becomin
 
 「意義治療法（Logotherapy）」
 
-
 以及「顯著性偏誤，正常化偏誤」
 
 Gautama Buddha
@@ -137,15 +133,6 @@ In the 1999 tennis book, Extraordinary Tennis for the Ordinary Tennis Player, au
 
 你我之間所需的最佳距離是，找到遠不孤單，近不受傷，剛剛好的距離
 
-You may think your attention has fully shifted to the new task, but your brain has a lag.
-
-In other words, there is a cognitive switching cost to shifting your attention from one task to another. When your attention is shifted, there is a “residue” that remains with the prior task and impairs your cognitive performance on the new task.
-
-In the original paper, Dr. Leroy defines attention residue as, “the persistence of cognitive activity about a Task A even though one stopped working on Task A and currently performs a Task B.”
-
-[Why is it so hard to do my work? The challenge of attention residue when switching between work tasks - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0749597809000399)
-
-“Rich men use most of their money get richer. Poor men use most of their money to look richer.” — Mokokoma Mokhonoana
 
 The Museum of Failure
 
