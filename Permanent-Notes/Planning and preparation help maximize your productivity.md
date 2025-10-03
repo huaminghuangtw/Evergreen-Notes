@@ -1,7 +1,7 @@
 ---
 title: Planning and preparation help maximize your productivity
 created: 2024-12-12T16:22:20
-modified: 2025-08-29T08:30:45
+modified: 2025-10-02T03:58:13
 ---
 
 > _[“The antidote to impulsiveness is forethought.” — Nir Eyal](https://www.youtube.com/watch?v=VVez_sI1zTU)_
@@ -24,7 +24,7 @@ Planning and [doing](cultivate-a-strong-bias-towards-action.md) are two differen
 
 ❗️Be aware of [the difference between “being in motion” and “taking action”](https://jamesclear.com/taking-action) [^3]
 
-❗Too much → [Procrastination](Procrastination.md)
+❗Too much → [Procrastination](__temp__procrastination.md)
 
 > _“Patience only works if you do. Doing the work + patience = results. Planning to work + patience = procrastination” — James Clear_
 
