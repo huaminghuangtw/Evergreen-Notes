@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-09-24T05:37:20
+modified: 2025-10-02T03:58:13
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -96,7 +96,7 @@ Share with someone who wants to listen or listen to someone who wants to share.
 
 ---
 
-Send THANK YOU notes to people you love by regularly scrolling through recent text messages instead of scrolling on social media as a form of [procrastination](Procrastination.md).
+Send THANK YOU notes to people you love by regularly scrolling through recent text messages instead of scrolling on social media as a form of [procrastination](__temp__procrastination.md).
 
 ---
 
