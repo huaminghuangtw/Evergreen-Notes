@@ -1,10 +1,12 @@
 ---
 title: money
 created: 2024-11-18T10:16:50
-modified: 2025-08-29T08:30:45
+modified: 2025-10-03T06:55:51
 ---
 
 > _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
+
+> _“Rich men use most of their money get richer. Poor men use most of their money to look richer.” — Mokokoma Mokhonoana_
 
 ---
 
