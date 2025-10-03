@@ -1,7 +1,7 @@
 ---
 title: Hope for the best, prepare for the worst
 created: 2024-11-18T09:18:12
-modified: 2025-09-27T06:45:35
+modified: 2025-10-03T08:51:56
 ---
 
 > _“Do not think there are no crocodiles just because the water is calm.”_
@@ -18,7 +18,7 @@ Do favors for tomorrow you. [Set yourself up for success. Create a condition tha
 
 ---
 
-未雨綢繆
+未雨綢繆：用最壞的打算，做最好的準備
 
 ---
 
