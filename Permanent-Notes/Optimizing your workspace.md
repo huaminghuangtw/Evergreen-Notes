@@ -1,7 +1,7 @@
 ---
 title: Optimizing your workspace
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-10-02T04:00:48
 ---
 
 * Keep the room in warm temperature \& Ensure good ventilation for fresh air circulation.
@@ -11,5 +11,5 @@ modified: 2025-07-16T21:23:30
 * **The Cathedral Effect** [@meyers-levyInfluenceCeilingHeight2007]
 	* High versus low ceiling can prime the concepts of freedom versus confinement, respectively.
 	* Working in _**high**_ ceiling spaces elicits abstract thoughts and [creative ideation](Creativity%20is%20just%20connecting%20things.md), whereas working in _**low**_ ceiling spaces promotes concrete and detail-oriented work.
-	* When you spend time in large, open, and bright spaces, your mind becomes inspired and you starts to think bold. Big spaces catalyze [big thinking](Push%20your%20limits.md).
+	* When you spend time in large, open, and bright spaces, your mind becomes inspired and you starts to think bold. Big spaces catalyze [big thinking](push-your-limits.md).
 * **Designate Zones for Different Tasks:** Create distinct zones for various activities such as computer work, reading, or brainstorming sessions. This can help in [transitioning mentally from one type of task to another more efficiently](Task%20Switching.md).
