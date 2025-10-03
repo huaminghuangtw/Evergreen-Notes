@@ -1,7 +1,7 @@
 ---
 title: Work in sprints, work with your biology
 created: 2024-11-18T09:18:12
-modified: 2025-10-01T15:12:15
+modified: 2025-10-02T04:17:44
 ---
 
 > _“If you want to operate at maximum productivity, efficiency, and creativity, you’re going to work on things that you’re excited about at the moment you’re excited about them and accept nothing less. It is better to sit on your butt and do nothing than it is to work on things that you are not excited about.” — Naval Ravikant_
@@ -50,12 +50,18 @@ Why?
 
 # Match energy level with tasks
 
-* Phase 1 (0-8 hours after waking up) - **Focused Mode**
+* Phase 1 (0–8 hours after waking up) - **Focused Mode**
 	* optimal for analytic “hard” thinking and [any work that you find particularly challenging](Eat%20the%20biggest%20frog%20first%20thing%20in%20the%20morning.md)
 	* 戰鬥時間 → 登峰造極時刻 ([Deep Work](deep-work.md))
-* Phase 2 (9-16 hours after waking up) - **Diffused Mode**
+* Phase 2 (9–16 hours after waking up) - **Diffused Mode**
 	* optimal for brainstorming and creative work
 	* 戰略時間
+
+[@valdezCircadianRhythmsAttention2019]
+
+There are specific times during the day that are for optimal goal work. According to [a review by Dr. Pablo Valdez in the Yale journal Biology and Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6430172/), there are three peak times each day when our attention and focus are at their highest. As a rough guide, **30 minutes, 3 hours, and 11 hours after you wake up** are great times for hard work. This happens because of the body’s circadian rhythm (sleep-wake cycle) and rhythmicity of body temperature and associated neurochemicals.
+
+---
 
 [@davisTwoAwesomeHours2015]
 
