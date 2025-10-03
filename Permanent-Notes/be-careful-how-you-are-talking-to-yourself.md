@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-10-01T05:35:56
+modified: 2025-10-02T04:00:48
 ---
 
 > _We are what we believe we are.” — C.S. Lewis_
@@ -75,7 +75,7 @@ If you tell yourself you can’t, you won’t. If you tell yourself you must, yo
 
 ## See Also
 
-* [Push your limits](Push%20your%20limits.md)
+* [Push your limits](push-your-limits.md)
 
 ---
 
