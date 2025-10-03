@@ -1,7 +1,7 @@
 ---
 title: Stress & Anxiety
 created: 2024-11-18T09:18:12
-modified: 2025-09-28T04:37:39
+modified: 2025-10-03T07:03:12
 ---
 
 > _“Stress happens when the mind resists what is.” — Dan Millman_
@@ -82,6 +82,8 @@ This is called **“Grounding.”**
 Stress and anxiety are a [tax](Everything%20in%20life%20has%20an%20opportunity%20cost.md) on extreme ambition.
 
 ---
+
+# Nothing diminishes anxiety faster than action
 
 Anxiety thrives in the space between thinking and doing. They feed on idleness.
 
