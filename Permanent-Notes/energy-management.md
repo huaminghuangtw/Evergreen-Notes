@@ -1,7 +1,7 @@
 ---
 title: Energy Management
 created: 2024-11-18T09:18:12
-modified: 2025-09-24T05:18:24
+modified: 2025-10-02T04:00:48
 ---
 
 > _[“Your energy is currency. Spend it well. Invest it wisely. Use it Intentionally, consistently, and by your own design.” — Adrienne Bosh](https://x.com/MrsAdrienneBosh/status/988908563232796672)_
@@ -39,7 +39,7 @@ There’s no such thing as working too hard. There’s just being under rested. 
 	* [@jobBeliefsWillpowerDetermine2013]
 		* …following a demanding task, only people who view willpower as limited and easily depleted (a limited resource theory) exhibited improved self-control after sugar consumption.
 		* In contrast, people who view willpower as plentiful (unlimited) showed no benefits from glucose—they exhibited high levels of self-control performance with or without sugar boosts.
-* Here’s the key point: **Simply believing that we’re “spent” or mentally drained can create a sense of fatigue, a phenomenon linked to [the nocebo effect](https://en.wikipedia.org/wiki/Nocebo). [Clinging to / Holding onto the idea that willpower is a finite resource can be harmful/detrimental](Push%20your%20limits.md), making us more likely to lose [self-control](discipline-equals-freedom.md) and [make poor decisions](decision-making.md). In reality, ego depletion is driven by [self-defeating thoughts](negative-thoughts-and-emotions.md), rather than any biological limitation. It’s not the sugar in the lemonade that sustains mental stamina—it’s [the placebo effect](https://en.wikipedia.org/wiki/Placebo) in action.** [^1]
+* Here’s the key point: **Simply believing that we’re “spent” or mentally drained can create a sense of fatigue, a phenomenon linked to [the nocebo effect](https://en.wikipedia.org/wiki/Nocebo). [Clinging to / Holding onto the idea that willpower is a finite resource can be harmful/detrimental](push-your-limits.md), making us more likely to lose [self-control](discipline-equals-freedom.md) and [make poor decisions](decision-making.md). In reality, ego depletion is driven by [self-defeating thoughts](negative-thoughts-and-emotions.md), rather than any biological limitation. It’s not the sugar in the lemonade that sustains mental stamina—it’s [the placebo effect](https://en.wikipedia.org/wiki/Placebo) in action.** [^1]
 * Moreover, **willpower functions like an emotion.** Just as we don’t “run out” of joy or anger, willpower rises and falls depending on what’s happening to us and how we feel.
 	* If mental energy behaves like an emotion rather than fuel in a tank, it can be managed and harnessed accordingly: **When faced with a difficult task, it’s more productive and healthy to view a lack of motivation as temporary, rather than assuming we’re spent/drained and need a break.**
 
