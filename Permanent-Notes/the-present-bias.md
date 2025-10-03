@@ -1,7 +1,7 @@
 ---
 title: The Present Bias
 created: 2024-11-18T09:16:50
-modified: 2025-09-27T08:05:58
+modified: 2025-10-02T03:58:13
 ---
 
 = 維持/安於現狀偏誤 = The Present Bias
@@ -10,7 +10,7 @@ modified: 2025-09-27T08:05:58
 
 **Present Bias** refers to the cognitive tendency for people to give stronger weight to immediate rewards over future ones, even when the future benefits are larger. [^1]
 
-This bias explains why we might [procrastinate](Procrastination.md), overeat, or under-save for retirement — the _now_ feels more important than the _later_. As the moment of choice arrives, our preferences often shift, a phenomenon known as **time inconsistency**.
+This bias explains why we might [procrastinate](__temp__procrastination.md), overeat, or under-save for retirement — the _now_ feels more important than the _later_. As the moment of choice arrives, our preferences often shift, a phenomenon known as **time inconsistency**.
 
 This can lead to [impatience](a-man-who-is-a-master-of-patience-is-master-of-everything-else.md) or [immediate gratification](instant-gratification.md) in [decision-making](decision-making.md).
 
