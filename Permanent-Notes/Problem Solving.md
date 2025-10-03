@@ -1,7 +1,7 @@
 ---
 title: Problem Solving
 created: 2024-11-18T09:16:49
-modified: 2025-10-01T17:24:57
+modified: 2025-10-01T17:54:38
 ---
 
 The Monkeys \& Pedestals mental model by Annie Duke
