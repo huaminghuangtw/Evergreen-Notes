@@ -1,7 +1,7 @@
 ---
 title: Eat the biggest frog first thing in the morning
 created: 2024-12-04T17:55:24
-modified: 2025-10-01T06:50:57
+modified: 2025-10-02T03:58:13
 ---
 
 > _“Do one thing every day that scares you.” — Eleanor Roosevelt_
@@ -41,7 +41,7 @@ First things first. Do the most important thing [^2] first, not the most urgent 
 5. Look only at the items you’ve answered “yes” to for at least one of these questions.
 6. Block out at least 2-3 hours to focus on ONE of them for today. Let the rest of the urgent but less important stuff slide. It will still be there tomorrow.
 7. TO BE CLEAR: Block out at least 2-3 HOURS to focus on ONE of them for today. This is ONE BLOCK OF TIME. Cobbling together 10 minutes here and there to add up to 120 minutes does not work.
-8. If you get [distracted](being-indistractable-is-superpower.md) or start [procrastinating](Procrastination.md), [don't freak out and downward spiral; just gently come back to your ONE to-do.](Self-compassion.md)
+8. If you get [distracted](being-indistractable-is-superpower.md) or start [procrastinating](__temp__procrastination.md), [don't freak out and downward spiral; just gently come back to your ONE to-do.](Self-compassion.md)
 
 ---
 
