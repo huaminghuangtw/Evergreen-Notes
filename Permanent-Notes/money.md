@@ -1,7 +1,7 @@
 ---
 title: money
 created: 2024-11-18T10:16:50
-modified: 2025-10-03T06:55:51
+modified: 2025-10-05T12:03:01
 ---
 
 > _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
@@ -104,7 +104,10 @@ Don’t think all poverty is due to laziness. Don’t think all wealth is throug
 	* False Belief: “_If I become great at making money, you’ll automatically become wealthy._”
 		* Make Money → Spend Money → Make Money → Spend Money
 		* Money more in = More money out
-			* **Lifestyle Inflation/Creep:** when your income increases, your expenses increase just as much to upgrade the quality of your life.
+			* **Lifestyle Inflation/Creep**
+				* When your income increases, your expenses increase just as much to upgrade the quality of your life.
+			* **Expectation Inflation**
+				* Expectation is the greatest liability. You will never be rich (financially wealthy) if your expectations are growing faster than your asset because you are constantly wanting more.
 * The only way to make a lot of money is to create a lot of value;[^8] The only way to make passive income is to provide value in a way that is not directly tied to your time.
 * [True wealth is found not in attaining more, but in discovering enough.](https://x.com/SahilBloom/status/1571500995326185475)
 * Wealth = Infinite Game ↔ Status = Finite Game
