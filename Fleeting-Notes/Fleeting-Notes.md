@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-03T06:56:10
+modified: 2025-10-05T12:04:21
 ---
 
 Spend 30 minutes daily…
@@ -38,30 +38,6 @@ Here are two truisms to keep in mind:
 Taurine helps regulate body temperature by increasing the rate at which sweat is produced, which is how the body cools itself.
 
 The more your body heats up during a workout, the faster you fatigue. But if you could keep your body a little cooler, then you might be able to push harder or last longer during exercise.
-
-Lifestyle Creep
-
-Traditional definition of financial wealth = Asset - Liability
-
-Expectation Inflation
-
-Expectation is the greatest liability
-
-You will never be rich (financially wealthy) if your expectations are growing faster than your asset because you are constantly wanting more
-
-Successful investment is when you lose the password of your investment account. The best investment is “buy and forget.”
-
-Maybe you’re already there. Maybe you’re right where you’re supposed to be.
-
-> Nearing the end of a long journey, a young Buddhist comes to the banks of a deep, wide river. He doesn’t know how to cross it and begins to ponder the challenge.
->
-> After several hours, he sees a Zen master on the other side of the river and calls out to him:
->
-> “Oh wise one, can you tell me how to cross this river and get to the other side?”
->
-> The Zen master thinks for a few moments and then replies:
->
-> “My son, you are on the other side.”
 
 Brand DNA Helix
 
@@ -133,14 +109,9 @@ In the 1999 tennis book, Extraordinary Tennis for the Ordinary Tennis Player, au
 
 你我之間所需的最佳距離是，找到遠不孤單，近不受傷，剛剛好的距離
 
-
 The Museum of Failure
 
 All progress, not only technological progress, is built on learning from past failures and mistakes. The museum aims to stimulate productive discussion about failure and inspire us to take meaningful risks.
-
-The 20-20-20 rule: Every 20 minutes of screenwork, look at a spot 20 feet away for 20 seconds. This will reduce eye strain
-
-**The 20–20–20 rule:** “Every twenty minutes take a twenty-second break and focus on objects twenty feet away. This changes your focal distance from inches to many feet and requires blood flow to brain areas that are not related to constant attention” says Adam Gazalley in his book The Distracted Mind
 
 In my experience, most people underestimate their full capability and overestimate their current delivery.
 
@@ -180,21 +151,7 @@ How to say NO with grace and style?
 * Sorry, but I can’t make it; maybe another time.
 * Thanks for thinking of me, but I can’t.
 * No, thanks.
-Mike Tyson famously said, “Everyone has a plan until they get punched in the mouth.”
 
-Try to disprove your best loved ideas.
-
-A four-pack on love:
-
-In what ways is it easy for you to show love?
-
-In what ways is it hard for you to show love?
-
-In what ways is it easy for you to receive love?
-
-In what ways is it hard for you to receive love?
-
-The true delight is in the finding out rather than in the knowing.” — Isaac Asimov
 
 The one who loves to climb will climb higher than the one who loves the view from the summit.
 
