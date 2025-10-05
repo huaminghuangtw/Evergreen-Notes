@@ -1,7 +1,7 @@
 ---
 title: Be ready to change your mind completely at any given time
 created: 2024-12-04T15:59:39
-modified: 2025-09-28T14:50:10
+modified: 2025-10-05T16:34:49
 ---
 
 > _[“Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won’t come in.” — Alan Alda](https://www.goodreads.com/quotes/667214-your-assumptions-are-your-windows-on-the-world-scrub-them)_
@@ -19,6 +19,10 @@ modified: 2025-09-28T14:50:10
 > _“The first principle is that you must not fool yourself—and you are the easiest person to fool.” — Richard P. Feynman_
 
 > _“We are all born ignorant, but one must work hard to remain stupid.” — Benjamin Franklin_ [^2] [^3]
+
+---
+
+The only bad view is the one you're stuck in.
 
 ---
 
