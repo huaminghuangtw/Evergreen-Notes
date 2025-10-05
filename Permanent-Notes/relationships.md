@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-10-02T03:58:13
+modified: 2025-10-05T17:08:26
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -23,6 +23,19 @@ Time doesn’t heal anything when it comes to relationships.
 ---
 
 心若親近，言行必如流水般自然；心若疏遠，言行就如三秋之樹般蕭瑟。不怕身隔天涯，只怕心在南北。
+
+---
+
+喜歡一個人是例外，不喜歡一個人才是常態。
+
+---
+
+愛情，是友情加上一點心動；親情，是友情加上一點血緣。
+
+當[友情](a-friend-to-all-is-a-friend-to-none.md)成為關係的核心，你會發現那些規則和壓力都自然消失。友情是最自然、自由、自在的連結，它建立在互相欣賞、認同與信任上，不需要任何外在約束，反而更穩固。
+
+
+擁有這樣的心態，你就能純粹地認識一個人，而不被世俗眼光中「應該如此」的標籤限制住 — 比如「一定要結婚」或「在家裡必須扮演某種角色」。只有放下這些不必要的框架，你才能真正欣賞一個人的獨特之處。
 
 ---
 
