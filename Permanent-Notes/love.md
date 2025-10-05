@@ -1,7 +1,7 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2025-09-27T16:23:38
+modified: 2025-10-05T16:46:00
 ---
 
 > _“Love is the absence of judgment.” — Dalai Lama_
@@ -80,7 +80,12 @@ Being in love > Being loved
 
 ---
 
-喜歡一朵花，你會摘下它；愛一朵花，你會灌溉它。
+# A four-pack on love
+
+1. In what ways is it easy for you to show love?
+2. In what ways is it hard for you to show love?
+3. In what ways is it easy for you to receive love?
+4. In what ways is it hard for you to receive love?
 
 ---
 
@@ -104,16 +109,15 @@ Find a partner who believes in you more than you believe in yourself.
 
 ---
 
-「如果你渴望擁有一個家庭，應該尋找一個真心想成為伴侶與父母的人，而不是只想擁有另一半和孩子的人。」
 
-「如果你渴望擁有一個家庭，應該尋找一個真心想成為「丈夫」和「爸爸」的人，而不是只想擁有「妻子」和「孩子」的人。」
+> 「Ｎ」
 
 * 第一種人是想「成為某種人」（角色身份）
 * 第二種人是想「擁有某些東西」（個人需求）
 
 ---
 
-喜歡一個人是例外，不喜歡一個人才是常態。喜歡是為了得到，愛是為了付出。
+喜歡一朵花，你會摘下它；愛一朵花，你會灌溉它。喜歡是為了得到，愛是為了付出。
 
 ---
 
