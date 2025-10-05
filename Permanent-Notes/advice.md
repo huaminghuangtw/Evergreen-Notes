@@ -1,7 +1,7 @@
 ---
 title: Advice
 created: 2024-11-18T09:16:50
-modified: 2025-08-29T08:30:45
+modified: 2025-10-05T15:59:27
 ---
 
 # On Giving Advice
@@ -31,6 +31,8 @@ Instead of giving advice, try asking (good) questions first. People will often r
 > I am not a fool, but I respect your sincerity in asking my advice. I ask you though, in listening to what I say, to remember that all advice can only be a product of the man who gives it. _**What is truth to one may be disaster to another.**_ I do not see life through your eyes, nor you through mine. _**If I were to attempt to give you specific advice, it would be too much like the blind leading the blind.**_
 
 # On Receiving Advice
+
+> _“Instead of seeking feedback, you’re better off asking for advice. Feedback tends to focus on how well you did last time. Advice shifts attention to how you can do better next time.” ― Adam Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
 
 **TL; DR** When receiving advice, focus on the general, not the specific.
 
