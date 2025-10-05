@@ -1,37 +1,49 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-10-01T05:35:56
+modified: 2025-10-05T16:44:17
 ---
 
 Financial [Compounding](The%20Compounding%20Effect.md) → Intellectual Compounding
 
 ---
 
-# Meta-Learning ([Learn How To Learn](https://www.coursera.org/learn/learning-how-to-learn)) 後設學習
+# [Learn How To Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
-* DiSSS
-	* Deconstruction
-		* Breaking down a skill into several minimal learnable components
-	* Selection
-		* Looking for 20% of components that gives 80% of the value
-	* Sequence
-		* Deciding which order to practice in
-	* Stakes
-		* Consequences you take on if you do not follow through
-* CaFE stands for Compression, Frequency, and Encoding
+= Meta-Learning = 後設學習
+
+---
+
+# DiSSS
+
+* Deconstruction
+	* Breaking down a skill into several minimal learnable components
+* Selection
+	* Looking for 20% of components that gives 80% of the value
+* Sequence
+	* Deciding which order to practice in
+* Stakes
+	* Consequences you take on if you do not follow through
+
+---
+
+# CaFE
+
+* Compression
+* Frequency
+* Encoding
 
 ---
 
 # Three Ways To Learn Something New
 
-* Reflect on what you have already tried.
-* Attempt something you have not tried.
-* Read about what someone else has tried.
+1. Reflect on what you have already tried.
+2. Attempt something you have not tried.
+3. Read about what someone else has tried.
 
 ---
 
-# Three Levels Of Learning
+# Three Levels of Learning
 
 ## Variant 1
 
@@ -43,9 +55,9 @@ Financial [Compounding](The%20Compounding%20Effect.md) → Intellectual Compound
 
 1. 知識
 	* 紙上談兵
-2. 知識 + 體驗
+2. 知識＋體驗
 	* 讀萬卷書不如行萬里路
-3. 知識 + 體驗 + 自我成長
+3. 知識＋體驗＋自我成長
 	* 成為一個更好的人
 
 ## Variant 3
@@ -55,7 +67,7 @@ Financial [Compounding](The%20Compounding%20Effect.md) → Intellectual Compound
 2. Firewood
 	* Experience
 3. Tinder
-	* Your sense of value, which triggers your behaviors.
+	* Your sense of value, which triggers your behaviors
 
 ---
 
@@ -72,24 +84,23 @@ Financial [Compounding](The%20Compounding%20Effect.md) → Intellectual Compound
 
 ---
 
-# Learning By Doing
+# Learning by Doing
 
 * One learns best through hands-on practice (through projects)
-* [No one learns new things faster than someone who needs to apply the knowledge right now; so if you want to learn fast, commit to something asap that requires it.](https://x.com/anuatluru/status/1741281104953278748)
+* [No one learns new things faster than someone who needs to apply the knowledge right now; so if you want to learn fast, commit to something ASAP that requires it.](https://x.com/anuatluru/status/1741281104953278748)
 * [Project-Based Learning (PBL)](https://www.google.com/search?q=Project-Based+Learning+(PBL))
 
 ---
 
-Stick to the **basics/fundamentals** and **big picture**, then you can learn anything you want
+Stick to the [**basics/fundamentals**](first-principle%20thinking.md) and **big picture**, then you can learn anything you want.
 
 * Don’t overlook the basics. Don’t ignore the foundation.
 * Learning is a condensing and incremental process.
 
 Always starting from the most basic and simplest level, then adding more complexities gradually
 
-* Because it takes a lot more time going backward
-* It’s very important to _crawl_ before you can _walk_
-* See also: [First-Principle Thinking](first-principle%20thinking.md)
+* Because it takes a lot more time going backward.
+* It’s very important to _crawl_ before you can _walk_, and _walk_ before your can _run_.
 
 ---
 
@@ -131,6 +142,12 @@ Always starting from the most basic and simplest level, then adding more complex
 * [Agitation (焦慮，躁動，緊張不安)](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%B9%81%E4%BD%93/agitation) is good, helping to release norepinephrine and adrenaline
 * [When you tackle a chunk of work, push for a result that is beyond — _but not too far beyond_ — what's comfortable for your current skill level. Design this chunk to feature enough difficulty that you _quickly get stuck_. At this point, you should slow down, and advance deliberately, in a state of real _mental strain_. This **stretch** is important to: (a) extract the most out of your current abilities; and (b) ensure that your abilities continue to improve. Finding chunks that require stretch, but are not so hard that you get permanently blocked, is non-trivival (very important).](https://calnewport.com/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/)
 * See also: [Do hard things](do-hard-things.md)
+
+---
+
+> _“Although listening is often more fun, reading improves comprehension and recall. Whereas listening promotes intuitive thinking, reading activates more analytical processing. It’s true in English and Chinese—people display better logical reasoning when the same trivia questions, riddles, and puzzles are written rather than spoken. With print, you naturally slow down at the start of a paragraph to process the core idea and use paragraph breaks and headers to chunk information.” ― Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
+
+[閱讀文字對於批判性思考和記憶更好，而聆聽則更適合沉浸式的體驗和情感的連結。因此，如果你想理解並記住資訊，最好用眼睛閱讀；另一方面，如果你想進入故事情節並與主角產生共鳴，可以用耳朵聆聽。](https://okapi.books.com.tw/article/18086)
 
 ---
 
