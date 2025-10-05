@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2025-10-01T05:46:20
+modified: 2025-10-05T16:04:13
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](Stay%20curious.md) is key.
@@ -85,7 +85,7 @@ No one can break iron, but its own rust can. Likewise, no one can break a person
 	* Easy to spot opportunity when you are always thinking of opportunity.
 	* Easy to spot reasons to be mad when you are always thinking of being mad.
 * Your dominant thoughts shape your perception of the world. By intentionally focusing on positive, constructive thoughts, you can train your mind to seek out opportunities, solutions, and happiness instead of obstacles and negativity.
-* **[Think Yourself Thin](https://www.yourtango.com/health-wellness/ways-think-yourself-thin-harvard-study-shock-you)** — Believing effort leads to [improvement](The%20Growth%20Mindset.md), which increases motivation and drives more effort.
+* **[Think Yourself Thin](https://www.yourtango.com/health-wellness/ways-think-yourself-thin-harvard-study-shock-you)** — Believing effort leads to [improvement](the-growth-mindset.md), which increases motivation and drives more effort.
 * **[Selective Attention](https://www.google.com/search?q=Selective+Attention)**
 * **[Reticular Activating System (RAS)](https://www.google.com/search?q=Reticular+Activating+System)** [^1]
 
