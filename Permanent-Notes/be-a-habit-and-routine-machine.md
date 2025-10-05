@@ -1,7 +1,7 @@
 ---
 title: Be a habit and routine machine
 created: 2024-11-18T09:18:12
-modified: 2025-09-26T14:57:12
+modified: 2025-10-04T09:29:33
 ---
 
 > _“We are what we repeatedly do every day. Excellence, then, is not an act, but a habit.” — Will Durant_
@@ -80,6 +80,8 @@ More often than not (= usually)
 [The costs of your good habits are in the present. The costs of your bad habits are in the future.](https://x.com/JamesClear/status/1016336943813185537)
 
 [Time will multiply whatever you feed it. Good habits make time your ally. Bad habits make time your enemy.](https://jamesclear.com/3-2-1/may-22-2025)
+
+[Good habits stockpile ease. Bad habits postpone pain.](https://jamesclear.com/3-2-1/october-2-2025)
 
 ---
 
