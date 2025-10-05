@@ -1,7 +1,7 @@
 ---
 title: What Success Means To Me
 created: 2024-11-18T09:18:12
-modified: 2025-09-27T08:32:22
+modified: 2025-10-05T16:02:29
 ---
 
 > _[“Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable. And you're the only one that will know that.” — John Wooden](https://www.youtube.com/watch?v=JWQIxuNGdvQ&t=95s)_
@@ -25,6 +25,8 @@ modified: 2025-09-27T08:32:22
 > _[“Real success is success with self. It’s not in having things, but in having mastery, having victory over self.” — Anwar Sadat](https://www.azquotes.com/quote/856603)_
 
 > _[“The ultimate success metric is whether you get what you want out of life. But that’s harder than it sounds because it’s easy to try to copy someone who wants something you don’t.” — Morgan Housel](https://collabfund.com/blog/your-way-is-the-only-way/)_
+
+> _“Redefine success. The most meaningful form of performance is progress. The ultimate mark of potential is not the height of the peak you’ve reached, but the distance you’ve traveled—and helped others travel.” ― Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
 
 ---
 
