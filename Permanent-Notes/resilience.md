@@ -1,7 +1,7 @@
 ---
-title: resilience
+title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2025-09-21T15:13:30
+modified: 2025-10-05T16:35:42
 ---
 
 > _“Resilience is not what happens to you. It’s how you [react to, respond to](choose-your-response.md), and recover from what happens to you.” — Jeffrey Gitomer_
@@ -22,6 +22,8 @@ modified: 2025-09-21T15:13:30
 
 > _[“It's not about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward.” — Rocky balboa Sylvester Stallone](https://youtu.be/tZUC-uAGLEA)_
 
+> _“Making progress isn’t always about moving forward. Sometimes it’s about bouncing back. Progress is not only reflected in the peaks you reach-it’s also visible in the valleys you cross. Resilience is a form of growth.” ― Adam Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
+
 > _“Always seek out the seed of triumph in every adversity.” — Og Mandino_
 
 ---
@@ -32,7 +34,7 @@ Antifragility [@talebAntifragileThingsThat2016]
 
 1. 脆弱 Fragile：遇到變動就損壞（如玻璃杯）
 2. 強韌 Robust：可以承受變動但無法從中受益（如壺鈴）
-3. 非脆弱 Antifragile：[愈挫愈勇，在混亂中茁壯](The%20Growth%20Mindset.md)（如創作作品、實驗性的想法）
+3. 非脆弱 Antifragile：[愈挫愈勇，在混亂中茁壯](the-growth-mindset.md)（如創作作品、實驗性的想法）
 
 ---
 
