@@ -1,7 +1,7 @@
 ---
 title: Leadership
 created: 2025-01-23T10:40:57
-modified: 2025-08-29T08:30:46
+modified: 2025-10-05T16:41:42
 ---
 
 > _“To lead people, walk beside them.” — Lao Tzu_
@@ -25,6 +25,12 @@ modified: 2025-08-29T08:30:46
 [@covey7HabitsHighly2013]
 
 > _“Treat a man as he is and he will remain as he is. Treat a man as he can and should be and he will become as he can and should be.” ― Stephen R. Covey, The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change_
+
+> _“When we select leaders, we don’t usually pick the person with the strongest leadership skills. We frequently choose the person who talks the most. It’s called the babble effect. Research shows that groups promote the people who command the most airtime—regardless of their aptitude and expertise. We mistake confidence for competence, certainty for credibility, and quantity for quality. We get stuck following people who dominate the discussion instead of those who elevate it.” ― Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
+
+---
+
+優秀的管理者投資於績效，偉大的管理者則投資於潛力。
 
 ---
 
@@ -53,6 +59,10 @@ When you find yourself in a situation where everyone looks at each other, it’s
 * 造船工人
 	* If you want to build a ship, don’t drum up the men to gather wood, divide the work and give orders. Instead, teach/inspire them to yearn for the vast and endless sea. Audacious ideas motivate people.
 	* You should not build something just for the sake of building. You should build something because it will help you to fulfill a dream, in this case, going to sea.
+
+## See Als0
+
+* [Your identity dictates your actions](your-identity-dictates-your-actions.md)
 
 ---
 
