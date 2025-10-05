@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-10-02T04:00:48
+modified: 2025-10-05T16:04:13
 ---
 
 > _We are what we believe we are.” — C.S. Lewis_
@@ -113,6 +113,6 @@ Victim Mentality: The 1980 Dartmouth Scar Experiment（傷痕實驗）
 * [Your identity dictates your actions](your-identity-dictates-your-actions.md)
 * [A true transformation begins with a mental shift](a-true-transformation-begins-with-a-mental-shift.md)
 * [Acceptance and Commitment Therapy](Acceptance%20and%20Commitment%20Therapy.md)
-* [The Growth Mindset](The%20Growth%20Mindset.md)
+* [The Growth Mindset](the-growth-mindset.md)
 
 [^1]: Or: “I will try.”, “I need help.”
