@@ -1,7 +1,7 @@
 ---
 title: Change yourself to change the world
 created: 2024-11-18T09:18:12
-modified: 2025-09-27T11:54:32
+modified: 2025-10-05T15:57:08
 ---
 
 > _“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi_
@@ -14,7 +14,7 @@ modified: 2025-09-27T11:54:32
 
 ---
 
-Self-[leadership](Leadership.md): Be an agent in your own rescue.
+Self-[leadership](__temp__leadership.md): Be an agent in your own rescue.
 
 ---
 
@@ -82,7 +82,7 @@ Personal development/growth/improvement is a lifelong endeavor. Every single day
 
 ## See Also
 
-* [Have the courage to do the right things](Have%20the%20courage%20to%20do%20the%20right%20things.md)
+* [Have the courage to do the right things](have-the-courage-to-do-the-right-things.md)
 
 ---
 
