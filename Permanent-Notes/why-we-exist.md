@@ -1,7 +1,7 @@
 ---
 title: Why we exist?
 created: 2024-11-18T09:18:12
-modified: 2025-09-21T06:56:22
+modified: 2025-10-05T15:39:46
 ---
 
 > _“Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness.” — Leo Tolstoy_
@@ -17,6 +17,8 @@ modified: 2025-09-21T06:56:22
 [@pressfieldWarArtBreak2003]
 
 > _“None of us are born as passive generic blobs waiting for the world to stamp its imprint on us. Instead we show up possessing already a highly refined and individuated soul. Another way of thinking of it is: We’re not born with unlimited choices. We can’t be anything we want to be. We come into this world with a specific, personal destiny. We have a job to do, a calling to enact, a self to become. We are who we are from the cradle, and we’re stuck with it. **Our job in this lifetime is not to shape ourselves into some ideal we imagine we ought to be, but to find out who we already are and become it.**” ― Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
+
+> _“It’s more important to be good ancestors than dutiful descendants. Too many people spend their lives being custodians of the past instead of stewards of the future. We worry about making our parents proud when we should be focused on making our children proud. The responsibility of each generation is not to please our predecessors—it’s to improve conditions for our successors.” ― Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
 
 ---
 
