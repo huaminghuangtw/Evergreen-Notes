@@ -1,7 +1,7 @@
 ---
 title: Eye Health
 created: 2024-11-18T09:16:50
-modified: 2025-09-23T05:33:16
+modified: 2025-10-04T05:51:46
 ---
 
 [Visual Training Exercise](https://www.youtube.com/c/VisualExercises)
@@ -23,7 +23,9 @@ Near-Far Exercises
 
 # The 20-20-20 Rule
 
-Every 20 minutes of screen work, look at a spot 20 feet away for 20 seconds
+Every twenty minutes take a twenty-second break and focus on objects twenty feet away.
+
+“_This changes your focal distance from inches to many feet and requires blood flow to brain areas that are not related to constant attention_”, says Adam Gazalley in his book «The Distracted Mind»
 
 > Relax all your face muscles to relax (including the jaw muscles) while viewing things further out in the distance
 
