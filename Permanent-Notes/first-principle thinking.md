@@ -1,7 +1,7 @@
 ---
 title: first-principle thinking
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-10-04T05:43:35
 ---
 
 > _“There comes a point where we need to stop just pulling people out of the river. We need to go upstream and find out why they’re falling in.” — Desmond Tutu_
@@ -41,7 +41,7 @@ Fundamental Truth（底層邏輯）
 
 ---
 
-Start with Why, then How, and then What.
+Start with **Why**, then **How**, and then **What**.
 
 ---
 
