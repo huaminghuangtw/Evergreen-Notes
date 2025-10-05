@@ -1,7 +1,7 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2025-09-05T03:34:56
+modified: 2025-10-05T16:04:13
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -147,7 +147,7 @@ There’s a magic in showing up on your bad days. The choice is yours. Choose wi
 * [Just focus on the next decision](just-focus-on-the-next-decision.md)
 * [The Compounding Effect](The%20Compounding%20Effect.md)
 * [Journey over destination](Journey%20over%20destination.md)
-* [The Growth Mindset](The%20Growth%20Mindset.md)
+* [The Growth Mindset](the-growth-mindset.md)
 
 [^1]: 我不怕練一萬種拳的人，但我怕一種拳練一萬次的人。
 [^2]: The only dangerous competitors are the hyper-focused ones.
