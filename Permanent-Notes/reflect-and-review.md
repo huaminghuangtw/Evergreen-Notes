@@ -1,10 +1,14 @@
 ---
 title: Reflect & Review
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-10-05T16:26:07
 ---
 
 > _“Without reflection, we go blindly on our way, creating more unintended consequences, and failing to achieve anything useful.” — Margaret J. Wheatley_
+
+---
+
+[AAR](https://www.google.com/search?q=AAR) = After Action Review
 
 ---
 
