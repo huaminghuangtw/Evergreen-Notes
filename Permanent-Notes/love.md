@@ -1,7 +1,7 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2025-10-05T16:46:00
+modified: 2025-10-05T17:30:11
 ---
 
 > _“Love is the absence of judgment.” — Dalai Lama_
@@ -108,7 +108,6 @@ Find a partner who believes in you more than you believe in yourself.
 * A great romantic relationship is not only finding the person you have fun with, but also finding the person you want to be bored with. The beauty of long-term relationships is often hidden in boring, ordinary moments.
 
 ---
-
 
 > 「Ｎ」
 
