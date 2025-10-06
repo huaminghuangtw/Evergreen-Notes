@@ -1,7 +1,7 @@
 ---
 title: Stress & Anxiety
 created: 2024-11-18T09:18:12
-modified: 2025-10-03T07:03:12
+modified: 2025-10-06T15:11:34
 ---
 
 > _“Stress happens when the mind resists what is.” — Dan Millman_
@@ -47,12 +47,6 @@ MBSR = Mindfulness-Based Stress Reduction
 ---
 
 Ask yourself: “_Will this crisis really matter one year from now?_”
-
----
-
-The phenomenon of “empathic stress” causes individuals who are exposed to people who are stressed to experience stress themselves.
-
-* If someone feels **同情 compassion (“I want to relieve your suffering.”)** for a stressed person instead of **同理 empathy (“I feel your suffering.”)**, they may be less likely to take on that person’s stress.
 
 ---
 
