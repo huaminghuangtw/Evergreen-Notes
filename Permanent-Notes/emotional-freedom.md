@@ -1,7 +1,7 @@
 ---
 title: Emotional Freedom
 created: 2025-05-10T06:27:40
-modified: 2025-10-05T15:57:07
+modified: 2025-10-06T12:14:55
 ---
 
 > _“Enlightenment is making friendship with the whole existence.” — Amit Ray_
@@ -72,7 +72,7 @@ Someone who experienced the exact same event as you likely remembers it very dif
 	* Regularly notice your thoughts [without judgment](dispel-your-narratives.md). Say to yourself, “There’s a thought that…” to create separation.
 2. **Use mindfulness to stay grounded.**
 	* Anchor yourself in the [present moment](live-in-the-present.md) using your breath, body, or senses.
-	* [Meditation](meditation.md) is a helpful tool, but simple awareness throughout the day works too.
+	* [Meditation](__temp__Meditation.md) is a helpful tool, but simple awareness throughout the day works too.
 3. **Ask: “Is this true?”**
 	* When a painful thought arises, question its validity. Often, you’ll find it’s just a story, not a fact.
 4. **Don’t resist emotions.**
