@@ -1,14 +1,12 @@
 ---
 title: Abandon your ego
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-10-05T21:17:17
 ---
 
 > _“Showing off is the fool’s idea of glory.” — Bruce Lee_
 
 > _“The main cause of our unhappiness is that we identify so strongly with the ego.” — Tenzin Palmo_
-
-> _[“When you show yourself to the world and display your talents, you naturally stir all kinds of resentment, envy, and other manifestations of insecurity.” — Robert Greene, The 48 Laws of Power](https://www.goodreads.com/quotes/199026-when-you-show-yourself-to-the-world-and-display-your)_
 
 ---
 
