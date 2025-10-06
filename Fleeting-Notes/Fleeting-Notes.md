@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-05T12:04:21
+modified: 2025-10-05T17:30:11
 ---
 
 Spend 30 minutes daily…
@@ -46,7 +46,6 @@ Digitalization of Reputation
 The Farmer & The Horse Parable maybe story cyclic judgement
 
 People buy with emotions, but justify with reasoning.
-
 
 false [scarcity](https://www.goodreads.com/book/show/17286670-scarcity) like timing can be misleading and create distrust. Funnel can create true scarcity.
 
@@ -151,7 +150,6 @@ How to say NO with grace and style?
 * Sorry, but I can’t make it; maybe another time.
 * Thanks for thinking of me, but I can’t.
 * No, thanks.
-
 
 The one who loves to climb will climb higher than the one who loves the view from the summit.
 
