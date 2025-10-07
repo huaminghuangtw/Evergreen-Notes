@@ -1,7 +1,7 @@
 ---
 title: A friend to all is a friend to none
 created: 2024-11-18T09:18:12
-modified: 2025-09-02T07:18:50
+modified: 2025-10-07T06:17:30
 ---
 
 > _“A true friend never gets in your way unless you happen to be going down.” — Arnold H. Glasow_
@@ -78,7 +78,7 @@ Humans are mimetic creatures. We copy those around us. Decentralized friend grou
 
 ## See Also
 
-* [Mentorship is dated, build a panel of advisors instead](Mentorship%20is%20dated,%20build%20a%20panel%20of%20advisors%20instead.md)
+* [Mentorship is dated, build a panel of advisors instead](mentorship-is-dated-build-a-panel-of-advisors-instead.md)
 
 ---
 
