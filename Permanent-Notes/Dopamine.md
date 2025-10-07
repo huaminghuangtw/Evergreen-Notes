@@ -1,7 +1,7 @@
 ---
 title: Dopamine
 created: 2024-11-18T09:18:12
-modified: 2025-10-02T03:58:13
+modified: 2025-10-07T14:18:15
 ---
 
 > _“Persons with severe addictions are among those contemporary prophets that we ignore to our own demise, for they show us who we truly are. (重度成癮者是當代的預言家，不把他們當一回事，沒有好下場的是我們，因為他們反映的正是我們真實的面貌)” — Kent Dunnington_
@@ -67,7 +67,7 @@ Our [baseline dopamine](https://youtu.be/QmOF0crdyRU?t=2218) levels are influe
 
 ---
 
-Feel unmotivated? [Procrastination](__temp__procrastination.md)?
+Feel unmotivated? [Procrastination](procrastination.md)?
 
 * **Passive:** Wait for dopamine replenishment
 * **Active:** Put yourself into a painful/uncomfortable state to teach your brain to [do hard things](do-hard-things.md)
