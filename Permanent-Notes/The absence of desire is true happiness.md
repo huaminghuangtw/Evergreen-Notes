@@ -1,7 +1,7 @@
 ---
 title: The absence of desire is true happiness
 created: 2024-11-18T09:18:12
-modified: 2025-09-24T04:47:11
+modified: 2025-10-07T14:18:15
 ---
 
 > _[“Not wanting something is as good as having it.” — Naval Ravikant](https://www.youtube.com/watch?v=KyfUysrNaco&t=33s)_
@@ -36,5 +36,5 @@ You only lose what you cling to.
 
 # See Also
 
-* [Miswanting](__temp__miswanting.md)
+* [Miswanting](miswanting.md)
 * [Emotional Freedom](emotional-freedom.md)
