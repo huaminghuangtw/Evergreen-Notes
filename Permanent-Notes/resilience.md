@@ -1,7 +1,7 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2025-10-05T16:35:42
+modified: 2025-10-07T06:20:54
 ---
 
 > _“Resilience is not what happens to you. It’s how you [react to, respond to](choose-your-response.md), and recover from what happens to you.” — Jeffrey Gitomer_
@@ -41,7 +41,7 @@ Antifragility [@talebAntifragileThingsThat2016]
 # Amor Fati
 
 * meaning “love of (one’s) fate.”
-* It is the idea and practice of embracing everything that life throws at you—the good and the bad, the calm and [the chaos](Life%20is%20chaotic.md).
+* It is the idea and practice of embracing everything that life throws at you—the good and the bad, the calm and [the chaos](life-is-chaotic.md).
 
 ---
 
