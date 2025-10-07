@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2025-09-29T21:14:52
+modified: 2025-10-07T04:42:43
 ---
 
 > _“To be is to do.” — Immanuel Kant_
@@ -77,7 +77,7 @@ Krummes Holz gibt auch gerades Feuer. = Crooked logs also make straight fires.
 
 ---
 
-[The first minute of action](Just%20getting%20started.md) is worth more than a year of perfect planning.
+[The first minute of action](just-getting-started.md) is worth more than a year of perfect planning.
 
 ---
 
