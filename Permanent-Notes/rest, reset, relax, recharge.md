@@ -1,7 +1,7 @@
 ---
 title: rest, reset, relax, recharge
 created: 2024-11-18T09:18:12
-modified: 2025-10-01T06:51:10
+modified: 2025-10-06T20:37:53
 ---
 
 > _“Rest until you feel like playing, then play until you feel like resting.” — Martha Beck_
@@ -77,7 +77,7 @@ Properly break in your breaks — no sneaky working.
 
 ---
 
-# The Stop Framework
+# The STOP Framework
 
 * **S**top
 * **T**ache a breath
