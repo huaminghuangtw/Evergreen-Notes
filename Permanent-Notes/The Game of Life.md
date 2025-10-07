@@ -1,7 +1,7 @@
 ---
 title: The Game of Life
 created: 2024-11-18T09:18:12
-modified: 2025-10-05T16:04:13
+modified: 2025-10-07T06:20:48
 ---
 
 > _[The reason to play the game is to be free of it.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)_
@@ -35,7 +35,7 @@ modified: 2025-10-05T16:04:13
 
 * **出奇制勝**結束了**有限**遊戲；而**出乎意料**則是**無限**遊戲繼續進行的原因
 * To be prepared against surprise is to be trained. To be prepared for surprise is to be educated. (準備應對驚喜，意味著接受訓練；準備迎接驚喜，意味著接受教育)
-	* While training is essential for certain scenarios, education is more important for truly navigating the complexities and uncertainties of life
+	* While training is essential for certain scenarios, education is more important for truly navigating the complexities and [uncertainties of life](life-is-chaotic.md)
 		* **Training**: A more rigid approach where you aim to minimize surprises by mastering specific skills or responses.
 			* 訓練是在未來重複一個已經完成的過去
 		* **Education**: A more dynamic, flexible approach that allows you to engage with and learn from surprises when they happen.
