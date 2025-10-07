@@ -1,7 +1,7 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2025-10-01T05:35:56
+modified: 2025-10-07T06:20:54
 ---
 
 > _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
@@ -96,7 +96,7 @@ When we embrace _voluntary struggles_, we’re better equipped/prepared for the 
 
 > _[“We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.” — C.S. Lewis](https://www.goodreads.com/quotes/615-we-are-not-necessarily-doubting-that-god-will-do-the)_
 
-Comfort is the most seductive thing in existence. Comfort is not free. It comes at the cost of who you could become. Step into the unknown. The unknown is the foundry where you forge your chips. Everything important is uncertain. **Sitting with the discomfort of that [uncertainty](Life%20is%20chaotic.md) is the hard part, the wedge that can move the world.**
+Comfort is the most seductive thing in existence. Comfort is not free. It comes at the cost of who you could become. Step into the unknown. The unknown is the foundry where you forge your chips. Everything important is uncertain. **Sitting with the discomfort of that [uncertainty](life-is-chaotic.md) is the hard part, the wedge that can move the world.**
 
 ---
 
