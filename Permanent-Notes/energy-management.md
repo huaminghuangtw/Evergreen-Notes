@@ -1,7 +1,7 @@
 ---
 title: Energy Management
 created: 2024-11-18T09:18:12
-modified: 2025-10-02T04:00:48
+modified: 2025-10-07T11:46:31
 ---
 
 > _[“Your energy is currency. Spend it well. Invest it wisely. Use it Intentionally, consistently, and by your own design.” — Adrienne Bosh](https://x.com/MrsAdrienneBosh/status/988908563232796672)_
@@ -60,5 +60,17 @@ There’s no such thing as working too hard. There’s just being under rested. 
 
 * <u>Dream Investments</u>: Things that you want to do at some point, but probably not right now; can be as long as you like.
 * <u>Active Investments</u>: Things that you want to work on right now (e.g., this week); should be limited (~5) based on how much time and energy you’ve got to invest in them.
+
+---
+
+# The Power Law for Energy Management
+
+≈ 冪律
+
+舉例來說，你可以將第 n 個最重要的主題的關注度分配為 $(m-1)/m^n$，其中 m > 1。這裡的 m 代表注意力分配的集中程度：當 m 越大 時，注意力會更加集中在前幾個主題上，後面主題的比重會迅速下降；反之，當 m 越接近 1 時，注意力的分配會較為平均。
+
+換句話說，m 控制了你專注的「銳利度」— 它越大，你越聚焦於最重要的少數關鍵項目；它越小，你越傾向於在多個主題之間平均投入。
+
+當然，你無法如此精確地分配你的注意力，但這個公式至少提供了一種在有限資源下進行合理取捨的靈感。
 
 [^1]: [Studies show that our brain does not consume more blood sugar when working on difficult tasks. The brain is an organ, not a muscle. It does not burn extra calories but maintains a steady energy consumption with increased effort. Whether you’re solving calculus problems or watching cat videos, your brain burns roughly the same number of calories per waking minute.](https://www.scientificamerican.com/article/thinking-hard-calories/)
