@@ -1,7 +1,7 @@
 ---
 title: Journey over destination
 created: 2024-11-18T09:18:12
-modified: 2025-10-05T12:06:10
+modified: 2025-10-07T04:56:05
 ---
 
 > _If you focus on results and finding shortcuts, you’ll get impatient. If you focus on the process and doing the right thing, you’ll be unstoppable.” — Maxime Lagace_
@@ -24,6 +24,8 @@ modified: 2025-10-05T12:06:10
 
 Enjoy the process. Love the effort. The journey itself is the reward.
 
+Find joy in the journey, or you won’t find it at all.
+
 ---
 
 So often people focus all their [energy](energy-management.md) on the _summits_—but completely fail to recognize that 99% of life is spent on the _climb_.
@@ -33,6 +35,8 @@ The climb is the fun part.
 The climb is always better than the view from the summit.
 
 Real, durable satisfaction, happiness and contentment are found in the anticipation of the achievement, not the achievement itself. It’s the quest. It’s the hunt. It’s the process. It’s the journey.
+
+**Those who love the climb will reach higher than those who only love the view from the summit.**
 
 ---
 
