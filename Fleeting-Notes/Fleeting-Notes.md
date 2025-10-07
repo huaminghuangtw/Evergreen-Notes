@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-05T17:30:11
+modified: 2025-10-07T04:57:28
 ---
 
 Spend 30 minutes daily…
@@ -126,34 +126,6 @@ Paired walkers with better first impression synchronize better (<https://journal
 
 (4) 附加問句: 徵求對方同意的簡短問句，以沖淡直述句的命令祈使語氣 (e.g., 小華，要記得寫作業呀! 寫作業是學生的本分! → 小華，你可以按時完成作業的，不是嗎?; 老張，其實你可以把工作做得更好，不是嗎?)
 
-How to say NO with grace and style?
-
-* General Principle: Don’t lie. People value honesty.—Just say “I don’t feel like doing X. / I don’t want to do X. (And I don’t have to offer you an excuse and no should be a sufficient enough answer.)”
-* The awkward pause: just pause, raise an eyebrow, and look at them in silence—Oftentimes when you tell someone you can’t do x because of y, people will give you all kinds of suggestions of how to cancel/postpone x and do y instead. People will try to “solve” the problem of why you can’t do something because they see what they want you to do as more important than what’s already on your agenda3. Say it with humor
-* The soft “no” (“no but”, “thank you but”)
-* Use e-mail bounce backs (like the auto response when someone is out of the office)
-* “Let me check my calendar and get back to you.”
-* “Sounds very interesting, but I will pass it at the moment”
-* “Yes, but what should I deprioritize?”
-* “You are welcome to X. I am willing to Y.”
-* “I can’t do it, but X might be interested.”
-* “I don’t have any synchronous time available, but I’m happy to connect by email.”
-* “I’m supposed to do that.”
-* Say no quickly as a way of kindness: If you have to (or want to) say no to something, do it immediately. → This gives the asker maximum time to find alternatives!
-* Sounds nice, but I am not available.
-* I am honored that you asked me, but I can’t do it.
-* I’m sorry, but I can’t help you at this time.
-* Unfortunately, it’s not a good time.
-* I am not available at the moment, but maybe next time.
-* Unfortunately, this is not something I can do right now.
-* I really appreciate you asking me, but I can’t commit to that right now.
-* Sorry, but I can’t make it; maybe another time.
-* Thanks for thinking of me, but I can’t.
-* No, thanks.
-
-The one who loves to climb will climb higher than the one who loves the view from the summit.
-
-Find joy in the journey, or you won’t find it at all.
 
 The Theory of Constraints is a business philosophy first proposed by Eliyahu Goldratt in his 1984 book, The Goal.
 
