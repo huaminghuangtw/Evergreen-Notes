@@ -1,7 +1,7 @@
 ---
 title: Visualization
 created: 2024-11-18T09:18:12
-modified: 2025-09-29T05:26:17
+modified: 2025-10-07T14:16:43
 ---
 
 > _“Everything you can imagine is real.” — Pablo Picasso_
@@ -35,4 +35,4 @@ Your skill in any area is a function of the quantity and quality of **Mental Rep
 
 ## See Also
 
-* [Premortem](Premortem.md)
+* [Premortem](premortem.md)
