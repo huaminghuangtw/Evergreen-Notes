@@ -1,7 +1,7 @@
 ---
 title: Do great work
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:46
+modified: 2025-10-07T11:47:08
 ---
 
 > _“Good is the enemy of great.” — [@collinsGoodGreatWhy2001]_
@@ -18,7 +18,7 @@ modified: 2025-08-29T08:30:46
 
 ---
 
-#TODO["How To Do Great Work" by Paul Graham](https://paulgraham.com/greatwork.html)
+[“How To Do Great Work” by Paul Graham](https://paulgraham.com/greatwork.html)
 
 ---
 
