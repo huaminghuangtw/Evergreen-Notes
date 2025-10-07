@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-10-06T14:14:39
+modified: 2025-10-07T14:18:15
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -37,6 +37,13 @@ Time doesn’t heal anything when it comes to relationships.
 當 [友情](a-friend-to-all-is-a-friend-to-none.md) 成為關係的核心，你會發現那些規則和壓力都自然消失。友情是最自然、自由、自在的連結，它建立在互相欣賞、認同與信任上，不需要任何外在約束，反而更穩固。
 
 擁有這樣的心態，你就能純粹地認識一個人，而不被世俗眼光中「應該如此」的標籤限制住 — 比如「一定要結婚」或「在家裡必須扮演某種角色」。只有放下這些不必要的框架，你才能開始真正欣賞一個人的獨特之處。
+
+---
+
+# 情感帳戶
+
+1. 存款行為
+2. 提款行為
 
 ---
 
@@ -110,7 +117,7 @@ Share with someone who wants to listen or listen to someone who wants to share.
 
 ---
 
-Send THANK YOU notes to people you love by regularly scrolling through recent text messages instead of scrolling on social media as a form of [procrastination](__temp__procrastination.md).
+Send THANK YOU notes to people you love by regularly scrolling through recent text messages instead of scrolling on social media as a form of [procrastination](procrastination.md).
 
 ---
 
