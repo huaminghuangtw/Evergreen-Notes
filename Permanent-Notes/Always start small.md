@@ -1,7 +1,7 @@
 ---
 title: Always start small
 created: 2025-03-05T05:32:10
-modified: 2025-09-01T07:06:01
+modified: 2025-10-07T04:42:43
 ---
 
 > _“It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith_
@@ -69,7 +69,7 @@ Anything above zero [compounds](The%20Compounding%20Effect.md) positively
 
 * If you’re having trouble sticking to a new [habit](be-a-habit-and-routine-machine.md) , try a miniature (2-minute) version until it becomes automatic.
 * Take tiny baby steps. _Do less than you’re capable of, but do it more consistently than you have before._
-* [不靠衝勁](Do%20not%20use%20your%20willpower%20unless%20you%20absolutely%20have%20to.md)，靠低門檻 [開始](Just%20getting%20started.md)
+* [不靠衝勁](Do%20not%20use%20your%20willpower%20unless%20you%20absolutely%20have%20to.md)，靠低門檻 [開始](just-getting-started.md)
 
 ---
 
