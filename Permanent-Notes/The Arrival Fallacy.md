@@ -1,7 +1,7 @@
 ---
 title: The Arrival Fallacy
 created: 2025-01-23T10:40:57
-modified: 2025-09-28T15:06:41
+modified: 2025-10-07T14:18:15
 ---
 
 > _“Arriving someplace more desirable at some future time is an illusion. This is it.” — Jon Kabat-Zinn_
@@ -49,5 +49,5 @@ Humans have a tendency to quickly return to a baseline level of [happiness](happ
 ## See Also
 
 * [Journey over destination](Journey%20over%20destination.md)
-* [Miswanting](__temp__miswanting.md)
+* [Miswanting](miswanting.md)
 * [[The Impact Bias]]
