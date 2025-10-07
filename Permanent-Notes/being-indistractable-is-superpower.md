@@ -1,7 +1,7 @@
 ---
 title: Being indistractable is superpower
 created: 2025-01-23T18:40:57
-modified: 2025-10-06T12:14:55
+modified: 2025-10-07T14:18:15
 ---
 
 Being indistractable is about doing what you say you’re going to do.
@@ -80,7 +80,7 @@ By redirecting potential distractions before they reach you, you preserve your w
 
 # 練習察覺當下的想法，並且不加批判 [@davisTwoAwesomeHours2015]
 
-**「覺知注意（Mindfulness）」** 指的是讓思緒自然游移，[當我們發現心思飄遠時，不帶評價地察覺，然後溫和地將注意力帶回當下的感受](__temp__Meditation.md)。你可以在閱讀時試試看 — 當發現自己分心，只需留意這個有趣的現象，然後輕柔地將注意力拉回到眼前的內容。
+**「覺知注意（Mindfulness）」** 指的是讓思緒自然游移，[當我們發現心思飄遠時，不帶評價地察覺，然後溫和地將注意力帶回當下的感受](Meditation.md)。你可以在閱讀時試試看 — 當發現自己分心，只需留意這個有趣的現象，然後輕柔地將注意力拉回到眼前的內容。
 
 這是一種「[活在當下](live-in-the-present.md)」的練習 — [覺察自己](mastering-yourself-is-superpower.md)、他人以及周遭環境。[當我們意識到心思飄移，可以成為一個中立的觀察者，單純觀看思緒的流動，而不是責備自己分心。當我們不再因無法專注而感到沮喪或焦慮，就能更有效地將注意力帶回手邊的事務。](Acceptance%20and%20Commitment%20Therapy.md)
 
