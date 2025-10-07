@@ -1,7 +1,7 @@
 ---
-title: money
+title: Money
 created: 2024-11-18T10:16:50
-modified: 2025-10-06T16:10:41
+modified: 2025-10-07T14:26:02
 ---
 
 > _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
