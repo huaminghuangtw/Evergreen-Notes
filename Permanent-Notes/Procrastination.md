@@ -1,7 +1,7 @@
 ---
 title: Procrastination
 created: 2024-11-18T09:18:12
-modified: 2025-10-05T16:04:13
+modified: 2025-10-07T04:42:43
 ---
 
 > _“To begin, begin.” — William Wordsworth_
@@ -93,7 +93,7 @@ _“[The magic you are looking for is in the work you are always avoiding.](http
 
 ---
 
-Solving the _problem of procrastination_ is solving the _problem of [getting started](Just%20getting%20started.md) — getting started is the key factor for the other critical idea — _momentum_.
+Solving the _problem of procrastination_ is solving the _problem of [getting started](just-getting-started.md) — getting started is the key factor for the other critical idea — _momentum_.
 
 You don’t find motivation to start; you need to start to find motivation. Motivation is a natural byproduct of movement. When in doubt, just start moving.
 
