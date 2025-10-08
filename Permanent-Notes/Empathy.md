@@ -1,7 +1,7 @@
 ---
 title: Empathy
 created: 2024-11-18T09:18:12
-modified: 2025-10-06T15:15:43
+modified: 2025-10-08T13:58:06
 ---
 
 > _“I do not ask the wounded person how he feels, I myself become the wounded person.” — Walt Whitman_
@@ -43,6 +43,12 @@ The emptiest head rattles the loudest.
 ---
 
 設身處地替人著想/感受別人的感受
+
+---
+
+# Theory of Mind
+
+> Put yourself into the mindset of another person.
 
 ---
 
