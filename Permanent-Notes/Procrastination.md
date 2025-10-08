@@ -1,7 +1,7 @@
 ---
 title: Procrastination
 created: 2024-11-18T09:18:12
-modified: 2025-10-07T04:42:43
+modified: 2025-10-08T05:12:51
 ---
 
 > _“To begin, begin.” — William Wordsworth_
@@ -24,15 +24,22 @@ modified: 2025-10-07T04:42:43
 
 One Day or Day One
 
-Inspiration is perishable. Act IMMEDIATELY at the moment of inspiration. Follow inspiration when it strikes. [^1]
+---
+# Now or Never
 
 Now or never. Now, not how. Soon is not as good as now. Don’t just imagine doing things someday. Do them now. You don’t find the time to do something; you make the time to do things.
+
+---
+
+Inspiration is perishable. Act IMMEDIATELY at the moment of inspiration. Follow inspiration when it strikes. [^1]
+
+---
 
 [About 99% of the time, the right time is right now.](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)
 
 ---
 
-_“[The magic you are looking for is in the work you are always avoiding.](https://www.youtube.com/shorts/E0SkEQ1e3P0)”_
+> _[“The magic you are looking for is in the work you are always avoiding.”](https://www.youtube.com/shorts/E0SkEQ1e3P0)_
 
 * Often, what we resist the most, holds us the biggest rewards.
 * The thing you [fear](fear.md) the most is often the thing you most need to do.
