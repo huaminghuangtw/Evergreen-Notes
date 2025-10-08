@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-10-07T14:18:15
+modified: 2025-10-08T15:14:14
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -10,7 +10,9 @@ modified: 2025-10-07T14:18:15
 
 > _“Relationships are mysterious. We doubt the positive qualities in others, seldom the negative. You will say to your partner: do you really love me? Are you sure you love me? You will ask this a dozen times and drive the person nuts. But you never ask: are you really mad at me? Are you sure you’re angry? When someone is angry, you don’t doubt it for a moment. Yet the reverse should be true. We should doubt the negative in life, and have faith in the positive.” — Christopher Pike, Remember Me_
 
-> _["We have to recognize that there cannot be relationships unless there is commitment, unless there is loyalty, unless there is love, patience, persistence." — Cornel West, Breaking Bread: Insurgent Black Intellectual Life](https://www.goodreads.com/quotes/234703-we-have-to-recognise-that-there-cannot-be-relationships-unless)_
+> _[“We have to recognize that there cannot be relationships unless there is commitment, unless there is loyalty, unless there is love, patience, persistence.” — Cornel West, Breaking Bread: Insurgent Black Intellectual Life](https://www.goodreads.com/quotes/234703-we-have-to-recognise-that-there-cannot-be-relationships-unless)_
+
+> _“The best relationships are a balance of connection and freedom.” — Esther Perel_
 
 ---
 
@@ -80,15 +82,19 @@ Every relationship in your life can be placed within a 2 × 2 matrix based upon:
 
 ---
 
-# The “Helped, Heard, or Hugged” Framework
+## When someone has a problem, ask if they want empathy or a solution
 
-* Three Elements
-	* **Helped:** Deconstruct the problem and identify solutions.
-	* **Heard:** Listen intently and allow the other person to vent.
-	* **Hugged:** Provide comforting touch
-* _“Do you want to be Helped, Heard, or Hugged?”_
-* Over the years, my Mr. Fix It mentality created a lot of tense moments with my wife, family, and friends. They’d come to me with a problem and my analytical brain would start firing, deconstructing the problem and its various potential solutions. I always found it puzzling that the other person would often reject my solutions and withdraw (or even get angry with me for offering them).
-* Sometimes people don’t want a solution, they just want you to be there with them.
+We often jump into “Mr. Fix It” mode, eager to [offer advice](advice.md) and [solve a problem](Problem%20Solving.md). However, this can create tension because people don’t always want a solution; sometimes, they just want to feel heard and understood. In fact, **most arguments are not really about the argument, so most arguments can’t be won by arguing.**
+
+The next time a friend, partner, or family member comes to you with a problem, resist the urge to immediately offer advice. Instead, take a moment and ask a simple question to clarify what they truly need. You can frame it as:
+
+* _“Do you want to be helped, heard, or hugged?”_
+	* The 3H (Helped, Heard, or Hugged) Method
+* _“Do you want empathy or do you want a solution?”_
+
+	> Source: [Lisa Feldman Barrett: Balancing the Brain Budget \[The Knowledge Project Ep. #92\]](https://www.youtube.com/watch?v=jORaNMIGiok&t=48m1s)
+
+This simple step can prevent misunderstandings and show that you’re there for them in the way they need you to be. People want to feel understood, and sometimes the best support you can offer is just your presence and a listening ear.
 
 ---
 
