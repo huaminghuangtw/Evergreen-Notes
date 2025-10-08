@@ -1,7 +1,7 @@
 ---
 title: Always do your best as possible
 created: 2024-11-18T09:18:12
-modified: 2025-10-07T07:56:47
+modified: 2025-10-07T16:54:48
 ---
 
 > _“If you deliberately plan to be less than you are capable of being, then I warn you that you’ll be deeply unhappy for the rest of your life.” — Abraham Maslow_
@@ -69,8 +69,6 @@ Quality over Quantity. Depth over Width.
 
 「**[MERAKI](https://www.google.com/search?q=MERAKI)**」是一個來自 **希臘文**（μεράκι, _meráki_）的詞，代表一種做事態度：
 
-
 > **全心投入、傾注靈魂與熱情去做一件事**。
-
 
 具體來說，當一個人用「愛、創意與熱忱」完成某件事（無論是工作、料理、寫作或教學）時，就展現了 Meraki 的精神。
