@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-07T04:57:28
+modified: 2025-10-08T05:16:44
 ---
 
 Spend 30 minutes daily…
@@ -126,7 +126,6 @@ Paired walkers with better first impression synchronize better (<https://journal
 
 (4) 附加問句: 徵求對方同意的簡短問句，以沖淡直述句的命令祈使語氣 (e.g., 小華，要記得寫作業呀! 寫作業是學生的本分! → 小華，你可以按時完成作業的，不是嗎?; 老張，其實你可以把工作做得更好，不是嗎?)
 
-
 The Theory of Constraints is a business philosophy first proposed by Eliyahu Goldratt in his 1984 book, The Goal.
 
 The key idea is that every system has at least one constraint that restricts its ability to grow or meaningfully improve its desired output.
@@ -137,17 +136,7 @@ By focusing attention on improving the constraint—eliminating the bottleneck�
 
 brought into the world to do
 
-“Vision without execution is hallucination.” — Thomas Edison
-
-“To travel is to be alive, but to get somewhere is to be dead.” — Alan Watts
-
-“The goal is not to show how great you are to others, but how vulnerable you are to yourself.” — Maxime Lagace
-
 Falling vs Growing in Love
-
-“Happiness is the meaning and the purpose of life, the whole aim and end of human existence.” — Aristotle
-
-“Me” is a disease.
 
 While walking through an elephant camp, a woman noticed that the elephants were only being secured by a small rope around one ankle.
 
@@ -205,27 +194,10 @@ New information is massaged to fit that story, or rejected if it doesn’t.
 
 ---
 
-Breathe in through the nose for a 4 count.
-
-Hold in the belly for a 7 count.
-
-Exhale through the mouth for an 8 count.
-
-Repeat 3-5 times.
-
----
-
 OVER-RELIANCE ON THE HEAD Another way of putting it is like this: learn to listen to your gut and start trusting it a bit more. In the West, we have a head-driven culture, where we think we can explain and rationalize everything with our minds. We ignore the fact that some of the deepest intelligence we have, as humans, is located deep within our bodies.
 
 ---
 
-決定人生過得如何的，不是金錢的總和，而是體驗的加總
-
----
-
-Now or Never
-
----
 
 Rücken (back) and Figur (figure), which roughly translates to “figure seen from behind.”
 
