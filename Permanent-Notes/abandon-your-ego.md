@@ -1,7 +1,7 @@
 ---
 title: Abandon your ego
 created: 2024-11-18T09:18:12
-modified: 2025-10-05T21:17:17
+modified: 2025-10-08T05:13:56
 ---
 
 > _“Showing off is the fool’s idea of glory.” — Bruce Lee_
@@ -19,6 +19,10 @@ modified: 2025-10-05T21:17:17
 ≈ Put your ego aside.
 
 ≈ Leave your ego at the door.
+
+---
+
+“Me” is a disease.
 
 ---
 
