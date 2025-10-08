@@ -1,7 +1,7 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2025-10-07T14:26:02
+modified: 2025-10-08T05:11:38
 ---
 
 > _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
@@ -71,6 +71,7 @@ Reasonable \> Rational
 
 	* The rich get richer. Money begets money.
 * Optimize for life fulfillment/experiences, not for money-in-the-bank.
+	* 人生的價值，不在金錢的總和，而在體驗的加總。
 * Skills get you to a million, character/charisma takes you to 100 million, and time brings you to a billion.
 
 	> _“The reason you’re not making $10m a year is that you don't know HOW to make $10m a year. Therefore, that lack of knowledge is costing you $10m a year.” — Alex Hormozi_
