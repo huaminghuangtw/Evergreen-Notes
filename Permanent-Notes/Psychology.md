@@ -1,7 +1,7 @@
 ---
 title: Psychology
 created: 2024-11-18T09:18:12
-modified: 2025-09-27T17:38:29
+modified: 2025-10-08T13:57:42
 ---
 
 * Egocentric Bias
@@ -45,8 +45,6 @@ modified: 2025-09-27T17:38:29
 	* Examples: senior management at large organizations
 * The Diderot Effect
 	* When acquiring a new possession leads to a spiral of consumption that results in the acquisition of even more possessions. In other words, it means that buying something new can cause a chain reaction of buying more and more things because the new item makes one feel like one needs other things to go with it or to keep up with it.
-* The Theory of Mind
-	* Put yourself into the mindset of another person
 * [斯坦福棉花糖實驗 Stanford Marshmallow Experiment on Delayed Gratification](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment)
 * 「果醬實驗」(Jam Experiment)
 	* How Choice Overloads Makes Consumers Buy Less (due to [Decision Fatigue](decision-fatigue.md))
