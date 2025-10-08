@@ -1,8 +1,10 @@
 ---
 title: Journey over destination
 created: 2024-11-18T09:18:12
-modified: 2025-10-07T04:56:05
+modified: 2025-10-08T05:15:52
 ---
+
+> _“To travel is to be alive, but to get somewhere is to be dead.” — Alan Watts_
 
 > _If you focus on results and finding shortcuts, you’ll get impatient. If you focus on the process and doing the right thing, you’ll be unstoppable.” — Maxime Lagace_
 
