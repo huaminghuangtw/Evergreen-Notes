@@ -1,7 +1,7 @@
 ---
 title: Speak less, listen more
 created: 2024-11-18T09:16:49
-modified: 2025-08-29T08:30:45
+modified: 2025-10-07T19:32:40
 ---
 
 > _[“Shallow rivers are noisy. Deep lakes are silent.” — Derek Sivers](https://sive.rs/h)_
@@ -9,6 +9,8 @@ modified: 2025-08-29T08:30:45
 > _“They blame those who remain silent, they blame those who speak much, they blame those who speak in moderation. There is none in the world who is not blamed.” — Gautama Buddha_
 
 > _“We assume that the more arguments we give, the better our case. In reality, our weakest arguments dilute the strongest. Generally, you’ll only be as convincing as your worst point, so instead of making as many arguments as you can, make only the best.” — Gurwinder Bhogal_
+
+> _[“Those who know do not speak. Those who speak do not know.” — Lao Tsu, Tao Teh Ching](https://www.goodreads.com/quotes/9187-those-who-know-do-not-speak-those-who-speak-do)_
 
 ---
 
