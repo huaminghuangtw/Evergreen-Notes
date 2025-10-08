@@ -1,7 +1,7 @@
 ---
 title: Life is chaotic
 created: 2024-11-18T09:18:12
-modified: 2025-10-07T06:20:36
+modified: 2025-10-07T16:54:48
 ---
 
 > _“Everyone has a plan until they get punched in the mouth.” — Mike Tyson_
@@ -47,6 +47,7 @@ Problems are a feature of life, not a bug. There will never come a time when you
 Life is uncertain, but you have to [act](cultivate-a-strong-bias-towards-action.md) anyway.
 
 ---
+
 # See Also
 
 * [Hope for the best, prepare for the worst](hope-for-the-best-prepare-for-the-worst.md)
