@@ -1,7 +1,7 @@
 ---
 title: Mentorship is dated, build a panel of advisors instead
 created: 2025-01-23T10:40:57
-modified: 2025-10-07T06:18:58
+modified: 2025-10-07T16:54:48
 ---
 
 ![](../_attachments/1abb6f103b7cbb0ab268cd7901aa80bb.jpg)
@@ -22,7 +22,8 @@ modified: 2025-10-07T06:18:58
 	* Willing to provide raw feedback and candor
 	* Vested interest in your success (i.e., they want to see you win)
 * Consider your Braintrust as your life giants—you will always see further by standing on their shoulders by adopting the views from them / tapping into the minds of them.
-- 智囊團：由 5 到 10 個不同背景的人（網路人士也行，不一定要在現實生活中認識），組成你的個人顧問群。
+* 智囊團：由 5 到 10 個不同背景的人（網路人士也行，不一定要在現實生活中認識），組成你的個人顧問群。
+
 ---
 
 # Murder Board = Red Team
