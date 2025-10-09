@@ -1,7 +1,7 @@
 ---
 title: Why we exist?
 created: 2024-11-18T09:18:12
-modified: 2025-10-05T15:39:46
+modified: 2025-10-09T12:34:49
 ---
 
 > _“Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness.” — Leo Tolstoy_
@@ -59,6 +59,8 @@ Leo Tolstoy emphasizes the importance of viewing life as a service with a purpos
 Albert Camus argues that seeking a singular meaning of life can hinder truly living. His existential perspective implies that life itself is an ongoing journey without an ultimate destination or fixed meaning. Camus encourages embracing the present and finding significance in everyday experiences rather than searching for an overarching purpose.
 
 ---
+
+> _“The best way to overcome the fear of death — so at least it seems to me — is to make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life.” — Bertrand Russell_
 
 * ⭐️ Not to find the meaning of life, but to use your life to create things that are meaningful.
 * Find something much bigger and more important than you are, and dedicate your life to it. [^2]
