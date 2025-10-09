@@ -1,7 +1,7 @@
 ---
 title: Procrastination
 created: 2024-11-18T09:18:12
-modified: 2025-10-08T05:12:51
+modified: 2025-10-08T20:41:48
 ---
 
 > _“To begin, begin.” — William Wordsworth_
@@ -25,6 +25,7 @@ modified: 2025-10-08T05:12:51
 One Day or Day One
 
 ---
+
 # Now or Never
 
 Now or never. Now, not how. Soon is not as good as now. Don’t just imagine doing things someday. Do them now. You don’t find the time to do something; you make the time to do things.
