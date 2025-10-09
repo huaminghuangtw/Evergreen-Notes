@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-10-08T15:14:14
+modified: 2025-10-09T07:35:05
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -98,6 +98,37 @@ This simple step can prevent misunderstandings and show that you’re there for 
 
 ---
 
+When we find ourselves in an argument or debate with someone, we often become more focused on ‘winning’ the argument rather than actually discovering the truth.
+
+---
+
+# Iron Man vs. Straw Man: Why You Should Build Strong Arguments for Ideas You Disagree With
+
+How to overcome **the straw man argument**? use **the steel/iron man argument**: Instead of going on the attack, we help our opponent to build the _strongest possible version_ of their argument, and then engage with _that_.
+
+1. **Paraphrase their point (and check to see that the agree)** - _So, if I understand you correctly, you’re saying X. Is that right?_
+2. **Strengthen their point (and ask if they agree)** - _Interesting. You could even take it a bit further and say X._
+3. **Only then, engage with the argument** - _That’s a compelling perspective. But, I find myself disagreeing with X. What do you think?_
+
+The best way to argue is to engage with your opponent’s strongest points, not their weakest.
+
+* Express your opponent’s position so clearly, vividly, and fairly that they respond, “Yes, that’s exactly what I meant — I wish I’d said it that way.”
+* Aim to articulate their position with such clarity and fairness that they acknowledge, “You’ve captured my view better than I could myself.”
+
+## See Also
+
+* [Confirmation Bias](confirmation%20Bias.md)
+* [Three Types of “Bad” Arguments](https://fs.blog/bad-arguments/)
+
+A good exercise: write an essay that argued BOTH sides of a point we felt strongly about.
+
+1. Your side
+2. The dissenting side
+
+Remember: The ultimate goal is to [find the truth](Seek%20for%20the%20truth.md), not to win. An argument is when you are trying to decide WHO is right, a discussion is when you are trying to decide WHAT is right.
+
+---
+
 # [The Go-First Principle](The%20Go-First%20Principle.md)
 
 ---
@@ -166,14 +197,6 @@ While small talk (= idle talk = chitchat) has its place ,[^2] real bonding/conve
 4. passive destructive
 
 Active constructive responses, which involve genuine engagement and building on the person’s news, are found to be the most energizing.
-
----
-
-How to overcome <span style="font-family:SFUIText-Bold;"><b>the</b></span> **straw man argument**? use **the steel man argument**: Instead of going on the attack, we help our opponent to build the _strongest possible version_ of their argument, and then engage with _that_.
-
-1. **Paraphrase their point (and check to see that the agree)** - _So, if I understand you correctly, you’re saying X. Is that right?_
-2. **Strengthen their point (and ask if they agree)** - _Interesting. You could even take it a bit further and say X._
-3. **Only then, engage with the argument** - _That’s a compelling perspective. But, I find myself disagreeing with X. What do you think?_
 
 ---
 
