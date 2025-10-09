@@ -1,8 +1,9 @@
 ---
 title: Death
 created: 2024-11-18T09:18:12
-modified: 2025-09-21T06:56:22
+modified: 2025-10-09T12:34:04
 ---
+> _“The free man thinks of death, least of all things.” — Benedict Spinoza_
 
 > _“The meaning of life is that it stops.” — Franz Kafka_
 
@@ -23,6 +24,8 @@ modified: 2025-09-21T06:56:22
 > _[“The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.” — Mark Twain](https://www.goodreads.com/quotes/5785-the-fear-of-death-follows-from-the-fear-of-life)_
 
 > _“Why do we fear death? Why are we so afraid of death? In fact, when you are in the deep sleep phase every night, you’re essentially dead. It’s not the experience of being dead that we fear, but the time we haven’t spent on living the life we wanted or doing things we wanted to do that we fear. If you were truly living your ideal, dream, and [fulfilling](why-we-exist.md) life on your own terms, in a way you want, I don’t think you really fear death. Why? First, you would be too busy living. Second, you don’t have any regrets.” — Naval Ravikant_
+
+> _“I want death to find me planting my cabbages, neither worrying about it, nor about the unfinished gardening.” — Michel de Montaigne_
 
 > _[“Death is not the opposite of life, but a part of it.” — Haruki Murakami, Blind Willow, Sleeping Woman: 24 Stories](https://www.goodreads.com/quotes/83202-death-is-not-the-opposite-of-life-but-a-part)_
 
