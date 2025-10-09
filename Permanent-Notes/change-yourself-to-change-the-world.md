@@ -1,7 +1,7 @@
 ---
 title: Change yourself to change the world
 created: 2024-11-18T09:18:12
-modified: 2025-10-07T14:18:15
+modified: 2025-10-09T08:30:26
 ---
 
 > _“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi_
@@ -23,6 +23,10 @@ Before changing yourself, you need to [knowing yourself](mastering-yourself-is-s
 ---
 
 欲勝人者，先自勝。欲卑人者，先自卑。
+
+---
+
+我們真的只能做好我們自己。
 
 ---
 
