@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-08T05:16:44
+modified: 2025-10-08T20:41:48
 ---
 
 Spend 30 minutes daily…
@@ -197,7 +197,6 @@ New information is massaged to fit that story, or rejected if it doesn’t.
 OVER-RELIANCE ON THE HEAD Another way of putting it is like this: learn to listen to your gut and start trusting it a bit more. In the West, we have a head-driven culture, where we think we can explain and rationalize everything with our minds. We ignore the fact that some of the deepest intelligence we have, as humans, is located deep within our bodies.
 
 ---
-
 
 Rücken (back) and Figur (figure), which roughly translates to “figure seen from behind.”
 
