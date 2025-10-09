@@ -1,7 +1,7 @@
 ---
 title: Psychology
 created: 2024-11-18T09:18:12
-modified: 2025-10-08T13:57:42
+modified: 2025-10-09T07:28:40
 ---
 
 * Egocentric Bias
@@ -13,9 +13,6 @@ modified: 2025-10-08T13:57:42
 	* The tendency to believe false information to be correct after repeated exposure
 * The Centipede’s Dilemma
 	* How overthinking kills productivity
-* The Confirmation Bias
-	* 意識形態
-	* 先射箭再畫靶
 * The Myopia Bias
 * The Self-Attribution Bias
 * The Survivorship Bias
