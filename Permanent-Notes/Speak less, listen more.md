@@ -1,7 +1,7 @@
 ---
 title: Speak less, listen more
 created: 2024-11-18T09:16:49
-modified: 2025-10-07T19:32:40
+modified: 2025-10-10T06:44:38
 ---
 
 > _[“Shallow rivers are noisy. Deep lakes are silent.” — Derek Sivers](https://sive.rs/h)_
@@ -11,6 +11,7 @@ modified: 2025-10-07T19:32:40
 > _“We assume that the more arguments we give, the better our case. In reality, our weakest arguments dilute the strongest. Generally, you’ll only be as convincing as your worst point, so instead of making as many arguments as you can, make only the best.” — Gurwinder Bhogal_
 
 > _[“Those who know do not speak. Those who speak do not know.” — Lao Tsu, Tao Teh Ching](https://www.goodreads.com/quotes/9187-those-who-know-do-not-speak-those-who-speak-do)_
+
 
 ---
 
@@ -27,6 +28,8 @@ Remember: You have two ears and one mouth. Therefore, you should listen twice as
 ---
 
 Always speak less than necessary. [@greene48LawsPower2000]
+
+> _“I have noticed that nothing I never said ever did me any harm.” — Calvin Coolidge_
 
 * When you are trying to impress people with words, the more you say, the more common you appear, and the less in control. Even if you are saying something banal, it will seem original if you make it vague, open-ended, and sphinx-like. Powerful people impress and intimidate by saying less. The more you say, the more likely you are to say something foolish.
 * If you want to be heard, talk less. You’ll find more power in your words.
