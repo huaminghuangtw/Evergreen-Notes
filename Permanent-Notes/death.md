@@ -1,8 +1,9 @@
 ---
 title: Death
 created: 2024-11-18T09:18:12
-modified: 2025-10-09T12:34:04
+modified: 2025-10-09T17:47:50
 ---
+
 > _“The free man thinks of death, least of all things.” — Benedict Spinoza_
 
 > _“The meaning of life is that it stops.” — Franz Kafka_
