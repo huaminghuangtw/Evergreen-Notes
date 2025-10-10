@@ -1,7 +1,7 @@
 ---
 title: The Arrival Fallacy
 created: 2025-01-23T10:40:57
-modified: 2025-10-07T14:18:15
+modified: 2025-10-10T06:56:40
 ---
 
 > _“Arriving someplace more desirable at some future time is an illusion. This is it.” — Jon Kabat-Zinn_
@@ -27,6 +27,14 @@ Humans have a tendency to quickly return to a baseline level of [happiness](happ
 ---
 
 人們往往誤以為一旦達到、實現某個重要目標後，生活便會迎來穩定，所有痛苦、悲傷與煩惱都將消失，從而獲得永久的幸福與快樂。然而，現實並非如此，這個世界上並不存在「王子與公主從此過著幸福快樂的生活」的童話式結局。
+
+---
+
+Beware of destination addiction: The idea that happiness is in the next place, the next job, or even with the next partner. Until you give up the idea that happiness is somewhere else, it will never be where you are.
+
+# See Also
+
+* [Hedonic Happiness & Eudaimonic Happiness](hedonic-happiness-and-eudaimonic-happiness.md)
 
 ---
 
