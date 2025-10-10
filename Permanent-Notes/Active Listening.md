@@ -1,7 +1,7 @@
 ---
 title: Active Listening
 created: 2024-11-18T09:18:12
-modified: 2025-08-30T16:58:06
+modified: 2025-10-10T12:52:55
 ---
 
 > _“There is a difference between listening and waiting for your turn to speak.” — Simon Sinek_
@@ -12,9 +12,17 @@ modified: 2025-08-30T16:58:06
 
 ---
 
+= 主動傾聽 = 積極傾聽
+
+---
+
 [@covey7HabitsHighly2013]
 
 > _“Most people do not listen with the intent to understand; they listen with the intent to reply.” — Stephen R. Covey, The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change_
+
+---
+
+避免預設立場和選擇性聆聽
 
 ---
 
