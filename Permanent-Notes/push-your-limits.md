@@ -1,7 +1,7 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-09-27T17:38:29
+modified: 2025-10-10T06:46:23
 ---
 
 > _“Whether you think you can, or you think you can’t—you’re both right.” — Henry Ford_
@@ -84,6 +84,14 @@ Self-imposed limits, Self-limiting beliefs/stories, Self-sabotaging behaviors, e
 
 1. 習得性無助（Learned Helplessness）[^1] 的狗
 2. 綁在木樁的小象
+
+> While walking through an elephant camp, a woman noticed that the elephants were only being secured by a small rope around one ankle.
+> 
+> The huge animals were clearly capable of breaking the rope.
+> 
+> Confused, she asked one of the keepers why the elephants didn’t break the ropes and wander off.
+> 
+> “Well, when the elephants were very young, we used the same small rope, but at that age, it was strong enough to hold them. Now, even though they are much bigger, they still believe the rope can hold them, so they never try to break it.”
 
 # See Also
 
