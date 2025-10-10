@@ -1,7 +1,7 @@
 ---
 title: Breathing Techniques
 created: 2025-10-08T05:07:10
-modified: 2025-10-08T19:11:34
+modified: 2025-10-10T12:35:46
 ---
 
 * Breath Counting
@@ -49,3 +49,38 @@ modified: 2025-10-08T19:11:34
 * The Cyclic Hyperventilation (to increase alertness and enhance focus)
 	* Take a deep inhale through the nose, immediately followed by a deep exhale (active or passive) through the mouth
 	* Repeat 25x, then fully exhale until lungs are empty and hold for 15-30 seconds
+
+---
+
+我們的身體有兩套自主（或自律）神經系統：
+
+1. 負責「戰或逃（Fight or Flight）」的交感神經，使我們感到緊張、警覺。
+2. 負責「休息與消化（Rest and Digest）」的副交感神經，使我們感到安全、放鬆。
+
+當我們處於壓力狀態時，「交感神經」會被啟動，心跳加速、肌肉緊繃。而緩慢、深沉的呼吸，可以快速將自己引導回「副交感神經」模式中。
+
+以下是兩種我常用的呼吸法：
+
+## 4-7-8 呼吸法
+
+這個方法由 [Andrew Weil](https://www.drweil.com/videos-features/videos/breathing-exercises-4-7-8-breath/) 博士推廣，能幫助身體快速放鬆，甚至有助於睡眠：
+
+1. **吸氣（4 秒）:** 用鼻子緩緩吸氣，默數 4 秒。
+2. **憋氣（7 秒）:** 屏住呼吸，默數 7 秒。
+3. **吐氣（8 秒）:** 用嘴巴緩緩吐氣，持續 8 秒。
+4. 重複 3–5 次，就能感覺到身心明顯平靜下來。
+
+## 箱式呼吸法（Box Breathing）
+
+這是美國海豹部隊用來在壓力下保持冷靜的技巧：
+
+1. **吸氣（4 秒）:** 用鼻子緩緩吸氣，默數 4 秒。
+2. **憋氣（4 秒）:** 屏住呼吸，默數 4 秒。
+3. **吐氣（4 秒）:** 用嘴巴緩緩吐氣，默數 4 秒。
+4. **憋氣（4 秒）:** 再次屏住呼吸，默數 4 秒。
+
+[想像一個正方形，每個邊都是 4 秒](https://sketchplanations.com/box-breathing)，跟著節奏繞行，就能穩定心率，找回專注。
+
+如果你想找個工具輔助，可以試試 [The Breathing App](https://www.thebreathing.app/)。它沒有任何多餘的設計，只專注於一件事：引導你呼吸。
+
+無論多忙，你都值得一個「重新整理」的機會。現在就放下手邊任務，閉上眼，專注呼吸一分鐘。這是隨時能送給自己的一份最好的禮物！
