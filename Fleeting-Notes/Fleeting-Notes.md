@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-08T20:41:48
+modified: 2025-10-10T06:54:09
 ---
 
 Spend 30 minutes daily…
@@ -138,30 +138,6 @@ brought into the world to do
 
 Falling vs Growing in Love
 
-While walking through an elephant camp, a woman noticed that the elephants were only being secured by a small rope around one ankle.
-
-The huge animals were clearly capable of breaking the rope.
-
-Confused, she asked one of the keepers why the elephants didn’t break the ropes and wander off.
-
-“Well, when the elephants were very young, we used the same small rope, but at that age, it was strong enough to hold them. Now, even though they are much bigger, they still believe the rope can hold them, so they never try to break it.”
-
-Beware of destination addiction: The idea that happiness is in the next place, the next job, or even with the next partner. Until you give up the idea that happiness is somewhere else, it will
-
-never be where you are.
-
-“I have noticed that nothing I never said ever did me any harm.” — Calvin Coolidge
-
-Kinetic energy is potential energy in action
-
-A martial arts student approaches his teacher and asks, “How long will it take me to master this craft?”
-
-The teacher replies, “10 years.”
-
-The student, looking impatient, responds, “I want to master it faster than that. I will work harder than anyone else. I will push myself to practice for many hours every single day. I won’t rest until I become a master. How long will it take then?”
-
-The teacher considers this new information, smiles, and answers, “20 years.”
-
 Microsoft’s Human Factors Lab studied 14 participants across two days of video meetings, with Day 1 comprised of four back-to-back 30-minute meetings and Day 2 comprised of four 30-minute meetings with 10-minute breaks in between. The researchers found that the breaks increased performance significantly (as measured by frontal alpha symmetry, a brain state connected to levels of engagement).
 
 Back in the Vietnam days, soldiers in Vietnam had access to almost any narcotic they wanted from local friendly Vietnamese. A great many got quite seriously addicted to opiates like morphine. But then they came home, and for the most part they just stopped using morphine on their own. Few became addicts.
@@ -205,10 +181,6 @@ Rückenfigur is a technique in composition where a person is included in the sce
 ---
 
 [Rückenfigur](https://sketchplanations.com/ruckenfigur)
-
----
-
-In his On the Shortness of Life, Seneca wrote, “We are not given a short life but we make it short, and we are not ill-supplied but wasteful of it.”
 
 ---
 
