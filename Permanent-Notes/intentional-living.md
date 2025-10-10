@@ -1,7 +1,7 @@
 ---
 title: Intentional Living
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-10-10T06:57:59
 ---
 
 > _“Get busy living, or get busy dying.” — Stephen King_
@@ -13,6 +13,8 @@ modified: 2025-08-29T08:30:45
 > _“You only live once, but if you do it right, once is enough.” — Mae West_
 
 > _“Life, if well lived, is long enough.” — Seneca_
+
+> _“We are not given a short life but we make it short, and we are not ill-supplied but wasteful of it.” — Seneca_
 
 > _“I don’t want to get to the end of my life and find that I just lived the length of it. I want to live the width of it as well.” — Diane Ackerman_
 
