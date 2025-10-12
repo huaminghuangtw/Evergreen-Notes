@@ -1,7 +1,7 @@
 ---
 title: Delegation
 created: 2024-11-18T09:18:12
-modified: 2025-10-10T06:43:11
+modified: 2025-10-10T17:25:30
 ---
 
 # How to delegate tasks that are hard to do?
@@ -15,4 +15,5 @@ If you can afford to, delegate it. If you can’t yet afford to, automate it. [T
 ---
 
 Never automate something that can be eliminated.
+
 Never delegate something that can be automated or streamlined.
