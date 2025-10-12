@@ -1,10 +1,12 @@
 ---
 title: Systems Thinking
 created: 2024-11-18T09:18:12
-modified: 2025-10-05T17:30:11
+modified: 2025-10-12T16:35:39
 ---
 
 > _“The whole is greater than the sum of its parts.” — Aristotle_
+
+> _“Thinking in Systems emphasizes finding the goals of the system. As Meadows put it, we discover these goals by asking, “What is the system trying to achieve?” ― Leidy Klotz, [Subtract: The Untapped Science of Less](https://www.goodreads.com/work/quotes/79888731)_
 
 ---
 
@@ -38,6 +40,10 @@ The Hermeneutic Circle describes a cyclical process of understanding where one�
 ---
 
 [Complex Systems Emerge From Iterations On Simple Designs](https://nav.al/iterate) by Naval Ravikant
+
+## See Also
+
+* [Simple is beautiful](simple-is-beautiful.md)
 
 ---
 
