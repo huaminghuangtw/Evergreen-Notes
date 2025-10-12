@@ -1,7 +1,7 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2025-09-27T17:38:29
+modified: 2025-10-12T16:41:47
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -83,7 +83,7 @@ A simple decision-making framework created by author and speaker Suzy Welch. The
 
 When faced with any key decision, you effectively choose one of two potential characters: _**Investor**_ or _**Borrower**_.
 
-* The Investor is a long-term thinker who makes an investment to [delay gratification](Delayed%20Gratification.md).
+* The Investor is a long-term thinker who makes an investment to [delay gratification](delayed-gratification.md).
 	* Investments compound positively and the future self cashes in on the rewards.
 * The Borrower is a short-term thinker who takes out a loan to [experience pleasure now](instant-gratification.md).
 	* Loans accrue interest negatively and the future self is stuck with the bill.
