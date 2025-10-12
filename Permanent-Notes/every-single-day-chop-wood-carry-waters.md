@@ -1,7 +1,7 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2025-10-05T16:04:13
+modified: 2025-10-12T16:11:54
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -52,6 +52,16 @@ There is a Zen Buddhist saying: “What do you do before enlightenment? _Chop w
 * 一步一步來，有一才有二
 * Take one step at a time. Walk before you run.
 * 「修身、齊家、治國、平天下」
+
+---
+
+Behaviors are unlikely to stick unless they are repeated.
+
+Lessons are unlikely to stick unless they are repeated.
+
+Love is unlikely to stick unless it is repeated.
+
+The practice solidifies.
 
 ---
 
@@ -145,7 +155,7 @@ There’s a magic in showing up on your bad days. The choice is yours. Choose wi
 
 * [Frameworks to achieve any goals](Frameworks%20to%20achieve%20any%20goals.md)
 * [Just focus on the next decision](just-focus-on-the-next-decision.md)
-* [The Compounding Effect](The%20Compounding%20Effect.md)
+* [The Compounding Effect](the-compounding-effect.md)
 * [Journey over destination](Journey%20over%20destination.md)
 * [The Growth Mindset](the-growth-mindset.md)
 
