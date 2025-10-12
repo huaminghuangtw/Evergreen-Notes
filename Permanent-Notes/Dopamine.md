@@ -1,7 +1,7 @@
 ---
 title: Dopamine
 created: 2024-11-18T09:18:12
-modified: 2025-10-07T14:18:15
+modified: 2025-10-12T16:41:47
 ---
 
 > _“Persons with severe addictions are among those contemporary prophets that we ignore to our own demise, for they show us who we truly are. (重度成癮者是當代的預言家，不把他們當一回事，沒有好下場的是我們，因為他們反映的正是我們真實的面貌)” — Kent Dunnington_
@@ -83,7 +83,7 @@ Cheap (Fake) Dopamine (associated with [short-term thinking](instant-gratificati
 	* Then we need more dopamine to beat the previous dopamine spike/hit/high.
 * Often associated with _**struggle**_
 
-Natural (Real) Dopamine (associated with [long-term thinking](Delayed%20Gratification.md))
+Natural (Real) Dopamine (associated with [long-term thinking](delayed-gratification.md))
 
 * [Reprogram yourself](a-true-transformation-begins-with-a-mental-shift.md) so that [uncomfortable is your default factory setting](push-your-limits.md). Constantly [do hard things](do-hard-things.md) that make you feel terrified/scared. That’s how you grow.
 
