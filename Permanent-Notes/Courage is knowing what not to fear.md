@@ -1,7 +1,7 @@
 ---
 title: Courage is knowing what not to fear
 created: 2025-04-11T19:02:45
-modified: 2025-10-05T20:51:19
+modified: 2025-10-11T08:22:01
 ---
 
 > _[“Success is not final, failure is not fatal: it is the courage to continue that counts.” — Winston Churchill](https://www.youtube.com/watch?v=uuxMZL6ieWM)_
@@ -28,7 +28,7 @@ modified: 2025-10-05T20:51:19
 
 ---
 
-[Courage is who you are when it's inconvenient. When no one is watching. When the rewards are uncertain. When the outcomes are unpredictable.](https://x.com/SahilBloom/status/1910310140995416458)
+[Courage is who you are when it’s inconvenient. When no one is watching. When the rewards are uncertain. When the outcomes are unpredictable.](https://x.com/SahilBloom/status/1910310140995416458)
 
 ---
 
