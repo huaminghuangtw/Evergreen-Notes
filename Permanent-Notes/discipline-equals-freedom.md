@@ -1,7 +1,7 @@
 ---
 title: Discipline equals freedom
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-10-12T16:41:41
 ---
 
 > _[“Discipline is doing what you hate to do, but nonetheless doing it like you love it.” — Mike Tyson](https://x.com/MikeTyson/status/1051925919710027777)_
@@ -28,7 +28,7 @@ Discipline is like being a wise parent to your inner child. The more disciplined
 
 ---
 
-Discipline now, freedom later. [Discipline equals freedom.](https://www.goodreads.com/book/show/23848190-extreme-ownership) You have to sacrifice short-term freedom in order to earn long-term freedom. Sacrifice is the cost of entry. [Delayed gratification](Delayed%20Gratification.md) is the key to building the life you want.
+Discipline now, freedom later. [Discipline equals freedom.](https://www.goodreads.com/book/show/23848190-extreme-ownership) You have to sacrifice short-term freedom in order to earn long-term freedom. Sacrifice is the cost of entry (入場費). [Delayed gratification](delayed-gratification.md) is the key to building the life you want.
 
 ---
 
