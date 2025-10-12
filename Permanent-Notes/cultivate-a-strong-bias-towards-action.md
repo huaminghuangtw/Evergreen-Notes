@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2025-10-07T04:42:43
+modified: 2025-10-12T16:47:48
 ---
 
 > _“To be is to do.” — Immanuel Kant_
@@ -94,6 +94,10 @@ When people talk about traveling to the past, they worry about radically changin
 ---
 
 當一個「用手思考」的人
+
+---
+
+Remember: [The world is run by people no smarter than you.](https://www.swyx.io/no-smarter) Talent and intelligence are abundant. [Courage](Courage%20is%20knowing%20what%20not%20to%20fear.md) is not. The most successful people he’s met aren’t the smartest. They’re the ones who had the courage to act. They’re the ones who [stayed curious](Stay%20curious.md) long enough for compounding to kick in. [They aren’t more talented than you.](https://x.com/SahilBloom/status/1925539032261624157) They just took action when you didn’t.
 
 ---
 
@@ -200,6 +204,22 @@ There is no later, because later you’ll be [dead](death.md).
 > Reading about how to do the thing isn’t doing the thing. Reading about how other people did the thing isn’t doing the thing. Reading this essay isn’t doing the thing.
 >
 > _The only thing that is doing the thing is doing the thing._
+
+---
+
+> _“It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better.” — Theodore Roosevelt_
+
+The line — from Theodore Roosevelt’s famous 1910 speech “Citizenship in a Republic” (often called “The Man in the Arena” speech) — captures a timeless idea about courage, effort, and authenticity.
+
+Roosevelt is saying that those who merely judge or comment from the sidelines — the critics, commentators, or spectators — do not truly matter in the grand scheme of things. It’s easy to stand back, point out mistakes, and explain what others should have done. But that kind of talk costs nothing.
+
+In contrast, the person who actually steps into the arena — who tries, fails, struggles, and keeps going — is the one who deserves respect. The “strong man” in this passage represents the person who takes real action, who risks failure and criticism in pursuit of something meaningful.
+
+Roosevelt’s deeper point is this:
+
+* Effort matters more than [perfection](perfectionism.md).
+* [Courage](Courage%20is%20knowing%20what%20not%20to%20fear.md) matters more than comfort.
+* Doing matters more than [judging](dispel-your-narratives.md).
 
 [^1]: _“The professional learns to recognize envy-driven criticism and to take it for what it is: the supreme compliment. The critic hates most that which he would have done himself if he had had the guts.” ― Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
 [^2]: _“The artist cannot look to others to validate his efforts or his calling. If you don’t believe me, ask Van Gogh, who produced masterpiece after masterpiece and never found a buyer in his whole life.” ― Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
