@@ -1,7 +1,7 @@
 ---
 title: Always do your best as possible
 created: 2024-11-18T09:18:12
-modified: 2025-10-07T16:54:48
+modified: 2025-10-11T12:16:54
 ---
 
 > _“If you deliberately plan to be less than you are capable of being, then I warn you that you’ll be deeply unhappy for the rest of your life.” — Abraham Maslow_
@@ -72,3 +72,9 @@ Quality over Quantity. Depth over Width.
 > **全心投入、傾注靈魂與熱情去做一件事**。
 
 具體來說，當一個人用「愛、創意與熱忱」完成某件事（無論是工作、料理、寫作或教學）時，就展現了 Meraki 的精神。
+
+---
+
+> _“When you show yourself to the world and display your talents, you naturally stir all kinds of resentment, envy, and other manifestations of insecurity. You cannot spend your life worrying about the petty feelings of others.” ― Robert Greene, The 48 Laws of Power_
+
+[Average is addictive. It’s applauded by the crowd. You won’t be criticized for staying the same. You’ll be encouraged. When you’re on your journey to growth, some people won’t like it. They’ll criticize your every move because it doesn’t blend in with the crowd. But recognize one truth: This is fundamentally not about you. Your growth, focus, and improvement are exposing something in them: Their insecurities, their fears, their lack of ambition.](https://www.sahilbloom.com/newsletter/the-costs-of-entry-in-life)
