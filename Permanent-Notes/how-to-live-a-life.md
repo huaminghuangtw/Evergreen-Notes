@@ -1,7 +1,7 @@
 ---
 title: How to live a life
 created: 2024-11-18T09:18:12
-modified: 2025-10-07T04:42:43
+modified: 2025-10-10T20:36:12
 ---
 
 > _“As long as you live, keep learning how to live.” — Seneca_
@@ -41,10 +41,6 @@ Life is neither a problem to be solved nor a game to be won.
 ---
 
 [Life isn't just about where we're going, but how we get there.](Journey%20over%20destination.md)
-
----
-
-[Life is not a debate—it's not about winning the argument or being right.](https://tim.blog/2018/08/02/ann-miura-ko/) Winning an argument doesn’t make you right. Someone might win an argument and still be wrong. Being good at debating is not the same as being right.
 
 ---
 
