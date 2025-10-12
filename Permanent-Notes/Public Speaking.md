@@ -1,7 +1,7 @@
 ---
 title: Public Speaking
 created: 2025-01-23T10:40:57
-modified: 2025-09-25T19:30:24
+modified: 2025-10-12T16:35:39
 ---
 
 ![](../_attachments/6c8f79badba8703f7e8f9c978dca4d9c.webp)
@@ -96,7 +96,7 @@ The goal of any pitches/presentations: understandable/easy-to-understand for oth
 * **Symbol:** Use a visual symbol to make your idea stick.
 * **Slogan:** Find and deliver a simple, catchy slogan for the central idea.
 * **Surprise:** The human brain loves novelty. Make sure to highlight the contrarian, counterintuitive, or surprising details of the idea.
-* **Salient:** Focus, [less is more.](Simple%20is%20beautiful.md)Determine the most salient pieces and deliver those succinctly. Avoid unnecessary fluff.
+* **Salient:** Focus, [less is more.](simple-is-beautiful.md)Determine the most salient pieces and deliver those succinctly. Avoid unnecessary fluff.
 * **Story:** People love stories. Use human storytelling to simplify, spark emotion, and make a presentation more relatable and memorable.
 
 ---
