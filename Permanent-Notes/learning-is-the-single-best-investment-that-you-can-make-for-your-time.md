@@ -1,10 +1,10 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-10-07T06:23:43
+modified: 2025-10-12T08:12:59
 ---
 
-Financial [Compounding](The%20Compounding%20Effect.md) → Intellectual Compounding
+Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
 
 ---
 
