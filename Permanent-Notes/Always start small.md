@@ -1,7 +1,7 @@
 ---
 title: Always start small
 created: 2025-03-05T05:32:10
-modified: 2025-10-07T04:42:43
+modified: 2025-10-12T08:12:59
 ---
 
 > _“It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith_
@@ -24,7 +24,7 @@ A [habit](be-a-habit-and-routine-machine.md) must be first _established_ before 
 * “The Mamba Mentality” by Kobe Bryant
 	* Try to get 1% better at what your are doing every single day.
 * [“Marginal Gains” by Sir David Brailsford](https://www.youtube.com/watch?v=THNBIQenywc)
-	* Pay attention to every little detail, and then trying to improve it by 1%, will have massive [compound](The%20Compounding%20Effect.md) benefits when added together in the long run.
+	* Pay attention to every little detail, and then trying to improve it by 1%, will have massive [compound](the-compounding-effect.md) benefits when added together in the long run.
 * [Marginal Adjustments](https://youtu.be/TQMbvJNRpLE)
 
 ---
@@ -35,7 +35,7 @@ If you spend 100 hours a year in any discipline (which is only 18 minutes a day)
 
 ---
 
-Anything above zero [compounds](The%20Compounding%20Effect.md) positively
+Anything above zero [compounds](the-compounding-effect.md) positively
 
 * One doesn’t seem like much, but it’s something real. At zero, you’re still dreaming.
 * Two is twice as good as one, but one is infinitely better than zero.
