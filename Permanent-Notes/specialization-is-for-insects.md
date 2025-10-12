@@ -1,7 +1,7 @@
 ---
 title: Specialization is for insects
 created: 2025-01-23T10:40:57
-modified: 2025-10-04T09:33:25
+modified: 2025-10-11T08:27:47
 ---
 
 > _“At some level, all humans are broad. We’re all multivariate/multifaceted, but we get summarized in pithy ways in our lives.” — Naval Ravikant_
@@ -11,6 +11,8 @@ modified: 2025-10-04T09:33:25
 > _“A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.” — Robert A. Heinlein_
 
 > _“Try to learn something about everything and everything about something.” — Thomas Huxley_
+
+> _[“Someone with B+ intelligence in several fields likely has a better grasp of how the world works than someone with A+ intelligence in one field.” — Morgen Housel](https://collabfund.com/blog/different-kinds-of-smart)_
 
 ---
 
