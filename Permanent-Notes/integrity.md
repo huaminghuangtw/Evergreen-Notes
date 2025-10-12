@@ -1,7 +1,7 @@
 ---
 title: Integrity
 created: 2025-02-03T05:30:54
-modified: 2025-10-09T17:47:50
+modified: 2025-10-11T21:24:41
 ---
 
 You are the hostage to the things you say.
@@ -23,6 +23,13 @@ You must have your own **moral codes / internal yardstick** which you trying to 
 * 「言行合一」
 * 「嚴格執行」
 * 「以身作則」
+
+---
+
+1. 禮
+2. 義
+3. 廉
+4. 恥
 
 ---
 
