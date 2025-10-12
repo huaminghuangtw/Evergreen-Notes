@@ -1,9 +1,11 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-10-06T16:10:49
+modified: 2025-10-12T08:32:06
 ---
 
+> _“Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes_
+comp
 > _We are what we believe we are.” — C.S. Lewis_
 
 > _“Talk to yourself like you talk to someone you love.” — Brené Brown_
@@ -49,6 +51,8 @@ At any given moment you have the power to say: “This is not how the story is g
 自證預言 = 自我實現預言 = 自我應驗預言 = Self-Fulfilling Prophecy ≈ 心理暗示
 
 ---
+
+Pay close attention to the stories you tell yourself, because stories create your reality.
 
 The quality of your stories impacts the quality of your life.
 
