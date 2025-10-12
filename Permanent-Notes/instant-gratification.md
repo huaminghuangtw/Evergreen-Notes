@@ -1,7 +1,7 @@
 ---
 title: Instant Gratification
 created: 2024-11-18T09:18:12
-modified: 2025-10-01T05:34:14
+modified: 2025-10-12T16:41:47
 ---
 
 = Immediate Gratification = Cheap Dopamine
@@ -53,7 +53,7 @@ Temptation is an ever-present failure trigger.
 
 ## See Also
 
-* [Delayed Gratification](Delayed%20Gratification.md)
+* [Delayed Gratification](delayed-gratification.md)
 
 [^1]: The human brain evolved for _survival_, not _rationality_.
 [^2]: 聲、光、影效果的刺激
