@@ -1,7 +1,7 @@
 ---
 title: Do great work
 created: 2024-11-18T09:18:12
-modified: 2025-10-07T11:47:08
+modified: 2025-10-12T08:12:59
 ---
 
 > _“Good is the enemy of great.” — [@collinsGoodGreatWhy2001]_
@@ -62,7 +62,7 @@ If it’s worth doing, it’s worth doing very well.
 
 ---
 
-The margin between **good** and **great** is narrower than it seems. What begins as a slight edge over the competition [compounds](The%20Compounding%20Effect.md) with each additional contest.
+The margin between **good** and **great** is narrower than it seems. What begins as a slight edge over the competition [compounds](the-compounding-effect.md) with each additional contest.
 
 ---
 
