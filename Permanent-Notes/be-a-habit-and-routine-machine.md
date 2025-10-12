@@ -1,7 +1,7 @@
 ---
 title: Be a habit and routine machine
 created: 2024-11-18T09:18:12
-modified: 2025-10-04T09:29:33
+modified: 2025-10-12T08:12:59
 ---
 
 > _“We are what we repeatedly do every day. Excellence, then, is not an act, but a habit.” — Will Durant_
@@ -68,7 +68,7 @@ More often than not (= usually)
 		* PM Bookend: The evening ritual that primes you for _recovery_
 	* Analogy
 		* Books on a shelf will topple over if you don’t give them support. Bookends provide structure on either end to keep the books in their best state! The contents of your days are like a set of books. You can never predict what will happen during the course of a day. Some days will have you toppling left, and other days you’ll topple right. But by creating your own set of “bookends”, you set up yourself to be better supported and show up at your best every day.
-	* Create a [positive ripple effect](The%20Compounding%20Effect.md) and help set the tone for a smooth and productive day.
+	* Create a [positive ripple effect](the-compounding-effect.md) and help set the tone for a smooth and productive day.
 * **Micro Habits**
 	* Habit that are small, often subtle actions that occur almost unconsciously, yet they have the potential to significantly influence our state of mind.
 	* They happen at a moment called “The Point of Contact”
