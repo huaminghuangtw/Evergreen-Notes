@@ -1,10 +1,12 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2025-10-07T06:20:54
+modified: 2025-10-11T08:10:51
 ---
 
 > _“Resilience is not what happens to you. It’s how you [react to, respond to](choose-your-response.md), and recover from what happens to you.” — Jeffrey Gitomer_
+
+> _“The struggle you’re in today is developing the strength you need for tomorrow.” — Robert Tew_
 
 > _“The obstacle is the way.” — Marcus Aurelius_
 
