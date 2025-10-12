@@ -1,7 +1,7 @@
 ---
 title: Solitude
 created: 2024-11-18T09:18:12
-modified: 2025-07-25T11:17:17
+modified: 2025-10-11T07:39:11
 ---
 
 > _“To live alone, one must be either a beast or a god, says Aristotle. Leaving out the third case: one must be both — a philosopher.” — Nietzsche_
@@ -24,6 +24,6 @@ The person who is at ease within finds every other space larger and more enjoyab
 
 ---
 
-[Enjoy yourself, it's later than you think. Enjoy yourself, while you're still in the pink. The years go by, as quickly as a wink.](https://www.youtube.com/watch?v=nFxjnUPRwx4)
+[Enjoy yourself, it’s later than you think. Enjoy yourself, while you’re still in the pink. The years go by, as quickly as a wink.](https://www.youtube.com/watch?v=nFxjnUPRwx4)
 
 [^1]: Source: <https://jamesclear.com/3-2-1/july-24-2025>
