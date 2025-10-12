@@ -1,7 +1,7 @@
 ---
-title: 🍣 Sushi
+title: Sushi
 created: 2024-12-12T13:47:20
-modified: 2025-07-18T17:17:39
+modified: 2025-10-11T07:38:08
 ---
 
 Documentary: 壽司之神/Jiro Dreams of Sushi — Jiro Ono
