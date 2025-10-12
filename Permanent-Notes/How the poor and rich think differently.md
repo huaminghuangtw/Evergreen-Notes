@@ -1,14 +1,14 @@
 ---
 title: How the poor and rich think differently
 created: 2025-02-17T17:36:06
-modified: 2025-10-05T16:04:13
+modified: 2025-10-12T16:41:47
 ---
 
 | 窮人思維 | 富人思維 |
 |:---:|:---:|
 | 為了錢工作 | 讓錢為自己工作 |
 | 避免風險，害怕失敗與挫折 | 接受風險，從錯誤中學習 |
-| 思眼前，只看短期，[追求即時回報](instant-gratification.md) | 思未來，注重長期，[願意等待回報](Delayed%20Gratification.md) |
+| 思眼前，只看短期，[追求即時回報](instant-gratification.md) | 思未來，注重長期，[願意等待回報](delayed-gratification.md) |
 | 遇到困難就放棄 (量入為出) | 想辦法找到解決方案 (目標導向) |
 | Buy [Liabilities](Assets%20versus%20Liabilities.md) | Invest [Assets](Assets%20versus%20Liabilities.md) |
 | 消費者心態 | 生產者心態 |
