@@ -1,7 +1,7 @@
 ---
 title: Embrace the beauty of enoughness
 created: 2024-11-18T09:18:12
-modified: 2025-10-10T17:01:26
+modified: 2025-10-10T17:25:30
 ---
 
 > _「真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。」 — 沈芯菱_
@@ -35,8 +35,9 @@ If you’re not enough without [X], you’ll never be enough with [X].
 ---
 
 凡事…
-- 過猶不及
-- 「剛剛好」、「恰到好處」的藝術
+
+* 過猶不及
+* 「剛剛好」、「恰到好處」的藝術
 
 ---
 
