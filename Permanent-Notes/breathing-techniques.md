@@ -1,7 +1,7 @@
 ---
 title: Breathing Techniques
 created: 2025-10-08T05:07:10
-modified: 2025-10-10T12:35:46
+modified: 2025-10-10T17:25:30
 ---
 
 * Breath Counting
@@ -61,7 +61,7 @@ modified: 2025-10-10T12:35:46
 
 以下是兩種我常用的呼吸法：
 
-## 4-7-8 呼吸法
+# 4-7-8 呼吸法
 
 這個方法由 [Andrew Weil](https://www.drweil.com/videos-features/videos/breathing-exercises-4-7-8-breath/) 博士推廣，能幫助身體快速放鬆，甚至有助於睡眠：
 
@@ -70,7 +70,7 @@ modified: 2025-10-10T12:35:46
 3. **吐氣（8 秒）:** 用嘴巴緩緩吐氣，持續 8 秒。
 4. 重複 3–5 次，就能感覺到身心明顯平靜下來。
 
-## 箱式呼吸法（Box Breathing）
+# 箱式呼吸法（Box Breathing）
 
 這是美國海豹部隊用來在壓力下保持冷靜的技巧：
 
