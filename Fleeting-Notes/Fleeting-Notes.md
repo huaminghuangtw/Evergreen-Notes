@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-10T06:54:09
+modified: 2025-10-12T07:55:34
 ---
 
 Spend 30 minutes daily…
@@ -70,8 +70,6 @@ saying no to bad ideas. The best phrase to close a deal is ‘That was brilliant
 
 The Art of Negotiation: Letting the Other Side Go First
 
-the Limbo-Titrate-Quality approach was designed to motivate participants to achieve the lowest possible level of fat or carbohydrate intake, that is, an approach that was equally ambitious with maximal overall nutritional quality and a dietary pattern that could be continued for a lifetime.
-
 The Fosbury Flop
 
 But time just gets more and more expensive. We start out as time fat cats and end up in time poverty. The older you get, the more it makes sense to spend money to save time.
@@ -81,28 +79,6 @@ People tend to get wealthier as they get older, which is like everything becomin
 「意義治療法（Logotherapy）」
 
 以及「顯著性偏誤，正常化偏誤」
-
-Gautama Buddha
-
-Know from the rivers in clefts and in crevices: those in small channels flow noisily, the great flow silent. Whatever’s not full makes noise. Whatever is full is quiet.
-
-You need to win the Loser’s Game.
-
-You just want to stay in the game long enough to let the magic of compounding do its thing.
-
-“A big reason guys get stuck in the [development league] is because they don’t realize the position they’re trying out for. It’s like going to a job interview thinking you’re going to be the CFO of the company and they’re looking for someone to clean the bathrooms…it’s a self-awareness of understanding what you’re good at, what teams need, and trying to do that.”
-
-When asked about how he rose from undrafted nobody to this level of stardom, he said that self-awareness was the key:
-
-Alex Caruso entered the NBA’s development league after going undrafted in 2016. A few years later, he was a key player leading the Los Angeles Lakers to an NBA championship.
-
-You don’t need talent or luck to win a Loser’s Game—you just need to keep showing up.
-
-Professional tennis is a Winner’s Game: 80% of points are won on incredible shots. You win by hitting incredible shots.
-
-Amateur tennis is a Loser’s Game: 80% of points are lost on unforced errors. You win by avoiding errors and waiting for your opponent to make errors.
-
-In the 1999 tennis book, Extraordinary Tennis for the Ordinary Tennis Player, author Simon Ramo broke down the difference between amateur and professional tennis, writing that they were two different types of games:
 
 肯定有一種最佳距離，不會讓人因為過於 親近而受傷，也不會因為太過疏遠而感到 孤單
 
@@ -155,10 +131,6 @@ The conclusion was simple-- when life sucks, addiction has a much more powerful 
 ---
 
 Legendary American football coach
-
----
-
-Pay close attention to the stories you tell yourself, because stories create your reality.
 
 ---
 
@@ -335,10 +307,6 @@ Compare your behind-the-scenes life to others’ curated highlight reel
 ---
 
 排序 = 排定優先順序
-
----
-
-零和 \& 正和遊戲
 
 ---
 
