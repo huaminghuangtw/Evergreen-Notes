@@ -1,7 +1,7 @@
 ---
 title: Frameworks to structure your day
 created: 2025-01-23T18:40:57
-modified: 2025-09-05T03:22:20
+modified: 2025-10-11T07:59:26
 ---
 
 > _[Live life by design, not default.](https://fs.blog/david-foster-wallace-this-is-water/) Make each day your masterpiece. How you spend your days is how you spend your life._
@@ -10,10 +10,14 @@ modified: 2025-09-05T03:22:20
 
 ---
 
-* Just as [“constraints” in mathematical optimization](https://en.wikipedia.org/wiki/Constrained_optimization) help find the best solution, design a lifestyle by defining a clear boundary for your ideal day and optimizing within it—_rather than the other way around._ If something pulls you outside that box, simply say, “No, thank you.”
-	* _[“Look for a way of life, not goals. Identify how you want to live, not what you want to achieve. Within that lifestyle, see what you can do to make a living.” — Hunter S. Thompson](https://www.notion.so/beca85a66c624275b80ffb4faae2b44c)_
-	* _“Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.” — Celestine Chua_
-	* _“Don’t let making a living prevent you from making a life.” — John Wooden_
+* 自由裡的框架，框架裡的自由：Just as [“constraints” in mathematical optimization](https://en.wikipedia.org/wiki/Constrained_optimization) help find the best solution, design a lifestyle by defining a clear boundary for your ideal day and optimizing within it—_rather than the other way around._ If something pulls you outside that box, simply say, “No, thank you.”
+
+	> _[“Look for a way of life, not goals. Identify how you want to live, not what you want to achieve. Within that lifestyle, see what you can do to make a living.” — Hunter S. Thompson](https://www.notion.so/beca85a66c624275b80ffb4faae2b44c)_
+
+	> _“Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.” — Celestine Chua_
+
+	> _“Don’t let making a living prevent you from making a life.” — John Wooden_
+
 * [Spend a handful of hours a day going fast. Crush a gym session. Do deep work on a project you care about. Spend the rest of the day going slow. Take walks. Read books. Get a long dinner with friends. Either way, avoid the anxious middle where you never truly relax or truly move forward.](https://x.com/charlesmiller_7/status/1897358851776610720)
 	* See also: [Work in sprints, work with your biology](work-in-sprints-work-with-your-biology.md)
 * Think of life as units of days. Think of a day as units of time.
