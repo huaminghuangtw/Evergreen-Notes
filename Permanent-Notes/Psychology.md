@@ -1,7 +1,7 @@
 ---
 title: Psychology
 created: 2024-11-18T09:18:12
-modified: 2025-10-09T07:28:40
+modified: 2025-10-11T07:55:33
 ---
 
 * Egocentric Bias
@@ -53,5 +53,5 @@ modified: 2025-10-09T07:28:40
 	* People tend to…
 		* avoid options that we consider to be ambiguous (i.e., a lack of information)
 		* select options for which the probability of a favorable outcome is _known_, over an option for which the probability of a favorable outcome is _unknown_.
-* [The Halo Effect](The%20Halo%20Effect.md)
+* [The Halo Effect](the-halo-effect.md)
 * [Stanford Prison Experiment](stanford-prison-experiment.md)
