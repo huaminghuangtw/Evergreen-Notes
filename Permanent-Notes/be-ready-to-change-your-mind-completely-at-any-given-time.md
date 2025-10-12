@@ -1,7 +1,7 @@
 ---
 title: Be ready to change your mind completely at any given time
 created: 2024-12-04T15:59:39
-modified: 2025-10-06T15:04:24
+modified: 2025-10-12T16:15:10
 ---
 
 > _[“Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won’t come in.” — Alan Alda](https://www.goodreads.com/quotes/667214-your-assumptions-are-your-windows-on-the-world-scrub-them)_
@@ -63,6 +63,7 @@ The only bad view is the one you’re stuck in.
 * [The Ship of Theseus](The%20Ship%20of%20Theseus.md)
 * [Reflect & Review](reflect-and-review.md)
 * [The Streetlight Effect](The%20Streetlight%20Effect.md)
+* [Maslow’s Hammer](maslows-hammer.md)
 
 [^1]: This is called “[Integrative Complexity](https://psychology.iresearchnet.com/social-psychology/decision-making/integrative-complexity/)” in Psychology
 [^2]: To remain “stupid” means refusing to learn, refusing to think, or deliberately avoiding knowledge and growth.
