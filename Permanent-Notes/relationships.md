@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-10-09T07:35:05
+modified: 2025-10-12T16:14:01
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -102,6 +102,10 @@ When we find ourselves in an argument or debate with someone, we often become mo
 
 ---
 
+Remember: [Life is not a debate—it's not about winning the argument or being right.](https://tim.blog/2018/08/02/ann-miura-ko/) Winning an argument doesn’t make you right. Someone might win an argument and still be wrong. Being good at debating is not the same as being right.
+
+---
+
 # Iron Man vs. Straw Man: Why You Should Build Strong Arguments for Ideas You Disagree With
 
 How to overcome **the straw man argument**? use **the steel/iron man argument**: Instead of going on the attack, we help our opponent to build the _strongest possible version_ of their argument, and then engage with _that_.
@@ -172,7 +176,7 @@ Humans can maintain about 150 stable, meaningful relationships due to cognitive 
 
 ---
 
-[Money](money.md) [compounds](The%20Compounding%20Effect.md) fast but trust compounds even more.
+[Money](money.md) [compounds](the-compounding-effect.md) fast but trust compounds even more.
 
 ---
 
@@ -186,6 +190,9 @@ While small talk (= idle talk = chitchat) has its place ,[^2] real bonding/conve
 
 * builds unbreakable bonds that transcend time and distance.
 * releases oxytocin, a chemical that creates feelings of love and connection.
+
+True connection often come from overcoming challenges together.
+True bonds are often forged through adversity.
 
 ---
 
