@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-12T07:55:34
+modified: 2025-10-13T06:29:07
 ---
 
 Spend 30 minutes daily…
@@ -114,8 +114,6 @@ brought into the world to do
 
 Falling vs Growing in Love
 
-Microsoft’s Human Factors Lab studied 14 participants across two days of video meetings, with Day 1 comprised of four back-to-back 30-minute meetings and Day 2 comprised of four 30-minute meetings with 10-minute breaks in between. The researchers found that the breaks increased performance significantly (as measured by frontal alpha symmetry, a brain state connected to levels of engagement).
-
 Back in the Vietnam days, soldiers in Vietnam had access to almost any narcotic they wanted from local friendly Vietnamese. A great many got quite seriously addicted to opiates like morphine. But then they came home, and for the most part they just stopped using morphine on their own. Few became addicts.
 
 Of course scientists couldn’t figure out why, as morphine is powerfully addictive. There were many experiments on addiction using rats in cages, none of which explained how easily the soldiers gave up morphine. The result was always the sameget the rat addicted to morphine, and stayed addicted. Take away the morphine and the rat goes into withdrawal and flips out.
@@ -130,10 +128,6 @@ The conclusion was simple-- when life sucks, addiction has a much more powerful 
 
 ---
 
-Legendary American football coach
-
----
-
 The Narrative Fallacy is the tendency to craft a story around data, events, and inputs. Basically, our brains like to “make sense” of the random chaos around us, so the stories provide that structure—they provide a sense of calm.
 
 Therefore, the original stories are often the ones that gets preserved and deeply entrenched:
@@ -141,18 +135,11 @@ Therefore, the original stories are often the ones that gets preserved and deepl
 New information is massaged to fit that story, or rejected if it doesn’t.
 
 ---
-
-OVER-RELIANCE ON THE HEAD Another way of putting it is like this: learn to listen to your gut and start trusting it a bit more. In the West, we have a head-driven culture, where we think we can explain and rationalize everything with our minds. We ignore the fact that some of the deepest intelligence we have, as humans, is located deep within our bodies.
-
----
+[Rückenfigur](https://sketchplanations.com/ruckenfigur)
 
 Rücken (back) and Figur (figure), which roughly translates to “figure seen from behind.”
 
 Rückenfigur is a technique in composition where a person is included in the scene facing out to the view rather than at the viewer.
-
----
-
-[Rückenfigur](https://sketchplanations.com/ruckenfigur)
 
 ---
 
