@@ -1,13 +1,12 @@
 ---
 title: Addition by subtraction
 created: 2025-10-12T16:17:30
-modified: 2025-10-12T16:35:39
+modified: 2025-10-12T18:43:32
 ---
 
 > _“Legos encourage endless adding, especially when you have a dad who supports your habit. In Jenga (樂高), the rules promote balance. Jenga forces us to subtract first, requiring that we pull out a block from one of the lower levels before we add to the top level. Sure, Lego’s adding approach has been good for business; but so has Jenga’s mandate to subtract first. It was the game’s novel subtracting rules that Leslie Scott copyrighted, to the tune of one hundred million copies sold.” ― Leidy Klotz, [Subtract: The Untapped Science of Less](https://www.goodreads.com/work/quotes/79888731)_
 
 ---
-
 
 # [«The Christmas Tree Effect» by David Epstein](https://davidepstein.substack.com/p/the-christmas-tree-effect)
 
