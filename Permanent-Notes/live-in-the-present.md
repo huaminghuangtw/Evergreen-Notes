@@ -1,7 +1,7 @@
 ---
 title: Live in the present
 created: 2024-11-18T09:18:12
-modified: 2025-09-29T05:21:37
+modified: 2025-10-13T17:49:45
 ---
 
 > _“It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.” — Dr. Robert Hutchings Goddard_
@@ -41,6 +41,8 @@ modified: 2025-09-29T05:21:37
 > _“Think of yourself in a concert hall listening to the strains of the sweetest music when you suddenly remember that you forgot to lock your car. You are anxious about the car, you cannot walk out of the hall and you cannot enjoy the music. There you have a perfect image of life as it is lived by most human beings.” — Anthony de Mello_
 
 > _“Realize deeply that the present moment is all you ever have.” — Eckhart Tolle_
+
+> _[“I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is.” — Alan Watts](https://www.goodreads.com/quotes/172061-i-have-realized-that-the-past-and-future-are-real)_
 
 ---
 
