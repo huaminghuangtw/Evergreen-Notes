@@ -1,7 +1,7 @@
 ---
 title: Information Overwhelm
 created: 2024-11-18T09:18:12
-modified: 2025-10-12T16:26:21
+modified: 2025-10-12T18:43:32
 ---
 
 > _“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” ― T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654)_
@@ -9,7 +9,6 @@ modified: 2025-10-12T16:26:21
 > _Knowledge is cumulative. Intelligence is selective. It’s a matter of efficiency versus effectiveness._
 
 > _“The Chinese philosopher Lao Tzu advised, “To attain knowledge add things every day. To attain wisdom [subtract](addition-by-subtraction.md) things every day.” ― Leidy Klotz, [Subtract: The Untapped Science of Less](https://www.goodreads.com/work/quotes/79888731)_
-
 
 ---
 
