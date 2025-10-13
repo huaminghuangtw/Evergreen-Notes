@@ -1,7 +1,7 @@
 ---
 title: What Success Means To Me
 created: 2024-11-18T09:18:12
-modified: 2025-10-11T07:38:57
+modified: 2025-10-12T18:43:32
 ---
 
 > _[“Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable. And you're the only one that will know that.” — John Wooden](https://www.youtube.com/watch?v=JWQIxuNGdvQ&t=95s)_
@@ -71,7 +71,7 @@ modified: 2025-10-11T07:38:57
 
 ---
 
-當[只有自己一個人](solitude.md)的時候，對自己的看法
+當 [只有自己一個人](solitude.md) 的時候，對自己的看法
 
 > What do you think of yourself when you are by yourself?
 
