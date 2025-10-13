@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-10-12T16:14:01
+modified: 2025-10-12T18:43:32
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -192,6 +192,7 @@ While small talk (= idle talk = chitchat) has its place ,[^2] real bonding/conve
 * releases oxytocin, a chemical that creates feelings of love and connection.
 
 True connection often come from overcoming challenges together.
+
 True bonds are often forged through adversity.
 
 ---
