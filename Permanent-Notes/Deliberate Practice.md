@@ -1,10 +1,10 @@
 ---
 title: Deliberate Practice
 created: 2025-01-23T10:40:57
-modified: 2025-10-02T04:00:48
+modified: 2025-10-13T06:31:09
 ---
 
-> _“Practice does not make perfect. Perfect practice makes perfect.” — Vince Lombardi_
+> _“Practice does not make perfect. Perfect practice makes perfect.” — Vince Lombardi_ [^2]
 
 ---
 
@@ -63,3 +63,4 @@ Similar to the concept of Progressive Overload in Strength Training — “Reps,
 ![](../_attachments/42440623020bda3397d4c177a788d70a.png)
 
 [^1]: The phrase “on the edge of their ability” refers to someone operating at the boundary of their current skills, knowledge, or capacity/competence. It describes a sweet spot where a person is challenged to the fullest extent of what they are capable of achieving, often fostering growth and improvement through effort and practice.
+[^2]: A legendary American football coach
