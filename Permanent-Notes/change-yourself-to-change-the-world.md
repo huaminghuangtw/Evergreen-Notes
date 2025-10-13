@@ -1,7 +1,7 @@
 ---
 title: Change yourself to change the world
 created: 2024-11-18T09:18:12
-modified: 2025-10-09T08:30:26
+modified: 2025-10-13T11:32:06
 ---
 
 > _“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi_
@@ -11,6 +11,8 @@ modified: 2025-10-09T08:30:26
 > _“Nothing helps; I must help myself, or I am finished.” — Friedrich Nietzsche_
 
 > _“You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You’re on your own. And you know what you know. And YOU are the one who’ll decide where to go.” ― Dr. Seuss, [Oh, the Places You’ll Go!](https://www.goodreads.com/work/quotes/2125304)_
+
+> _“Be the change that you wish to see in the world.” — Mahatma Gandhi_
 
 ---
 
