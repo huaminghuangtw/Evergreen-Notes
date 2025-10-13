@@ -1,7 +1,7 @@
 ---
 title: Self-compassion
 created: 2025-01-23T10:40:57
-modified: 2025-10-08T05:16:38
+modified: 2025-10-13T06:18:14
 ---
 
 > _“What you deny subdues you. What you accept transforms you.” — Carl Jung_
@@ -17,6 +17,8 @@ modified: 2025-10-08T05:16:38
 > _“If your compassion does not include yourself, it is incomplete.” — Jack Kornfield_
 
 > _“The goal is not to show how great you are to others, but how [vulnerable](vulnerability.md) you are to yourself.” — Maxime Lagace_
+
+> _“As you gain fame, as you gain fortune, as you gain position and seniority, people will treat you better. — They will hold doors open for you. They will get you a cup of tea and coffee without you even asking. — None of that stuff is meant for you. That stuff is meant for the position you hold. It is meant to the level you have achieved of leader or success or whatever you want to call it, but remember: you will always deserve a Styrofoam cup.” — Simon Sinek_
 
 ---
 
