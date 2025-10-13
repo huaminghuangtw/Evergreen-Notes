@@ -1,7 +1,7 @@
 ---
 title: rest, reset, relax, recharge
 created: 2024-11-18T09:18:12
-modified: 2025-10-06T20:37:53
+modified: 2025-10-13T06:28:40
 ---
 
 > _“Rest until you feel like playing, then play until you feel like resting.” — Martha Beck_
@@ -166,10 +166,19 @@ The best way to rest is all about _feeling calm_. Or rather, CALM. Find an activ
 
 ---
 
-### See Also
+* Microsoft’s Human Factors Lab published a piece titled _[“Research Proves Your Brain Needs Breaks”](https://www.microsoft.com/en-us/worklab/work-trend-index/brain-research)_ in its WorkLab blog, summarizing a study of 14 participants doing video meetings wearing EEG caps.
+* They studied 14 participants across two days of video meetings, with Day 1 comprised of four back-to-back 30-minute meetings and Day 2 comprised of four 30-minute meetings with 10-minute breaks in between.
+* **Takeaway: The breaks increased performance significantly.**
+	* It reports that during the no-break condition, “the average activity of beta waves … increased over time,” whereas with breaks the beta level “held steady” across meetings. ￼
+	* It also mentions that brainwave patterns showed positive **frontal alpha asymmetry** [^3] in the break condition (associated with greater engagement), and negative asymmetry under no breaks.
+
+---
+
+# See Also
 
 * [Slow Down to Speed Up](slow-down-to-speed-up.md)
 * [The Reitoff Principle](The%20Reitoff%20Principle.md)
 
 [^1]: Either doing _nothing_ or _unplanned energizing distractions / unrelated activities_
 [^2]: proposed by [Dr. Saundra Dalton-Smith](https://www.drdaltonsmith.com/)
+[^3]: A brain state connected to levels of engagement
