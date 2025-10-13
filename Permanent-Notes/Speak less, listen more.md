@@ -1,7 +1,7 @@
 ---
 title: Speak less, listen more
 created: 2024-11-18T09:16:49
-modified: 2025-10-12T07:36:01
+modified: 2025-10-12T18:43:32
 ---
 
 > _[“Shallow rivers are noisy. Deep lakes are silent.” — Derek Sivers](https://sive.rs/h)_
@@ -36,7 +36,9 @@ Always speak less than necessary. [@greene48LawsPower2000]
 ---
 
 Small streams make the most noise; great rivers flow in silence.
+
 What is not full rattles loudly; what is full rests quiet.
+
 The sea is pure only in its depths.
 
 ---
