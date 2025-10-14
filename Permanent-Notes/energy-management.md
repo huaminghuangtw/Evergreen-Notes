@@ -1,7 +1,7 @@
 ---
 title: Energy Management
 created: 2024-11-18T09:18:12
-modified: 2025-10-07T11:46:31
+modified: 2025-10-14T04:56:42
 ---
 
 > _[“Your energy is currency. Spend it well. Invest it wisely. Use it Intentionally, consistently, and by your own design.” — Adrienne Bosh](https://x.com/MrsAdrienneBosh/status/988908563232796672)_
@@ -24,7 +24,7 @@ modified: 2025-10-07T11:46:31
 
 ---
 
-There’s no such thing as working too hard. There’s just being under rested. — Don’t focus on energy output (working too hard). Focus on energy production ([recharging activities](rest,%20reset,%20relax,%20recharge.md)).
+There’s no such thing as working too hard. There’s just being under rested. — Don’t focus on energy output (working too hard). Focus on energy production ([recharging activities](the-most-productive-people-prioritize-intentional-rest.md)).
 
 ---
 
