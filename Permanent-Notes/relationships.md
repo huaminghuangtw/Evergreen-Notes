@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-10-12T18:43:32
+modified: 2025-10-14T07:42:59
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -98,7 +98,7 @@ This simple step can prevent misunderstandings and show that you’re there for 
 
 ---
 
-When we find ourselves in an argument or debate with someone, we often become more focused on ‘winning’ the argument rather than actually discovering the truth.
+When we find ourselves in an argument or debate with someone, we often become more focused on ‘winning’ the argument rather than actually discovering the truth. When arguing, the goal is come to a consensus, not to “win.”
 
 ---
 
