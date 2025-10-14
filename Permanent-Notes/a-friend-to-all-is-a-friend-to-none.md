@@ -1,7 +1,7 @@
 ---
 title: A friend to all is a friend to none
 created: 2024-11-18T09:18:12
-modified: 2025-10-07T06:17:30
+modified: 2025-10-14T06:42:10
 ---
 
 > _“A true friend never gets in your way unless you happen to be going down.” — Arnold H. Glasow_
@@ -71,7 +71,7 @@ Good “inner circle” friendships must be treasured.
 
 ---
 
-Humans are mimetic creatures. We copy those around us. Decentralized friend groups are medicine for the mimetic mind.
+Humans are mimetic creatures. [We copy those around us.](the-theory-of-mimetic-desire.md) Decentralized friend groups are medicine for the mimetic mind.
 
 * **Decentralized Friend Groups:** You have many small clusters of different friends who aren’t connected. The only thing they have in common is that they know you. Ambitious friends, fun friends, serious friends, relaxed friends, fitness friends, hometown friends, traveling friends, etc.
 * **Centralized Friend Groups:** You have one large cluster of friends. They all share the same history, beliefs and behaviors. They usually fit in one box. Examples: “School friends” or “Work friends”
@@ -82,7 +82,7 @@ Humans are mimetic creatures. We copy those around us. Decentralized friend grou
 
 ---
 
-[Most of your friends aren't really your friends. They're just along for the ride when it's fun, convenient, or valuable. They'll be gone when it's none of those things. Your real friends are there for you when you have *nothing* to offer in return. Find them. Cherish them. Be one to someone else.](https://x.com/SahilBloom/status/1513143690423934977)
+[Most of your friends aren’t really your friends. They’re just along for the ride when it’s fun, convenient, or valuable. They’ll be gone when it’s none of those things. Your real friends are there for you when you have _nothing_ to offer in return. Find them. Cherish them. Be one to someone else.](https://x.com/SahilBloom/status/1513143690423934977)
 
 ---
 
