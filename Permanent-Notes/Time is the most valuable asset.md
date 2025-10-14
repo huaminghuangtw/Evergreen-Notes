@@ -1,7 +1,7 @@
 ---
 title: Time is the most valuable asset
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-10-14T05:53:28
 ---
 
 > _“The price of anything is the amount of life you exchange for it.” — Henry David Thoreau_
@@ -22,7 +22,7 @@ Time is…
 
 ---
 
-Be selfish with your time
+# Be selfish with your time
 
 * If you don’t prioritize your life, someone else will.
 * If you don’t guard your time, people will steal it from you.
