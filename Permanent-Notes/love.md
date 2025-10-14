@@ -1,7 +1,7 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2025-10-05T17:30:11
+modified: 2025-10-14T08:10:30
 ---
 
 > _“Love is the absence of judgment.” — Dalai Lama_
@@ -38,8 +38,6 @@ modified: 2025-10-05T17:30:11
 
 > _“People grow when they are loved well. If you want to help others heal, love them without an agenda.” — Mike Mchargue_
 
-> _“Love meant jumping off a cliff and trusting that a certain person would be there to catch you at the bottom.” — Jodi Picoult_
-
 [@mansonSubtleArtNot2016]
 
 > _“Unhealthy love is based on two people trying to escape their problems through their emotions for each other—in other words, they’re using each other as an escape. Healthy love is based on two people acknowledging and addressing their own problems with each other’s support.” ― Mark Manson, [The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/work/quotes/48297245)_
@@ -59,6 +57,10 @@ Being in love > Being loved
 * Who you choose as a partner is the most important decision you’ll ever make in your life.
 * Choose your husband/wife wisely. This is the person that will be with you on your greatest and worst days. Choose a man/woman that will see you for who you are.
 * Don’t marry anyone you can’t _laugh with_ or _dance with_.
+
+---
+
+[Don’t marry someone who doesn’t understand that you need to work, or sees your work as competition for your attention. If you’re ambitious, you need to work; it’s almost like a medical condition; so someone who won’t let you work either doesn’t understand you, or does and doesn’t care.](https://www.paulgraham.com/greatwork.html)
 
 ---
 
@@ -109,10 +111,10 @@ Find a partner who believes in you more than you believe in yourself.
 
 ---
 
-> 「Ｎ」
+> 如果你渴望組成一個家庭，尋找那位真心想成為「丈夫/妻子」和「父親/母親」的人，而不是只想擁有「老婆/老公」和「孩子」的人。
 
-* 第一種人是想「成為某種人」（角色身份）
-* 第二種人是想「擁有某些東西」（個人需求）
+* 第一種人是想「扮演某種角色」（身份認同、責任感）
+* 第二種人是想「擁有某些東西」（個人慾望）
 
 ---
 
@@ -120,7 +122,7 @@ Find a partner who believes in you more than you believe in yourself.
 
 ---
 
-> _“Love does not consist in gazing at each other, but in looking” — Antoine De Saint-Exupéry_
+> _“Love does not consist in gazing at each other, but in looking.” — Antoine De Saint-Exupéry_
 
 * Is this relationship making me fulfilled or just less lonely? If a relationship isn’t creating feelings of fulfillment, it won’t last.
 * Find the people who create your fulfillment, not just reduce your loneliness.
@@ -144,6 +146,9 @@ Trust is a vital ingredient in a successful marriage.
 Fall deeply. Fail fast. Burn beautifully.
 
 * 「給予對方能夠摧毀自己的力量，但同時相信他們不會這麼做。」
+
+	> _“Love meant jumping off a cliff and trusting that a certain person would be there to catch you at the bottom.” — Jodi Picoult_
+
 * 「真誠地對待自己與對方；不蹉跎於一段註定會失敗的感情；結束時讓它漂漂亮亮地結束。」
 
 ---
