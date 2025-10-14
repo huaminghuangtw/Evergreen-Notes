@@ -1,7 +1,7 @@
 ---
 title: Stress & Anxiety
 created: 2024-11-18T09:18:12
-modified: 2025-10-06T15:11:34
+modified: 2025-10-14T04:46:41
 ---
 
 > _“Stress happens when the mind resists what is.” — Dan Millman_
@@ -47,6 +47,15 @@ MBSR = Mindfulness-Based Stress Reduction
 ---
 
 Ask yourself: “_Will this crisis really matter one year from now?_”
+
+---
+
+# The STOP Framework
+
+* **S**top
+* **T**ache a breath
+* **O**bserve
+* **P**roceed
 
 ---
 
