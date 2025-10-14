@@ -1,8 +1,10 @@
 ---
 title: You are the average of the five people you associate with most
 created: 2024-11-18T09:18:12
-modified: 2025-09-26T05:32:35
+modified: 2025-10-14T15:17:08
 ---
+
+> _“You are the average of the five people you spend the most time with.” ― Jim Rohn_
 
 > _“If you are wondering who your people are, they are the ones who make your heart feel seen and your nervous system feel calm.” — Yung Pueblo_
 
@@ -24,7 +26,7 @@ People who avoid their own feelings will neglect yours.
 
 ---
 
-愛有等差 — 斷捨離大部分的人生過客，把寶貴時間花在那些很努力地想要留在我們生命裡的人。
+愛有等差 — 斷捨離大部分的人生過客，把寶貴時間花在那些很努力想要留在我們生命裡的人。
 
 ---
 
