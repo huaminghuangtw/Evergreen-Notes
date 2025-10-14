@@ -1,8 +1,10 @@
 ---
 title: Always do your best as possible
 created: 2024-11-18T09:18:12
-modified: 2025-10-11T12:16:54
+modified: 2025-10-14T17:17:06
 ---
+
+> _“Inspire yourself to be great. Being good isn’t good enough.” — Gurbaksh Chahal_
 
 > _“If you deliberately plan to be less than you are capable of being, then I warn you that you’ll be deeply unhappy for the rest of your life.” — Abraham Maslow_
 
