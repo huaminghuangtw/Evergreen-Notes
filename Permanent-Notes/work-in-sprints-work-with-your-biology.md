@@ -1,7 +1,7 @@
 ---
 title: Work in sprints, work with your biology
 created: 2024-11-18T09:18:12
-modified: 2025-10-02T04:17:44
+modified: 2025-10-14T04:56:42
 ---
 
 > _“If you want to operate at maximum productivity, efficiency, and creativity, you’re going to work on things that you’re excited about at the moment you’re excited about them and accept nothing less. It is better to sit on your butt and do nothing than it is to work on things that you are not excited about.” — Naval Ravikant_
@@ -32,7 +32,7 @@ Why?
 * is a biological fact that our alertness naturally rises and falls in 90‑minute cycles
 	* Aim for 1–3 × 90-minute intervals per day.
 		* 4 × 90-minute blocks of focused work per day, while possible, is highly unusual.
-		* Go to a deliberate [defocus](rest,%20reset,%20relax,%20recharge.md) for 10-30 minutes after each of 90-minute [deep work](deep-work.md) bout.
+		* Go to a deliberate [defocus](the-most-productive-people-prioritize-intentional-rest.md) for 10-30 minutes after each of 90-minute [deep work](deep-work.md) bout.
 	* [Ultra Focus Odyssey = UFO](https://shosho.tw/blog/super-productivity-system-2024)
 
 ---
@@ -65,7 +65,7 @@ There are specific times during the day that are for optimal goal work. Accordin
 
 [@davisTwoAwesomeHours2015]
 
-[Productivity](Productivity.md) isn’t about working longer or harder but about making the most of a few truly effective hours each day. Trying to power through the entire day at the same intensity is ineffective, [making strategic breaks and rest periods essential for sustained high performance](rest,%20reset,%20relax,%20recharge.md). By structuring our day around peak cognitive capacity rather than sheer effort, we can maximize efficiency while avoiding [burnout](Burnout.md).
+[Productivity](Productivity.md) isn’t about working longer or harder but about making the most of a few truly effective hours each day. Trying to power through the entire day at the same intensity is ineffective, [making strategic breaks and rest periods essential for sustained high performance](the-most-productive-people-prioritize-intentional-rest.md). By structuring our day around peak cognitive capacity rather than sheer effort, we can maximize efficiency while avoiding [burnout](Burnout.md).
 
 ---
 
@@ -91,7 +91,7 @@ Work like a lion. [^3] [^4] [^5] Eat like a snake. Sleep like a baby.
 
 # [More Intensity, Less Duration](https://www.inc.com/jessica-stillman/the-secret-to-happiness-at-work-less-duration-more-intensity.html)
 
-A productivity study conducted by the [Draugiem Group](https://draugiemgroup.com/) using the [DeskTime](https://desktime.com/) time-tracking app suggests that, the optimal work-to-break ratio is **52 minutes of sprinting followed by 17 minutes of utter [relaxation/recuperation](rest,%20reset,%20relax,%20recharge.md)**.
+A productivity study conducted by the [Draugiem Group](https://draugiemgroup.com/) using the [DeskTime](https://desktime.com/) time-tracking app suggests that, the optimal work-to-break ratio is **52 minutes of sprinting followed by 17 minutes of utter [relaxation/recuperation](the-most-productive-people-prioritize-intentional-rest.md)**.
 
 According to the research, “_The secret to retaining the highest level of productivity over the span of a workday is not working longer–but working smarter with frequent breaks._” The most productive 10 percent of employees “_make the most of those 52 minutes by working with intense purpose, but then rest up to be ready for the next burst. In other words, they work with purpose. Working with purpose can also be called the ‘100 percent dedication’ theory–the notion that whatever you do, you do it full-on._” [^6] [^7]
 
