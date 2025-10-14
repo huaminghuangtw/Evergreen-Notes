@@ -1,7 +1,7 @@
 ---
 title: Planning and preparation help maximize your productivity
 created: 2024-12-12T16:22:20
-modified: 2025-10-13T12:15:09
+modified: 2025-10-14T18:03:36
 ---
 
 > _[“The antidote to impulsiveness is forethought.” — Nir Eyal](https://www.youtube.com/watch?v=VVez_sI1zTU)_
@@ -12,6 +12,8 @@ modified: 2025-10-13T12:15:09
 
 > _“People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.” — Brian Tracy_
 
+> _“Chance favors only the prepared mind.” — Louis Pasteur_
+
 ---
 
 前置作業
@@ -19,6 +21,10 @@ modified: 2025-10-13T12:15:09
 ---
 
 Failure to prepare means preparing to fail.
+
+---
+
+Preparation converts [chance](luck.md) into results.
 
 ---
 
@@ -53,7 +59,9 @@ No matter how often I tried to just jump right in a new task, I found that I per
 
 ---
 
-When fishermen can’t go to sea, they repair their nets. When the sea is too rough to sail, the wise don’t simply wait for the storm to pass—they prepare for the moment it does. Even in stillness, there is progress. It’s not about idling; it’s about using the pause to build [what comes next](just-focus-on-the-next-decision.md).
+[When fisherman cannot go to sea, they repair nets. When the sea is too rough to sail, the smart ones don’t wait—they get to work. They mend their nets, sharpen their tools, and prepare for the moment the storm breaks. Because even in stillness, there’s progress.](https://x.com/drex_dsgn/status/1875141626513002885)
+
+It’s not about idling; it’s about using the pause to build [what comes next](just-focus-on-the-next-decision.md).
 
 ---
 
