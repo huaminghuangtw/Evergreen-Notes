@@ -1,7 +1,7 @@
 ---
 title: Boredom promotes creativity
 created: 2024-12-16T14:01:41
-modified: 2025-08-29T08:30:46
+modified: 2025-10-14T04:56:42
 ---
 
 [@talebBedProcrustesPhilosophical2016]
@@ -53,4 +53,4 @@ Boredom is a filter. Common ideas come before it. Uncommon ideas come after it. 
 
 [^1]: “wait-and-see mode”
 [^2]: Shower Thoughts: Shower is an idea incubator. Keep [Aqua Notes](https://www.myaquanotes.com/) ready.
-[^3]: = mindless [recharging](rest,%20reset,%20relax,%20recharge.md)
+[^3]: = mindless [recharging](the-most-productive-people-prioritize-intentional-rest.md)
