@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-13T06:29:07
+modified: 2025-10-14T04:59:05
 ---
 
 Spend 30 minutes daily…
@@ -110,8 +110,6 @@ In other words, there is a bottleneck that prevents the system from improving.
 
 By focusing attention on improving the constraint—eliminating the bottleneck—you can dramatically improve the performance of the entire system.
 
-brought into the world to do
-
 Falling vs Growing in Love
 
 Back in the Vietnam days, soldiers in Vietnam had access to almost any narcotic they wanted from local friendly Vietnamese. A great many got quite seriously addicted to opiates like morphine. But then they came home, and for the most part they just stopped using morphine on their own. Few became addicts.
@@ -135,6 +133,7 @@ Therefore, the original stories are often the ones that gets preserved and deepl
 New information is massaged to fit that story, or rejected if it doesn’t.
 
 ---
+
 [Rückenfigur](https://sketchplanations.com/ruckenfigur)
 
 Rücken (back) and Figur (figure), which roughly translates to “figure seen from behind.”
