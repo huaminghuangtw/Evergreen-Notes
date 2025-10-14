@@ -1,13 +1,12 @@
 ---
 title: Everyone is on their own timeline
 created: 2024-11-18T09:18:12
-modified: 2025-10-13T11:41:43
+modified: 2025-10-13T18:27:10
 ---
 
 > _“One’s own dharma performed imperfectly is better than another’s dharma well performed…It is better to strive in one’s own dharma than to succeed in the dharma of another.” — Bhagavad Gita_
 
 > _[“No matter how old you are now. You are never too young or too old for success or going after what you want.” — Pablo](https://www.goodreads.com/quotes/553729-no-matter-how-old-you-are-now-you-are-never)_
-
 
 > _“The universe is true for us all and dissimilar to each of us.” — Marcel Proust_
 
