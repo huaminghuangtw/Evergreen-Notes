@@ -1,7 +1,7 @@
 ---
 title: Journey over destination
 created: 2024-11-18T09:18:12
-modified: 2025-10-08T05:15:52
+modified: 2025-10-14T05:00:56
 ---
 
 > _“To travel is to be alive, but to get somewhere is to be dead.” — Alan Watts_
@@ -75,6 +75,9 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 > _[“We are not going in circles, we are going upwards. The path is a spiral; we have already climbed many steps.” — Hermann Hesse, Siddhartha](https://www.instagram.com/mounika.studio/p/CmslMjcBEaI/)_ [^2]
 
 * Trust the process \& Have faith in the process
+
+	> _You were brought into the world to do the work your soul has long prepared for — trust that every step is part of that unfolding._
+
 * Every step happens for a reason, and something even better is on the way.
 * Perceived Progress v.s Actual Progress
 	* _At first, progress is slow_—so subtle it’s almost invisible. _Then, all at once_, everything changes.
