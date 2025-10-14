@@ -1,7 +1,7 @@
 ---
 title: Burnout
 created: 2024-11-18T09:18:12
-modified: 2025-09-05T04:46:59
+modified: 2025-10-14T04:56:42
 ---
 
 = 過勞
@@ -10,7 +10,7 @@ modified: 2025-09-05T04:46:59
 
 Burnout isn’t just something that happens to overworked people in high-stress, demanding jobs. It also happens:
 
-* when you treat [rest](rest,%20reset,%20relax,%20recharge.md) as a _reward_ to be earned rather than a _right_ you deserve.
+* when you treat [rest](the-most-productive-people-prioritize-intentional-rest.md) as a _reward_ to be earned rather than a _right_ you deserve.
 * when work loses its sense of meaning, joy, or balance.
 
 ---
