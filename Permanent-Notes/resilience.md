@@ -1,7 +1,7 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2025-10-11T08:10:51
+modified: 2025-10-14T18:06:53
 ---
 
 > _“Resilience is not what happens to you. It’s how you [react to, respond to](choose-your-response.md), and recover from what happens to you.” — Jeffrey Gitomer_
@@ -51,6 +51,10 @@ Mental strength in a warrior’s mind. [@gogginsCantHurtMe2018]
 
 ---
 
+Every challenge is a reminder that you were brought into the world to do something that requires your [courage](Courage%20is%20knowing%20what%20not%20to%20fear.md) to awaken.
+
+---
+
 Forget all the reasons why it won’t work and believe the one reason why it will.
 
 ---
@@ -84,6 +88,20 @@ The more easily you get offended, the less emotional intelligence you have. Inve
 	* Love your enemies—not by seeking their approval, but by turning your feelings about them into fuel. Let their doubt drive you. [Be so exceptional at what you do](always-do-your-best-as-possible.md) that they’re forced to respect you, not out of affection, but awe. They don’t need to like you. It’s about earning respect through undeniable excellence, shattering their preconceptions with your relentless work and undeniable results.
 * [Reminder: If someone is acting like an idiot, you can just move on and let them be wrong. You do not have a personal obligation to correct people who are committed to being stupid. Sure, sometimes you need to attempt to get on the same page, but usually you can simply reclaim your time and move on to more productive ventures.](https://jamesclear.com/3-2-1/april-24-2025)
 * 笑罵由人、唾面自乾
+
+---
+
+[By Albert Camus](https://www.goodreads.com/quotes/1230206-my-dear-in-the-midst-of-hate-i-found-there)
+
+> In the midst of hate, I found there was, within me, an invincible love.
+>
+> In the midst of tears, I found there was, within me, an invincible smile.
+>
+> In the midst of chaos, I found there was, within me, an invincible calm.
+>
+> I realized, through it all, that in the midst of winter, I found there was, within me, an invincible summer.
+>
+> And that makes me happy. For it says that no matter how hard the world pushes against me, within me, there’s something stronger – something better, pushing right back.
 
 ---
 
