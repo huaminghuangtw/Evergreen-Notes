@@ -1,7 +1,7 @@
 ---
 title: Deep Work
 created: 2025-01-23T10:40:57
-modified: 2025-09-29T19:46:36
+modified: 2025-10-14T04:56:42
 ---
 
 > _“If a large diamond is cut up into pieces, it immediately loses its value as a whole; or if an army is scattered or divided into small bodies, it loses all its power; and in the same way a great intellect has no more power than an ordinary one as soon as it is interrupted, disturbed, distracted, or diverted.” — Arthur Schopenhauer_
@@ -31,7 +31,7 @@ Deep work generates deeper satisfaction (aka., “passion”) for your work.
 
 # The 4-Hour Work Day
 
-In their 1993 paper [@ericssonRoleDeliberatePractice1993] The Role of Deliberate Practice in the Acquisition of Expert Performance, Ericsson, Krampe, and Tesch-Römer noted that **“essentially no benefit [is gained] from durations exceeding 4 hr per day and reduced benefits from practice exceeding 2 hr … the effective duration of deliberate practice may be closer to 1 hr per day”** (p. 370), highlighting the cognitive and physiological limits on sustaining high-quality practice. More than two decades later, in his 2019 review [@ericssonDeliberatePracticeProposed2019], Ericsson reaffirmed this principle, emphasizing that even among top performers across diverse fields, deliberate practice **typically peaks at 3–4 hours per day**, with additional effort beyond this threshold yielding diminishing or even negative returns unless balanced with adequate [recovery (“deep breaks”)](rest,%20reset,%20relax,%20recharge.md).
+In their 1993 paper [@ericssonRoleDeliberatePractice1993] The Role of Deliberate Practice in the Acquisition of Expert Performance, Ericsson, Krampe, and Tesch-Römer noted that **“essentially no benefit [is gained] from durations exceeding 4 hr per day and reduced benefits from practice exceeding 2 hr … the effective duration of deliberate practice may be closer to 1 hr per day”** (p. 370), highlighting the cognitive and physiological limits on sustaining high-quality practice. More than two decades later, in his 2019 review [@ericssonDeliberatePracticeProposed2019], Ericsson reaffirmed this principle, emphasizing that even among top performers across diverse fields, deliberate practice **typically peaks at 3–4 hours per day**, with additional effort beyond this threshold yielding diminishing or even negative returns unless balanced with adequate [recovery (“deep breaks”)](the-most-productive-people-prioritize-intentional-rest.md).
 
 From Oliver Burkeman’s article [«Let’s hear it for the four-hour working day»](https://www.theguardian.com/lifeandstyle/2017/aug/11/oliver-burkeman-four-hour-working-day)
 
