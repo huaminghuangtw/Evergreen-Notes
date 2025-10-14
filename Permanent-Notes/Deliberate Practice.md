@@ -1,10 +1,10 @@
 ---
 title: Deliberate Practice
 created: 2025-01-23T10:40:57
-modified: 2025-10-13T06:31:09
+modified: 2025-10-13T18:27:10
 ---
 
-> _“Practice does not make perfect. Perfect practice makes perfect.” — Vince Lombardi_ [^2]
+> _“Practice does not make perfect. Perfect practice makes perfect.” — Vince Lombardi_ [^1]
 
 ---
 
@@ -37,7 +37,7 @@ Similar to the concept of Progressive Overload in Strength Training — “Reps,
 3. ⭐️ 選擇勉強可完成的挑戰 ([Challenging Limits](push-your-limits.md))
 	* Working on tasks or problems that are _neither too easy (which might lead to boredom) nor impossibly hard (which might cause frustration), but rather difficult enough to stretch your abilities_
 	* Taking on challenges that are _manageable enough that you win most of the time, but meaningful enough that you improve as well_
-	* The common narrative is that kids learn faster than adults, but if you observe any toddler, they spend a large portion of the day attempting things that are _on the edge of their ability_ .[^1] The key is to enjoy hanging out on the edge. That is, you find it interesting to attempt things _one step beyond where you are right now_.
+	* The common narrative is that kids learn faster than adults, but if you observe any toddler, they spend a large portion of the day attempting things that are _on the edge of their ability_ .[^2] The key is to enjoy hanging out on the edge. That is, you find it interesting to attempt things _one step beyond where you are right now_.
 	* Examples:
 		* A student solving math problems slightly above their comfort level.
 		* An athlete attempting a personal best in a challenging competition.
@@ -62,5 +62,5 @@ Similar to the concept of Progressive Overload in Strength Training — “Reps,
 * is the range where the learner is able to perform, but only with support from a teacher or a peer with more knowledge or expertise (a “more knowledgeable other”)
 ![](../_attachments/42440623020bda3397d4c177a788d70a.png)
 
-[^1]: The phrase “on the edge of their ability” refers to someone operating at the boundary of their current skills, knowledge, or capacity/competence. It describes a sweet spot where a person is challenged to the fullest extent of what they are capable of achieving, often fostering growth and improvement through effort and practice.
-[^2]: A legendary American football coach
+[^1]: A legendary American football coach
+[^2]: The phrase “on the edge of their ability” refers to someone operating at the boundary of their current skills, knowledge, or capacity/competence. It describes a sweet spot where a person is challenged to the fullest extent of what they are capable of achieving, often fostering growth and improvement through effort and practice.
