@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-14T04:59:05
+modified: 2025-10-15T05:31:10
 ---
 
 Spend 30 minutes daily…
@@ -102,15 +102,6 @@ Paired walkers with better first impression synchronize better (<https://journal
 
 (4) 附加問句: 徵求對方同意的簡短問句，以沖淡直述句的命令祈使語氣 (e.g., 小華，要記得寫作業呀! 寫作業是學生的本分! → 小華，你可以按時完成作業的，不是嗎?; 老張，其實你可以把工作做得更好，不是嗎?)
 
-The Theory of Constraints is a business philosophy first proposed by Eliyahu Goldratt in his 1984 book, The Goal.
-
-The key idea is that every system has at least one constraint that restricts its ability to grow or meaningfully improve its desired output.
-
-In other words, there is a bottleneck that prevents the system from improving.
-
-By focusing attention on improving the constraint—eliminating the bottleneck—you can dramatically improve the performance of the entire system.
-
-Falling vs Growing in Love
 
 Back in the Vietnam days, soldiers in Vietnam had access to almost any narcotic they wanted from local friendly Vietnamese. A great many got quite seriously addicted to opiates like morphine. But then they came home, and for the most part they just stopped using morphine on their own. Few became addicts.
 
