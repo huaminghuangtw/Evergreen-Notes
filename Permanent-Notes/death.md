@@ -1,7 +1,7 @@
 ---
 title: Death
 created: 2024-11-18T09:18:12
-modified: 2025-10-09T17:47:50
+modified: 2025-10-15T12:42:47
 ---
 
 > _“The free man thinks of death, least of all things.” — Benedict Spinoza_
@@ -110,6 +110,15 @@ Remarks: Through history, people have gone back into their own pasts, sometime t
 * Business (org charts, list of trusted advisors)
 * Asset (finance statements, property titles)
 * Final to-do lists
+
+---
+
+# [The Ideal End State](https://x.com/camp4/status/1721908863124025492)
+
+1. WHO you’d be around
+2. WHAT you’d do with your time
+3. WHERE you’d be
+4. HOW things would look & feel
 
 ---
 
