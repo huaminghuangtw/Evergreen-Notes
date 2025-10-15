@@ -1,7 +1,7 @@
 ---
 title: Leaders are readers
 created: 2024-11-18T09:18:12
-modified: 2025-09-28T05:01:08
+modified: 2025-10-15T15:23:32
 ---
 
 > _“Man is what he reads.” — Joseph Brodsky_
@@ -58,7 +58,7 @@ modified: 2025-09-28T05:01:08
 	* Amazon Book Reviews
 	* [Goodreads](https://www.goodreads.com/)
 	* [LibraryThing](https://www.librarything.com/)
-* Realize that you don’t need to read a book from the first page to the last page. This is especially true for non-fiction, self-help books. I got way more value from reading once I started jumping around (跳/挑讀) and synthesizing connections between topics I’m interested in (主題式閱讀 Synoptical/Comparative Reading) versus going from cover to cover.
+* Realize that you don’t need to read a book from the first page to the last page. This is especially true for non-fiction, self-help books. I got way more value from reading once I started jumping around (跳/挑讀) and synthesizing connections between topics I’m interested in (==主題式閱讀 Synoptical/Comparative Reading==) versus going from cover to cover. [^3]
 * Read the classics that stand the test of time. Do not read books in the same year that they are published.（時間是考驗一本書能否傳世不朽的試金石）
 	* Have a “The Reading Razor (Quality Filter for Books)” — 永遠都有讀不完的新書，所以要慎選 (After all, not all books are equal)
 		* Use “[The Lindy Effect](The%20Lindy%20Effect.md)” as a guide in selecting what to read: books that have been around for ten years will be around for ten more; books that have been around for two millennia should be around for quite a bit of time, and so forth.
@@ -76,7 +76,7 @@ modified: 2025-09-28T05:01:08
 * [以終為始](always-start-with-end-in-mind.md)：The first and most important rule of active/skillful reading is asking questions and trying to answer them.
 * Read _from_ books. Not read _through_ books.
 	* Main goal: Find **IQ + AA = Insights, Quotes, and Actionable Advice**
-		* An insight (洞見、洞察) [^3] is a realization that changes the way you think, and ideally changes the way you behave.
+		* An insight (洞見、洞察) [^4] is a realization that changes the way you think, and ideally changes the way you behave.
 		* 讀書畫重點時，專注在讓你有「醍醐灌頂、腦洞大開、被敲到頭、觸電感」般感受的文字段落。閱讀的目標不是確認舊觀點，而是拓展新視野。
 			* 顛覆你舊有觀念、讓你改變看法及反思的句子
 				* 「原來還可以這樣想! 」
@@ -121,4 +121,5 @@ modified: 2025-09-28T05:01:08
 
 [^1]: **THIEVES:** (1) Title (2) Headings (3) Introduction (4) Emphasized words (i.e., bold and italicized words) (4) Visual Aids (5) End of Chapter Questions (6) Summary
 [^2]: Words that you can recognize instantly without sounding them out (or use any strategies to decode).
-[^3]: _[“Insight is the smallest unit of truth that is actionable. If you cannot act on it, it is just an lifeless abstraction.” — Kunal Shah](https://fs.blog/knowledge-project-podcast/kunal-shah/)_
+[^3]: [Synoptical reading is reading various books and articles on the same topic, finding and evaluating the contradictions, and forming an opinion.](https://fs.blog/reading)
+[^4]: _[“Insight is the smallest unit of truth that is actionable. If you cannot act on it, it is just an lifeless abstraction.” — Kunal Shah](https://fs.blog/knowledge-project-podcast/kunal-shah/)_
