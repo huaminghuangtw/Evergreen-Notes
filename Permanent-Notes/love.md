@@ -1,7 +1,7 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2025-10-14T08:10:30
+modified: 2025-10-15T05:30:08
 ---
 
 > _“Love is the absence of judgment.” — Dalai Lama_
@@ -45,6 +45,10 @@ modified: 2025-10-14T08:10:30
 ---
 
 Being in love > Being loved
+
+---
+
+Growing in love > Falling in love
 
 ---
 
