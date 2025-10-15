@@ -1,7 +1,7 @@
 ---
 title: Advice
 created: 2024-11-18T09:16:50
-modified: 2025-10-05T15:59:27
+modified: 2025-10-15T14:33:59
 ---
 
 # On Giving Advice
@@ -30,7 +30,7 @@ Instead of giving advice, try asking (good) questions first. People will often r
 
 > I am not a fool, but I respect your sincerity in asking my advice. I ask you though, in listening to what I say, to remember that all advice can only be a product of the man who gives it. _**What is truth to one may be disaster to another.**_ I do not see life through your eyes, nor you through mine. _**If I were to attempt to give you specific advice, it would be too much like the blind leading the blind.**_
 
-# On Receiving Advice
+# On Receiving/Taking Advice
 
 > _“Instead of seeking feedback, you’re better off asking for advice. Feedback tends to focus on how well you did last time. Advice shifts attention to how you can do better next time.” ― Adam Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
 
@@ -53,7 +53,8 @@ It’s dangerous to use someone else’s map of reality to navigate yours. Devel
 
 Be careful WHO you’re getting advice from.
 
-* Don’t
+* Don’t…
+	* ask for advice if you’re really just looking for permission.
 	* take advice from the person who hasn’t done the thing you want to do.
 	* listen to the opinions of those that haven’t achieved what you want to achieve.
 	* take opinions from people on the sideline (**including family and friends**).
@@ -70,12 +71,8 @@ Subtract [incentives](incentives.md) from advice.
 
 [Prioritize action](cultivate-a-strong-bias-towards-action.md): Take some advice, act on it, adjust accordingly. Otherwise advice gathering can quickly become a form of procrastination.
 
-## See Also
+People often ask me for the best piece of advice I’ve ever received, and I often respond with “Don’t take anyone’s advice. Have the courage to go with your gut!”
 
-* [Judgement](Judgement.md)
+[The only advice worth seeking is the kind that might actually change your mind.](https://mikekarnj.com/posts/advice)
 
----
-
-# See Also
-
-* [Advice](advice.md)
+**Most advice isn’t meant to be followed. It’s meant to sharpen your filter.** ==But you need to hear enough of it to train your filter.== [Be open-minded.](be-ready-to-change-your-mind-completely-at-any-given-time.md) **You don’t build [instincts](Judgement.md) by avoiding advice. You build them by learning what to reject and what to keep.** The goal is to build a high hit-rate [gut](trust-your-gut.md). One that gets better through pattern recognition, reflection, and making your own mistakes.
