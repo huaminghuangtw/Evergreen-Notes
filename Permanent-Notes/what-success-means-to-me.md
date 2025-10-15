@@ -1,7 +1,7 @@
 ---
 title: What Success Means To Me
 created: 2024-11-18T09:18:12
-modified: 2025-10-12T18:43:32
+modified: 2025-10-15T05:56:21
 ---
 
 > _[“Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable. And you're the only one that will know that.” — John Wooden](https://www.youtube.com/watch?v=JWQIxuNGdvQ&t=95s)_
@@ -74,6 +74,21 @@ modified: 2025-10-12T18:43:32
 當 [只有自己一個人](solitude.md) 的時候，對自己的看法
 
 > What do you think of yourself when you are by yourself?
+
+---
+
+- The true rich men count memories, not money.
+- The true rich men invest in time, not things.
+- The true rich men give more than they take.
+- The true rich men sleep peacefully, not luxuriously.
+- The true rich men have nothing to prove.
+- The true rich men are rich in patience, not possessions.
+- The true rich men grow wealth that can’t be stolen.
+- The true rich men live simply so others may simply live.
+- The true rich men die empty, not full.
+- The true rich men have gratitude as their currency.
+- The true rich men surround themselves with people they love, not things they own.
+- The true rich men make peace with less.
 
 ---
 
