@@ -1,7 +1,7 @@
 ---
 title: Speak less, listen more
 created: 2024-11-18T09:16:49
-modified: 2025-10-12T18:43:32
+modified: 2025-10-15T06:00:09
 ---
 
 > _[“Shallow rivers are noisy. Deep lakes are silent.” — Derek Sivers](https://sive.rs/h)_
@@ -72,3 +72,10 @@ Some questions to consider before you speak:
  * “_Does this need to be said?_”
  * “_Does this need to be said by me?_”
  * “_Does this need to be said by me right now?_”
+
+---
+
+* The quietest person in the room often has the most to say.
+* The quietest person in the room is usually listening the hardest.
+* The quietest person in the room speaks loudest when it matters.
+* The quietest person in the room already understands what others are still trying to prove.
