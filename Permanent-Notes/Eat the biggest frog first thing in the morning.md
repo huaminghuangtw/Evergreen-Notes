@@ -1,7 +1,7 @@
 ---
 title: Eat the biggest frog first thing in the morning
 created: 2024-12-04T17:55:24
-modified: 2025-10-07T14:18:15
+modified: 2025-10-15T05:33:06
 ---
 
 > _“Do one thing every day that scares you.” — Eleanor Roosevelt_
@@ -50,6 +50,16 @@ First things first. Do the most important thing [^2] first, not the most urgent 
 * The Pickle Jar Theory is a [time management](Time%20Management.md) technique that prioritizes tasks based on importance, using the analogy of fitting different-sized items (**rocks**, **pebbles**, and **sand**) into a jar to represent one’s daily schedule or time available. The idea is to start with the most important tasks (rocks), followed by medium-priority tasks (pebbles), and finally, less important tasks (sand). This method helps to maximize time and ensure that the most important items are addressed first, preventing them from being overshadowed by less critical activities.
 * Think of your time as a jar. If you don’t make space for the big rocks, the little pebbles and tiny sand will fill your whole jar. And you’ll wonder why you’re not getting anything meaningful done.
 * Fill the jar with the biggest rock (“boulders”) first.
+
+---
+
+The Theory of Constraints is a business philosophy first proposed by Eliyahu Goldratt in his 1984 book, «The Goal».
+
+The key idea is that every system has at least one constraint that restricts its ability to grow or meaningfully improve its desired output.
+
+In other words, there is a bottleneck that prevents the system from improving.
+
+By focusing attention on **improving the constraint—eliminating the bottleneck**—you can dramatically improve the performance of the entire system.
 
 ---
 
