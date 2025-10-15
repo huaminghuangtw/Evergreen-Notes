@@ -1,7 +1,7 @@
 ---
 title: The most productive people prioritize intentional rest
 created: 2024-11-18T09:18:12
-modified: 2025-10-14T04:57:23
+modified: 2025-10-14T18:10:31
 ---
 
 > _“Rest until you feel like playing, then play until you feel like resting.” — Martha Beck_
@@ -54,7 +54,7 @@ There’s a simple formula for identifying the highest leverage relaxation for y
 
 ⭐️ Stop treating rest as a reward and start treating it as a critical/essential part of your high performance routine.
 
-* Rest is not a reward for [hard work](Work%20hard.md); it's a requirement for it.
+* Rest is not a reward for [hard work](Work%20hard.md); it’s a requirement for it.
 * Breaks aren’t a special treat. They’re an absolute necessity.
 * Replace the label “relaxing” or “relaxation” with “recovery,” so you don’t view it as wasted time. Think of _relaxing_ as _recovery_ because it very much is.
 * To achieve peak performance, master the art of deliberate/strategic rest
@@ -165,7 +165,7 @@ The best way to rest is all about _feeling calm_. Or rather, CALM. Find an activ
 * They studied 14 participants across two days of video meetings, with Day 1 comprised of four back-to-back 30-minute meetings and Day 2 comprised of four 30-minute meetings with 10-minute breaks in between.
 * **Takeaway: The breaks increased performance significantly.**
 	* It reports that during the no-break condition, “the average activity of beta waves … increased over time,” whereas with breaks the beta level “held steady” across meetings. ￼
-	* It also mentions that brainwave patterns showed positive **frontal alpha asymmetry** [^3] in the break condition (associated with greater engagement), and negative asymmetry under no breaks.
+	* It also mentions that brainwave patterns showed positive **frontal alpha asymmetry** [^2] in the break condition (associated with greater engagement), and negative asymmetry under no breaks.
 
 ---
 
@@ -175,4 +175,4 @@ The best way to rest is all about _feeling calm_. Or rather, CALM. Find an activ
 * [The Reitoff Principle](The%20Reitoff%20Principle.md)
 
 [^1]: Either doing _nothing_ or _unplanned energizing distractions / unrelated activities_
-[^3]: A brain state connected to levels of engagement
+[^2]: A brain state connected to levels of engagement
