@@ -1,7 +1,7 @@
 ---
 title: Active Listening
 created: 2024-11-18T09:18:12
-modified: 2025-10-11T07:22:37
+modified: 2025-10-14T20:33:20
 ---
 
 > _“There is a difference between listening and waiting for your turn to speak.” — Simon Sinek_
@@ -19,6 +19,8 @@ modified: 2025-10-11T07:22:37
 [@covey7HabitsHighly2013]
 
 > _“Most people do not listen with the intent to understand; they listen with the intent to reply.” — Stephen R. Covey, The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change_
+
+《善意溝通》提到，好的傾聽需要注意對方話語背後的情感與需求，這些往往隱藏在言外之意中。因此，除了用耳朵聽，我們還需要用肢體語言與眼神表達專注，例如輕點頭或用適當的目光交流。作者宋怡慧老師強調：「傾聽不只是耳朵的工作，更是心的參與。」
 
 ---
 
