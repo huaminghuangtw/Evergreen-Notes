@@ -1,7 +1,7 @@
 ---
 title: Quit social media
 created: 2024-11-18T09:18:12
-modified: 2025-09-03T07:15:28
+modified: 2025-10-16T05:18:41
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -152,6 +152,7 @@ If you were to reduce screen time—especially social media—by just one hour p
 * [BS Asymmetry Principle](BS%20Asymmetry%20Principle.md)
 * [News Sobriety](News%20Sobriety.md)
 * [Comparison is the thief of joy](comparison-is-the-thief-of-joy.md)
+* [Addiction is not about pleasure, it’s about escape](addiction-is-not-about-pleasure-its-about-escape.md)
 
 [^1]: [Brain Rot (腦腐)](https://www.google.com/search?q=Brain+Rot)
 [^2]: aka Doomscrolling (= Idle Scrolling = Zombie Scrolling = Mindlessly Surfing) → Sans Scrolling
