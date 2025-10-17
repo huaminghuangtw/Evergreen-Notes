@@ -1,7 +1,7 @@
 ---
 title: Courage is knowing what not to fear
 created: 2025-04-11T19:02:45
-modified: 2025-10-11T08:22:01
+modified: 2025-10-17T13:16:22
 ---
 
 > _[“Success is not final, failure is not fatal: it is the courage to continue that counts.” — Winston Churchill](https://www.youtube.com/watch?v=uuxMZL6ieWM)_
@@ -33,3 +33,13 @@ modified: 2025-10-11T08:22:01
 ---
 
 因無所懼，而生其心。
+
+---
+
+Intelligence isn’t just about what you know. It is also the ability to avoid being your own bottleneck.
+
+* If you lack the skills, be willing to look foolish while you learn them.
+* If you lack the connections, be courageous enough to reach out and build them.
+* If you feel uncertain, be bold enough to figure it out along the way.
+
+Many people have the ability, but they talk themselves out of trying.
