@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2025-10-14T04:56:42
+modified: 2025-10-17T12:49:49
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](Stay%20curious.md) is key.
@@ -45,6 +45,8 @@ modified: 2025-10-14T04:56:42
 > _“By itself, conscious positive thinking cannot overcome subconscious negative feelings.” ― Joe Dispenza, [Breaking the Habit of Being Yourself: How to Lose Your Mind and Create a New One](https://www.goodreads.com/work/quotes/18108532)_
 
 > _“We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.” — Gabor Mate_
+
+> _“People are not disturbed by things, but by the views they take of them.” — Epictetus_ [^1]
 
 ---
 
@@ -172,3 +174,5 @@ In the context of our example: _I will embody the state of being of a fulfilled 
 [@nguyenDontBelieveEverything2024]
 
 > Once we become aware of the fact that we are only feeling what we’re thinking and that thinking is the root cause of our unpleasant experience, we see it for what it truly is. Then we allow it to settle by giving it space, and slowly we will see how we begin to have a clear mind again.
+
+[^1]: A change in worldview will change the world viewed. We see the world not as it is, but as we are.
