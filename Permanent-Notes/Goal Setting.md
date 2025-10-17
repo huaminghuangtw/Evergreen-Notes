@@ -1,7 +1,7 @@
 ---
 title: Goal Setting
 created: 2025-01-23T10:40:57
-modified: 2025-08-29T08:30:46
+modified: 2025-10-16T08:13:50
 ---
 
 > _“A goal is not always meant to be reached, it often serves simply as something to aim at.” — Bruce Lee_
@@ -24,8 +24,9 @@ modified: 2025-08-29T08:30:46
 
 ---
 
-# Big Goal: The [Misogi](https://www.google.com/search?q=Misogi) (禊) Challenge
+# Big Goal: The [Misogi](https://www.google.com/search?q=Misogi) Challenge
 
+- 日文：禊ㄒㄧˋ
 * Do something so hard for 1 day a year, that it profoundly impacts the next 364 days.
 
 ---
