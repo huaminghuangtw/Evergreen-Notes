@@ -1,7 +1,7 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2025-10-11T07:18:20
+modified: 2025-10-17T06:29:04
 ---
 
 > _“Start before you’re ready. Don’t prepare. Begin. Don’t think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
@@ -123,4 +123,4 @@ Work has a sort of _[activation energy](why-is-it-so-hard-to-just-do-the-work.md
 [^1]: The hardest part about going to the gym is GOING to the gym.
 [^2]: from Horace, the Roman poet, in his work Epistles
 [^3]: = “_He who has begun is half done._”
-[^4]: from [«Philosophiæ Naturalis Principia Mathematica 自然哲學的數學原理»](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)
+[^4]: from _[Philosophiæ Naturalis Principia Mathematica 自然哲學的數學原理](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)￼_
