@@ -1,7 +1,7 @@
 ---
 title: Procrastination
 created: 2024-11-18T09:18:12
-modified: 2025-10-11T07:17:31
+modified: 2025-10-16T05:56:37
 ---
 
 > _“To begin, begin.” — William Wordsworth_
@@ -91,8 +91,8 @@ Inspiration is perishable. Act IMMEDIATELY at the moment of inspiration. Follow 
 * 降低成功的門檻
 	* Telling yourself to lower the bar/stakes, embrace mediocrity, and “choose to” be satisfied
 * Observe the sensation, [write it down](implementation-intentions.md), and ask yourself: “_What am I trying to escape from?_”
-* [將其分割成一個個細小、可控、明確、具體的階段性任務](the-growth-mindset.md)
-	1. [Break complex, overwhelming tasks into small, manageable chunks.](https://youtu.be/TQMbvJNRpLE) [^2]
+* [將其分割成一個個細小、可控、明確、具體的階段性任務](the-growth-mindset.md) [^2]
+	1. [Break complex, overwhelming tasks into small, manageable chunks.](https://youtu.be/TQMbvJNRpLE) [^3]
 		* E.g., [breaking down a complex image into simple gray squares](https://www.youtube.com/watch?v=TQMbvJNRpLE&t=10)
 	2. Start on the first one.
 		* E.g., [one pixel at a time](https://www.youtube.com/watch?v=TQMbvJNRpLE&t=10)
@@ -111,7 +111,7 @@ You don’t find motivation to start; you need to start to find motivation. Moti
 
 > _When people procrastinate, there’s usually a good reason._
 
-> _It’s really helpful to respond to a person’s ineffective behavior with **curiosity** rather than **judgment**._ [^3]
+> _It’s really helpful to respond to a person’s ineffective behavior with **curiosity** rather than **judgment**._ [^4]
 
 > _If a person’s behavior doesn’t make sense to you, it is because you are missing a part of their context._
 
@@ -122,5 +122,6 @@ You don’t find motivation to start; you need to start to find motivation. Moti
 > _If a person can’t get out of bed, something is making them exhausted. If a student isn’t writing papers, there’s some aspect of the assignment that they can’t do without help. If an employee misses deadlines constantly, something is making organization and deadline-meeting difficult. Even if a person is actively choosing to self-sabotage, there’s a reason for it — some fear they’re working through, some need not being met, a lack of self-esteem being expressed._
 
 [^1]: _“Excitement is the more practical synonym for happiness, and it is precisely what you should strive to chase. It is the cure-all.” \& “The question you should be asking isn’t, “What do I want?” or “What are my goals?” but “What would excite me?” \& “The opposite of love is indifference, and the opposite of happiness is boredom.” ― Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
-[^2]: Define the **Minimal Enjoyable Action (MEA).** Harness the power of **[Small Wins](Always%20start%20small.md)**.
-[^3]: All human behaviors make sense with _enough_ information.
+[^2]: When scared by the size of a task you’re going to do, always focus on making the **entry barrier (i.e., the very first step)** smaller.
+[^3]: Define the **Minimal Enjoyable Action (MEA).** Harness the power of **[Small Wins](Always%20start%20small.md)**.
+[^4]: All human behaviors make sense with _enough_ information.
