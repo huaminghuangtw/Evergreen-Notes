@@ -1,7 +1,7 @@
 ---
 title: walk
 created: 2024-11-18T09:16:50
-modified: 2025-09-03T07:10:59
+modified: 2025-10-16T04:57:04
 ---
 
 > _“Above all, do not lose your desire to walk. Everyday, I walk myself into a state of well-being & walk away from every illness. I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it.” — Søren Kierkegaard_
@@ -60,7 +60,7 @@ Goal: 8000 - 10000 steps per day
 * **Break Walks**
 * **Active Walks:** I will often spend my active walks listening to an audiobook or podcast, or thinking about something specific that I want to work through (a problem, writing idea, etc.).
 * **Passive “Tech-Free” Walks**
-	* Passive walks are “atelic” [^1] activities (meaning they are done with no goal in mind). These walks are 30-60 minutes and are done at a slow, leisurely pace with no technology. Leave your phone at home. [Let your mind wander. Allow your ideas to mingle. I'd suggest bringing a little pocket notebook to log anything interesting that comes into your head (it will happen!).](Creativity%20is%20just%20connecting%20things.md)
+	* Passive walks are “atelic” [^1] activities (meaning they are done with no goal in mind). These walks are 30-60 minutes and are done at a slow, leisurely pace with no technology. Leave your phone at home. [Let your mind wander. Allow your ideas to mingle. I'd suggest bringing a little pocket notebook to log anything interesting that comes into your head (it will happen!).](creativity-is-just-connecting-things.md)
 	* Raw dog your walks. When you go out for a walk, leave your phone behind—no calls, no music, no podcasts. Just you and your thoughts. It’s one of the best things you can do for your brain and mind, and I promise you’ll feel the difference.
 	* Go on a walk without phone.
 * Nordic Walking
