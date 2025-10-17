@@ -1,7 +1,7 @@
 ---
-title: kindness
+title: Kindness
 created: 2024-11-18T09:18:12
-modified: 2025-09-20T08:30:36
+modified: 2025-10-16T20:39:44
 ---
 
 > _“Kindness is a language which the deaf can hear and the blind can see.” — Mark Twain_
@@ -26,6 +26,12 @@ Sometimes the greatest act of kindness is…
 
 * to pretend you haven’t already heard that story before.
 * to not tell people that they have a sunburn, bug bite, or zit.
+
+---
+
+# Horizontal Relationships
+
+Treat everyone as equal, regardless of status or age. Avoid hierarchical thinking.
 
 ---
 
