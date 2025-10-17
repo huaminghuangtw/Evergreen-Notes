@@ -1,7 +1,7 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2025-10-08T05:11:38
+modified: 2025-10-17T06:28:51
 ---
 
 > _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
@@ -30,7 +30,7 @@ Reasonable \> Rational
 
 * Money can only solve money problems.
 * [Money isn’t nothing, it simply can’t be the only thing.](https://x.com/SahilBloom/status/1870096061827854363)
-	* ~~Money is the only type of wealth.~~ → Sahil Bloom’s «[The Five Types of Wealth](https://www.google.com/search?q=The+Five+Types+of+Wealth)»
+	* ~~Money is the only type of wealth.~~ → Sahil Bloom’s _[The Five Types of Wealth](https://www.google.com/search?q=The+Five+Types+of+Wealth)￼_
 * Money is just a piece of paper.
 
 	> _“Think of money as information — it’s just for resource allocation across time and space” — Elon Musk_
