@@ -1,7 +1,7 @@
 ---
 title: How to live a life
 created: 2024-11-18T09:18:12
-modified: 2025-10-10T20:36:12
+modified: 2025-10-16T20:46:14
 ---
 
 > _“As long as you live, keep learning how to live.” — Seneca_
@@ -52,7 +52,13 @@ A good life has a healthy mix of selfish boundaries and unselfish giving.
 
 ---
 
-[The Pencil's Tale](https://youtu.be/HisYsqqszq0)
+[The Pencil’s Tale](https://youtu.be/HisYsqqszq0)
+
+---
+
+# Life is a dance, not a race
+
+The goal of life isn’t to reach a destination, but to enjoy the journey itself.
 
 ---
 
