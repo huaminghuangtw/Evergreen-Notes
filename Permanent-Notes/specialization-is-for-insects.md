@@ -1,7 +1,7 @@
 ---
 title: Specialization is for insects
 created: 2025-01-23T10:40:57
-modified: 2025-10-11T08:27:47
+modified: 2025-10-16T04:57:04
 ---
 
 > _“At some level, all humans are broad. We’re all multivariate/multifaceted, but we get summarized in pithy ways in our lives.” — Naval Ravikant_
@@ -46,7 +46,7 @@ Many people call themselves “generalists” as a way to avoid specializing, bu
 
 * [Multipotentiality/Multipotentialite](https://www.google.com/search?q=Multipotentiality) is someone with many interests and creative pursuits.
 * Three “superpowers” that multipotentialites have:
-	1. [Idea Synthesis](Creativity%20is%20just%20connecting%20things.md)
+	1. [Idea Synthesis](creativity-is-just-connecting-things.md)
 	2. [Rapid Learning](learning-is-the-single-best-investment-that-you-can-make-for-your-time.md)
 	3. [Adaptability](adaptability.md)
 
