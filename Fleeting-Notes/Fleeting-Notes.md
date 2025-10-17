@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-15T05:31:10
+modified: 2025-10-17T05:58:58
 ---
 
 Spend 30 minutes daily…
@@ -80,10 +80,6 @@ People tend to get wealthier as they get older, which is like everything becomin
 
 以及「顯著性偏誤，正常化偏誤」
 
-肯定有一種最佳距離，不會讓人因為過於 親近而受傷，也不會因為太過疏遠而感到 孤單
-
-你我之間所需的最佳距離是，找到遠不孤單，近不受傷，剛剛好的距離
-
 The Museum of Failure
 
 All progress, not only technological progress, is built on learning from past failures and mistakes. The museum aims to stimulate productive discussion about failure and inspire us to take meaningful risks.
@@ -92,28 +88,7 @@ In my experience, most people underestimate their full capability and overestima
 
 Paired walkers with better first impression synchronize better (<https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227880>)
 
-催眠語法
 
-(1) 臆測: 我知道 + 範疇夠大的歸類詞語 (e.g., 我知道你有夢想; 我知道你是個善良的人)
-
-(2) 預設立場: e.g., 在聽我的節目之前，你知道收穫會這麼大嗎?
-
-(3) 選擇性違反限制 (擬人/物法): e.g., 叫小孩子不要亂丟玩具 → 哎呀! 玩具好痛、好可憐呀!; 一個女生不好意思直接拒絕追求者送的鮮花 → 哎呀! 我的貓不喜歡花…
-
-(4) 附加問句: 徵求對方同意的簡短問句，以沖淡直述句的命令祈使語氣 (e.g., 小華，要記得寫作業呀! 寫作業是學生的本分! → 小華，你可以按時完成作業的，不是嗎?; 老張，其實你可以把工作做得更好，不是嗎?)
-
-
-Back in the Vietnam days, soldiers in Vietnam had access to almost any narcotic they wanted from local friendly Vietnamese. A great many got quite seriously addicted to opiates like morphine. But then they came home, and for the most part they just stopped using morphine on their own. Few became addicts.
-
-Of course scientists couldn’t figure out why, as morphine is powerfully addictive. There were many experiments on addiction using rats in cages, none of which explained how easily the soldiers gave up morphine. The result was always the sameget the rat addicted to morphine, and stayed addicted. Take away the morphine and the rat goes into withdrawal and flips out.
-
-Anyway a scientist named Bruce Alexander hypothesized that maybe the problem with the experiment wasn’t the morphine, it was the cage. So they built a ‘cage’ called Rat Park200 times the size of a standard laboratory cage, containing 15-20 rats of both sexes, plenty of food, wheels, toys, other stimulation, and space for mating. Basicallyas close to rat paradise as you could get in a laboratory.
-
-The most interesting part of the experiment went as followsa bunch of rats were addicted to morphine by giving them water with morphine mixed in it. Half of them were then put in standard lab cages, with two water dispensersone dispensing clean water, the other dispensing morphine-laced water. The other half were put in Rat Park, with the same two water dispensers.
-
-The rats in lab cages would only drink the morphine water. However the rats in Rat Park quickly switched back to clean water, only rarely testing the morphine water.
-
-The conclusion was simple-- when life sucks, addiction has a much more powerful hold. When life is fun and fulfilling, addiction is easier to beat.
 
 ---
 
@@ -155,55 +130,7 @@ Then, he turned to the old man and said, “Well, I made a difference to that on
 
 ---
 
-you don’t park a car at 70km/h, you first slow it down and then you park it. This is in context of sleep, we often go to bed with our minds racing-thinking about a lot of things or coming straight from an activity that has kept us active-and then struggle to fall asleep.
-
----
-
 ["Fall for none, rise for all." — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)
-
----
-
-storytelling is the art of strategically withholding information. Before you begin your story, you’re supposed to decide which details to withhold until the end—to maximize suspense along the way.
-
----
-
-hooks require premeditation
-
----
-
-When they finally get to the nail-biting answers, they then drag out the telling.
-
----
-
-For example, consider how the climax of a blockbuster film is always a drawn out action scene. The action is never resolved within seconds—even if that’s how long it would take in real life to play out.
-
-Instead, every detail is magnified. Every punch is slow-motion.
-
----
-
-In other words, storytelling is not only the art of strategically withholding information, it’s also the art of time dilation.
-
-Okay, let’s pause.
-
-Let’s take inventory of our new storytelling ingredients: limited memorization, hooks, and climaxes with time dilation.
-
----
-
-The ingredient that I noticed each of them employed was vocal rhythm. This is the art of varying your:
-
-Speed
-
-Volume
-
-Enthusiasm
-
-Staccato and rhyme
-
-And most of all… vocal rhythm is the art of purposeful silence.
-
----
-
-spoken storytelling is a form of music.
 
 ---
 
