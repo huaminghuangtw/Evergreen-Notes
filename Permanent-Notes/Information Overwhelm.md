@@ -1,7 +1,7 @@
 ---
 title: Information Overwhelm
 created: 2024-11-18T09:18:12
-modified: 2025-10-15T15:22:44
+modified: 2025-10-16T04:57:04
 ---
 
 > _“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” ― T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654)_
@@ -43,7 +43,7 @@ modified: 2025-10-15T15:22:44
 	* Think about the areas of your life where you are placing unnecessary pressure on yourself to have everything in a “completed” state, e.g., to-read pile (Read-It-Later → Never-Read-It).
 	* Perhaps that area is better viewed as a RIVER than as a BUCKET — as a cycle, not a fixed state.
 * Build a [note-taking habit](note-taking.md) and an [idea-capturing system](idea%20capture%20inbox.md)
-* Consume less. [Reflect/Review](reflect-and-review.md) or [Create/Produce/Make/Build](Creativity%20is%20just%20connecting%20things.md) More.
+* Consume less. [Reflect/Review](reflect-and-review.md) or [Create/Produce/Make/Build](creativity-is-just-connecting-things.md) More.
 	* Embrace [Low Information Diet](Low%20Information%20Diet.md) to avoid the “[Mental Squeeze Point](https://notes.linkingyourthinking.com/Cards/Mental+Squeeze+Point)”
 	* Spend more time _connecting dots (convergent exploiting)_ than you do _collecting them (divergent exploring)_
 	* Strive for a balance between _consuming_ and _digesting_ information—because if you only take in content without truly processing it, you’re likely to forget most of what you encounter.
