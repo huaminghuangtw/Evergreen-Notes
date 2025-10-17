@@ -1,7 +1,7 @@
 ---
 title: Live in the present
 created: 2024-11-18T09:18:12
-modified: 2025-10-13T17:49:45
+modified: 2025-10-16T20:38:54
 ---
 
 > _“It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.” — Dr. Robert Hutchings Goddard_
@@ -14,7 +14,7 @@ modified: 2025-10-13T17:49:45
 
 > _“Forget yesterday - it has already forgotten you. Don’t sweat tomorrow - you haven’t even met. Instead, open your eyes and your heart to a truly precious gift - today.” — Steve Maraboli_
 
-> _“If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.” — Roy T. Bennett_
+> _“If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.” — Roy T. Bennett_ [^1]
 
 > _[“I think and think and think, I‘ve thought myself out of happiness one million times, but never once into it.” — Jonathan Safran Foer](https://www.goodreads.com/quotes/12278-i-think-and-think-and-think-i-ve-thought-myself-out)_
 
@@ -32,7 +32,7 @@ modified: 2025-10-13T17:49:45
 
 > _“The gods envy us. They envy us because we’re [mortal](death.md), because any moment may be our last. Everything is more beautiful because we’re doomed. You will never be lovelier than you are now. We will never be here again.” — Brad Pitt_
 
-> _“We are always living in expectation of better things, while at the same time we often repent and long to have the past back again.We look upon the present as something to be put up with while it lasts, and serving only as the way towards our goal. Hence most people, if they glance back when they come to the end of life, will find that all along they have been living **ad interim** :[^1] they will be surprised to find that the very thing they disregarded and let slip by unenjoyed was just their life-that is to say, it was the very thing in the expectation of which they lived. Of how many a man may it not be said that hope made a fool of him until he danced into the arms of death!” — Arthur Schopenhauer_
+> _“We are always living in expectation of better things, while at the same time we often repent and long to have the past back again.We look upon the present as something to be put up with while it lasts, and serving only as the way towards our goal. Hence most people, if they glance back when they come to the end of life, will find that all along they have been living **ad interim** :[^2] they will be surprised to find that the very thing they disregarded and let slip by unenjoyed was just their life-that is to say, it was the very thing in the expectation of which they lived. Of how many a man may it not be said that hope made a fool of him until he danced into the arms of death!” — Arthur Schopenhauer_
 
 > _“Don’t count the days. Make the days count.” — Muhammad Ali_
 
@@ -90,7 +90,7 @@ We often treat the present as a _vehicle for something else_, failing to see tha
 
 ---
 
-“[今は今、今度は今度](https://www.imdb.com/title/tt27503384/)” [^2]
+“[今は今、今度は今度](https://www.imdb.com/title/tt27503384/)” [^3]
 
 * Translation:
 	* Now is now, next time is next time.
@@ -117,5 +117,6 @@ We often treat the present as a _vehicle for something else_, failing to see tha
 * [Control the controllable](control-the-controllable.md)
 * [Time is the most valuable asset](Time%20is%20the%20most%20valuable%20asset.md)
 
-[^1]: (adv.) for an intervening or temporary period of time
-[^2]: [いま 是「現在」的意思，有「把握現在、活在當下」之意](https://www.facebook.com/people/e-MA-Cycling-Team/100057359174980/)
+[^1]: Live in the “here and now,” focusing on what we can do today instead of dwelling on the past or worrying about the future.
+[^2]: (adv.) for an intervening or temporary period of time
+[^3]: [いま 是「現在」的意思，有「把握現在、活在當下」之意](https://www.facebook.com/people/e-MA-Cycling-Team/100057359174980/)
