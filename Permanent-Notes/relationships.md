@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-10-14T07:42:59
+modified: 2025-10-16T05:00:42
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -29,6 +29,13 @@ Time doesn’t heal anything when it comes to relationships.
 ---
 
 喜歡一個人是例外，不喜歡一個人才是常態。
+
+---
+
+你我之間剛剛好的距離是：
+
+1. 遠不孤單，近不受傷
+2. 不會因過於親近而受傷，也不會因過於疏遠而感到孤單
 
 ---
 
