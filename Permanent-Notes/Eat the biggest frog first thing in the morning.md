@@ -1,7 +1,7 @@
 ---
 title: Eat the biggest frog first thing in the morning
 created: 2024-12-04T17:55:24
-modified: 2025-10-15T05:33:06
+modified: 2025-10-17T06:28:07
 ---
 
 > _“Do one thing every day that scares you.” — Eleanor Roosevelt_
@@ -53,7 +53,7 @@ First things first. Do the most important thing [^2] first, not the most urgent 
 
 ---
 
-The Theory of Constraints is a business philosophy first proposed by Eliyahu Goldratt in his 1984 book, «The Goal».
+The Theory of Constraints is a business philosophy first proposed by Eliyahu Goldratt in his 1984 book, *The Goal*.
 
 The key idea is that every system has at least one constraint that restricts its ability to grow or meaningfully improve its desired output.
 
