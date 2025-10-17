@@ -1,7 +1,7 @@
 ---
 title: The Bystander Effect
 created: 2025-01-23T10:40:57
-modified: 2025-08-29T08:30:45
+modified: 2025-10-17T06:29:15
 ---
 
 = Bystander Apathy
@@ -9,7 +9,7 @@ modified: 2025-08-29T08:30:45
 **“Let someone help, not me.”** [@philpotWouldBeHelped2020]
 * [People are less likely to help someone in need when other people are present.](https://sketchplanations.com/the-bystander-effect)
 
-Poem: «Everybody Somebody Anybody and Nobody»
+Poem: _Everybody Somebody Anybody and Nobody_
 
 > This is a story about four people named _Everybody_, _Somebody_, _Anybody and Nobody_.
 >
