@@ -1,13 +1,14 @@
 ---
 title: Breathing Techniques
 created: 2025-10-08T05:07:10
-modified: 2025-10-10T17:25:30
+modified: 2025-10-17T13:15:35
 ---
 
 * Breath Counting
 	* 默念：1, 2, 3, …
 	* 默念：in, out, in, out, …
 	* 默念：“Breathe in, my mind clears”, “Breathe out, my body relaxes”
+		* Breathe in, and close your eyes. Breathe out, and smile.
 	* 默念：“Relaxation flows in”, “Stress flows out”
 * Breath Control ([Diaphragmatic/Belly/Abdominal Breathing](https://www.medicalnewstoday.com/articles/diaphragmatic-breathing))
 	* Normal breathing is relatively _shallow_ and does not use the full capacity of the lungs. Diaphragmatic breathing is a _deep_ breathing exercise that fully engages the diaphragm and increases the efficiency of the lungs
