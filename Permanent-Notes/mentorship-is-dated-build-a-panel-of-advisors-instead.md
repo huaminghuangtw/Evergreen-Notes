@@ -1,7 +1,7 @@
 ---
 title: Mentorship is dated, build a panel of advisors instead
 created: 2025-01-23T10:40:57
-modified: 2025-10-07T16:54:48
+modified: 2025-10-16T04:58:18
 ---
 
 ![](../_attachments/1abb6f103b7cbb0ab268cd7901aa80bb.jpg)
@@ -35,7 +35,7 @@ modified: 2025-10-07T16:54:48
 
 ## See Also
 
-* [The Medici Effect](The%20Medici%20Effect.md)
+* [The Medici Effect](the-medici-effect.md)
 * [Lateral Thinking](Lateral%20Thinking.md)
 * [Systems Thinking](Systems%20Thinking.md)
 
