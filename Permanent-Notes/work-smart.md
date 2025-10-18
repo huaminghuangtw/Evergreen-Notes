@@ -1,7 +1,7 @@
 ---
 title: Work smart
 created: 2025-01-23T10:40:57
-modified: 2025-09-05T03:34:56
+modified: 2025-10-18T06:05:31
 ---
 
 > _“You’re more likely to unlock a big leap in performance by trying differently than by trying harder. You might be able to work 10% harder, but a different approach might work 10x better. Remain focused on the core problem, but explore a new line of attack. Persistence is not just about effort, but also strategy. Don’t merely try harder, try differently.” — James Clear_
@@ -63,7 +63,7 @@ Never press the “Try/Grind Harder” button. Instead, build a sustainable _[sy
 
 # [“Hard Work → Hard Thinking” by James Clear](https://x.com/JamesClear/status/1382433293686210568)
 
-We need to redefine “[hard work](Work%20hard.md)” to include “[hard thinking.](Planning%20and%20preparation%20help%20maximize%20your%20productivity.md)”
+We need to redefine “[hard work](Work%20hard.md)” to include “[hard thinking.](planning-and-preparation-help-maximize-your-productivity.md)”
 
 * The person who outsmarts you is out working you.
 * The person who finds shortcuts is out working you.
