@@ -1,7 +1,7 @@
 ---
-title: If It Isn’t Fuck Yes, Then It’s Clear No Thank You
+title: If it isn’t fuck yes, then it’s clear no thank you
 created: 2024-11-18T09:16:49
-modified: 2025-10-07T05:09:57
+modified: 2025-10-18T16:57:48
 ---
 
 **TL; DR** Default to NO.
@@ -15,10 +15,6 @@ modified: 2025-10-07T05:09:57
 > _“We need to learn the slow ‘yes’ and the quick ‘no.’” — Tom Friel, the former CEO of Heidrick & Struggles_
 
 > _“Half of the troubles of this life can be traced to saying yes too quickly and not saying no soon enough.” — Josh Billings_
-
----
-
-When you say ‘yes’ to others, make sure you are not saying ‘no’ to yourself. Don’t be the one to tell yourself no.
 
 ---
 
@@ -98,6 +94,7 @@ Two-factor authentication against your calendar by Naval Ravikant
 
 ## See Also
 
-* [Seven Things Successful People Say No To Every Day](Seven%20Things%20Successful%20People%20Say%20No%20To%20Every%20Day.md)
+* [Seven Things Successful People Say No To Every Day](seven-things-successful-people-say-no-to-every-day.md)
 * [Focus is about saying no](focus-is-about-saying-no.md)
 * [How to say NO with grace and style](how-to-say-no-with-grace-and-style.md)
+* [You don’t need to be liked to be loved](you-dont-need-to-be-liked-to-be-loved.md)
