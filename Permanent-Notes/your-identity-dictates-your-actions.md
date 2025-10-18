@@ -1,7 +1,7 @@
 ---
 title: Your identity dictates your actions
 created: 2025-03-12T01:41:12
-modified: 2025-10-05T16:05:51
+modified: 2025-10-18T07:38:14
 ---
 
 > _“The bad workouts are the most important ones. It’s easy to train when you feel good, but it’s crucial to show up when you don’t feel like it—even if you do less than you hope. Going to the gym for 15 minutes might not improve your performance, but it reaffirms your identity. **It’s not always about what happens during the workout. It’s about becoming the type of person who doesn’t miss workouts.**” — James Clear_
@@ -39,17 +39,7 @@ Actionable Steps:
 
 ---
 
-> _“Personality is how you respond on a typical day, character is how you show up on a hard day.” ― Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
-
-> _“Character is often confused with personality, but they’re not the same. Personality is your predisposition—your basic instincts for how to think, feel, and act. Character is your capacity to prioritize your values over your instincts.” ― Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
-
-> _“Character is more than just having principles. It’s a learned capacity to live by your principles.” ― Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
-
-> _“Be more concerned with your character than with your reputation, because your character is what you really are, while your reputation is merely what others think you are.” — John Wooden_
-
-* Your character is who you are on the inside. Your reputation is who others see on the outside.
-* Your character is who you are when no one is looking. Your reputation is who others see when they are looking.
-* Your character is who you are when facing a crisis. Your reputation is who others see when facing a crisis.
+[Character is who you are when nobody’s watching](character-is-who-you-are-when-nobodys-watching.md)
 
 ---
 
