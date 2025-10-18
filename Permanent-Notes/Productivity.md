@@ -1,7 +1,7 @@
 ---
 title: Productivity
 created: 2024-11-18T09:18:12
-modified: 2025-10-07T14:18:15
+modified: 2025-10-18T06:05:31
 ---
 
 > _“Productivity is most important for things you don’t want to be doing. Most people want to increase productivity so they can spend less time on the task. But before you worry about being more productive, think about being more selective. Rather than focusing on increasing productivity, it may be worth asking, ‘What would I be delighted to spend time on, even if it went slowly?’ Direct your energy toward figuring out how to start what you want to do rather than thinking about how to shorten what you don’t want to do.” — James Clear_
@@ -74,7 +74,7 @@ There are two synergistic approaches for increasing productivity that are invers
 
 # See Also
 
-* [Planning and preparation help maximize your productivity](Planning%20and%20preparation%20help%20maximize%20your%20productivity.md)
+* [Planning and preparation help maximize your productivity](planning-and-preparation-help-maximize-your-productivity.md)
 * [What you work on is far more important than how productively you work](what-you-work-on-is-far-more-important-than-how-productively-you-work.md)
 
 [^1]: Productivity can be redefined as minimizing waste in various aspects of life, such as time, energy, attention, ideas, and one’s potential. → [Lean Thinking](https://www.google.com/search?q=Lean+Thinking)
