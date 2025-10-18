@@ -1,7 +1,7 @@
 ---
 title: Kindness
 created: 2024-11-18T09:18:12
-modified: 2025-10-16T20:39:44
+modified: 2025-10-18T07:36:40
 ---
 
 > _“Kindness is a language which the deaf can hear and the blind can see.” — Mark Twain_
@@ -32,6 +32,12 @@ Sometimes the greatest act of kindness is…
 # Horizontal Relationships
 
 Treat everyone as equal, regardless of status or age. Avoid hierarchical thinking.
+
+You are how you treat people when nobody’s watching. [Character is who you are when nobody’s watching.](character-is-who-you-are-when-nobodys-watching.md)
+
+You can tell a lot about someone’s character by how they treat service staff.
+
+> 觀察一個人對待服務生的態度，就可以大致看出一個人的真實性格。若是採取冷漠和輕視的態度，或是命令的口氣，就可以知道這個人不適合長期來往，因為有很大的機率，他們內心有一種優越感，認為自己比別人高級，缺乏站在他人角度思考的同理心。
 
 ---
 
