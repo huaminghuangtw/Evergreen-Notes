@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-10-12T08:12:59
+modified: 2025-10-18T08:09:55
 ---
 
 Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
@@ -85,6 +85,8 @@ Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
 ---
 
 # Learning by Doing
+
+> _[“Acquiring knowledge is easy, the hard part is knowing what to apply and when. That’s why all true learning is “on the job.” Life is lived in the arena.” — Naval Ravikant](https://x.com/naval/status/1930058059172458665)_
 
 * One learns best through hands-on practice (through projects)
 * [No one learns new things faster than someone who needs to apply the knowledge right now; so if you want to learn fast, commit to something ASAP that requires it.](https://x.com/anuatluru/status/1741281104953278748)
