@@ -1,7 +1,7 @@
 ---
 title: Neuroscience
 created: 2024-11-18T09:18:12
-modified: 2025-10-02T03:55:55
+modified: 2025-10-18T06:57:03
 ---
 
 The brain is a monkey brain with a supercomputer on top.
@@ -144,5 +144,15 @@ The brain is a monkey brain with a supercomputer on top.
 ---
 
 [Fluid Intelligence versus Crystallized Intelligence](Fluid%20Intelligence%20versus%20Crystallized%20Intelligence.md)
+
+---
+
+# aMCC（Anterior Mid-Cingulate Cortex，前扣帶皮層中部）
+
+它和人類的意志力、求生本能有很大的關聯。
+
+科學家發現，aMCC 的大小會隨著個人狀態改變。例如，肥胖者的 aMCC 較小，但節食後會變大；運動員的 aMCC 通常較大，而那些經常挑戰自我、克服困難的人，aMCC 甚至可以「持續變大」。
+
+那麼，如何讓 aMCC 變大？[從事讓你感到厭惡、但具挑戰性的事情。](do-hard-things.md)當你投入精力去做那些困難、讓你抗拒的事時，aMCC 就會增長。反之，當你過於安於現狀時，aMCC 會逐漸縮小。
 
 [^1]: See also: [Satir Transformational Systemic Therapy (STST)](Satir%20Transformational%20Systemic%20Therapy%20(STST).md)
