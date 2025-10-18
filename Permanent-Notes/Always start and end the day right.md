@@ -1,7 +1,7 @@
 ---
 title: Always start and end the day right
 created: 2025-01-23T10:40:57
-modified: 2025-10-16T05:23:45
+modified: 2025-10-18T06:05:31
 ---
 
 > _“Every morning in Africa, a gazelle wakes up, it knows it must outrun the fastest lion or it will be killed. Every morning in Africa, a lion wakes up. It knows it must run faster than the slowest gazelle, or it will starve. It doesn’t matter whether you’re the lion or a gazelle-when the sun comes up, you’d better be running.” — Christopher McDougall_
@@ -99,7 +99,7 @@ Every morning, you naturally wake up in a flow zone—your brain operates at the
 
 The key to a productive morning is preparation the night before. Your [to-do list](Variants%20of%20to-do%20list.md) should be ready before you sleep—waiting until morning to plan means you’re already too late. _Today’s to-do list is for tomorrow._
 
-A little [planning, preparation](Planning%20and%20preparation%20help%20maximize%20your%20productivity.md), and visualization is a small nightly habit that pays major dividends.
+A little [planning, preparation](planning-and-preparation-help-maximize-your-productivity.md), and visualization is a small nightly habit that pays major dividends.
 
 1. Spend 10-15 minutes writing down and setting up everything for the top 2-3 priority tasks _the night before (at the end of your workday)_, in order to remove the friction for getting started on [the ONE THING](Eat%20the%20biggest%20frog%20first%20thing%20in%20the%20morning.md) for _the next morning_. By making your to-do list the night before, you can wake up and get right to work immediately without thinking too much. _Morning is for [action](cultivate-a-strong-bias-towards-action.md), not [decision-making](decision-making.md)._ [Decision fatigue](decision-fatigue.md) will stop you from getting into the flow state as you’ll have to decide what to do rather than diving in head first.
 2. At the end of your day, conclude your conscious thinking on the [Most Important Question (MIQ)](https://mindfulambition.net/most-important-question-journal/)—_a highest-order question, hat, if answered, would create the biggest positive impact in your life_—and hand it over to your unconscious mind to process overnight. Let go, rest, and avoid stressing about it. Then, revisit the MIQ before exposing yourself to new inputs **[before exposing yourself to any new inputs](https://www.youtube.com/watch?v=wAnDWfEIwoE&t=2h56m30s)** in the morning. [^3]
