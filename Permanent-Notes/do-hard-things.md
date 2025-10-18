@@ -1,7 +1,7 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2025-10-12T18:39:24
+modified: 2025-10-18T06:56:25
 ---
 
 > _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
@@ -121,6 +121,7 @@ When things get hard, the mental gymnastics start—you start convincing yoursel
 [Make Something Heavy - by Anu Atluru - Working Theorys](https://www.workingtheorys.com/p/make-something-heavy)
 
 ---
+
 
 ## See Also
 
