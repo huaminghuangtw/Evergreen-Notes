@@ -1,7 +1,7 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2025-10-12T16:11:54
+modified: 2025-10-18T06:05:31
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -95,7 +95,7 @@ Continuous effort, not strength or intelligence, is the key to unlocking our pot
 
 ---
 
-Doing a thing once is nothing special. You’re only a legend if you can do it back to back to back with thousands of hours of meticulous [preparation](Planning%20and%20preparation%20help%20maximize%20your%20productivity.md).
+Doing a thing once is nothing special. You’re only a legend if you can do it back to back to back with thousands of hours of meticulous [preparation](planning-and-preparation-help-maximize-your-productivity.md).
 
 ---
 
