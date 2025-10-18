@@ -1,7 +1,7 @@
 ---
 title: Solitude
 created: 2024-11-18T09:18:12
-modified: 2025-10-15T12:30:18
+modified: 2025-10-18T05:51:54
 ---
 
 > _“To live alone, one must be either a beast or a god, says Aristotle. Leaving out the third case: one must be both — a philosopher.” — Nietzsche_
@@ -16,9 +16,9 @@ To shine in the light, you have to embrace the boredom in the dark.
 
 ---
 
-There are many elements of living a good life, but the first and most foundational is to love yourself and enjoy spending time with yourself.
+There are many elements of [living a good life](how-to-live-a-life.md), but the first and most foundational is to [love yourself](Self-compassion.md) and enjoy spending time with yourself.
 
-Go do things on your own so you learn to trust your mind and view it as a welcome companion. If someone declared, “Tomorrow you must spend the day alone” the hope is that you would reply, “That sounds like a good day!”
+[Go do things on your own / Take yourself on dates](https://www.youtube.com/watch?v=k7X7sZzSXYs) so you learn to trust your mind and view it as a welcome companion. If someone declared, “Tomorrow you must spend the day alone” the hope is that you would reply, “That sounds like a good day!”
 
 The person who is at ease within finds every other space larger and more enjoyable. [^1]
 
