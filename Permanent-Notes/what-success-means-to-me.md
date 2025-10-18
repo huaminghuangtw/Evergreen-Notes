@@ -1,7 +1,7 @@
 ---
 title: What Success Means To Me
 created: 2024-11-18T09:18:12
-modified: 2025-10-15T05:56:21
+modified: 2025-10-18T07:31:38
 ---
 
 > _[“Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable. And you're the only one that will know that.” — John Wooden](https://www.youtube.com/watch?v=JWQIxuNGdvQ&t=95s)_
@@ -27,6 +27,8 @@ modified: 2025-10-15T05:56:21
 > _[“The ultimate success metric is whether you get what you want out of life. But that’s harder than it sounds because it’s easy to try to copy someone who wants something you don’t.” — Morgan Housel](https://collabfund.com/blog/your-way-is-the-only-way/)_
 
 > _“Redefine success. The most meaningful form of performance is progress. The ultimate mark of potential is not the height of the peak you’ve reached, but the distance you’ve traveled—and helped others travel.” ― Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
+
+> _“Success isn’t about how your life looks to others. It’s about how it feels to you.” — Michelle Obama_
 
 ---
 
@@ -77,18 +79,18 @@ modified: 2025-10-15T05:56:21
 
 ---
 
-- The true rich men count memories, not money.
-- The true rich men invest in time, not things.
-- The true rich men give more than they take.
-- The true rich men sleep peacefully, not luxuriously.
-- The true rich men have nothing to prove.
-- The true rich men are rich in patience, not possessions.
-- The true rich men grow wealth that can’t be stolen.
-- The true rich men live simply so others may simply live.
-- The true rich men die empty, not full.
-- The true rich men have gratitude as their currency.
-- The true rich men surround themselves with people they love, not things they own.
-- The true rich men make peace with less.
+* The true rich men count memories, not money.
+* The true rich men invest in time, not things.
+* The true rich men give more than they take.
+* The true rich men sleep peacefully, not luxuriously.
+* The true rich men have nothing to prove.
+* The true rich men are rich in patience, not possessions.
+* The true rich men grow wealth that can’t be stolen.
+* The true rich men live simply so others may simply live.
+* The true rich men die empty, not full.
+* The true rich men have gratitude as their currency.
+* The true rich men surround themselves with people they love, not things they own.
+* The true rich men make peace with less.
 
 ---
 
