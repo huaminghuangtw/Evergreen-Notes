@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-17T05:58:58
+modified: 2025-10-18T05:57:21
 ---
 
 Spend 30 minutes daily…
@@ -89,7 +89,6 @@ In my experience, most people underestimate their full capability and overestima
 Paired walkers with better first impression synchronize better (<https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227880>)
 
 
-
 ---
 
 The Narrative Fallacy is the tendency to craft a story around data, events, and inputs. Basically, our brains like to “make sense” of the random chaos around us, so the stories provide that structure—they provide a sense of calm.
@@ -100,13 +99,6 @@ New information is massaged to fit that story, or rejected if it doesn’t.
 
 ---
 
-[Rückenfigur](https://sketchplanations.com/ruckenfigur)
-
-Rücken (back) and Figur (figure), which roughly translates to “figure seen from behind.”
-
-Rückenfigur is a technique in composition where a person is included in the scene facing out to the view rather than at the viewer.
-
----
 
 Do not conform to the pattern of this world, but be transformed by the renewing of your mind.” - Romans 12:2
 
