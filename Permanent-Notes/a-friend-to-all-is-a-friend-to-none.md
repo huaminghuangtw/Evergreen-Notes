@@ -1,7 +1,7 @@
 ---
 title: A friend to all is a friend to none
 created: 2024-11-18T09:18:12
-modified: 2025-10-14T06:42:10
+modified: 2025-10-19T16:13:18
 ---
 
 > _“A true friend never gets in your way unless you happen to be going down.” — Arnold H. Glasow_
@@ -92,5 +92,16 @@ There are two types of friends:
 	* Most people in your life are Summer Friends, and when winter inevitably comes, they are gone.
 * **Winter Friends** are the ones who are there for you when it’s cold and dark. They are the locals, who have the wisdom to know that the seasons come and go.
 	* The Winter Friends are the relationships that you really need to cultivate. Those are the people who will be there for you throughout the different seasons of your life.
+
+---
+
+> 孔子曰：「益者三友，損者三友。 友直、友諒、友多聞，益矣。 友便辟、友善柔、友便佞，損矣。」—《論語 ‧ 季氏篇》
+
+* 友直：與正直的人交朋友。
+* 友諒：與誠實的人交朋友。
+* 友多聞：與見多識廣的人交朋友。
+* 便辟：走邪門歪道的人。
+* 善柔：讒媚奉迎的人。
+* 便佞：花言巧語的人。
 
 [^1]: Why does this happen? “Energy Transference”
