@@ -1,7 +1,7 @@
 ---
 title: Live in the present
 created: 2024-11-18T09:18:12
-modified: 2025-10-16T20:38:54
+modified: 2025-10-19T15:51:53
 ---
 
 > _“It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.” — Dr. Robert Hutchings Goddard_
@@ -46,7 +46,11 @@ modified: 2025-10-16T20:38:54
 
 ---
 
-活在當下：「除了此時此刻，我們一無所有」
+珍惜現在，活在當下：「除了此時此刻，我們一無所有。」
+
+---
+
+生命的真諦，就是此時此刻的酸、甜、苦、樂
 
 ---
 
