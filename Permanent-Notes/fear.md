@@ -1,7 +1,7 @@
 ---
 title: Fear
 created: 2024-11-18T09:18:12
-modified: 2025-09-21T06:56:22
+modified: 2025-10-19T12:03:21
 ---
 
 > _“Fear is a natural reaction to moving closer to the truth” — Pema Chodron_
@@ -25,6 +25,8 @@ modified: 2025-09-21T06:56:22
 ---
 
 If you can’t beat the fear, do it scared.
+
+If you want something, do it. If you want something, but you’re scared, do it scared.
 
 ---
 
@@ -59,7 +61,7 @@ If we’re controlled by fear, we’re in the mode of ignorance.
 
 # Naval Ravikant
 
-* _“90% of our thoughts are fear-based. 10% of our thoughts are [desire](The%20absence%20of%20desire%20is%20true%20happiness.md)-based.”_
+* _“90% of our thoughts are fear-based. 10% of our thoughts are [desire](the-absence-of-desire-is-true-happiness.md)-based.”_
 * _“I think it’s not we fear [death](death.md). It’s we fear not [living the life that we want](how-to-live-a-life.md). And I think the easiest way to get out of that is to [start living the life you want](intentional-living.md) [now](live-in-the-present.md), not putting/frittering it off.”_
 	* This will make you feel that life is long, and you will be less afraid of [dying](death.md).
 
