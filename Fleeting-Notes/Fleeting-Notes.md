@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-18T05:57:21
+modified: 2025-10-19T06:45:43
 ---
 
 Spend 30 minutes daily…
@@ -88,15 +88,6 @@ In my experience, most people underestimate their full capability and overestima
 
 Paired walkers with better first impression synchronize better (<https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227880>)
 
-
----
-
-The Narrative Fallacy is the tendency to craft a story around data, events, and inputs. Basically, our brains like to “make sense” of the random chaos around us, so the stories provide that structure—they provide a sense of calm.
-
-Therefore, the original stories are often the ones that gets preserved and deeply entrenched:
-
-New information is massaged to fit that story, or rejected if it doesn’t.
-
 ---
 
 
@@ -143,18 +134,6 @@ You can take as many breaks as you like as long as the breaks are less stimulati
 ---
 
 [The Peter Principle](https://sketchplanations.com/the-peter-principle)
-
----
-
-“Stress is caused by being ‘here’ but wanting to be ‘there.’” — Eckhart Tolle
-
----
-
-“Doubt kills more dreams than failure ever will.” - Suzy Kassem
-
-It’s not the sheer difficulty of achieving something that stops you.
-
-It’s the ease of continuing to tell yourself the story that you can’t.
 
 ---
 
