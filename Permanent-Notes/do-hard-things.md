@@ -1,10 +1,12 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2025-10-18T06:56:25
+modified: 2025-10-19T11:48:56
 ---
 
 > _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
+
+> _“A smooth sea never made a skilled sailor.” ― Franklin D. Roosevelt_
 
 > _“One day, in retrospect, the years of struggle will strike you as the most beautiful.” — Sigmund Freud_
 
@@ -121,7 +123,6 @@ When things get hard, the mental gymnastics start—you start convincing yoursel
 [Make Something Heavy - by Anu Atluru - Working Theorys](https://www.workingtheorys.com/p/make-something-heavy)
 
 ---
-
 
 ## See Also
 
