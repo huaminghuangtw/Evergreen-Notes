@@ -1,14 +1,16 @@
 ---
 title: Stress & Anxiety
 created: 2024-11-18T09:18:12
-modified: 2025-10-14T04:46:41
+modified: 2025-10-19T12:07:48
 ---
 
 > _“Stress happens when the mind resists what is.” — Dan Millman_
 
+> _“Stress is caused by being ‘here’ but wanting to be ‘there.’” — Eckhart Tolle_
+
 ---
 
-Root Cause: Having two conflicting internal [desires](The%20absence%20of%20desire%20is%20true%20happiness.md) at the same time, and you are confused which one to choose.
+Root Cause: Having two conflicting internal [desires](the-absence-of-desire-is-true-happiness.md) at the same time, and you are confused which one to choose.
 
 # Examples
 
@@ -37,6 +39,8 @@ Root Cause: Having two conflicting internal [desires](The%20absence%20of%20desir
 * [The Yerkes-Dodson Law](the-yerkes-dodson-law.md)
 
 ---
+
+EMDR 眼動身心重建法
 
 TSST = Trier Social Stress Test
 
