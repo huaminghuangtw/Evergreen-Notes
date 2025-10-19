@@ -1,11 +1,12 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-10-12T08:32:06
+modified: 2025-10-19T06:44:04
 ---
 
 > _“Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes_
 comp
+
 > _We are what we believe we are.” — C.S. Lewis_
 
 > _“Talk to yourself like you talk to someone you love.” — Brené Brown_
@@ -52,6 +53,8 @@ At any given moment you have the power to say: “This is not how the story is g
 
 ---
 
+> _“Doubt kills more dreams than failure ever will.” — Suzy Kassem_
+
 Pay close attention to the stories you tell yourself, because stories create your reality.
 
 The quality of your stories impacts the quality of your life.
@@ -60,7 +63,7 @@ The quality of your stories impacts the quality of your life.
 * If you tell yourself you aren’t worthy, you won’t reach for it.
 * If you tell yourself you’re a static entity, you won’t attempt to grow.
 
-So often, it’s not [the sheer difficulty of achieving something](do-hard-things.md) that stops you—it’s the ease of continuing to tell yourself the story that you can’t. Don’t be the one to tell yourself no.
+So often, **it’s not [the sheer difficulty of achieving something](do-hard-things.md) that stops you—it’s the ease of [continuing to tell yourself the story](the-narrative-fallacy.md) that you can’t.** Don’t be the one to tell yourself no.
 
 ---
 
