@@ -1,7 +1,7 @@
 ---
 title: Adaptability
 created: 2024-11-18T09:18:12
-modified: 2025-10-07T06:20:54
+modified: 2025-10-19T14:35:59
 ---
 
 > _“It is not the strongest of the species that survives, nor the most intelligent. It is the one most adaptable to change; but the species that survives is the one that is able best to adapt and adjust to the changing environment in which it finds itself.” — Charles Darwin_ [^1]
@@ -21,6 +21,10 @@ modified: 2025-10-07T06:20:54
 ---
 
 Adaptability (\& Flexibility) is the single most powerful trait in life—the ability and willingness to pivot quickly and follow new information or evidence.
+
+---
+
+The highest intelligence isn’t knowing—it’s adapting. Knowledge matters, but the ability to learn, unlearn, and change course/direction matters more. **The rigid hold on to what was; the adaptable move with what is and flow toward what will be.**
 
 ---
 
