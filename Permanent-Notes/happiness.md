@@ -1,12 +1,12 @@
 ---
 title: Happiness
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-10-19T11:57:37
 ---
 
 > _“Happiness is a state where nothing is missing.” — Naval Ravikant_
 
-> _“Happiness is not about positive or negative thoughts — it’s about [the absence of desire](The%20absence%20of%20desire%20is%20true%20happiness.md), especially the absence of desire for external things.” — Naval Ravikant_
+> _“Happiness is not about positive or negative thoughts — it’s about [the absence of desire](the-absence-of-desire-is-true-happiness.md), especially the absence of desire for external things.” — Naval Ravikant_
 
 > _“Happiness is a perfume you cannot pour on others without getting a few drops on yourself.” — Ralph Waldo Emerson_
 
@@ -67,7 +67,7 @@ Happiness
 
 = Agency + Gratitude
 
-= [Reality - Expectations](The%20absence%20of%20desire%20is%20true%20happiness.md) [^1]
+= [Reality - Expectations](the-absence-of-desire-is-true-happiness.md) [^1]
 
 = Do what you love + Live where you like + Be with who you love
 
