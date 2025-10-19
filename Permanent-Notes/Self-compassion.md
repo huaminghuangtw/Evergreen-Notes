@@ -1,7 +1,7 @@
 ---
 title: Self-compassion
 created: 2025-01-23T10:40:57
-modified: 2025-10-14T04:56:42
+modified: 2025-10-19T16:43:12
 ---
 
 > _“What you deny subdues you. What you accept transforms you.” — Carl Jung_
@@ -22,9 +22,9 @@ modified: 2025-10-14T04:56:42
 
 ---
 
-| ![](../_attachments/5ae6d3f873aa0b973892cf21427f407b.jpeg) |
-| :---: |
-| <sub>[Source](https://images.unsplash.com/photo-1579591165159-edec885269b5?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)</sub> |
+| ![](https://images.unsplash.com/photo-1579591165250-987f23844669?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470) |
+| :-: |
+| <sub>[Source](https://unsplash.com/photos/black-and-red-floral-happy-birthday-signage-WQC8HvAU2SY)</sub> |
 
 ---
 
