@@ -1,7 +1,7 @@
 ---
 title: Breathing Techniques
 created: 2025-10-08T05:07:10
-modified: 2025-10-17T13:15:35
+modified: 2025-10-20T07:53:30
 ---
 
 * Breath Counting
@@ -82,6 +82,6 @@ modified: 2025-10-17T13:15:35
 
 [想像一個正方形，每個邊都是 4 秒](https://sketchplanations.com/box-breathing)，跟著節奏繞行，就能穩定心率，找回專注。
 
-如果你想找個工具輔助，可以試試 [The Breathing App](https://www.thebreathing.app/)。它沒有任何多餘的設計，只專注於一件事：引導你呼吸。
+#Newsletter 如果你想找個工具輔助，可以試試 [The Breathing App](https://www.thebreathing.app/)。它沒有任何多餘的設計，只專注於一件事：引導你呼吸。
 
 無論多忙，你都值得一個「重新整理」的機會。現在就放下手邊任務，閉上眼，專注呼吸一分鐘。這是隨時能送給自己的一份最好的禮物！
