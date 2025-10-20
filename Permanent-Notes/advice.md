@@ -1,7 +1,7 @@
 ---
 title: Advice
 created: 2024-11-18T09:16:50
-modified: 2025-10-15T14:33:59
+modified: 2025-10-19T17:23:33
 ---
 
 # On Giving Advice
