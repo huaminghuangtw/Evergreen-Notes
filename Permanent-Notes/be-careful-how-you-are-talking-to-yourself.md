@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-10-19T06:44:04
+modified: 2025-10-20T08:10:54
 ---
 
 > _“Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes_
@@ -16,6 +16,8 @@ comp
 > _“The most important conversations you’ll ever have are the ones you’ll have with yourself. — You wake up with them, you walk around with them, you go to bed with them, and eventually you act on them.” ― [@gogginsCantHurtMe2018]_
 
 > _“The reason I talk to myself is because I’m the only one whose answers I accept.” — George Carlin_
+
+> _“Third-person self-talk is a way of being empathetic to ourselves.” ― Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)_
 
 ---
 
