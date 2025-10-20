@@ -1,7 +1,7 @@
 ---
 title: Implementation Intentions
 created: 2024-12-13T00:22:06
-modified: 2025-10-01T05:32:21
+modified: 2025-10-20T05:41:42
 ---
 
 is a self-regulating strategy that you make beforehand about _when_ and _where_ to act. That is, _how_ you intend to implement a particular action.
@@ -15,7 +15,7 @@ For example:
 	* **Where**: In the living room.
 	* **How**: Using my mat, and set of dumbbells. The exercise itself will be based on a pre-selection from YouTube.
 
-Implementation Intentions are known to help achieve a [goal](Goal%20Setting.md) or stick to a specific [habit/routine](be-a-habit-and-routine-machine.md)—**simply by writing down a plan that said exactly when and where you intend to** exercise, you are more likely to actually follow through the plan.
+Implementation Intentions are known to help achieve a [goal](goal-setting.md) or stick to a specific [habit/routine](be-a-habit-and-routine-machine.md)—**simply by writing down a plan that said exactly when and where you intend to** exercise, you are more likely to actually follow through the plan.
 
 However, no days are perfect. When plans fall apart, it’s great to use the “_if–then_” version of this strategy:
 
