@@ -1,7 +1,7 @@
 ---
 title: The Arrival Fallacy
 created: 2025-01-23T10:40:57
-modified: 2025-10-19T11:57:37
+modified: 2025-10-20T05:41:27
 ---
 
 > _“Arriving someplace more desirable at some future time is an illusion. This is it.” — Jon Kabat-Zinn_
@@ -45,8 +45,8 @@ Beware of destination addiction: The idea that happiness is in the next place, t
 # Actions
 
 * Stay in contentment
-	* 我們生活中唯一不變的是 [渴望](the-absence-of-desire-is-true-happiness.md)，而唯一確定的終點是 [旅程](Journey%20over%20destination.md) 本身。
-* [Expect nothing](Not%20caring%20lets%20us%20perform%20better.md)
+	* 我們生活中唯一不變的是 [渴望](the-absence-of-desire-is-true-happiness.md)，而唯一確定的終點是 [旅程](journey-over-destination.md) 本身。
+* [Expect nothing](not-caring-lets-us-perform-better.md)
 	* Reward Prediction Error = Actual Reward – Expected Reward
 	* Miracles do happen when you least expect it.
 	* 「[把目標砍半，以退為進](https://onyourpsy.com/010219/)」
@@ -56,6 +56,6 @@ Beware of destination addiction: The idea that happiness is in the next place, t
 
 ## See Also
 
-* [Journey over destination](Journey%20over%20destination.md)
+* [Journey over destination](journey-over-destination.md)
 * [Miswanting](miswanting.md)
 * [[The Impact Bias]]
