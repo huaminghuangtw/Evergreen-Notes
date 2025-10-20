@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-19T06:45:43
+modified: 2025-10-20T05:47:42
 ---
 
 Spend 30 minutes daily…
@@ -90,7 +90,6 @@ Paired walkers with better first impression synchronize better (<https://journal
 
 ---
 
-
 Do not conform to the pattern of this world, but be transformed by the renewing of your mind.” - Romans 12:2
 
 ---
@@ -113,10 +112,6 @@ Then, he turned to the old man and said, “Well, I made a difference to that on
 
 ---
 
-["Fall for none, rise for all." — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)
-
----
-
 Savor the little victories as much as you criticize the little mistakes. (Ali 書 p.177)
 
 ---
@@ -126,10 +121,6 @@ Savor the little victories as much as you criticize the little mistakes. (Ali �
 ---
 
 [Revealing Questions](https://quarter--mile.com/Revealing-Questions)
-
----
-
-You can take as many breaks as you like as long as the breaks are less stimulating than the work.
 
 ---
 
@@ -151,18 +142,6 @@ Your focus should be centered on that which is within your control:
 
 ---
 
-I can’t do that,”​
-
-High agency people ask, “How could I make this possible?”
-
----
-
-Preparation Always
-
-Beats Planning.
-
----
-
 [“He’s not perfect. You aren’t either, and the two of you will never be perfect. But if he can make you laugh at least once, causes you to think twice, and if he admits to being human and making mistakes, hold onto him and give him the most you can. He isn’t going to quote poetry, he’s not thinking about you every moment, but he will give you a part of him that he knows you could break. Don’t hurt him, don’t change him, and don’t expect for more than he can give. Don’t analyze. Smile when he makes you happy, yell when he makes you mad, and miss him when he’s not there. Love hard when there is love to be had. Because perfect guys don’t exist, but there’s always one guy that is perfect for you.” — Bob Marley](https://www.goodreads.com/quotes/361858-he-s-not-perfect-you-aren-t-either-and-the-two-of)
 
 ---
@@ -171,21 +150,11 @@ The richest person isn’t the one who has the most, but the one who need the le
 
 ---
 
----
-
 Only when habits of order are formed can we advance to really interesting fields of action—and consequently accumulate grain on grain of wilful choice like a very miser—never forgetting how one link dropped undoes an indefinite number. The more of the details of our daily life we can hand over to the effortless custody of automatism, the more our higher powers of mind will be set free for their own proper work. There is no more miserable human being than one in whom nothing is habitual but indecision, and for whom the lighting of every cigar, the drinking of every cup, the time of rising and going to bed every day, and the beginning of every bit of work, are subjects of express volitional deliberation.
 
 ---
 
 Compare your behind-the-scenes life to others’ curated highlight reel
-
----
-
-排序 = 排定優先順序
-
----
-
-When I get to my 2nd or 3rd workout, I find myself wanting to exercise more. When I miss 2 to 3 workouts I find myself wanting to do nothing instead. It’s all about momentum.
 
 ---
 
@@ -201,9 +170,6 @@ The power of Excitement Engineering
 
 ---
 
-“Knowing yourself is the beginning of all wisdom.” — Aristotle
-
----
 
 Robert Vallerand, who suggested that there are two distinct types of passion:
 
