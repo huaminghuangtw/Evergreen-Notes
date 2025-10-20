@@ -1,7 +1,7 @@
 ---
 title: Creativity is just connecting things
 created: 2025-03-12T02:41:12
-modified: 2025-10-16T04:58:18
+modified: 2025-10-19T17:23:33
 ---
 
 > _“Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. That’s because they were able to connect experiences they’ve had and synthesize new things. And the reason they were able to do that was that they’ve had more experiences or they have thought more about their experiences than other people.” — Steve Jobs_
@@ -114,6 +114,6 @@ Here’s a [video](https:/youtu.be/gfHEOL-sDy4) of John Mayer showing off the Cr
 
 * [The Medici Effect](the-medici-effect.md)
 
-[^1]: *[“Clog naturally accumulates, so every day I work to unblock it, another small piece at a time. All of this came from hard work, not sitting around with creative thinking. It came from creative doing.” — Herbert Lui](https://herbertlui.net/clear-the-wastewater/)*
+[^1]: _[“Clog naturally accumulates, so every day I work to unblock it, another small piece at a time. All of this came from hard work, not sitting around with creative thinking. It came from creative doing.” — Herbert Lui](https://herbertlui.net/clear-the-wastewater/)_
 [^2]: Because your pipe only has one faucet, there’s no shortcut to achieving clarity other than first emptying the wastewater.
 [^3]: If you go deep enough and write enough your collection of ideas and perspectives becomes so unique. The trick is to keep going deeper without thinking too much.
