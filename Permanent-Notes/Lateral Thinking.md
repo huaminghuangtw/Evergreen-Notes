@@ -1,7 +1,7 @@
 ---
 title: Lateral Thinking
 created: 2024-11-18T09:16:49
-modified: 2025-09-01T07:33:48
+modified: 2025-10-20T12:13:48
 ---
 
 > _“The young man knows the rules, but the old man knows the exceptions.” — Oliver Wendell Holmes, Sr._
@@ -36,7 +36,7 @@ modified: 2025-09-01T07:33:48
 
 質疑教條（Dogma）
 
-質疑是一種 [求知](Stay%20curious.md) 的態度
+質疑是一種 [求知](stay-curious.md) 的態度
 
 ---
 
