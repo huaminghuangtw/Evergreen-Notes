@@ -1,7 +1,7 @@
 ---
 title: Work smart
 created: 2025-01-23T10:40:57
-modified: 2025-10-18T06:05:31
+modified: 2025-10-20T05:41:42
 ---
 
 > _“You’re more likely to unlock a big leap in performance by trying differently than by trying harder. You might be able to work 10% harder, but a different approach might work 10x better. Remain focused on the core problem, but explore a new line of attack. Persistence is not just about effort, but also strategy. Don’t merely try harder, try differently.” — James Clear_
@@ -16,7 +16,7 @@ _“You have to [work hard](https://jamesclear.com/3-2-1/december-26-2024) to di
 
 Often, strategy outweighs sheer effort.
 
-Never press the “Try/Grind Harder” button. Instead, build a sustainable _[systems](Systems%20over%20goals.md)_ for achieving _[goals](Goal%20Setting.md)._
+Never press the “Try/Grind Harder” button. Instead, build a sustainable _[systems](Systems%20over%20goals.md)_ for achieving _[goals](goal-setting.md)._
 
 ---
 
