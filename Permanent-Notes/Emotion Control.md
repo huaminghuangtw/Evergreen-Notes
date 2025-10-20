@@ -1,8 +1,12 @@
 ---
 title: Emotion Control
 created: 2024-11-18T09:18:12
-modified: 2025-09-03T07:10:15
+modified: 2025-10-20T14:08:20
 ---
+
+> _“Emotional sickness is avoiding reality at any cost. Emotional health is facing reality at any cost.” — [M. Scott Peck](https://quotefancy.com/m-scott-peck-quotes)_
+
+> _[“Emotions can override any level of intelligence.” — Morgan Housel](https://collabfund.com/blog/little-rules-about-big-things/)_
 
 > _“Temperament is more important than IQ. You need reasonable intelligence, but you absolutely have to have the right temperament. Otherwise, something will snap you.” — Warren Buffett_
 
@@ -51,6 +55,10 @@ Before making an important decision ask: “_Am I **hungry**, **angry**, **lonel
 1. Shift your STATE [^1]
 2. Change your STORY
 3. STRATEGIZE your future
+
+---
+
+[@brackettPermissionFeelUnlocking2019]
 
 ---
 
