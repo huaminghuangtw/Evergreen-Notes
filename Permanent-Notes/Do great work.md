@@ -1,7 +1,7 @@
 ---
 title: Do great work
 created: 2024-11-18T09:18:12
-modified: 2025-10-12T08:12:59
+modified: 2025-10-20T05:35:08
 ---
 
 > _“Good is the enemy of great.” — [@collinsGoodGreatWhy2001]_
@@ -66,7 +66,7 @@ The margin between **good** and **great** is narrower than it seems. What begins
 
 ---
 
-精進/偉大/專家/頂尖之路是<u>短時間進步、長時間停滯</u>的旅程，要學會「享受」[過程](Journey%20over%20destination.md) 中的高原期 (Plateau)
+精進/偉大/專家/頂尖之路是<u>短時間進步、長時間停滯</u>的旅程，要學會「享受」[過程](journey-over-destination.md) 中的高原期 (Plateau)
 
 ---
 
