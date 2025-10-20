@@ -1,7 +1,7 @@
 ---
 title: Active Listening
 created: 2024-11-18T09:18:12
-modified: 2025-10-14T20:33:20
+modified: 2025-10-20T14:17:17
 ---
 
 > _“There is a difference between listening and waiting for your turn to speak.” — Simon Sinek_
@@ -56,6 +56,12 @@ Share with someone who wants to listen or listen to someone who wants to share.
 A good listener is one who helps us OVERHEAR ourselves. [^2] When you truly listen, you feel yourself fade away, creating space for the other person to fully express themselves and be their authentic self.
 
 ---
+
+> _“The core skill of Understanding is the search for the underlying theme or possible cause that fuels the emotion. We’re not asking questions and listening to answers just to provide a sympathetic ear. ==As we listen, we’re looking for a meaning that goes deeper than the words being said.==” ― Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)_
+
+> _“Understanding requires mastery of four ways of looking at things – as they were, as they are, as they might become, and as they ought to be.” — Dee Hock_
+
+> _“We are all different. [Don’t judge](dispel-your-narratives.md), understand instead.” — Roy T. Bennett_
 
 Listen to what is not being said—the unspoken words, the non-verbal cues. Listen intently before replying. Listening with compassion. [^3]
 
