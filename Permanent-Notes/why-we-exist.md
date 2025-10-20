@@ -1,7 +1,7 @@
 ---
 title: Why we exist?
 created: 2024-11-18T09:18:12
-modified: 2025-10-19T11:57:37
+modified: 2025-10-20T05:41:42
 ---
 
 > _“Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness.” — Leo Tolstoy_
@@ -47,10 +47,10 @@ The purpose of life is a life of purpose.
 [Missions are infinite. Goals are finite.](https://www.sahilbloom.com/newsletter/the-life-changing-power-of-missions)
 
 * You _never reach_ a Mission, you _live out_ a Mission.
-* Missions are life [journey](Journey%20over%20destination.md), [with no specific ends](The%20Game%20of%20Life.md).
+* Missions are life [journey](journey-over-destination.md), [with no specific ends](The%20Game%20of%20Life.md).
 * Missions are _directions/scope_ of life, not the _destination_ of life.
 * Mission statements usually (and should) sound like vague platitudes.
-* [Goals](Goal%20Setting.md) are focused around discrete achievements, [with specific ends](The%20Game%20of%20Life.md).
+* [Goals](goal-setting.md) are focused around discrete achievements, [with specific ends](The%20Game%20of%20Life.md).
 
 ---
 
@@ -166,7 +166,7 @@ The **S.H.A.P.E. Assessment** is a self-discovery tool used primarily in Christi
 
 * [Death](death.md)
 * [How to live a life](how-to-live-a-life.md)
-* [Goal Setting](Goal%20Setting.md)
+* [Goal Setting](goal-setting.md)
 * [Everyone is on their own timeline](everyone-is-on-their-own-timeline.md)
 * Maslow’s [Hierarchy/Pyramid of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) / [Pyramid](https://xkcd.com/2988)
 
