@@ -1,10 +1,10 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2025-10-17T12:49:49
+modified: 2025-10-20T12:13:48
 ---
 
-**TL; DR** Perspective is everything. [Curiosity](Stay%20curious.md) is key.
+**TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
 
 ---
 
@@ -128,6 +128,7 @@ Go laugh in the places you have cried—[change the narrative.](be-careful-how-y
 * [Relax](the-most-productive-people-prioritize-intentional-rest.md) → Energize
 * Should → Could
 * [Failure](Failing%20forward%20turns%20setbacks%20into%20stepping%20stones.md) → Data point
+* “I can’t do that.”​ → [High agency](cultivate-a-strong-bias-towards-action.md) people ask: “How could I make this possible?”
 
 ---
 
