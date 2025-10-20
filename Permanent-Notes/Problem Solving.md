@@ -1,7 +1,7 @@
 ---
 title: Problem Solving
 created: 2024-11-18T09:16:49
-modified: 2025-10-05T11:52:56
+modified: 2025-10-20T12:20:04
 ---
 
 The Monkeys \& Pedestals mental model by Annie Duke
@@ -43,3 +43,7 @@ From [LEUCHTTURM1917 Notebook](https://www.google.com/search?q=LEUCHTTURM1917+No
 > Writing by hand is thinking on paper.
 > Thoughts grow into words, sentences and pictures.
 > Memories become stories. Ideas are transformed into projects. Notes inspire insight. We write and understand, learn, see and think - with the hand.
+
+---
+
+Most problems are more complex than they seem, but most solutions should be simpler than they are.
