@@ -1,7 +1,7 @@
 ---
 title: Eat the biggest frog first thing in the morning
 created: 2024-12-04T17:55:24
-modified: 2025-10-17T06:28:07
+modified: 2025-10-20T07:42:50
 ---
 
 > _“Do one thing every day that scares you.” — Eleanor Roosevelt_
@@ -53,13 +53,28 @@ First things first. Do the most important thing [^2] first, not the most urgent 
 
 ---
 
-The Theory of Constraints is a business philosophy first proposed by Eliyahu Goldratt in his 1984 book, *The Goal*.
+# 限制/約束理論
+
+> _“The capacity of the plant is equal to the capacity of its bottlenecks. (工廠的產能等於瓶頸的產能。)” ― Eliyahu M. Goldratt, [The Goal: A Process of Ongoing Improvement](https://www.goodreads.com/work/quotes/462428)_
+
+> _“Since the strength of the chain is determined by the weakest link, then the first step to improve an organization must be to identify the weakest link.” ― Eliyahu M. Goldratt, [The Goal: A Process of Ongoing Improvement](https://www.goodreads.com/work/quotes/462428)_
+
+[The Theory of Constraints](https://www.google.com/search?q=The+Theory+of+Constraints) is a management philosophy first proposed by Eliyahu Goldratt in his 1984 book, _The Goal_.
 
 The key idea is that every system has at least one constraint that restricts its ability to grow or meaningfully improve its desired output.
 
 In other words, there is a bottleneck that prevents the system from improving.
 
 By focusing attention on **improving the constraint—eliminating the bottleneck**—you can dramatically improve the performance of the entire system.
+
+1. STEP 1. Identify the system’s bottlenecks. (找出瓶頸)
+2. STEP 2. Decide how to exploit the bottlenecks. (善用瓶頸)
+3. STEP 3. Subordinate everything else to the above decision. (遷就瓶頸)
+4. STEP 4. Elevate the system’s bottlenecks. (提升瓶頸)
+5. STEP 5. If, in a previous step, a bottleneck has been broken go back to step 1. (持續改善)
+	1. 什麼要改變？（What to change?）
+	2. 要改變成什麼？（What to change to?）
+	3. 如何造成改變？（How to cause the change?）
 
 ---
 
