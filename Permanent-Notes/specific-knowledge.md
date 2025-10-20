@@ -1,10 +1,10 @@
 ---
 title: Specific Knowledge
 created: 2024-11-18T09:18:12
-modified: 2025-09-06T04:56:43
+modified: 2025-10-20T12:13:49
 ---
 
-* It is found by pursuing your genuine [curiosity](Stay%20curious.md) on [multiple skillsets](specialization-is-for-insects.md).
+* It is found by pursuing your genuine [curiosity](stay-curious.md) on [multiple skillsets](specialization-is-for-insects.md).
 	* It’s hard to become the top 1% in any field, but it’s a lot easier to _combine/stack two (or more) skills_ where you’re in the top 25% of each.
 	* [Diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns) suggest that you don’t need to excel in every foundational skill; you just need to reach a sufficient level of competence in each one.
 * [It should feel like _play_ to you, but _work_ for others.](https://x.com/naval/status/1337144251403014144)
