@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2025-10-18T08:08:09
+modified: 2025-10-20T12:13:49
 ---
 
 > _“To be is to do.” — Immanuel Kant_
@@ -28,7 +28,7 @@ modified: 2025-10-18T08:08:09
 
 [@pressfieldWarArtBreak2003]
 
-> _“The professional has learned that success, like happiness, comes as a by-product of work. The professional concentrates on the work and [allows rewards to come or not come](Not%20caring%20lets%20us%20perform%20better.md), whatever they like.” ― Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_ [^1] [^2]
+> _“The professional has learned that success, like happiness, comes as a by-product of work. The professional concentrates on the work and [allows rewards to come or not come](not-caring-lets-us-perform-better.md), whatever they like.” ― Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_ [^1] [^2]
 
 [@gogginsCantHurtMe2018]
 
@@ -97,7 +97,7 @@ When people talk about traveling to the past, they worry about radically changin
 
 ---
 
-Remember: [The world is run by people no smarter than you.](https://www.swyx.io/no-smarter) Talent and intelligence are abundant. [Courage](Courage%20is%20knowing%20what%20not%20to%20fear.md) is not. The most successful people he’s met aren’t the smartest. They’re the ones who had the courage to act. They’re the ones who [stayed curious](Stay%20curious.md) long enough for compounding to kick in. [They aren’t more talented than you.](https://x.com/SahilBloom/status/1925539032261624157) They just took action when you didn’t.
+Remember: [The world is run by people no smarter than you.](https://www.swyx.io/no-smarter) Talent and intelligence are abundant. [Courage](Courage%20is%20knowing%20what%20not%20to%20fear.md) is not. The most successful people he’s met aren’t the smartest. They’re the ones who had the courage to act. They’re the ones who [stayed curious](stay-curious.md) long enough for compounding to kick in. [They aren’t more talented than you.](https://x.com/SahilBloom/status/1925539032261624157) They just took action when you didn’t.
 
 ---
 
@@ -154,6 +154,8 @@ There is no later, because later you’ll be [dead](death.md).
 ---
 
 # Stop Gathering More Information And Start Acting On The Information You Already Have.
+
+> _“Wanting more information is often just a form of procrastination.” — Russ Roberts_
 
 * Information is abundant, action is hard. Execution is everything.
 * Ideas are easy. It’s the execution of ideas that really separates the sheep from the goats.
