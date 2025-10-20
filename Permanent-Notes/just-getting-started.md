@@ -1,7 +1,7 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2025-10-17T06:29:04
+modified: 2025-10-20T05:47:15
 ---
 
 > _“Start before you’re ready. Don’t prepare. Begin. Don’t think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
@@ -37,6 +37,10 @@ modified: 2025-10-17T06:29:04
 ---
 
 The most difficult thing is the decision to start/act, the rest is merely [tenacity](every-single-day-chop-wood-carry-waters.md).
+
+---
+
+By the time I hit my second or third workout, I start wanting to exercise more. But if I miss two or three sessions, I lose all motivation. **It’s all about momentum.**
 
 ---
 
