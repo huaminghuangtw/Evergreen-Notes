@@ -1,7 +1,7 @@
 ---
 title: True education begins where school ends
 created: 2025-01-23T18:40:57
-modified: 2025-09-06T05:10:42
+modified: 2025-10-20T12:13:40
 ---
 
 > _“School is one thing. Education is another. The two don’t always overlap. Whether you’re in school or not, it’s always your job to get yourself an education.” — Austin Kleon_
@@ -40,7 +40,7 @@ School lays the foundation, but true education starts when you step beyond the c
 
 > _[“The only true wisdom is in knowing you know nothing.” — Socrates](https://www.goodreads.com/quotes/9431-the-only-true-wisdom-is-in-knowing-you-know-nothing)_
 
-> _“Real knowledge is to know the extent of one’s ignorance.” — Confucius_ [^1] [^2]
+> _“Real knowledge is to know the extent of one’s ignorance .[^1]” — Confucius_ [^2] [^3]
 
 > _“The fool who knows he is a fool is that much wiser. The fool who thinks himself wise is a fool indeed.” — Buddhism_
 
@@ -63,7 +63,8 @@ School lays the foundation, but true education starts when you step beyond the c
 
 # See Also
 
-* [Stay curious](Stay%20curious.md)
+* [Stay curious](stay-curious.md)
 
-[^1]: 知其不知，斯為知也。
-[^2]: 真知者，知其所不知也。
+[^1]: _“The greater the ignorance, the greater the dogmatism.” —William Osler_
+[^2]: 知其不知，斯為知也。
+[^3]: 真知者，知其所不知也。
