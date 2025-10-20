@@ -1,7 +1,7 @@
 ---
 title: Information Overwhelm
 created: 2024-11-18T09:18:12
-modified: 2025-10-16T04:57:04
+modified: 2025-10-20T12:24:05
 ---
 
 > _“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” ― T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654)_
@@ -60,10 +60,16 @@ modified: 2025-10-16T04:57:04
 
 			* [The Lindy Library](The%20Lindy%20Effect.md)
 			* [Brain Attic](Brain%20Attic.md)
-		* Study history to predict the future
+		* Read fewer forecasts and more history. Study history to predict the future.
+
+			> _“History never repeats itself. Man always does.” ― Voltaire_
+
+			> _“Learn enough from history to respect one another’s delusions.” — Will Durant_
+
+			> _“Reality will pay you back in equal proportion to your delusion.” — Will Smith_
+			
 			* It’s all just history repeating itself (Historic Recurrence).
 			* Humans tend to repeat the mistakes humans make.
-			* _“History never repeats itself. Man always does.” ― Voltaire_
 	* Remember: _Information_ and _knowledge_ are two different things!
 		* 「資訊」並不代表「知識」 — 文化評論家南方朔
 		* 「批判 \& 獨立思考」的能力至關重要
