@@ -1,7 +1,7 @@
 ---
 title: Anger
 created: 2024-11-18T09:18:12
-modified: 2025-09-03T06:49:35
+modified: 2025-10-20T08:01:13
 ---
 
 > _“Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.” — Mark Twain_
@@ -41,6 +41,8 @@ It’s okay to be sad, disappointed, or get lost, but don’t be angry. Anger is
 每生氣一分鐘，就會少 60 秒的快樂。
 
 ---
+
+> _“Strong, negative emotions (fear, anger, anxiety, hopelessness) tend to narrow our minds—it’s as though our peripheral vision has been cut off because we’re so focused on the peril that’s front and center.” ― Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)_
 
 發火/憤怒/生氣時不講話/決策
 
