@@ -1,7 +1,7 @@
 ---
 title: The Beginner Mindset
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-10-20T12:13:49
 ---
 
 > _“It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” ― Mark Twain_
@@ -40,7 +40,7 @@ It’s perfectly reasonable.
 
 我們所不知道的事情，遠遠超過我們所知道的事情。所以，永遠都要預設自己一無所知。
 
-忽視或無知的代價往往極其高昂。唯有持續保持對新事物的 [好奇心](Stay%20curious.md)，才能不斷突破固有的「認知邊界」，開拓更廣闊的視野與可能性。
+忽視或無知的代價往往極其高昂。唯有持續保持對新事物的 [好奇心](stay-curious.md)，才能不斷突破固有的「認知邊界」，開拓更廣闊的視野與可能性。
 
 You don’t know what you don’t know, the _unknown unknowns_.
 
