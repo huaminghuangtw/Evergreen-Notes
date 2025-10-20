@@ -1,7 +1,7 @@
 ---
 title: Self-compassion
 created: 2025-01-23T10:40:57
-modified: 2025-10-19T16:43:12
+modified: 2025-10-20T08:11:25
 ---
 
 > _“What you deny subdues you. What you accept transforms you.” — Carl Jung_
@@ -19,6 +19,8 @@ modified: 2025-10-19T16:43:12
 > _“The goal is not to show how great you are to others, but how [vulnerable](vulnerability.md) you are to yourself.” — Maxime Lagace_
 
 > _“As you gain fame, as you gain fortune, as you gain position and seniority, people will treat you better. — They will hold doors open for you. They will get you a cup of tea and coffee without you even asking. — None of that stuff is meant for you. That stuff is meant for the position you hold. It is meant to the level you have achieved of leader or success or whatever you want to call it, but remember: you will always deserve a Styrofoam cup.” — Simon Sinek_
+
+> _“Harsh self-criticism activates the sympathetic nervous system (fight/flight) and elevates stress hormones. Self-compassion, on the other hand, triggers the mammalian caregiving system and hormones of affiliation and love such as oxytocin.” ― Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)_
 
 ---
 
