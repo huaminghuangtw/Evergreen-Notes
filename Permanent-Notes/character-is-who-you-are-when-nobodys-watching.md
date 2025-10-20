@@ -1,7 +1,7 @@
 ---
 title: Character is who you are when nobody’s watching
 created: 2025-10-18T07:38:12
-modified: 2025-10-18T07:38:12
+modified: 2025-10-19T17:23:33
 ---
 
 > _“Personality is how you respond on a typical day, character is how you show up on a hard day.” ― Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
