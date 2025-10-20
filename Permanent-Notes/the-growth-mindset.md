@@ -1,7 +1,7 @@
 ---
 title: The Growth Mindset
 created: 2024-11-18T09:18:12
-modified: 2025-10-12T08:12:59
+modified: 2025-10-20T05:35:09
 ---
 
 [@dweckMindsetNewPsychology2008]
@@ -18,7 +18,7 @@ modified: 2025-10-12T08:12:59
 
 ---
 
-持續修正，不斷嘗試、試錯，重點是 [積少成多、聚沙成塔](the-compounding-effect.md)、一次比一次更好的迭代/堆疊 [過程](Journey%20over%20destination.md) (like interval workouts)。
+持續修正，不斷嘗試、試錯，重點是 [積少成多、聚沙成塔](the-compounding-effect.md)、一次比一次更好的迭代/堆疊 [過程](journey-over-destination.md) (like interval workouts)。
 
 ---
 
