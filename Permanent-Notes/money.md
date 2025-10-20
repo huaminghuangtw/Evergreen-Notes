@@ -1,7 +1,7 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2025-10-17T06:28:51
+modified: 2025-10-20T14:13:26
 ---
 
 > _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
@@ -29,7 +29,7 @@ Reasonable \> Rational
 # Philosophy
 
 * Money can only solve money problems.
-* [Money isn’t nothing, it simply can’t be the only thing.](https://x.com/SahilBloom/status/1870096061827854363)
+* [Money isn’t nothing, it simply can’t be the only thing. Your wealthy life may involve money, but it will be defined by everything else.](https://x.com/SahilBloom/status/1870096061827854363)
 	* ~~Money is the only type of wealth.~~ → Sahil Bloom’s _[The Five Types of Wealth](https://www.google.com/search?q=The+Five+Types+of+Wealth)￼_
 * Money is just a piece of paper.
 
@@ -37,6 +37,8 @@ Reasonable \> Rational
 
 * Don’t think all poverty is due to laziness. Don’t think all wealth is through hard work.
 * Making money is an action. Keeping money is behavior/habit. Growing money is knowledge/skill.
+* The proper financial mindset is to be scared enough to save for the short run and brave enough to invest for the long run.
+	* Mental Shift: Consumer(ism) → Producer/Creator/Owner/Investor
 
 # [Enough is enough](embrace-the-beauty-of-enoughness.md)
 
@@ -46,8 +48,8 @@ Reasonable \> Rational
 * Financial freedom is a feeling, not a reality.
 * **Marginal Utility:** [Beyond a certain point, having more money will not lead to more security, freedom, and happiness.](https://www.givingwhatwecan.org/blog/can-money-buy-happiness) In fact, these things do not come from more money. They come from knowing when to stop.
 	* See: [The Parable of the Mexican Fisherman](The%20Parable%20of%20the%20Mexican%20Fisherman.md)
-* You’ll never achieve financial freedom when you [play status games](The%20Game%20of%20Life.md), fall into the consumer trap, and let your ego dictate your spending. [Less ego](abandon-your-ego.md), more wealth.
-	* Mental Shift: Consumer(ism) → Producer/Creator/Owner/Investor
+* You’ll never achieve financial freedom when you [play status games](The%20Game%20of%20Life.md), fall into the consumer trap, and let your ego dictate your spending.
+	* The only way to build wealth is to have a gap between your ego and your income. [Less ego](abandon-your-ego.md), more wealth.
 * False Belief: “_If I become great at making money, you’ll automatically become wealthy._”
 	* Make Money → Spend Money → Make Money → Spend Money
 	* Money more in = More money out
@@ -55,13 +57,15 @@ Reasonable \> Rational
 			* When your income increases, your expenses increase just as much to upgrade the quality of your life.
 		* **Expectation Inflation**
 			* Expectation is the greatest liability. You will never be rich (financially wealthy) if your expectations are growing faster than your asset because you are constantly wanting more.
+			* If your expectations grow faster than your income, you’ll never be satisfied with your money, no matter how much you accumulate.
+			* [John D. Rockefeller was worth the equivalent of $400 billion, but he never had penicillin, sunscreen, or Advil. For most of his adult life he didn’t have electric lights, air conditioning, or sunglasses. **Everything about wealth is circumstances in the context of expectations.**](https://collabfund.com/blog/little-rules-about-big-things/)
 
 # On Making Money
 
 * Having a lot of money ≠ Rich life
 	* 在人生中，你應該要追求財富，而不是追求金錢。
 	* 要為了「幸福感」賺錢，不要為了「饋乏感」賺錢。
-* Use money to make more money for you [^5]
+* Use money to make more money for you. [^5]
 
 	> _“Rich men use most of their money to get richer. Poor men use most of their money to look richer.” — Mokokoma Mokhonoana_
 
@@ -79,7 +83,7 @@ Reasonable \> Rational
 * The only way to make a lot of money is to create a lot of value. [^6]
 * MONEY and TIME is a balancing act. Stop trading/renting time for money, so money can create more time for you.
 	* Millionaires don’t have salaries. They own [assets](Assets%20versus%20Liabilities.md).
-		* WEALTH = Net Income + Asset Value
+		* [WEALTH = Net Income + Asset Value](Wealth%20Creation.md)
 	* 真正的財務自由，是不再被困在「時間換取金錢」的枷鎖裡。
 * The best thing you can do to stay poor is to start tomorrow.
 	* **The Action Mindset**: The longer you’re not taking action, the more money you’re losing.
@@ -110,7 +114,7 @@ Reasonable \> Rational
 	> _[“What's the point of having f\*ck you money if you never say f\*ck you?”](https://www.youtube.com/shorts/upfyoQdc_r4)_
 
 	* 金錢最大的價值是買回/留下「自由」，也就是「選擇權」。
-	* Wealth is hidden. Wealth is the money you don’t spend. Wealth is the nice car you don’t buy. Wealth is the big house you don’t purchase. Wealth is the financial assets that haven’t yet been converted into the stuff you see. Wealth is an option not yet taken to buy something later.
+	* [Wealth](Wealth%20Creation.md) is hidden. Wealth is the money you don’t spend. Wealth is the nice car you don’t buy. Wealth is the big house you don’t purchase. Wealth is the financial assets that haven’t yet been converted into the stuff you see. Wealth is an option not yet taken to buy something later.
 
 # On Spending Money
 
@@ -134,7 +138,7 @@ Reasonable \> Rational
 	* Don’t buy “dumb things” that offer “temporary happiness.” Spend smart on the things that bring you true, long-lasting happiness.
 	* Do not attempt to achieve status, respect, or admiration through material purchases.
 * Experimental Purchase (✅) Impulsive Purchase (❌)
-	* Never buy things based on status/material desires. Instead, buy things that make you healthier, wealthier, or provide you free time. It’s called **Practical Materialism**: Products that make a material difference in the quality of your life.
+	* Never buy things based on status/[material desires](the-absence-of-desire-is-true-happiness.md). Instead, buy things that make you healthier, wealthier, or provide you free time. It’s called **Practical Materialism**: Products that make a material difference in the quality of your life.
 		* On the one hand, **spend extravagantly** on things you love (e.g., travel).
 		* On the other hand, **save (cut costs) mercilessly** on things you don’t love (e.g., car).
 * Spending any amount of money to “save money.”
