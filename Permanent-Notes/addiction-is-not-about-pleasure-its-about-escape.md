@@ -1,7 +1,7 @@
 ---
 title: Addiction is not about pleasure, it’s about escape
 created: 2025-10-16T05:07:41
-modified: 2025-10-16T05:17:42
+modified: 2025-10-19T17:23:33
 ---
 
 # The Rat Park Experiment
@@ -21,7 +21,7 @@ He created **“Rat Park”**—a large, stimulating environment filled with oth
 		* **Social stimulation:** being around other rats (instead of isolation).
 		* **Physical stimulation:** exercise wheels, tunnels, and space to move and explore.
 		* **Sensory stimulation:** toys, textures, and novelty that kept them curious and active.
-	- In broader human terms, “stimulation” means having **meaningful relationships, interesting activities and challenges** that engage your senses and mind, which made the morphine far less appealing.
+	* In broader human terms, “stimulation” means having **meaningful relationships, interesting activities and challenges** that engage your senses and mind, which made the morphine far less appealing.
 * In short: _when life is rich and fulfilling, the need for escape fades._
 
 ---
