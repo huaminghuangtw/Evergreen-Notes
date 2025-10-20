@@ -1,7 +1,7 @@
 ---
 title: Trust your gut
 created: 2025-01-01T16:32:50
-modified: 2025-10-15T12:22:21
+modified: 2025-10-19T17:23:33
 ---
 
 > _“Intuition is the whisper of the soul.” — Jidda Krishnamurti_
@@ -9,6 +9,7 @@ modified: 2025-10-15T12:22:21
 > _“Remember that wherever your heart is, there you will find your treasure.” — Paulo Coelho_
 
 > _“It takes time to develop your gut, but once it’s developed, don’t listen to anything else.” — Naval Ravikant_
+
 ---
 
 # Unconscious Decision-making (aka “Gut Feeling”)
