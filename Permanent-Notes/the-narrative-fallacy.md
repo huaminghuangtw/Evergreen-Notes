@@ -1,15 +1,14 @@
 ---
 title: The Narrative Fallacy
 created: 2025-10-19T06:37:33
-modified: 2025-10-19T06:37:33
+modified: 2025-10-19T17:23:33
 ---
 
 coined by Nassim Nicholas Taleb
 
-
 ---
 
-is the human tendency to create simple, causal *stories* to explain complex *events*, even when there is little evidence, leading to poor [decision-making](decision-making.md).
+is the human tendency to create simple, causal _stories_ to explain complex _events_, even when there is little evidence, leading to poor [decision-making](decision-making.md).
 
 ---
 
