@@ -1,7 +1,7 @@
 ---
 title: Delayed Gratification
 created: 2024-11-18T09:18:12
-modified: 2025-10-12T16:43:32
+modified: 2025-10-20T05:35:08
 ---
 
 > _“It is by going down into the abyss that we recover the treasures of life. Where you stumble, there lies your treasure.” — Joseph Campbell_
@@ -38,7 +38,7 @@ Every single thing you want in life comes at a cost. There is always a cost of e
 * You may not want to write, but you like the feeling of accomplishment.
 * You may not want to wake up early, but you like the calm beauty of morning.
 
-Remark: Wanting is the desire you feel before doing something. Liking is the satisfaction you feel after doing something. Let your likes guide you. The trick is to remember that [the joy comes not from the start, but from the finish](Journey%20over%20destination.md).
+Remark: Wanting is the desire you feel before doing something. Liking is the satisfaction you feel after doing something. Let your likes guide you. The trick is to remember that [the joy comes not from the start, but from the finish](journey-over-destination.md).
 
 ---
 
