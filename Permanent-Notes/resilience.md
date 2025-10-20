@@ -1,8 +1,10 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2025-10-14T18:06:53
+modified: 2025-10-20T05:42:23
 ---
+
+> _[“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)_
 
 > _“Resilience is not what happens to you. It’s how you [react to, respond to](choose-your-response.md), and recover from what happens to you.” — Jeffrey Gitomer_
 
