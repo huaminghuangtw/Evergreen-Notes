@@ -1,7 +1,7 @@
 ---
 title: How to live a life
 created: 2024-11-18T09:18:12
-modified: 2025-10-16T20:46:14
+modified: 2025-10-20T05:35:08
 ---
 
 > _“As long as you live, keep learning how to live.” — Seneca_
@@ -40,7 +40,7 @@ Life is neither a problem to be solved nor a game to be won.
 
 ---
 
-[Life isn't just about where we're going, but how we get there.](Journey%20over%20destination.md)
+[Life isn't just about where we're going, but how we get there.](journey-over-destination.md)
 
 ---
 
