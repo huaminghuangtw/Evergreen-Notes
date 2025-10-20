@@ -1,12 +1,14 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
 created: 2024-11-18T09:18:12
-modified: 2025-10-18T16:56:01
+modified: 2025-10-20T12:14:29
 ---
 
 > _“Glory is fleeting, but obscurity is forever.” — Napoleon Bonaparte_
 
 > _「知之者不如好之者，好之者不如樂之者。」—《論語 · 雍也》_
+
+> _“The appetite for applause counts amongst the lowest of human character traits.” — Jan-Willem van der Rijt_
 
 ---
 
@@ -39,7 +41,7 @@ Focus on the internal scorecard (追求內在成就), not the external/social ap
 
 # Autotelic Personality \& Exotelic Personality
 
-* Autotelic people (成長心態) [enjoy the journey](Journey%20over%20destination.md) as they work toward a goal.
+* Autotelic people (成長心態) [enjoy the journey](journey-over-destination.md) as they work toward a goal.
 * Exotelic people (定型心態) only care about reaching the goal, no matter what.
 
 ---
