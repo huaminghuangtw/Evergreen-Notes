@@ -1,7 +1,7 @@
 ---
 title: Deliberate Practice
 created: 2025-01-23T10:40:57
-modified: 2025-10-13T18:27:10
+modified: 2025-10-20T05:41:42
 ---
 
 > _“Practice does not make perfect. Perfect practice makes perfect.” — Vince Lombardi_ [^1]
@@ -32,7 +32,7 @@ Similar to the concept of Progressive Overload in Strength Training — “Reps,
 
 # Steps
 
-1. [設定明確的最終目標](Goal%20Setting.md)
+1. [設定明確的最終目標](goal-setting.md)
 2. 建立 [系統化](Systems%20over%20goals.md) 的練習方法
 3. ⭐️ 選擇勉強可完成的挑戰 ([Challenging Limits](push-your-limits.md))
 	* Working on tasks or problems that are _neither too easy (which might lead to boredom) nor impossibly hard (which might cause frustration), but rather difficult enough to stretch your abilities_
