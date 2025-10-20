@@ -1,7 +1,7 @@
 ---
 title: Fear
 created: 2024-11-18T09:18:12
-modified: 2025-10-19T12:03:21
+modified: 2025-10-20T12:13:48
 ---
 
 > _“Fear is a natural reaction to moving closer to the truth” — Pema Chodron_
@@ -55,7 +55,7 @@ If we’re controlled by fear, we’re in the mode of ignorance.
 		* “_Will it matter in ten minutes? In ten weeks? In ten years?_”
 	3. Reduce the fear
 		* The Batman Effect: self-distancing, thinking yourself as a separate entity (someone other than yourself)
-* Replace fear of the unknown with [curiosity](Stay%20curious.md)
+* Replace fear of the unknown with [curiosity](stay-curious.md)
 
 ---
 
