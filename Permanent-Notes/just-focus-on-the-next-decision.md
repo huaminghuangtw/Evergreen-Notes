@@ -1,7 +1,7 @@
 ---
 title: Just focus on the next decision
 created: 2024-11-18T09:18:12
-modified: 2025-09-25T16:19:18
+modified: 2025-10-20T05:35:09
 ---
 
 > _[“You are always just one good decision away from being in a better place tomorrow — just focus on the next decision.” — Sahil Bloom](https://www.sahilbloom.com/newsletter/information-action-gap-one-decision-away-more)_
@@ -34,7 +34,7 @@ Minimum Viable Action
 
 # The One-Move Mindset​
 
-Don’t try to solve everything. Focus on one clear step you can take right now. [Progress](Journey%20over%20destination.md), not [perfection](perfectionism.md).
+Don’t try to solve everything. Focus on one clear step you can take right now. [Progress](journey-over-destination.md), not [perfection](perfectionism.md).
 
 ---
 
