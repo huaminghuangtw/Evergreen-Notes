@@ -1,7 +1,7 @@
 ---
 title: Anger
 created: 2024-11-18T09:18:12
-modified: 2025-10-20T08:01:13
+modified: 2025-10-21T06:09:28
 ---
 
 > _“Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.” — Mark Twain_
@@ -13,6 +13,8 @@ modified: 2025-10-20T08:01:13
 > _[“Anger is like an oven; heat without light. Forgiveness is like the moon; light without heat.” — James Clear](https://jamesclear.com/quotes/anger-is-like-an-oven)_
 
 > _“To be angry is to revenge the faults of others on ourselves.” — Alexander Pope_
+
+> _“Any person capable of angering you becomes your master. They can anger you only when you permit yourself to be disturbed by them.” — Epictetus_
 
 > _“Holding onto anger is like drinking poison and expecting the other person to die.” — Buddha_ [^1]
 
@@ -55,7 +57,7 @@ It’s okay to be sad, disappointed, or get lost, but don’t be angry. Anger is
 
 ---
 
-[Anger is a cover of pain. When our boundaries are crossed, it’s more effective to express our pain rather than anger. Anger is a secondary emotion triggered by pain when it exceeds what we can tolerate, signaling a boundary violation. Instead of reacting with anger, we should communicate our feelings non-accusatorily, leading to better understanding and response. For example, saying, “I wanted to talk about a boundary that was crossed and how it made me feel. If you’re open to it, I’d appreciate a different approach in the future.” This approach fosters openness and avoids defensiveness.](https://tim.blog/2023/03/01/matt-mochary/)
+[Anger is a cover of pain. When our boundaries are crossed, it’s more effective to express our pain rather than anger. Anger is a secondary emotion triggered by pain when it exceeds what we can tolerate, signaling a boundary violation. Instead of reacting with anger, we should communicate our feelings non-accusatorily [^3], leading to better understanding and response. For example, saying, “I wanted to talk about a boundary that was crossed and how it made me feel. If you’re open to it, I’d appreciate a different approach in the future.” This approach fosters openness and avoids defensiveness.](https://tim.blog/2023/03/01/matt-mochary/)
 
 ---
 
@@ -77,3 +79,4 @@ It’s okay to be sad, disappointed, or get lost, but don’t be angry. Anger is
 
 [^1]: Forgive and forget. Not for them, but for you.
 [^2]: Everything that irritates us about others can lead us to an understanding of ourselves.
+[^3]: [accusatory](https://dictionary.cambridge.org/dictionary/english/accusatory): suggesting that you think someone has done something bad.
