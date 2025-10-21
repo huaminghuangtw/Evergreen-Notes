@@ -1,7 +1,7 @@
 ---
 title: Information Overwhelm
 created: 2024-11-18T09:18:12
-modified: 2025-10-20T12:24:05
+modified: 2025-10-20T17:21:12
 ---
 
 > _“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” ― T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654)_
@@ -67,7 +67,7 @@ modified: 2025-10-20T12:24:05
 			> _“Learn enough from history to respect one another’s delusions.” — Will Durant_
 
 			> _“Reality will pay you back in equal proportion to your delusion.” — Will Smith_
-			
+
 			* It’s all just history repeating itself (Historic Recurrence).
 			* Humans tend to repeat the mistakes humans make.
 	* Remember: _Information_ and _knowledge_ are two different things!
