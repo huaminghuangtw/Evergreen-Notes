@@ -1,7 +1,7 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2025-10-11T08:02:47
+modified: 2025-10-21T05:43:22
 ---
 
 > _“Everything popular is wrong.” — Oscar Wilde_
@@ -43,6 +43,8 @@ modified: 2025-10-11T08:02:47
 ---
 
 # The Fight Against Normalcy
+
+> _“Do not conform to the pattern of this world, but be transformed by the renewing of your mind.” — Romans 12:2_
 
 > _“You can’t be normal and expect abnormal returns.” — Jeffrey Pfeffer_
 
