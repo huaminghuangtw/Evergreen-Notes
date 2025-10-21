@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-20T05:47:42
+modified: 2025-10-21T15:54:58
 ---
 
 Spend 30 minutes daily…
@@ -86,30 +86,6 @@ All progress, not only technological progress, is built on learning from past fa
 
 In my experience, most people underestimate their full capability and overestimate their current delivery.
 
-Paired walkers with better first impression synchronize better (<https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227880>)
-
----
-
-Do not conform to the pattern of this world, but be transformed by the renewing of your mind.” - Romans 12:2
-
----
-
-the power of tiny actions:
-
-The Starfish Rule - An old man was walking along the beach when he noticed a young boy picking up starfish and throwing them back into the ocean.
-
-Approaching the boy, he asked, “Excuse me, but what are you doing?”
-
-The boy replied, “The sun is rising and the tide is going out. If I don’t throw the starfish back in, they’ll die.”
-
-The old man shook his head and said, “But there’s too many starfish on this beach. You can’t possibly make a difference.”
-
-After thinking for a moment, the boy bent down, picked up another starfish and threw it into the ocean.
-
-Then, he turned to the old man and said, “Well, I made a difference to that one.”
-
-* Adaptation of Loren Eiseley’s “Starfish Story” (1969)
-
 ---
 
 Savor the little victories as much as you criticize the little mistakes. (Ali 書 p.177)
@@ -169,7 +145,6 @@ The power of Excitement Engineering
 [A little bit of slope makes up for a lot of y-intercept.](https://sketchplanations.com/a-little-bit-of-slope-makes-up-for-a-lot-of-y-intercept)
 
 ---
-
 
 Robert Vallerand, who suggested that there are two distinct types of passion:
 
@@ -268,3 +243,60 @@ The extraordinary will take care of itself.
 ---
 
 The misstep doesn’t define you. Your next move does.
+
+
+---
+
+https://www.sahilbloom.com/newsletter/the-victim-mentality-a-silent-killer-of-growth
+
+
+---
+
+There is a version of yourself 10 years from now that is begging THIS version
+of yourself to enjoy Where you currently are
+just a little bit more.
+
+
+---
+
+To be interested in the changing seasons is a happier state of mind than to be hopelessly in love with spring.
+
+
+---
+
+Russian saying, “The past is more unpredictable than the future.”
+
+
+---
+
+One day, a boy approached his father and asked, “What is my life worth?”
+​
+The father handed his son a small stone and replied, “Take this stone to the market. If anyone asks the price, raise two fingers and don't say anything.”
+​
+The boy did as he was told and went to the market. An old woman approached him and asked, “How much is that rock? I want it for my garden.”
+​
+The boy held up two fingers, to which the woman replied, “$2? I'll take it.”
+​
+Before she could complete the deal, the boy turned and ran home to tell his father what had happened.
+​
+His father nodded and said, “Ok, now take the stone to the museum. If anyone asks the price, raise two fingers and don't say anything.”
+​
+The boy did as he was told and went to the museum. A man in a suit approached him and asked, “How much is that stone? I want it for my home.”
+​
+The boy held up two fingers, to which the man replied, “$200? I'll take it.”
+​
+Before he could complete the deal, the boy turned and ran home to tell his father what had happened.
+​
+His father nodded and said, “Ok, now take the stone to the precious gem store. If the owner asks the price, raise two fingers and don't say anything.”
+​
+The boy did as he was told and went to the stone store. The owner of the store approached him and asked, “Where did you find that rare stone? I have been looking for it my entire life. How much will you sell it for?”
+​
+The boy held up two fingers, to which the man replied, “$20,000? I'll take it.”
+​
+But once again, before he could complete the deal, the boy turned and ran home to tell his father what had happened...
+
+
+---
+
+[🔎 Odysseus ithaca lotus](https://www.google.com/search?q=Odysseus+ithaca+lotus)
+    Do hard things
