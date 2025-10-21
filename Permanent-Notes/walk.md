@@ -1,7 +1,7 @@
 ---
-title: walk
+title: Walk
 created: 2024-11-18T09:16:50
-modified: 2025-10-16T04:57:04
+modified: 2025-10-21T05:39:09
 ---
 
 > _“Above all, do not lose your desire to walk. Everyday, I walk myself into a state of well-being & walk away from every illness. I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it.” — Søren Kierkegaard_
@@ -28,7 +28,7 @@ You’ll never regret taking a walk outside.
 
 ---
 
-Goal: 8000 - 10000 steps per day
+Goal: 8000–10000 steps per day
 
 * 10 minutes of walking is around 1,000 steps
 
@@ -52,7 +52,7 @@ Goal: 8000 - 10000 steps per day
 
 # Tips
 
-* Walk alone or with someone else. You can enjoy health benefits, plus enjoy your surroundings or enjoy a good conversation.
+* Walk alone or with someone else ([pair walking](https://www.google.com/search?q=pair+walking)). You can enjoy health benefits, plus enjoy your surroundings or enjoy a good conversation.
 * Frequent, multiple, and brief walking breaks throughout the day are more effective at improving well-being than a single, longish walk — especially if you’re busy or get fatigued easily.
 	* Devote _five minutes every hour_ to physical activity, whether you walk up and down a staircase, along a corridor or just pace around your office. [@bergouignanEffectFrequentInterruptions2016]
 * Walk in nature (Park Walk) > Walk in urban (Street Walk) [@sellersTakeWalkPark2012] [@bratmanNatureExperienceReduces2015]
