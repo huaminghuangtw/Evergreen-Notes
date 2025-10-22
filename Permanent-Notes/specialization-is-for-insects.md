@@ -1,7 +1,7 @@
 ---
 title: Specialization is for insects
 created: 2025-01-23T10:40:57
-modified: 2025-10-16T04:57:04
+modified: 2025-10-22T22:55:44
 ---
 
 > _“At some level, all humans are broad. We’re all multivariate/multifaceted, but we get summarized in pithy ways in our lives.” — Naval Ravikant_
@@ -30,7 +30,7 @@ Before you discover what you love: _fewer commitments, more experiments_. After 
 
 > You should explore a range of pursuits early in your career and life, with that _exploration_ leaving you better equipped for the _exploitation_ phase when you go deeper on the arena that provides you with maximum leverage.
 
-Many people call themselves “generalists” as a way to avoid specializing, but what’s far more valuable is to become a ==_polymath_—a true generalist with the ability to quickly pick up any specialty, at least to the [80/20 level](the-pareto-principle.md)==, and apply that knowledge to make smarter trade-offs.
+Many people call themselves “generalists” as a way to avoid specializing, but what’s far more valuable is to become a <mark>_polymath_—a true generalist with the ability to quickly pick up any specialty, at least to the [80/20 level](the-pareto-principle.md)</mark>, and apply that knowledge to make smarter trade-offs.
 
 ---
 
