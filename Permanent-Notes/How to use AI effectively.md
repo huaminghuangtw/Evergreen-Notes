@@ -1,7 +1,7 @@
 ---
 title: How to use AI effectively
 created: 2024-11-18T10:16:50
-modified: 2025-09-22T21:07:13
+modified: 2025-10-22T22:55:44
 ---
 
 **[Getting Started with AI: Good Enough Prompting | One Useful Thing](https://www.oneusefulthing.org/p/getting-started-with-ai-good-enough)**
@@ -152,5 +152,5 @@ Basic Invitation Structure: _“Act as a \[ROLE\] perform \[TASK\] in \[FORMAT\]
 	* [Reuse prompts with prompt files](https://code.visualstudio.com/docs/copilot/copilot-customization#_prompt-files-experimental)
 	* [Personalize/Customize Copilot with instruction files](https://code.visualstudio.com/docs/copilot/copilot-customization#_custom-instructions)
 
-[^1]: The intended roles AI should play: Treat it as a collaborative partner—an _assistant_, _co-worker_, _helper_, _coach_, or _adviser_—not a _contractor_ to whom you completely delegate your tasks and offload your responsibilities. ==It’s important to remember: What you outsource will _atrophy_.== →「0 到 1」的突破仰賴人類的創造力，而 AI 工具則擅長將「1 到 100」的流程高效擴展。→「修潤，而非生成。」→ Surface knowledge is easy. Real knowledge still has to be earned.
+[^1]: The intended roles AI should play: Treat it as a collaborative partner—an _assistant_, _co-worker_, _helper_, _coach_, or _adviser_—not a _contractor_ to whom you completely delegate your tasks and offload your responsibilities. <mark>It’s important to remember: What you outsource will _atrophy_.</mark> →「0 到 1」的突破仰賴人類的創造力，而 AI 工具則擅長將「1 到 100」的流程高效擴展。→「修潤，而非生成。」→ Surface knowledge is easy. Real knowledge still has to be earned.
 [^2]: The proper use of AI tools is to treat them like an intern or new grad hire. You can give them the work that none of the mid-tier or senior people want to do, thereby speeding up the team. But you will have to review their work thoroughly because there is a good chance they have no idea what they are actually doing. If you give them mission-critical work that demands accuracy or just let them have free rein without keeping an eye on them, it’s likely you are going to regret it.
