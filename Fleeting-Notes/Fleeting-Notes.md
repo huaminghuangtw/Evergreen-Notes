@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-22T07:18:00
+modified: 2025-10-22T18:12:21
 ---
 
 Spend 30 minutes daily…
@@ -258,11 +258,11 @@ The father handed his son a small stone and replied, “Take this stone to the m
 
 The boy did as he was told and went to the market. An old woman approached him and asked, “How much is that rock? I want it for my garden.”
 
-The boy held up two fingers, to which the woman replied, “$2? I'll take it.”
+The boy held up two fingers, to which the woman replied, “$2? I’ll take it.”
 
 Before she could complete the deal, the boy turned and ran home to tell his father what had happened.
 
-His father nodded and said, “Ok, now take the stone to the museum. If anyone asks the price, raise two fingers and don't say anything.”
+His father nodded and said, “Ok, now take the stone to the museum. If anyone asks the price, raise two fingers and don’t say anything.”
 
 The boy did as he was told and went to the museum. A man in a suit approached him and asked, “How much is that stone? I want it for my home.”
 
