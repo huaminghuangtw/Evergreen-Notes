@@ -1,7 +1,7 @@
 ---
 title: Being indistractable is superpower
 created: 2025-01-23T18:40:57
-modified: 2025-10-18T06:05:31
+modified: 2025-10-22T22:55:44
 ---
 
 Being indistractable is about doing what you say you’re going to do.
@@ -74,7 +74,7 @@ By redirecting potential distractions before they reach you, you preserve your w
 
 這是因為大腦由神經元網絡構成，當一個神經元受到刺激時，它會激發或抑制與之連結的其他神經元。當你聽到「北極熊」這個詞，相關的神經元網絡便被激活，可能喚起你對熊的印象、可口可樂的廣告、孩提時參觀動物園的回憶，甚至對北極熊數量減少的擔憂。即使你的理性大腦接收到「不要想」的指令，但一旦神經元網絡啟動，各種聯想便無可避免地湧現。
 
-這正是我們面臨的矛盾 — 工作需要專注，但大腦天生擅長分心。因此，提升效率的關鍵之一不是壓抑走神，而是「==主動移除所有不必要的外在干擾==」，讓注意力自然地回歸當下。
+這正是我們面臨的矛盾 — 工作需要專注，但大腦天生擅長分心。因此，提升效率的關鍵之一不是壓抑走神，而是「<mark>主動移除所有不必要的外在干擾</mark>」，讓注意力自然地回歸當下。
 
 ---
 
