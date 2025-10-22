@@ -1,7 +1,7 @@
 ---
 title: Adenosine
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-10-22T22:55:44
 ---
 
 = 腺苷
@@ -13,7 +13,7 @@ modified: 2025-08-29T08:30:45
 
 ---
 
-Higher adenosine levels correlate with a stronger feeling of sleepiness, also known as ==Sleep Drive== or ==Sleep Pressure==.
+Higher adenosine levels correlate with a stronger feeling of sleepiness, also known as <mark>Sleep Drive</mark> or <mark>Sleep Pressure</mark>.
 
 ---
 
