@@ -1,7 +1,7 @@
 ---
 title: Delayed Gratification
 created: 2024-11-18T09:18:12
-modified: 2025-10-20T05:35:08
+modified: 2025-10-22T22:55:44
 ---
 
 > _“It is by going down into the abyss that we recover the treasures of life. Where you stumble, there lies your treasure.” — Joseph Campbell_
@@ -48,7 +48,7 @@ Remark: Wanting is the desire you feel before doing something. Liking is the sat
 
 ---
 
-# Convincing yourself and others to forgo instant gratification, often through ==strategic distraction==.
+# Convincing yourself and others to forgo instant gratification, often through <mark>strategic distraction</mark>.
 
 [Delayed gratification isn’t about surrounding yourself with temptations and hoping to say no to them. No one is good at that. The smart way to handle long-term thinking is enjoying what you’re doing day to day enough that the terminal rewards don’t constantly cross your mind.](https://collabfund.com/blog/different-kinds-of-smart/)
 
