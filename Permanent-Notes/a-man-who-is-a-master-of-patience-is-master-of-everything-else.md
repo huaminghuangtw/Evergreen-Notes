@@ -1,7 +1,7 @@
 ---
 title: A man who is a master of patience is master of everything else
 created: 2024-11-18T09:18:12
-modified: 2025-10-12T16:41:47
+modified: 2025-10-22T07:10:43
 ---
 
 > _[“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)_
@@ -63,7 +63,7 @@ Adopt the pace of nature: Her secret is _patience_.
 
 * Gathering information:
 	* Facing complex problems requires thoughtful solutions.
-	* [Making informed decisions](decision-making.md) requires time.
+	* [Making informed decisions / educated guess](decision-making.md) requires time.
 * [Negotiating](persuation-and-negotiation.md): Calmness and strategic waiting often yield better results.
 * Long-term goals: Achieving significant outcomes needs sustained effort.
 
