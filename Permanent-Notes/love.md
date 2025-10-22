@@ -1,7 +1,7 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2025-10-15T05:30:08
+modified: 2025-10-22T22:00:04
 ---
 
 > _“Love is the absence of judgment.” — Dalai Lama_
@@ -57,6 +57,8 @@ Growing in love > Falling in love
 ---
 
 # Marry Only For Love!
+
+> _[“Never love anyone who treats you like you’re ordinary.” — Oscar Wilde](https://www.goodreads.com/quotes/273844-never-love-anyone-who-treats-you-like-you-re-ordinary)_
 
 * Who you choose as a partner is the most important decision you’ll ever make in your life.
 * Choose your husband/wife wisely. This is the person that will be with you on your greatest and worst days. Choose a man/woman that will see you for who you are.
