@@ -1,7 +1,7 @@
 ---
 title: Not caring lets us perform better
 created: 2024-11-18T09:18:12
-modified: 2025-10-20T05:35:09
+modified: 2025-10-22T07:17:35
 ---
 
 > _“If you aim at nothing, you will hit it every time.” — Zig Ziglar_
