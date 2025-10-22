@@ -1,7 +1,7 @@
 ---
 title: Skin Care
 created: 2025-01-23T10:40:57
-modified: 2025-08-29T08:30:45
+modified: 2025-10-22T22:55:44
 ---
 
 # 如何擁有「水煮蛋肌」?
@@ -39,7 +39,7 @@ modified: 2025-08-29T08:30:45
 	* Retinoid
 		* _higher_ concentration of the active retinoic acid ingredient
 		* often only available with a medical prescription
-* 「==刷酸煥膚==」: 調理痘痘粉刺肌膚最好的辦法是「長期持續地」使用「弱酸性」產品，去除毛孔內堆積的老廢角質
+* 「<mark>刷酸煥膚</mark>」: 調理痘痘粉刺肌膚最好的辦法是「長期持續地」使用「弱酸性」產品，去除毛孔內堆積的老廢角質
 	* 大原則:「酸類保養品」不宜每天使用 (早 C 晚 A)，會過度清潔，易致痘，每周 2-3 次就好，可以跟「保濕類保養品」交互論替使用
 
 # Terminology
