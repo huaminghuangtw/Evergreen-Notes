@@ -1,7 +1,7 @@
 ---
 title: Advice
 created: 2024-11-18T09:16:50
-modified: 2025-10-19T17:23:33
+modified: 2025-10-22T22:55:44
 ---
 
 # On Giving Advice
@@ -75,4 +75,4 @@ People often ask me for the best piece of advice I’ve ever received, and I oft
 
 [The only advice worth seeking is the kind that might actually change your mind.](https://mikekarnj.com/posts/advice)
 
-**Most advice isn’t meant to be followed. It’s meant to sharpen your filter.** ==But you need to hear enough of it to train your filter.== [Be open-minded.](be-ready-to-change-your-mind-completely-at-any-given-time.md) **You don’t build [instincts](Judgement.md) by avoiding advice. You build them by learning what to reject and what to keep.** The goal is to build a high hit-rate [gut](trust-your-gut.md). One that gets better through pattern recognition, reflection, and making your own mistakes.
+**Most advice isn’t meant to be followed. It’s meant to sharpen your filter.** <mark>But you need to hear enough of it to train your filter.</mark> [Be open-minded.](be-ready-to-change-your-mind-completely-at-any-given-time.md) **You don’t build [instincts](Judgement.md) by avoiding advice. You build them by learning what to reject and what to keep.** The goal is to build a high hit-rate [gut](trust-your-gut.md). One that gets better through pattern recognition, reflection, and making your own mistakes.
