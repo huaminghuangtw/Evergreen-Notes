@@ -1,7 +1,7 @@
 ---
 title: Control the controllable
 created: 2024-11-18T09:16:49
-modified: 2025-09-23T05:42:07
+modified: 2025-10-22T07:23:52
 ---
 
 > _“The more we value things outside our control, the less control we have.” ― Epictetus_
@@ -15,6 +15,13 @@ modified: 2025-09-23T05:42:07
 ---
 
 課題分離
+
+---
+
+# The Dichotomy of Control
+
+1. Things we can control
+2. Things we cannot control
 
 ---
 
