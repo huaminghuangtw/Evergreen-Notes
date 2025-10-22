@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-21T15:54:58
+modified: 2025-10-22T07:18:00
 ---
 
 Spend 30 minutes daily…
@@ -101,20 +101,6 @@ Savor the little victories as much as you criticize the little mistakes. (Ali �
 ---
 
 [The Peter Principle](https://sketchplanations.com/the-peter-principle)
-
----
-
-The Stoic Archer
-
-In On the Ends of Good and Evil, the ancient Stoic philosopher Cicero shares a beautiful metaphor of an archer shooting an arrow (emphasis mine):
-
-“Take the case of one whose task it is to shoot a spear or arrow straight at some target. One’s ultimate aim is to do all in one’s power to shoot straight, and the same applies with our ultimate goal. In this kind of example, it is to shoot straight that one must do all one can; nonetheless, it is to do all one can to accomplish the task that is really the ultimate aim. It is just the same with what we call the supreme good in life. To actually hit the target is, as we say, to be selected but not sought.”
-
-The metaphor offers a compelling visual with a powerful set of lessons for all of our lives.
-
-You are the archer.
-
-Your focus should be centered on that which is within your control:
 
 ---
 
@@ -244,59 +230,56 @@ The extraordinary will take care of itself.
 
 The misstep doesn’t define you. Your next move does.
 
-
 ---
 
-https://www.sahilbloom.com/newsletter/the-victim-mentality-a-silent-killer-of-growth
-
+<https://www.sahilbloom.com/newsletter/the-victim-mentality-a-silent-killer-of-growth>
 
 ---
 
 There is a version of yourself 10 years from now that is begging THIS version
-of yourself to enjoy Where you currently are
-just a little bit more.
 
+of yourself to enjoy Where you currently are
+
+just a little bit more.
 
 ---
 
 To be interested in the changing seasons is a happier state of mind than to be hopelessly in love with spring.
 
-
 ---
 
 Russian saying, “The past is more unpredictable than the future.”
 
-
 ---
 
 One day, a boy approached his father and asked, “What is my life worth?”
-​
-The father handed his son a small stone and replied, “Take this stone to the market. If anyone asks the price, raise two fingers and don't say anything.”
-​
-The boy did as he was told and went to the market. An old woman approached him and asked, “How much is that rock? I want it for my garden.”
-​
-The boy held up two fingers, to which the woman replied, “$2? I'll take it.”
-​
-Before she could complete the deal, the boy turned and ran home to tell his father what had happened.
-​
-His father nodded and said, “Ok, now take the stone to the museum. If anyone asks the price, raise two fingers and don't say anything.”
-​
-The boy did as he was told and went to the museum. A man in a suit approached him and asked, “How much is that stone? I want it for my home.”
-​
-The boy held up two fingers, to which the man replied, “$200? I'll take it.”
-​
-Before he could complete the deal, the boy turned and ran home to tell his father what had happened.
-​
-His father nodded and said, “Ok, now take the stone to the precious gem store. If the owner asks the price, raise two fingers and don't say anything.”
-​
-The boy did as he was told and went to the stone store. The owner of the store approached him and asked, “Where did you find that rare stone? I have been looking for it my entire life. How much will you sell it for?”
-​
-The boy held up two fingers, to which the man replied, “$20,000? I'll take it.”
-​
-But once again, before he could complete the deal, the boy turned and ran home to tell his father what had happened...
 
+The father handed his son a small stone and replied, “Take this stone to the market. If anyone asks the price, raise two fingers and don’t say anything.”
+
+The boy did as he was told and went to the market. An old woman approached him and asked, “How much is that rock? I want it for my garden.”
+
+The boy held up two fingers, to which the woman replied, “$2? I'll take it.”
+
+Before she could complete the deal, the boy turned and ran home to tell his father what had happened.
+
+His father nodded and said, “Ok, now take the stone to the museum. If anyone asks the price, raise two fingers and don't say anything.”
+
+The boy did as he was told and went to the museum. A man in a suit approached him and asked, “How much is that stone? I want it for my home.”
+
+The boy held up two fingers, to which the man replied, “$200? I’ll take it.”
+
+Before he could complete the deal, the boy turned and ran home to tell his father what had happened.
+
+His father nodded and said, “Ok, now take the stone to the precious gem store. If the owner asks the price, raise two fingers and don’t say anything.”
+
+The boy did as he was told and went to the stone store. The owner of the store approached him and asked, “Where did you find that rare stone? I have been looking for it my entire life. How much will you sell it for?”
+
+The boy held up two fingers, to which the man replied, “$20,000? I’ll take it.”
+
+But once again, before he could complete the deal, the boy turned and ran home to tell his father what had happened…
 
 ---
 
 [🔎 Odysseus ithaca lotus](https://www.google.com/search?q=Odysseus+ithaca+lotus)
-    Do hard things
+
+	Do hard things
