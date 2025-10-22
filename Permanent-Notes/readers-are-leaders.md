@@ -1,7 +1,7 @@
 ---
 title: Leaders are readers
 created: 2024-11-18T09:18:12
-modified: 2025-10-15T15:23:32
+modified: 2025-10-22T22:55:44
 ---
 
 > _“Man is what he reads.” — Joseph Brodsky_
@@ -58,7 +58,7 @@ modified: 2025-10-15T15:23:32
 	* Amazon Book Reviews
 	* [Goodreads](https://www.goodreads.com/)
 	* [LibraryThing](https://www.librarything.com/)
-* Realize that you don’t need to read a book from the first page to the last page. This is especially true for non-fiction, self-help books. I got way more value from reading once I started jumping around (跳/挑讀) and synthesizing connections between topics I’m interested in (==主題式閱讀 Synoptical/Comparative Reading==) versus going from cover to cover. [^3]
+* Realize that you don’t need to read a book from the first page to the last page. This is especially true for non-fiction, self-help books. I got way more value from reading once I started jumping around (跳/挑讀) and synthesizing connections between topics I’m interested in (<mark>主題式閱讀 Synoptical/Comparative Reading</mark>) versus going from cover to cover. [^3]
 * Read the classics that stand the test of time. Do not read books in the same year that they are published.（時間是考驗一本書能否傳世不朽的試金石）
 	* Have a “The Reading Razor (Quality Filter for Books)” — 永遠都有讀不完的新書，所以要慎選 (After all, not all books are equal)
 		* Use “[The Lindy Effect](The%20Lindy%20Effect.md)” as a guide in selecting what to read: books that have been around for ten years will be around for ten more; books that have been around for two millennia should be around for quite a bit of time, and so forth.
