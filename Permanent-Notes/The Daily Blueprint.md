@@ -1,10 +1,10 @@
 ---
 title: The Daily Blueprint
 created: 2024-11-18T09:16:50
-modified: 2025-08-29T08:30:45
+modified: 2025-10-22T22:55:44
 ---
 
-==My Daily Habits/Routines/Rituals==
+<mark>My Daily Habits/Routines/Rituals</mark>
 
 > What do you do before enlightenment? _Chop wood, carry water_. What do you do after enlightenment? _Chop wood, carry water_.
 
