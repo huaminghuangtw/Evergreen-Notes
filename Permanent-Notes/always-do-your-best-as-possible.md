@@ -1,7 +1,7 @@
 ---
 title: Always do your best as possible
 created: 2024-11-18T09:18:12
-modified: 2025-10-14T17:17:06
+modified: 2025-10-22T07:21:58
 ---
 
 > _“Inspire yourself to be great. Being good isn’t good enough.” — Gurbaksh Chahal_
@@ -80,3 +80,18 @@ Quality over Quantity. Depth over Width.
 > _“When you show yourself to the world and display your talents, you naturally stir all kinds of resentment, envy, and other manifestations of insecurity. You cannot spend your life worrying about the petty feelings of others.” ― Robert Greene, The 48 Laws of Power_
 
 [Average is addictive. It’s applauded by the crowd. You won’t be criticized for staying the same. You’ll be encouraged. When you’re on your journey to growth, some people won’t like it. They’ll criticize your every move because it doesn’t blend in with the crowd. But recognize one truth: This is fundamentally not about you. Your growth, focus, and improvement are exposing something in them: Their insecurities, their fears, their lack of ambition.](https://www.sahilbloom.com/newsletter/the-costs-of-entry-in-life)
+
+---
+
+# The Metaphor of Stoic Archer
+
+In _On the Ends of Good and Evil_, the ancient Stoic philosopher Cicero shares a beautiful metaphor of an archer shooting an arrow:
+
+> Take the case of one whose task it is to shoot a spear or arrow straight at some target. **One’s ultimate aim is to do all in one’s power to shoot straight**, and the same applies with our ultimate goal. In this kind of example, it is to shoot straight that one must do all one can; nonetheless, **it is to do all one can to accomplish the task that is really the ultimate aim**. It is just the same with what we call the supreme good in life. **To actually hit the target is, as we say, to be selected but not sought.**
+
+Your focus should be centered on that which is within your control. [Control the controllable](control-the-controllable.md)
+
+* ACTION — is something you CAN control.
+* OUTCOME — is something you CAN NOT control.
+
+Once the action is undertaken, the outcome can be influenced by an infinite number of external variables outside our control.
