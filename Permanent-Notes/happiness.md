@@ -1,7 +1,7 @@
 ---
 title: Happiness
 created: 2024-11-18T09:18:12
-modified: 2025-10-19T11:57:37
+modified: 2025-10-22T12:54:00
 ---
 
 > _“Happiness is a state where nothing is missing.” — Naval Ravikant_
@@ -65,7 +65,9 @@ Happiness
 
 = Health + Relationships + Wealth
 
-= Agency + Gratitude
+> _“Happiness is not something ready made. It comes from your own actions.” — Dalai Lama_
+
+= [Agency](cultivate-a-strong-bias-towards-action.md) + Gratitude
 
 = [Reality - Expectations](the-absence-of-desire-is-true-happiness.md) [^1]
 
