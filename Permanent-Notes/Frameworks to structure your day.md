@@ -1,7 +1,7 @@
 ---
 title: Frameworks to structure your day
 created: 2025-01-23T18:40:57
-modified: 2025-10-11T07:59:26
+modified: 2025-10-23T06:21:57
 ---
 
 > _[Live life by design, not default.](https://fs.blog/david-foster-wallace-this-is-water/) Make each day your masterpiece. How you spend your days is how you spend your life._
@@ -31,6 +31,7 @@ modified: 2025-10-11T07:59:26
 			* Chronos belongs in the realm of clocks. Chronos marks linear time or duration. Chronos is years, months, days, hours.
 		* **Kairos** = fluctuating, qualitative time
 			* Kairos refers to those moments in time that are more impactful than others—those that stand out from the regular flow of time and become memories we treasured/cherished. It’s what makes time feel _slower or even paused._ (<u>Time Dilation</u>)
+			* The Power of Excitement Engineering: When you plan excitement in advance, the return on that moment compounds. You don’t just enjoy it when it happens, you get the anticipation dividends too.
 			* **Seek novelty in the mundane:** Combat the sense that time speeds up by finding newness in daily life, e.g., take different routes or observe your surroundings more closely.
 			* **Story-worthy moments:** Each night, write down (journal) the most “story-worthy” thing that happened during the day. This is an easy way to plant those mental flagpoles and make each day feel a bit more special.
 			* **Inject/Introduce planned spontaneity/memories into your days:**
