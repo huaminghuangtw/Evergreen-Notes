@@ -1,10 +1,10 @@
 ---
 title: Embrace the beauty of enoughness
 created: 2024-11-18T09:18:12
-modified: 2025-10-21T14:25:39
+modified: 2025-10-23T06:07:28
 ---
 
-> _「真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。」 — 沈芯菱_
+> _「真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。」 — 沈芯菱_ [^3]
 
 > _“Be thankful for what you have; you’ll end up having more. If you concentrate on what you don’t have, you will never, ever have enough.” — Oprah Winfrey_
 
@@ -151,3 +151,4 @@ Don’t let the pursuit of more stop you from enjoying what you already have. Do
 
 [^1]: [The Gold Medal Fallacy](https://www.sahilbloom.com/newsletter/the-gold-medal-fallacy-why-time-flies-more)
 [^2]: 物極必反
+[^3]: The richest person isn’t the one who has the most, but the one who need the least.
