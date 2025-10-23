@@ -1,7 +1,7 @@
 ---
 title: Quit social media
 created: 2024-11-18T09:18:12
-modified: 2025-10-16T05:18:41
+modified: 2025-10-23T06:20:33
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -40,7 +40,7 @@ The goal of social media is to make every problem, your problem.
 
 ---
 
-Social media is a highly judgmental space. What you see there is merely a curated highlight reel—a _second reality_ that doesn’t tell the full story of people’s lives.
+Social media is a highly judgmental space. What you see there is merely a curated highlight reel—a _second reality_ that doesn’t tell the full story of people’s behind-the-scenes lives.
 
 ---
 
