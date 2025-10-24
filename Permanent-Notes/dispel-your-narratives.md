@@ -1,7 +1,7 @@
 ---
 title: Dispel your narratives
 created: 2024-11-18T09:18:12
-modified: 2025-08-31T13:59:43
+modified: 2025-10-24T06:52:32
 ---
 
 > _“Wisdom accepts that all things have two sides.” — Carl Jung_
@@ -32,7 +32,7 @@ The wisest among us allow events to exist without applying a narrative layer. Th
 
 ---
 
-See things objectively. [See things the way they truly are](Seek%20for%20the%20truth.md), not the way you wish they were, and be in harmony with those things.
+See things objectively. [See things the way they truly are](seek-for-the-truth.md), not the way you wish they were, and be in harmony with those things.
 
 ---
 
@@ -48,6 +48,4 @@ A few weeks later, soldiers from the national army marched through town, recruit
 
 ---
 
-# See Also
-
-* [Happiness](happiness.md)
+[Amor Fati](amor-fati.md)
