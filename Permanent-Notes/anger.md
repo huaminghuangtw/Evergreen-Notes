@@ -1,7 +1,7 @@
 ---
 title: Anger
 created: 2024-11-18T09:18:12
-modified: 2025-10-21T06:09:28
+modified: 2025-10-24T17:35:33
 ---
 
 > _“Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.” — Mark Twain_
@@ -46,8 +46,9 @@ It’s okay to be sad, disappointed, or get lost, but don’t be angry. Anger is
 
 > _“Strong, negative emotions (fear, anger, anxiety, hopelessness) tend to narrow our minds—it’s as though our peripheral vision has been cut off because we’re so focused on the peril that’s front and center.” ― Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)_
 
-發火/憤怒/生氣時不講話/決策
+發火/憤怒/生氣時不講話/決策，人在這種情況下會自動降智、變笨。
 
+* Everyone has an emotional blind spot when they fight.
 * Speak when you’re angry and you’ll make the best speech you’ll ever regret.
 * The greatest remedy for anger is delay. When you are angry, try your best to go to sleep, it keeps you away from speaking and thinking.
 
