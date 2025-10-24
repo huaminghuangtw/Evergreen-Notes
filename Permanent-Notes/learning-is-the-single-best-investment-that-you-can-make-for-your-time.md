@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-10-18T08:09:55
+modified: 2025-10-24T09:49:48
 ---
 
 Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
@@ -184,7 +184,7 @@ Always starting from the most basic and simplest level, then adding more complex
 
 	> _“I always work on different manuscripts at the same time. With this method, to work on different things simultaneously, I never encounter any blockages.” — Niklas Luhmann_
 	* Mixing up different, unrelated topics or types of problems during a single study session helps the brain to seek/make necessary connections
-	* See also: [The Zeigarnik Effect](The%20Zeigarnik%20Effect.md)
+	* See also: [The Zeigarnik Effect](the-zeigarnik-effect.md)
 * 主動回憶 (Active Recall)
 	* More effective than passive memorization
 		1. Taking a topic you wish to learn
