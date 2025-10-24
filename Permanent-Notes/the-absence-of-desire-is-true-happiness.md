@@ -1,7 +1,7 @@
 ---
 title: The absence of desire is true happiness
 created: 2024-11-18T09:18:12
-modified: 2025-10-19T11:57:53
+modified: 2025-10-24T12:29:19
 ---
 
 > _“Having the fewest wants, I am nearest to the gods.” ― Socrates_
@@ -38,8 +38,6 @@ Keep your mind aware and desire asleep.
 
 > _“Anything you cannot relinquish when it has outlived its usefulness possesses you.” — Peace Pilgrim_
 
-[放下](the-art-of-quitting.md) 你要的東西，你就能得到任何東西。
-
 You only lose what you cling to.
 
 ---
@@ -48,3 +46,4 @@ You only lose what you cling to.
 
 * [Miswanting](miswanting.md)
 * [Emotional Freedom](emotional-freedom.md)
+* [The Art of Quitting](the-art-of-quitting.md)
