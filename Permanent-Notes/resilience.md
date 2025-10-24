@@ -1,7 +1,7 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2025-10-20T05:42:23
+modified: 2025-10-24T06:10:01
 ---
 
 > _[“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)_
@@ -42,10 +42,7 @@ Antifragility [@talebAntifragileThingsThat2016]
 
 ---
 
-# Amor Fati
-
-* meaning “love of (one’s) fate.”
-* It is the idea and practice of embracing everything that life throws at you—the good and the bad, the calm and [the chaos](life-is-chaotic.md).
+[Amor Fati](amor-fati.md)
 
 ---
 
@@ -65,7 +62,7 @@ Resistance, obstacles, and roadblocks lead to growth. “A gem cannot be polishe
 
 ---
 
-[It's not about how hard you hit. It's about how hard you can get hit, how much you can take, and keep moving forward.](https://www.youtube.com/watch?v=tZUC-uAGLEA)
+[It’s not about how hard you hit. It’s about how hard you can get hit, how much you can take, and keep moving forward.](https://www.youtube.com/watch?v=tZUC-uAGLEA)
 
 ---
 
