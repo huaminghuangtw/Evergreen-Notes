@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-23T06:22:11
+modified: 2025-10-24T16:41:28
 ---
 
 Spend 30 minutes daily…
@@ -108,21 +108,6 @@ Savor the little victories as much as you criticize the little mistakes. (Ali �
 
 ---
 
-Robert Vallerand, who suggested that there are two distinct types of passion:
-
-Obsessive Passion
-
-Harmonious Passion
-
-Obsessive Passion is rigid. Your entire identity becomes interconnected with the pursuit itself. Your self-worth attached to your extrinsic success in it. Rest periods away from the pursuit are viewed as a reward for your efforts, but often create feelings of guilt or shame. It is all-consuming.
-
-The pursuit defines the life.
-
-Harmonious Passion is adaptive. It is chosen. It aligns with your identity, but it does not supersede it. It is a reflection of your priorities and values. It is naturally energizing. Rest periods away from the pursuit are viewed as an important part of your performance, not a reward for your efforts.
-
-The life defines the pursuit.
-
----
 
 You are the cracked pot. Perfectly imperfect. Remember that. The Story of the Cracked Pot
 
@@ -259,3 +244,8 @@ But once again, before he could complete the deal, the boy turned and ran home t
 [🔎 Odysseus ithaca lotus](https://www.google.com/search?q=Odysseus+ithaca+lotus)
 
 	Do hard things
+
+
+---
+
+“Love doesn't just sit there, like a stone, it has to be made, like bread; remade all the time, made new.” — Ursula K. Le Guin
