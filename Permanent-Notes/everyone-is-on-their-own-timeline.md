@@ -1,7 +1,7 @@
 ---
 title: Everyone is on their own timeline
 created: 2024-11-18T09:18:12
-modified: 2025-10-13T18:27:10
+modified: 2025-10-24T09:35:37
 ---
 
 > _“One’s own dharma performed imperfectly is better than another’s dharma well performed…It is better to strive in one’s own dharma than to succeed in the dharma of another.” — Bhagavad Gita_
@@ -54,6 +54,79 @@ In Japan, there are four beautiful trees that all bloom during the spring: Cherr
 The Japanese philosophy of Oubaitori is a manifestation of this natural way: Humans, like trees, bloom on their own timelines. Their journeys and growth are unique to each individual.
 
 日文「桜梅桃李（おうばいとうり）」字面意為櫻、梅、桃、李四種花卉，象徵各自綻放、各具風姿、各自承載天地的安排。人也應當專注於自身的獨特之美，不必追逐他人的影子，只需活出與生俱來的個性與魅力。
+
+---
+
+# 網路流傳的美國小詩《You Are In Your Time Zone》
+
+> New York is 3 hours ahead of California,
+> 紐約時間比加州時間早三個小時，
+>
+> but it does not make California slow.
+> 但加州時間並沒有變慢。
+>
+> Someone graduated at the age of 22,
+> 有人 22 歲就畢業了，
+>
+> but waited 5 years before securing a good job!
+> 但等了 5 年才找到好工作！
+>
+> Someone became a CEO at 25,
+> 有人 25 歲就當上 CEO，
+>
+> and died at 50.
+> 卻在 50 歲去世。
+>
+> While another became a CEO at 50,
+> 也有人直到 50 歲才成為 CEO，
+>
+> and lived to 90 years.
+> 然後活到 90 歲。
+>
+> Someone is still single,
+> 有人依舊單身，
+>
+> while someone else got married.
+> 同時也有人結婚。
+>
+> Obama retires at 55,
+> 歐巴馬 55 歲就退休，
+>
+> but Trump starts at 70.
+> 而川普 70 歲才開始當總統。
+>
+> Absolutely everyone in this world works based on their Time Zone.
+> 世界上每個人本來就有自己的時區。
+>
+> People around you might seem to go ahead of you,
+> 身邊有些人看似走在你前面，
+>
+> some might seem to be behind you.
+> 也有人看似走在你後面。
+>
+> But everyone is running their own RACE, in their own TIME.
+> 但其實每個人都在自己的時區裡，有自己的步程。
+>
+> Don’t envy them or mock them.
+> 不用嫉妒或嘲笑他們。
+>
+> They are in their TIME ZONE, and you are in yours!
+> 他們都在自己的時區裡，你也是！
+>
+> Life is about waiting for the right moment to act.
+> 生命就是等待正確的行動時機。
+>
+> So, RELAX.
+> 所以，放輕鬆。
+>
+> You’re not LATE.
+> 你沒有落後。
+>
+> You’re not EARLY.
+> 你沒有領先。
+>
+> You are very much ON TIME, and in your TIME ZONE destiny set up for you.
+> 在命運為你安排的時區裡，一切都會準時。
 
 ---
 
