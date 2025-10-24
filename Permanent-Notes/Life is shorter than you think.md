@@ -1,7 +1,7 @@
 ---
 title: Life is shorter than you think
 created: 2025-01-23T10:40:57
-modified: 2025-10-15T06:52:26
+modified: 2025-10-24T16:13:54
 ---
 
 > _“No matter how many times you do something, there will come a day when you do it for the last time.” — Sam Harris_
@@ -20,7 +20,11 @@ modified: 2025-10-15T06:52:26
 
 ---
 
-["Life Is Short" by Paul Graham](https://paulgraham.com/vb.html)
+Life is transitory.
+
+---
+
+# [_Life Is Short_ by Paul Graham](https://paulgraham.com/vb.html)
 
 > _Life is short and finite. Don’t take things for granted. Appreciate every day. When you take things for granted, they’re gone.—You think you can always write that book, or climb that mountain, or whatever, and then you realize the window has closed. The saddest windows close when other people die.—Their lives are short too._
 
@@ -44,7 +48,7 @@ Accept the impermanence of everything in our lives.
 
 ---
 
-# [Live Like It's The Last Time](https://www.sahilbloom.com/newsletter/live-like-its-the-last-time)
+# [Live Like It’s The Last Time](https://www.sahilbloom.com/newsletter/live-like-its-the-last-time)
 
 * You won’t know when it’s the last time. But you can live like it is.
 * Live each day as it were your last, because someday you’ll certainly be right.
