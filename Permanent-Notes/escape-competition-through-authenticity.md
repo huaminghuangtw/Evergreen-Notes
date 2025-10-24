@@ -1,7 +1,7 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2025-10-21T05:43:22
+modified: 2025-10-24T09:27:04
 ---
 
 > _“Everything popular is wrong.” — Oscar Wilde_
@@ -30,7 +30,7 @@ modified: 2025-10-21T05:43:22
 
 > _[”The more neatly you fit into society, the less free you actually are.” — Naval Ravikant](https://x.com/naval/status/1319054238362730496)_
 
-> _["Every human is non-fungible at the DNA level. It's society, shame and conditioning that chips away at individuality." — George Mack](https://x.com/george__mack/status/1731285742410752077)_
+> _[“Every human is non-fungible at the DNA level. It’s society, shame and conditioning that chips away at individuality.” — George Mack](https://x.com/george__mack/status/1731285742410752077)_
 
 > _“Be yourself; everyone else is already taken.” — Oscar Wilde_
 
