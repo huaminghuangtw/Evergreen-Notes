@@ -1,7 +1,7 @@
 ---
 title: What Success Means To Me
 created: 2024-11-18T09:18:12
-modified: 2025-10-18T07:31:38
+modified: 2025-10-24T06:55:57
 ---
 
 > _[“Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable. And you're the only one that will know that.” — John Wooden](https://www.youtube.com/watch?v=JWQIxuNGdvQ&t=95s)_
@@ -40,7 +40,7 @@ modified: 2025-10-18T07:31:38
 
 [@XiaoYeZhu.YouXieShiZheXieNianWoCaiDongXiaoYeDeRenShengSiKao2012]
 
-> 我曾經有過許許多多的夢想，但是我更想要成功，我常在夢想和現實中擺盪著。在一次又一次的失敗後，我告訴自己不要為世俗定義的「成功」而活，要爲自己真正相信的 [眞理](Seek%20for%20the%20truth.md) 而活。不要只想當個出鋒頭的英雄，要學習當個配角，一個傾聽者，積極追隨許多前行者完成夢想，也積極幫助需要幫助的年輕人實現理想。我的故事將從我的 [失敗經驗](Failing%20forward%20turns%20setbacks%20into%20stepping%20stones.md) 開始。當我能完全臣服於自己的失敗，洞穿了自己的脆弱和不足之後，反而成為一個完整可愛的平凡普通人。這是這些年我越來越清楚的事情。
+> 我曾經有過許許多多的夢想，但是我更想要成功，我常在夢想和現實中擺盪著。在一次又一次的失敗後，我告訴自己不要為世俗定義的「成功」而活，要爲自己真正相信的 [眞理](seek-for-the-truth.md) 而活。不要只想當個出鋒頭的英雄，要學習當個配角，一個傾聽者，積極追隨許多前行者完成夢想，也積極幫助需要幫助的年輕人實現理想。我的故事將從我的 [失敗經驗](Failing%20forward%20turns%20setbacks%20into%20stepping%20stones.md) 開始。當我能完全臣服於自己的失敗，洞穿了自己的脆弱和不足之後，反而成為一個完整可愛的平凡普通人。這是這些年我越來越清楚的事情。
 
 ---
 
