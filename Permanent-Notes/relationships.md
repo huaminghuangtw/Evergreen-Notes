@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-10-20T08:12:36
+modified: 2025-10-24T06:55:57
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -138,7 +138,7 @@ A good exercise: write an essay that argued BOTH sides of a point we felt strong
 1. Your side
 2. The dissenting side
 
-Remember: The ultimate goal is to [find the truth](Seek%20for%20the%20truth.md), not to win. An argument is when you are trying to decide WHO is right, a discussion is when you are trying to decide WHAT is right.
+Remember: The ultimate goal is to [find the truth](seek-for-the-truth.md), not to win. An argument is when you are trying to decide WHO is right, a discussion is when you are trying to decide WHAT is right.
 
 ---
 
