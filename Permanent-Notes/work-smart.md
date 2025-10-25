@@ -1,7 +1,7 @@
 ---
 title: Work smart
 created: 2025-01-23T10:40:57
-modified: 2025-10-20T05:41:42
+modified: 2025-10-25T06:12:58
 ---
 
 > _“You’re more likely to unlock a big leap in performance by trying differently than by trying harder. You might be able to work 10% harder, but a different approach might work 10x better. Remain focused on the core problem, but explore a new line of attack. Persistence is not just about effort, but also strategy. Don’t merely try harder, try differently.” — James Clear_
@@ -54,6 +54,8 @@ Never press the “Try/Grind Harder” button. Instead, build a sustainable _[sy
 ---
 
 # 不必使盡全力，用四分之三的氣力做事就夠了
+
+> [別太認真 = 專注且放鬆。](https://www.youtube.com/watch?v=T0hKmjsnGSs&t=20m25s)
 
 * 用四分之三的氣力完成一件作品或是一件事的成果才是最好的。
 * 因為使盡全力完成的東西，只會讓人覺得沉重、緊繃不已，也會散發一股「世故味」。
