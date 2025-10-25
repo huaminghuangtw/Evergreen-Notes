@@ -1,7 +1,7 @@
 ---
 title: Hope for the best, prepare for the worst
 created: 2024-11-18T09:18:12
-modified: 2025-10-07T14:16:43
+modified: 2025-10-25T05:58:24
 ---
 
 > _“Do not think there are no crocodiles just because the water is calm.”_
@@ -15,6 +15,10 @@ Hope for the best, prepare for the worst, and take whatever comes your way.
 ---
 
 Do favors for tomorrow you. [Set yourself up for success. Create a condition that is impossible to fail for yourself. Put yourself in the best position possible! So that Tomorrow/Future You can play easy mode effortlessly](https://fs.blog/doing-your-best/)
+
+---
+
+憂患意識
 
 ---
 
