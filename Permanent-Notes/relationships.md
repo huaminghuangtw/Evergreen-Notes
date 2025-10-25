@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-10-24T06:55:57
+modified: 2025-10-25T16:35:14
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -86,24 +86,6 @@ Every relationship in your life can be placed within a 2 × 2 matrix based upon:
 
 1. How healthy it is
 2. How enjoyable it is
-
----
-
-## When someone has a problem, ask if they want empathy or a solution
-
-> _“Too often we look for strategies that will shift people out of negative emotion spaces, but that’s not always possible. During difficult times, sometimes we just need to be there for one another.” ― Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)_
-
-We often jump into “Mr. Fix It” mode, eager to [offer advice](advice.md) and [solve a problem](Problem%20Solving.md). However, this can create tension because people don’t always want a solution; sometimes, they just want to feel heard and understood. In fact, **most arguments are not really about the argument, so most arguments can’t be won by arguing.**
-
-The next time a friend, partner, or family member comes to you with a problem, resist the urge to immediately offer advice. Instead, take a moment and ask a simple question to clarify what they truly need. You can frame it as:
-
-* _“Do you want to be helped, heard, or hugged?”_
-	* The 3H (Helped, Heard, or Hugged) Method
-* _“Do you want empathy or do you want a solution?”_
-
-	> Source: [Lisa Feldman Barrett: Balancing the Brain Budget \[The Knowledge Project Ep. #92\]](https://www.youtube.com/watch?v=jORaNMIGiok&t=48m1s)
-
-This simple step can prevent misunderstandings and show that you’re there for them in the way they need you to be. People want to feel understood, and sometimes the best support you can offer is just your presence and a listening ear.
 
 ---
 
