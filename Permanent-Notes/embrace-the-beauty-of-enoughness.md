@@ -1,14 +1,14 @@
 ---
 title: Embrace the beauty of enoughness
 created: 2024-11-18T09:18:12
-modified: 2025-10-23T06:07:28
+modified: 2025-10-25T13:00:36
 ---
 
-> _「真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。」 — 沈芯菱_ [^3]
+> _「真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。」 — 沈芯菱_ [^1]
 
 > _“Be thankful for what you have; you’ll end up having more. If you concentrate on what you don’t have, you will never, ever have enough.” — Oprah Winfrey_
 
-> _“A Gold Medal is a wonderful thing. But if you are not enough without it, you will never be enough with it.” — Irv Blitzer (John Candy) from the movie [Cool Runnings](https://www.imdb.com/title/tt0106611/)_ [^1]
+> _“A Gold Medal is a wonderful thing. But if you are not enough without it, you will never be enough with it.” — Irv Blitzer (John Candy) from the movie [Cool Runnings](https://www.imdb.com/title/tt0106611/)_ [^2]
 
 > _“A full belly is of little worth where the mind is starved, and the heart.” ― Mark Twain_
 
@@ -51,7 +51,7 @@ If you’re not enough without [X], you’ll never be enough with [X].
 
 [@ferriss4hourWorkweekEscape2011]
 
-[Things in excess become their opposite.](https://www.goodreads.com/quotes/9512978-things-in-excess-become-their-opposite-it-is-possible-to) [^2]
+[Things in excess become their opposite.](https://www.goodreads.com/quotes/9512978-things-in-excess-become-their-opposite-it-is-possible-to) [^3]
 
 The dose makes the poison. Some things are beneficial in small amounts but become harmful in excess—such as free time, intensity, and stress. The key is to find the optimal dose, which is unique to you and will evolve through different seasons of your life. Never accept someone else’s prescribed dose as your own.
 
@@ -144,11 +144,15 @@ Don’t let the pursuit of more stop you from enjoying what you already have. Do
 
 ---
 
+不卑不亢：形容待人處事態度得體，既不過於卑屈，也不傲慢自大，恰到好處。
+
+---
+
 ## See Also
 
 * [The Parable of the Mexican Fisherman](The%20Parable%20of%20the%20Mexican%20Fisherman.md)
 * [The absence of desire is true happiness](the-absence-of-desire-is-true-happiness.md)
 
-[^1]: [The Gold Medal Fallacy](https://www.sahilbloom.com/newsletter/the-gold-medal-fallacy-why-time-flies-more)
-[^2]: 物極必反
-[^3]: The richest person isn’t the one who has the most, but the one who need the least.
+[^1]: The richest person isn’t the one who has the most, but the one who need the least.
+[^2]: [The Gold Medal Fallacy](https://www.sahilbloom.com/newsletter/the-gold-medal-fallacy-why-time-flies-more)
+[^3]: 物極必反
