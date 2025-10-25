@@ -1,7 +1,7 @@
 ---
 title: Avoid telling people your goals
 created: 2024-11-18T09:18:12
-modified: 2025-09-30T17:08:31
+modified: 2025-10-25T06:03:42
 ---
 
 > _“If you start by promising what you don’t even have yet, you’ll lose your desire to work towards getting it.” — Paulo Coelho_
@@ -47,3 +47,9 @@ Telling someone who doubts you can activate your desire to prove them wrong—th
 To accelerate progress toward your goals, make it a habit to write them down daily and reinforce them with visual cues—such as Post-It<sup>®</sup> sticky notes—that you regularly update their content or move them to new locations.
 
 While these tactics can spark short-term motivation, research shows that this effect fades quickly, leaving us no closer to achieving what we set out to do. Psychologists call this the **“post-it fallacy”** and **“myth of accountability.”**
+
+---
+
+However, when trying to forming a [good habit](be-a-habit-and-routine-machine.md), announcing your goal to the crowd might be helpful.
+
+* See: [Public Commitment Pledge](https://sketchplanations.com/public-commitment-pledge)
