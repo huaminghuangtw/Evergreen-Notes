@@ -1,7 +1,7 @@
 ---
 title: Be a habit and routine machine
 created: 2024-11-18T09:18:12
-modified: 2025-10-23T06:17:38
+modified: 2025-10-25T06:01:25
 ---
 
 > _“We are what we repeatedly do every day. Excellence, then, is not an act, but a habit.” — Will Durant_
@@ -20,7 +20,7 @@ modified: 2025-10-23T06:17:38
 
 > _“Habits and practice are very interrelated. What we practice will become a habit.” ― Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)_
 
-> _“Only habits of order are formed can we advance to really interesting fields of action — and consequently accumulate grain on grain of willful choice like a very miser — never forgetting how one link dropped undoes an indefinite number. **The more of the details of our daily life we can hand over to the effortless custody of automatism, the more our higher powers of mind will be set free for their own proper work.** There is no more miserable human being than one in whom nothing is habitual but indecision, and for whom the lighting of every cigar, the drinking of every cup, the time of rising and going to bed every day, and the beginning of every bit of work are subjects of express volitional deliberation. Full half the time of such a man goes to the deciding or regretting of matters which ought to be so ingrained in him as practically not to exist for his consciousness at all. If there be such daily duties not yet ingrained in any one of my hearers, let him begin this very hour to set the matter right.” — excepts from [Daily Rituals](http://www.amazon.com/gp/product/0307273601) by Mason Currey_ [^2]
+> _“Only habits of order are formed can we advance to really interesting fields of action — and consequently accumulate grain on grain of willful choice like a very miser — never forgetting how one link dropped undoes an indefinite number. **The more of the details of our daily life we can hand over to the effortless custody of automatism, the more our higher powers of mind will be set free for their own proper work.** There is no more miserable human being than one in whom nothing is habitual but indecision, and for whom the lighting of every cigar, the drinking of every cup, the time of rising and going to bed every day, and the beginning of every bit of work are subjects of express volitional deliberation. Full half the time of such a man goes to the deciding or regretting of matters which ought to be so ingrained in him as practically not to exist for his consciousness at all. If there be such daily duties not yet ingrained in any one of my hearers, let him begin this very hour to set the matter right.” — excepts from [Daily Rituals](http://www.amazon.com/gp/product/0307273601) by Mason Currey_ [^1]
 
 ---
 
@@ -97,6 +97,10 @@ Good habits have a “blast radius” — Those around you are watching. Be a li
 
 When determining the size or complexity of a new habit ask yourself: **“What can I stick to—even on my worst day?”** Start there. Master the art of showing up. Then advance.
 
+Have “Accountability Partners”
+
+* Or: [Public Commitment Pledge](https://sketchplanations.com/public-commitment-pledge)
+
 ---
 
 # Breaking/Replacing Bad Habits
@@ -107,7 +111,7 @@ There are 3 ways to break a bad habit.
 
 1. Eliminate it entirely.
 2. Reduce it.
-3. Substitute it. [^1]
+3. Substitute it. [^2]
 
 ---
 
@@ -121,5 +125,5 @@ Golden Rule: Don’t resist craving, redirect it; keeping the cue and the reward
 
   Quitting cold turkey can be effective but also intense, often leading to withdrawal symptoms depending on what’s being quit.
 
-[^1]: Most people overlook this one. (Mostly neglected)
-[^2]: See also: [William James on Habit](https://fs.blog/william-james-on-habit/)
+[^1]: See also: [William James on Habit](https://fs.blog/william-james-on-habit/)
+[^2]: Most people overlook this one. (Mostly neglected)
