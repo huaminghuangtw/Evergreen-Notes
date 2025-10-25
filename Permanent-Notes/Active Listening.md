@@ -1,7 +1,7 @@
 ---
 title: Active Listening
 created: 2024-11-18T09:18:12
-modified: 2025-10-22T22:55:44
+modified: 2025-10-25T05:57:05
 ---
 
 > _“There is a difference between listening and waiting for your turn to speak.” — Simon Sinek_
@@ -28,13 +28,6 @@ modified: 2025-10-22T22:55:44
 
 ---
 
-| “Me vs. You” Positioning | “Us vs. Problem” Positioning |
-| :----------------------: | :--------------------------: |
-|     Confrontational      |        Collaborative         |
-|     Waiting to speak     |   Listening to understand    |
-
----
-
 > **Are you listening to understand or listening to reply/respond?**
 
 Seek first to understand, then to be understood. Make someone else feel _seen_, _heard_, and _remembered_.
@@ -42,6 +35,13 @@ Seek first to understand, then to be understood. Make someone else feel _seen_, 
 ---
 
 Share with someone who wants to listen or listen to someone who wants to share.
+
+---
+
+| “Me vs. You” Positioning | “Us vs. Problem” Positioning |
+| :----------------------: | :--------------------------: |
+|     Confrontational      |        Collaborative         |
+|     Waiting to speak     |   Listening to understand    |
 
 ---
 
@@ -75,9 +75,9 @@ Being able to listen well is a superpower—keep asking people “_Is there more
 
 ---
 
-「積極/主動聆聽」是指從頭到尾很專心/認真地聽完對方說話 [^4]，同時注視對方的雙眼，並且打從心底感興趣/抱持好奇心、給予對方回應並且提出問題，以試圖加深理解。
+「積極/主動聆聽」是指從頭到尾很專心/認真地聽完對方說話 [^4]，同時注視對方的雙眼，並且打從心底感興趣/抱持好奇心、給予對方回應，並且提出問題，以試圖加深理解。
 
 [^1]: [In order to listen to someone, try to really understand what they are saying.](https://mariandrew.substack.com/p/100-things-i-know)
 [^2]: Related: _[“Tact is the ability to describe others as they see themselves.” — Abraham Lincoln](https://www.brainyquote.com/quotes/abraham_lincoln_100036)_
 [^3]: Empathic Listening
-[^4]: 不能分心想別的事情，也不能不耐煩，必須仔細地聽
+[^4]: 不能分心想別的事情，也不能不耐煩，必須仔細地聽。
