@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-10-24T09:49:48
+modified: 2025-10-25T06:08:20
 ---
 
 Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
@@ -91,6 +91,7 @@ Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
 * One learns best through hands-on practice (through projects)
 * [No one learns new things faster than someone who needs to apply the knowledge right now; so if you want to learn fast, commit to something ASAP that requires it.](https://x.com/anuatluru/status/1741281104953278748)
 * 專題式學習 [Project-Based Learning (PBL)](https://www.google.com/search?q=Project-Based+Learning+(PBL))
+* Book Smart (實務派) > Street Smart (理論派)
 
 ---
 
