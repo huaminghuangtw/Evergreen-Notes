@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-24T16:41:28
+modified: 2025-10-25T06:06:01
 ---
 
 Spend 30 minutes daily…
@@ -128,18 +128,6 @@ The cracked pot reluctantly agreed to do as the old man asked. As they left the 
 On his side of the path was a beautiful row of flowers.
 
 “You see,” the old man said, “I’ve always known you had those cracks, so I planted flower seeds along your side of the path. Each day, your cracks helped me water them. And now, I pick these flowers to share their beauty with the entire village.”
-
----
-
-憂患意識
-
----
-
-<https://sketchplanations.com/public-commitment-pledge>
-
----
-
-Morgan Freeman 直到 1987 年才憑《Street Smart》獲得突破，當時他約 50 歲。
 
 ---
 
