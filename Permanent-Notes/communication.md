@@ -1,7 +1,7 @@
 ---
 title: Communication
 created: 2024-11-18T09:18:12
-modified: 2025-10-11T07:21:24
+modified: 2025-10-25T16:49:40
 ---
 
 * Communication is not about saying what we think. Communication is about ensuring others hear what we mean.
@@ -57,6 +57,27 @@ To ensure clear communication, incorporate these three elements at the start of 
 	* Example: Clearly state your intent, whether it’s to ask a question, get a decision, or simply vent \[[07:33](https://www.youtube.com/watch?v=rpFmRq5KeJs&t=453)].
 3. **Point:** Summarize the most important information \[[08:19](https://www.youtube.com/watch?v=rpFmRq5KeJs&t=499)].
 	* Example: Deliver the most important information upfront, like “Our project launch is going to be delayed by a month” \[[09:47](https://www.youtube.com/watch?v=rpFmRq5KeJs&t=587)].
+
+---
+
+## When someone has a problem, ask if they want empathy or a solution
+
+> _“Too often we look for strategies that will shift people out of negative emotion spaces, but that’s not always possible. During difficult times, sometimes we just need to be there for one another.” ― Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)_
+
+We often jump into “Mr. Fix It” mode, eager to [offer advice](advice.md) and [solve a problem](Problem%20Solving.md). However, this can create tension because people don’t always want a solution; sometimes, they just want to feel heard and understood. In fact, **most arguments are not really about the argument, so most arguments can’t be won by arguing.**
+
+The next time a friend, partner, or family member comes to you with a problem, resist the urge to immediately offer advice. Instead, take a moment and ask a simple question to clarify what they truly need. You can frame it as:
+
+* _“Do you want to be helped, heard, or hugged?”_
+	* [The 3H (Helped, Heard, or Hugged) Method](https://www.youtube.com/watch?v=lg48Bi9DA54&t=3m40s)
+		1. **Practical**: _What is this really about?_ → You offer help.
+		2. **Emotional**: _How do we feel?_ → You simply [listen](Active%20Listening.md).
+		3. **Social**: _Who are we?_ → You reciprocate [vulnerability](vulnerability.md).
+* _“Do you want empathy or do you want a solution?”_
+
+	> Source: [Lisa Feldman Barrett: Balancing the Brain Budget \[The Knowledge Project Ep. #92\]](https://www.youtube.com/watch?v=jORaNMIGiok&t=48m1s)
+
+This simple step can prevent misunderstandings and show that you’re there for them in the way they need you to be. People want to feel understood, and sometimes the best support you can offer is just your presence and a listening ear.
 
 ---
 
