@@ -1,7 +1,7 @@
 ---
 title: Adaptability
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:05:29
+modified: 2025-10-27T08:34:06
 ---
 
 > _“It is not the strongest of the species that survives, nor the most intelligent. It is the one most adaptable to change; but the species that survives is the one that is able best to adapt and adjust to the changing environment in which it finds itself.” — Charles Darwin_ [^1]
@@ -50,7 +50,6 @@ You’ll only go as far as your ability to absorb life’s punches and pivot on 
 * The learned, on the other hand, refers to those who rely on past knowledge and see themselves as already educated or accomplished. They may become complacent, assuming that their existing expertise is sufficient indefinitely.
 
 ---
-
 
 [Life is chaotic](life-is-chaotic.md)
 
