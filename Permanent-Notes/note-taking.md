@@ -1,7 +1,7 @@
 ---
 title: Note Taking
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:24:37
+modified: 2025-10-27T08:34:06
 ---
 
 > _“Every intellectual endeavor starts with a note.” — Sönke Ahrens_
@@ -50,7 +50,6 @@ Note-taking is building a relationship with your future self; [journaling](journ
 * 日記讓過去的我得以重逢，筆記讓未來的我得以預見。
 
 ---
-
 
 [Linking Your Thinking](linking-your-thinking.md)
 
