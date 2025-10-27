@@ -1,7 +1,7 @@
 ---
 title: Explicit Knowledge & Tacit Knowledge
 created: 2025-07-30T14:28:55
-modified: 2025-10-27T08:20:39
+modified: 2025-10-27T08:34:06
 ---
 
 **外顯知識（Explicit Knowledge）** 和 **內隱知識（Tacit Knowledge）** 是知識管理中兩種不同型態的知識，最早由日本知識管理學者 [野中郁次郎（Ikujiro Nonaka）](https://www.google.com/search?q=Ikujiro+Nonaka) 提出。
@@ -24,6 +24,5 @@ modified: 2025-10-27T08:20:39
 * See also: [Specific Knowledge](specific-knowledge.md)
 
 ---
-
 
 [Two Types of Knowledge: The Max Planck/Chauffeur Test](https://fs.blog/two-types-of-knowledge/)
