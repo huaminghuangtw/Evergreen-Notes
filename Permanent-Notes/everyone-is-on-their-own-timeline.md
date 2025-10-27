@@ -1,7 +1,7 @@
 ---
 title: Everyone is on their own timeline
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:22:09
+modified: 2025-10-27T08:34:06
 ---
 
 > _“One’s own dharma performed imperfectly is better than another’s dharma well performed…It is better to strive in one’s own dharma than to succeed in the dharma of another.” — Bhagavad Gita_
@@ -189,7 +189,6 @@ The Japanese philosophy of Oubaitori is a manifestation of this natural way: Hum
 * Nelson Mandela was 76 when he became President.
 
 ---
-
 
 [Comparison is the thief of joy](comparison-is-the-thief-of-joy.md)
 
