@@ -1,7 +1,7 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:03:16
+modified: 2025-10-27T11:20:02
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -66,6 +66,10 @@ The practice solidifies.
 ---
 
 細水長流
+
+---
+
+螞蟻搬象
 
 ---
 
