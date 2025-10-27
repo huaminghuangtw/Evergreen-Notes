@@ -1,7 +1,7 @@
 ---
 title: Time Management
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:00:36
+modified: 2025-10-27T08:34:06
 ---
 
 > _“It is not that we have too little time to do all the things we need to do, it is that we feel the need to do too many things in the time we have.” — Gary Keller_
@@ -15,6 +15,5 @@ The nature of human motivation is about [pursuing pleasure](dopamine.md) and avo
 “I have no time / I need more time” = You don’t [prioritize](Prioritization.md) your time!
 
 ---
-
 
 [Energy Management](energy-management.md)
