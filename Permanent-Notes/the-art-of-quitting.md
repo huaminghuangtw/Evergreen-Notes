@@ -1,7 +1,7 @@
 ---
 title: The Art of Quitting
 created: 2024-11-18T09:18:12
-modified: 2025-10-01T12:55:05
+modified: 2025-10-27T08:13:59
 ---
 
 > _“I am as proud of what we don’t do as I am of what we do.” — Steve Jobs_
@@ -114,7 +114,7 @@ Embrace the rare [ability to start over](https://www.youtube.com/shorts/H7dxy-CW
 1. 資源錯置，誤把進度當成果
 2. 被心理綁架，難以抽身，越陷越深，無法止損
 
-應該先做 Bottleneck Analysis，然後 [全力訓練「猴子」](Eat%20the%20biggest%20frog%20first%20thing%20in%20the%20morning.md)
+應該先做 Bottleneck Analysis，然後 [全力訓練「猴子」](eat-the-biggest-frog-first-thing-in-the-morning.md)
 
 Example: [GoogleX 實驗室](https://x.company/)
 
@@ -142,11 +142,18 @@ Instead of _“Should I quit?”_, ask: _“If I wasn’t already in this, would
 
 ---
 
-# See Also
+[Decision Making](decision-making.md)
 
-* [Decision Making](decision-making.md)
-* [Focus is about saying no](focus-is-about-saying-no.md)
-* [The Endowment Effect](The%20Endowment%20Effect.md)
-* [Loss Aversion](Loss%20Aversion.md)
+---
+
+[Focus is about saying no](focus-is-about-saying-no.md)
+
+---
+
+[The Endowment Effect](the-endowment-effect.md)
+
+---
+
+[Loss Aversion](Loss%20Aversion.md)
 
 [^1]: See charts [here](https://www.linkedin.com/posts/stevenbartlett-123_how-to-know-when-to-quit-something-activity-7235220853292957697-uC4F)

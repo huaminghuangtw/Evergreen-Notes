@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2025-10-20T12:13:48
+modified: 2025-10-26T15:33:25
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
@@ -64,11 +64,19 @@ Rewire your brain
 
 ---
 
+山不轉路轉，路不轉人轉，人不轉心轉。
+
+---
+
 It’s not the load that breaks you down, it’s the way you carry it.
 
 ---
 
 The ability to choose one thought over another is superpower—one shift in our thoughts can completely change how we feel.
+
+---
+
+A change in worldview will change the world viewed. We see the world not as it is, but as we are.
 
 ---
 
@@ -80,16 +88,13 @@ No one can break iron, but its own rust can. Likewise, no one can break a person
 
 ---
 
-# The Law Of Attraction (吸引力法則)
+[The Law of Attraction](the-law-of-attraction.md)
 
-* You become what you constantly think about.
-	* Easy to spot a yellow car when you are always thinking of a yellow car.
-	* Easy to spot opportunity when you are always thinking of opportunity.
-	* Easy to spot reasons to be mad when you are always thinking of being mad.
-* Your dominant thoughts shape your perception of the world. By intentionally focusing on positive, constructive thoughts, you can train your mind to seek out opportunities, solutions, and happiness instead of obstacles and negativity.
-* **[Think Yourself Thin](https://www.yourtango.com/health-wellness/ways-think-yourself-thin-harvard-study-shock-you)** — Believing effort leads to [improvement](the-growth-mindset.md), which increases motivation and drives more effort.
-* **[Selective Attention](https://www.google.com/search?q=Selective+Attention)**
-* **[Reticular Activating System (RAS)](https://www.google.com/search?q=Reticular+Activating+System)** [^1]
+---
+
+# [Think Yourself Thin](https://www.yourtango.com/health-wellness/ways-think-yourself-thin-harvard-study-shock-you)
+
+Believing effort leads to [improvement](the-growth-mindset.md), which increases motivation and drives more effort.
 
 ---
 
@@ -114,7 +119,7 @@ Go laugh in the places you have cried—[change the narrative.](be-careful-how-y
 	* We are not our emotions. We are not sad or anxious (_feeling emotions_). We have sadness or anxiety on us (_being emotions_).
 		* I am sad. → There is sadness on me.
 		* I am anxious. → There is anxiety on me.
-* “How hard it is? (這有多難?)” → “How hard can it be? (這能有多難?)”
+* “How hard it is? (這有多難？)” → “How hard can it be? (這能有多難？)”
 * “以後不知道該怎麼辦…” → 不知道以後會怎樣耶!
 * “[I am afraid to fail.](Fear%20of%20Failure%20and%20Success.md)” → “I am excited to try.”
 * “Life happens to me.” → “I have agency. I can influence my outcomes.”
@@ -175,5 +180,3 @@ In the context of our example: _I will embody the state of being of a fulfilled 
 [@nguyenDontBelieveEverything2024]
 
 > Once we become aware of the fact that we are only feeling what we’re thinking and that thinking is the root cause of our unpleasant experience, we see it for what it truly is. Then we allow it to settle by giving it space, and slowly we will see how we begin to have a clear mind again.
-
-[^1]: A change in worldview will change the world viewed. We see the world not as it is, but as we are.

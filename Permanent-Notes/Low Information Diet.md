@@ -1,7 +1,7 @@
 ---
 title: Low Information Diet
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:46
+modified: 2025-10-27T08:19:27
 ---
 
 > _“The art of not reading is a very important one. It consists in not taking an interest in whatever may be engaging the attention of the general public at any particular time. When some political or ecclesiastical pamphlet, or novel, or poem is making a great commotion, you should remember that he who writes for fools always finds a large public. A precondition for reading good books is not reading bad ones: for life is short.” — Arthur Schopenhauer_
@@ -34,6 +34,5 @@ Immerse yourself in enduring wisdom: read timeless biographies, watch classic in
 
 ---
 
-# See Also
 
-* [BS Asymmetry Principle](BS%20Asymmetry%20Principle.md)
+[BS Asymmetry Principle](BS%20Asymmetry%20Principle.md)

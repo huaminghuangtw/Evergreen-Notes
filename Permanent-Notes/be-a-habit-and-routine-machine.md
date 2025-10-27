@@ -1,7 +1,7 @@
 ---
 title: Be a habit and routine machine
 created: 2024-11-18T09:18:12
-modified: 2025-10-25T06:01:25
+modified: 2025-10-26T06:53:32
 ---
 
 > _“We are what we repeatedly do every day. Excellence, then, is not an act, but a habit.” — Will Durant_
@@ -64,7 +64,7 @@ More often than not (= usually)
 	* 建立一個核心習慣，自然帶動其他好行為
 		* 例如：每天運動 → 睡得更好 → 飲食更健康
 	* [「上游習慣」會順水推舟「下游習慣」](https://podcasts.apple.com/de/podcast/%E9%9B%BB%E6%89%B6%E6%A2%AF%E8%B5%B0%E5%B7%A6%E9%82%8A-with-jacky-left-side-escalator/id1544225078?i=1000679697289)
-* **[Bookend Habits](Always%20start%20and%20end%20the%20day%20right.md)**
+* **[Bookend Habits](always-start-and-end-the-day-right.md)**
 	* Habits that tightly structure the beginning and ending of your day
 		* AM Bookend: The morning ritual that primes you for _productivity_
 		* PM Bookend: The evening ritual that primes you for _recovery_

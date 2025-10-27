@@ -1,7 +1,7 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2025-10-24T09:27:04
+modified: 2025-10-27T08:22:36
 ---
 
 > _“Everything popular is wrong.” — Oscar Wilde_
@@ -53,9 +53,8 @@ modified: 2025-10-24T09:27:04
 * Maintaining your uniqueness in a world that pulls you to blend in, is the only way to realize your full potential and live a fulfilled, texture-rich existence.
 * It comes with a risk, but the rewards are abundant. It may come with a steep cost in the short-term, but the long-term rewards are worth it.
 
-## See Also
 
-* [Always do your best as possible](always-do-your-best-as-possible.md)
+[Always do your best as possible](always-do-your-best-as-possible.md)
 
 ---
 
@@ -91,25 +90,21 @@ Attract \> Chase
 
 ---
 
-What you are good at is different from what you are genetically encoded for.
-
----
+> _“If the path before you is clear, you’re probably on someone else’s.” — Joseph Campbell_
 
 Do not go where the path may lead, go instead where there is no path and leave a trail. Remember that life is an adventure.
-
-> _“If the path before you is clear, you’re probably on someone else’s.” — Joseph Campbell_
 
 ---
 
 找到只有你能做得好的一件事，你就會事半功倍，最後你將成為那件事的世界第一，並且熱愛生命
 
+What you are good at is different from what you are genetically encoded for.
+
 Find a thing that’s so you, that doing it is just a natural extension of you being yourself.
 
 [Your best performances will come when you are working in a way that is a full expression of you. The work becomes a natural display of your personality. This is when you not only get better results, but also love the activity — because in doing the craft, you feel alive.](https://jamesclear.com/3-2-1/january-30-2025)
 
-## See Also
-
-* [Specific Knowledge](specific-knowledge.md)
+[Specific Knowledge](specific-knowledge.md)
 
 ---
 
@@ -117,19 +112,19 @@ Find a thing that’s so you, that doing it is just a natural extension of you b
 
 ---
 
-# Different is better than better.
-
-* 不完美地活出自己的生命勝過於完美地模仿他人
-* 特立獨行
+[Be primarily internally driven](be-primarily-internally-driven-with-intrinsic-motivation.md)
 
 ---
 
-## See Also
+[Comparison is the thief of joy](comparison-is-the-thief-of-joy.md)
 
-* [Be primarily internally driven](be-primarily-internally-driven-with-intrinsic-motivation.md)
-* [Comparison is the thief of joy](comparison-is-the-thief-of-joy.md)
-* [The Spotlight Effect](The%20Spotlight%20Effect.md)
-* [Stanford Prison Experiment](stanford-prison-experiment.md)
+---
+
+[The Spotlight Effect](The%20Spotlight%20Effect.md)
+
+---
+
+[Stanford Prison Experiment](stanford-prison-experiment.md)
 
 [^1]: _“Whenever possible, win without fighting or, at the very least, to win the easiest battles first.” — Sun Tzu_
 [^2]: You are the sum of your influences. No one has the same combination of influences as you.

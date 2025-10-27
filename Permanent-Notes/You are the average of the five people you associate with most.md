@@ -1,7 +1,7 @@
 ---
 title: You are the average of the five people you associate with most
 created: 2024-11-18T09:18:12
-modified: 2025-10-19T15:57:15
+modified: 2025-10-27T08:00:02
 ---
 
 > _“You are the average of the five people you spend the most time with.” ― Jim Rohn_
@@ -95,9 +95,7 @@ You have to be very selective with whom you give your _time_, _energy_, and _att
 
 ---
 
-# See Also
-
-* [Stanford Prison Experiment](stanford-prison-experiment.md)
+[Stanford Prison Experiment](stanford-prison-experiment.md)
 
 [^1]: People come into your life for a reason, a season, or a lifetime.
 [^2]: Some people come into our life to learn and others come to teach.

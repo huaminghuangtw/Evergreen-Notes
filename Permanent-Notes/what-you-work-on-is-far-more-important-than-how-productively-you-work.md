@@ -1,7 +1,7 @@
 ---
 title: What you work on is far more important than how productively you work
 created: 2025-02-04T06:34:16
-modified: 2025-09-05T04:46:59
+modified: 2025-10-27T08:00:06
 ---
 
 > _“If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster.” — Stephen R. Covey_
@@ -51,9 +51,7 @@ Examples
 
 ---
 
-# See Also
-
-* [If it isn’t fuck YES, then it’s clear NO thank you](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md)
+[If it isn’t fuck YES, then it’s clear NO thank you](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md)
 
 [^1]: Also, [requiring a lot of time](busyness.md) does not make a task important.
 [^2]: _“Knowledge is proud that it knows so much; wisdom is humble that it knows no more.” — [William Cowper](https://www.brainyquote.com/authors/william-cowper-quotes)_

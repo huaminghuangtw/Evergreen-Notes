@@ -1,7 +1,7 @@
 ---
 title: The Growth Mindset
 created: 2024-11-18T09:18:12
-modified: 2025-10-20T05:35:09
+modified: 2025-10-27T08:28:34
 ---
 
 [@dweckMindsetNewPsychology2008]
@@ -85,15 +85,14 @@ Locus of Control is a psychological concept first introduced by Julian Rotter in
 
 ---
 
-## References
-
-* _[“How to Enhance Performance & Learning by Applying a Growth Mindset” by Huberman Lab](https://youtu.be/aQDOU3hPci0)_
+_[“How to Enhance Performance & Learning by Applying a Growth Mindset” by Huberman Lab](https://youtu.be/aQDOU3hPci0)_
 
 ---
 
-## See Also
+[Gall’s Law](galls-law.md)
 
-* [Gall's Law](Gall's%20Law.md)
-* [Be ready to change your mind completely at any given time](be-ready-to-change-your-mind-completely-at-any-given-time.md)
+---
+
+[Be ready to change your mind completely at any given time](be-ready-to-change-your-mind-completely-at-any-given-time.md)
 
 [^1]: 熟能生巧

@@ -1,7 +1,7 @@
 ---
 title: Being indistractable is superpower
 created: 2025-01-23T18:40:57
-modified: 2025-10-22T22:55:44
+modified: 2025-10-27T08:07:59
 ---
 
 Being indistractable is about doing what you say you’re going to do.
@@ -66,7 +66,9 @@ By redirecting potential distractions before they reach you, you preserve your w
 
 ---
 
-# 擁抱分心：如何善用大腦的漫遊特性提升專注力 [@davisTwoAwesomeHours2015]
+# 擁抱分心：如何善用大腦的漫遊特性提升專注力 
+
+[@davisTwoAwesomeHours2015]
 
 [我們經常浪費時間和精力對抗大腦天生的漫遊傾向，責怪自己無法更專注，甚至視之為需要改進的缺點。再加上社會長期灌輸我們「白日夢是壞事」的觀念，使我們在發現自己走神時，往往會自責，甚至認為是懶惰的表現。](Acceptance%20and%20Commitment%20Therapy.md)
 
@@ -92,9 +94,8 @@ By redirecting potential distractions before they reach you, you preserve your w
 
 ---
 
-## See Also
 
-* [Why is it so hard to just do the work?](why-is-it-so-hard-to-just-do-the-work.md)
+[Why is it so hard to just do the work?](why-is-it-so-hard-to-just-do-the-work.md)
 
 [^1]: E.g., using a video game to calm children before surgery is a diversion shown in studies to help kids reduce fear and anxiety.
 [^2]: is the resistance when people are told what to do/say (or not do/say), they perceive it as threatening their behavioral freedom, often leading them to do the opposite of what they are told (the natural human response is to rebel), especially when it involves prescribed language.

@@ -1,7 +1,7 @@
 ---
 title: Overthinking
 created: 2025-01-23T10:40:57
-modified: 2025-08-29T08:30:45
+modified: 2025-10-27T08:24:45
 ---
 
 > _“Imagination and fiction make up more than three quarters of our real life.” — Simone Weil_
@@ -54,8 +54,7 @@ Like the man in the story, we occasionally get shot with the poisoned arrows of 
 
 ---
 
-## See Also
 
-* [A true transformation begins with a mental shift](a-true-transformation-begins-with-a-mental-shift.md)
+[A true transformation begins with a mental shift](a-true-transformation-begins-with-a-mental-shift.md)
 
 [^1]: An expression of the problem of infinite regress

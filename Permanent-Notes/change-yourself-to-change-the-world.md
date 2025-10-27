@@ -1,7 +1,7 @@
 ---
 title: Change yourself to change the world
 created: 2024-11-18T09:18:12
-modified: 2025-10-20T15:30:12
+modified: 2025-10-27T08:08:36
 ---
 
 > _“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi_
@@ -46,9 +46,8 @@ Before changing yourself, you need to [knowing yourself](mastering-yourself-is-s
 
 Self-reliance is the ultimate source of strength. Self-help is the best help.
 
-# See Also
 
-* [Never ever complain about anything](never-ever-complain-about-anything.md)
+[Never ever complain about anything](never-ever-complain-about-anything.md)
 
 ---
 
@@ -90,9 +89,7 @@ Personal development/growth/improvement is a lifelong endeavor. Every single day
 * Your Circle of Influence is all the things you can control: your actions, your habits, your attitudes, your attention etc.
 * **The more you focus on your Circle of Influence, the bigger your Circle of Influence will get, and the more you can accomplish to help fix things in your Circle of Concern.**
 
-## See Also
-
-* [Have the courage to do the right things](have-the-courage-to-do-the-right-things.md)
+[Have the courage to do the right things](have-the-courage-to-do-the-right-things.md)
 
 ---
 
@@ -102,8 +99,6 @@ Personal development/growth/improvement is a lifelong endeavor. Every single day
 
 ---
 
-## See Also
-
-* [Control the controllable](control-the-controllable.md)
+[Control the controllable](control-the-controllable.md)
 
 [^1]: The only person who’s going to magically show up to save you— is you.

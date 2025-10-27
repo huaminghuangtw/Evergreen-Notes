@@ -1,7 +1,7 @@
 ---
 title: Perfectionism
 created: 2024-11-18T09:18:12
-modified: 2025-10-07T14:18:15
+modified: 2025-10-27T08:24:56
 ---
 
 > _“You don’t have to be great to start, but you have to start to be great.” — Zig Ziglar_
@@ -70,10 +70,12 @@ Done is better than perfect. — First make it work. Then optimize (pretty, effi
 
 ---
 
-## See Also
 
-* [The Growth Mindset](the-growth-mindset.md)
-* [Just getting started](just-getting-started.md)
+[The Growth Mindset](the-growth-mindset.md)
+
+---
+
+[Just getting started](just-getting-started.md)
 
 [^1]: [Early-Arriver Arbitrage (First-Mover Advantage) — It’s easy to think you’re already late to an arena even when it’s still so early. A crowd can look big until you see how big it can become; only then do you realize it was actually tiny before. […] If you can, get to the arena before the crowd shows up.](https://www.workingtheorys.com/p/before-the-crowd)
 [^2]: The hallmark of premature optimization is adding complexity for the sake of [efficiency](what-you-work-on-is-far-more-important-than-how-productively-you-work.md), _without_ having determined that the benefit is substantial enough to justify the cost (of both implementation and maintenance).

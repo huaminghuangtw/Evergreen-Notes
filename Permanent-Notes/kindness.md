@@ -1,7 +1,7 @@
 ---
 title: Kindness
 created: 2024-11-18T09:18:12
-modified: 2025-10-18T07:36:40
+modified: 2025-10-27T08:23:54
 ---
 
 > _“Kindness is a language which the deaf can hear and the blind can see.” — Mark Twain_
@@ -41,7 +41,8 @@ You can tell a lot about someone’s character by how they treat service staff.
 
 ---
 
-# See Also
+[Empathy](Empathy.md)
 
-* [Empathy](Empathy.md)
-* [The Small-World Phenomenon](the-small-world-phenomenon.md)
+---
+
+[The Small-World Phenomenon](the-small-world-phenomenon.md)

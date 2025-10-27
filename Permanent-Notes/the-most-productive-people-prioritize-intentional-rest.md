@@ -1,7 +1,7 @@
 ---
 title: The most productive people prioritize intentional rest
 created: 2024-11-18T09:18:12
-modified: 2025-10-14T18:10:31
+modified: 2025-10-27T08:00:47
 ---
 
 > _“Rest until you feel like playing, then play until you feel like resting.” — Martha Beck_
@@ -169,10 +169,12 @@ The best way to rest is all about _feeling calm_. Or rather, CALM. Find an activ
 
 ---
 
-# See Also
 
-* [Slow Down to Speed Up](slow-down-to-speed-up.md)
-* [The Reitoff Principle](The%20Reitoff%20Principle.md)
+[Slow Down to Speed Up](slow-down-to-speed-up.md)
+
+---
+
+[The Reitoff Principle](The%20Reitoff%20Principle.md)
 
 [^1]: Either doing _nothing_ or _unplanned energizing distractions / unrelated activities_
 [^2]: A brain state connected to levels of engagement

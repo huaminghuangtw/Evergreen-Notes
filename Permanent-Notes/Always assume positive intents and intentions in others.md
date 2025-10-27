@@ -1,7 +1,7 @@
 ---
 title: Always assume positive intents and intentions in others
 created: 2024-12-08T00:59:27
-modified: 2025-10-05T15:57:07
+modified: 2025-10-27T08:05:46
 ---
 
 > _“Those who look for the bad in people will surely find it.” — Abraham Lincoln*
@@ -32,6 +32,4 @@ Try to interpret whatever people do in the most generous way. See if you feel be
 
 ---
 
-# See Also
-
-* [Judge others by intentions, judge ourselves by actions](Judge%20others%20by%20intentions,%20judge%20ourselves%20by%20actions.md)
+[Judge others by intentions, judge ourselves by actions](Judge%20others%20by%20intentions,%20judge%20ourselves%20by%20actions.md)

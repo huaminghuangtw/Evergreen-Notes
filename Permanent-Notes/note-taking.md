@@ -1,7 +1,7 @@
 ---
 title: Note Taking
 created: 2024-11-18T09:18:12
-modified: 2025-09-22T17:46:02
+modified: 2025-10-27T08:24:37
 ---
 
 > _“Every intellectual endeavor starts with a note.” — Sönke Ahrens_
@@ -51,9 +51,11 @@ Note-taking is building a relationship with your future self; [journaling](journ
 
 ---
 
-# See Also
 
-* [Linking Your Thinking](linking-your-thinking.md)
-* [Evergreen Notes](evergreen-notes.md)
+[Linking Your Thinking](linking-your-thinking.md)
+
+---
+
+[Evergreen Notes](evergreen-notes.md)
 
 [^1]: Connect things you don’t know to things you do know.

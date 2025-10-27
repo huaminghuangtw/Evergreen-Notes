@@ -1,7 +1,7 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2025-10-24T06:04:25
+modified: 2025-10-27T08:10:20
 ---
 
 > _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
@@ -92,9 +92,8 @@ When we embrace _|voluntary struggles_, we’re better equipped/prepared for the
 	* Hard now, easy later.
 	* Always choose _harder right_ over _easier wrong_.
 
-## See Also
 
-* [Hedonic Happiness & Eudaimonic Happiness](hedonic-happiness-and-eudaimonic-happiness.md)
+[Hedonic Happiness & Eudaimonic Happiness](hedonic-happiness-and-eudaimonic-happiness.md)
 
 ---
 
@@ -124,11 +123,19 @@ When things get hard, the mental gymnastics start—you start convincing yoursel
 
 ---
 
-## See Also
 
-* [Always do your best as possible](always-do-your-best-as-possible.md)
-* [Delayed Gratification](delayed-gratification.md)
-* [Resilience](resilience.md)
-* [Two Types of Passion](two-types-of-passion.md)
+[Always do your best as possible](always-do-your-best-as-possible.md)
+
+---
+
+[Delayed Gratification](delayed-gratification.md)
+
+---
+
+[Resilience](resilience.md)
+
+---
+
+[Two Types of Passion](two-types-of-passion.md)
 
 [^1]: What brings you _joy in the present_ often conflicts with what brings you _fulfillment in the future_. Chasing _short-term clout_ is a recipe for _long-term misery_.

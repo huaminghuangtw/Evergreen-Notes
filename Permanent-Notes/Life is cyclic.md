@@ -1,7 +1,7 @@
 ---
 title: Life is cyclic
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:46
+modified: 2025-10-27T08:20:32
 ---
 
 > _“Life is like a wheel. Sooner or later, it always comes around to where you started again.” — Stephen King_
@@ -52,9 +52,8 @@ The [Solstice (至日)](https://en.wikipedia.org/wiki/Solstice) [^2] reminds us:
 
 ---
 
-# See Also
 
-* [Hope for the best, prepare for the worst](hope-for-the-best-prepare-for-the-worst.md)
+[Hope for the best, prepare for the worst](hope-for-the-best-prepare-for-the-worst.md)
 
 [^1]: the ebb and the flow
 [^2]: marks the longest and shortest days of the year

@@ -1,7 +1,7 @@
 ---
 title: Death
 created: 2024-11-18T09:18:12
-modified: 2025-10-15T12:42:47
+modified: 2025-10-27T08:11:17
 ---
 
 > _“The free man thinks of death, least of all things.” — Benedict Spinoza_
@@ -135,12 +135,19 @@ Remarks: Through history, people have gone back into their own pasts, sometime t
 
 ---
 
-## See Also
+[Life is shorter than you think](Life%20is%20shorter%20than%20you%20think.md)
 
-* [Life is shorter than you think](Life%20is%20shorter%20than%20you%20think.md)
-* [Intentional Living](intentional-living.md)
-* [How to live a life](how-to-live-a-life.md)
-* [Why We Exist](why-we-exist.md)
+---
+
+[Intentional Living](intentional-living.md)
+
+---
+
+[How to live a life](how-to-live-a-life.md)
+
+---
+
+[Why We Exist](why-we-exist.md)
 
 [^1]: **The Regret Minimization Framework:** The goal is to minimize the number of _regrets_, _[remorse (懊悔; 悔恨; 自責)](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%B9%81%E4%BD%93/remorse)_, and “_acts of omission (the act of not including something or someone that should have been included)_” in life.
 [^2]: None of them is “_I wish I had earned more money._”

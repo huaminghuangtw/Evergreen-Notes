@@ -1,7 +1,7 @@
 ---
 title: Feedback
 created: 2024-11-18T09:18:12
-modified: 2025-09-01T07:04:19
+modified: 2025-10-27T08:20:44
 ---
 
 # On Giving Feedback
@@ -47,17 +47,13 @@ When people hesitate to give you honest feedback, ask for a score from 0-10, ins
 * 「你的觀點似乎切中要害，能否再深入說明？」
 * 「我覺得你點到關鍵了，可以再多分享一些嗎？」
 
-Don’t confuse DISAGREEMENT with DISRESPECT. Never confuse your CRITICS with your HATERS. Feedback can skyrocket your growth _if you don’t take it personally_.
+Don’t confuse DISAGREEMENT with DISRESPECT. Never confuse your [CRITICS](criticism.md) with your HATERS. Feedback can skyrocket your growth _if you don’t take it personally_.
 
-## See Also
-
-* [Criticism](criticism.md)
 
 ---
 
-# See Also
 
-* [Advice](advice.md)
+[Advice](advice.md)
 
 [^1]: Don’t call it a “problem” if you can avoid it.
 [^2]: No one can argue with your feelings, so use this to avoid a debate about external circumstances.

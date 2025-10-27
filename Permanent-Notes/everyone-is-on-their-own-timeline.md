@@ -1,7 +1,7 @@
 ---
 title: Everyone is on their own timeline
 created: 2024-11-18T09:18:12
-modified: 2025-10-24T09:35:37
+modified: 2025-10-27T08:22:09
 ---
 
 > _“One’s own dharma performed imperfectly is better than another’s dharma well performed…It is better to strive in one’s own dharma than to succeed in the dharma of another.” — Bhagavad Gita_
@@ -54,6 +54,15 @@ In Japan, there are four beautiful trees that all bloom during the spring: Cherr
 The Japanese philosophy of Oubaitori is a manifestation of this natural way: Humans, like trees, bloom on their own timelines. Their journeys and growth are unique to each individual.
 
 日文「桜梅桃李（おうばいとうり）」字面意為櫻、梅、桃、李四種花卉，象徵各自綻放、各具風姿、各自承載天地的安排。人也應當專注於自身的獨特之美，不必追逐他人的影子，只需活出與生俱來的個性與魅力。
+
+---
+
+# Different is better than better.
+
+* 不完美地活出自己的生命勝過於完美地模仿他人
+* 特立獨行
+
+[The Story of the Cracked Pot](../Permanent-Notes/the-story-of-the-cracked-pot.md)
 
 ---
 
@@ -181,11 +190,19 @@ The Japanese philosophy of Oubaitori is a manifestation of this natural way: Hum
 
 ---
 
-## See Also
 
-* [Comparison is the thief of joy](comparison-is-the-thief-of-joy.md)
-* [Escape competition through authenticity](escape-competition-through-authenticity.md)
-* [A man who is a master of patience is master of everything else](a-man-who-is-a-master-of-patience-is-master-of-everything-else.md)
-* [What Success Means To Me](what-success-means-to-me.md)
+[Comparison is the thief of joy](comparison-is-the-thief-of-joy.md)
+
+---
+
+[Escape competition through authenticity](escape-competition-through-authenticity.md)
+
+---
+
+[A man who is a master of patience is master of everything else](a-man-who-is-a-master-of-patience-is-master-of-everything-else.md)
+
+---
+
+[What Success Means To Me](what-success-means-to-me.md)
 
 [^1]: 別被不屬於你的生活囚禁，也別在不屬於你的人生裡逗留。

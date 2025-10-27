@@ -1,7 +1,7 @@
 ---
 title: Neuroscience
 created: 2024-11-18T09:18:12
-modified: 2025-10-19T17:23:33
+modified: 2025-10-26T15:32:47
 ---
 
 The brain is a monkey brain with a supercomputer on top.
@@ -113,6 +113,10 @@ The brain is a monkey brain with a supercomputer on top.
 	* **Journaling** uncovers beliefs, fears, and patterns you might not be aware of.
 	* **Therapy**, especially types like CBT or psychoanalysis, help you identify unconscious thought patterns that may be influencing your behavior.
 	* **Visualization & affirmations** are ways to feed positive scripts into the subconscious over time.
+
+---
+
+[Reticular Activating System](reticular-activating-system.md)
 
 ---
 

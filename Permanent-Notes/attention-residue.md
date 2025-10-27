@@ -1,7 +1,7 @@
 ---
 title: Attention Residue
 created: 2024-11-18T09:18:12
-modified: 2025-10-24T09:49:38
+modified: 2025-10-27T08:06:00
 ---
 
 In the original paper [@leroyWhyItHard2009], Dr. Leroy defines attention residue as, **“the persistence of cognitive activity about a Task A even though one stopped working on Task A and currently performs a Task B.”**
@@ -26,7 +26,8 @@ Always finish what you’ve started. Never start what you can’t finish.
 
 ---
 
-# See Also
+[Task Switching](task-switching.md)
 
-* [Task Switching](task-switching.md)
-* [The Zeigarnik Effect](the-zeigarnik-effect.md)
+---
+
+[The Zeigarnik Effect](the-zeigarnik-effect.md)

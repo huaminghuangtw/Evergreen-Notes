@@ -1,7 +1,7 @@
 ---
 title: Psychology
 created: 2024-11-18T09:18:12
-modified: 2025-10-11T07:55:33
+modified: 2025-10-26T07:21:50
 ---
 
 * Egocentric Bias
@@ -36,10 +36,6 @@ modified: 2025-10-11T07:55:33
 		> “But Mr. Picasso,” the woman protested, “It only took you thirty seconds to draw this little masterpiece.”
 		> “My good woman,” Picasso smiled, “It took me thirty years to draw that masterpiece in thirty seconds.”
 
-* The Peter Principle
-	* Employees in hierarchies are steadily promoted for competence—until they reach a level where they’re incompetent.
-	* People are promoted up to the level of peak _incompetence_.
-	* Examples: senior management at large organizations
 * The Diderot Effect
 	* When acquiring a new possession leads to a spiral of consumption that results in the acquisition of even more possessions. In other words, it means that buying something new can cause a chain reaction of buying more and more things because the new item makes one feel like one needs other things to go with it or to keep up with it.
 * [斯坦福棉花糖實驗 Stanford Marshmallow Experiment on Delayed Gratification](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment)

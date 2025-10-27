@@ -1,7 +1,7 @@
 ---
 title: A man who is a master of patience is master of everything else
 created: 2024-11-18T09:18:12
-modified: 2025-10-22T07:10:43
+modified: 2025-10-27T08:05:02
 ---
 
 > _[“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)_
@@ -95,6 +95,4 @@ Patience builds foundations that last. Patience builds what shortcuts destroy. P
 
 ---
 
-## See Also
-
-* [The Hofstadter's Law](The%20Hofstadter's%20Law.md)
+[The Hofstadter's Law](The%20Hofstadter's%20Law.md)

@@ -1,7 +1,7 @@
 ---
 title: Burnout
 created: 2024-11-18T09:18:12
-modified: 2025-10-14T04:56:42
+modified: 2025-10-27T08:09:18
 ---
 
 = 過勞
@@ -66,9 +66,10 @@ Hemingway advised against pushing to exhaustion. Leaving energy in reserve helps
 
 ---
 
-# See Also
+[Energy Management](energy-management.md)
 
-* [Energy Management](energy-management.md)
-* [Busyness](busyness.md)
+---
+
+[Busyness](busyness.md)
 
 [^1]: “Crunch mode”, also referred to as “crunch time,” is the term used by those in the software development industry to describe working extra hours for extended periods of time in order to finish a project or meet a deadline. ↔ [Slack](slackness.md) in project management is the time a task can be delayed without causing a delay to either subsequent tasks or project completion time. The amount of time before a constraint binds.

@@ -1,7 +1,7 @@
 ---
 title: Trust your gut
 created: 2025-01-01T16:32:50
-modified: 2025-10-22T22:55:44
+modified: 2025-10-26T09:48:01
 ---
 
 > _“Intuition is the whisper of the soul.” — Jidda Krishnamurti_
@@ -9,6 +9,8 @@ modified: 2025-10-22T22:55:44
 > _“Remember that wherever your heart is, there you will find your treasure.” — Paulo Coelho_
 
 > _“It takes time to develop your gut, but once it’s developed, don’t listen to anything else.” — Naval Ravikant_
+
+> _“The more knowledge you have, the more you’re free to rely on your instincts.” — Arnold Schwarzenegger_
 
 ---
 

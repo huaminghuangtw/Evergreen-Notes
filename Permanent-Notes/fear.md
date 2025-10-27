@@ -1,7 +1,7 @@
 ---
 title: Fear
 created: 2024-11-18T09:18:12
-modified: 2025-10-20T12:13:48
+modified: 2025-10-27T08:20:56
 ---
 
 > _“Fear is a natural reaction to moving closer to the truth” — Pema Chodron_
@@ -91,8 +91,13 @@ _Becoming the Ocean_ – A Poem by Khalil Gibram
 
 ---
 
-## See Also
 
-* [overthinking](overthinking.md)
-* [Fear of Failure and Success](Fear%20of%20Failure%20and%20Success.md)
-* [Courage is knowing what not to fear](Courage%20is%20knowing%20what%20not%20to%20fear.md)
+[Overthinking](overthinking.md)
+
+---
+
+[Fear of Failure and Success](Fear%20of%20Failure%20and%20Success.md)
+
+---
+
+[Courage is knowing what not to fear](Courage%20is%20knowing%20what%20not%20to%20fear.md)

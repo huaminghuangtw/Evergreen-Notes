@@ -1,7 +1,7 @@
 ---
 title: Always start and end the day right
 created: 2025-01-23T10:40:57
-modified: 2025-10-21T07:12:36
+modified: 2025-10-27T08:22:15
 ---
 
 > _“Every morning in Africa, a gazelle wakes up, it knows it must outrun the fastest lion or it will be killed. Every morning in Africa, a lion wakes up. It knows it must run faster than the slowest gazelle, or it will starve. It doesn’t matter whether you’re the lion or a gazelle-when the sun comes up, you’d better be running.” — Christopher McDougall_
@@ -82,7 +82,7 @@ Rather than squandering this prime mental state on activities meant to _prepare_
 
 * <u>The “One-Priority-Only” (Reverse / Inverse) Morning Routine</u>
 	1. Dive straight into the highest-priority task right after waking up
-		* [Spend the first 90 minutes of your day working on your no.1 priority in life without any distractions and interruption.](Eat%20the%20biggest%20frog%20first%20thing%20in%20the%20morning.md) It’s that simple.
+		* [Spend the first 90 minutes of your day working on your no.1 priority in life without any distractions and interruption.](eat-the-biggest-frog-first-thing-in-the-morning.md) It’s that simple.
 	2. Do your normal morning routine (yoga, meditation, etc.)
 * _“Whenever I see another entrepreneur who’s obsessive about their routines things like if I don’t have my morning routine I’m a mess or I can’t even function I am so grateful because it just shows how weak they are.” — Alex Hormozi_
 	* _Alex Hormozi’s Morning Routine_
@@ -101,14 +101,12 @@ The key to a productive morning is preparation the night before. Your [to-do lis
 
 A little [planning, preparation](planning-and-preparation-help-maximize-your-productivity.md), and visualization is a small nightly habit that pays major dividends.
 
-1. Spend 10–15 minutes writing down and setting up everything for the top 2-3 priority tasks _the night before (at the end of your workday)_, in order to remove the friction for getting started on [the ONE THING](Eat%20the%20biggest%20frog%20first%20thing%20in%20the%20morning.md) for _the next morning_. By making your to-do list the night before, you can wake up and get right to work immediately without thinking too much. _Morning is for [action](cultivate-a-strong-bias-towards-action.md), not [decision-making](decision-making.md)._ [Decision fatigue](decision-fatigue.md) will stop you from getting into the flow state as you’ll have to decide what to do rather than diving in head first.
+1. Spend 10–15 minutes writing down and setting up everything for the top 2-3 priority tasks _the night before (at the end of your workday)_, in order to remove the friction for getting started on [the ONE THING](eat-the-biggest-frog-first-thing-in-the-morning.md) for _the next morning_. By making your to-do list the night before, you can wake up and get right to work immediately without thinking too much. _Morning is for [action](cultivate-a-strong-bias-towards-action.md), not [decision-making](decision-making.md)._ [Decision fatigue](decision-fatigue.md) will stop you from getting into the flow state as you’ll have to decide what to do rather than diving in head first.
 2. At the end of your day, conclude your conscious thinking on the [Most Important Question (MIQ)](https://mindfulambition.net/most-important-question-journal/)—_a highest-order question, hat, if answered, would create the biggest positive impact in your life_—and hand it over to your unconscious mind to process overnight. Let go, rest, and avoid stressing about it. Then, revisit the MIQ before exposing yourself to new inputs **[before exposing yourself to any new inputs](https://www.youtube.com/watch?v=wAnDWfEIwoE&t=2h56m30s)** in the morning. [^3]
 
 ---
 
-### See Also
-
-* [How to structure your day](Frameworks%20to%20structure%20your%20day.md)
+[How to structure your day](Frameworks%20to%20structure%20your%20day.md)
 
 [^1]: 別把睡前儀式 (或 [睡眠](sleep.md)) 視為一天的結束，而是為明天的美好開端做好準備。
 [^2]: <https://www.hubermanlab.com/episode/maximizing-productivity-physical-and-mental-health-with-daily-tools>

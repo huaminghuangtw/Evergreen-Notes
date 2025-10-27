@@ -1,7 +1,7 @@
 ---
 title: Communication
 created: 2024-11-18T09:18:12
-modified: 2025-10-25T16:49:40
+modified: 2025-10-27T08:09:36
 ---
 
 * Communication is not about saying what we think. Communication is about ensuring others hear what we mean.
@@ -81,9 +81,8 @@ This simple step can prevent misunderstandings and show that you’re there for 
 
 ---
 
-# See Also
 
-* [Feedback](feedback.md)
+[Feedback](feedback.md)
 
 [^1]: They are not “mind readers”.
 [^2]: This means to fully walk through expectations of what the completed task will look like, including when it will be done, how it will be used, the context, the consequences of not doing it, the costs—everything you can think of to paint a shared picture of the expectations.

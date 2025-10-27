@@ -1,7 +1,7 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2025-10-24T06:04:01
+modified: 2025-10-27T08:03:16
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -151,14 +151,27 @@ There’s a magic in showing up on your bad days. The choice is yours. Choose wi
 
 ---
 
-## See Also
+[Frameworks to achieve any goals](Frameworks%20to%20achieve%20any%20goals.md)
 
-* [Frameworks to achieve any goals](Frameworks%20to%20achieve%20any%20goals.md)
-* [Just focus on the next decision](just-focus-on-the-next-decision.md)
-* [The Compounding Effect](the-compounding-effect.md)
-* [Journey over destination](journey-over-destination.md)
-* [The Growth Mindset](the-growth-mindset.md)
-- [Two Types of Passion](two-types-of-passion.md)
+---
+
+[Just focus on the next decision](just-focus-on-the-next-decision.md)
+
+---
+
+[The Compounding Effect](the-compounding-effect.md)
+
+---
+
+[Journey over destination](journey-over-destination.md)
+
+---
+
+[The Growth Mindset](the-growth-mindset.md)
+
+---
+
+[Two Types of Passion](two-types-of-passion.md)
 
 [^1]: 我不怕練一萬種拳的人，但我怕一種拳練一萬次的人。
 [^2]: The only dangerous competitors are the hyper-focused ones.

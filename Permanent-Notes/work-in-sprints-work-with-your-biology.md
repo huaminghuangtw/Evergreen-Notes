@@ -1,7 +1,7 @@
 ---
 title: Work in sprints, work with your biology
 created: 2024-11-18T09:18:12
-modified: 2025-10-14T04:56:42
+modified: 2025-10-27T07:58:58
 ---
 
 > _“If you want to operate at maximum productivity, efficiency, and creativity, you’re going to work on things that you’re excited about at the moment you’re excited about them and accept nothing less. It is better to sit on your butt and do nothing than it is to work on things that you are not excited about.” — Naval Ravikant_
@@ -51,7 +51,7 @@ Why?
 # Match energy level with tasks
 
 * Phase 1 (0–8 hours after waking up) - **Focused Mode**
-	* optimal for analytic “hard” thinking and [any work that you find particularly challenging](Eat%20the%20biggest%20frog%20first%20thing%20in%20the%20morning.md)
+	* optimal for analytic “hard” thinking and [any work that you find particularly challenging](eat-the-biggest-frog-first-thing-in-the-morning.md)
 	* 戰鬥時間 → 登峰造極時刻 ([Deep Work](deep-work.md))
 * Phase 2 (9–16 hours after waking up) - **Diffused Mode**
 	* optimal for brainstorming and creative work
@@ -97,10 +97,11 @@ According to the research, “_The secret to retaining the highest level of prod
 
 ---
 
-## See Also
+[Visual Perceptual Exercise](Visual%20Perceptual%20Exercise.md)
 
-* [Visual Perceptual Exercise](Visual%20Perceptual%20Exercise.md)
-* [What you work on is far more important than how productively you work](what-you-work-on-is-far-more-important-than-how-productively-you-work.md)
+---
+
+[What you work on is far more important than how productively you work](what-you-work-on-is-far-more-important-than-how-productively-you-work.md)
 
 [^1]: 每個人每天都是固定 24 小時
 [^2]: **Circadian Rhythm (= 生理時鐘 = 晝夜節律):** Every cell/organ in our body/brain is modulated or changes in a very regular and predictable rhythm across the 24-hour day.

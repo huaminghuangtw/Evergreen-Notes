@@ -1,7 +1,7 @@
 ---
 title: Sleep
 created: 2024-11-18T09:18:12
-modified: 2025-10-15T15:42:44
+modified: 2025-10-27T08:17:03
 ---
 
 [Matt Walker: Sleep is your superpower \| TED Talk](https://www.ted.com/talks/matt_walker_sleep_is_your_superpower/)
@@ -169,9 +169,8 @@ slow-wave sleep (SWS) = deep sleep
 
 ---
 
-# See Also
 
-* [Jet Leg](jet-leg.md)
+[Jet Leg](jet-leg.md)
 
 [^1]: **Daylight Saving Time = DST (日光節約時間)** or **Summer Time (夏令時間)** is the practice of setting the clock forward by one hour during the warmer months in order to extend evening daylight. Typically, clocks are set forward in the spring and set back in the fall. This practice aims to make better use of daylight during the longer days of summer, potentially saving energy and encouraging outdoor leisure activities in the evening.
 [^2]: When done correctly, your body’s natural circadian rhythms should cause you to feel sleepy at the same time every day.

@@ -1,7 +1,7 @@
 ---
 title: The Streetlight Effect
 created: 2025-04-06T08:08:53
-modified: 2025-08-29T08:30:45
+modified: 2025-10-27T08:27:32
 ---
 
 The tendency to look for answers where it’s easiest, rather than where they’re most likely to be found.
@@ -24,7 +24,7 @@ Like searching for lost keys under a streetlight—not because they’re there, 
 
 ---
 
-# References
+References
 
 * <https://www.sahilbloom.com/newsletter/the-streetlight-effect>
 * <https://sketchplanations.com/looking-under-the-lamppost>

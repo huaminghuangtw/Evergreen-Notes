@@ -1,7 +1,7 @@
 ---
 title: Life is chaotic
 created: 2024-11-18T09:18:12
-modified: 2025-10-07T16:54:48
+modified: 2025-10-27T08:20:22
 ---
 
 > _“Everyone has a plan until they get punched in the mouth.” — Mike Tyson_
@@ -48,6 +48,5 @@ Life is uncertain, but you have to [act](cultivate-a-strong-bias-towards-action.
 
 ---
 
-# See Also
 
-* [Hope for the best, prepare for the worst](hope-for-the-best-prepare-for-the-worst.md)
+[Hope for the best, prepare for the worst](hope-for-the-best-prepare-for-the-worst.md)

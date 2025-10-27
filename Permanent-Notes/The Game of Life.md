@@ -1,7 +1,7 @@
 ---
 title: The Game of Life
 created: 2024-11-18T09:18:12
-modified: 2025-10-22T22:55:44
+modified: 2025-10-27T08:16:23
 ---
 
 > _[The reason to play the game is to be free of it.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)_
@@ -103,11 +103,15 @@ When asked about how he rose from undrafted nobody to this level of stardom, he 
 
 ---
 
-## See Also
+[Work smart](work-smart.md)
 
-* [Work smart](work-smart.md)
-* [Escape competition through authenticity](escape-competition-through-authenticity.md)
-* [Everything in life has an opportunity cost](Everything%20in%20life%20has%20an%20opportunity%20cost.md)
+---
+
+[Escape competition through authenticity](escape-competition-through-authenticity.md)
+
+---
+
+[Everything in life has an opportunity cost](Everything%20in%20life%20has%20an%20opportunity%20cost.md)
 
 [^1]: [Unlike wealth game, status game is inherently combative and driven by competition.](https://www.youtube.com/watch?v=KyfUysrNaco&t=943s) [In the wealth game, more people are winning overall. But in the status game, there are essentially more losers.](https://www.youtube.com/watch?v=KyfUysrNaco&t=10444s)
 [^2]: 把餅做大

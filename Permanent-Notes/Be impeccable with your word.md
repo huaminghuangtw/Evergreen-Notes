@@ -1,7 +1,7 @@
 ---
 title: Be impeccable with your word
 created: 2024-11-18T09:16:50
-modified: 2025-08-10T14:28:42
+modified: 2025-10-27T08:09:24
 ---
 
 > _“Words are but pictures of our thoughts.” — John Dryden_
@@ -16,6 +16,5 @@ Always be aware of how you are using the word. Avoid using the word to [speak ag
 
 ---
 
-# See Also
 
-* [Speak less, listen more](Speak%20less,%20listen%20more.md)
+[Speak less, listen more](Speak%20less,%20listen%20more.md)

@@ -1,7 +1,7 @@
 ---
 title: Stress & Anxiety
 created: 2024-11-18T09:18:12
-modified: 2025-10-19T12:07:48
+modified: 2025-10-27T08:15:15
 ---
 
 > _“Stress happens when the mind resists what is.” — Dan Millman_
@@ -34,9 +34,7 @@ Root Cause: Having two conflicting internal [desires](the-absence-of-desire-is-t
 * 正壓力 = 優壓（Eustress）- 當壓力「稍微高於」我們的 [適應能力](adaptability.md)
 * 負壓力 = 劣壓（Distress）- 當壓力「遠高於」我們的 [適應能力](adaptability.md)
 
-## See Also
-
-* [The Yerkes-Dodson Law](the-yerkes-dodson-law.md)
+[The Yerkes-Dodson Law](the-yerkes-dodson-law.md)
 
 ---
 

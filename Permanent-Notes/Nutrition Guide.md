@@ -1,7 +1,7 @@
 ---
 title: Nutrition Guide
 created: 2024-11-18T09:16:50
-modified: 2025-08-29T08:30:45
+modified: 2025-10-27T08:27:03
 ---
 
 (as an elite athlete)
@@ -31,6 +31,4 @@ modified: 2025-08-29T08:30:45
 
 ---
 
-# References
-
-* [**The Athlete’s Plates** by United States Olympic & Paralympic Committee (USOPC)](https://www.usopc.org/nutrition)
+[**The Athlete’s Plates** by United States Olympic & Paralympic Committee (USOPC)](https://www.usopc.org/nutrition)

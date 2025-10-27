@@ -1,7 +1,7 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-10-22T12:52:26
+modified: 2025-10-27T08:18:43
 ---
 
 > _“Whether you think you can, or you think you can’t—you’re both right.” — Henry Ford_
@@ -93,9 +93,8 @@ Self-imposed limits, Self-limiting beliefs/stories, Self-sabotaging behaviors, e
 >
 > “Well, when the elephants were very young, we used the same small rope, but at that age, it was strong enough to hold them. Now, even though they are much bigger, they still believe the rope can hold them, so they never try to break it.”
 
-# See Also
 
-* [The Streetlight Effect](The%20Streetlight%20Effect.md)
+[The Streetlight Effect](The%20Streetlight%20Effect.md)
 
 ---
 
@@ -201,11 +200,19 @@ Your present circumstances don’t determine where you can go; they merely deter
 
 ---
 
-## See Also
 
-* [Change yourself to change the world](change-yourself-to-change-the-world.md)
-* [Lateral Thinking](Lateral%20Thinking.md)
-* [Stanford Prison Experiment](stanford-prison-experiment.md)
-* [Fear of Failure](Fear%20of%20Failure%20and%20Success.md)
+[Change yourself to change the world](change-yourself-to-change-the-world.md)
+
+---
+
+[Lateral Thinking](Lateral%20Thinking.md)
+
+---
+
+[Stanford Prison Experiment](stanford-prison-experiment.md)
+
+---
+
+[Fear of Failure](Fear%20of%20Failure%20and%20Success.md)
 
 [^1]: 3Ps: Personal, Pervasive, Permanent

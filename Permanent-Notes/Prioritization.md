@@ -1,7 +1,7 @@
 ---
 title: Prioritization
 created: 2024-11-18T09:18:12
-modified: 2025-10-20T05:45:39
+modified: 2025-10-27T08:18:59
 ---
 
 > _“The whole point of getting things done is knowing what to leave undone.” — Oswald Chambers_
@@ -71,7 +71,8 @@ If you have more than 3 priorities, you don’t have any. You must choose what t
 
 ---
 
-# See Also
+[The 5-25 Rule](the-5-25-rule.md)
 
-* [The 5-25 Rule](the-5-25-rule.md)
-* [The Pareto Principle](the-pareto-principle.md)
+---
+
+[The Pareto Principle](the-pareto-principle.md)

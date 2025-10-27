@@ -1,7 +1,7 @@
 ---
 title: If it isn’t fuck yes, then it’s clear no thank you
 created: 2024-11-18T09:16:49
-modified: 2025-10-18T16:57:48
+modified: 2025-10-27T08:21:38
 ---
 
 **TL; DR** Default to NO.
@@ -92,9 +92,16 @@ Two-factor authentication against your calendar by Naval Ravikant
 
 ---
 
-## See Also
+[Seven Things Successful People Say No To Every Day](seven-things-successful-people-say-no-to-every-day.md)
 
-* [Seven Things Successful People Say No To Every Day](seven-things-successful-people-say-no-to-every-day.md)
-* [Focus is about saying no](focus-is-about-saying-no.md)
-* [How to say NO with grace and style](how-to-say-no-with-grace-and-style.md)
-* [You don’t need to be liked to be loved](you-dont-need-to-be-liked-to-be-loved.md)
+---
+
+[Focus is about saying no](focus-is-about-saying-no.md)
+
+---
+
+[How to say NO with grace and style](how-to-say-no-with-grace-and-style.md)
+
+---
+
+[You don’t need to be liked to be loved](you-dont-need-to-be-liked-to-be-loved.md)

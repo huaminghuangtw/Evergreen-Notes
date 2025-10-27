@@ -1,7 +1,7 @@
 ---
 title: The Present Bias
 created: 2024-11-18T09:16:50
-modified: 2025-10-07T14:18:15
+modified: 2025-10-27T06:53:39
 ---
 
 = 維持/安於現狀偏誤 = The Present Bias
@@ -20,8 +20,6 @@ Understanding present bias is crucial in fields like behavioral economics, healt
 
 ---
 
-# See Also
-
-* [Sunk Cost](the-sunk-cost-fallacy.md)
+[Sunk Cost](the-sunk-cost-fallacy.md)
 
 [^1]: The tendency to overvalue the present, often at the expense of the future.

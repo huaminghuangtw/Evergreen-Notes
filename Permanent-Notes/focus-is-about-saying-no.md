@@ -1,7 +1,7 @@
 ---
 title: Focus is about saying no
 created: 2024-11-18T09:18:12
-modified: 2025-10-01T08:30:20
+modified: 2025-10-27T08:11:37
 ---
 
 > _“If you chase two rabbits, you catch none.” — Confucius_
@@ -73,6 +73,4 @@ Since focus requires [saying no](if-it-isnt-fuck-yes-then-its-clear-no-thank-you
 
 ---
 
-## See Also
-
-* [Being indistractable is superpower](being-indistractable-is-superpower.md)
+[Being indistractable is superpower](being-indistractable-is-superpower.md)

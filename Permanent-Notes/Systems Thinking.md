@@ -1,7 +1,7 @@
 ---
 title: Systems Thinking
 created: 2024-11-18T09:18:12
-modified: 2025-10-12T16:35:39
+modified: 2025-10-27T08:15:06
 ---
 
 > _“The whole is greater than the sum of its parts.” — Aristotle_
@@ -41,12 +41,8 @@ The Hermeneutic Circle describes a cyclical process of understanding where one�
 
 [Complex Systems Emerge From Iterations On Simple Designs](https://nav.al/iterate) by Naval Ravikant
 
-## See Also
-
-* [Simple is beautiful](simple-is-beautiful.md)
+[Simple is beautiful](simple-is-beautiful.md)
 
 ---
 
-## See Also
-
-* [Systems over goals](Systems%20over%20goals.md)
+[Systems over goals](Systems%20over%20goals.md)

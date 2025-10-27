@@ -1,7 +1,7 @@
 ---
 title: The 5-25 Rule
 created: 2024-11-18T09:16:49
-modified: 2025-09-04T04:51:50
+modified: 2025-10-27T08:14:26
 ---
 
 > _“The difference between successful people and very successful people is that very successful people say no to almost everything.” — Warren Buffett_
@@ -21,6 +21,5 @@ modified: 2025-09-04T04:51:50
 
 ---
 
-# See Also
 
-* [Focus is about saying no](focus-is-about-saying-no.md)
+[Focus is about saying no](focus-is-about-saying-no.md)

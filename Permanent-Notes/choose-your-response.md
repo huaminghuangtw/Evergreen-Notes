@@ -1,7 +1,7 @@
 ---
 title: Choose your response
 created: 2025-01-23T10:40:57
-modified: 2025-08-31T05:31:51
+modified: 2025-10-27T08:08:48
 ---
 
 > _“It is the set of the sails, not the direction of the wind that determines which way we will go.” — Jim Rohn_
@@ -103,9 +103,10 @@ The Empty Boat Mindset is the reminder that most of these collisions you experie
 
 ---
 
-## See Also
+[A true transformation begins with a mental shift](a-true-transformation-begins-with-a-mental-shift.md)
 
-* [A true transformation begins with a mental shift](a-true-transformation-begins-with-a-mental-shift.md)
-* [Peace from mind](Peace%20from%20mind.md)
+---
+
+[Peace from mind](Peace%20from%20mind.md)
 
 [^1]: _“It’s like singing on a boat during a terrible storm at sea. You can’t stop the raging storm, but singing can change the hearts and spirits of the people who are together on that ship.” — Anne Lamott_

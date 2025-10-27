@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-10-25T16:35:14
+modified: 2025-10-27T08:18:02
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -110,10 +110,9 @@ The best way to argue is to engage with your opponent’s strongest points, not 
 * Express your opponent’s position so clearly, vividly, and fairly that they respond, “Yes, that’s exactly what I meant — I wish I’d said it that way.”
 * Aim to articulate their position with such clarity and fairness that they acknowledge, “You’ve captured my view better than I could myself.”
 
-## See Also
+[Confirmation Bias](confirmation%20Bias.md)
 
-* [Confirmation Bias](confirmation%20Bias.md)
-* [Three Types of “Bad” Arguments](https://fs.blog/bad-arguments/)
+[Three Types of “Bad” Arguments](https://fs.blog/bad-arguments/)
 
 A good exercise: write an essay that argued BOTH sides of a point we felt strongly about.
 
@@ -161,9 +160,7 @@ Remember: A person’s favorite sound is their name.
 
 Humans can maintain about 150 stable, meaningful relationships due to cognitive limits.
 
-## See Also
-
-* [The Small-World Phenomenon](the-small-world-phenomenon.md)
+[The Small-World Phenomenon](the-small-world-phenomenon.md)
 
 ---
 
@@ -286,9 +283,11 @@ Judge a man by his questions rather than his answers.
 
 ---
 
-## See Also
+[Start hard conversations](Start%20hard%20conversations.md)
 
-* [Start hard conversations](Start%20hard%20conversations.md)
+---
+
+[Communication](communication.md)
 
 [^1]: [The Grant \& Glueck Study](https://www.adultdevelopmentstudy.org/grantandglueckstudy) is one of the world’s longest studies on human development \& adult life ([Harvard Study of Adult Development](https://www.adultdevelopmentstudy.org/)), conducted by researchers at Harvard University.
 [^2]: While deep conversations are valuable, it’s also important to recognize that small talk can serve as a social lubricant. The key is to avoid getting stuck in perpetual triviality.

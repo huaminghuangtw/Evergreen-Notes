@@ -1,7 +1,7 @@
 ---
 title: Stay curious
 created: 2024-11-18T09:18:12
-modified: 2025-10-15T05:13:54
+modified: 2025-10-27T08:15:21
 ---
 
 > _“The cure for boredom is curiosity. There is no cure for curiosity.” — Dorothy Parker_
@@ -43,7 +43,8 @@ Curiosity comes from The Information Gap. The more you learn, the more curious y
 
 ---
 
-# See Also
+[Abandon your ego](abandon-your-ego.md)
 
-* [Abandon your ego](abandon-your-ego.md)
-* [Have the courage to do the right things](have-the-courage-to-do-the-right-things.md)
+---
+
+[Have the courage to do the right things](have-the-courage-to-do-the-right-things.md)

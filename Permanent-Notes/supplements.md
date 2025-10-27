@@ -1,7 +1,7 @@
 ---
-title: supplements
+title: Supplements
 created: 2024-11-18T09:16:50
-modified: 2025-08-29T08:30:45
+modified: 2025-10-27T08:29:42
 ---
 
 Effervescent Tablets (發泡錠)
@@ -67,8 +67,6 @@ Supplement to Microspike Dopamine
 
 ---
 
-## References
-
-* <https://examine.com/>
+[Evidence-based Analysis on Supplements & Nutrition \| Examine](https://examine.com)
 
 [^1]: <https://www.goodreads.com/quotes/542554-taking-lsd-was-a-profound-experience-one-of-the-most>

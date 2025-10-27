@@ -1,7 +1,7 @@
 ---
-title: leverage
+title: Leverage
 created: 2025-01-23T10:40:57
-modified: 2025-08-29T08:30:45
+modified: 2025-10-27T08:24:08
 ---
 
 > _“Give me a place to stand, and a lever long enough, and I will move the world.” — Archimedes_
@@ -48,8 +48,7 @@ Example: Any [system](Systems%20over%20goals.md)
 
 ---
 
-### See Also
 
-* [The Winner-Take-All Effects](The%20Winner-Take-All%20Effects.md)
+[The Winner-Take-All Effects](The%20Winner-Take-All%20Effects.md)
 
 [^1]: The only way to discover your strengths is through [feedback analysis](https://sketchplanations.com/feedback-analysis).

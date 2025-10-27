@@ -1,7 +1,7 @@
 ---
 title: Linking Your Thinking
 created: 2025-01-23T18:40:57
-modified: 2025-08-29T08:30:45
+modified: 2025-10-27T08:20:01
 ---
 
 > *“Neurons that fire together wire together” — Hebb’s Rule
@@ -42,6 +42,4 @@ Each link, if made deliberately, is adding value to the note. It’s adding allu
 
 ---
 
-# See Also
-
-* [Evergreen Notes](evergreen-notes.md)
+[Evergreen Notes](evergreen-notes.md)

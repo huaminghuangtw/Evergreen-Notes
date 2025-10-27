@@ -1,7 +1,7 @@
 ---
 title: The Beginner Mindset
 created: 2024-11-18T09:18:12
-modified: 2025-10-20T12:13:49
+modified: 2025-10-27T08:14:37
 ---
 
 > _“It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” ― Mark Twain_
@@ -83,11 +83,19 @@ Naivety (= naiveness = naïveté)
 
 ---
 
-## See Also
 
-* [The Einstellung Effect](The%20Einstellung%20Effect.md)
-* [Abandon your ego](abandon-your-ego.md)
-* [Be ready to change your mind completely at any given time](be-ready-to-change-your-mind-completely-at-any-given-time.md)
-* [The Intellectual Yet Idiot](the-intellectual-yet-idiot.md)
+[The Einstellung Effect](The%20Einstellung%20Effect.md)
+
+---
+
+[Abandon your ego](abandon-your-ego.md)
+
+---
+
+[Be ready to change your mind completely at any given time](be-ready-to-change-your-mind-completely-at-any-given-time.md)
+
+---
+
+[The Intellectual Yet Idiot](the-intellectual-yet-idiot.md)
 
 [^1]: aka The Awareness—Understanding Matrix

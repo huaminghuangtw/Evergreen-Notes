@@ -1,7 +1,7 @@
 ---
 title: Integrity
 created: 2025-02-03T05:30:54
-modified: 2025-10-17T06:28:32
+modified: 2025-10-26T13:28:31
 ---
 
 You are the hostage to the things you say.
@@ -12,7 +12,7 @@ You must have your own **moral codes / internal yardstick** which you trying to 
 
 ---
 
-誠信正直，專指職業上的道德。
+誠信/正直/誠懇，專指職業上的道德。
 
 ---
 
