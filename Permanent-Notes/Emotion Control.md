@@ -1,7 +1,7 @@
 ---
 title: Emotion Control
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:10:40
+modified: 2025-10-27T08:34:06
 ---
 
 > _“Emotional sickness is avoiding reality at any cost. Emotional health is facing reality at any cost.” — [M. Scott Peck](https://quotefancy.com/m-scott-peck-quotes)_
@@ -61,7 +61,6 @@ Before making an important decision ask: “_Am I **hungry**, **angry**, **lonel
 [@brackettPermissionFeelUnlocking2019]
 
 ---
-
 
 [Abandon your ego](abandon-your-ego.md)
 
