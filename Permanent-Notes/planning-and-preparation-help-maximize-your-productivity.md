@@ -1,7 +1,7 @@
 ---
 title: Planning and preparation help maximize your productivity
 created: 2024-12-12T16:22:20
-modified: 2025-10-27T08:24:41
+modified: 2025-10-27T08:34:06
 ---
 
 > _[“The antidote to impulsiveness is forethought.” — Nir Eyal](https://www.youtube.com/watch?v=VVez_sI1zTU)_
@@ -87,7 +87,6 @@ It’s not about idling; it’s about using the pause to build [what comes next]
 	* _What do I need to do everyday / every week that will help me stick to the plan and achieve the goal?_
 
 ---
-
 
 [Implementation Intentions](implementation-intentions.md)
 
