@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-27T07:04:19
+modified: 2025-10-27T16:07:02
 ---
 
 Spend 30 minutes daily…
@@ -195,13 +195,3 @@ The boy did as he was told and went to the stone store. The owner of the store a
 The boy held up two fingers, to which the man replied, “$20,000? I’ll take it.”
 
 But once again, before he could complete the deal, the boy turned and ran home to tell his father what had happened…
-
----
-
-[🔎 Odysseus ithaca lotus](https://www.google.com/search?q=Odysseus+ithaca+lotus)
-
-	Do hard things
-
----
-
-“Love doesn’t just sit there, like a stone, it has to be made, like bread; remade all the time, made new.” — Ursula K. Le Guin
