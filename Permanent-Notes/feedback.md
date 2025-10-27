@@ -1,7 +1,7 @@
 ---
 title: Feedback
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:20:44
+modified: 2025-10-27T08:34:06
 ---
 
 # On Giving Feedback
@@ -49,9 +49,7 @@ When people hesitate to give you honest feedback, ask for a score from 0-10, ins
 
 Don’t confuse DISAGREEMENT with DISRESPECT. Never confuse your [CRITICS](criticism.md) with your HATERS. Feedback can skyrocket your growth _if you don’t take it personally_.
 
-
 ---
-
 
 [Advice](advice.md)
 
