@@ -1,7 +1,7 @@
 ---
 title: Implementation Intentions
 created: 2024-12-13T00:22:06
-modified: 2025-10-27T08:13:22
+modified: 2025-10-27T08:34:06
 ---
 
 is a self-regulating strategy that you make beforehand about _when_ and _where_ to act. That is, _how_ you intend to implement a particular action.
@@ -30,6 +30,5 @@ For example:
 The “if–then” strategy gives you a clear plan for overcoming the unexpected stuff, which means it’s less likely that you’ll be swept away by the urgencies of life. You can’t control when little emergencies happen to you, but you don’t have to be a victim of them either.
 
 ---
-
 
 [Habit Stacking](habit-stacking.md)
