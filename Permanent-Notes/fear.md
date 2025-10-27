@@ -1,7 +1,7 @@
 ---
 title: Fear
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:20:56
+modified: 2025-10-27T08:34:06
 ---
 
 > _“Fear is a natural reaction to moving closer to the truth” — Pema Chodron_
@@ -90,7 +90,6 @@ _Becoming the Ocean_ – A Poem by Khalil Gibram
 > _**The river needs to take the risk of entering the ocean because only then will fear disappear because that’s where the river will know it’s not about disappearing into the ocean, but of becoming the ocean.**_
 
 ---
-
 
 [Overthinking](overthinking.md)
 
