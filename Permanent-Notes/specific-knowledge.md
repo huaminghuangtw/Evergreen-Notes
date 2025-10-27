@@ -1,7 +1,7 @@
 ---
 title: Specific Knowledge
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:16:34
+modified: 2025-10-27T08:34:06
 ---
 
 * It is found by pursuing your genuine [curiosity](stay-curious.md) on [multiple skillsets](specialization-is-for-insects.md).
@@ -14,7 +14,6 @@ modified: 2025-10-27T08:16:34
 * [Find your “unfair competitive advantages”](leverage.md): 清楚知道自己的強項與天賦 [^1]，把興趣變成自己的優勢。
 
 ---
-
 
 [Specialization is for insects](specialization-is-for-insects.md)
 
