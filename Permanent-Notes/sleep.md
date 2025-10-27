@@ -1,7 +1,7 @@
 ---
 title: Sleep
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:17:03
+modified: 2025-10-27T08:34:06
 ---
 
 [Matt Walker: Sleep is your superpower \| TED Talk](https://www.ted.com/talks/matt_walker_sleep_is_your_superpower/)
@@ -168,7 +168,6 @@ sleep arousals (brief awakenings during the night)
 slow-wave sleep (SWS) = deep sleep
 
 ---
-
 
 [Jet Leg](jet-leg.md)
 
