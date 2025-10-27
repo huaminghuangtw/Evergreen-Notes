@@ -1,7 +1,7 @@
 ---
 title: The Spotlight Effect
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:14:14
+modified: 2025-10-27T08:34:06
 ---
 
 > _“You have no responsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It’s their mistake, not my failing.” — Richard P. Feynman_
@@ -49,6 +49,5 @@ There are two big mistakes in life:
 2. Believing that other people think about you in the first place.
 
 ---
-
 
 [Be primarily internally driven](be-primarily-internally-driven-with-intrinsic-motivation.md)
