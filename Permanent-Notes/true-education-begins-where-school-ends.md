@@ -1,7 +1,7 @@
 ---
 title: True education begins where school ends
 created: 2025-01-23T18:40:57
-modified: 2025-10-27T08:00:28
+modified: 2025-10-27T15:00:40
 ---
 
 > _“School is one thing. Education is another. The two don’t always overlap. Whether you’re in school or not, it’s always your job to get yourself an education.” — Austin Kleon_
@@ -21,6 +21,8 @@ modified: 2025-10-27T08:00:28
 > _“Live to learn and you’ll really learn to live.” — John C. Maxwell_
 
 > _“Live as if you were to die tomorrow. Learn as if you were to live forever.” — Mahatma Gandhi_
+
+> _[“I have never let my schooling interfere with my education.” ― Mark Twain](https://www.goodreads.com/quotes/1427-i-have-never-let-my-schooling-interfere-with-my-education)_
 
 ---
 
@@ -58,6 +60,10 @@ School lays the foundation, but true education starts when you step beyond the c
 ---
 
 永續學習可以帶來知識再生的力量，讓我們一生保持源源不絕的學習動力。
+
+---
+
+[Do schools kill creativity? | Sir Ken Robinson | TED](https://huami.ng/do-schools-kill-creativity)
 
 ---
 
