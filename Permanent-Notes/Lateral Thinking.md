@@ -1,7 +1,7 @@
 ---
 title: Lateral Thinking
 created: 2024-11-18T09:16:49
-modified: 2025-10-27T08:25:39
+modified: 2025-10-27T08:34:06
 ---
 
 > _“The young man knows the rules, but the old man knows the exceptions.” — Oliver Wendell Holmes, Sr._
@@ -103,7 +103,6 @@ Rather than being trapped, Alexander challenged the fixed assumption—metaphori
 [Skepticism](Skepticism.md)
 
 ---
-
 
 [The Ludic Fallacy](The%20Ludic%20Fallacy.md)
 
