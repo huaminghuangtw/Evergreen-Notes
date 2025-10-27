@@ -1,7 +1,7 @@
 ---
 title: Never gossip about others
 created: 2025-02-20T10:08:47
-modified: 2025-10-27T08:24:17
+modified: 2025-10-27T08:34:06
 ---
 
 > _“Great minds discuss ideas; average minds discuss events; small minds discuss people.” — Eleanor Roosevelt_
@@ -27,6 +27,5 @@ When you talk bad about others, people wonder if you talk bad about them too.
 Make a habit of praising people when they’re not around. This is one of the fastest ways to foster a positive work/social environment.
 
 ---
-
 
 [Judge others by intentions, judge ourselves by actions](Judge%20others%20by%20intentions,%20judge%20ourselves%20by%20actions.md)
