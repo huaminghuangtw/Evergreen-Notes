@@ -1,7 +1,7 @@
 ---
 title: Low Information Diet
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:19:27
+modified: 2025-10-27T08:34:06
 ---
 
 > _“The art of not reading is a very important one. It consists in not taking an interest in whatever may be engaging the attention of the general public at any particular time. When some political or ecclesiastical pamphlet, or novel, or poem is making a great commotion, you should remember that he who writes for fools always finds a large public. A precondition for reading good books is not reading bad ones: for life is short.” — Arthur Schopenhauer_
@@ -33,6 +33,5 @@ Immerse yourself in enduring wisdom: read timeless biographies, watch classic in
 數位飲食指的是我們在網路世界中「攝取」的內容，例如社群媒體資訊、新聞、影音娛樂等，而日常三餐則提供身體所需的養分。兩者的共同點在於，都會影響我們的健康與狀態。例如，過量食用垃圾食品可能損害身體健康，而長時間沉浸於低質量的數位內容（如假新聞、無意義的短影音）則可能削弱心智健康與專注力。
 
 ---
-
 
 [BS Asymmetry Principle](BS%20Asymmetry%20Principle.md)
