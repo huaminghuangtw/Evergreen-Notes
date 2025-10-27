@@ -1,7 +1,7 @@
 ---
 title: The Law of Attraction
 created: 2025-10-26T15:33:23
-modified: 2025-10-26T15:33:23
+modified: 2025-10-27T08:34:06
 ---
 
 = 吸引力法則
