@@ -1,7 +1,7 @@
 ---
 title: Instant Gratification
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:22:59
+modified: 2025-10-27T08:34:06
 ---
 
 = Immediate Gratification = Cheap Dopamine
@@ -50,7 +50,6 @@ Temptation is an ever-present failure trigger.
 * [Temptation Bundling](temptation-bundling.md)
 
 ---
-
 
 [Delayed Gratification](delayed-gratification.md)
 
