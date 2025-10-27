@@ -1,7 +1,7 @@
 ---
 title: Have the courage to do the right things
 created: 2024-12-08T00:37:07
-modified: 2025-10-27T08:12:53
+modified: 2025-10-27T16:14:15
 ---
 
 > _“The opposite of love is not hate, it’s indifference. The opposite of art is not ugliness, it’s indifference. The opposite of faith is not heresy, it’s indifference. And the opposite of life is not death, it’s indifference.” — Elie Wiesel_
@@ -42,10 +42,18 @@ Even if we can’t fix everything, we should always speak up and tell others whe
 
 ---
 
-[The Drowning Child in the Pond](The%20Drowning%20Child%20in%20the%20Pond.md)
+[The Drowning Child in the Pond](the-drowning-child-in-the-pond.md)
 
 ---
 
-[The Bystander Effect](The%20Bystander%20Effect.md)
+[The Bystander Effect](the-bystander-effect.md)
+
+---
+
+[The Abilene Paradox](https://www.google.com/search?q=The+Abilene+Paradox)
+
+---
+
+國王的新衣 [The Emperor’s New Clothes](https://en.wikipedia.org/wiki/The_Emperor's_New_Clothes)
 
 [^1]: 袖手旁觀、漠不關心、冷淡
