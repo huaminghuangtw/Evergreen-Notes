@@ -1,7 +1,7 @@
 ---
 title: Perfectionism
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:24:56
+modified: 2025-10-27T08:34:06
 ---
 
 > _“You don’t have to be great to start, but you have to start to be great.” — Zig Ziglar_
@@ -69,7 +69,6 @@ Imperfect [action](cultivate-a-strong-bias-towards-action.md) trumps visualized 
 Done is better than perfect. — First make it work. Then optimize (pretty, efficient, documented). Don’t over-engineer. Never start to scale/optimize things too early. Use [feedback](feedback.md) for fast iterations. _**It’s okay to be wrong.**_
 
 ---
-
 
 [The Growth Mindset](the-growth-mindset.md)
 
