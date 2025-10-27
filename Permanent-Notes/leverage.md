@@ -1,7 +1,7 @@
 ---
 title: Leverage
 created: 2025-01-23T10:40:57
-modified: 2025-10-27T08:24:08
+modified: 2025-10-27T08:34:06
 ---
 
 > _“Give me a place to stand, and a lever long enough, and I will move the world.” — Archimedes_
@@ -47,7 +47,6 @@ Example: Any [system](Systems%20over%20goals.md)
 ![](../_attachments/892a43eb93bd11e6921b8c2e3e2301b8.png)
 
 ---
-
 
 [The Winner-Take-All Effects](The%20Winner-Take-All%20Effects.md)
 
