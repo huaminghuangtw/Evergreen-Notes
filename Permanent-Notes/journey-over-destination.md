@@ -1,7 +1,7 @@
 ---
 title: Journey over destination
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:25:45
+modified: 2025-10-27T08:34:06
 ---
 
 > _“To travel is to be alive, but to get somewhere is to be dead.” — Alan Watts_
@@ -162,7 +162,6 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 Paradox: Although it’s being said that “you got to focus on the journey because there is no guarantee on the destination”, you need a destination to get into the journey. [Without a destination, there is no journey—just movement.](always-start-with-end-in-mind.md)
 
 ---
-
 
 [The Arrival Fallacy](The%20Arrival%20Fallacy.md)
 
