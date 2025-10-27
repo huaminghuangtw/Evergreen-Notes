@@ -1,7 +1,7 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2025-10-27T07:36:55
+modified: 2025-10-27T16:07:18
 ---
 
 > _“Love is the absence of judgment.” — Dalai Lama_
@@ -42,7 +42,9 @@ modified: 2025-10-27T07:36:55
 
 > _“Unhealthy love is based on two people trying to escape their problems through their emotions for each other—in other words, they’re using each other as an escape. Healthy love is based on two people acknowledging and addressing their own problems with each other’s support.” ― Mark Manson, [The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/work/quotes/48297245)_
 
-_[“He’s not perfect. You aren’t either, and the two of you will never be perfect. But if he can make you laugh at least once, causes you to think twice, and if he admits to being human and making mistakes, hold onto him and give him the most you can. He isn’t going to quote poetry, he’s not thinking about you every moment, but he will give you a part of him that he knows you could break. Don’t hurt him, don’t change him, and don’t expect for more than he can give. Don’t analyze. Smile when he makes you happy, yell when he makes you mad, and miss him when he’s not there. Love hard when there is love to be had. Because perfect guys don’t exist, but there’s always one guy that is perfect for you.” — Bob Marley](https://www.goodreads.com/quotes/361858-he-s-not-perfect-you-aren-t-either-and-the-two-of)_
+> _[“He’s not perfect. You aren’t either, and the two of you will never be perfect. But if he can make you laugh at least once, causes you to think twice, and if he admits to being human and making mistakes, hold onto him and give him the most you can. He isn’t going to quote poetry, he’s not thinking about you every moment, but he will give you a part of him that he knows you could break. Don’t hurt him, don’t change him, and don’t expect for more than he can give. Don’t analyze. Smile when he makes you happy, yell when he makes you mad, and miss him when he’s not there. Love hard when there is love to be had. Because perfect guys don’t exist, but there’s always one guy that is perfect for you.” — Bob Marley](https://www.goodreads.com/quotes/361858-he-s-not-perfect-you-aren-t-either-and-the-two-of)_
+
+> _“Love doesn’t just sit there, like a stone, it has to be made, like bread; remade all the time, made new.” — Ursula K. Le Guin_
 
 ---
 
