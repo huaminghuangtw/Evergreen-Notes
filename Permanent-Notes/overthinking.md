@@ -1,7 +1,7 @@
 ---
 title: Overthinking
 created: 2025-01-23T10:40:57
-modified: 2025-10-27T08:24:45
+modified: 2025-10-27T08:34:06
 ---
 
 > _“Imagination and fiction make up more than three quarters of our real life.” — Simone Weil_
@@ -53,7 +53,6 @@ Imagine someone is struck by a poisoned arrow. A doctor is called to remove the 
 Like the man in the story, we occasionally get shot with the poisoned arrows of life. But ruminating too much on the nature of those arrows is unlikely to help.
 
 ---
-
 
 [A true transformation begins with a mental shift](a-true-transformation-begins-with-a-mental-shift.md)
 
