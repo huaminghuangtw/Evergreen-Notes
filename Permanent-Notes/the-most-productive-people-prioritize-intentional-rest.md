@@ -1,7 +1,7 @@
 ---
 title: The most productive people prioritize intentional rest
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:00:47
+modified: 2025-10-27T08:34:06
 ---
 
 > _“Rest until you feel like playing, then play until you feel like resting.” — Martha Beck_
@@ -168,7 +168,6 @@ The best way to rest is all about _feeling calm_. Or rather, CALM. Find an activ
 	* It also mentions that brainwave patterns showed positive **frontal alpha asymmetry** [^2] in the break condition (associated with greater engagement), and negative asymmetry under no breaks.
 
 ---
-
 
 [Slow Down to Speed Up](slow-down-to-speed-up.md)
 
