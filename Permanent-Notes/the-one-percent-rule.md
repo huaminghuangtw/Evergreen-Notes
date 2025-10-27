@@ -1,7 +1,7 @@
 ---
 title: The One Percent Rule
 created: 2025-10-27T08:04:09
-modified: 2025-10-27T08:04:09
+modified: 2025-10-27T08:34:06
 ---
 
 * $1.00^{365} = 1.00$ v.s $1.01^{365} = 37.8$
