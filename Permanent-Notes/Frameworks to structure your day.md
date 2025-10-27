@@ -1,7 +1,7 @@
 ---
 title: Frameworks to structure your day
 created: 2025-01-23T18:40:57
-modified: 2025-10-27T08:12:19
+modified: 2025-10-27T08:34:06
 ---
 
 > _[Live life by design, not default.](https://fs.blog/david-foster-wallace-this-is-water/) Make each day your masterpiece. How you spend your days is how you spend your life._
@@ -103,7 +103,6 @@ modified: 2025-10-27T08:12:19
 	* Phase 3: Bedtime and Sleeping (Hours 14–24)
 
 ---
-
 
 [Always start and end the day right](always-start-and-end-the-day-right.md)
 
