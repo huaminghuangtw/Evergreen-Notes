@@ -1,7 +1,7 @@
 ---
 title: Visual Perceptual Exercise
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:00:58
+modified: 2025-10-27T08:34:06
 ---
 
 = Space-Time Bridging = Shift between different time domains [^1]
@@ -34,7 +34,6 @@ By focusing on a specific spot, you activate brain circuitry that releases neuro
 	* Focus your eyes on one location, such as a pen, but direct your focus elsewhere in the room or location that you’re in.
 
 ---
-
 
 [Visualization](visualization.md)
 
