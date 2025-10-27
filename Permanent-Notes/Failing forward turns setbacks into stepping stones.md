@@ -1,7 +1,7 @@
 ---
 title: Failing forward turns setbacks into stepping stones
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:21:50
+modified: 2025-10-27T08:34:06
 ---
 
 > _“Opportunity often comes disguised in the form of misfortune or temporary defeat.” — Napoleon Hill_
@@ -68,7 +68,6 @@ Life will inevitably throw dirt your way—challenges, setbacks, and all kinds o
 Failure + [Reflection](reflect-and-review.md) + [Another Rep](Deliberate%20Practice.md) = Competence
 
 ---
-
 
 [A true transformation begins with a mental shift](a-true-transformation-begins-with-a-mental-shift.md)
 
