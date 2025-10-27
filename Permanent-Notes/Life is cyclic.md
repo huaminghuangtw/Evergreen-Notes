@@ -1,7 +1,7 @@
 ---
 title: Life is cyclic
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:20:32
+modified: 2025-10-27T08:34:06
 ---
 
 > _“Life is like a wheel. Sooner or later, it always comes around to where you started again.” — Stephen King_
@@ -51,7 +51,6 @@ The [Solstice (至日)](https://en.wikipedia.org/wiki/Solstice) [^2] reminds us:
 好是壞的開始，壞是好的開始。
 
 ---
-
 
 [Hope for the best, prepare for the worst](hope-for-the-best-prepare-for-the-worst.md)
 
