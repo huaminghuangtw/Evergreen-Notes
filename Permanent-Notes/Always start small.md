@@ -1,7 +1,7 @@
 ---
 title: Always start small
 created: 2025-03-05T05:32:10
-modified: 2025-10-27T08:04:10
+modified: 2025-10-27T08:34:06
 ---
 
 > _“It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith_
@@ -71,6 +71,5 @@ Anything above zero [compounds](the-compounding-effect.md) positively
 * [失敗](Failing%20forward%20turns%20setbacks%20into%20stepping%20stones.md) 為成功之母 → (微) 小成功為成功之母。
 
 ---
-
 
 [Just focus on the next decision](just-focus-on-the-next-decision.md)
