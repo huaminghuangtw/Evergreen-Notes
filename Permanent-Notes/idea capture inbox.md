@@ -1,7 +1,7 @@
 ---
 title: idea capture inbox
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:13:16
+modified: 2025-10-27T08:34:06
 ---
 
 > _Every composer knows the anguish and despair occasioned by forgetting ideas which one had no time to write down. ― Hector Berlioz_
@@ -53,6 +53,5 @@ What?
 	* 3rd pass: maybe a quarter after; encircle ideas you find interesting at this time
 
 ---
-
 
 [Note Taking](note-taking.md)
