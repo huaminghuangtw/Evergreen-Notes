@@ -1,7 +1,7 @@
 ---
 title: Reflect & Review
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:18:26
+modified: 2025-10-27T08:34:06
 ---
 
 > _“Without reflection, we go blindly on our way, creating more unintended consequences, and failing to achieve anything useful.” — Margaret J. Wheatley_
@@ -39,7 +39,6 @@ Introspection is vital for uncovering personal truths, which fosters the need fo
 Introspection is the one of the best ways to expand our [self-awareness](mastering-yourself-is-superpower.md)—the more time we invest into reflecting on our thoughts and emotions, the more self-awareness we will have.
 
 ---
-
 
 [When in doubt, zoom out](when-in-doubt-zoom-out.md)
 
