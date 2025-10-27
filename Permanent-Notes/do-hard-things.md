@@ -1,7 +1,7 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:10:20
+modified: 2025-10-27T16:07:48
 ---
 
 > _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
@@ -92,7 +92,6 @@ When we embrace _|voluntary struggles_, we’re better equipped/prepared for the
 	* Hard now, easy later.
 	* Always choose _harder right_ over _easier wrong_.
 
-
 [Hedonic Happiness & Eudaimonic Happiness](hedonic-happiness-and-eudaimonic-happiness.md)
 
 ---
@@ -103,7 +102,14 @@ Comfort is the most seductive thing in existence. Comfort is not free. It comes 
 
 ---
 
-When things get hard, the mental gymnastics start—you start convincing yourself that it’s ok to ease up, that [the clear path to your lesser goals](https://www.goodreads.com/quotes/875504-we-are-kept-from-our-goal-not-by-obstacles-but) looks pretty darn good. At this moment, tell yourself: “_It’s supposed/meant to be hard/difficult. If it were easy, everyone would do it._ ”
+> _[“We are kept from our goals not by obstacles but by a clear path to lesser goals.” — Robert Brault](https://www.goodreads.com/quotes/875504-we-are-kept-from-our-goal-not-by-obstacles-but)_
+
+When things get hard, the mental gymnastics start—you start convincing yourself that it’s ok to ease up, that [the clear path to your lesser goals](https://www.goodreads.com/quotes/875504-we-are-kept-from-our-goal-not-by-obstacles-but) looks pretty darn good. At this moment, tell yourself: “_It’s supposed/meant to be hard/difficult. If it were easy, everyone would do it._”
+
+References:
+
+* [The Odysseus (奧德賽) Trap: A Clear Path to Lesser Goals \| The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-odysseus-trap-a-clear-path-to-lesser-goals)
+* [Lotus-eaters - Wikipedia](https://en.wikipedia.org/wiki/Lotus-eaters)
 
 ---
 
@@ -122,7 +128,6 @@ When things get hard, the mental gymnastics start—you start convincing yoursel
 [Make Something Heavy - by Anu Atluru - Working Theorys](https://www.workingtheorys.com/p/make-something-heavy)
 
 ---
-
 
 [Always do your best as possible](always-do-your-best-as-possible.md)
 
