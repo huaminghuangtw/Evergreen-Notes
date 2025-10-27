@@ -1,7 +1,7 @@
 ---
 title: Being indistractable is superpower
 created: 2025-01-23T18:40:57
-modified: 2025-10-27T08:07:59
+modified: 2025-10-27T09:42:26
 ---
 
 Being indistractable is about doing what you say you’re going to do.
@@ -66,7 +66,7 @@ By redirecting potential distractions before they reach you, you preserve your w
 
 ---
 
-# 擁抱分心：如何善用大腦的漫遊特性提升專注力 
+# 擁抱分心：如何善用大腦的漫遊特性提升專注力
 
 [@davisTwoAwesomeHours2015]
 
@@ -82,7 +82,7 @@ By redirecting potential distractions before they reach you, you preserve your w
 
 # 練習察覺當下的想法，並且不加批判 [@davisTwoAwesomeHours2015]
 
-**「覺知注意（Mindfulness）」** 指的是讓思緒自然游移，[當我們發現心思飄遠時，不帶評價地察覺，然後溫和地將注意力帶回當下的感受](Meditation.md)。你可以在閱讀時試試看 — 當發現自己分心，只需留意這個有趣的現象，然後輕柔地將注意力拉回到眼前的內容。
+**「覺知注意（Mindfulness）」** 指的是讓思緒自然游移，[當我們發現心思飄遠時，不帶評價地察覺，然後溫和地將注意力帶回當下的感受](__temp__meditation.md)。你可以在閱讀時試試看 — 當發現自己分心，只需留意這個有趣的現象，然後輕柔地將注意力拉回到眼前的內容。
 
 這是一種「[活在當下](live-in-the-present.md)」的練習 — [覺察自己](mastering-yourself-is-superpower.md)、他人以及周遭環境。[當我們意識到心思飄移，可以成為一個中立的觀察者，單純觀看思緒的流動，而不是責備自己分心。當我們不再因無法專注而感到沮喪或焦慮，就能更有效地將注意力帶回手邊的事務。](Acceptance%20and%20Commitment%20Therapy.md)
 
@@ -93,7 +93,6 @@ By redirecting potential distractions before they reach you, you preserve your w
 如果你希望長時間專注於一件事，不必與分心對抗，也不必完全屈服於它。當 [心思漫遊](wander.md) 時，信任它的存在 — 或許它只是想短暫喘口氣、更新資訊。讓它去吧，但別轉而投入其他事情。如此一來，你的專注力將更穩定，也更持久。
 
 ---
-
 
 [Why is it so hard to just do the work?](why-is-it-so-hard-to-just-do-the-work.md)
 
