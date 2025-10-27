@@ -1,7 +1,7 @@
 ---
 title: Chronotype
 created: 2025-07-01T10:43:51
-modified: 2025-10-27T08:09:32
+modified: 2025-10-27T08:34:06
 ---
 
 # 🕰️ What is Chronotype?
@@ -30,6 +30,5 @@ Morning lark (雲雀；百靈鳥) ↔ Night owl (貓頭鷹)
 * **Better lifestyle choices:** Sleep, eat, and exercise at times aligned with your internal rhythm.
 
 ---
-
 
 [Work in sprints, work with your biology](work-in-sprints-work-with-your-biology.md)
