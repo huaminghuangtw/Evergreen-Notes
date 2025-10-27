@@ -1,7 +1,7 @@
 ---
 title: Smile & Laugh
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:16:40
+modified: 2025-10-27T08:34:06
 ---
 
 > _“A smile is a curve that sets everything straight.” — Phyllis Diller_
@@ -25,6 +25,5 @@ Always laugh out loud when you can. It is cheap medicine.
 > 人生歷經不同的痛苦煎熬後，我終於了解，學習如何化解痛苦，還不如練習用一種自我解嘲的幽默方式，慢慢將痛苦吞食，或許在某一瞬間，還會有甘甜的滋味在喉間。
 
 ---
-
 
 [Optimism](optimism.md)
