@@ -1,7 +1,7 @@
 ---
 title: Empathy
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:10:46
+modified: 2025-10-27T08:34:06
 ---
 
 > _“I do not ask the wounded person how he feels, I myself become the wounded person.” — Walt Whitman_
@@ -59,7 +59,6 @@ Empathy is a full-body experience you practice, not just something you think.
 Remember: Every single person is fighting a battle you know nothing about. Everyone has done the best they can. No one is crazy. [^1]
 
 ---
-
 
 [Judge others by intentions, judge ourselves by actions](Judge%20others%20by%20intentions,%20judge%20ourselves%20by%20actions.md)
 
