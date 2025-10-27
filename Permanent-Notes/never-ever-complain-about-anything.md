@@ -1,7 +1,7 @@
 ---
 title: Never ever complain about anything
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:24:22
+modified: 2025-10-27T08:34:06
 ---
 
 > _“If it’s endurable, then endure it. Stop complaining. If it’s unendurable … then stop complaining. Your destruction will mean its end as well. Just remember: you can endure anything your mind can make endurable, by treating it as in your interest to do so. In your interest, or in your nature.” — Marcus Aurelius_
@@ -30,6 +30,5 @@ Whatever it is, it’s your fault. Take the extreme ownership. (扛全責/負起
 [If you meet a jerk once a month, you’ve met a jerk. If you meet jerks every day, you’re a jerk.](https://www.nytimes.com/2022/06/02/opinion/david-brooks-life-hacks.html)
 
 ---
-
 
 [Cynacism](cynacism.md)
