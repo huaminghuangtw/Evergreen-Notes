@@ -1,7 +1,7 @@
 ---
 title: The Compounding Effect
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:02:15
+modified: 2025-10-27T08:34:06
 ---
 
 > _“Compounding is the 8th wonder of the world.” — Albert Einstein_
@@ -110,7 +110,6 @@ The gradual acceptance of negative change, because it happens in such small incr
 > _「不要想著贏、要想不能輸。」— 電影《KANO》_
 
 不輸才是贏，少輸也是贏。
-
 
 [^1]: 巴菲特的「滾雪球理論」（The Snowball Theory）：必須找到「一顆可以滾得動的好雪球」與「一條夠長的下坡路」。
 [^2]: [Sometimes success is just about avoiding failure and](https://fs.blog/avoid-bad-decisions/) [making bad decisions.](decision-making.md)
