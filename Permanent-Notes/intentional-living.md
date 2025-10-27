@@ -1,7 +1,7 @@
 ---
 title: Intentional Living
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:23:09
+modified: 2025-10-27T08:34:06
 ---
 
 > _“Get busy living, or get busy dying.” — Stephen King_
@@ -95,7 +95,6 @@ Run your mind in a debug mode instead of autopilot mode 24/7
 無論你想 [把人生玩成 RPG、經營類、還是解謎遊戲](Life%20is%20a%20video%20game.md)，請記住：你永遠都有選擇權。
 
 ---
-
 
 [Live in the present](live-in-the-present.md)
 
