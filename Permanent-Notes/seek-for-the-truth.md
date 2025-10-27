@@ -1,7 +1,7 @@
 ---
 title: Seek for the truth
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:25:17
+modified: 2025-10-27T08:34:06
 ---
 
 > _“Facts are the enemy of truth.” — Miguel de Cervantes_
@@ -40,7 +40,6 @@ Do not sacrifice being correct for being right.
 * Entrenchment is essentially an experience-based learning process.
 
 ---
-
 
 [Have the courage to do the right things](have-the-courage-to-do-the-right-things.md)
 
