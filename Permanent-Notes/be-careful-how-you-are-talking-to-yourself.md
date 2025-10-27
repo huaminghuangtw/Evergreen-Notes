@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:09:08
+modified: 2025-10-27T08:34:06
 ---
 
 > _“Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes_
@@ -81,7 +81,6 @@ Next time you catch yourself saying, “_I can’t…_” or “_I’m not the t
 * What would happen if I stopped arguing for this limitation?
 
 If you tell yourself you can’t, you won’t. If you tell yourself you must, you’ll find a way.
-
 
 [Push your limits](push-your-limits.md)
 
