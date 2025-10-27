@@ -1,7 +1,7 @@
 ---
 title: Not caring lets us perform better
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:19:11
+modified: 2025-10-27T08:34:06
 ---
 
 > _“If you aim at nothing, you will hit it every time.” — Zig Ziglar_
@@ -50,6 +50,5 @@ In this frame, the ideal combination to minimize or remove self-interference is 
 * If you were approaching writing a book sincerely rather than seriously, you might decide to throw a detailed homage to World of Warcraft into the very first chapter - illustrating to your future readers that even when creating something as significant as your first book, you can treat the process with levity. By doing so, you’d hopefully help the text create a sense of fun, even while holding forth on the science of productivity.
 
 ---
-
 
 [Journey over destination](journey-over-destination.md)
