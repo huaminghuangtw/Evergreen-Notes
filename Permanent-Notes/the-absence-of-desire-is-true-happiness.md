@@ -1,7 +1,7 @@
 ---
 title: The absence of desire is true happiness
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:14:08
+modified: 2025-10-27T08:34:06
 ---
 
 > _“Having the fewest wants, I am nearest to the gods.” ― Socrates_
@@ -45,7 +45,6 @@ Keep your mind aware and desire asleep.
 You only lose what you cling to.
 
 ---
-
 
 [Miswanting](miswanting.md)
 
