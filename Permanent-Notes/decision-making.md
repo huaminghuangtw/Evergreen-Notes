@@ -1,7 +1,7 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:09:53
+modified: 2025-10-27T08:34:06
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -74,7 +74,6 @@ A simple decision-making framework created by author and speaker Suzy Welch. The
 
 * **Maximizers:** People who want the “absolute best” option. They may leave happiness on the table.
 * **Satisficers:** People who want the “good enough” option. They may leave achievement on the table.
-
 
 [Be primarily internally driven](be-primarily-internally-driven-with-intrinsic-motivation.md)
 
@@ -164,7 +163,6 @@ In Alice’s Adventures in Wonderland, there’s a scene in which Alice reaches 
 * If the expected value of continuing is lower than switching, [quit sooner](the-art-of-quitting.md).
 
 ---
-
 
 [Mental Models](mental%20models.md)
 
