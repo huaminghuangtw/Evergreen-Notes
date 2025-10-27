@@ -1,7 +1,7 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:22:36
+modified: 2025-10-27T08:34:06
 ---
 
 > _“Everything popular is wrong.” — Oscar Wilde_
@@ -52,7 +52,6 @@ modified: 2025-10-27T08:22:36
 
 * Maintaining your uniqueness in a world that pulls you to blend in, is the only way to realize your full potential and live a fulfilled, texture-rich existence.
 * It comes with a risk, but the rewards are abundant. It may come with a steep cost in the short-term, but the long-term rewards are worth it.
-
 
 [Always do your best as possible](always-do-your-best-as-possible.md)
 
