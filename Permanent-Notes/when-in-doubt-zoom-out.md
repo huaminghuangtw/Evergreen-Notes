@@ -1,7 +1,7 @@
 ---
 title: When in doubt, zoom out
 created: 2025-02-10T09:34:23
-modified: 2025-10-14T04:56:42
+modified: 2025-10-27T07:59:12
 ---
 
 退一步海闊天空。
@@ -36,8 +36,12 @@ If you think you have it tough, look around.
 
 ---
 
-# See Also
+[The Solomon Paradox](the-solomon-paradox.md)
 
-* [The Solomon Paradox](the-solomon-paradox.md)
-* [The Tunnel Effect](the-tunnel-effect.md)
-* [The most productive people prioritize intentional rest](the-most-productive-people-prioritize-intentional-rest.md)
+---
+
+[The Tunnel Effect](the-tunnel-effect.md)
+
+---
+
+[The most productive people prioritize intentional rest](the-most-productive-people-prioritize-intentional-rest.md)

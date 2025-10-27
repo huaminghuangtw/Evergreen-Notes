@@ -1,7 +1,7 @@
 ---
 title: Wu Wei
 created: 2024-12-05T23:47:15
-modified: 2025-10-20T05:41:27
+modified: 2025-10-27T07:58:06
 ---
 
 > _“Nature never hurries, yet everything is accomplished. (道常無為而無不為。)” — Lao Tzu._
@@ -31,6 +31,4 @@ Doing nothing can be surprisingly [productive](Productivity.md). I’ve experien
 
 ---
 
-## See Also
-
-* [Not caring lets us perform better](not-caring-lets-us-perform-better.md)
+[Not caring lets us perform better](not-caring-lets-us-perform-better.md)

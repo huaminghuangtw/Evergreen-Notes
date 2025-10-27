@@ -1,7 +1,7 @@
 ---
 title: Goal Setting
 created: 2025-01-23T10:40:57
-modified: 2025-10-20T05:35:09
+modified: 2025-10-27T08:12:14
 ---
 
 > _“A goal is not always meant to be reached, it often serves simply as something to aim at.” — Bruce Lee_
@@ -109,12 +109,19 @@ The key in life is to find the balance, and balance isn’t about perfection. Po
 
 ---
 
-## See Also
+[The Arrival Fallacy](The%20Arrival%20Fallacy.md)
 
-* [The Arrival Fallacy](The%20Arrival%20Fallacy.md)
-* [Journey over destination](journey-over-destination.md)
-* [Always start with end in mind](always-start-with-end-in-mind.md)
-* [Avoid telling people your goals](avoid-telling-people-your-goals.md)
+---
+
+[Journey over destination](journey-over-destination.md)
+
+---
+
+[Always start with end in mind](always-start-with-end-in-mind.md)
+
+---
+
+[Avoid telling people your goals](avoid-telling-people-your-goals.md)
 
 [^1]: _“Dream in a pragmatic way.” — Aldous Huxley_
 [^2]: v.s Stretch Goals

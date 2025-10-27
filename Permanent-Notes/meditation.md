@@ -1,7 +1,7 @@
 ---
 title: meditation
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-10-27T07:45:08
 ---
 
 > _“Meditation is all about the pursuit of nothingness. It’s like the ultimate rest. It’s better than the best sleep you’ve ever had. It’s a quieting of the mind. It sharpens everything, especially your appreciation of your surroundings. It keeps life fresh.” — Hugh Jackman_
@@ -13,6 +13,10 @@ modified: 2025-08-29T08:30:45
 > _“Meditation is the way in which we come to feel our basic inseparability from the whole universe.” — Alan Watts_
 
 > _“All of humanity’s problems stem from man’s inability to sit quietly in a room alone.” — Blaise Pascal_
+
+---
+
+「靜心」的意思是讓心靈平靜安寧，是一種透過觀察內在或透過特定練習（如靜坐、冥想）來讓思緒沉澱、情緒放鬆的狀態。這種狀態的目的是為了與自己更深層地連結，培養覺知，並從壓力和紛擾中獲得寧靜。
 
 ---
 

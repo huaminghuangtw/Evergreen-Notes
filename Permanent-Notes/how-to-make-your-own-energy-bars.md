@@ -1,7 +1,7 @@
 ---
 title: How to Make Your Own Energy Bars
 created: 2025-05-03T05:29:44
-modified: 2025-08-29T08:30:45
+modified: 2025-10-27T08:30:13
 ---
 
 ≈ Energy/Power Balls
@@ -79,6 +79,5 @@ modified: 2025-08-29T08:30:45
 
 ---
 
-# See Also
 
-* [How to Make Your Own Energy Gels](how-to-make-your-own-energy-gels.md)
+[How to Make Your Own Energy Gels](how-to-make-your-own-energy-gels.md)

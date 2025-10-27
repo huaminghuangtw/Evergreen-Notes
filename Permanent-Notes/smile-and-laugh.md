@@ -1,7 +1,7 @@
 ---
 title: Smile & Laugh
 created: 2024-11-18T09:18:12
-modified: 2025-08-22T05:18:09
+modified: 2025-10-27T08:16:40
 ---
 
 > _“A smile is a curve that sets everything straight.” — Phyllis Diller_
@@ -26,6 +26,5 @@ Always laugh out loud when you can. It is cheap medicine.
 
 ---
 
-# See Also
 
-* [Optimism](optimism.md)
+[Optimism](optimism.md)

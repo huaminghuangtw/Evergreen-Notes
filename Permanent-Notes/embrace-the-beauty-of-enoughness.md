@@ -1,7 +1,7 @@
 ---
 title: Embrace the beauty of enoughness
 created: 2024-11-18T09:18:12
-modified: 2025-10-25T13:00:36
+modified: 2025-10-27T08:11:02
 ---
 
 > _「真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。」 — 沈芯菱_ [^1]
@@ -24,13 +24,11 @@ modified: 2025-10-25T13:00:36
 
 ---
 
+# [The Arrival Fallacy](The%20Arrival%20Fallacy.md)
+
 “If I get [X], then I’ll be happy.” is a dangerous trap/mirage/fallacy.
 
 If you’re not enough without [X], you’ll never be enough with [X].
-
-# See Also
-
-* [The Arrival Fallacy](The%20Arrival%20Fallacy.md)
 
 ---
 
@@ -148,10 +146,47 @@ Don’t let the pursuit of more stop you from enjoying what you already have. Do
 
 ---
 
-## See Also
+# 虎度門
 
-* [The Parable of the Mexican Fisherman](The%20Parable%20of%20the%20Mexican%20Fisherman.md)
-* [The absence of desire is true happiness](the-absence-of-desire-is-true-happiness.md)
+> 每個人一生，都要跨過無數次虎度門——進入角色，也學會走出角色。
+
+1. **跨過虎度門，就像踏入人生的舞台。**
+
+	　我們都帶著各自的角色（學生、員工、父母等）登場，
+
+	　有劇本、有即興、有掌聲，也有落幕。
+
+2. **戲裡戲外，都是修行。**
+
+	　演員要懂得「入戲」也要懂得「出戲」；
+
+	　人也一樣 — 要懂得投入，但也要學會抽離。
+
+	　有時我們太執著於某個角色（成功者、完美伴侶、孝順子女），
+
+	　忘了那只是人生的一幕戲。
+
+3. **「虎度門」象徵覺醒的瞬間。**
+
+	　當我們意識到「我只是暫時在演這個角色」，
+
+	　就能更自由、更輕盈地生活。
+
+4. **真正的表演，不在舞台上，而在生活裡。**
+
+	　我們每天都在「演」— 演專業、演成熟、演堅強；
+
+	　但人生的藝術在於：
+
+	　知道什麼時候可以卸下妝容、回到真實的自己。
+
+---
+
+
+[The Parable of the Mexican Fisherman](The%20Parable%20of%20the%20Mexican%20Fisherman.md)
+---
+
+[The absence of desire is true happiness](the-absence-of-desire-is-true-happiness.md)
 
 [^1]: The richest person isn’t the one who has the most, but the one who need the least.
 [^2]: [The Gold Medal Fallacy](https://www.sahilbloom.com/newsletter/the-gold-medal-fallacy-why-time-flies-more)

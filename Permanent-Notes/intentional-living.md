@@ -1,7 +1,7 @@
 ---
 title: Intentional Living
 created: 2024-11-18T09:18:12
-modified: 2025-10-10T06:57:59
+modified: 2025-10-27T08:23:09
 ---
 
 > _“Get busy living, or get busy dying.” — Stephen King_
@@ -96,9 +96,11 @@ Run your mind in a debug mode instead of autopilot mode 24/7
 
 ---
 
-## See Also
 
-* [Live in the present](live-in-the-present.md)
-* [death](death.md)
+[Live in the present](live-in-the-present.md)
+
+---
+
+[Death](death.md)
 
 [^1]: _[“We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.” — C.S. Lewis](https://www.goodreads.com/quotes/615-we-are-not-necessarily-doubting-that-god-will-do-the)_

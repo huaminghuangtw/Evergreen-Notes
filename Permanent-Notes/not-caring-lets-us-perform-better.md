@@ -1,7 +1,7 @@
 ---
 title: Not caring lets us perform better
 created: 2024-11-18T09:18:12
-modified: 2025-10-22T07:17:35
+modified: 2025-10-27T08:19:11
 ---
 
 > _“If you aim at nothing, you will hit it every time.” — Zig Ziglar_
@@ -51,6 +51,5 @@ In this frame, the ideal combination to minimize or remove self-interference is 
 
 ---
 
-### See Also
 
-* [Journey over destination](journey-over-destination.md)
+[Journey over destination](journey-over-destination.md)

@@ -1,7 +1,7 @@
 ---
 title: Specific Knowledge
 created: 2024-11-18T09:18:12
-modified: 2025-10-20T12:13:49
+modified: 2025-10-27T08:16:34
 ---
 
 * It is found by pursuing your genuine [curiosity](stay-curious.md) on [multiple skillsets](specialization-is-for-insects.md).
@@ -15,8 +15,7 @@ modified: 2025-10-20T12:13:49
 
 ---
 
-# See Also
 
-* [Specialization is for insects](specialization-is-for-insects.md)
+[Specialization is for insects](specialization-is-for-insects.md)
 
 [^1]: 組合技，非特定技能 (unique blend of interests, hobbies, and eccentricities)

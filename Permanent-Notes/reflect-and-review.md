@@ -1,7 +1,7 @@
 ---
 title: Reflect & Review
 created: 2024-11-18T09:18:12
-modified: 2025-10-05T16:26:07
+modified: 2025-10-27T08:18:26
 ---
 
 > _“Without reflection, we go blindly on our way, creating more unintended consequences, and failing to achieve anything useful.” — Margaret J. Wheatley_
@@ -40,9 +40,8 @@ Introspection is the one of the best ways to expand our [self-awareness](masteri
 
 ---
 
-## See Also
 
-* [When in doubt, zoom out](when-in-doubt-zoom-out.md)
+[When in doubt, zoom out](when-in-doubt-zoom-out.md)
 
 [^1]: 後見之明
 [^2]: i.e., breaking bad thinking habits

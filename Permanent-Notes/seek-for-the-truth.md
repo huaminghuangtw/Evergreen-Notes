@@ -1,7 +1,7 @@
 ---
 title: Seek for the truth
 created: 2024-11-18T09:18:12
-modified: 2025-10-11T08:10:15
+modified: 2025-10-27T08:25:17
 ---
 
 > _“Facts are the enemy of truth.” — Miguel de Cervantes_
@@ -41,8 +41,7 @@ Do not sacrifice being correct for being right.
 
 ---
 
-## See Also
 
-* [Have the courage to do the right things](have-the-courage-to-do-the-right-things.md)
+[Have the courage to do the right things](have-the-courage-to-do-the-right-things.md)
 
 [^1]: Truth-seekers take feedback from **action**. Consensus-seekers take feedback from **words**.

@@ -1,7 +1,7 @@
 ---
 title: Live in the present
 created: 2024-11-18T09:18:12
-modified: 2025-10-19T15:51:53
+modified: 2025-10-27T08:19:21
 ---
 
 > _“It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.” — Dr. Robert Hutchings Goddard_
@@ -115,11 +115,15 @@ We often treat the present as a _vehicle for something else_, failing to see tha
 
 ---
 
-# See Also
+[Intentional Living](intentional-living.md)
 
-* [Intentional Living](intentional-living.md)
-* [Control the controllable](control-the-controllable.md)
-* [Time is the most valuable asset](Time%20is%20the%20most%20valuable%20asset.md)
+---
+
+[Control the controllable](control-the-controllable.md)
+
+---
+
+[Time is the most valuable asset](Time%20is%20the%20most%20valuable%20asset.md)
 
 [^1]: Live in the “here and now,” focusing on what we can do today instead of dwelling on the past or worrying about the future.
 [^2]: (adv.) for an intervening or temporary period of time

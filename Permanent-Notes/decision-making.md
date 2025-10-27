@@ -1,7 +1,7 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2025-10-12T16:41:47
+modified: 2025-10-27T08:09:53
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -75,9 +75,8 @@ A simple decision-making framework created by author and speaker Suzy Welch. The
 * **Maximizers:** People who want the “absolute best” option. They may leave happiness on the table.
 * **Satisficers:** People who want the “good enough” option. They may leave achievement on the table.
 
-## See Also
 
-* [Be primarily internally driven](be-primarily-internally-driven-with-intrinsic-motivation.md)
+[Be primarily internally driven](be-primarily-internally-driven-with-intrinsic-motivation.md)
 
 ---
 
@@ -123,7 +122,7 @@ Razors
 	* If it looks like a duck, swims like a duck, and quacks like a duck, it’s probably a duck.
 	* You can determine a lot about a person by observing their habitual actions and characteristics.
 	* When someone tells you who they are, believe them the first time.
-* [The Hanlon's Razor](The%20Hanlon's%20Razor.md)
+* [The Hanlon's Razor](the-hanlons-razor.md)
 * The Hitchens’ Razor \& Newton’s Flaming Laser Sword
 	* Anything asserted without evidence can be dismissed without evidence.
 	* If something cannot be settled by reasonable experiment or observation, it’s not worth debating.
@@ -166,10 +165,12 @@ In Alice’s Adventures in Wonderland, there’s a scene in which Alice reaches 
 
 ---
 
-## See Also
 
-* [Mental Models](mental%20models.md)
-* [Everything in life has an opportunity cost](Everything%20in%20life%20has%20an%20opportunity%20cost.md)
+[Mental Models](mental%20models.md)
+
+---
+
+[Everything in life has an opportunity cost](Everything%20in%20life%20has%20an%20opportunity%20cost.md)
 
 [^1]: _“The mind is difficult to control; swiftly and lightly it moves wherever it pleases. It is good to tame the mind, for a well-tamed mind brings happiness.” — Dhammapada_
 [^2]: Not Yet → Not Yet → Not Yet → Not Yet → Time To Eat → Too Late

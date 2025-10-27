@@ -1,7 +1,7 @@
 ---
 title: Mentorship is dated, build a panel of advisors instead
 created: 2025-01-23T10:40:57
-modified: 2025-10-16T04:58:18
+modified: 2025-10-27T08:19:35
 ---
 
 ![](../_attachments/1abb6f103b7cbb0ab268cd7901aa80bb.jpg)
@@ -33,10 +33,14 @@ modified: 2025-10-16T04:58:18
 
 ---
 
-## See Also
+[The Medici Effect](the-medici-effect.md)
 
-* [The Medici Effect](the-medici-effect.md)
-* [Lateral Thinking](Lateral%20Thinking.md)
-* [Systems Thinking](Systems%20Thinking.md)
+---
+
+[Lateral Thinking](Lateral%20Thinking.md)
+
+---
+
+[Systems Thinking](Systems%20Thinking.md)
 
 [^1]: Diversity is key to your panel’s success, as it brings a broader range of ideas.

@@ -1,7 +1,7 @@
 ---
 title: Always start small
 created: 2025-03-05T05:32:10
-modified: 2025-10-12T08:12:59
+modified: 2025-10-27T08:04:10
 ---
 
 > _“It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith_
@@ -18,14 +18,7 @@ A [habit](be-a-habit-and-routine-machine.md) must be first _established_ before 
 
 ---
 
-# The One Percent Rule
-
-* $1.00^{365} = 1.00$ v.s $1.01^{365} = 37.8$
-* “The Mamba Mentality” by Kobe Bryant
-	* Try to get 1% better at what your are doing every single day.
-* [“Marginal Gains” by Sir David Brailsford](https://www.youtube.com/watch?v=THNBIQenywc)
-	* Pay attention to every little detail, and then trying to improve it by 1%, will have massive [compound](the-compounding-effect.md) benefits when added together in the long run.
-* [Marginal Adjustments](https://youtu.be/TQMbvJNRpLE)
+[The One Percent Rule](the-one-percent-rule.md)
 
 ---
 
@@ -79,6 +72,5 @@ Anything above zero [compounds](the-compounding-effect.md) positively
 
 ---
 
-## See Also
 
-* [Just focus on the next decision](just-focus-on-the-next-decision.md)
+[Just focus on the next decision](just-focus-on-the-next-decision.md)

@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-10-20T08:10:54
+modified: 2025-10-27T08:09:08
 ---
 
 > _“Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes_
@@ -82,9 +82,8 @@ Next time you catch yourself saying, “_I can’t…_” or “_I’m not the t
 
 If you tell yourself you can’t, you won’t. If you tell yourself you must, you’ll find a way.
 
-## See Also
 
-* [Push your limits](push-your-limits.md)
+[Push your limits](push-your-limits.md)
 
 ---
 
@@ -117,11 +116,18 @@ Victim Mentality: The 1980 Dartmouth Scar Experiment（傷痕實驗）
 
 ---
 
-## See Also
+[Your identity dictates your actions](your-identity-dictates-your-actions.md)
 
-* [Your identity dictates your actions](your-identity-dictates-your-actions.md)
-* [A true transformation begins with a mental shift](a-true-transformation-begins-with-a-mental-shift.md)
-* [Acceptance and Commitment Therapy](Acceptance%20and%20Commitment%20Therapy.md)
-* [The Growth Mindset](the-growth-mindset.md)
+---
+
+[A true transformation begins with a mental shift](a-true-transformation-begins-with-a-mental-shift.md)
+
+---
+
+[Acceptance and Commitment Therapy](Acceptance%20and%20Commitment%20Therapy.md)
+
+---
+
+[The Growth Mindset](the-growth-mindset.md)
 
 [^1]: Or: “I will try.”, “I need help.”

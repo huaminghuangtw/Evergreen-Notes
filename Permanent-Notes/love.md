@@ -1,7 +1,7 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2025-10-23T06:07:12
+modified: 2025-10-27T07:36:55
 ---
 
 > _“Love is the absence of judgment.” — Dalai Lama_
@@ -158,6 +158,10 @@ Fall deeply. Fail fast. Burn beautifully.
 	> _“Love meant jumping off a cliff and trusting that a certain person would be there to catch you at the bottom.” — Jodi Picoult_
 
 * 「真誠地對待自己與對方；不蹉跎於一段註定會失敗的感情；結束時讓它漂漂亮亮地結束。」
+
+---
+
+世界上最高等級的雙人舞，是兩人關係中的修行。伴侶就像一面最誠實、最透明的鏡子，毫不遮掩地映照出你的情緒、慣性與陰影。透過與對方的互動，我們不斷看見自己，學會理解、包容與成長，最終讓兩個靈魂在磨合中，跳出最真實、最動人的舞步。
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The absence of desire is true happiness
 created: 2024-11-18T09:18:12
-modified: 2025-10-24T12:29:19
+modified: 2025-10-27T08:14:08
 ---
 
 > _“Having the fewest wants, I am nearest to the gods.” ― Socrates_
@@ -28,6 +28,10 @@ Materialism
 
 ---
 
+無欲則剛
+
+---
+
 天高不算高，人心比天高
 
 ---
@@ -42,8 +46,13 @@ You only lose what you cling to.
 
 ---
 
-# See Also
 
-* [Miswanting](miswanting.md)
-* [Emotional Freedom](emotional-freedom.md)
-* [The Art of Quitting](the-art-of-quitting.md)
+[Miswanting](miswanting.md)
+
+---
+
+[Emotional Freedom](emotional-freedom.md)
+
+---
+
+[The Art of Quitting](the-art-of-quitting.md)

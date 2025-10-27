@@ -1,7 +1,7 @@
 ---
 title: Self-compassion
 created: 2025-01-23T10:40:57
-modified: 2025-10-20T08:11:25
+modified: 2025-10-27T08:17:28
 ---
 
 > _“What you deny subdues you. What you accept transforms you.” — Carl Jung_
@@ -62,8 +62,12 @@ We just need to tweak the system rather than beating ourselves up.
 
 ---
 
-## See Also
+[The Reitoff Principle](The%20Reitoff%20Principle.md)
 
-* [The Reitoff Principle](The%20Reitoff%20Principle.md)
-* [The most productive people prioritize intentional rest](the-most-productive-people-prioritize-intentional-rest.md)
-* [Your relationship with yourself sets the tone for every other relationships you have](your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md)
+---
+
+[The most productive people prioritize intentional rest](the-most-productive-people-prioritize-intentional-rest.md)
+
+---
+
+[Your relationship with yourself sets the tone for every other relationships you have](your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md)

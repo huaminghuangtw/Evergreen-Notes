@@ -1,7 +1,7 @@
 ---
 title: Why we exist?
 created: 2024-11-18T09:18:12
-modified: 2025-10-20T05:41:42
+modified: 2025-10-27T07:59:54
 ---
 
 > _“Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness.” — Leo Tolstoy_
@@ -162,13 +162,27 @@ The **S.H.A.P.E. Assessment** is a self-discovery tool used primarily in Christi
 | **P**      | **Personality**     | How do you interact with others? Are you introverted, extroverted, structured, spontaneous? |
 | **E**      | **Experiences**     | What life experiences (good and bad) have shaped who you are today?                         |
 
-## See Also
+---
 
-* [Death](death.md)
-* [How to live a life](how-to-live-a-life.md)
-* [Goal Setting](goal-setting.md)
-* [Everyone is on their own timeline](everyone-is-on-their-own-timeline.md)
-* Maslow’s [Hierarchy/Pyramid of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) / [Pyramid](https://xkcd.com/2988)
+
+Maslow’s [Hierarchy/Pyramid of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) / [Pyramid](https://xkcd.com/2988)
+
+---
+
+[Death](death.md)
+
+---
+
+[How to live a life](how-to-live-a-life.md)
+
+---
+
+[Goal Setting](goal-setting.md)
+
+---
+
+[Everyone is on their own timeline](everyone-is-on-their-own-timeline.md)
+
 
 [^1]: What you are good at + What you love + What you can be paid for + What the world needs
 [^2]: _[“God, kids or mission, pick at least one. Preferably all three. It's very liberating.” — Naval Ravikant](https://www.youtube.com/watch?v=KyfUysrNaco&t=4473s)_

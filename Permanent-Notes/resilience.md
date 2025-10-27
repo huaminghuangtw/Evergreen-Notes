@@ -1,7 +1,7 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2025-10-24T06:10:01
+modified: 2025-10-27T08:18:08
 ---
 
 > _[“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)_
@@ -104,7 +104,8 @@ The more easily you get offended, the less emotional intelligence you have. Inve
 
 ---
 
-# See Also
+[Emotion Control](Emotion%20Control.md)
 
-* [Emotion Control](Emotion%20Control.md)
-* [The Let-Them Theory](The%20Let-Them%20Theory.md)
+---
+
+[The Let-Them Theory](The%20Let-Them%20Theory.md)

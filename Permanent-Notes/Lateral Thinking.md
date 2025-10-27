@@ -1,7 +1,7 @@
 ---
 title: Lateral Thinking
 created: 2024-11-18T09:16:49
-modified: 2025-10-20T12:13:48
+modified: 2025-10-27T08:25:39
 ---
 
 > _“The young man knows the rules, but the old man knows the exceptions.” — Oliver Wendell Holmes, Sr._
@@ -92,10 +92,21 @@ Rather than being trapped, Alexander challenged the fixed assumption—metaphori
 
 ---
 
-# See Also
+[The Beginner Mindset](the-beginner-mindset.md)
 
-* [The Beginner Mindset](the-beginner-mindset.md)
-* [The PO Creativity Method](The%20PO%20Creativity%20Method.md)
-* [Skepticism](Skepticism.md)
-* [The Ludic Fallacy](The%20Ludic%20Fallacy.md)
-* [Be ready to change your mind completely at any given time](be-ready-to-change-your-mind-completely-at-any-given-time.md)
+---
+
+[The PO Creativity Method](The%20PO%20Creativity%20Method.md)
+
+---
+
+[Skepticism](Skepticism.md)
+
+---
+
+
+[The Ludic Fallacy](The%20Ludic%20Fallacy.md)
+
+---
+
+[Be ready to change your mind completely at any given time](be-ready-to-change-your-mind-completely-at-any-given-time.md)

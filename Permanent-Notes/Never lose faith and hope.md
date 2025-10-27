@@ -1,7 +1,7 @@
 ---
 title: Never lose faith and hope
 created: 2024-11-18T09:16:50
-modified: 2025-10-05T16:34:32
+modified: 2025-10-27T08:24:27
 ---
 
 > _“Sometimes life hits you in the head with a brick. Don’t lose faith.” — Steve Jobs_
@@ -20,6 +20,5 @@ Faith is to believe what you do not see; the reward of this faith is to see what
 
 ---
 
-# See Also
 
-* [Hope for the best, prepare for the worst](hope-for-the-best-prepare-for-the-worst.md)
+[Hope for the best, prepare for the worst](hope-for-the-best-prepare-for-the-worst.md)

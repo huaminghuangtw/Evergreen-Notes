@@ -1,7 +1,7 @@
 ---
 title: Abandon your ego
 created: 2024-11-18T09:18:12
-modified: 2025-10-08T05:13:56
+modified: 2025-10-27T08:05:09
 ---
 
 > _“Showing off is the fool’s idea of glory.” — Bruce Lee_
@@ -76,8 +76,6 @@ One of the great mistakes in life is suffering for years because you didn’t wa
 
 ---
 
-## See Also
-
-* [The Beginner Mindset](the-beginner-mindset.md)
+[The Beginner Mindset](the-beginner-mindset.md)
 
 [^1]: [The Speech That Changed How I See the World \| The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-speech-that-changed-how-i-see-the-world)

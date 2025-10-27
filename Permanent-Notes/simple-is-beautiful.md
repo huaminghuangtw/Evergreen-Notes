@@ -1,7 +1,7 @@
 ---
 title: Simple is beautiful
 created: 2025-02-21T16:42:30
-modified: 2025-10-12T16:35:48
+modified: 2025-10-27T08:25:11
 ---
 
 > _”Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.” — Steve Jobs_
@@ -57,7 +57,8 @@ The simplest solution is…
 
 ---
 
-## See Also
+[Gall’s Law](galls-law.md)
 
-* [Gall's Law](Gall's%20Law.md)
-* [The Simplicity Audit](the-simplicity-audit.md)
+---
+
+[The Simplicity Audit](the-simplicity-audit.md)

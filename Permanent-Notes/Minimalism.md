@@ -1,7 +1,7 @@
 ---
 title: Minimalism
 created: 2024-11-18T09:18:12
-modified: 2025-10-19T14:39:07
+modified: 2025-10-27T08:19:46
 ---
 
 [@collinsSimplePathWealth2016]
@@ -60,10 +60,11 @@ Always eliminate first, then accumulate.
 
 ---
 
-# See Also
+[Simple is beautiful](simple-is-beautiful.md)
 
-* [Simple is beautiful](simple-is-beautiful.md)
-* [Addition by subtraction](addition-by-subtraction.md)
+---
+
+[Addition by subtraction](addition-by-subtraction.md)
 
 [^1]: _[“The things you own end up owning you” — Fight Club (1999 film)](https://www.youtube.com/watch?v=zp-eEVkKh60)_
 [^2]: It’s the empty space that makes the room useful.

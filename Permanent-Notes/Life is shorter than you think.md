@@ -1,7 +1,7 @@
 ---
 title: Life is shorter than you think
 created: 2025-01-23T10:40:57
-modified: 2025-10-24T16:13:54
+modified: 2025-10-27T08:20:27
 ---
 
 > _“No matter how many times you do something, there will come a day when you do it for the last time.” — Sam Harris_
@@ -56,6 +56,5 @@ Accept the impermanence of everything in our lives.
 
 ---
 
-# See Also
 
-* [Death](death.md)
+[Death](death.md)

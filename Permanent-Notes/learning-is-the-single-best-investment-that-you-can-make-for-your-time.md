@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-10-25T06:08:20
+modified: 2025-10-27T08:23:38
 ---
 
 Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
@@ -95,7 +95,7 @@ Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
 
 ---
 
-Stick to the [**basics/fundamentals**](first-principle%20thinking.md) and **big picture**, then you can learn anything you want.
+Stick to the [basics/fundamentals](first-principle%20thinking.md) and **big picture**, then you can learn anything you want.
 
 * Don’t overlook the basics. Don’t ignore the foundation.
 * Learning is a condensing and incremental process.
@@ -229,10 +229,11 @@ Always starting from the most basic and simplest level, then adding more complex
 
 ---
 
-## See Also
+[Language Learning](Language%20Learning.md)
 
-* [Language Learning](Language%20Learning.md)
-* [School is nothing but the starting line of true education](true-education-begins-where-school-ends.md)
+---
+
+[School is nothing but the starting line of true education](true-education-begins-where-school-ends.md)
 
 [^1]: 圖像、故事、位置空間 ([羅馬房間方位記憶法 = 宮殿記憶法](https://en.wikipedia.org/wiki/Method_of_loci))
 [^2]: [The Learning Pit](https://sketchplanations.com/the-learning-pit)

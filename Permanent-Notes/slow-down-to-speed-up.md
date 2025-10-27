@@ -1,7 +1,7 @@
 ---
 title: Slow Down to Speed Up
 created: 2024-12-05T09:05:25
-modified: 2025-10-25T06:12:21
+modified: 2025-10-27T08:16:57
 ---
 
 [@ferriss4hourWorkweekEscape2011]
@@ -89,12 +89,19 @@ Once you’ve done that, that’s when you can go fast.
 
 ---
 
-## See Also
+[Every single day, chop wood, carry water](every-single-day-chop-wood-carry-waters.md)
 
-* [Every single day, chop wood, carry water](every-single-day-chop-wood-carry-waters.md)
-* [Slackness](slackness.md)
-* [Wu Wei](wu-wei.md)
-* [A man who is a master of patience is master of everything else](a-man-who-is-a-master-of-patience-is-master-of-everything-else.md)
+---
+
+[Slackness](slackness.md)
+
+---
+
+[Wu Wei](wu-wei.md)
+
+---
+
+[A man who is a master of patience is master of everything else](a-man-who-is-a-master-of-patience-is-master-of-everything-else.md)
 
 [^1]: 柔中帶剛 (Strength in softness)
 [^2]: 「[Be Water，My Friend !](https://www.goodreads.com/work/quotes/74693436-be-water-my-friend-the-true-teachings-of-bruce-lee)」，意思是武者不被形式所拘，要像水一樣流動，既柔軟又剛強堅韌；既能適應萬物，又能匯聚為強大的力量。當水被某種障礙物擋住時，它會平靜等待，卻又伺機而動；一旦移開障礙物，就會立刻奔流過去，毫不遲疑。 所以，李小龍說，面對競爭與阻礙，「水，永遠都是放鬆卻做好準備的。」

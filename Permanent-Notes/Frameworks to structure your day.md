@@ -1,7 +1,7 @@
 ---
 title: Frameworks to structure your day
 created: 2025-01-23T18:40:57
-modified: 2025-10-23T06:21:57
+modified: 2025-10-27T08:12:19
 ---
 
 > _[Live life by design, not default.](https://fs.blog/david-foster-wallace-this-is-water/) Make each day your masterpiece. How you spend your days is how you spend your life._
@@ -104,8 +104,7 @@ modified: 2025-10-23T06:21:57
 
 ---
 
-# See Also
 
-* [Always start and end the day right](Always%20start%20and%20end%20the%20day%20right.md)
+[Always start and end the day right](always-start-and-end-the-day-right.md)
 
 [^1]: _“Instead of feeling that you’ve blown the day and thinking, “I’ll get back on track tomorrow,” try thinking of each day as a set of four quarters: morning, midday, afternoon, evening. If you blow one quarter, you get back on track for the next quarter. Fail small, not big.” — Gretchen Rubin, Better Than Before_ [@rubinBetterMasteringHabits2015]

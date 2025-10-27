@@ -1,7 +1,7 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
 created: 2024-11-18T09:18:12
-modified: 2025-10-20T12:14:29
+modified: 2025-10-27T08:07:53
 ---
 
 > _“Glory is fleeting, but obscurity is forever.” — Napoleon Bonaparte_
@@ -79,14 +79,28 @@ The Two Side of Our Natures, which are at war with each other. We happen to live
 
 ---
 
-# See Also
+[Comparison is the thief of joy](comparison-is-the-thief-of-joy.md)
 
-* [Comparison is the thief of joy](comparison-is-the-thief-of-joy.md)
-* [You don’t need to be liked to be loved](you-dont-need-to-be-liked-to-be-loved.md)
-* [Escape competition through authenticity](escape-competition-through-authenticity.md)
-* [Change yourself to change the world](change-yourself-to-change-the-world.md)
-* [Mastering yourself is superpower](mastering-yourself-is-superpower.md)
-* [Why we exist?](why-we-exist.md)
+---
+
+[You don’t need to be liked to be loved](you-dont-need-to-be-liked-to-be-loved.md)
+
+---
+
+[Escape competition through authenticity](escape-competition-through-authenticity.md)
+
+---
+
+
+[Change yourself to change the world](change-yourself-to-change-the-world.md)
+
+---
+
+[Mastering yourself is superpower](mastering-yourself-is-superpower.md)
+
+---
+
+[Why we exist?](why-we-exist.md)
 
 [^1]: 皆為身外之物
 [^2]: Pride is the enemy of learning.

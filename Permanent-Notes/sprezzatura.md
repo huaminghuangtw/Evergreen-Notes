@@ -1,7 +1,7 @@
 ---
 title: Sprezzatura
 created: 2025-08-25T05:56:44
-modified: 2025-08-25T05:56:44
+modified: 2025-10-27T08:15:27
 ---
 
 * Earned Effortlessness
@@ -14,6 +14,4 @@ modified: 2025-08-25T05:56:44
 
 ---
 
-# See Also
-
-* [Flow State](flow-state.md)
+[Flow State](flow-state.md)
