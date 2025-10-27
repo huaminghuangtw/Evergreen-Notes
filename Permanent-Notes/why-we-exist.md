@@ -1,7 +1,7 @@
 ---
 title: Why we exist?
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T07:59:54
+modified: 2025-10-27T08:34:06
 ---
 
 > _“Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness.” — Leo Tolstoy_
@@ -164,7 +164,6 @@ The **S.H.A.P.E. Assessment** is a self-discovery tool used primarily in Christi
 
 ---
 
-
 Maslow’s [Hierarchy/Pyramid of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) / [Pyramid](https://xkcd.com/2988)
 
 ---
@@ -182,7 +181,6 @@ Maslow’s [Hierarchy/Pyramid of Needs](https://en.wikipedia.org/wiki/Maslow%27s
 ---
 
 [Everyone is on their own timeline](everyone-is-on-their-own-timeline.md)
-
 
 [^1]: What you are good at + What you love + What you can be paid for + What the world needs
 [^2]: _[“God, kids or mission, pick at least one. Preferably all three. It's very liberating.” — Naval Ravikant](https://www.youtube.com/watch?v=KyfUysrNaco&t=4473s)_
