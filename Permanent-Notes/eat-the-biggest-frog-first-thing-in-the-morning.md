@@ -1,7 +1,7 @@
 ---
 title: Eat the biggest frog first thing in the morning
 created: 2024-12-04T17:55:24
-modified: 2025-10-27T08:10:31
+modified: 2025-10-27T08:34:06
 ---
 
 > _“Do one thing every day that scares you.” — Eleanor Roosevelt_
@@ -94,11 +94,9 @@ You need to find XXX in your day, and ruthlessly foster/protect it from all the 
 
 [As those time-chunks get separated and fragmented, my productivity drops spectacularly.](https://www.nealstephenson.com/why-i-am-a-bad-correspondent.html)
 
-
 [Deep Work](deep-work.md)
 
 ---
-
 
 [Why is it so hard to just do the work?](why-is-it-so-hard-to-just-do-the-work.md)
 
