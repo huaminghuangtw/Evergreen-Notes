@@ -1,7 +1,7 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-10-27T08:18:43
+modified: 2025-10-27T08:34:06
 ---
 
 > _“Whether you think you can, or you think you can’t—you’re both right.” — Henry Ford_
@@ -92,7 +92,6 @@ Self-imposed limits, Self-limiting beliefs/stories, Self-sabotaging behaviors, e
 > Confused, she asked one of the keepers why the elephants didn’t break the ropes and wander off.
 >
 > “Well, when the elephants were very young, we used the same small rope, but at that age, it was strong enough to hold them. Now, even though they are much bigger, they still believe the rope can hold them, so they never try to break it.”
-
 
 [The Streetlight Effect](The%20Streetlight%20Effect.md)
 
@@ -199,7 +198,6 @@ Your present circumstances don’t determine where you can go; they merely deter
 [The worst prison in the world is having the talent and intelligence to achieve something great but lacking the courage to go out and do it.](https://x.com/SahilBloom/status/1838553217275154838)
 
 ---
-
 
 [Change yourself to change the world](change-yourself-to-change-the-world.md)
 
