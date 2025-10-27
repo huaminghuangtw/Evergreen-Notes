@@ -1,7 +1,7 @@
 ---
 title: The Winner-Take-All Effects
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:14:21
+modified: 2025-10-27T08:34:06
 ---
 
 > _“Any decision that involves using a limited / the same resource like ([energy](energy-management.md), [attention](attention.md), )[time](Time%20is%20the%20most%20valuable%20asset.md) or [money](money.md) will naturally result in a winner-take-all situation.” — James Clear_
@@ -27,6 +27,5 @@ You only win by 1 percent or 1 second or 1 dollar, but you capture 100 percent o
 	* Television shows compete for the same hour of your [attention](attention.md)
 
 ---
-
 
 [leverage](leverage.md)
