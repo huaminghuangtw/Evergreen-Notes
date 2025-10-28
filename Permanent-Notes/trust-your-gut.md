@@ -1,7 +1,7 @@
 ---
 title: Trust your gut
 created: 2025-01-01T16:32:50
-modified: 2025-10-26T09:48:01
+modified: 2025-10-28T07:41:13
 ---
 
 > _“Intuition is the whisper of the soul.” — Jidda Krishnamurti_
@@ -33,6 +33,10 @@ Never let your head outsmart your gut.
 ---
 
 Trust your ears 👂 more than your eyes 👀
+
+---
+
+For major (non-technical) decisions, trust your gut.
 
 ---
 
