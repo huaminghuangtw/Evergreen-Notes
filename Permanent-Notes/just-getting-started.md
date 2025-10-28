@@ -1,7 +1,7 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2025-10-20T05:47:15
+modified: 2025-10-28T06:49:01
 ---
 
 > _“Start before you’re ready. Don’t prepare. Begin. Don’t think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
@@ -122,7 +122,6 @@ Work has a sort of _[activation energy](why-is-it-so-hard-to-just-do-the-work.md
 	* As Newton recognized, it takes way more energy to get started than it does to keep going. When you’re doing nothing, it’s easy to carry on doing nothing. And when you’re working, it’s much easier to carry on working. When you feel like you’ve tried everything to properly motivate yourself but you’re still [procrastinating](procrastination.md), you need one final boost to get started.
 	* I like to think of the principle of inertia as a literal hump on a road. Imagine you’re about to cycle down a hill. You’ve got your helmet on, your gears are well oiled, and you’re itching to get started. There’s just one problem. You need to cycle uphill a little before you get to the long slope down. It’s going to take a burst of energy to get over the hump, and exerting that energy might not be the most pleasant thing in the world. But once you’ve overcome it, you’ll be cycling down-hill, the wind in your hair, feeling better than ever and gliding on home.
 
- <https://vocus.cc/article/65d9d23ffd89780001e3702b>
 
 [^1]: The hardest part about going to the gym is GOING to the gym.
 [^2]: from Horace, the Roman poet, in his work Epistles
