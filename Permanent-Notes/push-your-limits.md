@@ -1,8 +1,10 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-10-27T08:34:06
+modified: 2025-10-28T13:15:13
 ---
+
+> _“Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot_
 
 > _“Whether you think you can, or you think you can’t—you’re both right.” — Henry Ford_
 
