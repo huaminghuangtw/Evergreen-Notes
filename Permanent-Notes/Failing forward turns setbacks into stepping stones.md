@@ -1,7 +1,7 @@
 ---
 title: Failing forward turns setbacks into stepping stones
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-10-28T08:34:06
 ---
 
 > _“Opportunity often comes disguised in the form of misfortune or temporary defeat.” — Napoleon Hill_
@@ -36,7 +36,8 @@ modified: 2025-10-27T08:34:06
 # 失敗，是未來的墊腳石，但成功，也可能是未來的絆腳石。
 
 * Failure leads to learning, learning leads to success, success leads to complacency, complacency leads to failure.
-* → Never let success get to your head. Never let failure get to your heart.
+* Never let success get to your head. Never let failure get to your heart.
+* [不要太在意他人的批評，但也不要太眷戀別人的掌聲。因為批評會讓你想要逃跑，掌聲會讓你想要靠近，兩者都會讓你容易因他人而偏離了自我航道，忘了探索才是真正的工作目的。](https://www.books.com.tw/products/0010959928)
 
 ---
 
