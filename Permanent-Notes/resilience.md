@@ -1,7 +1,7 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2025-10-27T08:18:08
+modified: 2025-10-28T08:44:17
 ---
 
 > _[“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)_
@@ -77,6 +77,8 @@ The more easily you get offended, the less emotional intelligence you have. Inve
 > _“It is difficult to free fools from the chains they revere.” — Voltaire_
 
 > _“Talk sense to a fool and he calls you foolish.” — Euripides_
+
+> _“Never argue with a fool, because from a distance, people can’t tell who’s who.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
 * 不要和白痴吵架
 	* _[Dogs do not get tired of barking.](https://www.google.com/search?q=Dogs+do+not+get+tired+of+barking.)_
