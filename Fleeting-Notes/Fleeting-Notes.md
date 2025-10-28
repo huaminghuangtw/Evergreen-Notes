@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-27T16:07:02
+modified: 2025-10-28T06:46:49
 ---
 
 Spend 30 minutes daily…
@@ -97,22 +97,6 @@ Savor the little victories as much as you criticize the little mistakes. (Ali �
 ---
 
 [Revealing Questions](https://quarter--mile.com/Revealing-Questions)
-
----
-
-[A little bit of slope makes up for a lot of y-intercept.](https://sketchplanations.com/a-little-bit-of-slope-makes-up-for-a-lot-of-y-intercept)
-
----
-
-Running one mile has more in common with running a marathon than sitting at home.
-
-Investing $100 has more in common with being a millionaire than being broke.
-
-Writing one sentence has more in common with writing a book than never writing one.
-
-It always feels small in the beginning and the big goals seem far away. It’s easy to talk yourself out of the early attempts because they feel kind of meaningless.
-
-But every race starts with one step. Every fortune starts with a small deposit. Every book begins as one sentence.
 
 ---
 
