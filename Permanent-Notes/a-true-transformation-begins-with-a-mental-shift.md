@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2025-10-26T15:33:25
+modified: 2025-10-27T19:10:45
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
@@ -174,6 +174,8 @@ Be, Do, Have flips this traditional thinking on its head:
 * Then I will have X.
 
 In the context of our example: _I will embody the state of being of a fulfilled person, then I can do the actions of a fulfilled person, then I will have the things I desire._
+
+> _“Modern society is based on the mode of having (佔有), not on the mode of being (存在).” — Erich From, To Have or To Be?_
 
 ---
 
