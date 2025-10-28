@@ -1,7 +1,7 @@
 ---
 title: Do great work
 created: 2024-11-18T09:18:12
-modified: 2025-10-20T05:35:08
+modified: 2025-10-27T18:49:03
 ---
 
 > _“Good is the enemy of great.” — [@collinsGoodGreatWhy2001]_
@@ -71,6 +71,10 @@ The margin between **good** and **great** is narrower than it seems. What begins
 ---
 
 要讓一鍋湯夠辣，一支夠勁的辣椒就夠了，毋須全鍋都是辣。
+
+---
+
+[任何卓越的成果，都來自於不凡的思考、平凡的行動、不甘於平凡的選擇。](https://readingoutpost.com/autonomous-life/)
 
 ---
 
