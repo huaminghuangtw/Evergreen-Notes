@@ -1,8 +1,10 @@
 ---
 title: Walk
 created: 2024-11-18T09:16:50
-modified: 2025-10-27T08:34:06
+modified: 2025-10-28T13:24:11
 ---
+
+> _“A walk in nature walks the soul back home.” — Mary Davis_
 
 > _“Above all, do not lose your desire to walk. Everyday, I walk myself into a state of well-being & walk away from every illness. I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it.” — Søren Kierkegaard_
 
