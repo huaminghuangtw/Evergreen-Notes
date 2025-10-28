@@ -1,7 +1,7 @@
 ---
 title: Have the courage to do the right things
 created: 2024-12-08T00:37:07
-modified: 2025-10-27T16:14:15
+modified: 2025-10-28T15:48:00
 ---
 
 > _“The opposite of love is not hate, it’s indifference. The opposite of art is not ugliness, it’s indifference. The opposite of faith is not heresy, it’s indifference. And the opposite of life is not death, it’s indifference.” — Elie Wiesel_
@@ -20,9 +20,11 @@ Wrong is wrong even when everybody is doing it. Right is right even when nobody 
 
 ---
 
-# From [Empathy](Empathy.md) To Apathy [^1] [@hortensiusEmpathyApathyBystander2018]
+# From [Empathy](Empathy.md) To Apathy [^1] 
 
-## [Explanation](https://www.reddit.com/r/quotes/comments/9vhxto/the_opposite_of_love_is_not_hate_its_indifference/)**
+[@hortensiusEmpathyApathyBystander2018]
+
+## [Explanation](https://www.reddit.com/r/quotes/comments/9vhxto/the_opposite_of_love_is_not_hate_its_indifference/)
 
 > Darkness is the absence of light. Cold is the absence of heat. Going on with this will make one logically conclude that evil is the absence of good.
 >
