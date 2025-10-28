@@ -1,8 +1,10 @@
 ---
 title: Breathing Techniques
 created: 2025-10-08T05:07:10
-modified: 2025-10-20T07:53:30
+modified: 2025-10-28T17:03:58
 ---
+
+It’s this thing we do 20,000 times per day, but we never really stop to consider how we’re actually doing it—or whether we could be doing it better.
 
 * Breath Counting
 	* 默念：1, 2, 3, …
@@ -23,6 +25,8 @@ modified: 2025-10-20T07:53:30
 * Equal Breathing
 	* Take a slow inhale through the nose that lasts for the count of 3
 	* Exhale slowly through the nose for the whole count of 3
+* [Coherent Breathing](https://youtu.be/8343-jcXj5k)
+	* is a slow, rhythmic breathing technique where you inhale and exhale through your nose for an equal amount of time, [typically 5–6 seconds each, to create a balanced 5–6 breaths-per-minute pace](https://youtu.be/Vi0_7idqcFI).
 * Extended Exhaling
 * [Box Breathing](https://sketchplanations.com/box-breathing): inhale-hold-exhale-hold
 	* Count to 4 and slowly inhale.
@@ -53,15 +57,6 @@ modified: 2025-10-20T07:53:30
 
 ---
 
-我們的身體有兩套自主（或自律）神經系統：
-
-1. 負責「戰或逃（Fight or Flight）」的交感神經，使我們感到緊張、警覺。
-2. 負責「休息與消化（Rest and Digest）」的副交感神經，使我們感到安全、放鬆。
-
-當我們處於壓力狀態時，「交感神經」會被啟動，心跳加速、肌肉緊繃。而緩慢、深沉的呼吸，可以快速將自己引導回「副交感神經」模式中。
-
-以下是兩種我常用的呼吸法：
-
 # 4-7-8 呼吸法
 
 這個方法由 [Andrew Weil](https://www.drweil.com/videos-features/videos/breathing-exercises-4-7-8-breath/) 博士推廣，能幫助身體快速放鬆，甚至有助於睡眠：
@@ -82,6 +77,4 @@ modified: 2025-10-20T07:53:30
 
 [想像一個正方形，每個邊都是 4 秒](https://sketchplanations.com/box-breathing)，跟著節奏繞行，就能穩定心率，找回專注。
 
-#Newsletter 如果你想找個工具輔助，可以試試 [The Breathing App](https://www.thebreathing.app/)。它沒有任何多餘的設計，只專注於一件事：引導你呼吸。
 
-無論多忙，你都值得一個「重新整理」的機會。現在就放下手邊任務，閉上眼，專注呼吸一分鐘。這是隨時能送給自己的一份最好的禮物！
