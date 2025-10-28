@@ -1,7 +1,7 @@
 ---
 title: Why we exist?
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-10-28T08:32:13
 ---
 
 > _“Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness.” — Leo Tolstoy_
@@ -27,6 +27,8 @@ modified: 2025-10-27T08:34:06
 ---
 
 > _[“The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” ― David Viscott](https://www.goodreads.com/quotes/7407260-the-purpose-of-life-is-to-discover-your-gift-the)_
+
+> _“Purpose and desire can seem similar, but they are very different, sometimes even opposing forces. Desire is personal, narrow, and pointed, and tends toward self-preservation, self-gratification, and short-term gains and pleasures. Purpose is wider, broader, a longer-term vision encompassing the benefit of others—something outside of yourself you’re willing to fight for. There have been many times in my life where I was acting from a place of desire but I’d fully convinced myself that it was purpose. <mark>Desire is what you want; purpose is the flowering of what you are.</mark> Desire tends to weaken over time, whereas purpose strengthens the more you lean into it. Desire can be depleting because it’s insatiable; purpose is empowering—it’s a stronger engine. Purpose has a way of contextualizing life’s unavoidable sufferings and making them meaningful and worthwhile. As Viktor Frankl wrote, “In some ways suffering ceases to be suffering at the moment it finds a meaning, such as the meaning of a sacrifice.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
 The purpose of life is a life of purpose.
 
