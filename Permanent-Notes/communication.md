@@ -1,7 +1,7 @@
 ---
 title: Communication
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T11:19:08
+modified: 2025-10-28T15:58:45
 ---
 
 * Communication is not about saying what we think. Communication is about ensuring others hear what we mean.
@@ -24,6 +24,12 @@ State the facts and tell the truth. Speak with [integrity](integrity.md)—say e
 * People who use direct/precise/literal sentences ↔ People who use indirect/shadow/implied/figurative sentences
 	* [It’s better to be direct about almost everything than to play a game of subtle hints and plausibly deniable nudges.](https://x.com/anuatluru/status/1849840069064159325)
 * 潛台詞：指話語背後隱藏的真正含義
+
+---
+
+# [Point Positive](https://sketchplanations.com/point-positive)
+
+Don’t fix the blame, fix the problem.
 
 ---
 
