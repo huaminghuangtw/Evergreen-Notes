@@ -1,7 +1,7 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T11:20:02
+modified: 2025-10-28T08:28:13
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -19,6 +19,8 @@ modified: 2025-10-27T11:20:02
 [@leeBeWaterMy2020]
 
 > _“I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times” — Shannon Lee_ [^1] [^2]
+
+> _“Dreams are built on discipline; discipline is built on habits; habits are built on training. And training takes place in every single second and every situation of your life.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
 ---
 
@@ -176,6 +178,10 @@ There’s a magic in showing up on your bad days. The choice is yours. Choose wi
 ---
 
 [Two Types of Passion](two-types-of-passion.md)
+
+---
+
+[A little bit of slope makes up for a lot of y-intercept](a-little-bit-of-slope-makes-up-for-a-lot-of-y-intercept.md)
 
 [^1]: 我不怕練一萬種拳的人，但我怕一種拳練一萬次的人。
 [^2]: The only dangerous competitors are the hyper-focused ones.
