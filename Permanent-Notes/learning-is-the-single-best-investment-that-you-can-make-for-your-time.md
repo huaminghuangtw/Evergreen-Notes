@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-10-27T08:23:38
+modified: 2025-10-28T08:23:36
 ---
 
 Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
@@ -130,6 +130,20 @@ Always starting from the most basic and simplest level, then adding more complex
 3. Remove barriers to practice—remove the distractions that are keeping you from practicing.
 4. Practice for at least 20 hours—by pre-committing to practicing whatever it is that you want to do for at least 20 hours, you will be able to overcome initial frustration barrier and stick with the practice long enough to actually reap the rewards.
 5. The major barrier’s not intellectual, it’s emotional.
+
+---
+
+# Learning rate is key
+
+[How fast you learn (slope) is a lot more important than how much you know to begin with (starting). People emphasize too much how much they know and not how fast they’re learning.](a-little-bit-of-slope-makes-up-for-a-lot-of-y-intercept.md)
+
+---
+
+# Skill is the ability to do something. Talent is the rate at which you can acquire the ability to do something.
+
+> _“Talent is a pursued interest. Anything that you’re willing to practice, you can do.” — Bob Ross_
+
+> _“The separation of talent and skill is one of the greatest misunderstood concepts for people who are trying to excel, who have dreams, who want to do things. Talent you have naturally. Skill is only developed by hours and hours and hours of beating on your craft.” ― Will Smith_
 
 ---
 
