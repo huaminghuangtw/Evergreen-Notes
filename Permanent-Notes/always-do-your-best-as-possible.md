@@ -1,7 +1,7 @@
 ---
 title: Always do your best as possible
 created: 2024-11-18T09:18:12
-modified: 2025-10-22T18:12:21
+modified: 2025-10-28T15:53:31
 ---
 
 > _“Inspire yourself to be great. Being good isn’t good enough.” — Gurbaksh Chahal_
@@ -69,11 +69,27 @@ Quality over Quantity. Depth over Width.
 
 ---
 
-「**[MERAKI](https://www.google.com/search?q=MERAKI)**」是一個來自 **希臘文**（μεράκι, _meráki_）的詞，代表一種做事態度：
+# [MERAKI](https://www.google.com/search?q=MERAKI)
 
-> **全心投入、傾注靈魂與熱情去做一件事**。
+是一個來自希臘文（μεράκι, _meráki_）的詞，代表一種做事態度：
+
+> 全心投入、傾注靈魂與熱情去做一件事。
 
 具體來說，當一個人用「愛、創意與熱忱」完成某件事（無論是工作、料理、寫作或教學）時，就展現了 Meraki 的精神。
+
+---
+
+# [Lock in, no lock-in. Commit to the grind, not the contract.](journey-over-destination.md)
+
+「Great Lock In」是 Z 世代的流行語，意指進入高度專注狀態，全力朝特定目標邁進。這股潮流起源於 TikTok 與 Instagram，倡議在特定期間（例如，設定從 9 月 1 日到年底的四個月）集中改善生活中的某一個目標，並強調立即行動，而不是等到新年再許下希望。
+
+「大鎖定」強調明確時限與實踐導向 — 每個人都能自由設定目標，從健康、理財到閱讀都算數。「四個月足以改變生活，」TikTok 網友 Tatiana O’Hara 說。這股風潮的核心精神是：不要等明天，現在就開始。
+
+be locked in (on something)：表示一個人集中精神、全神貫注在某件事情上。
+
+1. She was totally locked in during the performance. 她在表演時完全進入狀況。
+2. The team is locked in right now — they’re not missing a single shot! 這支隊伍現在狀態超好，幾乎每球都進！
+3. He’s locked in on his studies these days. 他最近很專注在讀書上。
 
 ---
 
