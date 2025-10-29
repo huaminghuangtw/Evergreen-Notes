@@ -1,7 +1,7 @@
 ---
 title: Choose your response
 created: 2025-01-23T10:40:57
-modified: 2025-10-28T08:39:35
+modified: 2025-10-29T16:26:57
 ---
 
 > _“How we decide to respond to our fears, that is the person we become.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
@@ -27,6 +27,10 @@ modified: 2025-10-28T08:39:35
 ---
 
 It’s not what happens to us that shapes our lives, but how we _choose to_ respond.
+
+---
+
+You can’t control what others choose to do, but you can always control how you choose to respond.
 
 ---
 
