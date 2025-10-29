@@ -1,11 +1,10 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-10-29T08:01:25
 ---
 
 > _“Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes_
-comp
 
 > _We are what we believe we are.” — C.S. Lewis_
 
@@ -42,6 +41,10 @@ Never say, I’ll never…
 永遠不要看輕自己。
 
 ---
+
+> _“Whether you think you can, or you think you can’t—you’re both right.” — Henry Ford_
+
+> _“Just when you think it can’t get any worse, it can. And just when you think it can’t get any better, it can.” — Nicholas Spark_
 
 If you say you can. Yes, you can! If you say you can’t. Yes, you’re right!
 
