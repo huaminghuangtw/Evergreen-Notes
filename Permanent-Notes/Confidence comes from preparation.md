@@ -1,7 +1,7 @@
 ---
 title: Confidence comes from preparation
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T19:17:11
+modified: 2025-10-28T17:41:24
 ---
 
 > _“Confidence comes from [preparation](planning-and-preparation-help-maximize-your-productivity.md). When the game is on the line, I’m not asking myself to do something I haven’t done a thousand times before…In those moments, if I look like ice-cold or not nervous, it’s because I’ve done it a thousand times before. So it’s (just) one more time.” — Kobe Bryant_
