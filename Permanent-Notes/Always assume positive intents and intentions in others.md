@@ -1,7 +1,7 @@
 ---
 title: Always assume positive intents and intentions in others
 created: 2024-12-08T00:59:27
-modified: 2025-10-27T08:05:46
+modified: 2025-10-28T19:29:21
 ---
 
 > _“Those who look for the bad in people will surely find it.” — Abraham Lincoln*
@@ -29,6 +29,10 @@ Imagine you’re walking along a road and see a dog growling and barking furious
 ---
 
 Try to interpret whatever people do in the most generous way. See if you feel better as a result.
+
+---
+
+[A lack of eye contact doesn’t mean someone is being rude — conditions such as autism, ADHD, PTSD, or social anxiety can make maintaining eye contact difficult during conversations.](https://www.reddit.com/r/YouShouldKnow/comments/hebc6e/ysk_that_lack_of_eye_contact_does_not_mean_that_a/)
 
 ---
 
