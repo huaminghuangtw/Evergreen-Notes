@@ -1,7 +1,7 @@
 ---
 title: How to live a life
 created: 2024-11-18T09:18:12
-modified: 2025-10-20T05:35:08
+modified: 2025-10-28T18:09:57
 ---
 
 > _“As long as you live, keep learning how to live.” — Seneca_
@@ -29,6 +29,8 @@ modified: 2025-10-20T05:35:08
 > _“Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.” — Norman Vincent Peale_
 
 > _[“Good friends, good books, and a sleepy conscience: this is the ideal life.” — Mark Twain](https://www.goodreads.com/quotes/360-good-friends-good-books-and-a-sleepy-conscience-this-is)_
+
+> _“Life is like school, with one key difference—in school you get the lesson, and then you take the test. But in life, you get the test, and it’s your job to take the lesson.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
 ---
 
