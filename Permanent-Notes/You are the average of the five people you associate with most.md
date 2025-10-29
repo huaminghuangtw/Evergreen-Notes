@@ -1,7 +1,7 @@
 ---
 title: You are the average of the five people you associate with most
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:00:02
+modified: 2025-10-28T20:19:09
 ---
 
 > _“You are the average of the five people you spend the most time with.” ― Jim Rohn_
@@ -15,6 +15,10 @@ modified: 2025-10-27T08:00:02
 > _[“Everyone you meet is a part of your journey, but not all of them are meant to stay in your life. Some people are just passing through to bring you gifts; either they're blessings or lessons.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7929987-everyone-you-meet-is-a-part-of-your-journey-but)_ [^1]
 
 > _[“Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.” — Steve Maraboli](https://www.goodreads.com/quotes/525097-letting-go-means-to-come-to-the-realization-that-some)_ [^2]
+
+---
+
+aka The Five Chimps [^3] Theory
 
 ---
 
@@ -85,7 +89,7 @@ Find your “Front Row People.”
 
 You have to be very selective with whom you give your _time_, _energy_, and _attention_. Don’t fall for the “[Yes Man](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md)” trap. The more successful you become, the more people will want to massage your ego. Cherish the _truth tellers_ in your life.
 
-* Most of us need fewer [friends](a-friend-to-all-is-a-friend-to-none.md) and more **_intellectual sparring partners_**. Friends are easy to come by. Intellectual sparring partners are harder to find. They will call you on your BS, question your assumptions, and push you to think deeply. [^3]
+* Most of us need fewer [friends](a-friend-to-all-is-a-friend-to-none.md) and more **_intellectual sparring partners_**. Friends are easy to come by. Intellectual sparring partners are harder to find. They will call you on your BS, question your assumptions, and push you to think deeply. [^4]
 
 ---
 
@@ -99,4 +103,5 @@ You have to be very selective with whom you give your _time_, _energy_, and _att
 
 [^1]: People come into your life for a reason, a season, or a lifetime.
 [^2]: Some people come into our life to learn and others come to teach.
-[^3]: <https://x.com/SahilBloom/status/1606645650783113221>
+[^3]: = Chimpanzees
+[^4]: <https://x.com/SahilBloom/status/1606645650783113221>
