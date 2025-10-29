@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2025-10-21T18:20:50
+modified: 2025-10-29T05:19:49
 ---
 
 > _“To be is to do.” — Immanuel Kant_
@@ -85,7 +85,7 @@ Pragmatism 實用主義
 
 ---
 
-When people talk about traveling to the past, they worry about radically changing the present by [doing something small](Always%20start%20small.md), but barely anyone in the present really thinks that they can radically change the future by doing something small.
+When people talk about traveling to the past, they worry about radically changing the present by [doing something small](always-start-small.md), but barely anyone in the present really thinks that they can radically change the future by doing something small.
 
 ---
 
