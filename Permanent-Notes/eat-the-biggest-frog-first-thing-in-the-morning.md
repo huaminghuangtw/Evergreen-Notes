@@ -1,7 +1,7 @@
 ---
 title: Eat the biggest frog first thing in the morning
 created: 2024-12-04T17:55:24
-modified: 2025-10-27T08:34:06
+modified: 2025-10-29T05:23:26
 ---
 
 > _“Do one thing every day that scares you.” — Eleanor Roosevelt_
@@ -23,7 +23,7 @@ First things first. Do the most important thing [^2] first, not the most urgent 
 [早上是一天當中最有精力、思路最清晰、心智能量最彙集/最強大的時刻](work-in-sprints-work-with-your-biology.md)，要用來做:
 
 * Things that genuinely matter to you.
-* Things that require lots of [brain power](Do%20not%20use%20your%20willpower%20unless%20you%20absolutely%20have%20to.md) (e.g., writing, coding).
+* Things that require lots of [brain power](do-not-use-your-willpower-unless-you-absolutely-have-to.md) (e.g., writing, coding).
 * Things that you are easily tempted to do something else.
 * Things that you are not enjoying that much.
 * Things that you feel most uncomfortable with and scare you most, usually due to some chances of rejection or conflict.
