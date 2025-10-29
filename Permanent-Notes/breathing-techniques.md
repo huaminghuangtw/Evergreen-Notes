@@ -1,7 +1,7 @@
 ---
 title: Breathing Techniques
 created: 2025-10-08T05:07:10
-modified: 2025-10-28T17:03:58
+modified: 2025-10-28T17:41:24
 ---
 
 It’s this thing we do 20,000 times per day, but we never really stop to consider how we’re actually doing it—or whether we could be doing it better.
@@ -76,5 +76,3 @@ It’s this thing we do 20,000 times per day, but we never really stop to consid
 4. **憋氣（4 秒）:** 再次屏住呼吸，默數 4 秒。
 
 [想像一個正方形，每個邊都是 4 秒](https://sketchplanations.com/box-breathing)，跟著節奏繞行，就能穩定心率，找回專注。
-
-
