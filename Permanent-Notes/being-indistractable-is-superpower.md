@@ -1,7 +1,7 @@
 ---
 title: Being indistractable is superpower
 created: 2025-01-23T18:40:57
-modified: 2025-10-27T09:42:26
+modified: 2025-10-29T05:23:26
 ---
 
 Being indistractable is about doing what you say you’re going to do.
@@ -24,7 +24,7 @@ The opposite of distraction is not _[focus (專注力/聚焦力)](focus-is-about
 
 ---
 
-The key difference between being distractible and indistractable lies not in [willpower](Do%20not%20use%20your%20willpower%20unless%20you%20absolutely%20have%20to.md), but in [preparation](planning-and-preparation-help-maximize-your-productivity.md).
+The key difference between being distractible and indistractable lies not in [willpower](do-not-use-your-willpower-unless-you-absolutely-have-to.md), but in [preparation](planning-and-preparation-help-maximize-your-productivity.md).
 
 ---
 
