@@ -1,7 +1,7 @@
 ---
 title: A friend to all is a friend to none
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:04:54
+modified: 2025-10-28T18:12:34
 ---
 
 > _“A true friend never gets in your way unless you happen to be going down.” — Arnold H. Glasow_
@@ -21,6 +21,10 @@ modified: 2025-10-27T08:04:54
 ---
 
 [Telling old stories to new friends. Telling new stories to old friends.](https://x.com/anuatluru/status/1788974353108848675)
+
+---
+
+It’s nearly impossible for the quality of your life to be higher than the quality of your friends.
 
 ---
 
