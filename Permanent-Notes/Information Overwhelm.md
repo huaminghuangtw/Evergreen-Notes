@@ -1,7 +1,7 @@
 ---
 title: Information Overwhelm
 created: 2024-11-18T09:18:12
-modified: 2025-10-20T17:21:12
+modified: 2025-10-29T16:11:50
 ---
 
 > _“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” ― T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654)_
@@ -38,6 +38,9 @@ modified: 2025-10-20T17:21:12
 	* 不要害怕錯過資訊，因為如果是真的很重要的資訊，它會再次出現在我們眼前
 		* 就跟手機來電一樣，如果真的很重要，對方會再打一次，如果沒有再次來電，代表是不重要的事情
 	* Practice strategic ignorance—sometimes, choosing what to pay attention to and letting go of the rest is true bliss.
+
+		> Ignorance is bliss. (無知便是福。)
+
 	* [News Sobriety](News%20Sobriety.md)
 * The Laundry Cycle Mentality
 	* Think about the areas of your life where you are placing unnecessary pressure on yourself to have everything in a “completed” state, e.g., to-read pile (Read-It-Later → Never-Read-It).
