@@ -1,8 +1,10 @@
 ---
 title: Fear
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-10-28T18:14:35
 ---
+
+> _“Danger is real, fear is a choice” ― Will Smith_
 
 > _“Fear is a natural reaction to moving closer to the truth” — Pema Chodron_
 
