@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-28T06:46:49
+modified: 2025-10-29T05:31:55
 ---
 
 Spend 30 minutes daily…
@@ -72,10 +72,6 @@ The Art of Negotiation: Letting the Other Side Go First
 
 The Fosbury Flop
 
-But time just gets more and more expensive. We start out as time fat cats and end up in time poverty. The older you get, the more it makes sense to spend money to save time.
-
-People tend to get wealthier as they get older, which is like everything becoming cheaper as you age.
-
 「意義治療法（Logotherapy）」
 
 以及「顯著性偏誤，正常化偏誤」
@@ -83,8 +79,6 @@ People tend to get wealthier as they get older, which is like everything becomin
 The Museum of Failure
 
 All progress, not only technological progress, is built on learning from past failures and mistakes. The museum aims to stimulate productive discussion about failure and inspire us to take meaningful risks.
-
-In my experience, most people underestimate their full capability and overestimate their current delivery.
 
 ---
 
