@@ -1,7 +1,7 @@
 ---
 title: Energy Management
 created: 2024-11-18T09:18:12
-modified: 2025-10-14T04:56:42
+modified: 2025-10-29T05:23:26
 ---
 
 > _[“Your energy is currency. Spend it well. Invest it wisely. Use it Intentionally, consistently, and by your own design.” — Adrienne Bosh](https://x.com/MrsAdrienneBosh/status/988908563232796672)_
@@ -32,7 +32,7 @@ There’s no such thing as working too hard. There’s just being under rested. 
 
 * After a particularly grueling day, I’d sit on the couch and veg for hours, doing my version of “[Netflix and chill](https://en.wikipedia.org/wiki/Netflix_and_chill),” which meant keeping company with a pint of ice cream. Even though I knew that eating ice cream and sitting for a long time were probably bad ideas, I told myself that relaxation was my well-deserved reward for working so hard.
 * Psychological researchers have a name for this phenomenon: it’s called “[Ego Depletion](https://www.nirandfar.com/ego-depletion/).” The theory is that ~~willpower is connected to a limited reserve of mental energy, and once you run out of that energy, you’re more likely to lose self-control.~~
-* _However, recent studies suggest we’ve misunderstood [willpower](Do%20not%20use%20your%20willpower%20unless%20you%20absolutely%20have%20to.md), debunking the theory of [ego depletion](https://en.wikipedia.org/wiki/Ego_depletion)._
+* _However, recent studies suggest we’ve misunderstood [willpower](do-not-use-your-willpower-unless-you-absolutely-have-to.md), debunking the theory of [ego depletion](https://en.wikipedia.org/wiki/Ego_depletion)._
 	* [@jobEgoDepletionIt2010]
 		* People who viewed the capacity for self-control as not limited did not show diminished self-control after a depleting experience.
 		* …reduced self-control after a depleting task or during demanding periods may reflect people’s beliefs about the availability of willpower rather than true resource depletion.
