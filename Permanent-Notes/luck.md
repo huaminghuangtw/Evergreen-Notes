@@ -1,7 +1,7 @@
 ---
 title: Luck
 created: 2024-11-18T09:18:12
-modified: 2025-09-30T17:14:09
+modified: 2025-10-28T20:13:29
 ---
 
 > _“Diligence is the mother of good luck.” — Benjamin Franklin_
@@ -41,6 +41,10 @@ Luck = randomness × readiness
 
 1. Expose yourself to more randomness.
 2. Be prepared to act on those opportunities when they present themselves.
+
+---
+
+[_How to engineer luck_ by George Mack](https://huami.ng/how-to-engineer-luck)
 
 [^1]: You want to position yourself near/close to opportunities.
 [^2]: “It’s better to be approximately/vaguely right than exactly wrong.”
