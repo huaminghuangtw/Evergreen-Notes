@@ -1,7 +1,7 @@
 ---
 title: Deliberate Practice
 created: 2025-01-23T10:40:57
-modified: 2025-10-20T05:41:42
+modified: 2025-10-29T05:32:23
 ---
 
 > _“Practice does not make perfect. Perfect practice makes perfect.” — Vince Lombardi_ [^1]
@@ -47,7 +47,9 @@ Similar to the concept of Progressive Overload in Strength Training — “Reps,
 
 ---
 
-**[“The Capability Gap” by Nick Saban](https://x.com/SahilBloom/status/1730586779730772302)**
+# [“The Capability Gap” by Nick Saban](https://x.com/SahilBloom/status/1730586779730772302)
+
+> In my experience, most people **underestimate** their full capability and **overestimate** their current delivery.
 
 * What you’re capable of, relative to what you are doing
 * Better terms for “potential”
