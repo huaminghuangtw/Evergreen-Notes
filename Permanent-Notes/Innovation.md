@@ -1,7 +1,7 @@
 ---
 title: Innovation
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:46
+modified: 2025-10-29T05:25:31
 ---
 
 > _“Good ideas are always crazy until they’re not.” — Larry Page_
@@ -24,7 +24,7 @@ True innovation is generally met with misunderstanding and ridicule.
 
 ---
 
-Innovation needs [failures](Failing%20forward%20turns%20setbacks%20into%20stepping%20stones.md).
+Innovation needs [failures](failing-forward-turns-setbacks-into-stepping-stones.md).
 
 ---
 
