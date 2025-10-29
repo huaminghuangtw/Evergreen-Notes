@@ -1,7 +1,7 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2025-10-20T14:13:26
+modified: 2025-10-29T05:27:08
 ---
 
 > _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
@@ -82,8 +82,8 @@ Reasonable \> Rational
 
 * The only way to make a lot of money is to create a lot of value. [^6]
 * MONEY and TIME is a balancing act. Stop trading/renting time for money, so money can create more time for you.
-	* Millionaires don’t have salaries. They own [assets](Assets%20versus%20Liabilities.md).
-		* [WEALTH = Net Income + Asset Value](Wealth%20Creation.md)
+	* Millionaires don’t have salaries. They own [assets](assets-versus-liabilities.md).
+		* [WEALTH = Net Income + Asset Value](wealth-creation.md)
 	* 真正的財務自由，是不再被困在「時間換取金錢」的枷鎖裡。
 * The best thing you can do to stay poor is to start tomorrow.
 	* **The Action Mindset**: The longer you’re not taking action, the more money you’re losing.
@@ -114,13 +114,13 @@ Reasonable \> Rational
 	> _[“What's the point of having f\*ck you money if you never say f\*ck you?”](https://www.youtube.com/shorts/upfyoQdc_r4)_
 
 	* 金錢最大的價值是買回/留下「自由」，也就是「選擇權」。
-	* [Wealth](Wealth%20Creation.md) is hidden. Wealth is the money you don’t spend. Wealth is the nice car you don’t buy. Wealth is the big house you don’t purchase. Wealth is the financial assets that haven’t yet been converted into the stuff you see. Wealth is an option not yet taken to buy something later.
+	* [Wealth](wealth-creation.md) is hidden. Wealth is the money you don’t spend. Wealth is the nice car you don’t buy. Wealth is the big house you don’t purchase. Wealth is the financial assets that haven’t yet been converted into the stuff you see. Wealth is an option not yet taken to buy something later.
 
 # On Spending Money
 
 > _“Spend your money on the things money can buy. Spend your time on the things money can’t buy.” — Haruki Murakami_
 
-> _“Too many people spend money they haven’t earned, to buy things they don’t want (need), to impress people that they don’t like.” — Will Rogers_
+> _“Too many people spend money they haven’t earned (can’t afford), to buy things they don’t want (need), to impress people that they don’t like (care).” — Will Rogers_
 
 > _“If you buy things you do not need, soon you will have to sell things you need.” — Warren Buffett_
 
