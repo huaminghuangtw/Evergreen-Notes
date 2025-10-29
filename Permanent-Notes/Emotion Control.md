@@ -1,7 +1,7 @@
 ---
 title: Emotion Control
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-10-29T05:25:31
 ---
 
 > _“Emotional sickness is avoiding reality at any cost. Emotional health is facing reality at any cost.” — [M. Scott Peck](https://quotefancy.com/m-scott-peck-quotes)_
@@ -26,7 +26,7 @@ Standing up for yourself without getting emotionally worked up (uptight).
 
 ---
 
-Give yourself a fixed amount of time (~24 hours) to feel frustrated or [angry](anger.md) about the [failure](Failing%20forward%20turns%20setbacks%20into%20stepping%20stones.md). During this time, you don’t need to do anything but [sit with the feelings and emotions](Acceptance%20and%20Commitment%20Therapy.md). Allow yourself the grace of that period, but when the time is up, you move forward to study and start to _learn_ from the failure. Don’t inflate the size of the failure in your mind—_most failures are micro details, not macro issues._
+Give yourself a fixed amount of time (~24 hours) to feel frustrated or [angry](anger.md) about the [failure](failing-forward-turns-setbacks-into-stepping-stones.md). During this time, you don’t need to do anything but [sit with the feelings and emotions](Acceptance%20and%20Commitment%20Therapy.md). Allow yourself the grace of that period, but when the time is up, you move forward to study and start to _learn_ from the failure. Don’t inflate the size of the failure in your mind—_most failures are micro details, not macro issues._
 
 ---
 
