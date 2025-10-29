@@ -1,7 +1,7 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-10-28T19:47:49
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -131,8 +131,6 @@ Razors
 	* If someone downplays their success or happiness, assume it’s double what they claim.
 		* If a person tells you why their thing (city, relationship, or job) is terrible, take it like a handful of gold.
 	* Beware of Trojan Horses (特洛伊木馬)
-* The [Luck](luck.md) Razor
-	* When choosing two paths, choose the path that has a larger luck surface area.
 * Taleb’s Surgeon
 	* If presented with two equal candidates for a role, pick the one that doesn’t “look the part” / with the least amount of charisma.
 	* The uncharismatic one has got there despite their lack of charisma. The charismatic one has got there with the aid of their charisma.
