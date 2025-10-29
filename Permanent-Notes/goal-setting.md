@@ -1,7 +1,7 @@
 ---
 title: Goal Setting
 created: 2025-01-23T10:40:57
-modified: 2025-10-27T08:12:14
+modified: 2025-10-29T05:22:04
 ---
 
 > _“A goal is not always meant to be reached, it often serves simply as something to aim at.” — Bruce Lee_
@@ -40,7 +40,7 @@ modified: 2025-10-27T08:12:14
 	* Middle ground, base case.
 	* E.g., Hit your realistic, base case marathon time goal.
 * C Goal
-	* Minimum viable level, anything above zero compounds.
+	* Minimum viable level, anything above zero compounds positively.
 	* E.g., Finish the race.
 
 ---
