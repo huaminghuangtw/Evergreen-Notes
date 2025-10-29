@@ -1,7 +1,7 @@
 ---
 title: Do great work
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T18:49:03
+modified: 2025-10-28T17:59:43
 ---
 
 > _“Good is the enemy of great.” — [@collinsGoodGreatWhy2001]_
@@ -15,6 +15,8 @@ modified: 2025-10-27T18:49:03
 > _“To seek greatness is the only righteous vengeance.” — Criss Jami_
 
 > _“If one is a master of one thing and understands one thing well, one has at the same time, insight into and understanding of many things.” — Vincent Van Gogh_
+
+> _“Being realistic is the most common path to mediocrity.” ― Will Smith_
 
 ---
 
