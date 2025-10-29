@@ -1,7 +1,7 @@
 ---
 title: Procrastination
 created: 2024-11-18T09:18:12
-modified: 2025-10-26T06:53:24
+modified: 2025-10-29T05:19:49
 ---
 
 > _“To begin, begin.” — William Wordsworth_
@@ -123,5 +123,5 @@ You don’t find motivation to start; you need to start to find motivation. Moti
 
 [^1]: _“Excitement is the more practical synonym for happiness, and it is precisely what you should strive to chase. It is the cure-all.” \& “The question you should be asking isn’t, “What do I want?” or “What are my goals?” but “What would excite me?” \& “The opposite of love is indifference, and the opposite of happiness is boredom.” ― Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
 [^2]: When scared by the size of a task you’re going to do, always focus on making the **entry barrier (i.e., the very first step)** smaller.
-[^3]: Define the **Minimal Enjoyable Action (MEA).** Harness the power of **[Small Wins](Always%20start%20small.md)**.
+[^3]: Define the **Minimal Enjoyable Action (MEA).** Harness the power of **[Small Wins](always-start-small.md)**.
 [^4]: All human behaviors make sense with _enough_ information.
