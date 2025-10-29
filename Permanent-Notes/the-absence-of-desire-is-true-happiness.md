@@ -1,8 +1,10 @@
 ---
 title: The absence of desire is true happiness
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-10-28T19:33:47
 ---
+
+> _「有求皆苦，無求即樂」— 達摩祖師《二入四行觀》_
 
 > _“Having the fewest wants, I am nearest to the gods.” ― Socrates_
 
