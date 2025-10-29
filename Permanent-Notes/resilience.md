@@ -1,7 +1,7 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2025-10-28T08:44:17
+modified: 2025-10-29T05:25:32
 ---
 
 > _[“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)_
@@ -22,7 +22,7 @@ modified: 2025-10-28T08:44:17
 
 > _“There is a saying in Tibetan, ‘Tragedy should be utilized as a source of strength.’ No matter what sort of difficulties, how painful experience is, if we lose our hope, that’s our real disaster.” ― Dalai Lama XIV_
 
-> _“Our greatest glory is not in never failing, but in rising up every time we [fail](Failing%20forward%20turns%20setbacks%20into%20stepping%20stones.md).” — Ralph Waldo Emerson_
+> _“Our greatest glory is not in never failing, but in rising up every time we [fail](failing-forward-turns-setbacks-into-stepping-stones.md).” — Ralph Waldo Emerson_
 
 > _[“It's not about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward.” — Rocky balboa Sylvester Stallone](https://youtu.be/tZUC-uAGLEA)_
 
