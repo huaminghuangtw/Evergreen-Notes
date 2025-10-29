@@ -1,7 +1,7 @@
 ---
 title: Time is the most valuable asset
 created: 2024-11-18T09:18:12
-modified: 2025-10-14T05:53:28
+modified: 2025-10-29T05:29:21
 ---
 
 > _“The price of anything is the amount of life you exchange for it.” — Henry David Thoreau_
@@ -38,11 +38,7 @@ Are you willing to trade your life with Warren Buffett?
 
 ---
 
-Skills get you to a million, character takes you to 100 million, and time brings you to a billion.
-
----
-
-The rich invest in time. The poor invest in money.
+# The rich invest in time. The poor invest in money.
 
 * 多數人都是擔心會把錢用完，而不是害怕浪費生命。
 * We often treat our time generously and our [money](money.md) sparingly, but it should be the other way around. It’s easy to notice when you’ve spent money, but the loss of time often goes unnoticed until it’s too late. Make sure you’re making intentional trades — _you can always make more money, but you can never make more time._ Being cheap with your time and generous with your money allows you to focus on what truly matters and achieve greater freedom in the long run.
@@ -54,6 +50,12 @@ You can choose to either _invest_, _spend_, or _waste_ your time.
 ---
 
 Time flies, but only flies back to us as a memory.
+
+---
+
+People tend to get [wealthier](wealth-creation.md) as they get older, which is like everything becoming cheaper as you age.
+
+But time just gets more and more expensive. We start out as time fat cats and end up in time poverty. The older you get, the more it makes sense to spend [money](money.md) to save time.
 
 ---
 
