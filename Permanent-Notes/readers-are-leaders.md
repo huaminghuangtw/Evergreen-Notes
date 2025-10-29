@@ -1,7 +1,7 @@
 ---
 title: Leaders are readers
 created: 2024-11-18T09:18:12
-modified: 2025-10-22T22:55:44
+modified: 2025-10-28T18:03:14
 ---
 
 > _“Man is what he reads.” — Joseph Brodsky_
@@ -25,6 +25,9 @@ modified: 2025-10-22T22:55:44
 * Reading without [taking notes](note-taking.md) is [useless](https://x.com/neuranne/status/1261991953593401346).
 * 「雜食」：It’s important to read unconventional books as well, not just New York Times Best Sellers.
 * Keep in mind that whenever you pick up a good book to read, you are taking an extensive journey into the mind of the author — You have immediate access to the greatest minds of the past and present, and can absorb decades of their toiling research and experience in just a matter of hours/days/weeks!
+
+	> _“There are so many people who have lived﻿ and died before you. You will never have a new problem; you’re not going to ever have a new problem. Somebody wrote the answer down in a book somewhere.” ― Will Smith_
+
 	* The amount of value you can get from a book is astronomical. You’ve got years, if not decades, of someone’s research compiled down into something that will only take you a few hours to read.
 * [The purpose of reading a book isn’t to retain information, it’s to refine your worldview just a little bit with each one.](https://x.com/anuatluru/status/1742196321178513782)
 * Book readers tend to live longer than non-book readers. [@bavishiChapterDayAssociation2016] suggests that reading books may not only enrich the mind but also extend life—giving readers more time to enjoy them.
