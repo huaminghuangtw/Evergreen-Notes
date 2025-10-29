@@ -1,7 +1,7 @@
 ---
 title: Neuroscience
 created: 2024-11-18T09:18:12
-modified: 2025-10-28T15:49:08
+modified: 2025-10-28T17:41:24
 ---
 
 The brain is a monkey brain with a supercomputer on top.
@@ -60,7 +60,7 @@ The brain is a monkey brain with a supercomputer on top.
 人類的腦部其實是三位一體的腦，由三個重要的腦組合連結在一起，共同合作而形成。
 
 * 首先是腦幹，位於大腦中最深處的部分，主要負責人的維生功能，如呼吸、心跳、戰逃反應、生存本能，這部分的腦是最古老的腦，在演化上，從古至今沒有太大的改變。因此有時也被形容為爬蟲類腦 (reptilian brain)。
-* 第二部分的腦稱為緣腦 (Limbic Brain)，包括[杏仁核](amygdala.md)、海馬迴、下視丘等，為處理情緒、記憶的中樞，因此也被稱為情緒腦或哺乳動物的腦。由於位在腦幹邊緣，有時也被稱為邊緣系統 (limbic system)
+* 第二部分的腦稱為緣腦 (Limbic Brain)，包括 [杏仁核](amygdala.md)、海馬迴、下視丘等，為處理情緒、記憶的中樞，因此也被稱為情緒腦或哺乳動物的腦。由於位在腦幹邊緣，有時也被稱為邊緣系統 (limbic system)
 * 第三個部分的腦稱為皮質 (Cortex)，皮質是人類最後演化出來的部分，它像樹皮一樣層層疊疊包覆在大腦外面。皮質層負責高等的腦部功能，例如、計畫、思考、語言功能都在這裡發生。
 
 ---
