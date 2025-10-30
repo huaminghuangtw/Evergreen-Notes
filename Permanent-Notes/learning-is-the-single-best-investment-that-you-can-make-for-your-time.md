@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-10-28T08:23:36
+modified: 2025-10-30T06:51:21
 ---
 
 Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
@@ -243,7 +243,7 @@ Always starting from the most basic and simplest level, then adding more complex
 
 ---
 
-[Language Learning](Language%20Learning.md)
+[Language Learning](language-learning.md)
 
 ---
 
