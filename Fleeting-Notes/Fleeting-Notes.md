@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-29T05:31:55
+modified: 2025-10-30T06:58:50
 ---
 
 Spend 30 minutes daily…
@@ -14,10 +14,6 @@ The Nova Effect is a term coined by psychologists Richard Wiseman and Daniel Gil
 
 ---
 
-[Social contagion of challenge-seeking behavior - PubMed](<https://pubmed.ncbi.nlm.nih.gov/39250231/>)
-
----
-
 Dr. Rhonda Patrick’s (@foundmyfitness) smoothie recipe for peak focus and performance:
 
 * Kale - Magnesium, vitamin K, folate, lutein, zeaxanthin, fiber
@@ -27,13 +23,13 @@ Dr. Rhonda Patrick’s (@foundmyfitness) smoothie recipe for peak focus and perf
 * Collagen Powder - Improves skin elasticity
 * Moringa Powder - Zinc, iron, magnesium, moringagen
 
-The Trichotomy of Control adds some important nuance to this idea that we should only concern ourselves with things that are within our control.
-
-The best solution is to use both together: Identify the few critical tasks that contribute most to income and schedule them with very short and clear deadlines.
+---
 
 Here are two truisms to keep in mind:
 
 “I do what I always do: find a personal e-mail if possible, often through their little-known personal blogs, send a two to three-paragraph e-mail which explains that I am familiar with their work, and ask one simple-to-answer but thought-provoking question in that e-mail related to their work or life philosophies. The goal is to start a dialogue so they take the time to answer future e-mails—not to ask for help. That can only come after at least three or four genuine e-mail exchanges.”
+
+---
 
 Taurine helps regulate body temperature by increasing the rate at which sweat is produced, which is how the body cools itself.
 
@@ -75,11 +71,6 @@ The Fosbury Flop
 「意義治療法（Logotherapy）」
 
 以及「顯著性偏誤，正常化偏誤」
-
-The Museum of Failure
-
-All progress, not only technological progress, is built on learning from past failures and mistakes. The museum aims to stimulate productive discussion about failure and inspire us to take meaningful risks.
-
 ---
 
 Savor the little victories as much as you criticize the little mistakes. (Ali 書 p.177)
