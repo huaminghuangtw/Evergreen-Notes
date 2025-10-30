@@ -1,11 +1,10 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-10-29T08:01:43
+modified: 2025-10-29T18:13:08
 ---
 
 > _“Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot_
-
 
 > _“Argue for your limitations and, sure enough, they’re yours.” — Richard Bach_
 
