@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-30T06:58:50
+modified: 2025-10-31T06:09:13
 ---
 
 Spend 30 minutes daily…
@@ -23,11 +23,6 @@ Dr. Rhonda Patrick’s (@foundmyfitness) smoothie recipe for peak focus and perf
 * Collagen Powder - Improves skin elasticity
 * Moringa Powder - Zinc, iron, magnesium, moringagen
 
----
-
-Here are two truisms to keep in mind:
-
-“I do what I always do: find a personal e-mail if possible, often through their little-known personal blogs, send a two to three-paragraph e-mail which explains that I am familiar with their work, and ask one simple-to-answer but thought-provoking question in that e-mail related to their work or life philosophies. The goal is to start a dialogue so they take the time to answer future e-mails—not to ask for help. That can only come after at least three or four genuine e-mail exchanges.”
 
 ---
 
