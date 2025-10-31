@@ -1,7 +1,7 @@
 ---
 title: Communication
 created: 2024-11-18T09:18:12
-modified: 2025-10-28T15:58:45
+modified: 2025-10-31T14:01:51
 ---
 
 * Communication is not about saying what we think. Communication is about ensuring others hear what we mean.
@@ -19,11 +19,19 @@ State the facts and tell the truth. Speak with [integrity](integrity.md)—say e
 
 > _“If you tell the truth, you don’t have to remember anything.” — Mark Twain_
 
+> _Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind._
+
 * If you think something, say something. Don’t expect people to guess your thoughts and feelings. Don’t hold a grudge when people didn’t predict what you wanted them to do. Just tell them.
 * People can’t read your mind [^1] / the thoughts in your head, they can only react to your action/word.
 * People who use direct/precise/literal sentences ↔ People who use indirect/shadow/implied/figurative sentences
 	* [It’s better to be direct about almost everything than to play a game of subtle hints and plausibly deniable nudges.](https://x.com/anuatluru/status/1849840069064159325)
 * 潛台詞：指話語背後隱藏的真正含義
+* 誠實地說出自己的感受，不只是尊重自己，也是尊重他人。當你說出「真心話」時，其實只會有兩種結果：
+
+	1. 對方願意尊重你的感受，關係因此更緊密。
+	2. 對方無法接受你的真實樣貌，選擇離開，結束一段不健康的關係。
+
+	無論是何種結果，其實都是好事。
 
 ---
 
