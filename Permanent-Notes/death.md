@@ -1,7 +1,7 @@
 ---
 title: Death
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:11:17
+modified: 2025-10-31T14:11:32
 ---
 
 > _“The free man thinks of death, least of all things.” — Benedict Spinoza_
@@ -36,6 +36,10 @@ modified: 2025-10-27T08:11:17
 
 ---
 
+人生是一張單程票
+
+---
+
 Mortality
 
 ---
@@ -60,9 +64,10 @@ Death is the ultimate equalizer. We may look different, live in different places
 
 # 最大化快樂/體驗，[最小化後悔/遺憾](https://www.youtube.com/watch?v=jwG_qR6XmDQ) [^1]
 
+> _“We don’t beat the reaper by living longer, but by living well, and living fully — for the reaper will come for all of us. The question is: what do we do between the time we’re born and the time he shows up. Because when he shows up, it’s too late to do all the things that you always wanted to get around to. It is not the things we do in life that we regret on our deathbed. It is the things we do not.” — Randy Pausch_
+
 * Don’t be on your deathbed someday, having squandered your one chance at life, full of regret because you pursued little distractions instead of big dreams.
 * [“The Dash” by Linda Ellis](https://100.best-poems.net/dash.html)
-* _“We don’t beat the reaper by living longer, but by living well, and living fully — for the reaper will come for all of us. The question is: what do we do between the time we’re born and the time he shows up. Because when he shows up, it’s too late to do all the things that you always wanted to get around to. It is not the things we do in life that we regret on our deathbed. It is the things we do not.” — Randy Pausch_
 
 ---
 
@@ -79,7 +84,13 @@ Memento Homo is a Latin phrase that translates to “remember that you are just 
 
 ---
 
-# [Bronnie Ware's “Top Five Regrets of the Dying”](https://bronnieware.com/regrets-of-the-dying/)
+# [Bronnie Ware’s “Top Five Regrets of the Dying”](https://bronnieware.com/blog/regrets-of-the-dying/)
+
+<div align="center">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tAcQfn96yFk?si=UnqXEBEN5fEY-ktD&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
 
 **What people most often regret before they die (Deathbed Regret):** [^2]
 
