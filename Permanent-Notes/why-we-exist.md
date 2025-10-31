@@ -1,7 +1,7 @@
 ---
 title: Why we exist?
 created: 2024-11-18T09:18:12
-modified: 2025-10-29T16:58:39
+modified: 2025-10-31T11:00:33
 ---
 
 > _“Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness.” — Leo Tolstoy_
@@ -76,7 +76,7 @@ The purpose of life is a life of purpose.
 
 > _“If you’re not making someone else’s life better, then you’re wasting your time. Your life will become better by making other lives better.” ― Will Smith_
 
-[At the end of your life, God will only assess you based on how well you help other people be better people. Life is people.](https://youtu.be/tvos4nORf_Y?t=19m05s)
+[At the end of your life, God will only assess you based on how well you help other people be better people. Life is people.](https://youtu.be/tvos4nORf_Y?t=18m33s)
 
 ---
 
