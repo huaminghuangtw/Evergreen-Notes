@@ -1,7 +1,7 @@
 ---
 title: Perfectionism
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-11-02T05:46:46
 ---
 
 > _“You don’t have to be great to start, but you have to start to be great.” — Zig Ziglar_
@@ -18,7 +18,7 @@ Perfect is the enemy of good. ([Good is the enemy of great.](Do%20great%20work.m
 
 ---
 
-Perfectionism is a [double-edged sword (雙面刃)](Duality%20versus%20Polarity.md). On one hand, it can drive individuals to achieve great heights, pushing them to strive for excellence and meticulousness in their endeavors. On the other hand, it can lead to chronic dissatisfaction and overwhelming stress.
+Perfectionism is a [double-edged sword (雙面刃)](duality-vs-polarity.md). On one hand, it can drive individuals to achieve great heights, pushing them to strive for excellence and meticulousness in their endeavors. On the other hand, it can lead to chronic dissatisfaction and overwhelming stress.
 
 ---
 
