@@ -1,7 +1,7 @@
 ---
 title: Just focus on the next decision
 created: 2024-11-18T09:18:12
-modified: 2025-10-28T18:05:45
+modified: 2025-11-02T05:34:28
 ---
 
 > _[“You are always just one good decision away from being in a better place tomorrow — just focus on the next decision.” — Sahil Bloom](https://www.sahilbloom.com/newsletter/information-action-gap-one-decision-away-more)_
@@ -18,6 +18,9 @@ modified: 2025-10-28T18:05:45
 
 ---
 
+The misstep doesn’t define you. Your next move does.
+
+---
 Next Play Mentality
 
 ---
