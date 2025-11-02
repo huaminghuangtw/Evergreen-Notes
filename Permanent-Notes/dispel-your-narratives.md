@@ -1,7 +1,7 @@
 ---
 title: Dispel your narratives
 created: 2024-11-18T09:18:12
-modified: 2025-10-24T06:52:32
+modified: 2025-11-02T05:46:46
 ---
 
 > _“Wisdom accepts that all things have two sides.” — Carl Jung_
@@ -12,7 +12,7 @@ modified: 2025-10-24T06:52:32
 
 It’s easy to label things as “good” or “bad” in the moment, but the truth is, we rarely know how things will play out in the long run.
 
-The wisest among us allow events to exist without applying a narrative layer. They let the space for the events to just exist, to be neither good nor bad—to just be, rather than place judgment on each reality—whether something is [“good” or “bad”](Duality%20versus%20Polarity.md).
+The wisest among us allow events to exist without applying a narrative layer. They let the space for the events to just exist, to be neither good nor bad—to just be, rather than place judgment on each reality—whether something is [“good” or “bad”](duality-vs-polarity.md).
 
 ---
 
