@@ -1,7 +1,7 @@
 ---
 title: Be a habit and routine machine
 created: 2024-11-18T09:18:12
-modified: 2025-10-26T06:53:32
+modified: 2025-11-01T08:06:42
 ---
 
 > _“We are what we repeatedly do every day. Excellence, then, is not an act, but a habit.” — Will Durant_
@@ -90,6 +90,8 @@ More often than not (= usually)
 # Building Good Habits
 
 > Philosophy: Everyday is easier than someday.
+
+> _“If you have good habits, time becomes your ally. All you need is patience.” — James Clear_
 
 Why is it so important to form good habits? They allow you to offload cognitive resources, enabling routine operations to run automatically in the background (背景處理) while you focus on other life demands.
 
