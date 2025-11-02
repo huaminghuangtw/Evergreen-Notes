@@ -1,20 +1,26 @@
 ---
 title: How to optimize hydration
 created: 2024-11-18T09:16:50
-modified: 2025-07-16T21:23:30
+modified: 2025-11-01T08:01:24
 ---
 
-When exercising, follow the [Galpin Equation](https://click.convertkit-mail.com/75u92l72r2c8hko70qqf9/7qh7h8ho6pxeelf9/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1xMzdBUlluUkRHYyZ0PTI5ODlz) as a guideline for the amount of **additional** fluid you should consume
+When exercising, follow the [Galpin Equation](https://www.youtube.com/watch?v=q37ARYnRDGc&t=2989s) as a guideline for the amount of **additional** fluid you should consume
 
-**The Galpin Equation:**
+# The Galpin Equation 
 
-* Body weight (in lbs.) divided by 30 = number of ounces to consume every 15-20 minutes
-* Body weight (in kg.) × 2 = number of mL to consume every 15-20 minutes
+#Newsletter 
 
-Filtering Tap Water
+* Body weight (in lbs.) divided by 30 = number of ounces to consume every 15–20 minutes
+* Body weight (in kg.) × 2 = number of mL to consume every 15–20 minutes
 
-Zero-cost option: rest 1-5 gallons of water, uncapped, at room temperature for ~1 day. Sediment will fall to the bottom, so you can pour off the top two-thirds for drinking.
+---
 
-	- _Note_: do not opt for boiling tap water as a filtration method because high heat can actually make contaminants worse.
+[How to Optimize Your Water Quality & Intake for Health | Huberman Lab](https://www.youtube.com/watch?v=at37Y8rKDlA)
 
-For most people, it will be **healthier to filter their tap water**. (Brita pitcher filters)
+---
+
+Zero-cost option: rest 1–5 gallons of water, uncapped, at room temperature for ~1 day. Sediment will fall to the bottom, so you can pour off the top two-thirds for drinking.
+
+_Note_: Do not opt for boiling tap water as a filtration method because high heat can actually make contaminants worse.
+
+For most people, **it will be healthier to filter their tap water.** (Brita pitcher filters)
