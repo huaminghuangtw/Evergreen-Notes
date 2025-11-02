@@ -1,7 +1,7 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2025-10-29T05:27:08
+modified: 2025-11-02T05:46:18
 ---
 
 > _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
@@ -82,7 +82,7 @@ Reasonable \> Rational
 
 * The only way to make a lot of money is to create a lot of value. [^6]
 * MONEY and TIME is a balancing act. Stop trading/renting time for money, so money can create more time for you.
-	* Millionaires don’t have salaries. They own [assets](assets-versus-liabilities.md).
+	* Millionaires don’t have salaries. They own [assets](assets-vs-liabilities.md).
 		* [WEALTH = Net Income + Asset Value](wealth-creation.md)
 	* 真正的財務自由，是不再被困在「時間換取金錢」的枷鎖裡。
 * The best thing you can do to stay poor is to start tomorrow.
