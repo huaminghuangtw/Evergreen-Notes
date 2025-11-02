@@ -1,7 +1,7 @@
 ---
 title: Neuroscience
 created: 2024-11-18T09:18:12
-modified: 2025-10-31T06:35:45
+modified: 2025-11-02T05:46:31
 ---
 
 The brain is a monkey brain with a supercomputer on top.
@@ -147,7 +147,7 @@ The brain is a monkey brain with a supercomputer on top.
 
 ---
 
-[Fluid Intelligence versus Crystallized Intelligence](Fluid%20Intelligence%20versus%20Crystallized%20Intelligence.md)
+[Fluid Intelligence versus Crystallized Intelligence](fluid-intelligence-vs-crystallized-intelligence.md)
 
 ---
 
