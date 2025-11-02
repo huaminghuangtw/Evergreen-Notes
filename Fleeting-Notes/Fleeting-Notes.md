@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-10-31T06:09:13
+modified: 2025-11-02T05:35:13
 ---
 
 Spend 30 minutes daily…
@@ -22,7 +22,6 @@ Dr. Rhonda Patrick’s (@foundmyfitness) smoothie recipe for peak focus and perf
 * Protein Powder - Protein
 * Collagen Powder - Improves skin elasticity
 * Moringa Powder - Zinc, iron, magnesium, moringagen
-
 
 ---
 
@@ -106,23 +105,7 @@ The extraordinary will take care of itself.
 
 ---
 
-[“I have not failed. I've just found 10,000 ways that won't work.” — Thomas A. Edison](https://www.goodreads.com/quotes/8287-i-have-not-failed-i-ve-just-found-10-000-ways-that)
-
----
-
-The misstep doesn’t define you. Your next move does.
-
----
-
 <https://www.sahilbloom.com/newsletter/the-victim-mentality-a-silent-killer-of-growth>
-
----
-
-There is a version of yourself 10 years from now that is begging THIS version
-
-of yourself to enjoy Where you currently are
-
-just a little bit more.
 
 ---
 
