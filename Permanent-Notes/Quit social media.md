@@ -1,7 +1,7 @@
 ---
 title: Quit social media
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:18:21
+modified: 2025-11-02T20:41:19
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -25,6 +25,10 @@ modified: 2025-10-27T08:18:21
 ---
 
 [10 Hacks to Fight Social Media Distractions](https://one-sec.app/blog/10-hacks-to-reduce-social-media-usage/)
+
+---
+
+[Eight cognitive biases social media takes advantage of](https://www.reddit.com/r/digitalminimalism/comments/1ggbi7s/eight_cognitive_biases_social_media_takes/)
 
 ---
 
