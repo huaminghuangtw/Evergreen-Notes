@@ -1,7 +1,7 @@
 ---
 title: Lateral Thinking
 created: 2024-11-18T09:16:49
-modified: 2025-10-27T08:34:06
+modified: 2025-11-03T06:15:43
 ---
 
 > _“The young man knows the rules, but the old man knows the exceptions.” — Oliver Wendell Holmes, Sr._
@@ -69,6 +69,10 @@ The 3 Stages of Mastery
 1. Shu (to obey): Learn to operate according to the rules.
 2. Ha (to break): Begin to challenge and adapt the rules.
 3. Ri (to transcend): Create new rules.
+
+---
+
+[The Fosbury Flop](https://www.google.com/search?q=The+Fosbury+Flop)
 
 ---
 
