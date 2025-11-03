@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-11-02T05:35:13
+modified: 2025-11-03T06:38:00
 ---
 
 Spend 30 minutes daily…
@@ -60,11 +60,6 @@ saying no to bad ideas. The best phrase to close a deal is ‘That was brilliant
 
 The Art of Negotiation: Letting the Other Side Go First
 
-The Fosbury Flop
-
-「意義治療法（Logotherapy）」
-
-以及「顯著性偏誤，正常化偏誤」
 ---
 
 Savor the little victories as much as you criticize the little mistakes. (Ali 書 p.177)
