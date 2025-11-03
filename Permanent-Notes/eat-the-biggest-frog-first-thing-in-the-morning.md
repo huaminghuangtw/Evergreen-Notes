@@ -1,7 +1,7 @@
 ---
 title: Eat the biggest frog first thing in the morning
 created: 2024-12-04T17:55:24
-modified: 2025-10-29T05:23:26
+modified: 2025-11-03T14:37:10
 ---
 
 > _“Do one thing every day that scares you.” — Eleanor Roosevelt_
@@ -11,6 +11,10 @@ modified: 2025-10-29T05:23:26
 > _“The key is not to [prioritize](Prioritization.md) what’s on your schedule, but to schedule your priorities.” — Stephen Covey_
 
 > _[“If you don’t prioritize, everything seems urgent and important. If you define the single most important task for each day, almost nothing seems urgent or important. Oftentimes, it’s just a matter of letting (fires burn/) small little bad things happen (e.g., return a phone call late and apologize, pay a small late fee, lose an unreasonable customer, etc.) to get the big important things done. The answer to overwhelm is not spinning more plates—or doing more—it’s defining the few things that can really fundamentally change your business and life.” — Tim Ferriss](https://x.com/tferriss/status/1674772152589996034)_ [^1]
+
+---
+
+最重要的是戰勝次要。
 
 ---
 
