@@ -1,7 +1,7 @@
 ---
 title: Prioritization
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:18:59
+modified: 2025-11-03T14:36:50
 ---
 
 > _“The whole point of getting things done is knowing what to leave undone.” — Oswald Chambers_
@@ -27,6 +27,7 @@ modified: 2025-10-27T08:18:59
 先做完該做的事，再做你想做的事。
 
 ---
+
 
 Inequality, Everywhere
 
