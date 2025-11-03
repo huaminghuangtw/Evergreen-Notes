@@ -1,7 +1,7 @@
 ---
 title: Character is who you are when nobody’s watching
 created: 2025-10-18T07:38:12
-modified: 2025-10-28T18:07:40
+modified: 2025-11-03T08:40:22
 ---
 
 > _“Personality is how you respond on a typical day, character is how you show up on a hard day.” ― Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
@@ -19,3 +19,17 @@ modified: 2025-10-28T18:07:40
 * Your character is who you are on the inside. Your reputation is who others see on the outside.
 * Your character is who you are when no one is looking. Your reputation is who others see when they are looking.
 * Your character is who you are when facing a crisis. Your reputation is who others see when facing a crisis.
+
+---
+
+* Anyone can smile when life goes smoothly.
+* Anyone can train when they feel great.
+* Anyone can be kind when the relationship is easy.
+
+What matters most is how you respond on the bad days, not the good ones.
+
+* The strong mind finds a way to stay steady … even when plans fall apart.
+* The strong body finds a way to train … even when the day doesn’t go your way.
+* The strong relationship finds a way to reconnect … even when things get rough.
+	
+It’s how you act when the situation isn’t optimal that makes the difference.
