@@ -1,7 +1,7 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2025-11-02T16:19:34
+modified: 2025-11-03T08:43:27
 ---
 
 > _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
@@ -117,7 +117,7 @@ References:
 
 **The Sinatra Test:** Something passes the test if a single example of success is sufficient to effectively create a halo of “credibility” for future endeavors.
 
-* “If I can make it there, I’ll make it anywhere.” (from Frank Sinatra’s famous song, New York, New York)
+> “If I can make it there, I’ll make it anywhere.” (from Frank Sinatra’s famous song, New York, New York)
 
 ---
 
