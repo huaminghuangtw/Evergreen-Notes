@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-10-30T06:51:21
+modified: 2025-11-03T12:49:20
 ---
 
 Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
@@ -11,6 +11,8 @@ Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
 # [Learn How To Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
 = Meta-Learning = 後設學習
+
+_[Ultralearning](https://www.scotthyoung.com/blog/ultralearning/)_ by Scott Young
 
 ---
 
