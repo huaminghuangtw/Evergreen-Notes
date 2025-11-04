@@ -1,7 +1,7 @@
 ---
 title: Change yourself to change the world
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-11-03T18:22:22
 ---
 
 > _“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi_
@@ -65,7 +65,8 @@ Tend your garden. Sow your seeds. Water your grass. The grass is greener where y
 
 Personal development/growth/improvement is a lifelong endeavor. Every single day, you have to [act in favor of the person you want to become](your-identity-dictates-your-actions.md). [The work never stops.](every-single-day-chop-wood-carry-waters.md) [Be a habit and routine machine](be-a-habit-and-routine-machine.md).
 
-> _[“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)_
+
+> _“By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure. Purity and impurity depend on oneself; no one can purify another.” — Dhammapada_
 
 ---
 
