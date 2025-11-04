@@ -1,8 +1,10 @@
 ---
 title: Why we exist?
 created: 2024-11-18T09:18:12
-modified: 2025-11-03T06:42:28
+modified: 2025-11-03T18:22:34
 ---
+
+> _[“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)_
 
 > _“Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness.” — Leo Tolstoy_
 
