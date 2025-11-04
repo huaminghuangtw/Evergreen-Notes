@@ -1,7 +1,7 @@
 ---
 title: Dispel your narratives
 created: 2024-11-18T09:18:12
-modified: 2025-11-02T05:46:46
+modified: 2025-11-04T07:14:25
 ---
 
 > _“Wisdom accepts that all things have two sides.” — Carl Jung_
@@ -17,6 +17,16 @@ The wisest among us allow events to exist without applying a narrative layer. Th
 ---
 
 [The ability to _observe without evaluating_ is the highest form of intelligence.](https://www.reddit.com/r/QuotesPorn/comments/usvq74/the_ability_to_observe_without_evaluating_is_the/) — Like children, their life goes without saying: whether it is good or bad makes no difference. This is because children don’t see the world, don’t observe the world, don’t contemplate the world, but are so deeply immersed in the world that they don’t distinguish between it and their own selves.
+
+---
+
+我是來理解這個世界，而不是來評斷這個世界的。
+
+---
+
+> _“Looking at beauty in the world, is the first step of purifying the mind.” — Amit Ray_
+
+Finding the beauty in the thing that already exists without needing to alter it is the next step.
 
 ---
 
