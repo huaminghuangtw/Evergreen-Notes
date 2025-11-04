@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-11-03T06:38:00
+modified: 2025-11-04T07:14:00
 ---
 
 Spend 30 minutes daily…
@@ -74,31 +74,6 @@ Savor the little victories as much as you criticize the little mistakes. (Ali �
 
 ---
 
-‘Do not ask your children to strive’
-
-by William Martin Do not ask your children
-
-to strive for extraordinary lives. Such striving may seem admirable,
-
-but it is the way of foolishness. Help them instead to find the wonder
-
-and the marvel of an ordinary life. Show them the joy of tasting
-
-tomatoes, apples and pears. Show them how to cry
-
-when pets and people die. Show them the infinite pleasure
-
-in the touch of a hand.
-
-And make the ordinary come alive for them.
-
-The extraordinary will take care of itself.
-
----
-
-“Looking at beauty in the world, is the first step of purifying the mind.” — Amit Ray, Finding the beauty in the thing that already exists without needing to alter it is the next step.
-
----
 
 <https://www.sahilbloom.com/newsletter/the-victim-mentality-a-silent-killer-of-growth>
 
