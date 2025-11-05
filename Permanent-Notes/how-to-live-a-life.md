@@ -1,7 +1,7 @@
 ---
 title: How to live a life
 created: 2024-11-18T09:18:12
-modified: 2025-11-02T05:46:46
+modified: 2025-11-05T10:48:11
 ---
 
 > _“As long as you live, keep learning how to live.” — Seneca_
@@ -54,7 +54,13 @@ A good life has a healthy mix of selfish boundaries and unselfish giving.
 
 ---
 
-[The Pencil’s Tale](https://youtu.be/HisYsqqszq0)
+# [The Pencil’s Tale](https://youtu.be/HisYsqqszq0)１
+
+1. You’ll be able to do many great things—but only if you allow yourself to be held in someone’s hand.
+2. You will experience a painful “sharpening” from time to time—but that’s what makes you stronger.
+3. You can correct your mistakes.
+4. What’s on the inside is what really counts.
+5. On every surface you’re used on, you must leave your mark—so write, act, and make an impact.
 
 ---
 
