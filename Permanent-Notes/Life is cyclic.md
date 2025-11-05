@@ -1,7 +1,7 @@
 ---
 title: Life is cyclic
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-11-05T06:37:17
 ---
 
 > _“Life is like a wheel. Sooner or later, it always comes around to where you started again.” — Stephen King_
@@ -10,7 +10,7 @@ modified: 2025-10-27T08:34:06
 
 > _“Everything in life opens and closes, sheds and renews. We are no different.” — Mark Nepo_
 
-> _[“My experience of life is that it is not divided up into genres; it’s a horrifying, romantic, tragic, comical, science-fiction cowboy detective novel. You know, with a bit of pornography if you're lucky.” — Alan Moore]([https://www.goodreads.com/quotes/1981-my-experience-of-life-is-that-it-is-not-divided](https://www.goodreads.com/quotes/1981-my-experience-of-life-is-that-it-is-not-divided))_
+> _[“My experience of life is that it is not divided up into genres; it’s a horrifying, romantic, tragic, comical, science-fiction cowboy detective novel. You know, with a bit of pornography if you’re lucky.” — Alan Moore]([https://www.goodreads.com/quotes/1981-my-experience-of-life-is-that-it-is-not-divided](https://www.goodreads.com/quotes/1981-my-experience-of-life-is-that-it-is-not-divided))_
 
 ---
 
