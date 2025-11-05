@@ -1,7 +1,7 @@
 ---
 title: Death
 created: 2024-11-18T09:18:12
-modified: 2025-10-31T14:11:32
+modified: 2025-11-05T08:42:24
 ---
 
 > _“The free man thinks of death, least of all things.” — Benedict Spinoza_
@@ -141,8 +141,12 @@ Remarks: Through history, people have gone back into their own pasts, sometime t
 
 # 生前喪禮 (Living Funnel)
 
-* As long as there is [love](love.md), there will be grief, because grief is love’s natural continuation. Don’t fear sadness of loss, as it tends to sit right next to the joy.
-* [It's not about knowing what to say. It's about being there when nobody knows what to say. The only thing people need to hear is, "You are not alone." And that doesn't require words. It just requires your presence.](https://jamesclear.com/3-2-1/february-6-2025)
+≈ 生前告別音樂會
+
+* As long as there is [love](love.md), there will be grief, because grief is love’s natural continuation. **Don’t fear sadness of loss, as it tends to sit right next to the joy.**
+* [It’s not about knowing what to say. It’s about being there when nobody knows what to say. The only thing people need to hear is, “You are not alone.” And that doesn’t require words. It just requires your presence.](https://jamesclear.com/3-2-1/february-6-2025)
+* 電影：2007 年美國劇情片《[一路玩到掛](https://www.google.com/search?q=一路玩到掛) [The Bucket List](https://www.imdb.com/title/tt0825232/)》→ 豁達！
+* [生前參加自己的告別式，比什麼都滿足 - 康健雜誌](https://www.commonhealth.com.tw/article/70138)
 
 ---
 
