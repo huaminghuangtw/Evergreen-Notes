@@ -1,7 +1,7 @@
 ---
 title: Emotional Freedom
 created: 2025-05-10T06:27:40
-modified: 2025-10-27T09:42:26
+modified: 2025-11-05T06:31:26
 ---
 
 > _“Enlightenment is making friendship with the whole existence.” — Amit Ray_
@@ -32,22 +32,14 @@ modified: 2025-10-27T09:42:26
 
 ---
 
-📌 What you have to remember about the past is that it literally _does not_ exist—it exists _only_ in your mind, in your memories, no more real than a daydream. And here’s the thing: **your memories are likely far less accurate than you think.** They’re shaped by your emotions, your state of mind at the time, and the way your brain processes and stores information. Your mind exaggerates some details, completely erases others, and distorts events without you even realizing it.
-
-Someone who experienced the exact same event as you likely remembers it very differently. Memories are _not_ objective facts, and they _cannot_ be fully trusted. Yet, we build our sense of self from these flawed recollections—we construct a story of our lives based on memories that may not be true at all.
-
-**But if the past no longer exists, and if what you remember isn’t necessarily what really happened, that means you have the power to [rewrite it](a-true-transformation-begins-with-a-mental-shift.md).** Change [the story you tell yourself about yourself.](be-careful-how-you-are-talking-to-yourself.md) Redefine your past, and in doing so, reshape who you are.
-
----
-
 [@nguyenDontBelieveEverything2024]
 
 ## 🔑 Key Insights & Takeaways
 
-1. **Thoughts are not facts.**
+1. **[Thoughts are not facts.](the-past-is-more-unpredictable-than-the-future.md)**
 	* Most of our emotional pain is caused by the thoughts we believe, not the reality itself.
 	* Thoughts can be misleading, biased, and irrational—don’t accept them at face value.
-2. **You are not your thoughts.**
+2. **[You are not your thoughts.](the-past-is-more-unpredictable-than-the-future.md)**
 	* You are the awareness _behind_ your thoughts. Realizing this creates distance between you and your mental noise.
 	* Consciousness is your true identity, not the stream of thinking.
 3. **Suffering comes from resistance.**
@@ -125,5 +117,6 @@ Resistance amplifies [negative emotions](negative-thoughts-and-emotions.md). [Ac
 
 * At its heart, the quote speaks to the idea of **[non-interference](wu-wei.md)** and **patience**. When water is muddy, stirring it further only makes it worse — more opaque and unsettled. But if you **let it be**, the sediment will naturally settle, and the water will clear on its own.
 * Sometimes problems solve themselves if we give them space and time.
+
 
 [^1]: ↔ [The Upward Spiral](https://sketchplanations.com/the-upward-spiral)
