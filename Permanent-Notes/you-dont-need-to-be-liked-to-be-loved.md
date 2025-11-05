@@ -1,14 +1,18 @@
 ---
 title: You don’t need to be liked to be loved
 created: 2025-10-18T16:54:28
-modified: 2025-10-18T16:59:32
+modified: 2025-11-05T08:17:44
 ---
 
 > _“When you say yes to others, make sure you are not saying no to yourself.” — Paulo Coelho_
 
 ---
 
-Sometimes when you say no to others it opens a pathway to a hell yes for yourself. To grow, you have to disappoint some people. Saying no is a form of self-respect. Don’t be the one to tell yourself no.
+> _[“Your job, throughout your entire life, is to disappoint as many people as it takes to avoid disappointing yourself.” — Glennon Doyle](https://www.goodreads.com/quotes/10286222-your-job-throughout-your-entire-life-is-to-disappoint-as)_
+
+Sometimes when you say no to others it opens a pathway to a hell yes for yourself. To grow, you have to disappoint some people. [Saying no](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md) is a form of self-respect. Don’t be the one to tell yourself no.
+
+做一個不怕讓人失望的人。這個世界上對你不好的人，不差你一個；這個世界上對你好的人，就差你一個。
 
 ---
 
