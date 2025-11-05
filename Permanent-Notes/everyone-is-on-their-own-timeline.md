@@ -1,7 +1,7 @@
 ---
 title: Everyone is on their own timeline
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-11-04T16:06:26
 ---
 
 > _“One’s own dharma performed imperfectly is better than another’s dharma well performed…It is better to strive in one’s own dharma than to succeed in the dharma of another.” — Bhagavad Gita_
@@ -62,7 +62,7 @@ The Japanese philosophy of Oubaitori is a manifestation of this natural way: Hum
 * 不完美地活出自己的生命勝過於完美地模仿他人
 * 特立獨行
 
-[The Story of the Cracked Pot](../Permanent-Notes/the-story-of-the-cracked-pot.md)
+[The Story of the Cracked Pot](the-story-of-the-cracked-pot.md)
 
 ---
 
