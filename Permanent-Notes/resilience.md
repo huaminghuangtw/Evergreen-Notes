@@ -1,7 +1,7 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2025-11-02T05:33:43
+modified: 2025-11-05T08:20:39
 ---
 
 > _[“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)_
@@ -32,7 +32,13 @@ modified: 2025-11-02T05:33:43
 
 ---
 
-Antifragility [@talebAntifragileThingsThat2016]
+心理韌性/防禦力
+
+---
+
+# Antifragility
+
+[@talebAntifragileThingsThat2016]
 
 面對未知，我們的反應分為三種：
 
