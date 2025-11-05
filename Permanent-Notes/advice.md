@@ -1,7 +1,7 @@
 ---
 title: Advice
 created: 2024-11-18T09:16:50
-modified: 2025-10-28T18:11:46
+modified: 2025-11-04T20:07:16
 ---
 
 > _“The thing I’ve learned over the years about advice is that no one can accurately predict the future, but we all think we can. So advice at its best is one person’s limited perspective of the infinite possibilities before you. People’s advice is based on their fears, their experiences, their prejudices, and at the end of the day, their advice is just that: it’s theirs, not yours. When people give you advice, they’re basing it on what they would do, what they can perceive, on what they think you can do. But the bottom line is, while yes, it is true that we are all subject to a series of universal laws, patterns, tides, and currents—all of which are somewhat predictable—you are the first time you’ve ever happened. YOU and NOW are a unique occurrence, of which you are the most reliable measure of all the possibilities.” ― Will Smith_
@@ -61,7 +61,7 @@ Be careful WHO you’re getting advice from.
 	* ask for advice if you’re really just looking for permission.
 	* take advice from the person who hasn’t done the thing you want to do.
 	* listen to the opinions of those that haven’t achieved what you want to achieve.
-	* take opinions from people on the sideline (**including family and friends**).
+	* take opinions from people on the sideline (**including family and friends**). [^1]
 
 When some one gives you advice, sandbox it and ask:
 
@@ -80,3 +80,5 @@ People often ask me for the best piece of advice I’ve ever received, and I oft
 [The only advice worth seeking is the kind that might actually change your mind.](https://mikekarnj.com/posts/advice)
 
 **Most advice isn’t meant to be followed. It’s meant to sharpen your filter.** <mark>But you need to hear enough of it to train your filter.</mark> [Be open-minded.](be-ready-to-change-your-mind-completely-at-any-given-time.md) **You don’t build [instincts](Judgement.md) by avoiding advice. You build them by learning what to reject and what to keep.** The goal is to build a high hit-rate [gut](trust-your-gut.md). One that gets better through pattern recognition, reflection, and making your own mistakes.
+
+[^1]: _“If you’re not in the arena also getting your ass kicked, I’m not interested in your feedback.” — Brené Brown_
