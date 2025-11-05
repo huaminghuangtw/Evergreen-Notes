@@ -1,7 +1,7 @@
 ---
 title: Comparison is the thief of joy
 created: 2024-11-18T09:18:12
-modified: 2025-10-26T15:15:38
+modified: 2025-11-05T10:43:37
 ---
 
 > _”Don’t bother just to be better than your contemporaries or predecessors. Try to be better than yourself.” — William Faulkner_
@@ -13,6 +13,10 @@ modified: 2025-10-26T15:15:38
 ---
 
 比較 = 攀比
+
+---
+
+人比人，氣死人；蛋餅比蛋餅，起士蛋餅…
 
 ---
 
