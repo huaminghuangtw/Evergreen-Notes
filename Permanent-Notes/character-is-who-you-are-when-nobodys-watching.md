@@ -1,7 +1,7 @@
 ---
 title: Character is who you are when nobody’s watching
 created: 2025-10-18T07:38:12
-modified: 2025-11-03T08:40:22
+modified: 2025-11-04T20:37:49
 ---
 
 > _“Personality is how you respond on a typical day, character is how you show up on a hard day.” ― Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
@@ -31,5 +31,9 @@ What matters most is how you respond on the bad days, not the good ones.
 * The strong mind finds a way to stay steady … even when plans fall apart.
 * The strong body finds a way to train … even when the day doesn’t go your way.
 * The strong relationship finds a way to reconnect … even when things get rough.
-	
+
 It’s how you act when the situation isn’t optimal that makes the difference.
+
+---
+
+[Do It Anyway by Mother Teresa](do-it-anyway-by-mother-teresa.md)
