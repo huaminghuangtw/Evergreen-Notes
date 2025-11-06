@@ -1,7 +1,7 @@
 ---
 title: Wu Wei
 created: 2024-12-05T23:47:15
-modified: 2025-10-27T07:58:06
+modified: 2025-11-06T08:23:48
 ---
 
 > _“Nature never hurries, yet everything is accomplished. (道常無為而無不為。)” — Lao Tzu._
@@ -28,6 +28,10 @@ modified: 2025-10-27T07:58:06
 ---
 
 Doing nothing can be surprisingly [productive](Productivity.md). I’ve experienced Wu Wei in my life when I’ve chosen not to immediately act on something, or simply do nothing and embrace laziness.
+
+---
+
+[Why do some animals spend so much time just doing nothing?](https://www.reddit.com/r/explainlikeimfive/comments/kecv94/eli5_why_do_some_animals_like_spiders_or_lizards/)
 
 ---
 
