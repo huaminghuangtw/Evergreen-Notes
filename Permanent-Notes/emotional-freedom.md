@@ -1,7 +1,7 @@
 ---
 title: Emotional Freedom
 created: 2025-05-10T06:27:40
-modified: 2025-11-05T06:31:26
+modified: 2025-11-05T16:55:30
 ---
 
 > _“Enlightenment is making friendship with the whole existence.” — Amit Ray_
@@ -117,6 +117,5 @@ Resistance amplifies [negative emotions](negative-thoughts-and-emotions.md). [Ac
 
 * At its heart, the quote speaks to the idea of **[non-interference](wu-wei.md)** and **patience**. When water is muddy, stirring it further only makes it worse — more opaque and unsettled. But if you **let it be**, the sediment will naturally settle, and the water will clear on its own.
 * Sometimes problems solve themselves if we give them space and time.
-
 
 [^1]: ↔ [The Upward Spiral](https://sketchplanations.com/the-upward-spiral)
