@@ -1,7 +1,7 @@
 ---
 title: Always start small
 created: 2025-03-05T05:32:10
-modified: 2025-10-29T18:13:08
+modified: 2025-11-06T09:42:36
 ---
 
 > _“It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith_
@@ -65,6 +65,8 @@ If you spend 100 hours a year in any discipline (which is only 18 minutes a day)
 * [不靠衝勁](do-not-use-your-willpower-unless-you-absolutely-have-to.md)，靠低門檻 [開始](just-getting-started.md)
 
 ---
+
+# A journey of a thousand miles begins with a single step
 
 * Running one mile has more in common with running a marathon than sitting at home.
 * Investing $100 has more in common with being a millionaire than being broke.
