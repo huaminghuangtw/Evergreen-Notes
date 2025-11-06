@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-11-03T13:17:12
+modified: 2025-11-06T08:18:30
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -109,7 +109,7 @@ Relationships are, by definition, a series of repeated interactions. In those sc
 
 ---
 
-Never leave a conversation without asking “how can I help you?” Everyone subconsciously values reciprocity and aid.
+Never leave a conversation without asking “How can I help you?” Everyone subconsciously values reciprocity and aid.
 
 ---
 
