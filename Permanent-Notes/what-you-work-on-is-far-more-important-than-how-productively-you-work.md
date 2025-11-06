@@ -1,7 +1,7 @@
 ---
 title: What you work on is far more important than how productively you work
 created: 2025-02-04T06:34:16
-modified: 2025-10-27T08:00:06
+modified: 2025-11-06T14:41:44
 ---
 
 > _“If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster.” — Stephen R. Covey_
@@ -20,7 +20,7 @@ modified: 2025-10-27T08:00:06
 
 ---
 
-# What you do is infinitely more important than how you do it.
+# What you do is infinitely more important than how (hard) you do it.
 
 > _[“It doesn’t matter how fast you move if it’s in a worthless direction. **Picking the right thing to work on** is the most important element of productivity and usually almost ignored. Productivity in the wrong direction isn’t worth anything at all. Think more about what to work on.” — Sam Altman](https://blog.samaltman.com/productivity)_
 
@@ -29,6 +29,10 @@ modified: 2025-10-27T08:00:06
 ---
 
 [Velocity (vector) over Speed (scalar)](https://nesslabs.com/vectors-of-action)
+
+---
+
+選擇，比努力更重要 — 努力決定你能做得多好，選擇決定你能走多遠。
 
 ---
 
