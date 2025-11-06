@@ -1,7 +1,7 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2025-10-29T05:19:49
+modified: 2025-11-06T09:35:30
 ---
 
 > _“Start before you’re ready. Don’t prepare. Begin. Don’t think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
@@ -19,6 +19,8 @@ modified: 2025-10-29T05:19:49
 > _“If we wait for the moment when everything, absolutely everything is ready, we shall never begin.” — Ivan Turgenev_
 
 > _[“Action isn’t just the effect of motivation; it’s also the cause of it.” — Mark Manson](https://www.goodreads.com/quotes/11945271-action-isn-t-just-the-effect-of-motivation-it-s-also-the)_
+
+> _“It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.” — Seneca_
 
 ---
 
