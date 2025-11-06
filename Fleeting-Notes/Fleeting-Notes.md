@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-11-05T06:32:44
+modified: 2025-11-06T15:54:41
 ---
 
 Spend 30 minutes daily…
@@ -63,10 +63,6 @@ The Art of Negotiation: Letting the Other Side Go First
 ---
 
 Savor the little victories as much as you criticize the little mistakes. (Ali 書 p.177)
-
----
-
-[Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
 
 ---
 
