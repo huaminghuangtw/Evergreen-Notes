@@ -1,7 +1,7 @@
 ---
 title: Happiness
 created: 2024-11-18T09:18:12
-modified: 2025-10-22T12:54:00
+modified: 2025-11-07T08:41:02
 ---
 
 > _“Happiness is a state where nothing is missing.” — Naval Ravikant_
@@ -175,5 +175,5 @@ Simple story on “Happiness is found through service of others.”
 >
 > 幸福就是這樣隨手可得的。每個人每天每時每刻都有可能體驗到幸福，除非你是一個非常頑強又自以爲是的人，把幸福當成是不能回收的垃圾，隨手丟棄，讓垃圾筒裡堆滿了你丟棄的幸福，兀自嘆息。
 
-[^1]: Satisfaction = What you have - What you want. Lowering desires/expectations can increase satisfaction.
+[^1]: Satisfaction = What you have - What you want. [Lowering desires/expectations](the-absence-of-desire-is-true-happiness.md) can increase satisfaction.
 [^2]: [How to Instantly Feel Better?](https://sketchplanations.com/how-to-instantly-feel-better)
