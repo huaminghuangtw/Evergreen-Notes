@@ -1,7 +1,7 @@
 ---
 title: Change yourself to change the world
 created: 2024-11-18T09:18:12
-modified: 2025-11-04T16:05:59
+modified: 2025-11-07T13:33:58
 ---
 
 > _“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi_
@@ -84,8 +84,8 @@ Personal development/growth/improvement is a lifelong endeavor. Every single day
 ![](../_attachments/399f5eabbf33dfe8f8505b21847b81d5.png)
 
 * Based on these two circles, **reactive** people will think more about the **circle of concern** while **proactive** people focus more on the **circle of influence**.
-* Your Circle of Concern is all the things you worry about and that influence you but that you have no control over: Federal Government, climate change, etc.
-* Your Circle of Influence is all the things you can control: your actions, your habits, your attitudes, your attention etc.
+* Your Circle of Concern (關注圈) is all the things you worry about and that influence you but that you have no control over: Federal Government, climate change, etc.
+* Your Circle of Influence (影響圈) is all the things you can control: your actions, your habits, your attitudes, your attention, etc.
 * **The more you focus on your Circle of Influence, the bigger your Circle of Influence will get, and the more you can accomplish to help fix things in your Circle of Concern.**
 
 [Have the courage to do the right things](have-the-courage-to-do-the-right-things.md)
