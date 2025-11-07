@@ -1,7 +1,7 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2025-11-02T05:46:18
+modified: 2025-11-07T10:05:46
 ---
 
 > _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
@@ -124,6 +124,7 @@ Reasonable \> Rational
 
 > _“If you buy things you do not need, soon you will have to sell things you need.” — Warren Buffett_
 
+* 我發現，把錢花在那些很快就消失/一下子就消耗掉/轉瞬即逝的東西上，會讓自己有種受騙的感覺。
 * [Consider spending money as a failure of imagination; a failure to solve problems by smarter means.](https://www.getrichslowly.org/early-retirement-extreme/)
 	* [Your need for money is inversely related to your level of skill. Money buys convenience but more importantly, it compensates for lack of skill.](https://earlyretirementextreme.com/why-so-few-succeed.html)
 * Money can buy happiness_, but in an indirect way._ It’s not money itself that makes you happier. It’s the thing acquired by money that actually makes you happy.
