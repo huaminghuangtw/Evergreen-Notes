@@ -1,7 +1,7 @@
 ---
 title: Speak less, listen more
 created: 2024-11-18T09:16:49
-modified: 2025-10-27T07:04:42
+modified: 2025-11-07T10:09:08
 ---
 
 > _[“Shallow rivers are noisy. Deep lakes are silent.” — Derek Sivers](https://sive.rs/h)_
@@ -48,6 +48,7 @@ Silence is more eloquent than [words](Be%20impeccable%20with%20your%20word.md). 
 > _“Blessed is the man, who having nothing to say, abstains from giving wordy evidence of the fact.” — George Eliot_
 
 * 寧可保持沉默像個傻子，也不要一開口就證明自己是個傻瓜。
+* 全世界最令人討厭的事，大概就是說個不停、話講個沒完。
 * 「懂得內斂，學會矜持」: 大部分的孔雀都不會在人前開屏，人們稱這是孔雀的矜持。
  * You always own the option of not having an opinion on things you aren’t informed on.
 * It’s ok not to have no opinions — _[as long as you avoid the temptation to prove it](abandon-your-ego.md)_.
