@@ -1,7 +1,7 @@
 ---
 title: The Game of Life
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:16:23
+modified: 2025-11-07T08:40:29
 ---
 
 > _[The reason to play the game is to be free of it.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)_
@@ -67,7 +67,7 @@ _Why? Because they make you sound interesting._
 
 ### 1
 
-[Alex Caruso](https://www.reddit.com/r/nba/comments/jraeyj/caruso_a_big_reason_guys_get_stuck_in_the_gleague/)entered the NBA’s development league after going undrafted in 2016. A few years later, he was a key player leading the Los Angeles Lakers to an NBA championship.
+[Alex Caruso](https://www.reddit.com/r/nba/comments/jraeyj/caruso_a_big_reason_guys_get_stuck_in_the_gleague/) entered the NBA’s development league after going undrafted in 2016. A few years later, he was a key player leading the Los Angeles Lakers to an NBA championship.
 
 When asked about how he rose from undrafted nobody to this level of stardom, he said that [self-awareness](mastering-yourself-is-superpower.md) was the key:
 
