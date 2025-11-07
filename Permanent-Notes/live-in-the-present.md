@@ -1,7 +1,7 @@
 ---
 title: Live in the present
 created: 2024-11-18T09:18:12
-modified: 2025-11-07T09:42:23
+modified: 2025-11-07T19:06:12
 ---
 
 > _“It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.” — Dr. Robert Hutchings Goddard_
@@ -36,7 +36,7 @@ modified: 2025-11-07T09:42:23
 
 > _“Don’t count the days. Make the days count.” — Muhammad Ali_
 
-> _[Genieße den Augenblick - denn Heute ist der erste Tag vom Rest deines Lebens! (享受當下，因為今天是剩下的生命中的第一天！)](http://www.godic.net/home/dailysentence/4056ec51-2133-4b30-8cca-8f9e279b3e45)_ [^4]
+> _[Genieße den Augenblick - denn Heute ist der erste Tag vom Rest deines Lebens! (享受當下，因為今天是剩下的生命中的第一天！)](http://www.godic.net/home/dailysentence/4056ec51-2133-4b30-8cca-8f9e279b3e45)_ [^3]
 
 > _“Think of yourself in a concert hall listening to the strains of the sweetest music when you suddenly remember that you forgot to lock your car. You are anxious about the car, you cannot walk out of the hall and you cannot enjoy the music. There you have a perfect image of life as it is lived by most human beings.” — Anthony de Mello_
 
@@ -96,7 +96,7 @@ We often treat the present as a _vehicle for something else_, failing to see tha
 
 ---
 
-“[今は今、今度は今度](https://www.imdb.com/title/tt27503384/)” [^3]
+“[今は今、今度は今度](https://www.imdb.com/title/tt27503384/)” [^4]
 
 * Translation:
 	* Now is now, next time is next time.
@@ -129,5 +129,5 @@ We often treat the present as a _vehicle for something else_, failing to see tha
 
 [^1]: Live in the “here and now,” focusing on what we can do today instead of dwelling on the past or worrying about the future.
 [^2]: (adv.) for an intervening or temporary period of time
-[^3]: [いま 是「現在」的意思，有「把握現在、活在當下」之意](https://www.facebook.com/people/e-MA-Cycling-Team/100057359174980/)
-[^4]: 現在即未來。Now is future.
+[^3]: 現在即未來。Now is future.
+[^4]: [いま 是「現在」的意思，有「把握現在、活在當下」之意](https://www.facebook.com/people/e-MA-Cycling-Team/100057359174980/)
