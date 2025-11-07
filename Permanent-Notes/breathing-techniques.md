@@ -1,10 +1,22 @@
 ---
 title: Breathing Techniques
 created: 2025-10-08T05:07:10
-modified: 2025-10-28T17:41:24
+modified: 2025-11-07T15:44:07
 ---
 
-It’s this thing we do 20,000 times per day, but we never really stop to consider how we’re actually doing it—or whether we could be doing it better.
+It’s this thing we do [20,000 times per day](#1), but we never really stop to consider how we’re actually doing it—or whether we could be doing it better.
+
+# 1
+
+On average, a healthy adult takes about **12–20 breaths per minute** at rest. Let’s calculate the approximate number of breaths per day step by step.
+
+1. **Average breaths per minute:** Let’s take the middle value, 16 breaths/min.
+2. **Breaths per hour:** 16 × 60 = 960 breaths/hour
+3. **Breaths per day:** 960 × 24 = 23,040 breaths/day
+
+So, a typical adult breathes roughly **23,000 times per day**.
+
+---
 
 * Breath Counting
 	* 默念：1, 2, 3, …
