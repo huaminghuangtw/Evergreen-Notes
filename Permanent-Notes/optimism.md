@@ -1,7 +1,7 @@
 ---
 title: Optimism
 created: 2025-01-23T10:40:57
-modified: 2025-09-03T07:14:53
+modified: 2025-11-07T08:39:38
 ---
 
 > _“A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.” — Winston Churchill_ [^1]
@@ -37,6 +37,18 @@ You can always choose to look at the _bright_ side of something. Choosing to see
 ---
 
 A positive mind finds a way it can be done; A negative mind looks for all the ways it can’t be done.
+
+---
+
+[You Could Just Choose Optimism — Quarter Mile](https://quarter--mile.com/You-Could-Just-Choose-Optimism)
+
+> In life, you can choose to be G(rouchy) or you can choose to be J(olly).
+
+> If you call out the biggest [complainers](never-ever-complain-about-anything.md) you know about their behavior, starting with yourself, we bet the most common retort will be some version of **standards**. _I pride myself on having good taste in food, so of course I have to complain about how nasty this Big Mac is instead of eating it and moving on with my life._
+
+> Choosing optimism and joy doesn’t mean you can’t have standards. All it means is that you don’t have to vocalize those standards all of the time.
+
+> Being optimistic and feeling the full range of human emotions are not mutually exclusive.
 
 ---
 
