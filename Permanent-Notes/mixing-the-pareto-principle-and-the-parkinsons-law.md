@@ -1,7 +1,7 @@
 ---
 title: Mixing the Pareto Principle and the Parkinson'S Law
 created: 2025-10-30T07:08:36
-modified: 2025-11-05T17:40:29
+modified: 2025-11-07T19:06:12
 ---
 
 Time Ferriss’s two-step synergistic approach:
