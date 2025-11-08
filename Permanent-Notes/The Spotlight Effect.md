@@ -1,7 +1,7 @@
 ---
 title: The Spotlight Effect
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-11-08T09:55:45
 ---
 
 > _“You have no responsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It’s their mistake, not my failing.” — Richard P. Feynman_
@@ -11,6 +11,10 @@ modified: 2025-10-27T08:34:06
 > _“We all love ourselves more than other people, but care more about their opinion than our own.” — Marcus Aurelius_
 
 > _“If you know how quickly people forget the dead, you will stop living to impress people.” — Christopher Walken_
+
+---
+
+= 聚光燈效應
 
 ---
 
@@ -47,6 +51,25 @@ There are two big mistakes in life:
 
 1. Worrying about what other people think about you.
 2. Believing that other people think about you in the first place.
+
+---
+
+# 連續問自己五次「所以呢？」
+
+1. **察覺焦慮**：當你覺得被注視或擔心出糗時，先停下來。
+2. **問自己：「所以呢？」**
+
+	> 例如：「大家都在看我。」→「所以呢？」
+
+3. **回答真正的擔心**：
+
+	> 「他們會覺得我很奇怪。」
+
+4. **繼續問「所以呢？」**
+
+	 > 「所以呢？那又會怎樣？」→「可能他們只是一笑就忘了。」
+
+5. **重複五次**：每問一次「所以呢？」都會少掉一層焦慮，最後發現其實沒想像中嚴重。
 
 ---
 
