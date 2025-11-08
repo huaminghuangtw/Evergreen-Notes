@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-11-06T08:18:30
+modified: 2025-11-08T06:55:36
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -250,7 +250,7 @@ Judge a man by his questions rather than his answers.
 
 ---
 
-[Judge others by intentions, judge ourselves by actions](Judge%20others%20by%20intentions,%20judge%20ourselves%20by%20actions.md).
+[Judge others by intentions, judge ourselves by actions](judge-others-by-intentions-judge-ourselves-by-actions.md).
 
 ---
 
