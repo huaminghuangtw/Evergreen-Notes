@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-10-29T08:01:25
+modified: 2025-11-08T06:59:08
 ---
 
 > _“Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes_
@@ -94,7 +94,7 @@ If you tell yourself you can’t, you won’t. If you tell yourself you must, yo
 * There will never be anybody else in the world that can be as brutal to you as you can to yourself. You’re your worst enemy.
 * We tend to be our own biggest critic.
 * The voice in your head is your permanent roommate.
-* Next time you find yourself wanting to _criticize_ yourself for not [being great](Do%20great%20work.md), ask if you can instead _celebrate_ being [good enough](embrace-the-beauty-of-enoughness.md).
+* Next time you find yourself wanting to _criticize_ yourself for not [being great](do-great-work.md), ask if you can instead _celebrate_ being [good enough](embrace-the-beauty-of-enoughness.md).
 
 ---
 
@@ -114,7 +114,9 @@ Legendary UCLA basketball coach John Wooden recommended the following nine promi
 
 ---
 
-Victim Mentality: The 1980 Dartmouth Scar Experiment（傷痕實驗）
+[@kleckPerceptionsImpactNegatively1980]
+
+[Victim Mentality](https://www.sahilbloom.com/newsletter/the-victim-mentality-a-silent-killer-of-growth): The 1980 Dartmouth Scar Experiment（傷痕實驗）
 
 ---
 
