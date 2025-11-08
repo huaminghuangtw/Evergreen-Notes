@@ -1,7 +1,7 @@
 ---
 title: A mistake repeated more than once is a decision
 created: 2025-03-10T05:58:19
-modified: 2025-10-29T05:25:32
+modified: 2025-11-08T06:48:40
 ---
 
 > _“A man who has committed a mistake and doesn’t correct it, is committing another mistake.” — Confucius_
@@ -17,6 +17,8 @@ modified: 2025-10-29T05:25:32
 > _“Take chances, make mistakes, get messy!” — Ms. Frizzle_
 
 > _[“It doesn't matter if I don't succeed in something, what matters is that I learn from my mistakes.” — Linda Evans](https://www.brainyquote.com/authors/linda-evans-quotes)_
+
+> _“Never make a permanent mistake to solve a temporary problem.” ― Damon Suede, [Bad Idea](https://www.goodreads.com/work/quotes/26163619)_
 
 ---
 
