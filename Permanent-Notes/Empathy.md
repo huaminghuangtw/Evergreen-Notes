@@ -1,7 +1,7 @@
 ---
 title: Empathy
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-11-08T06:55:35
 ---
 
 > _“I do not ask the wounded person how he feels, I myself become the wounded person.” — Walt Whitman_
@@ -60,6 +60,6 @@ Remember: Every single person is fighting a battle you know nothing about. Every
 
 ---
 
-[Judge others by intentions, judge ourselves by actions](Judge%20others%20by%20intentions,%20judge%20ourselves%20by%20actions.md)
+[Judge others by intentions, judge ourselves by actions](judge-others-by-intentions-judge-ourselves-by-actions.md)
 
 [^1]: _“No one is crazy. Everyone has their own unique experience with how the world works. What seems crazy to you might make sense to me. We all make decisions based on our own unique experiences that seem to make sense to us in a given moment.” — [@houselPsychologyMoneyTimeless2020]_
