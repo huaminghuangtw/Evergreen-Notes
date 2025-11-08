@@ -1,7 +1,7 @@
 ---
 title: Perfectionism
 created: 2024-11-18T09:18:12
-modified: 2025-11-02T05:46:46
+modified: 2025-11-08T07:00:39
 ---
 
 > _“You don’t have to be great to start, but you have to start to be great.” — Zig Ziglar_
@@ -14,7 +14,7 @@ modified: 2025-11-02T05:46:46
 
 ---
 
-Perfect is the enemy of good. ([Good is the enemy of great.](Do%20great%20work.md))
+Perfect is the enemy of good. ([Good is the enemy of great.](do-great-work.md))
 
 ---
 
