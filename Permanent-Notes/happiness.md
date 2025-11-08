@@ -1,7 +1,7 @@
 ---
 title: Happiness
 created: 2024-11-18T09:18:12
-modified: 2025-11-07T08:41:02
+modified: 2025-11-08T06:55:57
 ---
 
 > _“Happiness is a state where nothing is missing.” — Naval Ravikant_
@@ -120,7 +120,7 @@ The ability to think about what is not happening in a moment is a cognitive achi
 # How Do You Tell If Someone’s Actually Happy In Life?
 
 * They’re happy for other people’s happiness.
-* Rarely put others down/criticize. They [assume positive intent of others](Always%20assume%20positive%20intents%20and%20intentions%20in%20others.md).
+* Rarely put others down/criticize. They [assume positive intent of others](always-assume-positive-intents-and-intentions-in-others.md).
 * Not on social media/not on their phone too much. Deeply present when you talk to them.
 
 ---
