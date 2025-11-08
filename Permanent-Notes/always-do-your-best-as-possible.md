@@ -1,7 +1,7 @@
 ---
 title: Always do your best as possible
 created: 2024-11-18T09:18:12
-modified: 2025-10-28T15:53:31
+modified: 2025-11-08T07:00:39
 ---
 
 > _“Inspire yourself to be great. Being good isn’t good enough.” — Gurbaksh Chahal_
@@ -47,7 +47,7 @@ Try to perform at the highest/most excellent level possible.
 
 ---
 
-Be [fanatic](https://www.merriam-webster.com/dictionary/fanatic) about / Get obsessed with being the [greatest/greatness](Do%20great%20work.md).
+Be [fanatic](https://www.merriam-webster.com/dictionary/fanatic) about / Get obsessed with being the [greatest/greatness](do-great-work.md).
 
 ---
 
