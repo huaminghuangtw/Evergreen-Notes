@@ -1,7 +1,7 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2025-11-05T08:20:39
+modified: 2025-11-08T06:52:57
 ---
 
 > _[“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)_
@@ -33,6 +33,10 @@ modified: 2025-11-05T08:20:39
 ---
 
 心理韌性/防禦力
+
+---
+
+Broken ≠ Beaten
 
 ---
 
