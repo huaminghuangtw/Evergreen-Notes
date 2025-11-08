@@ -1,7 +1,7 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2025-11-07T10:05:46
+modified: 2025-11-07T21:28:14
 ---
 
 > _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
@@ -39,6 +39,7 @@ Reasonable \> Rational
 * Making money is an action. Keeping money is behavior/habit. Growing money is knowledge/skill.
 * The proper financial mindset is to be scared enough to save for the short run and brave enough to invest for the long run.
 	* Mental Shift: Consumer(ism) → Producer/Creator/Owner/Investor
+* Earning more money increases freedom. Spending less than you earn reduces stress.
 
 # [Enough is enough](embrace-the-beauty-of-enoughness.md)
 
