@@ -1,7 +1,7 @@
 ---
 title: Never gossip about others
 created: 2025-02-20T10:08:47
-modified: 2025-10-27T08:34:06
+modified: 2025-11-08T06:55:36
 ---
 
 > _“Great minds discuss ideas; average minds discuss events; small minds discuss people.” — Eleanor Roosevelt_
@@ -28,4 +28,4 @@ Make a habit of praising people when they’re not around. This is one of the fa
 
 ---
 
-[Judge others by intentions, judge ourselves by actions](Judge%20others%20by%20intentions,%20judge%20ourselves%20by%20actions.md)
+[Judge others by intentions, judge ourselves by actions](judge-others-by-intentions-judge-ourselves-by-actions.md)
