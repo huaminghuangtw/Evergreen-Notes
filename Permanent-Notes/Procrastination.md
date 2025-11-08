@@ -1,7 +1,7 @@
 ---
 title: Procrastination
 created: 2024-11-18T09:18:12
-modified: 2025-10-29T05:19:49
+modified: 2025-11-07T21:29:53
 ---
 
 > _“To begin, begin.” — William Wordsworth_
@@ -102,6 +102,10 @@ Inspiration is perishable. Act IMMEDIATELY at the moment of inspiration. Follow 
 ---
 
 Solving the _problem of procrastination_ is solving the _problem of [getting started](just-getting-started.md) — getting started is the key factor for the other critical idea — _momentum_.
+
+---
+
+Motivation often increases after you begin. The lesson is not to wish you had more motivation, but to [make starting as easy as possible](always-start-small.md).
 
 You don’t find motivation to start; you need to start to find motivation. Motivation is a natural byproduct of movement. When in doubt, just start moving.
 
