@@ -1,7 +1,7 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2025-11-03T08:43:27
+modified: 2025-11-07T21:27:39
 ---
 
 > _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
@@ -40,11 +40,15 @@ Do the hard thing, because after doing it, you will feel that you can do anythin
 
 ---
 
+Difficult roads often lead to beautiful destinations.
+
+---
+
 [Do hard things that really matters; audacious ideas lead to true motivation.](https://blog.samaltman.com/what-i-wish-someone-had-told-me)
 
 ---
 
-Do hard things, but [don't make easy things hard.](work-smart.md)
+Do hard things, but [don’t make easy things hard.](work-smart.md)
 
 ---
 
