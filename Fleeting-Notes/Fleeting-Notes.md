@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-11-06T15:54:41
+modified: 2025-11-08T06:56:21
 ---
 
 Spend 30 minutes daily…
@@ -63,11 +63,3 @@ The Art of Negotiation: Letting the Other Side Go First
 ---
 
 Savor the little victories as much as you criticize the little mistakes. (Ali 書 p.177)
-
----
-
-[Revealing Questions](https://quarter--mile.com/Revealing-Questions)
-
----
-
-<https://www.sahilbloom.com/newsletter/the-victim-mentality-a-silent-killer-of-growth>
