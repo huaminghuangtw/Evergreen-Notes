@@ -1,7 +1,7 @@
 ---
 title: A friend to all is a friend to none
 created: 2024-11-18T09:18:12
-modified: 2025-10-28T18:12:34
+modified: 2025-11-08T06:53:33
 ---
 
 > _“A true friend never gets in your way unless you happen to be going down.” — Arnold H. Glasow_
@@ -29,6 +29,10 @@ It’s nearly impossible for the quality of your life to be higher than the qual
 ---
 
 The real gauge of friendship is how clean your house needs to be before they can come over.
+
+---
+
+Old friends remember who you were before you made yourself up.
 
 ---
 
