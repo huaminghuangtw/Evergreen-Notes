@@ -1,7 +1,7 @@
 ---
 title: Be a habit and routine machine
 created: 2024-11-18T09:18:12
-modified: 2025-11-01T08:06:42
+modified: 2025-11-08T16:53:50
 ---
 
 > _“We are what we repeatedly do every day. Excellence, then, is not an act, but a habit.” — Will Durant_
@@ -123,9 +123,9 @@ Golden Rule: Don’t resist craving, redirect it; keeping the cue and the reward
 
 “Cold turkey” refers to suddenly and completely stopping a habit or addiction, especially something like smoking, drinking, or drug use, _without tapering off (gradual quitting) or using substitutes._ It’s often used when someone decides to quit abruptly, with no gradual reduction or medical aid.
 
-  The phrase can also be used metaphorically, like: **“I went cold turkey on social media.”** Meaning the person quit all at once.
+	The phrase can also be used metaphorically, like: **“I went cold turkey on social media.”** Meaning the person quit all at once.
 
-  Quitting cold turkey can be effective but also intense, often leading to withdrawal symptoms depending on what’s being quit.
+	Quitting cold turkey can be effective but also intense, often leading to withdrawal symptoms depending on what’s being quit.
 
 [^1]: See also: [William James on Habit](https://fs.blog/william-james-on-habit/)
 [^2]: Most people overlook this one. (Mostly neglected)
