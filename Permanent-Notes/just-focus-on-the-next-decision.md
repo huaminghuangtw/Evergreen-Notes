@@ -1,7 +1,7 @@
 ---
 title: Just focus on the next decision
 created: 2024-11-18T09:18:12
-modified: 2025-11-02T17:54:15
+modified: 2025-11-09T14:21:42
 ---
 
 > _[“You are always just one good decision away from being in a better place tomorrow — just focus on the next decision.” — Sahil Bloom](https://www.sahilbloom.com/newsletter/information-action-gap-one-decision-away-more)_
@@ -30,7 +30,7 @@ Minimum Viable Action
 
 ---
 
-# The Bricklayer (Next Play) Mentality
+# [The Bricklayer (Next Play) Mentality](https://letter.visualgrowth.com/p/step)
 
 > _[“You don’t try to build a wall. You don’t start by saying, I’m going to build the biggest, baddest wall that’s ever been built. You say, I’m going to lay this brick as perfectly as a brick can be laid. You do that every single day, and soon you have a wall.” — Will Smith](https://www.youtube.com/watch?v=wIsgyIq_kFs&t=128s)_
 
