@@ -1,7 +1,7 @@
 ---
 title: Embrace the beauty of enoughness
 created: 2024-11-18T09:18:12
-modified: 2025-11-07T19:06:12
+modified: 2025-11-09T10:58:16
 ---
 
 > _「真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。」 — 沈芯菱_ [^1]
@@ -30,7 +30,9 @@ modified: 2025-11-07T19:06:12
 
 ---
 
-# [The Arrival Fallacy](The%20Arrival%20Fallacy.md)
+見好就收
+
+---
 
 “If I get [X], then I’ll be happy.” is a dangerous trap/mirage/fallacy.
 
@@ -61,7 +63,7 @@ The dose makes the poison. Some things are beneficial in small amounts but becom
 
 ---
 
-For everything in life, the answer always lies somewhere in the middle. Beyond a certain point, any additional amount can lead to diminishing or even negative returns. Be careful listening to extremists of either side. Too much of anything is harmful.
+For everything in life, the answer always lies somewhere in the middle. Beyond a certain point, any additional amount can lead to [diminishing or even negative returns](the-law-of-diminishing-returns.md). Be careful listening to extremists of either side. Too much of anything is harmful.
 
 ---
 
