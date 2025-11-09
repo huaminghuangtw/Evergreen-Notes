@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-11-08T06:59:08
+modified: 2025-11-09T08:24:44
 ---
 
 > _“Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes_
