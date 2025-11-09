@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-11-08T06:56:21
+modified: 2025-11-09T08:21:08
 ---
 
 Spend 30 minutes daily…
@@ -59,7 +59,3 @@ Whether someone is superior, a peer, or subordinate, treating them with deferenc
 saying no to bad ideas. The best phrase to close a deal is ‘That was brilliant. Let’s do that.’ Implementation is the key, not just agreement. Fake lesses won’t get you what you want. Make it the other side’s idea for effective implementation and saving time.
 
 The Art of Negotiation: Letting the Other Side Go First
-
----
-
-Savor the little victories as much as you criticize the little mistakes. (Ali 書 p.177)
