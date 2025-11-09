@@ -1,7 +1,7 @@
 ---
 title: URL_Schemes
 created: 2024-11-18T10:16:50
-modified: 2025-10-27T08:28:06
+modified: 2025-11-08T16:53:50
 ---
 
 URL Schemes (= [Deep Linking](https://en.wikipedia.org/wiki/Deep_linking) = [x-callback-url](https://x-callback-url.com/)) is a hyperlink that links to a specific, generally searchable or indexed, piece of web content on a website (e.g., “http://example.com/path/page”), rather than the website’s home page (e.g., “[http://example.com](http://example.com/)”)
@@ -21,8 +21,8 @@ URLs are structured as follows:
 	* Open shortcut: `shortcuts://open-shortcut?name=Shortcut%20Name`
 	* Create new shortcut: `shortcuts://create-shortcut`
 	* Run shortcut: `shortcuts://run-shortcut?name=Shortcut%20Name`
-	  * with clipboard as input: `shortcuts://run-shortcut?name=Shortcut%20Name&input=clipboard`
-	  * with text as input: `shortcuts://run-shortcut?name=Shortcut%20Name&input=Hi%20There`
+		* with clipboard as input: `shortcuts://run-shortcut?name=Shortcut%20Name&input=clipboard`
+		* with text as input: `shortcuts://run-shortcut?name=Shortcut%20Name&input=Hi%20There`
 * Apple Apps
 	* [Complete List of iOS URL Schemes for Apple Apps](https://medium.com/p/800c64f450f)
 * Third-Party Apps
