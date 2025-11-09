@@ -1,38 +1,38 @@
 ---
 title: Apple Shortcuts
 created: 2024-11-18T10:16:50
-modified: 2025-09-27T17:21:19
+modified: 2025-11-08T16:53:50
 ---
 
 [比較]
 
-  * iOS: Apple’s Shortcuts
-  * Android: Google’s Action Blocks
+	* iOS: Apple’s Shortcuts
+	* Android: Google’s Action Blocks
 
 Actions
 
-  * “Reveal Action” \& “Quick Look”
-  * “Take Screenshot” + “Extract Text from Image” (for OCR)
-  * Get Dictionary Value → Options: “Value”, “All Keys”, “All Values”
-	  * Often: “Choose from List” + “All Keys”
-		  * **Tip:** “Choose from List” can also be used for a “Dictionary”!
-			  * Get “Value” for “Chosen Item → _**Name**_” from “Dictionary”
-  * Get “Item” from List → Options: “First Item”, “Last Item”, \*“Random Item”, “Item at Index”, “Items in Range”
+	* “Reveal Action” \& “Quick Look”
+	* “Take Screenshot” + “Extract Text from Image” (for OCR)
+	* Get Dictionary Value → Options: “Value”, “All Keys”, “All Values”
+		* Often: “Choose from List” + “All Keys”
+			* **Tip:** “Choose from List” can also be used for a “Dictionary”!
+				* Get “Value” for “Chosen Item → _**Name**_” from “Dictionary”
+	* Get “Item” from List → Options: “First Item”, “Last Item”, \*“Random Item”, “Item at Index”, “Items in Range”
 	* \*Get random items from List
-	  * Single: “Get Item from List” → Choose “Random Item”
-	  * Multiple: “Filter Files” → Choose “Random” in “Sort by” → Enable “Limit” → Select the number of random items you want to get
-  * “Is Charging” v.s “Is Connected to Charger”
+		* Single: “Get Item from List” → Choose “Random Item”
+		* Multiple: “Filter Files” → Choose “Random” in “Sort by” → Enable “Limit” → Select the number of random items you want to get
+	* “Is Charging” v.s “Is Connected to Charger”
 	* Former: Is the device gaining battery charge?
 	* Latter: Is the device connected to a charger that at least is slowing down the rate the battery drains?
-	  * For Optimized Battery Charging: being connected to a charger but not charging
-  * “Add to Variable” → List
-	  * **Tip:** “Repeat with each item” + “Text” → “Repeat Results” is already a list of “Text”, not need to use “Add to Variable” for each iteration → simplify code!
-  * How to use Boolean variables?
+		* For Optimized Battery Charging: being connected to a charger but not charging
+	* “Add to Variable” → List
+		* **Tip:** “Repeat with each item” + “Text” → “Repeat Results” is already a list of “Text”, not need to use “Add to Variable” for each iteration → simplify code!
+	* How to use Boolean variables?
 	* Method I: Type = Boolean → `If "myBooleanVar"`
 	* Method II: Type = Text → `If "myBooleanVar" is Yes/No`
-  * ? “Run Script over SSH”
-  * ? “Get Contents of URL” → make webhook calls
-  * “Open X-Callback URL” (= [URL_Schemes](URL_Schemes.md))
+	* ? “Run Script over SSH”
+	* ? “Get Contents of URL” → make webhook calls
+	* “Open X-Callback URL” (= [URL_Schemes](URL_Schemes.md))
 	* Allow you to go beyond “Open App” in Shortcuts
 	* They are helpful in the Shortcuts app when the App itself doesn’t have any Shortcut Actions support available by default
 	* **Tip:** If you’d like to run one shortcut from another shortcut, use the `Run Shortcut` action instead of a URL scheme. You should only run shortcuts with a URL if you’re integrating from another app outside of Shortcuts
@@ -92,10 +92,10 @@ Actions
 
 Troubleshooting Tips
 
-  * Magic variables
-  * Time limitation: a running shortcut will only stay active for a short period of time (around 3 mins) when you are away from the Shortcuts application
-  * 如何透過 Siri 呼叫 “Ask for Input” (not just “Dictate Text”) 指令? Add “Dismiss Siri and Continue” in the very beginning
-  * “Export for Pushcut” Can’t Be Opened: Since iOS 13 any shortcut from an external link is considered “untrusted” by Apple. If you get this error, please go to Settings -> Shortcuts and check Allow Untrusted Shortcuts. You only need to do this once.
+	* Magic variables
+	* Time limitation: a running shortcut will only stay active for a short period of time (around 3 mins) when you are away from the Shortcuts application
+	* 如何透過 Siri 呼叫 “Ask for Input” (not just “Dictate Text”) 指令? Add “Dismiss Siri and Continue” in the very beginning
+	* “Export for Pushcut” Can’t Be Opened: Since iOS 13 any shortcut from an external link is considered “untrusted” by Apple. If you get this error, please go to Settings -> Shortcuts and check Allow Untrusted Shortcuts. You only need to do this once.
 
 Use “Get Images from Input” action to get Shortcut icon
 
