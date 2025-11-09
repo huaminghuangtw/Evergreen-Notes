@@ -1,7 +1,7 @@
 ---
 title: Self-compassion
 created: 2025-01-23T10:40:57
-modified: 2025-10-27T08:17:28
+modified: 2025-11-09T08:25:03
 ---
 
 > _“What you deny subdues you. What you accept transforms you.” — Carl Jung_
@@ -59,6 +59,10 @@ We just need to tweak the system rather than beating ourselves up.
 ---
 
 [I soothe myself by using a term of endearment in my head. Whenever I make a mistake, feel down, or get flustered, I gently tell myself, “It’s okay, sweetie.”](https://mariandrew.substack.com/p/100-things-i-know)
+
+---
+
+Savor the little victories as much as you criticize the little mistakes. You can focus on the small loses, or you can celebrate the small wins.
 
 ---
 
