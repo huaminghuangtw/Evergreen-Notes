@@ -1,7 +1,7 @@
 ---
 title: Boredom promotes creativity
 created: 2024-12-16T14:01:41
-modified: 2025-10-14T04:56:42
+modified: 2025-11-09T16:32:32
 ---
 
 [@talebBedProcrustesPhilosophical2016]
@@ -20,7 +20,7 @@ modified: 2025-10-14T04:56:42
 
 After observing that highly creative individuals like Einstein, Mozart, and da Vinci valued “free-floating periods of thought,” [@andreasenJourneyChaosCreativity2011] studied brain activity during idle moments.
 
-Surprisingly, the brain wasn’t idle at all but rather engaged in active processes. This state, called **Random Episodic Silent Thinking (R.E.S.T.)** or the **Default Mode Network (DMN)**, is when the brain actively seeks connections and forms associations, making sense of experiences.
+Surprisingly, the brain wasn’t idle at all but rather engaged in active processes. This state, called **Random Episodic Silent Thinking (R.E.S.T.)** or the **Default Mode Network (DMN) 預設模式網路** [@raichleDefaultModeBrain2001], is when the brain actively seeks connections and forms associations, making sense of experiences.
 
 DMN is best known for being active when a person is not focused on the outside world, engaged with doing mindless activities (such as _walking_, _running_, _bike riding_, _taking shower_ ,[^2] _driving_, _house cleaning_, _washing the dishes_, _hanging up the laundry_, _going to the grocery store_, _sitting on the beach/couch/sofa_, etc.), and the brain is at wakeful rest (such as during daydreaming and mind-wandering [^3]).
 
