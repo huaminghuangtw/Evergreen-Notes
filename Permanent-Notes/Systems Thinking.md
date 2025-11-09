@@ -1,7 +1,7 @@
 ---
 title: Systems Thinking
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:15:06
+modified: 2025-11-09T16:41:37
 ---
 
 > _“The whole is greater than the sum of its parts.” — Aristotle_
@@ -42,6 +42,21 @@ The Hermeneutic Circle describes a cyclical process of understanding where one�
 [Complex Systems Emerge From Iterations On Simple Designs](https://nav.al/iterate) by Naval Ravikant
 
 [Simple is beautiful](simple-is-beautiful.md)
+
+---
+
+# [More Is Different](https://doi.org/10.1126/science.177.4047.393)
+
+> Emergence: When complexity increases, new rules and patterns appear that are qualitatively different — and often unpredictable — compared to those at simpler levels.
+
+In [@andersonMoreDifferentBroken1972], physicist Philip W. Anderson argues that **reductionism** — the idea that all complex systems can be fully understood by studying their smallest parts — is **incomplete**. While understanding fundamental laws (like those of particle physics) is essential, each level of complexity in nature gives rise to entirely new behaviors and principles that cannot be predicted or explained by the lower levels alone.
+
+Anderson illustrates this with examples from physics:
+
+* The laws of **chemistry** cannot be derived straightforwardly from **particle physics**.
+* The behavior of **solids**, **superconductors**, or **living organisms** depends on **emergent properties** — collective phenomena that arise only when many components interact.
+
+He famously concludes that **“the whole becomes not only more, but very different from the sum of its parts.”**
 
 ---
 
