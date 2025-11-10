@@ -1,7 +1,7 @@
 ---
 title: Eat the biggest frog first thing in the morning
 created: 2024-12-04T17:55:24
-modified: 2025-11-03T14:37:10
+modified: 2025-11-10T15:39:58
 ---
 
 > _“Do one thing every day that scares you.” — Eleanor Roosevelt_
@@ -11,6 +11,10 @@ modified: 2025-11-03T14:37:10
 > _“The key is not to [prioritize](Prioritization.md) what’s on your schedule, but to schedule your priorities.” — Stephen Covey_
 
 > _[“If you don’t prioritize, everything seems urgent and important. If you define the single most important task for each day, almost nothing seems urgent or important. Oftentimes, it’s just a matter of letting (fires burn/) small little bad things happen (e.g., return a phone call late and apologize, pay a small late fee, lose an unreasonable customer, etc.) to get the big important things done. The answer to overwhelm is not spinning more plates—or doing more—it’s defining the few things that can really fundamentally change your business and life.” — Tim Ferriss](https://x.com/tferriss/status/1674772152589996034)_ [^1]
+
+---
+
+先吃青蛙，再吃蝌蚪。
 
 ---
 
@@ -24,7 +28,7 @@ First things first. Do the most important thing [^2] first, not the most urgent 
 
 ---
 
-[早上是一天當中最有精力、思路最清晰、心智能量最彙集/最強大的時刻](work-in-sprints-work-with-your-biology.md)，要用來做:
+[早上是一天當中最有精力、思路最清晰、心智能量最彙集/最強大的時刻](work-in-sprints-work-with-your-biology.md)，要用來做：
 
 * Things that genuinely matter to you.
 * Things that require lots of [brain power](do-not-use-your-willpower-unless-you-absolutely-have-to.md) (e.g., writing, coding).
@@ -45,13 +49,13 @@ First things first. Do the most important thing [^2] first, not the most urgent 
 5. Look only at the items you’ve answered “yes” to for at least one of these questions.
 6. Block out at least 2–3 hours to focus on ONE of them for today. Let the rest of the urgent but less important stuff slide. It will still be there tomorrow.
 	* TO BE CLEAR: Block out at least 2–3 HOURS to focus on ONE of them for today. This is ONE BLOCK OF TIME. Cobbling together 10 minutes here and there to add up to 120 minutes does not work.
-7. If you get [distracted](being-indistractable-is-superpower.md) or start [procrastinating](procrastination.md), [don’t freak out and downward spiral; just gently come back to your ONE to-do.](Self-compassion.md)
+7. If you get [distracted](being-indistractable-is-superpower.md) or start [procrastinating](procrastination.md), [don’t freak out and downward spiral; just gently come back to your ONE to-do.](~~self~~-compassion.md)
 
 ---
 
 # The Pickle Jar Theory（醃漬罐理論）
 
-The Pickle Jar Theory is a [time management](Time%20Management.md) technique that prioritizes tasks based on importance, using the analogy of fitting different-sized items (**rocks/boulders**, **pebbles**, and **sand**) into a jar to represent one’s daily schedule or time available.
+The Pickle Jar Theory is a [time management](time-management.md) technique that prioritizes tasks based on importance, using the analogy of fitting different-sized items (**rocks/boulders**, **pebbles**, and **sand**) into a jar to represent one’s daily schedule or time available.
 
 The idea is to start with the most important tasks / fill the jar with the biggest rock/boulders first, followed by medium-priority tasks (pebbles), and finally, less important tasks (sand).
 
