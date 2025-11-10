@@ -1,7 +1,7 @@
 ---
 title: The most productive people prioritize intentional rest
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-11-10T15:32:19
 ---
 
 > _“Rest until you feel like playing, then play until you feel like resting.” — Martha Beck_
@@ -77,7 +77,7 @@ Properly break in your breaks — no sneaky working.
 * Downtime improves our thinking.
 * Downtime refuels our mind.
 * Downtime amplifies our focus.
-* Downtime deserves [time management](Time%20Management.md) too.
+* Downtime deserves [time management](time-management.md) too.
 
 ---
 
@@ -173,7 +173,7 @@ The best way to rest is all about _feeling calm_. Or rather, CALM. Find an activ
 
 ---
 
-[The Reitoff Principle](The%20Reitoff%20Principle.md)
+[The Reitoff Principle](the-reitoff-principle.md)
 
 [^1]: Either doing _nothing_ or _unplanned energizing distractions / unrelated activities_
 [^2]: A brain state connected to levels of engagement
