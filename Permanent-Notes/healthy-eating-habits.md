@@ -1,7 +1,7 @@
 ---
 title: Healthy Eating Habits
 created: 2024-11-18T09:16:50
-modified: 2025-10-11T06:12:27
+modified: 2025-11-10T12:46:40
 ---
 
 Eating Better
@@ -9,6 +9,8 @@ Eating Better
 Your gut is your second brain.
 
 # 現代人的飲食習慣問題: 吃太好 \& 吃太多 (百病叢生的主因)
+
+> 「吃」所造成的問題遠多於「不吃」所造成的問題。
 
 * 一方面營養過剩 [^1]
 	* 造成體內毒素累積
