@@ -1,7 +1,7 @@
 ---
 title: How to live a life
 created: 2024-11-18T09:18:12
-modified: 2025-11-05T10:48:11
+modified: 2025-11-10T06:58:22
 ---
 
 > _“As long as you live, keep learning how to live.” — Seneca_
@@ -92,7 +92,7 @@ The goal of life isn’t to reach a destination, but to enjoy the journey itself
 
 You always have 3 options/choices in any circumstance/situation in life — that is:
 
-1. You can [accept it](Acceptance%20and%20Commitment%20Therapy.md). ([by changing your attitude toward it.](a-true-transformation-begins-with-a-mental-shift.md))
+1. You can [accept it](acceptance-and-commitment-therapy.md). ([by changing your attitude toward it.](a-true-transformation-begins-with-a-mental-shift.md))
 2. You can change it.
 3. You can leave it.
 
