@@ -1,7 +1,7 @@
 ---
 title: Energy Management
 created: 2024-11-18T09:18:12
-modified: 2025-10-29T05:23:26
+modified: 2025-11-10T15:32:19
 ---
 
 > _[“Your energy is currency. Spend it well. Invest it wisely. Use it Intentionally, consistently, and by your own design.” — Adrienne Bosh](https://x.com/MrsAdrienneBosh/status/988908563232796672)_
@@ -14,7 +14,7 @@ modified: 2025-10-29T05:23:26
 
 ---
 
-比 [時間管理](Time%20Management.md) 更重要！
+比 [時間管理](time-management.md) 更重要！
 
 > Don’t manage your time, manage your energy.
 
