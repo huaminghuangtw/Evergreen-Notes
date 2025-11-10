@@ -1,7 +1,7 @@
 ---
 title: Negative Thoughts & Emotions
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:20:09
+modified: 2025-11-10T07:01:42
 ---
 
 > _“You cannot prevent the birds of sorrow from flying over your head, but you can prevent them from building nests in your hair.” — Chinese Proverb_
@@ -70,7 +70,7 @@ Killing **ANTs (Automatic Negative Thoughts)**
 * MAGNIFICATION (CATASTROPHIZING) OR MINIMIZATION: You exaggerate the importance of things (such as your goof-up or someone else’s achievement), or you inappropriately shrink things until they appear tiny (your own desirable qualities or the other fellow’s imperfections). This is also called the “binocular trick.”
 * EMOTIONAL REASONING: You assume that your negative emotions necessarily reflect the way things really are: “I feel it, therefore it must be true.”
 	* How to overcome it?
-		* Utilizing relaxation techniques or [self-compassion](Self-compassion.md), such as “I am safe.”
+		* Utilizing relaxation techniques or [self-compassion](self-compassion.md), such as “I am safe.”
 		* Give yourself permission to feel anxious. Then remind yourself that it is just a feeling and that does not have to define your reality.
 * SHOULD STATEMENTS: You try to motivate yourself with shoulds and shouldn’ts, as if you had to be whipped and punished before you could be expected to do anything. “Musts” and “oughts” are also offenders. The emotional consequence is guilt. When you direct should statements toward others, you feel anger, frustration, and resentment.
 * PERSONALIZATION: You see yourself as me cause of some negative external event which in fact you were not primarily responsible for.”
