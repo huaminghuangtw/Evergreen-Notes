@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-11-09T08:21:08
+modified: 2025-11-10T14:33:58
 ---
 
 Spend 30 minutes daily…
@@ -27,7 +27,11 @@ Dr. Rhonda Patrick’s (@foundmyfitness) smoothie recipe for peak focus and perf
 
 Taurine helps regulate body temperature by increasing the rate at which sweat is produced, which is how the body cools itself.
 
+---
+
 The more your body heats up during a workout, the faster you fatigue. But if you could keep your body a little cooler, then you might be able to push harder or last longer during exercise.
+
+---
 
 Brand DNA Helix
 
@@ -59,3 +63,15 @@ Whether someone is superior, a peer, or subordinate, treating them with deferenc
 saying no to bad ideas. The best phrase to close a deal is ‘That was brilliant. Let’s do that.’ Implementation is the key, not just agreement. Fake lesses won’t get you what you want. Make it the other side’s idea for effective implementation and saving time.
 
 The Art of Negotiation: Letting the Other Side Go First
+
+---
+
+Illusory Truth Effect:
+
+It’s the tendency to believe false information after consistent, repeated exposures. In other words, if you’re told something over and over again, it takes root in your mind as a truth.
+
+
+---
+
+Chesterton's Fence -> Programmer Best Practice: Large Code Base
+	Never remove a fence until you know why it was there in the first place.
