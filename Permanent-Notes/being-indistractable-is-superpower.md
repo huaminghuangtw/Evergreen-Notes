@@ -1,7 +1,7 @@
 ---
 title: Being indistractable is superpower
 created: 2025-01-23T18:40:57
-modified: 2025-10-29T05:23:26
+modified: 2025-11-10T06:58:22
 ---
 
 Being indistractable is about doing what you say you’re going to do.
@@ -70,7 +70,7 @@ By redirecting potential distractions before they reach you, you preserve your w
 
 [@davisTwoAwesomeHours2015]
 
-[我們經常浪費時間和精力對抗大腦天生的漫遊傾向，責怪自己無法更專注，甚至視之為需要改進的缺點。再加上社會長期灌輸我們「白日夢是壞事」的觀念，使我們在發現自己走神時，往往會自責，甚至認為是懶惰的表現。](Acceptance%20and%20Commitment%20Therapy.md)
+[我們經常浪費時間和精力對抗大腦天生的漫遊傾向，責怪自己無法更專注，甚至視之為需要改進的缺點。再加上社會長期灌輸我們「白日夢是壞事」的觀念，使我們在發現自己走神時，往往會自責，甚至認為是懶惰的表現。](acceptance-and-commitment-therapy.md)
 
 事實上，心思漫遊其實是正常且有益的 — 當談及長時間保持專注時，我們的秘密武器並非自律或意志力，而是學會寬待自己。絕對的專注過於不自然，強迫自己專心往往適得其反。許多人因無法持續專注而感到挫折，試圖用意志力對抗分心，然而，科學研究顯示 [@wegnerParadoxicalEffectsThought1987]，這種做法反而會讓分心加劇。例如，當我告訴你：「不要想北極熊」，你的大腦是否立刻浮現北極熊的畫面？
 
@@ -82,9 +82,9 @@ By redirecting potential distractions before they reach you, you preserve your w
 
 # 練習察覺當下的想法，並且不加批判 [@davisTwoAwesomeHours2015]
 
-**「覺知注意（Mindfulness）」** 指的是讓思緒自然游移，[當我們發現心思飄遠時，不帶評價地察覺，然後溫和地將注意力帶回當下的感受](__temp__meditation.md)。你可以在閱讀時試試看 — 當發現自己分心，只需留意這個有趣的現象，然後輕柔地將注意力拉回到眼前的內容。
+**「覺知注意（Mindfulness）」** 指的是讓思緒自然游移，[當我們發現心思飄遠時，不帶評價地察覺，然後溫和地將注意力帶回當下的感受](meditation.md)。你可以在閱讀時試試看 — 當發現自己分心，只需留意這個有趣的現象，然後輕柔地將注意力拉回到眼前的內容。
 
-這是一種「[活在當下](live-in-the-present.md)」的練習 — [覺察自己](mastering-yourself-is-superpower.md)、他人以及周遭環境。[當我們意識到心思飄移，可以成為一個中立的觀察者，單純觀看思緒的流動，而不是責備自己分心。當我們不再因無法專注而感到沮喪或焦慮，就能更有效地將注意力帶回手邊的事務。](Acceptance%20and%20Commitment%20Therapy.md)
+這是一種「[活在當下](live-in-the-present.md)」的練習 — [覺察自己](mastering-yourself-is-superpower.md)、他人以及周遭環境。[當我們意識到心思飄移，可以成為一個中立的觀察者，單純觀看思緒的流動，而不是責備自己分心。當我們不再因無法專注而感到沮喪或焦慮，就能更有效地將注意力帶回手邊的事務。](acceptance-and-commitment-therapy.md)
 
 想像衝浪的情境：衝浪者划出海面後，會坐在衝浪板上，隨波浮沉，耐心等待最合適的浪潮。雖然他們可以追逐每一道浪，但為了最精彩的一刻，他們選擇放棄多數浪潮，只為捕捉那最「正點」的一波，帶來最刺激、最值得的一次衝浪。
 
