@@ -1,7 +1,7 @@
 ---
 title: Instant Gratification
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-11-10T15:32:19
 ---
 
 = Immediate Gratification = Cheap Dopamine
@@ -46,7 +46,7 @@ Temptation is an ever-present failure trigger.
 
 * [Make it a personal rule to never watch TV on your own—“It has to be a social activity, otherwise I'm not going to do it.”](https://aliabdaal.com/newsletter/my-rule-for-watching-tv/)
 * [Only enjoy desserts or sweets when sharing them with others—no indulging alone.](https://chengweihu.com/rules/)
-* Instead of mindlessly indulging in activities like playing video games or watching TV, schedule [^4] them into your calendar with [forethought](planning-and-preparation-help-maximize-your-productivity.md) and [intention](intentional-living.md). By planning these moments, you can enjoy them guilt-free, knowing they are part of your [recovery](the-most-productive-people-prioritize-intentional-rest.md) routine. The time you _plan_ to relax is never wasted. The time you _enjoy_ wasting is not a waste of time. Downtime deserves [time management](Time%20Management.md) too.
+* Instead of mindlessly indulging in activities like playing video games or watching TV, schedule [^4] them into your calendar with [forethought](planning-and-preparation-help-maximize-your-productivity.md) and [intention](intentional-living.md). By planning these moments, you can enjoy them guilt-free, knowing they are part of your [recovery](the-most-productive-people-prioritize-intentional-rest.md) routine. The time you _plan_ to relax is never wasted. The time you _enjoy_ wasting is not a waste of time. Downtime deserves [time management](time-management.md) too.
 * [Temptation Bundling](temptation-bundling.md)
 
 ---
