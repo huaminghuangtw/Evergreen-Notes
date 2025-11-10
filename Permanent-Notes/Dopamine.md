@@ -1,7 +1,7 @@
 ---
 title: Dopamine
 created: 2024-11-18T09:18:12
-modified: 2025-10-20T05:35:09
+modified: 2025-11-10T14:57:30
 ---
 
 > _“Persons with severe addictions are among those contemporary prophets that we ignore to our own demise, for they show us who we truly are. (重度成癮者是當代的預言家，不把他們當一回事，沒有好下場的是我們，因為他們反映的正是我們真實的面貌)” — Kent Dunnington_
@@ -89,7 +89,9 @@ Natural (Real) Dopamine (associated with [long-term thinking](delayed-gratificat
 
 ---
 
-# 多巴胺斷食法/數位排毒 (Dopamine/Technology/Digital Detox)
+# 數位排毒 (Technology/Digital Detox)
+
+> due to 數位中毒
 
 * Different Implementations
 	* Weekly
@@ -97,6 +99,7 @@ Natural (Real) Dopamine (associated with [long-term thinking](delayed-gratificat
 	* Daily
 		* **[The “No-Power” Hour:](Boredom%20promotes%20creativity.md)** Set a 60-minute block each day where you don’t use any electronic devices (phone, laptop, headphones) 📵.
 * Similar Concepts
+	* 多巴胺斷食/齋戒（Dopamine Fasting）
 	* Retreat
 	* Monk Mode
 	* Sakoku
