@@ -1,12 +1,10 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-11-09T08:24:44
+modified: 2025-11-10T10:20:06
 ---
 
 > _“Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes_
-
-> _We are what we believe we are.” — C.S. Lewis_
 
 > _“Talk to yourself like you talk to someone you love.” — Brené Brown_
 
@@ -24,9 +22,9 @@ modified: 2025-11-09T08:24:44
 
 ---
 
-> _“Doubt kills more dreams than failure ever will.” — Suzy Kassem_
+# The voice in your head is your permanent roommate.
 
-The most powerful word is the one you use to talk to yourself. The most important [conversations](How%20to%20make%20a%20conversation%20with%20anyone.md) you have in life are the ones you have with yourself. Make them positive and constructive. Negative self-talk is the biggest enemy. Don’t say something to yourself that you wouldn’t say to someone you love.
+The most powerful word is the one you use to talk to yourself. The most important [conversations](how-to-make-a-conversation-with-anyone.md) you have in life are the ones you have with yourself. Make them positive and constructive. Negative self-talk is the biggest enemy. Don’t say something to yourself that you wouldn’t say to someone you love.
 
 ---
 
@@ -46,7 +44,9 @@ Never say, I’ll never…
 
 > _“Just when you think it can’t get any worse, it can. And just when you think it can’t get any better, it can.” — Nicholas Spark_
 
-If you say you can. Yes, you can! If you say you can’t. Yes, you’re right!
+If you say you can. Yes, you can!
+
+If you say you can’t. Yes, you’re right!
 
 ---
 
@@ -80,7 +80,7 @@ So often, **it’s not [the sheer difficulty of achieving something](do-hard-thi
 Next time you catch yourself saying, “_I can’t…_” or “_I’m not the type of person who…_”, pause. Ask yourself:
 
 * Is this absolutely true?
-* Or is this something I’ve just come to believe?
+* Is this something I’ve just come to believe?
 * What would happen if I stopped arguing for this limitation?
 
 If you tell yourself you can’t, you won’t. If you tell yourself you must, you’ll find a way.
@@ -89,12 +89,12 @@ If you tell yourself you can’t, you won’t. If you tell yourself you must, yo
 
 ---
 
-# Self-criticism → [Self-compassion](Self-compassion.md)
+# Self-criticism → [Self-compassion](self-compassion.md)
 
 * There will never be anybody else in the world that can be as brutal to you as you can to yourself. You’re your worst enemy.
 * We tend to be our own biggest critic.
-* The voice in your head is your permanent roommate.
 * Next time you find yourself wanting to _criticize_ yourself for not [being great](do-great-work.md), ask if you can instead _celebrate_ being [good enough](embrace-the-beauty-of-enoughness.md).
+* Savor the little victories as much as you criticize the little mistakes. You can focus on the small loses, or you can celebrate the small wins.
 
 ---
 
@@ -104,9 +104,9 @@ Legendary UCLA basketball coach John Wooden recommended the following nine promi
 2. Promise yourself to make all your friends know there is something in them that is special and that you value.
 3. Promise yourself to think only of the best, to work only for the best, and to expect only the best in yourself and others.
 4. Promise yourself to be just as enthusiastic about the success of others as you are about your own.
-5. Promise yourself to be so strong that nothing can disturb your peace of mind.
-6. Promise yourself to forget the mistakes of the past and press on to greater achievements in the future.
-7. Promise yourself to wear a cheerful appearance at all times and give every person you meet a smile.
+5. Promise yourself to wear a cheerful appearance at all times and give every person you meet a smile.
+6. Promise yourself to be so strong that nothing can disturb your peace of mind.
+7. Promise yourself to forget the mistakes of the past and press on to greater achievements in the future.
 8. Promise yourself to give so much time to improving yourself that you have no time to criticize others.
 9. Promise yourself to be too large for worry, too noble for anger, too strong for fear, and too happy to permit trouble to press on you.
 
@@ -128,7 +128,7 @@ Legendary UCLA basketball coach John Wooden recommended the following nine promi
 
 ---
 
-[Acceptance and Commitment Therapy](Acceptance%20and%20Commitment%20Therapy.md)
+[Acceptance and Commitment Therapy](acceptance-and-commitment-therapy.md)
 
 ---
 
