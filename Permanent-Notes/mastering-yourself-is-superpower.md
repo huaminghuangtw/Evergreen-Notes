@@ -1,7 +1,7 @@
 ---
 title: Mastering yourself is superpower
 created: 2024-11-18T09:18:12
-modified: 2025-10-20T05:47:55
+modified: 2025-11-10T06:58:22
 ---
 
 > _“Knowing yourself is the beginning of all wisdom.” — Aristotle_
@@ -80,7 +80,7 @@ modified: 2025-10-20T05:47:55
 	5. [Skeptical doubt (indecisiveness)](overthinking.md)
 * How to remove these hindrances?
 	1. Recognize (what state of mind you’re in)
-	2. [Accept & Acknowledge](Acceptance%20and%20Commitment%20Therapy.md) (the situations and people to be the way as it is/they are)
+	2. [Accept & Acknowledge](acceptance-and-commitment-therapy.md) (the situations and people to be the way as it is/they are)
 		* Just let it rain
 	3. Investigate (your emotional & mental state)
 		* Observe the sensation and ask yourself:
