@@ -1,7 +1,7 @@
 ---
 title: Emotional Freedom
 created: 2025-05-10T06:27:40
-modified: 2025-11-05T16:55:30
+modified: 2025-11-10T06:58:22
 ---
 
 > _“Enlightenment is making friendship with the whole existence.” — Amit Ray_
@@ -64,11 +64,11 @@ modified: 2025-11-05T16:55:30
 	* Regularly notice your thoughts [without judgment](dispel-your-narratives.md). Say to yourself, “There’s a thought that…” to create separation.
 2. **Use mindfulness to stay grounded.**
 	* Anchor yourself in the [present moment](live-in-the-present.md) using your breath, body, or senses.
-	* [Meditation](__temp__meditation.md) is a helpful tool, but simple awareness throughout the day works too.
+	* [Meditation](meditation.md) is a helpful tool, but simple awareness throughout the day works too.
 3. **Ask: “Is this true?”**
 	* When a painful thought arises, question its validity. Often, you’ll find it’s just a story, not a fact.
 4. **Don’t resist emotions.**
-	* [Allow emotions to pass through you like waves, without suppressing or clinging to them.](Acceptance%20and%20Commitment%20Therapy.md)
+	* [Allow emotions to pass through you like waves, without suppressing or clinging to them.](acceptance-and-commitment-therapy.md)
 	* Labeling emotions (e.g., “This is anxiety”) helps reduce their intensity.
 5. **Write your thoughts down.**
 	* [Journaling](journaling.md) helps you see patterns and detach from negative thinking.
@@ -109,7 +109,7 @@ modified: 2025-11-05T16:55:30
 
 > _“What you resist, persists.” — Carl Jung_
 
-Resistance amplifies [negative emotions](negative-thoughts-and-emotions.md). [Acceptance](Acceptance%20and%20Commitment%20Therapy.md) diffuses them. It’s like quicksand: The more you fight, the deeper you sink. Observing the struggle [without judgment](dispel-your-narratives.md) creates mental space for solutions to emerge [naturally](wu-wei.md).
+Resistance amplifies [negative emotions](negative-thoughts-and-emotions.md). [Acceptance](acceptance-and-commitment-therapy.md) diffuses them. It’s like quicksand: The more you fight, the deeper you sink. Observing the struggle [without judgment](dispel-your-narratives.md) creates mental space for solutions to emerge [naturally](wu-wei.md).
 
 ---
 
