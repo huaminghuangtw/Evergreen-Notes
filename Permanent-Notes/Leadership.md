@@ -1,12 +1,12 @@
 ---
 title: Leadership
 created: 2025-01-23T10:40:57
-modified: 2025-10-05T16:41:42
+modified: 2025-11-10T08:33:24
 ---
 
 > _“To lead people, walk beside them.” — Lao Tzu_
 
-> _[“The way to help someone is not to critique what makes them smaller, but to encourage what makes them larger.” — James Clear](https://jamesclear.com/3-2-1/march-20-2025)_
+> _[“The way to help someone is not to critique what makes them smaller, but to encourage what makes them larger.” — James Clear](https://jamesclear.com/3-2-1/march-20-2025)_ [^1]
 
 > _“The greatest sign of success for a teacher is to be able to say, ‘The children are now working as if I did not exist.’ But this holds true for leadership in general—give people space and they flourish.” — Maria Montessori_
 
@@ -82,3 +82,5 @@ Think of a great leader like a captain of a ship: they make sure everyone is saf
 “I can afford to wait, because I trust myself and my tribe.”
 
 Insecure leaders rush to take first, fearing there’s not enough. Confident leaders **create abundance** by leading with stability and assurance.
+
+[^1]: _“We cannot teach people anything. We can only help them discover it within themselves.” — Galileo Galilei_
