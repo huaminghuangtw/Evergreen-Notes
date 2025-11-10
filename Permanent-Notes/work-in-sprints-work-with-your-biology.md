@@ -1,7 +1,7 @@
 ---
 title: Work in sprints, work with your biology
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T07:58:58
+modified: 2025-11-10T15:32:19
 ---
 
 > _“If you want to operate at maximum productivity, efficiency, and creativity, you’re going to work on things that you’re excited about at the moment you’re excited about them and accept nothing less. It is better to sit on your butt and do nothing than it is to work on things that you are not excited about.” — Naval Ravikant_
@@ -14,7 +14,7 @@ Humans are not machines.
 
 ---
 
-[能量/精力管理](energy-management.md) \> [時間管理](Time%20Management.md)
+[能量/精力管理](energy-management.md) \> [時間管理](time-management.md)
 
 Why?
 
