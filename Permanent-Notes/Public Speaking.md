@@ -1,7 +1,7 @@
 ---
 title: Public Speaking
 created: 2025-01-23T10:40:57
-modified: 2025-10-12T16:35:39
+modified: 2025-11-10T06:58:22
 ---
 
 ![](../_attachments/6c8f79badba8703f7e8f9c978dca4d9c.webp)
@@ -41,7 +41,7 @@ modified: 2025-10-12T16:35:39
 
 Feeling nervous before giving a talk on stage?
 
-_[Just sit with it, stay still, and realize that the feeling is valid.](Acceptance%20and%20Commitment%20Therapy.md)_ It’s an indicator that you really care about the thing you are about to do. That’s a privileged place to be.
+_[Just sit with it, stay still, and realize that the feeling is valid.](acceptance-and-commitment-therapy.md)_ It’s an indicator that you really care about the thing you are about to do. That’s a privileged place to be.
 
 ---
 
