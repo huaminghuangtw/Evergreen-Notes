@@ -1,7 +1,7 @@
 ---
 title: Healthy Eating Habits
 created: 2024-11-18T09:16:50
-modified: 2025-11-10T12:46:40
+modified: 2025-11-11T09:46:46
 ---
 
 Eating Better
@@ -72,6 +72,7 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 				2. make veggies brighter and fresher tasting
 			* Frozen Fruits \> Ice + Fresh Fruits
 			* [Placing heavier, frozen items on top of lighter ingredients helps weigh them down and gets the blend moving faster. This can also help prevent the blend from stalling.](https://www.vitamix.com/us/en_us/learn)
+* Paleo(lithic)/Caveman/Stone Age Diet
 
 ---
 
@@ -157,6 +158,7 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 	* Sugar/sweeteners can make you hungry
 		* Insulin resistance means the cells of the body can no longer sufficiently absorb sugar from the bloodstream
 		* As a results, more and more sugar are needed to achieve the same reward effect in the brain
+	* [代糖只是安慰劑，你的動脈正因吃糖在發炎｜科學人](https://www.scitw.cc/posts/20250414-18110)
 * Salt is sugar
 
 要注意種植方式
