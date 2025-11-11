@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-11-10T14:33:58
+modified: 2025-11-11T06:06:33
 ---
 
 Spend 30 minutes daily…
@@ -69,9 +69,3 @@ The Art of Negotiation: Letting the Other Side Go First
 Illusory Truth Effect:
 
 It’s the tendency to believe false information after consistent, repeated exposures. In other words, if you’re told something over and over again, it takes root in your mind as a truth.
-
-
----
-
-Chesterton's Fence -> Programmer Best Practice: Large Code Base
-	Never remove a fence until you know why it was there in the first place.
