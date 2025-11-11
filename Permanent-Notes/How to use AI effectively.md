@@ -1,8 +1,21 @@
 ---
 title: How to use AI effectively
 created: 2024-11-18T10:16:50
-modified: 2025-10-22T22:55:44
+modified: 2025-11-11T06:26:04
 ---
+
+On leveraging AI tools
+
+* AI tools are a force multiplier. <u>Not for code generation</u> ,[^1] but for (imo) the hardest part of software development: learning new things, and _applying them appropriately_.
+* A good LLM serves as a great groove-greaser / a productivity catalyst—helping you dive into focused work (e.g., boilerplates) or more informed research faster. It’s invaluable for filling in the gaps. [^2]
+* [AI tools are ironically way more useful for experienced devs than novices.](https://www.reddit.com/r/ExperiencedDevs/comments/1jzpzkm/ai_tools_are_ironically_way_more_useful_for)
+	* Bad programmer + AI = Lots of bad code
+	* Medium programmer + AI = Lots of medium code
+	* Great programmer + AI = Lots of great code
+* <u>Don’t use it solely to gather information</u>—treat it as a personalized learning companion/tutorial to explore ideas and deepen your understanding of key concepts. Be sure to take thoughtful notes along the way.
+* <u>Never consume “LLM copypasta” without scrutiny.</u>[^3] Always validate the information and think critically using your own understanding.
+
+> In my opinion, the biggest issue is the complete lack of problem-solving and debugging skills. The second is an over-reliance—you can’t do anything without it guiding you step by step.
 
 **[Getting Started with AI: Good Enough Prompting | One Useful Thing](https://www.oneusefulthing.org/p/getting-started-with-ai-good-enough)**
 
@@ -135,7 +148,7 @@ Basic Invitation Structure: _“Act as a \[ROLE\] perform \[TASK\] in \[FORMAT\]
 
 		* Helps in generating **more relevant** code
 		* Works well for boilerplate and repetitive tasks
-	* Use Copilot **as an assistant, not a replacement** :[^1] [^2]
+	* Use Copilot **as an assistant, not a replacement** :[^4] [^5]
 		* Still apply **your own coding knowledge**
 		* Use Copilot to explore **alternative solutions**
 		* Never **blindly accept** Copilot’s suggestions—review for:
@@ -152,5 +165,8 @@ Basic Invitation Structure: _“Act as a \[ROLE\] perform \[TASK\] in \[FORMAT\]
 	* [Reuse prompts with prompt files](https://code.visualstudio.com/docs/copilot/copilot-customization#_prompt-files-experimental)
 	* [Personalize/Customize Copilot with instruction files](https://code.visualstudio.com/docs/copilot/copilot-customization#_custom-instructions)
 
-[^1]: The intended roles AI should play: Treat it as a collaborative partner—an _assistant_, _co-worker_, _helper_, _coach_, or _adviser_—not a _contractor_ to whom you completely delegate your tasks and offload your responsibilities. <mark>It’s important to remember: What you outsource will _atrophy_.</mark> →「0 到 1」的突破仰賴人類的創造力，而 AI 工具則擅長將「1 到 100」的流程高效擴展。→「修潤，而非生成。」→ Surface knowledge is easy. Real knowledge still has to be earned.
-[^2]: The proper use of AI tools is to treat them like an intern or new grad hire. You can give them the work that none of the mid-tier or senior people want to do, thereby speeding up the team. But you will have to review their work thoroughly because there is a good chance they have no idea what they are actually doing. If you give them mission-critical work that demands accuracy or just let them have free rein without keeping an eye on them, it’s likely you are going to regret it.
+[^1]: Why? They often hallucinate confidently.（一本正經地胡說八道）
+[^2]: Most of a software engineer’s work doesn’t involve writing everything from scratch, but rather adapting new requirements into layers of code shaped by generations of other engineers. In these situations, what’s truly needed is patience—and a deep understanding of how others have built and thought through the system.”
+[^3]: Even when you copy code from elsewhere, you should always type it out manually. Why? It helps reinforce the syntax and structure in your mind. By physically typing the code, you engage more actively with it, which can lead to better understanding and retention.
+[^4]: The intended roles AI should play: Treat it as a collaborative partner—an _assistant_, _co-worker_, _helper_, _coach_, or _adviser_—not a _contractor_ to whom you completely delegate your tasks and offload your responsibilities. <mark>It’s important to remember: What you outsource will _atrophy_.</mark> →「0 到 1」的突破仰賴人類的創造力，而 AI 工具則擅長將「1 到 100」的流程高效擴展。→「修潤，而非生成。」→ Surface knowledge is easy. Real knowledge still has to be earned.
+[^5]: The proper use of AI tools is to treat them like an intern or new grad hire. You can give them the work that none of the mid-tier or senior people want to do, thereby speeding up the team. But you will have to review their work thoroughly because there is a good chance they have no idea what they are actually doing. If you give them mission-critical work that demands accuracy or just let them have free rein without keeping an eye on them, it’s likely you are going to regret it.
