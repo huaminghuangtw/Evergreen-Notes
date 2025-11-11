@@ -1,7 +1,7 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
 created: 2024-11-18T09:18:12
-modified: 2025-11-05T08:18:37
+modified: 2025-11-11T17:08:30
 ---
 
 > _“Your relationship with yourself sets the tone for every other relationship you have.” — Robert Holden_
@@ -40,9 +40,7 @@ Not thinking less of yourself, but thinking of yourself less. [^4]
 
 ---
 
-做自己的太陽，你就能當別人的光；讓自己發光，就能照亮別人。[如果你心中有願望，請看著天上的星星，對自己許願。](https://www.youtube.com/watch?v=_ziTd2w06xk&t=18m39s)
-
-> _「把自己活成一道光，因爲你不知道，誰會藉著你的光，走出了黑暗。」— 印度詩人泰戈爾_
+用力地把自己活成一道光，因爲你不知道，誰會藉著你的光，走出了黑暗。做自己的太陽，就能當別人的光；讓自己發光，就能照亮別人。[如果你心中有願望，請看著天上的星星，對自己許願。](https://www.youtube.com/watch?v=_ziTd2w06xk&t=18m39s)
 
 > _[“There are two ways of spreading light: to be the candle or the mirror that reflects it.” — Edith Wharton](https://www.brainyquote.com/quotes/edith_wharton_100511)_
 
