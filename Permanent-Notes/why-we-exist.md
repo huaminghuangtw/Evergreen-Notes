@@ -1,7 +1,7 @@
 ---
 title: Why we exist?
 created: 2024-11-18T09:18:12
-modified: 2025-11-03T18:22:34
+modified: 2025-11-11T06:05:01
 ---
 
 > _[“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)_
@@ -116,7 +116,7 @@ Successful people don’t have a career, they have a mission. Most of them are t
 
 ---
 
-[Elder v.s Elderly](Elder%20v.s%20Elderly.md)
+[Elder v.s Elderly](elder-vs-elderly.md)
 
 ---
 
