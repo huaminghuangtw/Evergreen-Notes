@@ -1,10 +1,12 @@
 ---
 title: Mastering yourself is superpower
 created: 2024-11-18T09:18:12
-modified: 2025-11-10T06:58:22
+modified: 2025-11-12T15:47:53
 ---
 
 > _“Knowing yourself is the beginning of all wisdom.” — Aristotle_
+
+> _“The more you know yourself, the better your relationship with the rest of the world.” — Esther Perel_
 
 > _“Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power.” — Lao Tzu, Tao Te Ching_
 
