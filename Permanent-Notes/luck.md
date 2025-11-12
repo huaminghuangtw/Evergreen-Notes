@@ -1,7 +1,7 @@
 ---
 title: Luck
 created: 2024-11-18T09:18:12
-modified: 2025-10-28T20:13:29
+modified: 2025-11-12T05:58:10
 ---
 
 > _“Diligence is the mother of good luck.” — Benjamin Franklin_
@@ -37,7 +37,7 @@ modified: 2025-10-28T20:13:29
 
 # How To Increase Your Luck Surface Area?
 
-Luck = randomness × readiness
+Luck = Randomness × Readiness
 
 1. Expose yourself to more randomness.
 2. Be prepared to act on those opportunities when they present themselves.
