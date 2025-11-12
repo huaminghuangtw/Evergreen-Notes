@@ -1,7 +1,7 @@
 ---
 title: A man who is a master of patience is master of everything else
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:05:02
+modified: 2025-11-12T15:47:01
 ---
 
 > _[“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)_
@@ -11,6 +11,8 @@ modified: 2025-10-27T08:05:02
 > _“Don’t aim at success. The more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue.”_
 
 > _“The first step toward patience is to become aware of when your internal dialogue is running wild and dragging you with it. The second step in creating patience is understanding and accepting that there is no such thing as reaching a point of perfection in anything.” ― Thomas M. Sterner, [The Practicing Mind: Bringing Discipline and Focus into Your Life](https://www.goodreads.com/work/quotes/326331)_
+
+> _“Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.” — John Quincy Adams_
 
 ---
 
