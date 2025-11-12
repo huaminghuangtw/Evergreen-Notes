@@ -1,7 +1,7 @@
 ---
 title: Instant Gratification
 created: 2024-11-18T09:18:12
-modified: 2025-11-10T15:32:19
+modified: 2025-11-12T06:37:18
 ---
 
 = Immediate Gratification = Cheap Dopamine
@@ -56,4 +56,4 @@ Temptation is an ever-present failure trigger.
 [^1]: The human brain evolved for _survival_, not _rationality_.
 [^2]: 聲、光、影效果的刺激
 [^3]: [Binge Eating Disorder](https://www.google.com/search?q=Binge+Eating+Disorder) = Consuming large quantities/amount of food in a short period of time, feeling unable to stop eating, until uncomfortably full → typically followed by feelings of guilt, shame, and distress.
-[^4]: [Time Blocking / Timeboxing](Time%20Blocking.md) (「與自己開會的時間」)
+[^4]: [Time Blocking / Timeboxing](time-blocking.md) (「與自己開會的時間」)
