@@ -1,7 +1,7 @@
 ---
 title: Walk
 created: 2024-11-18T09:16:50
-modified: 2025-11-10T12:44:41
+modified: 2025-11-11T17:29:44
 ---
 
 > _“A walk in nature walks the soul back home.” — Mary Davis_
