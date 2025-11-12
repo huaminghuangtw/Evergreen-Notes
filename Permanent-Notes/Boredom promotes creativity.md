@@ -1,7 +1,7 @@
 ---
 title: Boredom promotes creativity
 created: 2024-12-16T14:01:41
-modified: 2025-11-09T16:32:32
+modified: 2025-11-12T16:50:26
 ---
 
 [@talebBedProcrustesPhilosophical2016]
@@ -50,6 +50,12 @@ For Warren Buffett, it’s a much more important practice to take the time for _
 Your most creative moments come during bouts of boredom. Experiencing [regular periods of boredom](solitude.md) is a competitive advantage. When you’re bored, your mind [wanders](wander.md), and creative insight (洞察力) strikes.
 
 Boredom is a filter. Common ideas come before it. Uncommon ideas come after it. Stay with a project long enough to get bored with it, and then push yourself even further. The most valuable insights often bubble up after you get bored.
+
+---
+
+JK Rowling came up with the idea for Harry Potter while waiting for a train.
+
+> _“[A few years later in 1990, after moving to London, I was sitting on a delayed train back home from Manchester when suddenly I had the idea of a boy wizard who went to wizarding school. Harry Potter and Hogwarts came out of nowhere in the most physical rush of excitement, and ideas came teeming into my head.]([https://stories.jkrowling.com/my-story](https://stories.jkrowling.com/my-story))”_
 
 [^1]: “wait-and-see mode”
 [^2]: Shower Thoughts: Shower is an idea incubator. Keep [Aqua Notes](https://www.myaquanotes.com/) ready.
