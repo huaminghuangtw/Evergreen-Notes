@@ -1,7 +1,7 @@
 ---
 title: The Law of Diminishing Returns
 created: 2025-11-09T08:52:54
-modified: 2025-11-09T16:18:07
+modified: 2025-11-12T16:41:37
 ---
 
 ![](https://images.prismic.io/sketchplanations/6b64ffe3-b891-4838-989c-a5e0f6d66bce_SP+642+-+Law+of+diminishing+returns+-+revised.png?auto=format%2Ccompress&fit=max&w=640)
@@ -32,3 +32,7 @@ modified: 2025-11-09T16:18:07
 ---
 
 「水和鑽石的悖論」 by 經濟學家 Adam Smith
+
+---
+
+Example: The first time someone uses a drug, it often produces intense pleasure. But with repeated use, each additional dose provides less euphoria than the one before. Over time, the same amount of the drug may only bring a person back to their normal baseline, while between doses they feel worse than before. Because each use gives progressively smaller rewards, people often take more and more of the drug to chase the initial high—this cycle of diminishing returns can lead to [addiction](addiction-is-not-about-pleasure-its-about-escape.md).
