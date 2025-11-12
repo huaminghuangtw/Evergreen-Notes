@@ -1,7 +1,7 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2025-11-07T21:28:14
+modified: 2025-11-12T16:53:49
 ---
 
 > _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
@@ -133,6 +133,7 @@ Reasonable \> Rational
 	> _“Money absolutely can buy happiness. It’s often though an indirect path. A big fancy house? Maybe. But what really makes you happy is hosting friends and family there. A nice vacation? Sure. But it’s the memories you form with your loved ones that matter. So you can’t say money doesn’t make people happy—it does, just not in the way you might think.” — Morgan Housel_
 
 * Spending can be a representation of how hard you’ve worked and how much stress went into earning your pay check.
+* [“Nothing you will do in your lifetime, realistically, will waste more money than buying a new car. It’s the single worst financial decision millennials will ever make.”](https://www.reddit.com/r/Frugal/comments/9wfs73/selfmade_millionaire_buying_a_new_car_is_the/)
 * The best uses of money are those that create one of four things in your life: **Time**, **Experiences**, **Purpose**, or **Health**.
 
 	> _[“I try to keep in mind that there are two ways to use money. One is as a tool to live a better life. The other is as a yardstick of success to measure yourself against other people. The first is quiet and personal, the second is loud and performative. It’s so obvious which leads to a happier life.” — Morgen Housel](https://collabfund.com/blog/quiet-compounding/)_
