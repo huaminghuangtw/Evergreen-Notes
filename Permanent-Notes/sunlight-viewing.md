@@ -1,7 +1,7 @@
 ---
 title: Sunlight Viewing
 created: 2024-11-18T09:18:12
-modified: 2025-11-10T10:40:25
+modified: 2025-11-11T17:29:44
 ---
 
 # View Morning Sunlight
@@ -27,8 +27,6 @@ modified: 2025-11-10T10:40:25
 
 * After sunset and in the hours before bedtime, opt for **dim, low-positioned** lights, such as table lamps, instead of overhead lights.
 	* This low ambient light supports natural melatonin production and makes it easier to fall asleep.
-
-
 
 [^1]: Leave the house for a morning walk/getting natural sunlight in the eyes/retinas as soon as possible after waking
 [^2]: Trying to do this through a windshield or window won’t work; too many of the relevant wavelengths are filtered out.
