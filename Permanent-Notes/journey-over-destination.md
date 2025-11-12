@@ -1,7 +1,7 @@
 ---
 title: Journey over destination
 created: 2024-11-18T09:18:12
-modified: 2025-10-30T06:57:13
+modified: 2025-11-12T05:56:35
 ---
 
 > _“To travel is to be alive, but to get somewhere is to be dead.” — Alan Watts_
@@ -120,7 +120,7 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 
 ![](../_attachments/6e29ddafb0cf36ac8feca32a4f35bff0.jpg)
 
-* Instead of treating your goals like [to-do list](Variants%20of%20to-do%20list.md) items, try turning them into quests (= a journey, an adventure toward a specific mission or a goal).
+* Instead of treating your goals like [to-do list](variants-of-to-do-list.md) items, try turning them into quests (= a journey, an adventure toward a specific mission or a goal).
 * Goals are practical attempts to change your circumstances/situations. A quest is personally transformative – the endeavor itself shapes _who you are (your identity)_ and _what you’re capable of (your potential)_.
 
 ---
