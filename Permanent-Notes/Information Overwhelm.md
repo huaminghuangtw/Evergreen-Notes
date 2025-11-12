@@ -1,7 +1,7 @@
 ---
 title: Information Overwhelm
 created: 2024-11-18T09:18:12
-modified: 2025-10-29T16:11:50
+modified: 2025-11-12T05:53:00
 ---
 
 > _“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” ― T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654)_
@@ -45,7 +45,7 @@ modified: 2025-10-29T16:11:50
 * The Laundry Cycle Mentality
 	* Think about the areas of your life where you are placing unnecessary pressure on yourself to have everything in a “completed” state, e.g., to-read pile (Read-It-Later → Never-Read-It).
 	* Perhaps that area is better viewed as a RIVER than as a BUCKET — as a cycle, not a fixed state.
-* Build a [note-taking habit](note-taking.md) and an [idea-capturing system](idea%20capture%20inbox.md)
+* Build a [note-taking habit](note-taking.md) and an [idea-capturing system](idea-capture-inbox.md)
 * Consume less. [Reflect/Review](reflect-and-review.md) or [Create/Produce/Make/Build](creativity-is-just-connecting-things.md) More.
 	* Embrace [Low Information Diet](Low%20Information%20Diet.md) to avoid the “[Mental Squeeze Point](https://notes.linkingyourthinking.com/Cards/Mental+Squeeze+Point)”
 	* Spend more time _connecting dots (convergent exploiting)_ than you do _collecting them (divergent exploring)_
