@@ -1,7 +1,7 @@
 ---
 title: The Reitoff Principle
 created: 2024-11-18T09:18:12
-modified: 2025-11-10T10:20:43
+modified: 2025-11-11T17:29:44
 ---
 
 [by Ali Abdaal](https://aliabdaal.com/newsletter/the-reitoff-principle-for-productivity/)
@@ -14,9 +14,8 @@ Give yourself full permission to take a break on days when you know you won’t 
 
 ---
 
-
 Press the pause button
 
 ---
 
-It's ok to [rest](the-most-productive-people-prioritize-intentional-rest.md) and refill your cup without guilt.
+It’s ok to [rest](the-most-productive-people-prioritize-intentional-rest.md) and refill your cup without guilt.
