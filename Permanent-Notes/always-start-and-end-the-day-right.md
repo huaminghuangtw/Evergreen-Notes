@@ -1,7 +1,7 @@
 ---
 title: Always start and end the day right
 created: 2025-01-23T10:40:57
-modified: 2025-10-27T08:22:15
+modified: 2025-11-12T05:56:35
 ---
 
 > _“Every morning in Africa, a gazelle wakes up, it knows it must outrun the fastest lion or it will be killed. Every morning in Africa, a lion wakes up. It knows it must run faster than the slowest gazelle, or it will starve. It doesn’t matter whether you’re the lion or a gazelle-when the sun comes up, you’d better be running.” — Christopher McDougall_
@@ -97,7 +97,7 @@ Every morning, you naturally wake up in a flow zone—your brain operates at the
 
 ## The Only Thing You Need For A Productive Morning
 
-The key to a productive morning is preparation the night before. Your [to-do list](Variants%20of%20to-do%20list.md) should be ready before you sleep—waiting until morning to plan means you’re already too late. _Today’s to-do list is for tomorrow._
+The key to a productive morning is preparation the night before. Your [to-do list](variants-of-to-do-list.md) should be ready before you sleep—waiting until morning to plan means you’re already too late. _Today’s to-do list is for tomorrow._
 
 A little [planning, preparation](planning-and-preparation-help-maximize-your-productivity.md), and visualization is a small nightly habit that pays major dividends.
 
