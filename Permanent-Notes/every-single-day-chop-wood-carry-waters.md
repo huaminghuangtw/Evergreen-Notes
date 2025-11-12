@@ -1,7 +1,7 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2025-10-28T08:28:13
+modified: 2025-11-11T20:28:31
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -37,6 +37,10 @@ Persistence can change failure into extraordinary achievement
 ---
 
 專心致志 \>\>\> 聰明才智
+
+---
+
+只有累積，沒有奇蹟。
 
 ---
 
