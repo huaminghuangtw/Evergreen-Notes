@@ -1,7 +1,7 @@
 ---
 title: Journaling
 created: 2024-11-18T09:18:12
-modified: 2025-09-25T16:12:11
+modified: 2025-11-12T05:56:35
 ---
 
 > _“Create an environment where you’re free to express what you’re afraid to express.” — Rick Rubin_
@@ -84,7 +84,7 @@ E.g., feelings, emotions, thoughts, memories, special moments/occasions/events
 * “Homework For Life” by Matthew Dicks
 	* Write down those “story-worthy” moments that happened during the day. Save the beautiful life memories. One day, those memories might save you.
 * [“Interstitial Journaling (間歇式/流水帳式日記)” by Tony Stubblebine](https://betterhumans.pub/replace-your-to-do-list-with-interstitial-journaling-to-increase-productivity-4e43109d15ef)
-	* Combines _[note-taking](note-taking.md)_, [to-do lists](Variants%20of%20to-do%20list.md), and _time tracking_ in one unique workflow.
+	* Combines _[note-taking](note-taking.md)_, [to-do lists](variants-of-to-do-list.md), and _time tracking_ in one unique workflow.
 		* Similar to [The “Done List”](https://www.oliverburkeman.com/donelist) [^2]
 			* During your day, [journal every time you transition from one work project to another](https://plaintext-productivity.net/2-09-work-journal.html). Write a few sentences in your journal about _what you just did_, and then a few more sentences about what _you’re about to do_.
 			* The times between work projects (i.e., when you take breaks) are the interstitial moments when you should write in a journal.
