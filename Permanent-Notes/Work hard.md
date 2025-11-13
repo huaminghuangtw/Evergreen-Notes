@@ -1,7 +1,7 @@
 ---
 title: Work hard
 created: 2024-11-18T09:16:50
-modified: 2025-10-28T17:52:14
+modified: 2025-11-13T14:48:45
 ---
 
 > _“Without ambition one starts nothing. Without work one finishes nothing. The prize will not be sent to you. You have to win it.” — Ralph Waldo Emerson_
@@ -40,5 +40,11 @@ Humans tend to have an expectation that…
 
 * they will be justly rewarded and praised for all of their hard work and sacrifice.
 * there will be a reward in the end if they sacrifice enough, work hard enough, and struggle hard enough that.
+
+---
+
+Work as hard as you can, but don't forget to rest with the same intensity.
+
+![](Pasted%20image%2020251113144844.png)
 
 [^1]: 眼高，也要手高
