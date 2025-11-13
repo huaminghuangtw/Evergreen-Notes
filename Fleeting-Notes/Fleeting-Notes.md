@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-11-12T05:58:55
+modified: 2025-11-13T05:23:28
 ---
 
 Spend 30 minutes daily…
@@ -26,10 +26,6 @@ Dr. Rhonda Patrick’s (@foundmyfitness) smoothie recipe for peak focus and perf
 ---
 
 Taurine helps regulate body temperature by increasing the rate at which sweat is produced, which is how the body cools itself.
-
----
-
-The more your body heats up during a workout, the faster you fatigue. But if you could keep your body a little cooler, then you might be able to push harder or last longer during exercise.
 
 ---
 
@@ -66,27 +62,23 @@ The Art of Negotiation: Letting the Other Side Go First
 
 ---
 
-Illusory Truth Effect:
-
-It’s the tendency to believe false information after consistent, repeated exposures. In other words, if you’re told something over and over again, it takes root in your mind as a truth.
-
-
----
-
 the television series Yellowstone
 
 In the scene, Travis (played by show creator Taylor Sheridan) is offering advice to Jimmy, an aspiring rodeo competitor:
 
 Travis: So why do you do it?
-​
-Jimmy: I don't know, I like the lights, I like the crowd, I like the...they f\*cking like me.
-​
-Travis: What about the horses? Do you like them?...
-​
-Let me tell you something, Jimmy. To be any good at this game...you gotta do it for the horse.
-​
-And where you're goin, a horse is going to be your only f\*cking friend and you two are going to have to figure it the f\*ck out.
-​
-And that's all cowboyin' is...
-​
-**It's you and a horse, doing a job, trying like hell to not let the other down.**
+
+Jimmy: I don’t know, I like the lights, I like the crowd, I like the…they f\*cking like me.
+
+Travis: What about the horses? Do you like them?…
+
+Let me tell you something, Jimmy. To be any good at this game…you gotta do it for the horse.
+
+And where you’re going, a horse is going to be your only f\*cking friend and you two are going to have to figure it the f\*ck out.
+
+And that’s all cowboyin’ is…
+
+**It’s you and a horse, doing a job, trying like hell to not let the other down.**
+
+---
+
