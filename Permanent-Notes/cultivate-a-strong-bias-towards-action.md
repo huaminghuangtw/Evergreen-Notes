@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2025-10-29T05:19:49
+modified: 2025-11-13T07:08:59
 ---
 
 > _“To be is to do.” — Immanuel Kant_
@@ -240,6 +240,15 @@ Roosevelt’s deeper point is this:
 > After thinking for a moment, the boy bent down, picked up another starfish and threw it into the ocean.
 >
 > Then, he turned to the old man and said, “Well, I made a difference to that one.”
+
+---
+
+> Those who wait for the perfect idea rarely move; those who act, even imperfectly, invite better ideas to emerge. [Open the door.](https://quarter--mile.com/Open-the-Door)
+
+* Slack started as an internal chat tool for a video game that never took off.
+* Twitter began as a side project within a company called Odeo.
+
+Neither came from waiting for the perfect idea—they were born from action.
 
 [^1]: _“The professional learns to recognize envy-driven criticism and to take it for what it is: the supreme compliment. The critic hates most that which he would have done himself if he had had the guts.” ― Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
 [^2]: _“The artist cannot look to others to validate his efforts or his calling. If you don’t believe me, ask Van Gogh, who produced masterpiece after masterpiece and never found a buyer in his whole life.” ― Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
