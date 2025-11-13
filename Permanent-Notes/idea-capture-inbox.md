@@ -1,7 +1,7 @@
 ---
 title: Idea Capture Inbox
 created: 2024-11-18T09:18:12
-modified: 2025-11-12T16:55:14
+modified: 2025-11-12T20:16:12
 ---
 
 > _Every composer knows the anguish and despair occasioned by forgetting ideas which one had no time to write down. ― Hector Berlioz_
@@ -24,7 +24,7 @@ modified: 2025-11-12T16:55:14
 * The cost of digital storage is very cheap.
 * Our brain is made for generating/having ideas, not keeping/holding/storing them. (我們的大腦是用來作出思考和判斷的，它並不擅長用來儲存信息。)
 	* ~~Keep X in mind~~, ~~Remember X~~
-	* 藉由隨時將想法、心情寫下來，清空/梳理大腦 (Brain Dump / Cognitive Offloading)，才能處理當下的思考與判斷，並檢視自己的「迷思 (myth)」和「盲點 (blind spot)」
+	* 藉由隨時將想法、心情寫下來（或存放在任何可信任的外部系統），清空/梳理大腦 (Brain Dump / Cognitive Offloading)，才能處理當下的思考與判斷，並檢視自己的「迷思 (myth)」和「盲點 (blind spot)」
 
 # How?
 
