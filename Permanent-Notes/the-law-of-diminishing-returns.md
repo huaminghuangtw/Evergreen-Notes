@@ -1,7 +1,7 @@
 ---
 title: The Law of Diminishing Returns
 created: 2025-11-09T08:52:54
-modified: 2025-11-12T16:41:37
+modified: 2025-11-12T18:04:14
 ---
 
 ![](https://images.prismic.io/sketchplanations/6b64ffe3-b891-4838-989c-a5e0f6d66bce_SP+642+-+Law+of+diminishing+returns+-+revised.png?auto=format%2Ccompress&fit=max&w=640)
