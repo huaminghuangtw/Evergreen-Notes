@@ -1,12 +1,14 @@
 ---
 title: Abandon your ego
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:05:09
+modified: 2025-11-13T11:23:03
 ---
 
 > _“Showing off is the fool’s idea of glory.” — Bruce Lee_
 
 > _“The main cause of our unhappiness is that we identify so strongly with the ego.” — Tenzin Palmo_
+
+> _“More people would learn from their mistakes if they weren’t so busy denying them.” — Harold J. Smith_
 
 ---
 
