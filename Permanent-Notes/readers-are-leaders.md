@@ -1,7 +1,7 @@
 ---
 title: Leaders are readers
 created: 2024-11-18T09:18:12
-modified: 2025-11-03T13:07:32
+modified: 2025-11-13T05:22:11
 ---
 
 > _“Man is what he reads.” — Joseph Brodsky_
@@ -71,7 +71,7 @@ modified: 2025-11-03T13:07:32
 			* changed me at a deep level
 			* “shaked” my view of the world → “View Quake”
 			* opened up my mind to something new
-			* given me many ['aha!' moments](The%20Eureka%20Effect.md)
+			* given me many ['aha!' moments](the-eureka-effect.md)
 	* Reread/Revisit your favorite books annually (or at different points in the lifetime)
 		* Reading one book deeply is more impressive than reading 100 books quickly.
 		* Savor the important stuff as you will find more resonance or pick up new ideas by seeing things from different perspectives: focus on points that resonate with you.
