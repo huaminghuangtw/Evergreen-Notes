@@ -1,7 +1,7 @@
 ---
 title: Advice
 created: 2024-11-18T09:16:50
-modified: 2025-11-04T20:07:16
+modified: 2025-11-13T11:51:37
 ---
 
 > _“The thing I’ve learned over the years about advice is that no one can accurately predict the future, but we all think we can. So advice at its best is one person’s limited perspective of the infinite possibilities before you. People’s advice is based on their fears, their experiences, their prejudices, and at the end of the day, their advice is just that: it’s theirs, not yours. When people give you advice, they’re basing it on what they would do, what they can perceive, on what they think you can do. But the bottom line is, while yes, it is true that we are all subject to a series of universal laws, patterns, tides, and currents—all of which are somewhat predictable—you are the first time you’ve ever happened. YOU and NOW are a unique occurrence, of which you are the most reliable measure of all the possibilities.” ― Will Smith_
@@ -34,6 +34,8 @@ Instead of giving advice, try asking (good) questions first. People will often r
 
 > I am not a fool, but I respect your sincerity in asking my advice. I ask you though, in listening to what I say, to remember that all advice can only be a product of the man who gives it. _**What is truth to one may be disaster to another.**_ I do not see life through your eyes, nor you through mine. _**If I were to attempt to give you specific advice, it would be too much like the blind leading the blind.**_
 
+Start and end all of your advice with a [disclaimer](https://quarter--mile.com/Disclaimer).
+
 # On Receiving/Taking Advice
 
 > _“Instead of seeking feedback, you’re better off asking for advice. Feedback tends to focus on how well you did last time. Advice shifts attention to how you can do better next time.” ― Adam Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
@@ -44,7 +46,9 @@ Instead of giving advice, try asking (good) questions first. People will often r
 
 It’s better to take advice from someone who understands why they failed than from someone who misunderstands why they succeeded.
 
-Selfish people should listen to advice to be more selfless, selfless people should listen to advice to be more selfish. → Whenever you receive advice, consider its **opposite** as well. You might be filtering out the advice you need most.
+When someone gives you a recommendation, a piece of advice, or tells you what you “need” to do, **[consider the opposite](https://quarter--mile.com/Consider-the-Opposite)** as well. Pause and ask yourself: what would the complete opposite look like—and could that also make sense? You might be filtering out the advice you need most.
+
+* Selfish people should listen to advice to be more selfless, selfless people should listen to advice to be more selfish.
 
 The point of seeking advice isn’t to follow it blindly but to enhance your clarity of thought. Advice is often rooted in the giver’s unique experiences, values, and goals, which may not align with your own. People give guidance from what works for them. It may or may not apply to you. This is particularly true for online advice, where blog posts and articles reflect the writer’s perspective and lifestyle, often without context about your situation. They have no idea about you. There’s no guarantee that what works for them will also work for you. Without the opportunity to question causality or critically filter the advice, it risks becoming mental clutter, occupying your mind and to-do list without being meaningfully internalized.
 
@@ -62,6 +66,8 @@ Be careful WHO you’re getting advice from.
 	* take advice from the person who hasn’t done the thing you want to do.
 	* listen to the opinions of those that haven’t achieved what you want to achieve.
 	* take opinions from people on the sideline (**including family and friends**). [^1]
+
+Be cautious about giving too much weight to advice simply because it comes from someone who has been alive on this planet longer than you. Age doesn’t always equate to wisdom. Longevity doesn’t guarantee insight. Don’t mistake years for wisdom.
 
 When some one gives you advice, sandbox it and ask:
 
