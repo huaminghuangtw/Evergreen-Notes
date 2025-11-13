@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-11-10T10:20:06
+modified: 2025-11-13T05:24:51
 ---
 
 > _“Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes_
@@ -133,5 +133,9 @@ Legendary UCLA basketball coach John Wooden recommended the following nine promi
 ---
 
 [The Growth Mindset](the-growth-mindset.md)
+
+---
+
+[Illusory Truth Effect](illusory-truth-effect.md)
 
 [^1]: Or: “I will try.”, “I need help.”
