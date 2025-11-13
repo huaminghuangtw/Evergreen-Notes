@@ -1,7 +1,7 @@
 ---
 title: A mistake repeated more than once is a decision
 created: 2025-03-10T05:58:19
-modified: 2025-11-08T06:48:40
+modified: 2025-11-13T11:22:44
 ---
 
 > _“A man who has committed a mistake and doesn’t correct it, is committing another mistake.” — Confucius_
@@ -20,6 +20,10 @@ modified: 2025-11-08T06:48:40
 
 > _“Never make a permanent mistake to solve a temporary problem.” ― Damon Suede, [Bad Idea](https://www.goodreads.com/work/quotes/26163619)_
 
+> _“Learn from the mistakes of others. You can never live long enough to make them all yourself.” — Groucho Marx_ [^1]
+
+> _“More people would learn from their mistakes if they weren’t so busy denying them.” — Harold J. Smith_
+
 ---
 
 Once is a mistake. Twice is a choice. Three times is a decision.
@@ -35,3 +39,5 @@ Your goal is not to avoid making mistakes, but to [avoid making the _same_ mista
 ---
 
 A [failure](failing-forward-turns-setbacks-into-stepping-stones.md) is not always a mistake, it may simply be the best one can do under the circumstances. The real mistake is to [stop trying](Fear%20of%20Failure%20and%20Success.md). Every single failure is a lesson. It only becomes real failure if you learn nothing from it.
+
+[^1]: 「以銅為鏡，可以正衣冠；以史為鏡，可以知興替；以人為鏡，可以明得失」— 唐太宗
