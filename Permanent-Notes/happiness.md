@@ -1,7 +1,7 @@
 ---
 title: Happiness
 created: 2024-11-18T09:18:12
-modified: 2025-11-08T06:55:57
+modified: 2025-11-13T05:22:53
 ---
 
 > _“Happiness is a state where nothing is missing.” — Naval Ravikant_
@@ -11,6 +11,8 @@ modified: 2025-11-08T06:55:57
 > _“Happiness is a perfume you cannot pour on others without getting a few drops on yourself.” — Ralph Waldo Emerson_
 
 > _“You will never be happy if you continue to search for what happiness consists of.” — Albert Camus_
+
+> _“The search for happiness is one of the chief sources of unhappiness.” — Eric Hoffer_
 
 > _“As soon as we wish to be happier, we are no longer happy.” — Walter Landor_
 
