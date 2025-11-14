@@ -1,7 +1,7 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-11-14T05:47:25
 ---
 
 > _“Glory is fleeting, but obscurity is forever.” — Napoleon Bonaparte_
@@ -76,6 +76,25 @@ The Two Side of Our Natures, which are at war with each other. We happen to live
 | motto is “success”                                                                    | motto is “love, redemption, and return”                                                                                                                                                                                                                                                                                                                               |
 | run by external/economic logic: _input leads to output_, _risk leads to reward,_ etc. | run by internal/inverse/moral logic: _you have to give in order to receive_, _you have to surrender to something outside yourself in order to gain strength within yourself_, _you have to conquer the desire in order to get what you want_, _you have to forget yourself in order to fulfill yourself_, _you have to lose yourself in order to find yourself_, etc. |
 | built by building your strength | built by fighting your weaknesses                                                                                      |                                                                                                                                                                                                                                                                                                                                                                       |
+
+---
+
+In a [scene](https://www.youtube.com/watch?v=-Do1ALVm9qk&t=1m16s) from the television series _[Yellowstone](https://www.imdb.com/title/tt4236770/)_, Travis gives Jimmy a piece of hard-earned advice drawn from years on the rodeo circuit:
+
+> Travis: So why do you do it?
+>
+> Jimmy: I don’t know, I like the lights, I like the crowd, I like the…they f\*cking like me.
+>
+> Travis: What about the horses? Do you like them?…
+>
+> Let me tell you something, Jimmy. To be any good at this game…you gotta do it for the horse.
+>
+> And where you’re going, a horse is going to be your only f\*cking friend and you two are going to have to figure it the f\*ck out.
+>
+> And that’s all cowboyin’ is…
+>
+> **It’s you and a horse, doing a job, trying like hell to not let the other down.**
+
 
 ---
 
