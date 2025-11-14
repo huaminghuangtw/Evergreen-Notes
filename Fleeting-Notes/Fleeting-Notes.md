@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-11-13T05:23:28
+modified: 2025-11-14T05:46:54
 ---
 
 Spend 30 minutes daily…
@@ -59,26 +59,3 @@ Whether someone is superior, a peer, or subordinate, treating them with deferenc
 saying no to bad ideas. The best phrase to close a deal is ‘That was brilliant. Let’s do that.’ Implementation is the key, not just agreement. Fake lesses won’t get you what you want. Make it the other side’s idea for effective implementation and saving time.
 
 The Art of Negotiation: Letting the Other Side Go First
-
----
-
-the television series Yellowstone
-
-In the scene, Travis (played by show creator Taylor Sheridan) is offering advice to Jimmy, an aspiring rodeo competitor:
-
-Travis: So why do you do it?
-
-Jimmy: I don’t know, I like the lights, I like the crowd, I like the…they f\*cking like me.
-
-Travis: What about the horses? Do you like them?…
-
-Let me tell you something, Jimmy. To be any good at this game…you gotta do it for the horse.
-
-And where you’re going, a horse is going to be your only f\*cking friend and you two are going to have to figure it the f\*ck out.
-
-And that’s all cowboyin’ is…
-
-**It’s you and a horse, doing a job, trying like hell to not let the other down.**
-
----
-
