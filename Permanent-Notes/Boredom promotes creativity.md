@@ -1,7 +1,7 @@
 ---
 title: Boredom promotes creativity
 created: 2024-12-16T14:01:41
-modified: 2025-11-12T16:50:26
+modified: 2025-11-14T12:39:06
 ---
 
 [@talebBedProcrustesPhilosophical2016]
@@ -55,7 +55,7 @@ Boredom is a filter. Common ideas come before it. Uncommon ideas come after it. 
 
 JK Rowling came up with the idea for Harry Potter while waiting for a train.
 
-> _“[A few years later in 1990, after moving to London, I was sitting on a delayed train back home from Manchester when suddenly I had the idea of a boy wizard who went to wizarding school. Harry Potter and Hogwarts came out of nowhere in the most physical rush of excitement, and ideas came teeming into my head.]([https://stories.jkrowling.com/my-story](https://stories.jkrowling.com/my-story))”_
+> _“[A few years later in 1990, after moving to London, I was sitting on a delayed train back home from Manchester when suddenly I had the idea of a boy wizard who went to wizarding school. Harry Potter and Hogwarts came out of nowhere in the most physical rush of excitement, and ideas came teeming into my head.](https://stories.jkrowling.com/my-story#:~:text=A%20few%20years%20later%20in%E2%80%AF1990%2C%20after%20moving%20to%20London%2C%20I%20was%20sitting%20on%20a%20delayed%20train%20back%20home%20from%20Manchester%20when%20suddenly%20I%20had%20the%20idea%20of%20a%20boy%20wizard%20who%20went%20to%20wizarding%20school.%20Harry%20Potter%20and%20Hogwarts%20came%20out%20of%20nowhere%20in%20the%20most%20physical%20rush%20of%20excitement%2C%20and%20ideas%20came%20teeming%20into%20my%20head.)”_
 
 [^1]: “wait-and-see mode”
 [^2]: Shower Thoughts: Shower is an idea incubator. Keep [Aqua Notes](https://www.myaquanotes.com/) ready.
