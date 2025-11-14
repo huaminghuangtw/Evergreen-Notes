@@ -1,19 +1,19 @@
 ---
 title: Productivity
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:18:52
+modified: 2025-11-14T15:43:02
 ---
 
 > _“Productivity is most important for things you don’t want to be doing. Most people want to increase productivity so they can spend less time on the task. But before you worry about being more productive, think about being more selective. Rather than focusing on increasing productivity, it may be worth asking, ‘What would I be delighted to spend time on, even if it went slowly?’ Direct your energy toward figuring out how to start what you want to do rather than thinking about how to shorten what you don’t want to do.” — James Clear_
 
-> _“Productivity isn’t really about getting more things done, it’s mostly about learning to [enjoy the journey](journey-over-destination.md) — because when we’re having fun with things we’re doing, then productivity takes care of itself.” — Ali Abdaal_
+> _“Productivity isn’t really about getting more things done, it’s mostly about learning to [enjoy the journey](journey-over-destination.md) — because when we’re having fun with things we’re doing, then productivity takes care of itself.” — Ali Abdaal_ [^1]
 
 ---
 
 Productivity is about…
 
 * living each moment to its fullest
-* minimizing waste [^1]
+* minimizing waste [^2]
 * spending time with intent(ionality)
 * using our time in a way that’s intentional, effective and enjoyable
 * doing _something_, but not _everything_
@@ -26,11 +26,11 @@ Productivity is not only a _measure of [efficiency](what-you-work-on-is-far-more
 
 Productivity
 
-= (_High-Quality Output_ / Time Spent) [^2] × Fun Factor
+= (_High-Quality Output_ / Time Spent) [^3] × Fun Factor
 
 = (_Time Spent × **Intensity** of [Focus](focus-is-about-saying-no.md)_ / Time Spent) × Fun Factor
 
-= _**Intensity**_ of [Focus](focus-is-about-saying-no.md) × Fun Factor [^3]
+= _**Intensity**_ of [Focus](focus-is-about-saying-no.md) × Fun Factor [^4]
 
 ---
 
@@ -38,7 +38,7 @@ Fill your day with hope and face it with joy. Do bold things with a pleasant and
 
 ---
 
-❗Toxic Productivity / Productivity Porn [^4]❗
+❗Toxic Productivity / Productivity Porn [^5]❗
 
 Hot take: Most “productivity” tools are actually “[procrastination](procrastination.md)” tools in disguise.
 
@@ -78,7 +78,8 @@ There are two synergistic approaches for increasing productivity that are invers
 
 [What you work on is far more important than how productively you work](what-you-work-on-is-far-more-important-than-how-productively-you-work.md)
 
-[^1]: Productivity can be redefined as minimizing waste in various aspects of life, such as time, energy, attention, ideas, and one’s potential. → [Lean Thinking](https://www.google.com/search?q=Lean+Thinking)
-[^2]: Increased productivity is creating more value in less time. It’s about getting the _right_ things done, not the _most_ things done. The goal isn’t to generate prolific _output_, but to generate prolific _output per unit input_. It’s about the leverage on your input.
-[^3]: It’s not about the number of hours you put in. It’s about the _quality_ of those hours.
-[^4]: Productivity porn refers to the obsession with consuming content and strategies about productivity rather than actually being productive. It tricks you into feeling productive when in reality you didn’t actually do anything productive. By focusing on the appearance of being productive (e.g., perfect planners, aesthetic workspaces), individuals may neglect the actual work that drives results or moves the needle. Productivity porn creates an endless loop of preparation. This term highlights how people often spend time reading books, watching videos, or engaging with tools and systems about productivity instead of applying these methods in practice. The abundance of advice can overwhelm users, making it harder to choose and stick to a single approach, leading to frustration and decision fatigue.
+[^1]: *“[One way to instantly gain a competitive edge is to work on things that genuinely interest you. The person who is having fun has a better chance of winning because they are more likely to stick with it when things get challenging. If it felt like a hassle from the start, you’re likely to quit as soon as things get tough. But if you’ve been having fun the whole time, you’re better positioned to work through the hard parts.” — James Clear](https://jamesclear.com/3-2-1/november-13-2025)*
+[^2]: Productivity can be redefined as minimizing waste in various aspects of life, such as time, energy, attention, ideas, and one’s potential. → [Lean Thinking](https://www.google.com/search?q=Lean+Thinking)
+[^3]: Increased productivity is creating more value in less time. It’s about getting the _right_ things done, not the _most_ things done. The goal isn’t to generate prolific _output_, but to generate prolific _output per unit input_. It’s about the leverage on your input.
+[^4]: It’s not about the number of hours you put in. It’s about the _quality_ of those hours.
+[^5]: Productivity porn refers to the obsession with consuming content and strategies about productivity rather than actually being productive. It tricks you into feeling productive when in reality you didn’t actually do anything productive. By focusing on the appearance of being productive (e.g., perfect planners, aesthetic workspaces), individuals may neglect the actual work that drives results or moves the needle. Productivity porn creates an endless loop of preparation. This term highlights how people often spend time reading books, watching videos, or engaging with tools and systems about productivity instead of applying these methods in practice. The abundance of advice can overwhelm users, making it harder to choose and stick to a single approach, leading to frustration and decision fatigue.
