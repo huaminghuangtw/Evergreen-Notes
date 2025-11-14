@@ -1,7 +1,7 @@
 ---
 title: Work hard
 created: 2024-11-18T09:16:50
-modified: 2025-11-13T14:48:45
+modified: 2025-11-13T16:31:45
 ---
 
 > _“Without ambition one starts nothing. Without work one finishes nothing. The prize will not be sent to you. You have to win it.” — Ralph Waldo Emerson_
@@ -43,7 +43,7 @@ Humans tend to have an expectation that…
 
 ---
 
-Work as hard as you can, but don't forget to rest with the same intensity.
+Work as hard as you can, but don’t forget to rest with the same intensity.
 
 ![](Pasted%20image%2020251113144844.png)
 
