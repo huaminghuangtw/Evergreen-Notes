@@ -1,7 +1,7 @@
 ---
 title: Choose your response
 created: 2025-01-23T10:40:57
-modified: 2025-10-29T16:26:57
+modified: 2025-11-15T08:27:23
 ---
 
 > _“How we decide to respond to our fears, that is the person we become.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
@@ -12,7 +12,7 @@ modified: 2025-10-29T16:26:57
 
 > _“When things go wrong, don’t go with them.” — Elvis Presley_
 
-> _“How people treat you is their [karma](Life%20is%20cyclic.md); how you react is yours.” — Dr. Wayne Dyer_
+> _“How people treat you is their [karma](life-is-cyclic.md); how you react is yours.” — Dr. Wayne Dyer_
 
 > _“If we are all going to be destroyed by an atomic bomb, let that bomb when it comes find us doing sensible and human things-praying, working, teaching, reading, listening to music, bathing the children, playing tennis, chatting to our friends over a pint and a game of darts—not huddled together like frightened sheep and thinking about bombs. They may break our bodies (a microbe can do that) but they need not dominate our minds.” — C.S. Lewis_ [^1]
 
