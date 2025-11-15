@@ -1,7 +1,7 @@
 ---
 title: Have the courage to do the right things
 created: 2024-12-08T00:37:07
-modified: 2025-11-04T20:38:06
+modified: 2025-11-15T16:50:17
 ---
 
 > _“The opposite of love is not hate, it’s indifference. The opposite of art is not ugliness, it’s indifference. The opposite of faith is not heresy, it’s indifference. And the opposite of life is not death, it’s indifference.” — Elie Wiesel_
@@ -32,7 +32,7 @@ Wrong is wrong even when everybody is doing it. Right is right even when nobody 
 >
 > In conclusion, the opposite of any positive thing is indifference, while hate, ugliness, heresy, death, etc, are just examples of outcomes of indifference.
 
-[Duality versus Polarity](duality-vs-polarity.md)
+[Duality & Polarity](duality-vs-polarity.md)
 
 ---
 
