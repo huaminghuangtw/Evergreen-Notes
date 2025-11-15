@@ -1,7 +1,7 @@
 ---
 title: Do great work
 created: 2024-11-18T09:18:12
-modified: 2025-10-28T17:59:43
+modified: 2025-11-15T13:26:00
 ---
 
 > _“Good is the enemy of great.” — [@collinsGoodGreatWhy2001]_
