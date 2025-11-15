@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-11-14T05:46:54
+modified: 2025-11-15T16:23:25
 ---
 
 Spend 30 minutes daily…
@@ -33,8 +33,6 @@ Brand DNA Helix
 
 Digitalization of Reputation
 
-The Farmer & The Horse Parable maybe story cyclic judgement
-
 People buy with emotions, but justify with reasoning.
 
 false [scarcity](https://www.goodreads.com/book/show/17286670-scarcity) like timing can be misleading and create distrust. Funnel can create true scarcity.
@@ -59,3 +57,22 @@ Whether someone is superior, a peer, or subordinate, treating them with deferenc
 saying no to bad ideas. The best phrase to close a deal is ‘That was brilliant. Let’s do that.’ Implementation is the key, not just agreement. Fake lesses won’t get you what you want. Make it the other side’s idea for effective implementation and saving time.
 
 The Art of Negotiation: Letting the Other Side Go First
+
+---
+
+[Understanding stress with a glass of water.](https://youtu.be/RGTfEfVcMqA)
+
+---
+
+The absolute weight of the glass doesn't matter. It depends on how long I hold onto it.
+​
+If I hold it for a minute, nothing happens. If I hold it for an hour, my arm will begin to ache. If I hold it all day long, my arm will feel numb and paralyzed.
+​
+Well, the weight of the glass hasn't changed, but the longer I hold onto it, the heavier it becomes.
+The students lean in, and the professor continues with the deeper lesson:
+
+The stresses and the worries of life are like this glass of water.
+​
+If you think about them for a little while, there's no problem. Think about it for a little bit longer, it begins to hurt. If you think about them all day long, you'll feel paralyzed, incapable of doing anything.
+​
+Always remember: Put the glass down.
