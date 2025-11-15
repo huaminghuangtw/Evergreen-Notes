@@ -1,7 +1,7 @@
 ---
 title: Death
 created: 2024-11-18T09:18:12
-modified: 2025-11-05T08:42:24
+modified: 2025-11-15T09:16:01
 ---
 
 > _“The free man thinks of death, least of all things.” — Benedict Spinoza_
@@ -108,7 +108,7 @@ To avoid these mistakes, [Paul Graham](https://paulgraham.com/todo.html) inverte
 4. Cultivate friendships
 5. Be happy
 
-Takeaway: [The biggest regrets aren't about _failing_; they're about _not trying at all_.](https://youtu.be/RcYv5x6gZTA) No one ever said: “_I wish I hadn’t tried so many things._” or “_I wish I hadn’t been so adventurous with my life._” on their deathbed. More often than not, people regret the chances they didn’t take, the dreams they set aside, and the experiences they were too afraid to pursue.
+Takeaway: [The biggest regrets aren't about _failing_; they're about _not trying at all_.](https://youtu.be/RcYv5x6gZTA) No one ever said: “_I wish I hadn’t tried so many things._” [^4] or “_I wish I hadn’t been so adventurous with my life._” on their deathbed. More often than not, people regret the chances they didn’t take, the dreams they set aside, and the experiences they were too afraid to pursue.
 
 Remarks: Through history, people have gone back into their own pasts, sometime to a precious, unstructured time in their life, and often, the mind gravitates in the past to a moment of shame, some sin of anger/self-pity committed, some act of selfishness, an act of omission/shallowness, a lack of courage.
 
@@ -167,3 +167,4 @@ Remarks: Through history, people have gone back into their own pasts, sometime t
 [^1]: **The Regret Minimization Framework:** The goal is to minimize the number of _regrets_, _[remorse (懊悔; 悔恨; 自責)](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%B9%81%E4%BD%93/remorse)_, and “_acts of omission (the act of not including something or someone that should have been included)_” in life.
 [^2]: None of them is “_I wish I had earned more money._”
 [^3]: [20 years from now, the only people who will remember that you worked late are your kids](https://www.reddit.com/r/antiwork/comments/12uz90c/psa_20_years_from_now_the_only_people_who_will/)
+[^4]: [We’re all headed towards certain death](https://www.youtube.com/watch?v=zWH_9VRWn8Y&feature=youtu.be&t=49s). Why stop trying?
