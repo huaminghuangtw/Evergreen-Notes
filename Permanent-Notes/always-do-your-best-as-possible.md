@@ -1,7 +1,7 @@
 ---
 title: Always do your best as possible
 created: 2024-11-18T09:18:12
-modified: 2025-11-08T07:00:39
+modified: 2025-11-15T12:59:36
 ---
 
 > _“Inspire yourself to be great. Being good isn’t good enough.” — Gurbaksh Chahal_
@@ -11,6 +11,10 @@ modified: 2025-11-08T07:00:39
 > _“Victory is in having done your best. If you’ve done your best, you’ve won.” — Billy Bowerman_
 
 > _“Whatever you do, strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.” — Benjamin Mays_
+
+---
+
+↔ 半調子
 
 ---
 
@@ -55,7 +59,7 @@ Become so good that no one can ignore you.
 
 ---
 
-# Plan-a Thinking
+# Plan-A Thinking
 
 Never settle/compromise for the second best. Having a back-up plan (Plan-B), or even considering one, has been shown to hinder performance and reduce motivation to hit your primary goal.
 
