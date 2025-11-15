@@ -1,8 +1,10 @@
 ---
 title: What Success Means To Me
 created: 2024-11-18T09:18:12
-modified: 2025-10-29T05:25:32
+modified: 2025-11-15T16:36:10
 ---
+
+> _“The road to success is always under construction.” — Steve Harvey_
 
 > _[“Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable. And you're the only one that will know that.” — John Wooden](https://www.youtube.com/watch?v=JWQIxuNGdvQ&t=95s)_
 
