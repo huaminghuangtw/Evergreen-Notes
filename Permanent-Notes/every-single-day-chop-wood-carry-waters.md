@@ -1,7 +1,7 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2025-11-11T20:28:31
+modified: 2025-11-15T16:35:42
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -109,7 +109,7 @@ Doing a thing once is nothing special. You’re only a legend if you can do it b
 
 ---
 
-# 力行、奉行 [每天「一點點」](https://stephango.com/a-little-bit-every-day) 的哲學
+# 力行、奉行每天「一點點」的哲學
 
 * 每天一點點讀書進修
 * 每天一點點肌膚保養
@@ -158,6 +158,12 @@ On your bad days, you have a choice to make:
 2. Wait until they see me on a good day.
 
 There’s a magic in showing up on your bad days. The choice is yours. Choose wisely.
+
+---
+
+[Nibble and your appetite will grow — Steph Ango](https://stephango.com/nibble)
+
+[A little bit every day — Steph Ango](https://stephango.com/a-little-bit-every-day)
 
 ---
 
