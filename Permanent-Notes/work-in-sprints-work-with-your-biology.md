@@ -1,7 +1,7 @@
 ---
 title: Work in sprints, work with your biology
 created: 2024-11-18T09:18:12
-modified: 2025-11-10T15:32:19
+modified: 2025-11-15T13:29:30
 ---
 
 > _“If you want to operate at maximum productivity, efficiency, and creativity, you’re going to work on things that you’re excited about at the moment you’re excited about them and accept nothing less. It is better to sit on your butt and do nothing than it is to work on things that you are not excited about.” — Naval Ravikant_
@@ -85,7 +85,7 @@ Work like a lion. [^3] [^4] [^5] Eat like a snake. Sleep like a baby.
 
 # Work At A Ten, Not A [Simmering Six](https://www.google.com/search?q=Simmering)
 
-> _“Most people in high-stress, decision-making industries are always operating at this kind of simmering six, or four, as opposed to the undulation between just deep relaxation and being at a 10. Being at a 10 is millions of times better than being at a 6. It’s just in a different universe.” — Josh Waitzkin_
+> _“[Most people in high-stress, decision-making industries are always operating at this kind of simmering six, or four, as opposed to the undulation between just deep relaxation and being at a 10. Being at a 10 is millions of times better than being at a 6. It’s just in a different universe.](https://tim.blog/2019/06/27/josh-waitzkin/)” — Josh Waitzkin_
 
 ---
 
@@ -94,6 +94,14 @@ Work like a lion. [^3] [^4] [^5] Eat like a snake. Sleep like a baby.
 A productivity study conducted by the [Draugiem Group](https://draugiemgroup.com/) using the [DeskTime](https://desktime.com/) time-tracking app suggests that, the optimal work-to-break ratio is **52 minutes of sprinting followed by 17 minutes of utter [relaxation/recuperation](the-most-productive-people-prioritize-intentional-rest.md)**.
 
 According to the research, “_The secret to retaining the highest level of productivity over the span of a workday is not working longer–but working smarter with frequent breaks._” The most productive 10 percent of employees “_make the most of those 52 minutes by working with intense purpose, but then rest up to be ready for the next burst. In other words, they work with purpose. Working with purpose can also be called the ‘100 percent dedication’ theory–the notion that whatever you do, you do it full-on._” [^6] [^7]
+
+---
+
+# 精神時光屋
+
+《七龍珠》中的一個奇異修煉空間，內部時間流逝速度比外界快很多，約為「外界一天，裡面一年」。
+
+這個梗常用來比喻需要在某個地方進行極為嚴格、密集的訓練，以在短時間內獲得巨大實力提升、快速進步的場合，例如考試前的衝刺或電競選手的特訓。
 
 ---
 
