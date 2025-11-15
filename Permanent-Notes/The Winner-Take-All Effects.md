@@ -1,10 +1,10 @@
 ---
 title: The Winner-Take-All Effects
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-11-15T05:35:03
 ---
 
-> _“Any decision that involves using a limited / the same resource like ([energy](energy-management.md), [attention](attention.md), )[time](Time%20is%20the%20most%20valuable%20asset.md) or [money](money.md) will naturally result in a winner-take-all situation.” — James Clear_
+> _“Any decision that involves using a limited / the same resource like ([energy](energy-management.md), [attention](attention.md), )[time](time-is-the-most-valuable-asset.md) or [money](money.md) will naturally result in a winner-take-all situation.” — James Clear_
 
 > _“For all those who have, more will be given, and they will have an abundance; but from those who have nothing, even what they have will be taken away.” — The Bible_
 
