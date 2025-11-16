@@ -1,7 +1,7 @@
 ---
 title: Live in the present
 created: 2024-11-18T09:18:12
-modified: 2025-11-15T05:35:03
+modified: 2025-11-16T07:11:39
 ---
 
 > _“It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.” — Dr. Robert Hutchings Goddard_
@@ -60,6 +60,12 @@ modified: 2025-11-15T05:35:03
 
 ---
 
+> _“How we spend our days is, of course, how we spend our lives.” ― Annie Dillard, [The Writing Life](https://www.goodreads.com/work/quotes/516929)_
+
+Life’s just a bunch of todays.
+
+---
+
 臨在感
 
 ---
@@ -95,6 +101,8 @@ Before any memorable event, tell yourself silently: “This will pass by.”
 We often treat the present as a _vehicle for something else_, failing to see that it’s the only thing we truly have.
 
 ---
+
+#Newsletter 
 
 “[今は今、今度は今度](https://www.imdb.com/title/tt27503384/)” [^4]
 
