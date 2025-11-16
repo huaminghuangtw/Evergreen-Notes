@@ -1,7 +1,7 @@
 ---
 title: Empathy
 created: 2024-11-18T09:18:12
-modified: 2025-11-08T06:55:35
+modified: 2025-11-16T06:45:46
 ---
 
 > _“I do not ask the wounded person how he feels, I myself become the wounded person.” — Walt Whitman_
@@ -56,9 +56,13 @@ Empathy is a full-body experience you practice, not just something you think.
 
 ---
 
-Remember: Every single person is fighting a battle you know nothing about. Everyone has done the best they can. No one is crazy. [^1]
+> _“Never underestimate the pain of a person, because in all honesty, everyone is struggling. Some people are just better at hiding it than others.” ― Will Smith_
+
+Remember: Everyone is going through life for the first time. Every person is fighting a battle you know nothing about. Everyone has done the best they can. No one is crazy. [^1]
 
 ---
+
+[A lack of eye contact doesn’t mean someone is being rude — conditions such as autism, ADHD, PTSD, or social anxiety can make maintaining eye contact difficult during conversations.](https://www.reddit.com/r/YouShouldKnow/comments/hebc6e/ysk_that_lack_of_eye_contact_does_not_mean_that_a/)
 
 [Judge others by intentions, judge ourselves by actions](judge-others-by-intentions-judge-ourselves-by-actions.md)
 
