@@ -1,7 +1,7 @@
 ---
 title: Stress & Anxiety
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:15:15
+modified: 2025-11-16T05:13:23
 ---
 
 > _“Stress happens when the mind resists what is.” — Dan Millman_
@@ -110,3 +110,7 @@ Often, stress and anxiety come from the lack of a plan to bridge the gap between
 壓力管理的終極目標，是為心靈尋找到一片安寧的港灣。這份平靜或許來自清晨的一杯咖啡、與友人深刻的對話，或許僅是靜靜凝視窗外，感受陽光灑在臉上的溫暖。在這樣的片刻，你會明白，壓力只是人生的一部分，而非整個人生。
 
 在人生的旅程中，壓力無可避免，但我們有選擇如何應對它的權利。當我們學會以智慧與耐心調整步伐，壓力便不再是枷鎖，而是成為一位值得尊敬的導師，指引我們走向更深刻、更豐富的人生。
+
+---
+
+[Stress & The Glass of Water](stress-and-the-glass-of-water.md)
