@@ -1,7 +1,11 @@
 ---
 title: attention
 created: 2024-11-18T09:16:50
-modified: 2025-11-15T05:35:03
+modified: 2025-11-16T07:24:51
+---
+
+> _“Attention, taken to its highest degree, is the same thing as prayer. It presupposes faith and love. Absolutely unmixed attention is prayer.” ― Simone Weil, [Simone Weil: An Anthology](https://www.goodreads.com/work/quotes/85237)_
+
 ---
 
 Everyone (and everything) is competing for your attention, use it wisely, you don’t get the [time](time-is-the-most-valuable-asset.md) back! Your [energy](energy-management.md) flows to where your attention goes.
