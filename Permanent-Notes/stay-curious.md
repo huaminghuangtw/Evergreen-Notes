@@ -1,7 +1,7 @@
 ---
 title: Stay curious
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:15:21
+modified: 2025-11-16T06:28:15
 ---
 
 > _“The cure for boredom is curiosity. There is no cure for curiosity.” — Dorothy Parker_
@@ -21,6 +21,8 @@ modified: 2025-10-27T08:15:21
 > _“Remember to look up at the stars and not down at your feet. Try to make sense of what you see and wonder about what makes the universe exist. Be curious.” — Stephen Hawking_
 
 > _“The true delight is in the finding out rather than in the knowing.” — Isaac Asimov_
+
+> _“Develop an interest in life as you see it; the people, things, literature, music - the world is so rich, simply throbbing with rich treasures, beautiful souls, and interesting people. Forget yourself.” - Henry Miller_
 
 ---
 
