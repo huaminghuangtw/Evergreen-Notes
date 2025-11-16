@@ -1,7 +1,7 @@
 ---
 title: Simple is beautiful
 created: 2025-02-21T16:42:30
-modified: 2025-10-27T08:25:11
+modified: 2025-11-16T16:44:30
 ---
 
 > _”Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.” — Steve Jobs_
@@ -10,7 +10,11 @@ modified: 2025-10-27T08:25:11
 
 > _“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” — Antoine de Saint-Exupéry_
 
+> _“Make everything as simple as possible, but not simpler.” — Albert Einstein_ [^1]
+
 ---
+
+# Incompressible
 
 濃縮再濃縮、提煉再提煉
 
@@ -62,3 +66,5 @@ The simplest solution is…
 ---
 
 [The Simplicity Audit](the-simplicity-audit.md)
+
+[^1]: 追求「簡單」，而非「簡化」。
