@@ -1,7 +1,7 @@
 ---
 title: Happiness
 created: 2024-11-18T09:18:12
-modified: 2025-11-13T05:22:53
+modified: 2025-11-16T06:38:50
 ---
 
 > _“Happiness is a state where nothing is missing.” — Naval Ravikant_
@@ -35,6 +35,11 @@ modified: 2025-11-13T05:22:53
 ---
 
 Happy people love people, use things, and worship the divine; unhappy people use people, love things, and worship themselves.
+
+---
+	
+If you’re not happy here, you won’t be happy there.
+
 
 ---
 
