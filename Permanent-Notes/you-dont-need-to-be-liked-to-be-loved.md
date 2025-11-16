@@ -1,7 +1,7 @@
 ---
 title: You don’t need to be liked to be loved
 created: 2025-10-18T16:54:28
-modified: 2025-11-14T15:35:45
+modified: 2025-11-16T08:07:06
 ---
 
 > _“When you say yes to others, make sure you are not saying no to yourself.” — Paulo Coelho_
@@ -41,3 +41,7 @@ There is no sure path to success, but the surest path to failure is trying to pl
 ---
 
 [Ask for forgiveness, not permission](ask-for-forgiveness-not-permission.md)
+
+---
+
+ [We don’t get a lot of things to really care about](we-dont-get-a-lot-of-things-to-really-care-about.md)
