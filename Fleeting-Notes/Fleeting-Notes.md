@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-11-15T16:23:25
+modified: 2025-11-16T05:11:32
 ---
 
 Spend 30 minutes daily…
@@ -60,19 +60,4 @@ The Art of Negotiation: Letting the Other Side Go First
 
 ---
 
-[Understanding stress with a glass of water.](https://youtu.be/RGTfEfVcMqA)
-
----
-
-The absolute weight of the glass doesn't matter. It depends on how long I hold onto it.
-​
-If I hold it for a minute, nothing happens. If I hold it for an hour, my arm will begin to ache. If I hold it all day long, my arm will feel numb and paralyzed.
-​
-Well, the weight of the glass hasn't changed, but the longer I hold onto it, the heavier it becomes.
-The students lean in, and the professor continues with the deeper lesson:
-
-The stresses and the worries of life are like this glass of water.
-​
-If you think about them for a little while, there's no problem. Think about it for a little bit longer, it begins to hurt. If you think about them all day long, you'll feel paralyzed, incapable of doing anything.
-​
-Always remember: Put the glass down.
+[Stress & The Glass of Water](../Permanent-Notes/stress-and-the-glass-of-water.md)
