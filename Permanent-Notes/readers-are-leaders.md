@@ -1,7 +1,7 @@
 ---
 title: Leaders are readers
 created: 2024-11-18T09:18:12
-modified: 2025-11-13T05:22:11
+modified: 2025-11-15T20:02:05
 ---
 
 > _“Man is what he reads.” — Joseph Brodsky_
@@ -24,7 +24,7 @@ modified: 2025-11-13T05:22:11
 * Reading is a conversation. All books talk. But a good book listens as well.
 * Reading without [taking notes](note-taking.md) is [useless](https://x.com/neuranne/status/1261991953593401346).
 * 「雜食」：It’s important to read unconventional books as well, not just New York Times Best Sellers.
-* Keep in mind that whenever you pick up a good book to read, you are taking an extensive journey into the mind of the author — You have immediate access to the greatest minds of the past and present, and can absorb decades of their toiling research and experience in just a matter of hours/days/weeks!
+* 書中自有黃金屋：Keep in mind that whenever you pick up a good book to read, you are taking an extensive journey into the mind of the author — You have immediate access to the greatest minds of the past and present, and can absorb decades of their toiling research and experience in just a matter of hours/days/weeks!
 
 	> _“There are so many people who have lived﻿ and died before you. You will never have a new problem; you’re not going to ever have a new problem. Somebody wrote the answer down in a book somewhere.” ― Will Smith_
 
