@@ -1,7 +1,7 @@
 ---
 title: The absence of desire is true happiness
 created: 2024-11-18T09:18:12
-modified: 2025-11-08T06:47:59
+modified: 2025-11-16T06:47:21
 ---
 
 > _「有求皆苦，無求即樂」— 達摩祖師《二入四行觀》_
@@ -11,6 +11,8 @@ modified: 2025-11-08T06:47:59
 > _“Having the fewest wants, I am nearest to the gods.” ― Socrates_
 
 > _[“Not wanting something is as good as having it.” — Naval Ravikant](https://www.youtube.com/watch?v=KyfUysrNaco&t=33s)_
+
+> _“Wanting always interrupts being.” — Yung Pueblo_
 
 > _“Desire is a contract that you make with yourself to be unhappy until you get what you want.” — Naval Ravikant_
 
