@@ -1,7 +1,7 @@
 ---
 title: Negative Thoughts & Emotions
 created: 2024-11-18T09:18:12
-modified: 2025-11-10T07:01:42
+modified: 2025-11-16T05:12:57
 ---
 
 > _“You cannot prevent the birds of sorrow from flying over your head, but you can prevent them from building nests in your hair.” — Chinese Proverb_
@@ -15,7 +15,6 @@ modified: 2025-11-10T07:01:42
 ---
 
 * Notice/identify/recognize/acknowledge these feelings/thought patterns in the negative loop and let them guide you. They are your compass toward growth. Don’t ruminate/dwell on negative thoughts. (內耗)
-* Negative thoughts/emotions in life are like a glass of water. The absolute weight doesn’t matter. It depends on how long you hold it. Think about them for a while, nothing happens. Think about them a bit longer, they will begin to hurt. Think about them all day long, you will feel paralyzed and incapable of doing anything.
 * We cannot grow when we are in shame, and we can’t use shame to change ourselves or others.
 
 ---
