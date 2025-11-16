@@ -1,7 +1,7 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2025-11-15T16:35:42
+modified: 2025-11-16T07:31:54
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -22,9 +22,12 @@ modified: 2025-11-15T16:35:42
 
 > _“Dreams are built on discipline; discipline is built on habits; habits are built on training. And training takes place in every single second and every situation of your life.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
+> _“Don’t stop. Don’t even think about stopping until you get there, and don’t give much thought to where ‘there’ is. Whatever comes, just don’t stop.” — Phil Knight_---
+
+
 ---
 
-Persistence can change failure into extraordinary achievement
+Persistence can change failure into extraordinary achievement.
 
 ---
 
@@ -160,8 +163,6 @@ On your bad days, you have a choice to make:
 There’s a magic in showing up on your bad days. The choice is yours. Choose wisely.
 
 ---
-
-[Nibble and your appetite will grow — Steph Ango](https://stephango.com/nibble)
 
 [A little bit every day — Steph Ango](https://stephango.com/a-little-bit-every-day)
 
