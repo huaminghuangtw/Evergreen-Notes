@@ -1,7 +1,7 @@
 ---
 title: How to use AI effectively
 created: 2024-11-18T10:16:50
-modified: 2025-11-11T06:26:04
+modified: 2025-11-16T17:19:32
 ---
 
 On leveraging AI tools
@@ -16,6 +16,12 @@ On leveraging AI tools
 * <u>Never consume “LLM copypasta” without scrutiny.</u>[^3] Always validate the information and think critically using your own understanding.
 
 > In my opinion, the biggest issue is the complete lack of problem-solving and debugging skills. The second is an over-reliance—you can’t do anything without it guiding you step by step.
+
+
+關鍵不是你給 AI 什麼指令，而是你怎麼訓練它懂人性。
+多數人把 AI 當成「一個指令一個動作」的內容產生器，但他卻把 AI 當成需要耐心教導的「學徒」。
+想法的放大器，而不是想法的產生器
+
 
 **[Getting Started with AI: Good Enough Prompting | One Useful Thing](https://www.oneusefulthing.org/p/getting-started-with-ai-good-enough)**
 
