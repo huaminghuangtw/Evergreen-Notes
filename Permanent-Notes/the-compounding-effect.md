@@ -1,7 +1,7 @@
 ---
 title: The Compounding Effect
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-11-16T17:19:03
 ---
 
 > _“Compounding is the 8th wonder of the world.” — Albert Einstein_
@@ -48,10 +48,28 @@ leads to a [Vicious Cycle (良性循環)](https://www.google.com/search?q=Viciou
 
 ---
 
+#Newsletter
+
+# Success is rarely the result of one variable, but failure often is.
+
 10 - 1 = 0: 即使做對十件事，只要其中一件事做錯，一切就歸零，避免犯錯比什麼都重要!!!
 
-* Trust
-* Reputation
+> _Bad things happen dramatically. Good things happen gradually, and don’t feel like “news”._
+
+> _[“Success is largely the failures you avoid. Health is the injuries you don’t sustain. Wealth is the purchases you don’t make. Happiness is the objects you don’t desire. Peace of mind is the arguments you don’t engage. Avoid the bad to protect the good.” — James Clear](https://jamesclear.com/3-2-1/march-27-2025)_
+
+1. A good night’s sleep doesn’t guarantee a productive day, getting only two hours is enough to derail your entire day.
+2. Eating healthy all week doesn’t guarantee perfect health, but one case of food poisoning can ruin days.
+3. One great workout doesn’t make you fit, but one injury can halt your progress for weeks.
+4. Following all the right habits doesn’t guarantee perfect health, but one infection or serious illness can derail your energy and routines.
+5. Dozens of kind gestures don’t ensure harmony, but one careless comment can spark conflict.
+6. Being organized most of the day doesn’t guarantee productivity, but one major distraction can throw off your whole schedule.
+7. Reputation/Trust is built over years, but one serious lie can break it instantly.
+8. A project can have many parts running smoothly, but one critical bottleneck can stall everything.
+9. A computer can run smoothly for months, but one corrupted file can crash the entire system.
+10. Saving steadily doesn’t guarantee wealth, but one large impulsive expense can set you back significantly.
+
+**Success comes from getting all pieces right. That’s why it’s so hard.**
 
 ---
 
