@@ -1,12 +1,14 @@
 ---
 title: Comparison is the thief of joy
 created: 2024-11-18T09:18:12
-modified: 2025-11-05T10:43:37
+modified: 2025-11-16T16:34:24
 ---
 
 > _”Don’t bother just to be better than your contemporaries or predecessors. Try to be better than yourself.” — William Faulkner_
 
 > _“Don’t compare your beginning to someone else’s middle.” — Jon Acuff_
+
+> _“Don’t waste your time on jealousy. Sometimes you’re ahead, sometimes you’re behind. The race is long and, in the end, it’s only with yourself.” — Mary Schmich_
 
 > _“Be your unapologetically weird self.” — Chris Sacca_
 
