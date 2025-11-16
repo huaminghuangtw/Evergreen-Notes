@@ -1,10 +1,12 @@
 ---
 title: Intentional Living
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-11-15T19:33:07
 ---
 
 > _“Get busy living, or get busy dying.” — Stephen King_
+
+> _[“If you're not busy being born, you're busy dying.” — Bob Dylan](https://www.bobdylan.com/songs/its-alright-ma-im-only-bleeding/)_
 
 > _“The whole future lies in uncertainty: live immediately.” — Seneca_ [^1]
 
