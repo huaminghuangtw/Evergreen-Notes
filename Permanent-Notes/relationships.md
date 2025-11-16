@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-11-08T06:55:36
+modified: 2025-11-16T06:33:12
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -13,6 +13,8 @@ modified: 2025-11-08T06:55:36
 > _[“We have to recognize that there cannot be relationships unless there is commitment, unless there is loyalty, unless there is love, patience, persistence.” — Cornel West, Breaking Bread: Insurgent Black Intellectual Life](https://www.goodreads.com/quotes/234703-we-have-to-recognise-that-there-cannot-be-relationships-unless)_
 
 > _“The best relationships are a balance of connection and freedom.” — Esther Perel_
+
+> _“Understand that friends come and go, but with a precious few you should hold on. Work hard to bridge the gaps in geography and lifestyle, because the older you get, the more you need the people who knew you when you were young.” — Mary Schmich_
 
 ---
 
@@ -134,9 +136,11 @@ Remember: A person’s favorite sound is their name.
 
 ---
 
-# [Dunbar’s Number](https://www.google.com/search?q=Dunbar%E2%80%99s+Number)
+# 鄧巴數 [Dunbar’s Number](https://www.google.com/search?q=Dunbar%E2%80%99s+Number)
 
 Humans can maintain about 150 stable, meaningful relationships due to cognitive limits.
+
+基於人類大腦（特別是前額葉皮質）容量的限制，我們能夠維持的穩定社交關係大約是 150 人。
 
 [The Small-World Phenomenon](the-small-world-phenomenon.md)
 
