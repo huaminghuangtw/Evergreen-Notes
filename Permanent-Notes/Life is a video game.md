@@ -1,7 +1,7 @@
 ---
 title: Life is a video game
 created: 2025-02-06T05:49:30
-modified: 2025-11-05T10:00:38
+modified: 2025-11-16T06:24:15
 ---
 
 > _“Think of life like a play, and it will ease your mind when you’re challenged or when someone stands in your way. Told yourself they were playing a role. Every story needs a villain. So why should you waste energy being upset at the villains in your story? Instead, you could use that energy as the fuel to beat them.” — Arnold Schwarzenegger_
@@ -12,7 +12,7 @@ modified: 2025-11-05T10:00:38
 
 ---
 
-Imagine your life as _[The Sims (模擬市民)](https://www.ea.com/games/the-sims)_, and you’re just an [NPC](https://www.google.com/search?q=non-player+character)—except you have the power to control your own story. See challenges as adventures, obstacles as side quests, and every single day as an opportunity to level up.
+Imagine your life as _[The Sims (模擬市民)](https://www.ea.com/games/the-sims)_, and you’re just an [NPC](https://www.google.com/search?q=non-player+character)—except you have the power to control your own story. See challenges as adventures, obstacles as [side quests](https://quarter--mile.com/Side-Quests), and every single day as an opportunity to level up.
 
 **The Gaming Principles:**
 
