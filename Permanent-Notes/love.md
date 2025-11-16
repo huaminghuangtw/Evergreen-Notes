@@ -1,7 +1,7 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2025-10-28T08:44:37
+modified: 2025-11-16T06:38:14
 ---
 
 > _“Love is the absence of judgment.” — Dalai Lama_
@@ -15,6 +15,8 @@ modified: 2025-10-28T08:44:37
 > _[“Love is the outreach of self toward completion.” — Ralph W. Sockman](https://www.brainyquote.com/quotes/ralph_w_sockman_113905)_
 
 > _“Love is merely the name for the desire and pursuit of the whole (原本的樣子).” — Aristophanes_
+
+> _“Love is not: I will give this to you if you do this for me. Love is: I will give this to you so that you may shine.” — Yung Pueblo_
 
 > _[“Love consists in this, that two solitudes protect and touch and greet each other.” — Rainer Maria Rilke](https://www.brainyquote.com/quotes/rainer_maria_rilke_164598)_
 
