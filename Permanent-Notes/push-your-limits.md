@@ -1,7 +1,7 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-10-29T18:13:08
+modified: 2025-11-16T06:30:23
 ---
 
 > _“Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot_
@@ -113,6 +113,11 @@ Self-imposed limits, Self-limiting beliefs/stories, Self-sabotaging behaviors, e
 
 ---
 
+You don’t know how much a rubber band can hold until you stretch it. And if you don’t stretch it, it holds nothing.
+
+
+---
+
 # [The Creative Process = The Manifestation Practice](https://www.thesecret.tv/manifestation/)
 
 1. Ask
@@ -191,11 +196,15 @@ Your present circumstances don’t determine where you can go; they merely deter
 
 ---
 
-[The worst thing in the world is being on a good path that isn't yours. The bad path screams at you every single day to get off, to change course. It's obvious. The good path that isn't yours is much more challenging. There are plenty of reasons to stay, so most will do just that.](https://www.sahilbloom.com/newsletter/the-dream-achieved-ultimate-life-hack-more)
+[The worst thing in the world is being on a good path that isn’t yours. The bad path screams at you every single day to get off, to change course. It’s obvious. The good path that isn’t yours is much more challenging. There are plenty of reasons to stay, so most will do just that.](https://www.sahilbloom.com/newsletter/the-dream-achieved-ultimate-life-hack-more)
 
 ---
 
 [The worst prison in the world is having the talent and intelligence to achieve something great but lacking the courage to go out and do it.](https://x.com/SahilBloom/status/1838553217275154838)
+
+---
+
+As you move outside of your comfort zone, what was once the unknown and frightening becomes your new normal. When you spend enough time outside of your comfort zone, you get a new comfort zone.
 
 ---
 
