@@ -1,7 +1,7 @@
 ---
 title: Kindness
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:23:54
+modified: 2025-11-17T06:23:03
 ---
 
 > _“Kindness is a language which the deaf can hear and the blind can see.” — Mark Twain_
@@ -38,6 +38,8 @@ You are how you treat people when nobody’s watching. [Character is who you are
 You can tell a lot about someone’s character by how they treat service staff.
 
 > 觀察一個人對待服務生的態度，就可以大致看出一個人的真實性格。若是採取冷漠和輕視的態度，或是命令的口氣，就可以知道這個人不適合長期來往，因為有很大的機率，他們內心有一種優越感，認為自己比別人高級，缺乏站在他人角度思考的同理心。
+
+Treating people with deference — whether they’re above you (superior), beside you (peer), or below you (subordinate) — invites appreciation and earns lasting respect.
 
 ---
 
