@@ -1,7 +1,7 @@
 ---
 title: Stress & Anxiety
 created: 2024-11-18T09:18:12
-modified: 2025-11-16T05:13:23
+modified: 2025-11-17T13:46:29
 ---
 
 > _“Stress happens when the mind resists what is.” — Dan Millman_
@@ -61,6 +61,14 @@ Ask yourself: “_Will this crisis really matter one year from now?_”
 
 ---
 
+# The “Triple Welcoming”
+
+1. Welcome the feeling.
+2. Welcome any desire to fix, change, or control it.
+3. Welcome the sense of “I” who feels it.
+
+---
+
 # 3Q Filters Test
 
 * If you want to curb stress, you need to curate your thoughts.
@@ -114,3 +122,7 @@ Often, stress and anxiety come from the lack of a plan to bridge the gap between
 ---
 
 [Stress & The Glass of Water](stress-and-the-glass-of-water.md)
+
+---
+
+[The Sedona Method](the-sedona-method.md)
