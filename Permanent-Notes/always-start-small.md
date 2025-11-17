@@ -1,14 +1,14 @@
 ---
 title: Always start small
 created: 2025-03-05T05:32:10
-modified: 2025-11-14T15:39:29
+modified: 2025-11-17T07:11:28
 ---
 
 > _“It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith_
 
 > _[“If you can’t feed a hundred people, then feed just one.” — Mother Teresa](https://www.brainyquote.com/quotes/mother_teresa_105649)_
 
-> _“We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.” — Mother Teresa_
+> _“We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.” — Mother Teresa_ [^1]
 
 ---
 
@@ -81,8 +81,10 @@ Every race starts with one step. Every fortune starts with a small deposit. Ever
 # Success is about stacking tiny/small wins.
 
 * ❌ [失敗](failing-forward-turns-setbacks-into-stepping-stones.md) 為成功之母
-* ✅ (微) 小成功為成功之母
+* ✅（微）小成功為成功之母
 
 ---
 
 [Just focus on the next decision](just-focus-on-the-next-decision.md)
+
+[^1]: _“You are not a drop in the ocean, you are the entire ocean in a drop.” — Rumi_
