@@ -1,7 +1,7 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2025-11-16T07:31:54
+modified: 2025-11-17T06:14:52
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -51,7 +51,7 @@ There is a Zen Buddhist saying: “What do you do before enlightenment? _Chop w
 
 ---
 
-[最無聊的練習](Deliberate%20Practice.md)，沉澱出最扎實的基本功
+[最無聊的練習](deliberate-practice.md)，沉澱出最扎實的基本功
 
 > _“No tree, it is said, can grow to heaven unless its roots reach down to hell.” — Carl Jung_
 
