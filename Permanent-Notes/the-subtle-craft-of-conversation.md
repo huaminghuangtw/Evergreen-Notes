@@ -1,7 +1,7 @@
 ---
 title: The Subtle Craft of Conversation
 created: 2025-10-17T06:00:17
-modified: 2025-10-17T06:00:24
+modified: 2025-11-17T06:33:17
 ---
 
 = 說話的藝術 = 話術
@@ -16,7 +16,7 @@ modified: 2025-10-17T06:00:24
 
 ## 臆測（Assumed Empathy）
 
-用一句看似了解對方的話建立信任與認同。
+用一句看似了解對方的話（貼標籤）建立信任與認同。
 
 語法結構：
 
@@ -27,6 +27,7 @@ modified: 2025-10-17T06:00:24
 * 我知道你有夢想。
 * 我知道你是個善良的人。
 * 我知道你一直在努力，對嗎？
+* “It seems that you’ve got something in mind.”
 
 💡 技巧重點： 使用模糊但正向的歸類詞，讓對方自動對號入座並產生共鳴。
 
