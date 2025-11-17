@@ -1,7 +1,7 @@
 ---
 title: Advice
 created: 2024-11-18T09:16:50
-modified: 2025-11-16T06:49:39
+modified: 2025-11-17T06:19:02
 ---
 
 > _“The thing I’ve learned over the years about advice is that no one can accurately predict the future, but we all think we can. So advice at its best is one person’s limited perspective of the infinite possibilities before you. People’s advice is based on their fears, their experiences, their prejudices, and at the end of the day, their advice is just that: it’s theirs, not yours. When people give you advice, they’re basing it on what they would do, what they can perceive, on what they think you can do. But the bottom line is, while yes, it is true that we are all subject to a series of universal laws, patterns, tides, and currents—all of which are somewhat predictable—you are the first time you’ve ever happened. YOU and NOW are a unique occurrence, of which you are the most reliable measure of all the possibilities.” ― Will Smith_
@@ -57,7 +57,7 @@ The Advice Paradox: Taking more advice can leave you less well-prepared.
 It’s dangerous to use someone else’s map of reality to navigate yours. Develop your own filters and selectively accept and implement advice—take the signal, skip the noise. Be comfortable with **ignoring** advice. At the end of the day,
 
 * only you can give yourself the best advice, because it’s you who knows the entire story and context, not anyone else on the internet.
-* there is really no “right way” of doing things, especially [in the age of infinite information on the internet](Information%20Overwhelm.md). Finding a [personalised](mastering-yourself-is-superpower.md) approach is key.
+* there is really no “right way” of doing things, especially [in the age of infinite information on the internet](information-overwhelm.md). Finding a [personalised](mastering-yourself-is-superpower.md) approach is key.
 
 Be careful WHO you’re getting advice from.
 
