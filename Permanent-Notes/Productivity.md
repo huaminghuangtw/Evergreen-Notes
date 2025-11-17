@@ -1,7 +1,7 @@
 ---
 title: Productivity
 created: 2024-11-18T09:18:12
-modified: 2025-11-14T15:43:02
+modified: 2025-11-17T06:18:54
 ---
 
 > _“Productivity is most important for things you don’t want to be doing. Most people want to increase productivity so they can spend less time on the task. But before you worry about being more productive, think about being more selective. Rather than focusing on increasing productivity, it may be worth asking, ‘What would I be delighted to spend time on, even if it went slowly?’ Direct your energy toward figuring out how to start what you want to do rather than thinking about how to shorten what you don’t want to do.” — James Clear_
@@ -46,7 +46,7 @@ The only thing that actually works (for me) in productivity is **easy systems** 
 
 ---
 
-Keep in mind: An effective [system](Systems%20over%20goals.md) requires simple, repeatable subroutines that can be performed automatically and integrate seamlessly with one another. True transformation occurs only when these individual building blocks align within a cohesive, interconnected workflow, with bottlenecks identified and eliminated. This is why the typical “10 Tools to Improve Your Productivity” tips found all over the internet rarely offer lasting value. Instead, you need to build your own [system](Systems%20over%20goals.md) that aligns with your unique needs. Experiment and find what works best for you.
+Keep in mind: An effective [system](systems-over-goals.md) requires simple, repeatable subroutines that can be performed automatically and integrate seamlessly with one another. True transformation occurs only when these individual building blocks align within a cohesive, interconnected workflow, with bottlenecks identified and eliminated. This is why the typical “10 Tools to Improve Your Productivity” tips found all over the internet rarely offer lasting value. Instead, you need to build your own [system](systems-over-goals.md) that aligns with your unique needs. Experiment and find what works best for you.
 
 ---
 
