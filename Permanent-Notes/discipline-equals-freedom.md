@@ -1,7 +1,7 @@
 ---
 title: Discipline equals freedom
 created: 2024-11-18T09:18:12
-modified: 2025-11-10T07:01:49
+modified: 2025-11-17T12:10:22
 ---
 
 > _[“Discipline is doing what you hate to do, but nonetheless doing it like you love it.” — Mike Tyson](https://x.com/MikeTyson/status/1051925919710027777)_
@@ -9,6 +9,26 @@ modified: 2025-11-10T07:01:49
 > _「只有在生活中紀律嚴明的人才是自由的。如果缺乏紀律，只會成為情緒和激情的奴隸。」(Only the disciplined ones in life are free. If you are undisciplined, you are a slave to your moods and your passions.) — Eliud Kipchoge_
 
 > _“A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy.” — Norman Vincent Peale_
+
+---
+
+# 康德（Immanuel Kant）：自律即自由
+
+> _“Autonomie des Willens ist die Eigenschaft des Willens, sich selbst ein Gesetz zu sein.” — Grundlegung zur Metaphysik der Sitten, BA 89_
+>
+> 「意志的自律，就是意志為自己立法的能力。」
+
+> _“Freiheit ist die Eigenschaft, eine Ursache unabhängig von fremden, bestimmenden Ursachen zu sein.” — Kritik der praktischen Vernunft_
+>
+> 「自由，就是作為一個原因而不受其他外在決定性原因所支配的性質。」
+
+> _“Ein Will ist nur dann frei, wenn er autonom ist.”_
+>
+> 「意志唯有在自律時才是自由的。」
+
+* 真正的道德行為不是因外在獎賞或懲罰，而是出於內在的理性命令（定言命令）。
+* 對康德而言，自由 = 自主地依理性立法（自律）行動，而非被外在欲望或他人驅動。
+* 一個人只有在自律時，才擁有道德上的自由。
 
 ---
 
