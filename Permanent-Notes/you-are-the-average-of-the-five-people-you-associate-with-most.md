@@ -1,7 +1,7 @@
 ---
 title: You are the average of the five people you associate with most
 created: 2024-11-18T09:18:12
-modified: 2025-10-30T06:56:48
+modified: 2025-11-17T11:54:12
 ---
 
 > _“You are the average of the five people you spend the most time with.” ― Jim Rohn_
@@ -77,6 +77,10 @@ Surround yourself with people…
 ---
 
 # 醃黃瓜理論
+
+> _“When you gaze long into an abyss, the abyss also gazes into you.” — Friedrich Nietzsche, Beyond Good and Evil_
+>
+> 「當你凝視深淵時，深淵也在凝視著你。」— 尼采《善惡的彼岸》
 
 * [Cucumbers get more pickled than brine gets cucumbered.](https://www.darencademy.com/article/view/id/16913)
 * 新鮮黃瓜進入醃罐時或許仍保有本色，但時間一久，也會被環境悄悄改變，成為另一條醃黃瓜。
