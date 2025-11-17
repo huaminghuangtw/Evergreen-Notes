@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-11-16T06:33:12
+modified: 2025-11-17T06:29:32
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -167,41 +167,6 @@ True bonds are often forged through adversity.
 
 ---
 
-# Four different ways to respond when someone shares news
-
-1. active constructive
-2. active destructive
-3. passive constructive
-4. passive destructive
-
-Active constructive responses, which involve genuine engagement and building on the person’s news, are found to be the most energizing.
-
----
-
-# The Principles of Connected Conversation
-
-* Principle 1: Create Doorknobs (that lead to a story rather than end the conversation)
-* Principle 2: Be a Loud Listener
-	* <u>Sounds</u>: Saying “yes” or “uh-huh” or “hmm” to signal listening and encourage continued energy from the speaker.
-	* <u>Facial Expressions</u>: Changing facial expressions to react physically to the story being told.
-	* <u>Body Language</u>: Forward lean posture towards the speaker signals engagement and positive energy. Never turn away or sideways, as it signals you are trying to leave a conversation and immediately hurts the energy of a moment.
-* Principle 3: Repeat \& Follow
-	* Repeating key points back to the speaker in your own words and following on with an additional insight, story, or doorknob.
-* Principle 4: Make Situational Eye Contact
-	* Deep and connected while they speak.
-	* Organic while you speak - It’s ok to gaze off while you think, but use eye contact to emphasize key points and moments in a story.
-
----
-
-# The RASA Framework
-
-* Receive: focus your attention on what the person is saying.
-* Appreciate: show signs of appreciation.
-* Summarize: sum up in a few words what the person was telling you.
-* Ask a good question.
-
----
-
 # The Vampire Test
 
 * If, after hanging out with someone making you feel worn out and depleted, that person is a vampire (能量吸血鬼).
@@ -266,6 +231,10 @@ Judge a man by his questions rather than his answers.
 ---
 
 [Start hard conversations](start-hard-conversations.md)
+
+---
+
+[How to make a conversation with anyone](how-to-make-a-conversation-with-anyone.md)
 
 ---
 
