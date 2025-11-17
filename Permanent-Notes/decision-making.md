@@ -1,7 +1,7 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2025-10-28T19:47:49
+modified: 2025-11-17T06:14:52
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -35,7 +35,7 @@ modified: 2025-10-28T19:47:49
 		* 擇偶
 		* 雇員
 		* 買房
-	* Note that this theory is not time-based, but [iteration-based](Deliberate%20Practice.md).
+	* Note that this theory is not time-based, but [iteration-based](deliberate-practice.md).
 * [Trust your gut](trust-your-gut.md)
 
 ---
