@@ -1,7 +1,7 @@
 ---
 title: Mentorship is dated, build a panel of advisors instead
 created: 2025-01-23T10:40:57
-modified: 2025-10-27T08:19:35
+modified: 2025-11-17T06:16:57
 ---
 
 ![](../_attachments/1abb6f103b7cbb0ab268cd7901aa80bb.jpg)
@@ -41,6 +41,6 @@ modified: 2025-10-27T08:19:35
 
 ---
 
-[Systems Thinking](Systems%20Thinking.md)
+[Systems Thinking](systems-thinking.md)
 
 [^1]: Diversity is key to your panel’s success, as it brings a broader range of ideas.
