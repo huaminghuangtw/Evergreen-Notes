@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-11-14T15:40:24
+modified: 2025-11-17T06:14:52
 ---
 
 Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
@@ -149,7 +149,7 @@ Always starting from the most basic and simplest level, then adding more complex
 
 ---
 
-# How To Learn Faster? [Deliberate Practice](Deliberate%20Practice.md)
+# How To Learn Faster? [Deliberate Practice](deliberate-practice.md)
 
 **Embrace the challenge: The best learning outcome happens when it’s the hardest.**
 
@@ -196,7 +196,7 @@ Always starting from the most basic and simplest level, then adding more complex
 	* “The Feynman Razor”
 		* If someone uses a lot of complexity and jargon to explain something to you, they probably don’t understand it.
 		* Use simple and elegant language.
-* [刻意練習 (Deliberate Practice)](Deliberate%20Practice.md)
+* [刻意練習 (Deliberate Practice)](deliberate-practice.md)
 * 交錯練習 (Interleaving Practice / Interleaved Learning)
 
 	> _“I always work on different manuscripts at the same time. With this method, to work on different things simultaneously, I never encounter any blockages.” — Niklas Luhmann_
