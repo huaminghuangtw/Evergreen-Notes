@@ -1,7 +1,7 @@
 ---
 title: When in doubt, zoom out
 created: 2025-02-10T09:34:23
-modified: 2025-10-27T07:59:12
+modified: 2025-11-17T06:16:57
 ---
 
 退一步海闊天空。
@@ -26,7 +26,7 @@ It is important to take time to [zoom out/sit back/slow down](slow-down-to-speed
 
 ---
 
-[The bird's-eye view perspective](Systems%20Thinking.md) on your situation provide a unique vantage point—an ability to see the landscape around you and the bigger picture. (鳥瞰/綜觀全局)
+[The bird's-eye view perspective](systems-thinking.md) on your situation provide a unique vantage point—an ability to see the landscape around you and the bigger picture. (鳥瞰/綜觀全局)
 
 * The Overview Effect: [Carl Sagan - Pale Blue Dot](https://youtu.be/wupToqz1e2g)
 
