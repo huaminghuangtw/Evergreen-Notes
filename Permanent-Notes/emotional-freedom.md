@@ -1,7 +1,7 @@
 ---
 title: Emotional Freedom
 created: 2025-05-10T06:27:40
-modified: 2025-11-10T06:58:22
+modified: 2025-11-17T06:19:02
 ---
 
 > _“Enlightenment is making friendship with the whole existence.” — Amit Ray_
@@ -78,7 +78,7 @@ modified: 2025-11-10T06:58:22
 7. **Embrace stillness and silence.**
 	* Spend time away from distractions to reconnect with your deeper self and hear your inner wisdom.
 8. **Understand that healing is subtractive, not additive.**
-	* [You don’t need more information](Information%20Overwhelm.md), success, or approval. You need less attachment to thoughts and beliefs.
+	* [You don’t need more information](information-overwhelm.md), success, or approval. You need less attachment to thoughts and beliefs.
 
 ---
 
