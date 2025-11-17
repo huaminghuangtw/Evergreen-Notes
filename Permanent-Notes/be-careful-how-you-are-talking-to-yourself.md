@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-11-13T05:24:51
+modified: 2025-11-17T14:43:39
 ---
 
 > _“Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes_
@@ -117,6 +117,21 @@ Legendary UCLA basketball coach John Wooden recommended the following nine promi
 [@kleckPerceptionsImpactNegatively1980]
 
 [Victim Mentality](https://www.sahilbloom.com/newsletter/the-victim-mentality-a-silent-killer-of-growth): The 1980 Dartmouth Scar Experiment（傷痕實驗）
+
+---
+
+[@gottliebMaybeYouShould2019]
+
+In Maybe You Should Talk to Someone, Lori Gottlieb frames **guilt** in a way I hadn’t considered before:
+
+The **“self-imposed sentences”** we give ourselves.
+
+When we feel guilty about something we’ve done, we often subconsciously decide how long we “should” suffer as a form of self-punishment.
+
+Instead of forgiving ourselves or moving forward, we assign ourselves a kind of invisible prison sentence:
+
+* “Because I hurt someone, I must feel guilty for the rest of my life.”
+* “Because I made a mistake, I have to keep paying for it.”
 
 ---
 
