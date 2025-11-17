@@ -1,14 +1,14 @@
 ---
 title: Being indistractable is superpower
 created: 2025-01-23T18:40:57
-modified: 2025-11-10T06:58:22
+modified: 2025-11-17T06:19:02
 ---
 
 Being indistractable is about doing what you say you’re going to do.
 
 ---
 
-The state of our attention determines the state of our life. Poor [attention management](attention.md) decreases the quality of almost every area of your life. It’s important to learn to navigate distractions [in the age of abundance](Information%20Overwhelm.md).
+The state of our attention determines the state of our life. Poor [attention management](attention.md) decreases the quality of almost every area of your life. It’s important to learn to navigate distractions [in the age of abundance](information-overwhelm.md).
 
 ---
 
