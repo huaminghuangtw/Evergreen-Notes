@@ -1,7 +1,7 @@
 ---
 title: Seek for the truth
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-11-17T09:45:30
 ---
 
 > _“Facts are the enemy of truth.” — Miguel de Cervantes_
@@ -23,6 +23,10 @@ modified: 2025-10-27T08:34:06
 ---
 
 實事求是
+
+---
+
+真理是放諸四海皆準的道理。
 
 ---
 
