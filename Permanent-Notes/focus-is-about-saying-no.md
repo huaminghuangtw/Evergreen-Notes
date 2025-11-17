@@ -1,7 +1,7 @@
 ---
 title: Focus is about saying no
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:11:37
+modified: 2025-11-17T06:19:02
 ---
 
 > _“If you chase two rabbits, you catch none.” — Confucius_
@@ -14,7 +14,7 @@ modified: 2025-10-27T08:11:37
 
 > _“Deciding what not to do is as important as deciding what to do.” — Steve Jobs_
 
-> _“In a world where [information is abundant and easy to access](Information%20Overwhelm.md), the real advantage is knowing where to focus.” — James Clear_
+> _“In a world where [information is abundant and easy to access](information-overwhelm.md), the real advantage is knowing where to focus.” — James Clear_
 
 > _[“You're not focused enough unless you're mourning some of the things you're saying no to.” — James Clear](https://jamesclear.com/3-2-1/january-04-2024)_
 
