@@ -1,7 +1,7 @@
 ---
 title: Quit social media
 created: 2024-11-18T09:18:12
-modified: 2025-11-02T20:41:19
+modified: 2025-11-17T06:19:02
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -69,7 +69,7 @@ Social media can feel like a second job, with people constantly deciding what to
 
 ---
 
-Frequent scrolling and swiping behaviors can hinder/inhibit our ability to deeply focus and gradually shorten/fragment our attention spans. As our brains are flooded with an [overwhelming stream of information](Information%20Overwhelm.md), cognitive energy and mental resources become depleted, leaving us less capable of producing meaningful and tangible outputs.
+Frequent scrolling and swiping behaviors can hinder/inhibit our ability to deeply focus and gradually shorten/fragment our attention spans. As our brains are flooded with an [overwhelming stream of information](information-overwhelm.md), cognitive energy and mental resources become depleted, leaving us less capable of producing meaningful and tangible outputs.
 
 ---
 
