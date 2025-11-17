@@ -1,10 +1,12 @@
 ---
 title: Eat the biggest frog first thing in the morning
 created: 2024-12-04T17:55:24
-modified: 2025-11-10T15:39:58
+modified: 2025-11-17T06:52:09
 ---
 
 > _“Do one thing every day that scares you.” — Eleanor Roosevelt_
+
+> _“Do what you dream of doing even while you’re afraid.” — Arianna Huffington_
 
 > _“If it’s your job to eat a frog, it’s best to do it first thing in the morning. And if it’s your job to eat two frogs, it’s best to eat the biggest one first.”_
 
