@@ -1,7 +1,7 @@
 ---
 title: You can achieve anything if you focus on one thing at a time
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T07:57:59
+modified: 2025-11-17T14:03:10
 ---
 
 > _[“The only way to gain enough efficiency to complete The Art of Computer Programming is to operate in batch mode, concentrating intensively and uninterruptedly on one subject at a time, rather than swapping a number of topics in and out of my head.” — Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/retd.html)_
@@ -21,6 +21,11 @@ Unitasking (單工): Do one thing at a time, and do it extremely well.
 ---
 
 Avoid “[priority ping-pong](task-switching.md)” — stay committed to one task at a time. Batch similar tasks together to minimize [context switching](task-switching.md).
+
+* Context switching = Fragmented
+* No context switching = Focused
+
+[The Cost of Interrupted Work](the-cost-of-interrupted-work.md)
 
 ---
 
