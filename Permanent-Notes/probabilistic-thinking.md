@@ -1,7 +1,7 @@
 ---
 title: Probabilistic Thinking
 created: 2024-11-18T09:18:12
-modified: 2025-11-15T16:49:38
+modified: 2025-11-17T09:44:04
 ---
 
 ↔ Deterministic Thinking (絕對型思維)
@@ -22,3 +22,7 @@ is having a willingness to always ask questions like “_What else might happen?
 ---
 
 [Duality & Polarity](duality-vs-polarity.md)
+
+---
+
+[The Monty Hall Problem](the-monty-hall-problem.md)
