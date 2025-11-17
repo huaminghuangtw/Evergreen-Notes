@@ -1,7 +1,7 @@
 ---
 title: Leverage
 created: 2025-01-23T10:40:57
-modified: 2025-10-27T08:34:06
+modified: 2025-11-17T06:18:54
 ---
 
 > _“Give me a place to stand, and a lever long enough, and I will move the world.” — Archimedes_
@@ -42,7 +42,7 @@ Focus on better use of your best weapons instead of constant repair.
 
 ## In The External (i.e., non-personal) World, Focus On The Weaknesses (bottlenecks), Not The Strengths
 
-Example: Any [system](Systems%20over%20goals.md)
+Example: Any [system](systems-over-goals.md)
 
 ![](../_attachments/892a43eb93bd11e6921b8c2e3e2301b8.png)
 
