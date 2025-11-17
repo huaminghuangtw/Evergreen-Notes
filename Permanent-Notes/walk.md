@@ -1,7 +1,7 @@
 ---
 title: Walk
 created: 2024-11-18T09:16:50
-modified: 2025-11-11T17:29:44
+modified: 2025-11-17T14:30:08
 ---
 
 > _“A walk in nature walks the soul back home.” — Mary Davis_
@@ -33,6 +33,10 @@ You’ll never regret taking a walk outside.
 Goal: 8000–10000 steps per day
 
 * 10 minutes of walking is around 1,000 steps
+
+---
+
+康德（Immanuel Kant）每天在固定時間散步，準時到鄰居可以用他出門的時刻校對時鐘。他一生幾乎沒有離開過故鄉柯尼斯堡（Königsberg），生活環境單純而規律。堪稱自律的典範。
 
 ---
 
@@ -69,6 +73,16 @@ Goal: 8000–10000 steps per day
 * Walking Meditation
 * Rucking: walking with weight on your back
 	* [GORUCK](https://www.goruck.com/)
+
+---
+
+# 走路姿勢
+
+1. **深吸氣 → 挺胸 → 收小腹**：啟動核心，避免塌腰或聳肩。
+2. **手肘快速擺動**：擺臂能提高心率、增加全身能量消耗。
+3. **最大步幅前進**：
+	* 「最大步幅」指的是在不失去穩定性的前提下你能跨出的最大步伐。
+	* 步幅變大會自然帶動臀大肌、腿後肌（腿後腱）更強力啟動，有助提升下半身線條。
 
 ---
 
