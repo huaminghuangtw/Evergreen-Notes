@@ -1,7 +1,7 @@
 ---
 title: What Success Means To Me
 created: 2024-11-18T09:18:12
-modified: 2025-11-15T16:36:10
+modified: 2025-11-18T12:25:08
 ---
 
 > _“The road to success is always under construction.” — Steve Harvey_
@@ -46,10 +46,12 @@ modified: 2025-11-15T16:36:10
 
 ---
 
+#Newsletter
+
 > _[“The only true test of intelligence is if you get what you want out of life.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)_
 
-1. 想：知道自己想要/不想要什麼
-2. 做：有能力真正地得到/避開自己想要/不想要 の 東西
+1. 想：知道自己想要/不想要什麼、定義自己的平衡/甜蜜點
+2. 做：有能力真正地得到/避免自己想要/不想要 の 東西、想辦法站在上面，死都不要下來
 
 [Life is a game of awareness and action: Awareness to understand something's importance and action to execute on that importance.](https://www.sahilbloom.com/newsletter/11-uncommon-lessons-from-uncommon-minds)
 
