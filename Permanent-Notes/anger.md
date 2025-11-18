@@ -1,7 +1,7 @@
 ---
 title: Anger
 created: 2024-11-18T09:18:12
-modified: 2025-11-11T07:03:59
+modified: 2025-11-18T16:16:20
 ---
 
 > _“Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.” — Mark Twain_
@@ -17,8 +17,6 @@ modified: 2025-11-11T07:03:59
 > _“Any person capable of angering you becomes your master. They can anger you only when you permit yourself to be disturbed by them.” — Epictetus_
 
 > _“Holding onto anger is like drinking poison and expecting the other person to die.” — Buddha_ [^1]
-
-> _“Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you.” — Norman Vincent Peale_
 
 > _“A man is about as big as the things that make him angry.” — Winston Churchill_
 
@@ -55,6 +53,26 @@ It’s okay to be sad, disappointed, or get lost, but don’t be angry. Anger is
 ---
 
 沈默是反擊無恥的無聲風暴，憤怒是抗擊外辱的有效自殘。
+
+---
+
+> _“Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you.” — Norman Vincent Peale_
+
+> _“Before you embark on a journey of revenge, dig two graves.”_
+
+Revenge harms not only your target but also yourself. The “two graves” symbolize the dual loss—both the victim and the avenger suffer.
+
+---
+
+# 儒家
+
+* 以德報怨：以德行應對怨恨
+
+> 「以直報怨，以德報德。」—《論語・憲問》
+
+* 慎怒、克己：避免因情緒害己
+
+> 「小不忍，則亂大謀。」—《論語・衛靈公》
 
 ---
 
