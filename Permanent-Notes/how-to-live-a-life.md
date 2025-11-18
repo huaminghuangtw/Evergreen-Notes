@@ -1,7 +1,7 @@
 ---
 title: How to live a life
 created: 2024-11-18T09:18:12
-modified: 2025-11-12T19:33:01
+modified: 2025-11-18T16:10:33
 ---
 
 > _“As long as you live, keep learning how to live.” — Seneca_
@@ -33,6 +33,8 @@ modified: 2025-11-12T19:33:01
 > _“Life is like school, with one key difference—in school you get the lesson, and then you take the test. But in life, you get the test, and it’s your job to take the lesson.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
 > _「人生不是戰場，不必追求勝利，也沒有勝利可追求，更重要的其實是經歷。」 — 張曼娟_
+
+> _“Decide what you would like your obituary to say, and live the life to deserve it.” — [Warren Buffet in his final letter to Berkshire Hathaway shareholders](https://www.berkshirehathaway.com/news/nov1025.pdf)
 
 ---
 
