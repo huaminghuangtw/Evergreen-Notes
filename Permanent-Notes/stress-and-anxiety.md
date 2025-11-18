@@ -1,7 +1,7 @@
 ---
 title: Stress & Anxiety
 created: 2024-11-18T09:18:12
-modified: 2025-11-17T13:46:29
+modified: 2025-11-18T06:37:07
 ---
 
 > _“Stress happens when the mind resists what is.” — Dan Millman_
@@ -89,6 +89,10 @@ Ask yourself: “_Will this crisis really matter one year from now?_”
 * 1 emotion you feel
 
 This is called **“Grounding.”**
+
+---
+
+Jacobsen’s [Progressive Muscle Relaxation (PMR)](https://www.google.com/search?q=progressive+muscle+relaxation)
 
 ---
 
