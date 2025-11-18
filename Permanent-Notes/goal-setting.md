@@ -1,7 +1,7 @@
 ---
 title: Goal Setting
 created: 2025-01-23T10:40:57
-modified: 2025-10-29T05:22:04
+modified: 2025-11-18T16:06:25
 ---
 
 > _“A goal is not always meant to be reached, it often serves simply as something to aim at.” — Bruce Lee_
@@ -71,6 +71,12 @@ The Open Window 64 Chart (曼陀羅九宮格)
 ![](../_attachments/6f4c2aa5fa18b1a5d243d85423c9ebd6.png)
 
 ![](../_attachments/986f32407054d1d07ad29fa02571d9b2.png)
+
+1. Choose one clear, meaningful long-term goal and a deadline.
+2. Break that main goal into 8 subgoals that cover different areas needed to achieve it.
+3. Break each subgoal into 8 specific actions, skills, or habits (filling the 8×8 grid).
+4. Turn the most important actions into a small set of daily routines and track them.
+5. Review your progress regularly, adjusting subgoals and actions based on what you learn.
 
 ---
 
