@@ -1,7 +1,7 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2025-11-16T06:38:14
+modified: 2025-11-18T15:23:57
 ---
 
 > _“Love is the absence of judgment.” — Dalai Lama_
@@ -135,6 +135,14 @@ Find a partner who believes in you more than you believe in yourself.
 ---
 
 喜歡一朵花，你會摘下它；愛一朵花，你會灌溉它。喜歡是為了得到，愛是為了付出。
+
+---
+
+時間讓人忘掉舊愛情，有了新愛情之後又忘記時間。
+
+---
+
+愛對了是愛情，愛錯了是青春！
 
 ---
 
