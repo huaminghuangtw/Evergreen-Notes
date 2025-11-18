@@ -1,7 +1,7 @@
 ---
 title: The Beginner Mindset
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-11-18T05:52:02
 ---
 
 > _“It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” ― Mark Twain_
@@ -83,7 +83,7 @@ Naivety (= naiveness = naïveté)
 
 ---
 
-[The Einstellung Effect](The%20Einstellung%20Effect.md)
+[The Einstellung Effect](the-einstellung-effect.md)
 
 ---
 
