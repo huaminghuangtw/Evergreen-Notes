@@ -1,7 +1,7 @@
 ---
 title: Always do your best as possible
 created: 2024-11-18T09:18:12
-modified: 2025-11-15T12:59:36
+modified: 2025-11-18T15:19:25
 ---
 
 > _“Inspire yourself to be great. Being good isn’t good enough.” — Gurbaksh Chahal_
@@ -15,6 +15,10 @@ modified: 2025-11-15T12:59:36
 ---
 
 ↔ 半調子
+
+---
+
+Worldwide Standard
 
 ---
 
