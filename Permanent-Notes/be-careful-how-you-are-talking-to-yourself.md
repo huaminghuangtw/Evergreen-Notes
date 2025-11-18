@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-11-17T14:43:39
+modified: 2025-11-18T05:51:46
 ---
 
 > _“Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes_
@@ -122,7 +122,7 @@ Legendary UCLA basketball coach John Wooden recommended the following nine promi
 
 [@gottliebMaybeYouShould2019]
 
-In Maybe You Should Talk to Someone, Lori Gottlieb frames **guilt** in a way I hadn’t considered before:
+In *Maybe You Should Talk to Someone*, Lori Gottlieb frames **guilt** in a way I hadn’t considered before:
 
 The **“self-imposed sentences”** we give ourselves.
 
