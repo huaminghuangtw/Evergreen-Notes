@@ -1,7 +1,7 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
 created: 2024-11-18T09:18:12
-modified: 2025-11-16T05:50:56
+modified: 2025-11-18T06:50:53
 ---
 
 > _“Your relationship with yourself sets the tone for every other relationship you have.” — Robert Holden_
@@ -46,6 +46,8 @@ Not thinking less of yourself, but thinking of yourself less. [^4]
 
 > _[“There are two ways of spreading light: to be the candle or the mirror that reflects it.” — Edith Wharton](https://www.brainyquote.com/quotes/edith_wharton_100511)_
 
+> _“We could beat the stars, falling from the sky. Shining how we want, brighter than the sun.” — Colbie Caillat, [Brighter Than the Sun](https://www.youtube.com/watch?v=KU5o6M7S5nQ)_
+>
 > _“Try to be a rainbow in someone’s cloud.” — Maya Angelou_
 
 > _“We live in a world with a lot of insecure, jealous people. Some of them are our best friends. They are blood relatives. Failure terrifies them. So does our success. Because when we transcend what we once thought possible, push our limits, and become more, our light reflects off all the walls they’ve built up around them. Your light enables them to see the contours of their own prison, their own self-limitations. But if they are truly the great people you always believed them to be, their jealousy will evolve, and soon their imagination might hop its fence, and it will be their turn to change for the better.” — [@gogginsCantHurtMe2018]_
