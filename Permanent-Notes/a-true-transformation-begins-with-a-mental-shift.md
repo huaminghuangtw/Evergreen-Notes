@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2025-10-29T05:25:31
+modified: 2025-11-20T05:13:54
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
@@ -121,7 +121,7 @@ Go laugh in the places you have cried—[change the narrative.](be-careful-how-y
 		* I am anxious. → There is anxiety on me.
 * “How hard it is? (這有多難？)” → “How hard can it be? (這能有多難？)”
 * “以後不知道該怎麼辦…” → 不知道以後會怎樣耶!
-* “[I am afraid to fail.](Fear%20of%20Failure%20and%20Success.md)” → “I am excited to try.”
+* “[I am afraid to fail.](fear-of-failure-and-success.md)” → “I am excited to try.”
 * “Life happens to me.” → “I have agency. I can influence my outcomes.”
 	* Reactive Living → [Proactive Living](intentional-living.md)
 	* This is the essence of habit one in Stephen R. Covey’s renowned book [@covey7HabitsHighly2013]: **Be Proactive.** Everything starts there.

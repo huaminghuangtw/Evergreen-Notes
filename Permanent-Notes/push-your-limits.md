@@ -1,7 +1,7 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-11-19T05:53:24
+modified: 2025-11-20T05:13:54
 ---
 
 > _“Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot_
@@ -211,6 +211,6 @@ As you move outside of your comfort zone, what was once the unknown and frighten
 
 ---
 
-[Fear of Failure](Fear%20of%20Failure%20and%20Success.md)
+[Fear of Failure](fear-of-failure-and-success.md)
 
 [^1]: 3Ps: Personal, Pervasive, Permanent

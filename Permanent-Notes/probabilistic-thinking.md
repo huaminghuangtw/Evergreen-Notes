@@ -1,7 +1,7 @@
 ---
 title: Probabilistic Thinking
 created: 2024-11-18T09:18:12
-modified: 2025-11-17T09:44:04
+modified: 2025-11-19T21:00:06
 ---
 
 ↔ Deterministic Thinking (絕對型思維)

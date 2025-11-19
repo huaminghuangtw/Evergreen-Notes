@@ -1,18 +1,18 @@
 ---
 title: Slow Productivity
 created: 2024-11-18T09:18:12
-modified: 2025-09-05T03:34:56
+modified: 2025-11-20T05:15:17
 ---
 
 Requires:
 
-* [Doing fewer things](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md) (少做)
-* [Working at a natural pace](slow-down-to-speed-up.md) (放慢)
-* [Obsessing over quality](always-do-your-best-as-possible.md) (重質)
+1. [Doing fewer things](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md) (少做)
+2. [Working at a natural pace](slow-down-to-speed-up.md) (放慢)
+3. [Obsessing over quality](always-do-your-best-as-possible.md) (重質)
 
 ---
 
-Extracted from: <https://tim.blog/2022/02/04/cal-newport-transcript/>
+Source: <https://tim.blog/2022/02/04/cal-newport-transcript/>
 
 > The human brain is wired to — it’s good at making a plan for executing something that you think is important, and it makes you feel good when you complete that plan. This is critical to humans, why we’re different than a lot of animals. We can actually come up with a plan to do something, and feel motivation to do it, and feel good when we actually — we need to fix the fence. (When) we fixed the fence, the cattle can’t get out. We feel really good.
 >
@@ -20,7 +20,7 @@ Extracted from: <https://tim.blog/2022/02/04/cal-newport-transcript/>
 >
 > When we have way too much on our plate, more than we can easily imagine how it’s going to get done, it makes us really unhappy because we’re short circuiting a cognitive drive here, and we get sort of anxious and overwhelmed, but it doesn’t feel good.
 >
-> _[So we can't treat humans like we would a computer processor, where in a computer processor, you want to pipeline as many instructions as possible that are sitting there so that not a single cycle is wasted, because you just want to make sure that you always have something to do. But for the human brain, that huge pipeline of things that are waiting to be done actually makes the brain unhappy.](You%20can%20achieve%20anything%20if%20you%20focus%20on%20one%20thing%20at%20a%20time.md)_
+> _[So we can't treat humans like we would a computer processor, where in a computer processor, you want to pipeline as many instructions as possible that are sitting there so that not a single cycle is wasted, because you just want to make sure that you always have something to do. But for the human brain, that huge pipeline of things that are waiting to be done actually makes the brain unhappy.](you-can-achieve-anything-if-you-focus-on-one-thing-at-a-time.md)_
 >
 > So our solution to this type of overload — we have too much on our plate, in work and in our life admin as well. Our solution has been to use _Fast Productivity_, so fast productivity or tactics and systems for increasing the amount of the things you finish on the scale of days and weeks. So how do I get more stuff — this is what all productivity software is about, lower friction, easier access to information, take out seven steps in the process of getting this meeting scheduled. We want to maximize the number of things we can execute on the scale of days and weeks.
 >
