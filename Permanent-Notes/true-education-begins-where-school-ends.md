@@ -1,7 +1,7 @@
 ---
 title: True education begins where school ends
 created: 2025-01-23T18:40:57
-modified: 2025-10-27T15:00:40
+modified: 2025-11-19T05:26:09
 ---
 
 > _“School is one thing. Education is another. The two don’t always overlap. Whether you’re in school or not, it’s always your job to get yourself an education.” — Austin Kleon_
@@ -16,7 +16,7 @@ modified: 2025-10-27T15:00:40
 
 > _“When you stop learning you start dying.” — Albert Einstein_
 
-> _「畢業是站在制度性學習的終點，自主性學習的起點」— 龍應台_
+> _「畢業是站在制度性學習的終點、自主性學習的起點。」— 龍應台_
 
 > _“Live to learn and you’ll really learn to live.” — John C. Maxwell_
 
@@ -48,7 +48,7 @@ School lays the foundation, but true education starts when you step beyond the c
 
 > _“We are all born ignorant, but one must work hard to remain stupid.” — Benjamin Franklin_
 
-* _“The more you know, the more you realize you don’t know.”_
+* The more you know, the more you realize you don’t know.
 * The more I learn, the less I feel I know.
 * The more you learn, the more you are exposed to the immense unknown.
 * Experts are only aware of what they don’t know.
@@ -63,7 +63,7 @@ School lays the foundation, but true education starts when you step beyond the c
 
 ---
 
-[Do schools kill creativity? | Sir Ken Robinson | TED](https://huami.ng/do-schools-kill-creativity)
+[▍Do Schools Kill Creativity?](https://huami.ng/do-schools-kill-creativity)
 
 ---
 

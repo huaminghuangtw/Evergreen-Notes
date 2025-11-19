@@ -1,7 +1,7 @@
 ---
 title: Dispel your narratives
 created: 2024-11-18T09:18:12
-modified: 2025-11-15T16:48:55
+modified: 2025-11-19T05:43:39
 ---
 
 > _“Wisdom accepts that all things have two sides.” — Carl Jung_
@@ -49,6 +49,11 @@ Finding the beauty in the thing that already exists without needing to alter it 
 ---
 
 See things objectively. [See things the way they truly are](seek-for-the-truth.md), not the way you wish they were, and be in harmony with those things.
+
+---
+
+Don’t rush to label events as “good” or “bad.”
+Life unfolds in ways you can’t predict.
 
 ---
 

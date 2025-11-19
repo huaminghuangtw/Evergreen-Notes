@@ -1,7 +1,7 @@
 ---
 title: What Success Means To Me
 created: 2024-11-18T09:18:12
-modified: 2025-11-18T12:25:08
+modified: 2025-11-19T05:46:13
 ---
 
 > _“The road to success is always under construction.” — Steve Harvey_
@@ -36,7 +36,7 @@ modified: 2025-11-18T12:25:08
 
 # [“The Inner Ring” by C.S. Lewis](https://www.lewissociety.org/innerring/) [^1]
 
-> [As long as you are governed by that desire you will never get what you want.](The%20Arrival%20Fallacy.md) You are trying to peel an onion; if you succeed there will be nothing left. Until you conquer the fear of being an outsider, an outsider you will remain.” [^2]
+> [As long as you are governed by that desire you will never get what you want.](the-arrival-fallacy.md) You are trying to peel an onion; if you succeed there will be nothing left. Until you conquer the fear of being an outsider, an outsider you will remain.” [^2]
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: Ben Franklin’s Thirteen Virtues
 created: 2025-11-15T08:39:42
-modified: 2025-11-15T08:39:50
+modified: 2025-11-19T07:12:25
 ---
 
 #Blog 
 
-![](Pasted%20image%2020251115084113.png)
+![](c0e397b355179aa12b94aebb19402907.png)
 
 1. **Temperance**. Eat not to dullness; drink not to elevation.
 2. **Silence**. Speak not but what may benefit others or yourself; avoid trifling conversation.

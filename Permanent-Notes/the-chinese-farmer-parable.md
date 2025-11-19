@@ -1,7 +1,7 @@
 ---
 title: The Chinese Farmer Parable
 created: 2025-11-15T05:49:39
-modified: 2025-11-15T05:55:05
+modified: 2025-11-19T05:41:21
 ---
 
 #Blog 
@@ -23,3 +23,7 @@ The farmer answered, **“Maybe.”**
 The very next day, imperial conscription officers arrived to draft young men into the army. Seeing the son’s broken leg, they deemed him unfit for service and passed him by. By evening, the neighbors returned, relieved and delighted. “What great news!” they said. “Your son is safe!”
 
 And once again, the farmer said, **“Maybe.”**
+
+---
+
+[The Nova Effect](the-nova-effect.md)
