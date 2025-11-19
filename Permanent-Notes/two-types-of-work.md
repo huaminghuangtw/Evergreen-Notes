@@ -1,7 +1,7 @@
 ---
 title: Two Types of Work
 created: 2024-12-12T21:39:10
-modified: 2025-10-10T17:00:33
+modified: 2025-11-20T05:15:17
 ---
 
 > _[More generally, tasks that require little concentration seem to be best done in batches if possible, while tasks that require a lot of concentration seem to be best done individually, with as few distractions as one can manage.](https://terrytao.wordpress.com/2008/08/07/on-time-management/)_
@@ -15,7 +15,7 @@ modified: 2025-10-10T17:00:33
 * ≈ [deep work](deep-work.md) ≈ real work ≈ high-value work ≈ [heavy work](https://www.workingtheorys.com/p/make-something-heavy)
 * Things we can to do to _progress_ our life
 * e.g., focused tasks, “important but not urgent” tasks
-* Better done in “[single-tasking](You%20can%20achieve%20anything%20if%20you%20focus%20on%20one%20thing%20at%20a%20time.md) (單工)” mode
+* Better done in “[single-tasking](you-can-achieve-anything-if-you-focus-on-one-thing-at-a-time.md) (單工)” mode
 
 # Type II: Reactive Work
 

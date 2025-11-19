@@ -1,10 +1,10 @@
 ---
 title: The Chinese Farmer Parable
 created: 2025-11-15T05:49:39
-modified: 2025-11-19T05:41:21
+modified: 2025-11-19T21:00:06
 ---
 
-#Blog 
+#Blog
 
 > 塞翁失馬，焉知非福。
 

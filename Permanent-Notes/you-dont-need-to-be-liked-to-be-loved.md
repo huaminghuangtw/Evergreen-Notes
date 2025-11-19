@@ -1,7 +1,7 @@
 ---
 title: You don’t need to be liked to be loved
 created: 2025-10-18T16:54:28
-modified: 2025-11-19T12:43:07
+modified: 2025-11-19T21:00:06
 ---
 
 > _“When you say yes to others, make sure you are not saying no to yourself.” — Paulo Coelho_
@@ -21,9 +21,13 @@ Sometimes when you say no to others it opens a pathway to a hell yes for yoursel
 ---
 
 真正的好人，不會為了討好別人而過度付出，他們只做自己承擔得起的善行。
+
 真正的善良，不是靠迎合，而源於自知與自重。
+
 真正的善良，不是盲目的討好，而是清醒的選擇。
+
 真正的善良，不是沒有底線的付出，而是有分寸的給予。
+
 真正的善良，不是為了被喜歡，而是為了不愧對自己的心。
 
 ---

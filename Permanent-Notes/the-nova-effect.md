@@ -1,7 +1,7 @@
 ---
 title: The Nova Effect
 created: 2025-11-19T05:35:28
-modified: 2025-11-19T06:01:13
+modified: 2025-11-19T21:00:06
 ---
 
 > _“You never know what worse luck your bad luck saved you from.” — Cormac McCarthy_
@@ -32,7 +32,7 @@ Events are impossible to judge in isolation — **their long-term consequences o
 
 ---
 
-The happiness is not in the *having*, but in the *becoming*.
+The happiness is not in the _having_, but in the _becoming_.
 
 ---
 

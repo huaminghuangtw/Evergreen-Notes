@@ -1,7 +1,7 @@
 ---
 title: A mistake repeated more than once is a decision
 created: 2025-03-10T05:58:19
-modified: 2025-11-15T12:54:14
+modified: 2025-11-20T05:13:54
 ---
 
 > _“A man who has committed a mistake and doesn’t correct it, is committing another mistake.” — Confucius_
@@ -38,7 +38,7 @@ Your goal is not to avoid making mistakes, but to [avoid making the _same_ mista
 
 ---
 
-A [failure](failing-forward-turns-setbacks-into-stepping-stones.md) is not always a mistake, it may simply be the best one can do under the circumstances. The real mistake is to [stop trying](Fear%20of%20Failure%20and%20Success.md). Every single failure is a lesson. It only becomes real failure if you learn nothing from it.
+A [failure](failing-forward-turns-setbacks-into-stepping-stones.md) is not always a mistake, it may simply be the best one can do under the circumstances. The real mistake is to [stop trying](fear-of-failure-and-success.md). Every single failure is a lesson. It only becomes real failure if you learn nothing from it.
 
 ---
 

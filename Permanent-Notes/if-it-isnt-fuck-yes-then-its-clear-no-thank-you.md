@@ -1,7 +1,7 @@
 ---
 title: If it isn’t fuck yes, then it’s clear no thank you
 created: 2024-11-18T09:16:49
-modified: 2025-11-19T12:31:49
+modified: 2025-11-20T05:14:16
 ---
 
 **TL; DR** Default to NO.
@@ -38,7 +38,7 @@ Remember: Whenever you say “yes” to something, [you’re saying “no” to 
 
 > _“My goal is no longer to get more done, but rather to have less to do.” ― Francine Jay_
 
-> _[“We are most productive when we focus on a very small number of projects on which we can devote a large amount of attention.” — Cal Newport](Slow%20Productivity.md)_
+> _[“We are most productive when we focus on a very small number of projects on which we can devote a large amount of attention.” — Cal Newport](slow-productivity.md)_
 
 * The goal is to achieve more by doing less, and the only way to get more things done is to have fewer things to do. Remember: [The more things you do, the less well you do each of them.](https://www.workingtheorys.com/p/3-hours) The less you have to do, the more time you get to chase randomness and enjoy the things you really want to do.
 * Less is often more—but getting to “less” is the hard part.

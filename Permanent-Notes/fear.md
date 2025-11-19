@@ -1,7 +1,7 @@
 ---
 title: Fear
 created: 2024-11-18T09:18:12
-modified: 2025-10-28T18:14:35
+modified: 2025-11-20T05:13:54
 ---
 
 > _“Danger is real, fear is a choice” ― Will Smith_
@@ -97,7 +97,7 @@ _Becoming the Ocean_ – A Poem by Khalil Gibram
 
 ---
 
-[Fear of Failure and Success](Fear%20of%20Failure%20and%20Success.md)
+[Fear of Failure and Success](fear-of-failure-and-success.md)
 
 ---
 
