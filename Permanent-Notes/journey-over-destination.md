@@ -1,7 +1,7 @@
 ---
 title: Journey over destination
 created: 2024-11-18T09:18:12
-modified: 2025-11-12T05:56:35
+modified: 2025-11-19T05:46:12
 ---
 
 > _“To travel is to be alive, but to get somewhere is to be dead.” — Alan Watts_
@@ -163,7 +163,7 @@ Paradox: Although it’s being said that “you got to focus on the journey beca
 
 ---
 
-[The Arrival Fallacy](The%20Arrival%20Fallacy.md)
+[The Arrival Fallacy](the-arrival-fallacy.md)
 
 [^1]: Similar analogy: Climate v.s Weather
 [^2]: [The Upward Spiral](https://sketchplanations.com/the-upward-spiral)

@@ -1,14 +1,14 @@
 ---
 title: If it isn’t fuck yes, then it’s clear no thank you
 created: 2024-11-18T09:16:49
-modified: 2025-10-27T08:21:38
+modified: 2025-11-19T12:31:49
 ---
 
 **TL; DR** Default to NO.
 
 ---
 
-> _[“Raise the bar as high as possible, and say no to anything that you feel less than 'Hell yeah, that’ll be amazing!'” — Derek Sivers, Hell Yeah or No](https://www.amazon.com/Hell-Yeah-No-whats-worth/dp/1988575974)_
+> _[“Raise the bar as high as possible, and say no to anything that you feel less than 'Hell yeah, that’ll be amazing!'” — Derek Sivers, Hell Yeah or No](https://www.amazon.com/Hell-Yeah-No-whats-worth/dp/1988575974)_ [^1]
 
 > _“When you say no, you are only saying no to one option. When you say yes, you are saying no to every other option. No is a decision. Yes is a responsibility. Be careful what (and who) you say yes to. It will shape your day, your career, your family, your life.” — James Clear_
 
@@ -105,3 +105,5 @@ Two-factor authentication against your calendar by Naval Ravikant
 ---
 
 [You don’t need to be liked to be loved](you-dont-need-to-be-liked-to-be-loved.md)
+
+[^1]: 只有當你對一件事感到強烈興奮、全身細胞都在喊「太棒了，我一定要做！」時，它才值得你投入。

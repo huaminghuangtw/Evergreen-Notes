@@ -1,7 +1,7 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
 created: 2024-11-18T09:18:12
-modified: 2025-11-18T06:50:53
+modified: 2025-11-19T12:34:05
 ---
 
 > _“Your relationship with yourself sets the tone for every other relationship you have.” — Robert Holden_
@@ -80,6 +80,7 @@ Always put yourself first. Self-prioritize yourself. Take care of yourself befor
 	* 你得先為自己戴上氧氣罩，才能開始救人。
 * A starving chef can’t feed anyone.
 * You can’t pour from an empty cup.
+
 
 [You don’t need to be liked to be loved](you-dont-need-to-be-liked-to-be-loved.md)
 

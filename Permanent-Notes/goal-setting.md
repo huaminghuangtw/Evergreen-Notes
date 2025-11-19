@@ -1,7 +1,7 @@
 ---
 title: Goal Setting
 created: 2025-01-23T10:40:57
-modified: 2025-11-18T16:06:25
+modified: 2025-11-19T07:12:19
 ---
 
 > _“A goal is not always meant to be reached, it often serves simply as something to aim at.” — Bruce Lee_
@@ -68,6 +68,10 @@ modified: 2025-11-18T16:06:25
 
 The Open Window 64 Chart (曼陀羅九宮格)
 
+![](../_attachments/160334acd1948c90882736472543a676.JPG)
+
+![](../_attachments/8f3ec786ad68fd8e0f54a13688ff8be9.JPG)
+
 ![](../_attachments/6f4c2aa5fa18b1a5d243d85423c9ebd6.png)
 
 ![](../_attachments/986f32407054d1d07ad29fa02571d9b2.png)
@@ -115,7 +119,7 @@ The key in life is to find the balance, and balance isn’t about perfection. Po
 
 ---
 
-[The Arrival Fallacy](The%20Arrival%20Fallacy.md)
+[The Arrival Fallacy](the-arrival-fallacy.md)
 
 ---
 

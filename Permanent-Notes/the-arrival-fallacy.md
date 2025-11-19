@@ -1,7 +1,7 @@
 ---
 title: The Arrival Fallacy
 created: 2025-01-23T10:40:57
-modified: 2025-11-02T05:32:28
+modified: 2025-11-19T05:44:07
 ---
 
 > _“Arriving someplace more desirable at some future time is an illusion. This is it.” — Jon Kabat-Zinn_
@@ -60,4 +60,8 @@ Beware of destination addiction: The idea that happiness is in the next place, t
 
 ---
 
-[[The Impact Bias]]
+[The Impact Bias](the-impact-bias.md)
+
+---
+
+[The Nova Effect](the-nova-effect.md)
