@@ -1,7 +1,7 @@
 ---
 title: Dispel your narratives
 created: 2024-11-18T09:18:12
-modified: 2025-11-19T21:00:06
+modified: 2025-11-20T05:48:35
 ---
 
 > _“Wisdom accepts that all things have two sides.” — Carl Jung_
@@ -44,7 +44,7 @@ Finding the beauty in the thing that already exists without needing to alter it 
 
 ---
 
-[Choiceless/Non-judgemental Awareness](https://en.wikipedia.org/wiki/Choiceless_awareness)
+[Choiceless/Non-judgmental Awareness](https://en.wikipedia.org/wiki/Choiceless_awareness)
 
 ---
 
