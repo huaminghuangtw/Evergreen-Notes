@@ -1,7 +1,7 @@
 ---
 title: Abandon your ego
 created: 2024-11-18T09:18:12
-modified: 2025-11-13T11:23:03
+modified: 2025-11-20T05:36:47
 ---
 
 > _“Showing off is the fool’s idea of glory.” — Bruce Lee_
@@ -75,6 +75,14 @@ One of the great mistakes in life is suffering for years because you didn’t wa
 ---
 
 # #TODO [David Foster Wallace’s Commencement Speech “This Is Water”](https://fs.blog/david-foster-wallace-this-is-water/) [^1]
+
+---
+
+Not thinking less of yourself, but thinking of yourself less.
+
+> _[“Thinking about yourself is the source of all unhappiness.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)_
+
+> _“Think lightly of yourself and deeply of the world.” — Miyamoto Musashi_
 
 ---
 
