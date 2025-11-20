@@ -1,16 +1,16 @@
 ---
 title: If it isn’t fuck yes, then it’s clear no thank you
 created: 2024-11-18T09:16:49
-modified: 2025-11-20T05:14:16
+modified: 2025-11-20T09:30:14
 ---
 
 **TL; DR** Default to NO.
 
 ---
 
-> _[“Raise the bar as high as possible, and say no to anything that you feel less than 'Hell yeah, that’ll be amazing!'” — Derek Sivers, Hell Yeah or No](https://www.amazon.com/Hell-Yeah-No-whats-worth/dp/1988575974)_ [^1]
+> _[“Raise the bar as high as possible, and say no to anything that you feel less than ‘Hell yeah, that’ll be amazing!’” — Derek Sivers, Hell Yeah or No](https://sive.rs/n)_
 
-> _“When you say no, you are only saying no to one option. When you say yes, you are saying no to every other option. No is a decision. Yes is a responsibility. Be careful what (and who) you say yes to. It will shape your day, your career, your family, your life.” — James Clear_
+> _[“When you say no, you are only saying no to one option. When you say yes, you are saying no to every other option. No is a decision. Yes is a responsibility. Be careful what (and who) you say yes to. It will shape your day, your career, your family, your life.” — James Clear](https://jamesclear.com/saying-no)_ [^1]
 
 > _“We need to learn the slow ‘yes’ and the quick ‘no.’” — Tom Friel, the former CEO of Heidrick & Struggles_
 
@@ -29,8 +29,6 @@ Saying yes to everything is a quick road / recipe to mediocrity
 ---
 
 Before you say “yes” or “no”, just **pause**. This simple pause gives you control over your choices, allowing you to [respond with intention rather than reflex](choose-your-response.md).
-
-Remember: Whenever you say “yes” to something, [you’re saying “no” to something else.](Everything%20in%20life%20has%20an%20opportunity%20cost.md)
 
 ---
 
@@ -55,9 +53,11 @@ Remember: Whenever you say “yes” to something, [you’re saying “no” to 
 
 # The 3-hours-or-nothing Rule
 
-**[Don't agree to anything “quick” unless you're willing to spend 3+ hours on it.](https://www.workingtheorys.com/p/3-hours)**
+**[Don’t agree to anything “quick” unless you’re willing to spend 3+ hours on it.](https://www.workingtheorys.com/p/3-hours)**
 
 When you follow this rule, your priorities get clear, you procrastinate less, you’re more focused and more productive, and time management becomes a lot easier. You say “no” a LOT more. And the “yes” becomes a lot more emphatic. You find yourself less stressed, less overthinking about the past and less anxious about the future.
+
+承諾就像灌木叢，需要定期修剪。給出任何承諾前，先問自己能不能全情投入。
 
 ---
 
@@ -66,7 +66,6 @@ When you follow this rule, your priorities get clear, you procrastinate less, yo
 * You say, “Yes,” and then the future date arrives, and you say, “Damn!”
 	* We often say yes to things assuming that we will have more time or energy for them in the future. But when that future date arrives, we regret it.
 * As a rule of thumb, if you’re going to say yes to anything because you think you’ll have more time or energy for it in the future, say no instead!
-* 做任何事情前，先問自己能不能「全情投入、給出承諾」。而承諾就像灌木叢，需要定期修剪。[@forsterItTomorrowOther2008]
 
 ---
 
@@ -78,6 +77,8 @@ When deciding whether to take on a new commitment, ask yourself, “_Would I do 
 * If the answer is yes, take it on.
 
 ---
+
+> _“There is nothing so useless as doing efficiently that which should not be done at all.” — Peter Drucker_
 
 Examples:
 
@@ -106,4 +107,4 @@ Two-factor authentication against your calendar by Naval Ravikant
 
 [You don’t need to be liked to be loved](you-dont-need-to-be-liked-to-be-loved.md)
 
-[^1]: 只有當你對一件事感到強烈興奮、全身細胞都在喊「太棒了，我一定要做！」時，它才值得你投入。
+[^1]: Remember: Whenever you say “yes” to something, [you’re saying “no” to something else.](Everything%20in%20life%20has%20an%20opportunity%20cost.md)
