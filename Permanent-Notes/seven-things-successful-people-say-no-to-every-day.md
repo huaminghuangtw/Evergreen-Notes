@@ -1,8 +1,10 @@
 ---
 title: Seven Things Successful People Say No To Every Day
 created: 2024-12-10T14:18:26
-modified: 2025-08-29T08:30:45
+modified: 2025-11-20T08:20:57
 ---
+
+#Newsletter 
 
 1. They say no to opportunities and things that don’t excite them, speak to their values, or further their mission in life.
 2. They say no to superficial networking events in which people swap business cards and never hear from one another. Why? Because successful people don’t network. They build relationships.
