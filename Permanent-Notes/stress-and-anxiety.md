@@ -1,7 +1,7 @@
 ---
 title: Stress & Anxiety
 created: 2024-11-18T09:18:12
-modified: 2025-11-18T06:37:07
+modified: 2025-11-20T15:05:23
 ---
 
 > _“Stress happens when the mind resists what is.” — Dan Millman_
@@ -69,14 +69,15 @@ Ask yourself: “_Will this crisis really matter one year from now?_”
 
 ---
 
-# 3Q Filters Test
+# [3Q Filters Test by Jon Acuff](https://www.youtube.com/watch?v=9UqWaSR0miQ&t=38m41s)
 
-* If you want to curb stress, you need to curate your thoughts.
-* Run them through Jon Acuff’s 3 filters:
-	* _Is it true?_
-	* _Is it helpful?_
-	* _Is it kind?_
-* If they’re not accurate, not serving you and making you feel worse, discard them immediately.
+If you want to curb stress, you need to curate your thoughts. When you identify a “broken soundtrack” (repetitive [negative thought](negative-thoughts-and-emotions.md)), you should run it through these three questions:
+
+* _Is it true?_
+* _Is it helpful?_ (Does it push you forward or hold you back?)
+* _Is it kind?_ (If you said it to a friend, would they still want to be your friend?)
+
+If they’re not accurate, not serving you and making you feel worse, discard them immediately.
 
 ---
 
@@ -88,7 +89,7 @@ Ask yourself: “_Will this crisis really matter one year from now?_”
 * 2 things you can smell (or 2 smells you like)
 * 1 emotion you feel
 
-This is called **“Grounding.”**
+This is called **“Grounding/Earthing.”**
 
 ---
 
