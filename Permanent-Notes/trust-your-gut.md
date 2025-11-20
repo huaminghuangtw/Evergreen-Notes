@@ -1,7 +1,7 @@
 ---
 title: Trust your gut
 created: 2025-01-01T16:32:50
-modified: 2025-10-28T07:41:13
+modified: 2025-11-20T05:47:38
 ---
 
 > _“Intuition is the whisper of the soul.” — Jidda Krishnamurti_
@@ -66,7 +66,7 @@ A **hunch** can be seen as a quick, focused form of intuition, while **intuition
 >
 > With its last breath, the scorpion shrugs, “I couldn’t help it. It’s my nature.”
 
-The most common interpretation of the story is that we should trust in our intuition about the danger someone poses to us. The frog’s [instinct](Judgement.md) was correct, but it was swayed by the words of the scorpion, which put it in danger. The scorpion is the person whose nature makes them dangerous to you. Never let their words convince you otherwise.
+The most common interpretation of the story is that we should trust in our intuition about the danger someone poses to us. The frog’s [instinct](judgment-is-the-most-important-skill-in-an-age-of-infinite-leverage.md) was correct, but it was swayed by the words of the scorpion, which put it in danger. The scorpion is the person whose nature makes them dangerous to you. Never let their words convince you otherwise.
 
 ---
 
@@ -82,7 +82,7 @@ The most common interpretation of the story is that we should trust in our intui
 
 ---
 
-[In an interview at Duke University's Fuqua School of Business, Apple CEO Tim Cook talks about how intuition led him to Apple and how intuition develops over time.](https://www.youtube.com/watch?v=c6X9-br--jM)
+[In an interview at Duke University’s Fuqua School of Business, Apple CEO Tim Cook talks about how intuition led him to Apple and how intuition develops over time.](https://www.youtube.com/watch?v=c6X9-br--jM)
 
 > I don’t think that you’re born with a gut. I think the gut matures and gets better and better over time. And the struggle that most people have I think, is learning to listen to it and figuring out how to access it in some way.
 
