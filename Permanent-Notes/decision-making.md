@@ -1,7 +1,7 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2025-11-17T06:14:52
+modified: 2025-11-20T05:42:15
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -16,7 +16,7 @@ modified: 2025-11-17T06:14:52
 
 # Naval Ravikant
 
-> _We live in an age of infinite leverage. What I mean by that is that your actions can be multiplied a thousandfold, either by broadcasting a podcast or by investing capital or by having people work for you or by writing code. So because of that, the impacts of good decision-making are much higher than they used to be because now you can influence thousands or millions of people through your decisions or your code. So clear mind leads to better (sound) [judgment](Judgement.md) leads to a better outcome. So a happy, calm, peaceful person will make better decisions and have better outcomes. So if you want to operate at peak performance, you have to learn how to tame your mind. [^1] Just like you have to learn how to tame your body._
+> _We live in an age of infinite leverage. What I mean by that is that your actions can be multiplied a thousandfold, either by broadcasting a podcast or by investing capital or by having people work for you or by writing code. So because of that, the impacts of good decision-making are much higher than they used to be because now you can influence thousands or millions of people through your decisions or your code. So clear mind leads to better (sound) [judgment](judgment-is-the-most-important-skill-in-an-age-of-infinite-leverage.md) leads to a better outcome. So a happy, calm, peaceful person will make better decisions and have better outcomes. So if you want to operate at peak performance, you have to learn how to tame your mind. [^1] Just like you have to learn how to tame your body._
 
 > _If you want to make the wrong decision, ask everyone._
 
