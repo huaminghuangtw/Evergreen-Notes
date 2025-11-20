@@ -1,7 +1,7 @@
 ---
 title: Always do your best as possible
 created: 2024-11-18T09:18:12
-modified: 2025-11-18T15:19:25
+modified: 2025-11-20T05:27:29
 ---
 
 > _“Inspire yourself to be great. Being good isn’t good enough.” — Gurbaksh Chahal_
@@ -100,6 +100,8 @@ be locked in (on something)：表示一個人集中精神、全神貫注在某�
 3. He’s locked in on his studies these days. 他最近很專注在讀書上。
 
 ---
+
+#Newsletter 
 
 > _“When you show yourself to the world and display your talents, you naturally stir all kinds of resentment, envy, and other manifestations of insecurity. You cannot spend your life worrying about the petty feelings of others.” ― Robert Greene, The 48 Laws of Power_
 
