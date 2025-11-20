@@ -1,7 +1,7 @@
 ---
 title: Emotion Control
 created: 2024-11-18T09:18:12
-modified: 2025-11-16T08:18:18
+modified: 2025-11-20T05:48:09
 ---
 
 > _“Emotional sickness is avoiding reality at any cost. Emotional health is facing reality at any cost.” — [M. Scott Peck](https://quotefancy.com/m-scott-peck-quotes)_
@@ -62,7 +62,7 @@ Before making an important decision ask: “_Am I **hungry**, **angry**, **lonel
 
 ---
 
-The thing that prevents you from seeing what’s actually happening are your emotions. Our emotions are constantly clouding our [judgment](Judgement.md).
+The thing that prevents you from seeing what’s actually happening are your emotions. Our emotions are constantly clouding our [judgment](judgment-is-the-most-important-skill-in-an-age-of-infinite-leverage.md).
 
 ---
 
