@@ -1,7 +1,7 @@
 ---
 title: Reticular Activating System
 created: 2025-10-26T15:36:53
-modified: 2025-10-26T15:44:24
+modified: 2025-11-22T13:01:13
 ---
 
 The Reticular Activating System (RAS) is a network of neurons in the brainstem that acts as a filter between the conscious and subconscious mind. It acts like a **gatekeeper for attention**. Every second, it filters a massive amount of sensory information to determine _what is important_ and passes only that information to your conscious awareness.
@@ -52,7 +52,7 @@ Your RAS is influenced by _what you repeatedly expose yourself to._
 
 Your [information diet](Low%20Information%20Diet.md) determines what your brain assumes is relevant.
 
-See also: [Selective Attention](https://www.google.com/search?q=Selective+Attention)
+See also: [The Law of Attraction](the-law-of-attraction.md)
 
 ## 4. Use Affirmations That Align with Evidence
 
