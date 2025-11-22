@@ -1,14 +1,14 @@
 ---
 title: If it isn’t fuck yes, then it’s clear no thank you
 created: 2024-11-18T09:16:49
-modified: 2025-11-20T09:30:14
+modified: 2025-11-21T04:48:40
 ---
 
 **TL; DR** Default to NO.
 
 ---
 
-> _[“Raise the bar as high as possible, and say no to anything that you feel less than ‘Hell yeah, that’ll be amazing!’” — Derek Sivers, Hell Yeah or No](https://sive.rs/n)_
+> _[“Raise the bar as high as possible, and say no to anything that you feel less than ‘Hell yeah, that’ll be amazing!’” — Derek Sivers, Hell Yeah or No](https://sive.rs/hellyeah)_
 
 > _[“When you say no, you are only saying no to one option. When you say yes, you are saying no to every other option. No is a decision. Yes is a responsibility. Be careful what (and who) you say yes to. It will shape your day, your career, your family, your life.” — James Clear](https://jamesclear.com/saying-no)_ [^1]
 
