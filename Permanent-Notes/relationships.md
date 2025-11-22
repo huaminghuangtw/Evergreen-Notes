@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-11-17T06:29:32
+modified: 2025-11-20T18:10:26
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -95,7 +95,7 @@ When we find ourselves in an argument or debate with someone, we often become mo
 
 ---
 
-Remember: [Life is not a debate—it's not about winning the argument or being right.](https://tim.blog/2018/08/02/ann-miura-ko/) Winning an argument doesn’t make you right. Someone might win an argument and still be wrong. Being good at debating is not the same as being right.
+Remember: [Life is not a debate—it’s not about winning the argument or being right.](https://tim.blog/2018/08/02/ann-miura-ko/) Winning an argument doesn’t make you right. Someone might win an argument and still be wrong. Being good at debating is not the same as being right.
 
 ---
 
