@@ -1,7 +1,7 @@
 ---
 title: Judge others by intentions, judge ourselves by actions
 created: 2024-11-18T09:18:12
-modified: 2025-10-31T16:51:44
+modified: 2025-11-22T13:02:50
 ---
 
 > _“We judge ourselves by our intentions and others by their behavior.” — Stephen Covey_ [^1]
@@ -36,6 +36,10 @@ modified: 2025-10-31T16:51:44
 		* When you become resentful at someone for a negative “quality” they demonstrate, try to make a list of five positive qualities the person also exhibits.
 * So, take it easy on your fellow people. <mark>You never know their inner thoughts / can’t see inside their thoughts, you can only perceive the result of their actions in the world.</mark>
 * This mindset makes you less stressed, annoyed, reactive, and more compassionate, forgiving–even in your bad days!
+
+---
+
+善解人意＝善意地解釋他人的意思
 
 ---
 
