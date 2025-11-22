@@ -1,7 +1,7 @@
 ---
 title: Adaptability
 created: 2024-11-18T09:18:12
-modified: 2025-10-28T08:18:32
+modified: 2025-11-20T18:10:27
 ---
 
 > _“It is not the strongest of the species that survives, nor the most intelligent. It is the one most adaptable to change; but the species that survives is the one that is able best to adapt and adjust to the changing environment in which it finds itself.” — Charles Darwin_ [^1]
@@ -64,4 +64,4 @@ You’ll only go as far as your ability to absorb life’s punches and pivot on 
 [The Ship of Theseus](the-ship-of-theseus.md)
 
 [^1]: _[In the struggle for survival, the fittest win out at the expense of their rivals because they succeed in adapting themselves best to their environment.](https://www.darwinproject.ac.uk/people/about-darwin/six-things-darwin-never-said/evolution-misquotation)_
-[^2]: _[In theory, consistency is about being disciplined, determined, and unwavering. In practice, consistency is about being adaptable. Don't have much time? Scale it down. Don't have much energy? Do the easy version. Find different ways to show up depending on the circumstances. Let your habits change shape to meet the demands of the day. Adaptability is the way of consistency.](https://jamesclear.com/3-2-1/january-23-2025)_
+[^2]: _[In theory, consistency is about being disciplined, determined, and unwavering. In practice, consistency is about being adaptable. Don’t have much time? Scale it down. Don’t have much energy? Do the easy version. Find different ways to show up depending on the circumstances. Let your habits change shape to meet the demands of the day. Adaptability is the way of consistency.](https://jamesclear.com/3-2-1/january-23-2025)_
