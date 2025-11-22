@@ -1,7 +1,7 @@
 ---
 title: Seek for the truth
 created: 2024-11-18T09:18:12
-modified: 2025-11-17T09:45:30
+modified: 2025-11-20T18:10:26
 ---
 
 > _“Facts are the enemy of truth.” — Miguel de Cervantes_
@@ -10,7 +10,7 @@ modified: 2025-11-17T09:45:30
 
 > _“The great advantage about telling the truth is that nobody ever believes it.” — Dorothy L. Sayers_
 
-> _[“'The truth.' Dumbledore sighed. 'It is a beautiful and terrible thing, and should therefore be treated with great caution.'” — J.K. Rowling, Harry Potter and the Sorcerer's Stone](https://www.goodreads.com/quotes/29276-the-truth-dumbledore-sighed-it-is-a-beautiful-and-terrible)_
+> _[“’The truth.' Dumbledore sighed. ’It is a beautiful and terrible thing, and should therefore be treated with great caution.'” — J.K. Rowling, Harry Potter and the Sorcerer’s Stone](https://www.goodreads.com/quotes/29276-the-truth-dumbledore-sighed-it-is-a-beautiful-and-terrible)_
 
 > _[“A lie can travel half way around the world while the truth is putting on its shoes.” — Mark Twain](https://www.goodreads.com/quotes/76-a-lie-can-travel-half-way-around-the-world-while)_
 
