@@ -1,7 +1,7 @@
 ---
 title: Specialization is for insects
 created: 2025-01-23T10:40:57
-modified: 2025-10-25T09:15:07
+modified: 2025-11-20T18:10:26
 ---
 
 > _“At some level, all humans are broad. We’re all multivariate/multifaceted, but we get summarized in pithy ways in our lives.” — Naval Ravikant_
@@ -52,7 +52,7 @@ Many people call themselves “generalists” as a way to avoid specializing, bu
 
 ---
 
-[Don't specialize, hybridize](https://stephango.com/hybridize)
+[Don’t specialize, hybridize](https://stephango.com/hybridize)
 
 ---
 
