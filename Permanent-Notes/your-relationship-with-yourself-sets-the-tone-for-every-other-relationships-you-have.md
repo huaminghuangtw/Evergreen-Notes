@@ -1,7 +1,7 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T05:35:58
+modified: 2025-11-20T18:10:26
 ---
 
 > _“Your relationship with yourself sets the tone for every other relationship you have.” — Robert Holden_
@@ -48,7 +48,7 @@ To fall in love with yourself is the first secret to [happiness](happiness.md).
 
 > _“We live in a world with a lot of insecure, jealous people. Some of them are our best friends. They are blood relatives. Failure terrifies them. So does our success. Because when we transcend what we once thought possible, push our limits, and become more, our light reflects off all the walls they’ve built up around them. Your light enables them to see the contours of their own prison, their own self-limitations. But if they are truly the great people you always believed them to be, their jealousy will evolve, and soon their imagination might hop its fence, and it will be their turn to change for the better.” — [@gogginsCantHurtMe2018]_
 
-> _[“We are all meant to shine, as children do. We were born to make manifest the glory of God that is within us. It's not just in some of us; it's in everyone. And as we let our own light shine, we unconsciously give other people permission to do the same. As we are liberated from our own fear, our presence automatically liberates others.” ― Marianne Williamson, A Return to Love: Reflections on the Principles of “A Course in Miracles”](https://www.goodreads.com/quotes/928-our-deepest-fear-is-not-that-we-are-inadequate-our)_ [^5]
+> _[“We are all meant to shine, as children do. We were born to make manifest the glory of God that is within us. It’s not just in some of us; it’s in everyone. And as we let our own light shine, we unconsciously give other people permission to do the same. As we are liberated from our own fear, our presence automatically liberates others.” ― Marianne Williamson, A Return to Love: Reflections on the Principles of “A Course in Miracles”](https://www.goodreads.com/quotes/928-our-deepest-fear-is-not-that-we-are-inadequate-our)_ [^4]
 
 ---
 
@@ -98,4 +98,4 @@ Learn to laugh at yourself. The more you can laugh at yourself, the happier you�
 [^1]: The way the world treats you is a reflection of the way you treat yourself.
 [^2]: _“How people treat you is their karma; how you react is yours.” — Dr. Wayne Dyer_
 [^3]: _“Sometimes you have to lose all you have to find out who you truly are.” — Roy T. Bennett_
-[^5]: <https://youtu.be/2_fDhqRk_Ro>
+[^4]: <https://youtu.be/2_fDhqRk_Ro>
