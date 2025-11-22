@@ -1,7 +1,7 @@
 ---
 title: Busyness
 created: 2024-11-18T09:18:12
-modified: 2025-11-15T05:35:03
+modified: 2025-11-20T18:10:27
 ---
 
 > _“Beware the barrenness of a busy life.” — Socrates_
@@ -12,7 +12,7 @@ modified: 2025-11-15T05:35:03
 
 > _“Busyness is no different from laziness when it doesn’t lead you to accomplish anything.” ― [@baileyProductivityProjectAccomplishing2016]_
 
-> _“I’m about to make a wild, extreme and severe relationship rule: the word busy is a load of crap and is most often used by assholes. The word “busy” is the relationship Weapon of Mass Destruction. Remember: men are never too busy to get what they want.” — Greg Behrendt, [He's Just Not That Into You: The No-Excuses Truth to Understanding Guys](https://www.goodreads.com/work/quotes/822184)_
+> _“I’m about to make a wild, extreme and severe relationship rule: the word busy is a load of crap and is most often used by assholes. The word “busy” is the relationship Weapon of Mass Destruction. Remember: men are never too busy to get what they want.” — Greg Behrendt, [He’s Just Not That Into You: The No-Excuses Truth to Understanding Guys](https://www.goodreads.com/work/quotes/822184)_
 
 ---
 
