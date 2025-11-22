@@ -1,7 +1,7 @@
 ---
 title: Why we exist?
 created: 2024-11-18T09:18:12
-modified: 2025-11-11T06:05:01
+modified: 2025-11-22T13:15:31
 ---
 
 > _[“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)_
@@ -56,7 +56,7 @@ Both because of and in spite of his awareness of the meaninglessness of life, he
 
 The purpose of life is a life of purpose.
 
-= Life’s Highest Calling = Life Purpose/Mission/Meaning/Aspirations = Core Values/Philosophies/Principles = Life Truth North / North Star = Dharma = [Ikigai](https://www.japan.go.jp/kizuna/2022/03/ikigai_japanese_secret_to_a_joyful_life.html) [^1] = plan de vida = 人生使命 = 個人天職/命
+= Life’s Highest Calling = Life Purpose/Mission/Meaning/Aspirations = Core Values/Philosophies/Principles = Life Truth North / North Star = Dharma = [[Ikigai]] = plan de vida = 人生使命 = 個人天職/命
 
 ---
 
@@ -125,7 +125,7 @@ Successful people don’t have a career, they have a mission. Most of them are t
 * The great use of life is to spend it for something that outlasts it. To be remembered by people is to live forever.
 * _The sad part is, that I will probably end up loving you without you for much longer than I loved you when I knew you. Some people might find that strange. But the truth of it is that the amount of love you feel for someone and the impact they have on you as a person, is in no way relative to the amount of time you have known them.” — Ranata Suzuki_
 * _[“To live in hearts we leave behind is not to die.” — Thomas Campbell](https://www.goodreads.com/quotes/8204-to-live-in-hearts-we-leave-behind-is-not-to)_
-* _[“Your biological age is the number of days you've lived. Your psychological age is the number of thoughts you've entertained. Your sociological age is the number of contributions you've made.” — James Clear](https://jamesclear.com/3-2-1/december-12-2024)_
+* _[“Your biological age is the number of days you’ve lived. Your psychological age is the number of thoughts you’ve entertained. Your sociological age is the number of contributions you’ve made.” — James Clear](https://jamesclear.com/3-2-1/december-12-2024)_
 * _“(It’s true that) none of us will get to live forever(, but) none of the people who die are gone. They’re with us every day. I once heard a pastor at a church say that they’re like ships sailing out of the harbor. Yes, at some point, as they get past the horizon, we can’t see them anymore. But that doesn’t mean they’re gone. I don’t think we ever lose the people who pass away. They stay with us every day, in our memories, but also in the way they shaped our lives.” — Arnold Schwarzenegger_
 * _“No one is finally dead until the ripples they cause in the world die away, until the clock wound up winds down, until the wine she made has finished its ferment, until the crop they planted is harvested. The span of someone’s life is only the core of their actual existence.” — Terry Pratchett, Reaper Man_
 
@@ -214,5 +214,4 @@ Maslow’s [Hierarchy/Pyramid of Needs](https://en.wikipedia.org/wiki/Maslow%27s
 
 [Everyone is on their own timeline](everyone-is-on-their-own-timeline.md)
 
-[^1]: What you are good at + What you love + What you can be paid for + What the world needs
-[^2]: _[“God, kids or mission, pick at least one. Preferably all three. It's very liberating.” — Naval Ravikant](https://www.youtube.com/watch?v=KyfUysrNaco&t=4473s)_
+[^2]: _[“God, kids or mission, pick at least one. Preferably all three. It’s very liberating.” — Naval Ravikant](https://www.youtube.com/watch?v=KyfUysrNaco&t=4473s)_
