@@ -1,7 +1,7 @@
 ---
 title: Stress & Anxiety
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T15:05:23
+modified: 2025-11-22T15:09:01
 ---
 
 > _“Stress happens when the mind resists what is.” — Dan Millman_
@@ -74,8 +74,11 @@ Ask yourself: “_Will this crisis really matter one year from now?_”
 If you want to curb stress, you need to curate your thoughts. When you identify a “broken soundtrack” (repetitive [negative thought](negative-thoughts-and-emotions.md)), you should run it through these three questions:
 
 * _Is it true?_
-* _Is it helpful?_ (Does it push you forward or hold you back?)
-* _Is it kind?_ (If you said it to a friend, would they still want to be your friend?)
+	* If so, where’s the proof? [^1]
+* _Is it helpful?_
+	* Does it push you forward or hold you back?
+* _Is it kind?_
+	* If you said it to a friend, would they still want to be your friend?
 
 If they’re not accurate, not serving you and making you feel worse, discard them immediately.
 
@@ -131,3 +134,5 @@ Often, stress and anxiety come from the lack of a plan to bridge the gap between
 ---
 
 [The Sedona Method](the-sedona-method.md)
+
+[^1]: The best way to deal with a deceiving mind is to get out of the mind and take action to prove it wrong.
