@@ -1,7 +1,7 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2025-11-18T15:23:57
+modified: 2025-11-22T15:02:48
 ---
 
 > _“Love is the absence of judgment.” — Dalai Lama_
@@ -32,7 +32,7 @@ modified: 2025-11-18T15:23:57
 
 > _“The most important aspect of love is not in giving or the receiving: it’s in the being.” — Ram Dass_
 
-> _“When you love someone, you have to offer that person the best you have. The best thing we can offer another person is our true presence (full attention).” — Thích Nhất Hạnh_
+> _“When you love someone, you have to offer that person the best you have. The best thing we can offer another person is our true presence (full attention).” — Thích Nhất Hạnh_ [^1]
 
 > _“It’s enough for me to be sure that you and I exist at this moment.” — Gabriel García Márquez_
 
@@ -121,7 +121,7 @@ Find a partner who believes in you more than you believe in yourself.
 
 ---
 
-[Find someone you genuinely enjoy spending time with doing nothing. Life isn't about the glamorous moments—most of long-term relationships are spent just chilling—quietly sitting around and doing nothing.](https://www.sahilbloom.com/newsletter/how-we-spend-our-time)
+[Find someone you genuinely enjoy spending time with doing nothing. Life isn’t about the glamorous moments—most of long-term relationships are spent just chilling—quietly sitting around and doing nothing.](https://www.sahilbloom.com/newsletter/how-we-spend-our-time)
 
 * A great romantic relationship is not only finding the person you have fun with, but also finding the person you want to be bored with. The beauty of long-term relationships is often hidden in boring, ordinary moments.
 
@@ -213,3 +213,5 @@ Don’t make assumptions about your partner’s feelings — just ask.
 ---
 
 When arguing, the goal is come to a consensus, not to “win.”
+
+[^1]: _“Attention is the rarest and purest form of generosity.” — Simone Weil_
