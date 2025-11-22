@@ -1,10 +1,10 @@
 ---
 title: The Law of Attraction
 created: 2025-10-26T15:33:23
-modified: 2025-10-27T08:34:06
+modified: 2025-11-22T13:00:38
 ---
 
-= 吸引力法則
+= 吸引力法則 ≈ [Frequency Illusion](https://www.google.com/search?q=Frequency+Illusion) = [Baader–Meinhof phenomenon](https://www.google.com/search?q=Baader%E2%80%93Meinhof+phenomenon) =[Selective Attention](https://www.google.com/search?q=Selective+Attention)
 
 * You become what you constantly think about.
 	* Easy to spot a yellow car when you are always thinking of a yellow car.
