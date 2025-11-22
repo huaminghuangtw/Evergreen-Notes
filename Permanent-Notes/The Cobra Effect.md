@@ -1,7 +1,7 @@
 ---
 title: The Cobra Effect
 created: 2024-11-18T09:18:12
-modified: 2025-07-16T21:23:30
+modified: 2025-11-20T18:10:27
 ---
 
 = 眼鏡蛇效應
@@ -22,4 +22,4 @@ A famous story on the power (or danger) of [incentives](incentives.md):
 >
 > In response, many of the breeders simply released their now-worthless cobras onto the streets, _increasing the population of cobras_.
 
-**The Cobra Effect** is an example of [Goodhart's Law](https://sketchplanations.com/goodharts-law), which says that _when a measure becomes a target, it ceases to be a good measure_. Simply put, if a _measure_ of performance becomes a _stated goal_, humans tend to optimize for it, regardless of any associated consequences. The measure often loses its value as a measure.
+**The Cobra Effect** is an example of [Goodhart’s Law](https://sketchplanations.com/goodharts-law), which says that _when a measure becomes a target, it ceases to be a good measure_. Simply put, if a _measure_ of performance becomes a _stated goal_, humans tend to optimize for it, regardless of any associated consequences. The measure often loses its value as a measure.
