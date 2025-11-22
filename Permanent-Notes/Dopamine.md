@@ -1,7 +1,7 @@
 ---
 title: Dopamine
 created: 2024-11-18T09:18:12
-modified: 2025-11-10T14:57:30
+modified: 2025-11-20T18:10:27
 ---
 
 > _“Persons with severe addictions are among those contemporary prophets that we ignore to our own demise, for they show us who we truly are. (重度成癮者是當代的預言家，不把他們當一回事，沒有好下場的是我們，因為他們反映的正是我們真實的面貌)” — Kent Dunnington_
@@ -38,7 +38,7 @@ The point is to be mindful of cultivating both a mixture of activities that requ
 
 In order to keep the reward systems of your brain working for you instead of against you, it can be wise to avoid things that lead to big dopamine increases without much effort. Beware anything that delivers high dopamine with minimal effort. Keep the amount of effort scaled with the amount of dopamine.
 
-[Dopamine is a powerful neurotransmitter that is responsible for our pleasure from effort. It's accessible to all of us, but can be inhibited by factors that can interfere with and prevent us from getting dopamine release from effort itself, such as spiking dopamine before and/or after engaging in effort.](https://www.hubermanlab.com/episode/controlling-your-dopamine-for-motivation-focus-and-satisfaction)
+[Dopamine is a powerful neurotransmitter that is responsible for our pleasure from effort. It’s accessible to all of us, but can be inhibited by factors that can interfere with and prevent us from getting dopamine release from effort itself, such as spiking dopamine before and/or after engaging in effort.](https://www.hubermanlab.com/episode/controlling-your-dopamine-for-motivation-focus-and-satisfaction)
 
 ---
 
