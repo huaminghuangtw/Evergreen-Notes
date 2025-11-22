@@ -1,7 +1,7 @@
 ---
 title: How to live a life
 created: 2024-11-18T09:18:12
-modified: 2025-11-18T16:10:33
+modified: 2025-11-20T18:10:27
 ---
 
 > _“As long as you live, keep learning how to live.” — Seneca_
@@ -20,7 +20,7 @@ modified: 2025-11-18T16:10:33
 
 > _“Live life as though nobody is watching, and express yourself as though everyone is listening.” — Nelson Mandela_
 
-> _[“I think a good formula for a pretty good life at the simplest level is independence plus purpose. You need to have a purpose that is bigger than yourself… and you need to have the independence to make sure you can do it on your own terms rather than chasing somebody else's goal. That's the highest level of psychological well-being, independence and purpose.” — Morgan Housel](https://www.hubermanlab.com/episode/morgan-housel-understand-apply-the-psychology-of-money-to-gain-greater-happiness)_
+> _[“I think a good formula for a pretty good life at the simplest level is independence plus purpose. You need to have a purpose that is bigger than yourself… and you need to have the independence to make sure you can do it on your own terms rather than chasing somebody else’s goal. That’s the highest level of psychological well-being, independence and purpose.” — Morgan Housel](https://www.hubermanlab.com/episode/morgan-housel-understand-apply-the-psychology-of-money-to-gain-greater-happiness)_
 
 > _“A master in the art of living draws no sharp distinction between his work and his play; his labor and his leisure; his mind and his body; his education and his recreation. He hardly knows which is which. He simply pursues his vision of excellence through whatever he is doing, and leaves others to determine whether he is working or playing. To himself, he always appears to be doing both.” — Lawrence Pearsall Jacks_
 
@@ -46,7 +46,7 @@ Life is neither a problem to be solved nor a game to be won.
 
 ---
 
-[Life isn't just about where we're going, but how we get there.](journey-over-destination.md)
+[Life isn’t just about where we’re going, but how we get there.](journey-over-destination.md)
 
 ---
 
