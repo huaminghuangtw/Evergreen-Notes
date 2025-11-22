@@ -1,7 +1,7 @@
 ---
 title: The Art of Quitting
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:13:59
+modified: 2025-11-20T18:10:26
 ---
 
 > _“I am as proud of what we don’t do as I am of what we do.” — Steve Jobs_
@@ -44,7 +44,7 @@ The skill is knowing the difference.
 
 ---
 
-Your capacity to [say 'No'](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md) determines your capacity to say ‘Yes’ to greater things.
+Your capacity to [say ’No'](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md) determines your capacity to say ‘Yes’ to greater things.
 
 ---
 
