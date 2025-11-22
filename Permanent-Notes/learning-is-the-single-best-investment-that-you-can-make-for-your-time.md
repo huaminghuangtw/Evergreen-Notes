@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-11-17T06:14:52
+modified: 2025-11-20T18:10:27
 ---
 
 Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
@@ -155,11 +155,11 @@ Always starting from the most basic and simplest level, then adding more complex
 
 [@abdaalFeelGoodProductivityHow2024]
 
-> _[“Next time you’re feeling like a task or project is particularly difficult, ask yourself, 'What would it look like if I were really confident at this?' Just by asking yourself the question, you'll visualize yourself confidently approaching the task at hand. The switch has been flipped.” ― Ali Abdaal, Feel-Good Productivity: How to Do More of What Matters to You](https://www.goodreads.com/work/quotes/100097284-feel-good-productivity-how-to-do-more-of-what-matters-to-you)_
+> _[“Next time you’re feeling like a task or project is particularly difficult, ask yourself, ’What would it look like if I were really confident at this?' Just by asking yourself the question, you’ll visualize yourself confidently approaching the task at hand. The switch has been flipped.” ― Ali Abdaal, Feel-Good Productivity: How to Do More of What Matters to You](https://www.goodreads.com/work/quotes/100097284-feel-good-productivity-how-to-do-more-of-what-matters-to-you)_
 
 * Studying should be difficult—if you’re not worrying that you won’t be able to understand something you’re learning, it isn’t hard enough. [^2]
 * [Agitation (焦慮，躁動，緊張不安)](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%B9%81%E4%BD%93/agitation) is good, helping to release norepinephrine and adrenaline
-* [When you tackle a chunk of work, push for a result that is beyond — _but not too far beyond_ — what's comfortable for your current skill level. Design this chunk to feature enough difficulty that you _quickly get stuck_. At this point, you should slow down, and advance deliberately, in a state of real _mental strain_. This **stretch** is important to: (a) extract the most out of your current abilities; and (b) ensure that your abilities continue to improve. Finding chunks that require stretch, but are not so hard that you get permanently blocked, is non-trivival (very important).](https://calnewport.com/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/)
+* [When you tackle a chunk of work, push for a result that is beyond — _but not too far beyond_ — what’s comfortable for your current skill level. Design this chunk to feature enough difficulty that you _quickly get stuck_. At this point, you should slow down, and advance deliberately, in a state of real _mental strain_. This **stretch** is important to: (a) extract the most out of your current abilities; and (b) ensure that your abilities continue to improve. Finding chunks that require stretch, but are not so hard that you get permanently blocked, is non-trivival (very important).](https://calnewport.com/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/)
 * See also: [Do hard things](do-hard-things.md)
 
 ---
@@ -184,7 +184,7 @@ Always starting from the most basic and simplest level, then adding more complex
 
 		* _“Those who know, do. Those that understand, teach.” — Aristotle_
 			* You don’t fully understand a thing until you try to explain/speak for it
-			* [Explain It To Me Like I'm 5 (ELI5)](https://www.reddit.com/r/explainlikeimfive/)
+			* [Explain It To Me Like I’m 5 (ELI5)](https://www.reddit.com/r/explainlikeimfive/)
 		* The Protégé [^3] Effect [@chaseTeachableAgentsProtege2009]
 			* The people who had to teach others about a subject would learn the material better themselves.
 			* **Teachable Agents**
@@ -255,5 +255,5 @@ Always starting from the most basic and simplest level, then adding more complex
 [^2]: [The Learning Pit](https://sketchplanations.com/the-learning-pit)
 [^3]: refers to a person who is guided and supported by someone more experienced or knowledgeable
 [^4]: Especially the first night after learning something important to you, in order to maximize your chances of retaining the information. Without getting enough hours of quality sleep, you lose much of the chance to consolidate (“save”) the new information in your memory.
-[^5]: [After a good night's sleep, you’re 20-30% better in terms of skilled performance than where you were at the end of the practice session the day before.](https://www.youtube.com/watch?v=pwaWilO_Pig&t=32m37s)
+[^5]: [After a good night’s sleep, you’re 20-30% better in terms of skilled performance than where you were at the end of the practice session the day before.](https://www.youtube.com/watch?v=pwaWilO_Pig&t=32m37s)
 [^6]: [Neuroplasticity is TRIGGERED by deep focus, but neuroplasticity OCCURS during deep rest and sleep.](https://www.youtube.com/watch?v=SwQhKFMxmDY&t=37m14s)
