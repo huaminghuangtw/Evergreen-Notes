@@ -1,7 +1,7 @@
 ---
 title: Being indistractable is superpower
 created: 2025-01-23T18:40:57
-modified: 2025-11-17T06:19:02
+modified: 2025-11-20T18:10:27
 ---
 
 Being indistractable is about doing what you say you’re going to do.
@@ -46,7 +46,7 @@ Distraction isn’t a character flaw—it’s an [impulse control](Emotion%20Con
 		* Instead of disarming psychological reactance, a much better approach is to say, “Hey, I can check my phone if I want, but I choose to wait 10 minutes.”
 		* By [reframing](a-true-transformation-begins-with-a-mental-shift.md) the urge as a choice rather than a restriction, you engage with the internal trigger with _curiosity_ rather than _contempt_.
 		* Rather than being a _blamer_ who points to external factors or [a shamer who internalizes guilt](be-careful-how-you-are-talking-to-yourself.md), aim to be a _claimer_—someone who takes responsibility for managing discomfort by _having a clear plan_ for responding to urges, rather than trying to suppress them.
-		* This approach shows that you have _agency_—you can actually do what you say you’re going to do, and helps to [reinforce your identity to follow through on your intentions, proving you're not controlled by distractions.](your-identity-dictates-your-actions.md)
+		* This approach shows that you have _agency_—you can actually do what you say you’re going to do, and helps to [reinforce your identity to follow through on your intentions, proving you’re not controlled by distractions.](your-identity-dictates-your-actions.md)
 		* Another way of reasoning is that, you don’t immediately sneeze when you feel the urge to sneeze—you take a moment, grab a handkerchief, and cover your face to prevent getting everyone sick. Similarly, when you feel an urge, like checking your phone, instead of giving in impulsively, you pause, acknowledge it, and wait.
 		* Surfing the urge recognizes that internal triggers are like waves—you feel the emotions in the moment, and you allow them to crest and naturally subside, like a surfer riding on a surfboard until the wave is gone.
 
