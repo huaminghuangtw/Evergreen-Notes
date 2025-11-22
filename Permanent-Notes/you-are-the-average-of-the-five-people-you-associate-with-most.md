@@ -1,7 +1,7 @@
 ---
 title: You are the average of the five people you associate with most
 created: 2024-11-18T09:18:12
-modified: 2025-11-17T11:54:12
+modified: 2025-11-20T18:10:26
 ---
 
 > _“You are the average of the five people you spend the most time with.” ― Jim Rohn_
@@ -12,7 +12,7 @@ modified: 2025-11-17T11:54:12
 
 > _“If you hang out with chickens, you’re going to cluck and if you hang out with eagles, you’re going to fly.” — Steve Maraboli_
 
-> _[“Everyone you meet is a part of your journey, but not all of them are meant to stay in your life. Some people are just passing through to bring you gifts; either they're blessings or lessons.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7929987-everyone-you-meet-is-a-part-of-your-journey-but)_ [^1]
+> _[“Everyone you meet is a part of your journey, but not all of them are meant to stay in your life. Some people are just passing through to bring you gifts; either they’re blessings or lessons.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7929987-everyone-you-meet-is-a-part-of-your-journey-but)_ [^1]
 
 > _[“Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.” — Steve Maraboli](https://www.goodreads.com/quotes/525097-letting-go-means-to-come-to-the-realization-that-some)_ [^2]
 
