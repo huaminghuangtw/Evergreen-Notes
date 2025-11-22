@@ -1,7 +1,7 @@
 ---
 title: Focus is about saying no
 created: 2024-11-18T09:18:12
-modified: 2025-11-17T06:19:02
+modified: 2025-11-20T18:10:27
 ---
 
 > _“If you chase two rabbits, you catch none.” — Confucius_
@@ -10,13 +10,13 @@ modified: 2025-11-17T06:19:02
 
 > _[“Focus is about saying no.” — Steve Jobs](https://www.youtube.com/watch?v=H8eP99neOVs)_
 
-> _[“People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.” — Steve Jobs](https://www.goodreads.com/quotes/629613-people-think-focus-means-saying-yes-to-the-thing-you-ve)_
+> _[“People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.” — Steve Jobs](https://www.goodreads.com/quotes/629613-people-think-focus-means-saying-yes-to-the-thing-you-ve)_
 
 > _“Deciding what not to do is as important as deciding what to do.” — Steve Jobs_
 
 > _“In a world where [information is abundant and easy to access](information-overwhelm.md), the real advantage is knowing where to focus.” — James Clear_
 
-> _[“You're not focused enough unless you're mourning some of the things you're saying no to.” — James Clear](https://jamesclear.com/3-2-1/january-04-2024)_
+> _[“You’re not focused enough unless you’re mourning some of the things you’re saying no to.” — James Clear](https://jamesclear.com/3-2-1/january-04-2024)_
 
 > _“What focus means is saying ‘no’ to something that you believe with every bone in your body is a phenomenal idea. You wake up thinking about it, but you say ‘no’ to it because you’re focusing on something else.” — Jony Ive_
 
@@ -60,7 +60,7 @@ Since focus requires [saying no](if-it-isnt-fuck-yes-then-its-clear-no-thank-you
 
 * If you’re trying to find your way in an organization, it’s worth thinking about the most focused people around you and asking them about the best idea they’re not working on.
 * If you’re a company, it’s worth thinking about what your strongest competition is not doing.
-* _[“When competing against the incumbent, better to focus on what they won't do rather than what they can't do.” — Naval Ravikant](https://x.com/naval/status/745430655077486594)_
+* _[“When competing against the incumbent, better to focus on what they won’t do rather than what they can’t do.” — Naval Ravikant](https://x.com/naval/status/745430655077486594)_
 
 ---
 
