@@ -1,7 +1,7 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-11-20T05:13:54
+modified: 2025-11-20T18:10:26
 ---
 
 > _“Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot_
@@ -44,7 +44,7 @@ modified: 2025-11-20T05:13:54
 
 > _“At the end of the day, we can endure much more than we think we can.” — Frida Kahlo_
 
-> _[“Sometimes it takes a heartbreak to shake us awake & help us see we are worth so much more than we're settling for.” — Mandy Hale, The Single Woman–Life, Love, and a Dash of Sass: Embracing Singleness with Confidence](https://www.goodreads.com/quotes/862014-sometimes-it-takes-a-heartbreak-to-shake-us-awake)_
+> _[“Sometimes it takes a heartbreak to shake us awake & help us see we are worth so much more than we’re settling for.” — Mandy Hale, The Single Woman–Life, Love, and a Dash of Sass: Embracing Singleness with Confidence](https://www.goodreads.com/quotes/862014-sometimes-it-takes-a-heartbreak-to-shake-us-awake)_
 
 > _“Don’t let your imagination be crushed by life as a whole. Don’t try to picture everything bad that could possibly happen. Stick with the situation at hand, and ask, “Why is this so unbearable? Why can’t I endure it?” — [@markaurelMeditations2006]_
 
@@ -60,9 +60,9 @@ modified: 2025-11-20T05:13:54
 
 > _“The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.” — Michelangelo_
 
-> _[“Shoot for the moon. Even if you miss, you'll land among the stars.” — Norman Vincent Peale](https://www.goodreads.com/quotes/4324-shoot-for-the-moon-even-if-you-miss-you-ll-land)_
+> _[“Shoot for the moon. Even if you miss, you’ll land among the stars.” — Norman Vincent Peale](https://www.goodreads.com/quotes/4324-shoot-for-the-moon-even-if-you-miss-you-ll-land)_
 
-> _[“Most of what constrains us are invisible to us. This is why we have things called 'limiting beliefs.' Sometimes you need someone from the outside to point it out, and the humility to listen.” — Alex Hormozi](https://www.linkedin.com/posts/alexhormozi_10-truths-i-live-by-1-skills-stack-on-activity-7057390440928432128-SgO9/)_
+> _[“Most of what constrains us are invisible to us. This is why we have things called ’limiting beliefs.' Sometimes you need someone from the outside to point it out, and the humility to listen.” — Alex Hormozi](https://www.linkedin.com/posts/alexhormozi_10-truths-i-live-by-1-skills-stack-on-activity-7057390440928432128-SgO9/)_
 
 > _“Your dreams can take you much higher and much farther than anyone ever thought possible.” — Buzz Aldrin_
 
@@ -70,7 +70,7 @@ modified: 2025-11-20T05:13:54
 
 > _“Step out of the history that is holding you back. Step into the new story you are willing to create.” — Oprah Winfrey_
 
-> _[“You are as old as the risks you take. In many ways, aging is not the process of growing old, but rather the slow death of becoming overly protective, scared, and worried about losing what you have. Youth is found in the energy of going for it, taking the risk, and trusting that you'll figure it out along the way.” — James Clear](https://jamesclear.com/3-2-1/march-13-2025)_
+> _[“You are as old as the risks you take. In many ways, aging is not the process of growing old, but rather the slow death of becoming overly protective, scared, and worried about losing what you have. Youth is found in the energy of going for it, taking the risk, and trusting that you’ll figure it out along the way.” — James Clear](https://jamesclear.com/3-2-1/march-13-2025)_
 
 > _[“A bird is safe in its nest but that is not what its wings are made for.” — Amit Ray](https://www.goodreads.com/quotes/1512522-a-bird-is-safe-in-its-nest---but-that)_
 
@@ -121,7 +121,7 @@ You don’t know how much a rubber band can hold until you stretch it. And if yo
 
 1. Ask
 	* [“Ask and you shall receive.” — Matthew 7:7](https://biblehub.com/matthew/7-7.htm)
-	* [Closed mouths don't get fed.](https://youtu.be/zkTf0LmDqKI)
+	* [Closed mouths don’t get fed.](https://youtu.be/zkTf0LmDqKI)
 	* [The squeaky wheel gets the grease. (會吵的小孩有糖吃)](https://www.google.com/search?q=The+squeaky+wheel+gets+the+grease)
 2. Believe
 	* You can’t get to a place that you don’t believe exists.
