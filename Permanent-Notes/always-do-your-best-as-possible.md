@@ -1,7 +1,7 @@
 ---
 title: Always do your best as possible
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T05:27:29
+modified: 2025-11-20T18:10:27
 ---
 
 > _“Inspire yourself to be great. Being good isn’t good enough.” — Gurbaksh Chahal_
@@ -73,7 +73,7 @@ Quality over Quantity. Depth over Width.
 
 ---
 
-[Doing your best means positioning yourself for success. It's about creating the conditions to perform at your best rather than just hoping for the best in the moment.](https://fs.blog/doing-your-best/#:~:text=Doing%20your%20best%20means%20positioning,the%20best%20in%20the%20moment)
+[Doing your best means positioning yourself for success. It’s about creating the conditions to perform at your best rather than just hoping for the best in the moment.](https://fs.blog/doing-your-best/#:~:text=Doing%20your%20best%20means%20positioning,the%20best%20in%20the%20moment)
 
 ---
 
@@ -101,7 +101,7 @@ be locked in (on something)：表示一個人集中精神、全神貫注在某�
 
 ---
 
-#Newsletter 
+#Newsletter
 
 > _“When you show yourself to the world and display your talents, you naturally stir all kinds of resentment, envy, and other manifestations of insecurity. You cannot spend your life worrying about the petty feelings of others.” ― Robert Greene, The 48 Laws of Power_
 
