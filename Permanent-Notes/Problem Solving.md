@@ -1,7 +1,7 @@
 ---
 title: Problem Solving
 created: 2024-11-18T09:16:49
-modified: 2025-10-20T12:20:04
+modified: 2025-11-20T18:10:27
 ---
 
 The Monkeys \& Pedestals mental model by Annie Duke
@@ -20,7 +20,7 @@ Not just find solutions, find _scalable_ solutions.
 
 ---
 
-[Functional Fixedness: Duncker's Candle Problem](https://en.wikipedia.org/wiki/Candle_problem)
+[Functional Fixedness: Duncker’s Candle Problem](https://en.wikipedia.org/wiki/Candle_problem)
 
 ---
 
