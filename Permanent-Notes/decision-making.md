@@ -1,12 +1,12 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T05:42:15
+modified: 2025-11-22T15:10:23
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
 
-> _“It’s better to be boldly decisive and risk being wrong than to agonise at length and be right too late.” — Marilyn Moats Kennedy_
+> _“It’s better to be boldly decisive and risk being wrong than to agonise at length and be right too late.” — Marilyn Moats Kennedy_ [^1]
 
 > _“Learn to make non-fatal or easily reversible decisions as quickly as possible. Fast (not rushed) decisions preserve usable [attention](attention.md) for what matters. It’s deliberation—the time we vacillate over and consider each decision—consumes our attention. Embrace a choice-minimal lifestyle.” — [@ferriss4hourWorkweekEscape2011]_
 
@@ -16,7 +16,7 @@ modified: 2025-11-20T05:42:15
 
 # Naval Ravikant
 
-> _We live in an age of infinite leverage. What I mean by that is that your actions can be multiplied a thousandfold, either by broadcasting a podcast or by investing capital or by having people work for you or by writing code. So because of that, the impacts of good decision-making are much higher than they used to be because now you can influence thousands or millions of people through your decisions or your code. So clear mind leads to better (sound) [judgment](judgment-is-the-most-important-skill-in-an-age-of-infinite-leverage.md) leads to a better outcome. So a happy, calm, peaceful person will make better decisions and have better outcomes. So if you want to operate at peak performance, you have to learn how to tame your mind. [^1] Just like you have to learn how to tame your body._
+> _We live in an age of infinite leverage. What I mean by that is that your actions can be multiplied a thousandfold, either by broadcasting a podcast or by investing capital or by having people work for you or by writing code. So because of that, the impacts of good decision-making are much higher than they used to be because now you can influence thousands or millions of people through your decisions or your code. So clear mind leads to better (sound) [judgment](judgment-is-the-most-important-skill-in-an-age-of-infinite-leverage.md) leads to a better outcome. So a happy, calm, peaceful person will make better decisions and have better outcomes. So if you want to operate at peak performance, you have to learn how to tame your mind. [^2] Just like you have to learn how to tame your body._
 
 > _If you want to make the wrong decision, ask everyone._
 
@@ -27,7 +27,7 @@ modified: 2025-11-20T05:42:15
 * When faced with a difficult decision, ask yourself what your [80-year-old self](death.md) would want you to do.
 * Anytime you feel a high activation state of any kind of positive/negative emotions or internal arousal, you should pause/stop and reflect, because what’s happening is it’s revealing to you something very important.
 	* By reflecting on these states, we can uncover important lessons and insights that can inform our future decisions and actions.
-	* If you don’t stop to think about why I’m so upset or why I’m so happy, you’re gonna miss an important lesson. (similar to Alchemy 煉金術 \& Avocados [^2])
+	* If you don’t stop to think about why I’m so upset or why I’m so happy, you’re gonna miss an important lesson. (similar to Alchemy 煉金術 \& Avocados [^3])
 * **The Secretary Problem (The 37 Percent Rule) 撿石子理論**
 	* It implies that the optimal win probability is always at least 1/e (e is Napier’s Constant or Euler’s Number), and that the latter holds even in a much greater generality.
 		* 最佳觀察期為整條路段長度的 1/e ~ 0.36788 (略大於 1/3)
@@ -121,7 +121,7 @@ Razors
 	* If it looks like a duck, swims like a duck, and quacks like a duck, it’s probably a duck.
 	* You can determine a lot about a person by observing their habitual actions and characteristics.
 	* When someone tells you who they are, believe them the first time.
-* [The Hanlon's Razor](the-hanlons-razor.md)
+* [The Hanlon’s Razor](the-hanlons-razor.md)
 * The Hitchens’ Razor \& Newton’s Flaming Laser Sword
 	* Anything asserted without evidence can be dismissed without evidence.
 	* If something cannot be settled by reasonable experiment or observation, it’s not worth debating.
@@ -168,5 +168,6 @@ In Alice’s Adventures in Wonderland, there’s a scene in which Alice reaches 
 
 [Everything in life has an opportunity cost](Everything%20in%20life%20has%20an%20opportunity%20cost.md)
 
-[^1]: _“The mind is difficult to control; swiftly and lightly it moves wherever it pleases. It is good to tame the mind, for a well-tamed mind brings happiness.” — Dhammapada_
-[^2]: Not Yet → Not Yet → Not Yet → Not Yet → Time To Eat → Too Late
+[^1]: _“He who hesitates is a damned fool.” — Mae West_
+[^2]: _“The mind is difficult to control; swiftly and lightly it moves wherever it pleases. It is good to tame the mind, for a well-tamed mind brings happiness.” — Dhammapada_
+[^3]: Not Yet → Not Yet → Not Yet → Not Yet → Time To Eat → Too Late
