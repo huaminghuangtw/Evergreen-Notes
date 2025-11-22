@@ -1,7 +1,7 @@
 ---
 title: Live in the present
 created: 2024-11-18T09:18:12
-modified: 2025-11-19T21:00:06
+modified: 2025-11-20T18:10:27
 ---
 
 > _“It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.” — Dr. Robert Hutchings Goddard_
@@ -117,7 +117,7 @@ We often treat the present as a _vehicle for something else_, failing to see tha
 
 ---
 
-[Any moment when you're not in that moment, you are dead to that moment. The time you enjoy wasting is not a waste of time. The true waste of time is a time that you are not present for.](https://www.youtube.com/watch?v=KyfUysrNaco&t=5111s)
+[Any moment when you’re not in that moment, you are dead to that moment. The time you enjoy wasting is not a waste of time. The true waste of time is a time that you are not present for.](https://www.youtube.com/watch?v=KyfUysrNaco&t=5111s)
 
 ---
 
