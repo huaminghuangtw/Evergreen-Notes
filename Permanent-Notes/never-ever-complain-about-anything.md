@@ -1,7 +1,7 @@
 ---
 title: Never ever complain about anything
 created: 2024-11-18T09:18:12
-modified: 2025-11-04T20:09:33
+modified: 2025-11-20T18:10:26
 ---
 
 > _“If it’s endurable, then endure it. Stop complaining. If it’s unendurable … then stop complaining. Your destruction will mean its end as well. Just remember: you can endure anything your mind can make endurable, by treating it as in your interest to do so. In your interest, or in your nature.” — Marcus Aurelius_
@@ -12,7 +12,7 @@ modified: 2025-11-04T20:09:33
 
 ---
 
-[Don't complain about anything. If it's within your control, go do something about it (either change the situation or change your attitude.). If it's not, complaining is just a waste of energy. When you complain, you're giving too much power to the thing. Take back that power.](https://x.com/SahilBloom/status/1761376505874219427)
+[Don’t complain about anything. If it’s within your control, go do something about it (either change the situation or change your attitude.). If it’s not, complaining is just a waste of energy. When you complain, you’re giving too much power to the thing. Take back that power.](https://x.com/SahilBloom/status/1761376505874219427)
 
 ---
 
