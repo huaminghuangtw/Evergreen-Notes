@@ -1,7 +1,7 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2025-11-08T06:52:57
+modified: 2025-11-20T18:10:26
 ---
 
 > _[“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)_
@@ -24,7 +24,7 @@ modified: 2025-11-08T06:52:57
 
 > _“Our greatest glory is not in never failing, but in rising up every time we [fail](failing-forward-turns-setbacks-into-stepping-stones.md).” — Ralph Waldo Emerson_
 
-> _[“It's not about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward.” — Rocky balboa Sylvester Stallone](https://youtu.be/tZUC-uAGLEA)_
+> _[“It’s not about how hard you hit. It’s about how hard you can get hit and keep moving forward. How much you can take and keep moving forward.” — Rocky balboa Sylvester Stallone](https://youtu.be/tZUC-uAGLEA)_
 
 > _“Making progress isn’t always about moving forward. Sometimes it’s about bouncing back. Progress is not only reflected in the peaks you reach-it’s also visible in the valleys you cross. Resilience is a form of growth.” ― Adam Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
 
