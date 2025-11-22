@@ -1,12 +1,12 @@
 ---
 title: What Success Means To Me
 created: 2024-11-18T09:18:12
-modified: 2025-11-19T05:46:13
+modified: 2025-11-20T18:10:26
 ---
 
 > _“The road to success is always under construction.” — Steve Harvey_
 
-> _[“Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable. And you're the only one that will know that.” — John Wooden](https://www.youtube.com/watch?v=JWQIxuNGdvQ&t=95s)_
+> _[“Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable. And you’re the only one that will know that.” — John Wooden](https://www.youtube.com/watch?v=JWQIxuNGdvQ&t=95s)_
 
 > _“Success is not how high you have climbed, but how you make a positive difference to the world.” — Roy T. Bennett_
 
@@ -53,11 +53,11 @@ modified: 2025-11-19T05:46:13
 1. 想：知道自己想要/不想要什麼、定義自己的平衡/甜蜜點
 2. 做：有能力真正地得到/避免自己想要/不想要 の 東西、想辦法站在上面，死都不要下來
 
-[Life is a game of awareness and action: Awareness to understand something's importance and action to execute on that importance.](https://www.sahilbloom.com/newsletter/11-uncommon-lessons-from-uncommon-minds)
+[Life is a game of awareness and action: Awareness to understand something’s importance and action to execute on that importance.](https://www.sahilbloom.com/newsletter/11-uncommon-lessons-from-uncommon-minds)
 
 ---
 
-> _[“Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness that most frightens us. We ask ourselves, 'Who am I to be brilliant, gorgeous, talented, fabulous?' Actually, who are you not to be? You are a child of God. Your playing small does not serve the world. There is nothing enlightened about shrinking so that other people won't feel insecure around you. We are all meant to shine, as children do. We were born to make manifest the glory of God that is within us. It's not just in some of us; it's in everyone. And as we let our own light shine, we unconsciously give other people permission to do the same. As we are liberated from our own fear, our presence automatically liberates others.” ― Marianne Williamson, A Return to Love: Reflections on the Principles of “A Course in Miracles”](https://www.goodreads.com/quotes/928-our-deepest-fear-is-not-that-we-are-inadequate-our)_
+> _[“Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness that most frightens us. We ask ourselves, ’Who am I to be brilliant, gorgeous, talented, fabulous?' Actually, who are you not to be? You are a child of God. Your playing small does not serve the world. There is nothing enlightened about shrinking so that other people won’t feel insecure around you. We are all meant to shine, as children do. We were born to make manifest the glory of God that is within us. It’s not just in some of us; it’s in everyone. And as we let our own light shine, we unconsciously give other people permission to do the same. As we are liberated from our own fear, our presence automatically liberates others.” ― Marianne Williamson, A Return to Love: Reflections on the Principles of “A Course in Miracles”](https://www.goodreads.com/quotes/928-our-deepest-fear-is-not-that-we-are-inadequate-our)_
 
 「我們最大的恐懼，並非自己不夠好，而是遠比想像中更強大。我們最怕的不是失敗，而是做自己的成功。」[^3]
 
