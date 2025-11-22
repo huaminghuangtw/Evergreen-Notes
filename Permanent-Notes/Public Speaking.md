@@ -1,7 +1,7 @@
 ---
 title: Public Speaking
 created: 2025-01-23T10:40:57
-modified: 2025-11-10T06:58:22
+modified: 2025-11-20T18:10:27
 ---
 
 ![](../_attachments/6c8f79badba8703f7e8f9c978dca4d9c.webp)
@@ -76,7 +76,7 @@ The goal of any pitches/presentations: understandable/easy-to-understand for oth
 
 ---
 
-# [If you're public speaking for the 1st time:](https://x.com/AlexHormozi/status/1768476853394956325)
+# [If you’re public speaking for the 1st time:](https://x.com/AlexHormozi/status/1768476853394956325)
 
 * No more than 1 big idea
 * 1 visual aid per slide
