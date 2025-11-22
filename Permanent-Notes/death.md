@@ -1,20 +1,20 @@
 ---
 title: Death
 created: 2024-11-18T09:18:12
-modified: 2025-11-15T09:16:01
+modified: 2025-11-20T18:10:27
 ---
 
 > _“The free man thinks of death, least of all things.” — Benedict Spinoza_
 
 > _“The meaning of life is that it stops.” — Franz Kafka_
 
-> _[“To the well-organized mind, death is but the next great adventure.” — J.K. Rowling, Harry Potter and the Sorcerer's Stone](https://www.goodreads.com/quotes/4864-to-the-well-organized-mind-death-is-but-the-next-great)_
+> _[“To the well-organized mind, death is but the next great adventure.” — J.K. Rowling, Harry Potter and the Sorcerer’s Stone](https://www.goodreads.com/quotes/4864-to-the-well-organized-mind-death-is-but-the-next-great)_
 
 > _“I’m the one that’s got to die when it’s time for me to die, so let me live my life the way I want to.” — Jimi Hendrix_
 
-> _[“If you live each day as it was your last, someday you'll most certainly be right.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=552)_
+> _[“If you live each day as it was your last, someday you’ll most certainly be right.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=552)_
 
-> _[“Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=580)_
+> _[“Remembering that I’ll be dead soon is the most important tool I’ve ever encountered to help me make the big choices in life.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=580)_
 
 > _[“Almost everything…just fall[s] away in the face of death, leaving only what is truly important…Remembering that you are going to die is the best way I know to avoid the trap of thinking: you have something to lose. You are already naked. There is no reason not to follow your heart.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=587)_
 
@@ -108,7 +108,7 @@ To avoid these mistakes, [Paul Graham](https://paulgraham.com/todo.html) inverte
 4. Cultivate friendships
 5. Be happy
 
-Takeaway: [The biggest regrets aren't about _failing_; they're about _not trying at all_.](https://youtu.be/RcYv5x6gZTA) No one ever said: “_I wish I hadn’t tried so many things._” [^4] or “_I wish I hadn’t been so adventurous with my life._” on their deathbed. More often than not, people regret the chances they didn’t take, the dreams they set aside, and the experiences they were too afraid to pursue.
+Takeaway: [The biggest regrets aren’t about _failing_; they’re about _not trying at all_.](https://youtu.be/RcYv5x6gZTA) No one ever said: “_I wish I hadn’t tried so many things._” [^4] or “_I wish I hadn’t been so adventurous with my life._” on their deathbed. More often than not, people regret the chances they didn’t take, the dreams they set aside, and the experiences they were too afraid to pursue.
 
 Remarks: Through history, people have gone back into their own pasts, sometime to a precious, unstructured time in their life, and often, the mind gravitates in the past to a moment of shame, some sin of anger/self-pity committed, some act of selfishness, an act of omission/shallowness, a lack of courage.
 
