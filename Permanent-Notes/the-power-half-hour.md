@@ -1,7 +1,7 @@
 ---
 title: The Power Half-Hour
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-11-20T18:10:26
 ---
 
 Breaking your day into “snackable” 30-minute chunks/bites could help boost [productivity](Productivity.md)
@@ -10,7 +10,7 @@ Breaking your day into “snackable” 30-minute chunks/bites could help boost [
 
 ---
 
-[The Parkinson's Law](the-parkinsons-law.md)
+[The Parkinson’s Law](the-parkinsons-law.md)
 
 ---
 
