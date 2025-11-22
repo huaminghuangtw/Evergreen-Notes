@@ -1,7 +1,7 @@
 ---
 title: The absence of desire is true happiness
 created: 2024-11-18T09:18:12
-modified: 2025-11-16T06:47:21
+modified: 2025-11-20T18:10:26
 ---
 
 > _「有求皆苦，無求即樂」— 達摩祖師《二入四行觀》_
@@ -22,7 +22,7 @@ modified: 2025-11-16T06:47:21
 
 [@mansonSubtleArtNot2016]
 
-> _[“The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one's negative experience is itself a positive experience. — Mark Manson, The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/work/quotes/48297245-the-subtle-art-of-not-giving-a-f-ck-a-counterintuitive-approach-to-livi)_
+> _[“The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one’s negative experience is itself a positive experience. — Mark Manson, The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/work/quotes/48297245-the-subtle-art-of-not-giving-a-f-ck-a-counterintuitive-approach-to-livi)_
 
 ---
 
