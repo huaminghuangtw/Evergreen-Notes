@@ -1,7 +1,7 @@
 ---
 title: Prioritization
 created: 2024-11-18T09:18:12
-modified: 2025-11-04T16:05:59
+modified: 2025-11-22T15:05:42
 ---
 
 > _“The whole point of getting things done is knowing what to leave undone.” — Oswald Chambers_
@@ -51,6 +51,11 @@ If you have more than 3 priorities, you don’t have any. You must choose what t
 	* **Downside:** Possibility to build a skill that you carry/reapply elsewhere
 * Example
 	* Writing Twitter tweets/threads
+	* Asking someone on a date
+
+The best type of risks to take are ones where (1) the worst outcome is manageable and (2) the best outcome is life-changing.
+
+Look for opportunities where it won’t kill you if it goes poorly, but you’d be blown away if it goes well.
 
 ---
 
