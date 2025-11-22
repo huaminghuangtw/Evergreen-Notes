@@ -1,7 +1,7 @@
 ---
 title: Emotion Control
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T05:48:09
+modified: 2025-11-20T18:10:27
 ---
 
 > _“Emotional sickness is avoiding reality at any cost. Emotional health is facing reality at any cost.” — [M. Scott Peck](https://quotefancy.com/m-scott-peck-quotes)_
@@ -30,11 +30,11 @@ Give yourself a fixed amount of time (~24 hours) to feel frustrated or [angry](a
 
 ---
 
-[Don't get mad, get even.](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/don-t-get-mad-get-even)
+[Don’t get mad, get even.](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/don-t-get-mad-get-even)
 
 ---
 
-Think of your mind as a train station platform. Emotions—anxiety, anger, sadness, etc.—are like trains constantly passing through, each heading to a different destination. [The ideal approach is to stay on the platform when you recognize an emotional train you'd rather not take. You observe it, acknowledge it, but choose not to board.](acceptance-and-commitment-therapy.md)
+Think of your mind as a train station platform. Emotions—anxiety, anger, sadness, etc.—are like trains constantly passing through, each heading to a different destination. [The ideal approach is to stay on the platform when you recognize an emotional train you’d rather not take. You observe it, acknowledge it, but choose not to board.](acceptance-and-commitment-therapy.md)
 
 But often, despite our best efforts, we find ourselves on the train before we even realize it. And that’s okay—we’re human. We get [triggered](choose-your-response.md), we get frustrated. What matters most is [awareness](mastering-yourself-is-superpower.md). First, recognize when you’ve stepped onto the wrong train. Then, practice getting off before it takes you too far. Practice long enough, and the rides will become shorter. Eventually, you’ll develop the ability to stay grounded—mindfully choosing which trains are worth the journey.
 
