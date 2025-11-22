@@ -1,20 +1,20 @@
 ---
 title: Just focus on the next decision
 created: 2024-11-18T09:18:12
-modified: 2025-11-09T14:21:42
+modified: 2025-11-22T13:05:06
 ---
 
 > _[“You are always just one good decision away from being in a better place tomorrow — just focus on the next decision.” — Sahil Bloom](https://www.sahilbloom.com/newsletter/information-action-gap-one-decision-away-more)_
 
 > _“Any success takes one in a row. Do one thing well, then another. Once, then once more. Over and over until the end, then it’s one in a row again.” — [@mcconaugheyGreenlights2021]_
 
-> _[“At some point, everything's gonna go south on you and you're going to say, this is it. This is how I end. Now you can either accept that, or you can get to work. That's all it is. You just begin. You do the math. You solve one problem and you solve the next one, and then the next. And If you solve enough problems, you get to come home.” — The Martian](https://www.youtube.com/watch?v=mDYCLFE86Po)_
+> _[“At some point, everything’s gonna go south on you and you’re going to say, this is it. This is how I end. Now you can either accept that, or you can get to work. That’s all it is. You just begin. You do the math. You solve one problem and you solve the next one, and then the next. And If you solve enough problems, you get to come home.” — The Martian](https://www.youtube.com/watch?v=mDYCLFE86Po)_
 
 > _“Doing the best at this moment puts you in the best place for the next moment.” — Oprah Winfrey_
 
 > _“We take care of the future best by taking care of the present now.” — Jon Kabat-Zinn_
 
-> _[“You can't make time go faster or success come sooner. The only thing you can control is the next action.” — James Clear](https://jamesclear.com/3-2-1/april-24-2025)_
+> _[“You can’t make time go faster or success come sooner. The only thing you can control is the next action.” — James Clear](https://jamesclear.com/3-2-1/april-24-2025)_
 
 ---
 
@@ -47,6 +47,7 @@ Stop thinking about the damn wall!
 Don’t try to solve everything. Focus on one clear step you can take right now. [Progress](journey-over-destination.md), not [perfection](perfectionism.md).
 
 ---
+
 
 [Decision Making](decision-making.md)
 
