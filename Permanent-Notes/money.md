@@ -1,7 +1,7 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2025-11-12T16:53:49
+modified: 2025-11-22T15:34:55
 ---
 
 > _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
@@ -79,7 +79,7 @@ Reasonable \> Rational
 	* 人生的價值，不在金錢的總和，而在體驗的加總。
 * Skills get you to a million, character/charisma takes you to 100 million, and time brings you to a billion.
 
-	> _“The reason you’re not making $10m a year is that you don't know HOW to make $10m a year. Therefore, that lack of knowledge is costing you $10m a year.” — Alex Hormozi_
+	> _“The reason you’re not making $10m a year is that you don’t know HOW to make $10m a year. Therefore, that lack of knowledge is costing you $10m a year.” — Alex Hormozi_
 
 * The only way to make a lot of money is to create a lot of value. [^6]
 * MONEY and TIME is a balancing act. Stop trading/renting time for money, so money can create more time for you.
@@ -112,7 +112,7 @@ Reasonable \> Rational
 
 	> _“There are many things money can buy, but the most valuable of all is freedom. Freedom to do what you want and to work for whom you respect.”_
 
-	> _[“What's the point of having f\*ck you money if you never say f\*ck you?”](https://www.youtube.com/shorts/upfyoQdc_r4)_
+	> _[“What’s the point of having f\*ck you money if you never say f\*ck you?”](https://www.youtube.com/shorts/upfyoQdc_r4)_
 
 	* 金錢最大的價值是買回/留下「自由」，也就是「選擇權」。
 	* [Wealth](wealth-creation.md) is hidden. Wealth is the money you don’t spend. Wealth is the nice car you don’t buy. Wealth is the big house you don’t purchase. Wealth is the financial assets that haven’t yet been converted into the stuff you see. Wealth is an option not yet taken to buy something later.
@@ -159,6 +159,7 @@ Reasonable \> Rational
 	1. <u>Beginner</u>: If you can’t afford it twice, don’t buy it.
 	2. <u>Advanced</u>: If it’s more than 10% of your income don’t buy it.
 	3. <u>Pro</u>: If it’s not making you more money, only buy it if your assets can pay for it.
+
 
 ---
 
