@@ -1,7 +1,7 @@
 ---
 title: Time is the most valuable asset
 created: 2024-11-18T09:18:12
-modified: 2025-11-15T05:39:56
+modified: 2025-11-20T18:10:26
 ---
 
 > _“The price of anything is the amount of life you exchange for it.” — Henry David Thoreau_
@@ -84,4 +84,4 @@ To put it in perspective:
 
 At age 20, you likely have around two billion seconds remaining (assuming you live to 80). By 50, that number drops to just one billion.
 
-**[Treat time as your ultimate currency—it's all you have and you can never get it back. Trade it carefully. Spend it wisely, with those you love, in ways you’ll never regret.](https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-changed-my-life)**
+**[Treat time as your ultimate currency—it’s all you have and you can never get it back. Trade it carefully. Spend it wisely, with those you love, in ways you’ll never regret.](https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-changed-my-life)**
