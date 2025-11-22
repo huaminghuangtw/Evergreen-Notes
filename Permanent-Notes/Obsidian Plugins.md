@@ -1,7 +1,7 @@
 ---
 title: Obsidian Plugins
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-11-20T18:10:27
 ---
 
 <https://www.reddit.com/r/Anki/comments/16ttr4w/what_are_the_essential_anki_addons_for_effective/>
@@ -25,7 +25,7 @@ modified: 2025-08-29T08:30:45
 - [ ] Text Generator
 	* How to use template to automate prompts like ““Improve:”?
 - [ ] !!! Excalidraw / ExcaliBrain !!! (for <u>Visual PKM</u>: drawing, interconnected diagrams, mind mapping, etc.)
-	* [Zsolt's Visual Personal Knowledge Management - YouTube](https://www.youtube.com/@VisualPKM)
+	* [Zsolt’s Visual Personal Knowledge Management - YouTube](https://www.youtube.com/@VisualPKM)
 	* “Mind Map” plugin
 	* [GitHub - ddalexb/obsidian-simple-canvasearch](https://github.com/ddalexb/obsidian-simple-canvasearch)
 	* Replace Third-Part Apps
