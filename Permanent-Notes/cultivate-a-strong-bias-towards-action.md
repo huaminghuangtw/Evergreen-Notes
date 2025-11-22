@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2025-11-14T15:36:24
+modified: 2025-11-20T18:10:27
 ---
 
 > _“To be is to do.” — Immanuel Kant_
@@ -107,7 +107,7 @@ Remember: [The world is run by people no smarter than you.](https://www.swyx.io/
 
 大部分的人在「知道」和「做到」之間有很大的鴻溝（知易行難）
 
-[Life is a game of awareness and action: Awareness to understand something's importance and action to execute on that importance.](https://www.sahilbloom.com/newsletter/11-uncommon-lessons-from-uncommon-minds)
+[Life is a game of awareness and action: Awareness to understand something’s importance and action to execute on that importance.](https://www.sahilbloom.com/newsletter/11-uncommon-lessons-from-uncommon-minds)
 
 ---
 
@@ -185,7 +185,7 @@ There is no later, because later you’ll be [dead](death.md).
 
 ---
 
-# [Things That Aren't Doing the Thing](https://strangestloop.io/essays/things-that-arent-doing-the-thing)
+# [Things That Aren’t Doing the Thing](https://strangestloop.io/essays/things-that-arent-doing-the-thing)
 
 > Preparing to do the thing isn’t doing the thing.
 >
