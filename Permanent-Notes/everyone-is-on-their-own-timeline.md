@@ -1,7 +1,7 @@
 ---
 title: Everyone is on their own timeline
 created: 2024-11-18T09:18:12
-modified: 2025-11-04T16:06:26
+modified: 2025-11-20T18:10:27
 ---
 
 > _“One’s own dharma performed imperfectly is better than another’s dharma well performed…It is better to strive in one’s own dharma than to succeed in the dharma of another.” — Bhagavad Gita_
@@ -35,13 +35,13 @@ You need to destroy the idea that there’s an expectation to do thin
 
 You can’t predict when you find your _thing_ in life. You may find it at 20, or it may take until you’re 50+.
 
-[There's no such a fixed path—you create your own.](https://www.instagram.com/sahilbloom/reel/C8EwaGXgEfA/)
+[There’s no such a fixed path—you create your own.](https://www.instagram.com/sahilbloom/reel/C8EwaGXgEfA/)
 
 Just keep exploring until you find your thing, then go deep and direct all of your energy, attention, and focus towards it.
 
 No matter where you are in life _today_, you’re always one good decision away from being in a better place _tomorrow_—[just focus on the next decision](just-focus-on-the-next-decision.md).
 
-It’s okay to be lost sometimes, but [never compare your timeline to other people's, because it's a pointless comparison](comparison-is-the-thief-of-joy.md). Don’t let anyone rush you with their timelines. Don’t get stuck in a life that isn’t yours. Don’t live a life that isn’t yours. [^1]
+It’s okay to be lost sometimes, but [never compare your timeline to other people’s, because it’s a pointless comparison](comparison-is-the-thief-of-joy.md). Don’t let anyone rush you with their timelines. Don’t get stuck in a life that isn’t yours. Don’t live a life that isn’t yours. [^1]
 
 [Life is neither a race, nor a competition.](escape-competition-through-authenticity.md) There are no rules to life. Not everything in life has to come together at the exact same time. There is no such thing as “too late” or “falling behind” when it comes to life. You might be [too scared](fear.md), but you are never too late.
 
