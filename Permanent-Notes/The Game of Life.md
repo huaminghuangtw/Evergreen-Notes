@@ -1,7 +1,7 @@
 ---
 title: The Game of Life
 created: 2024-11-18T09:18:12
-modified: 2025-11-07T08:40:29
+modified: 2025-11-20T18:10:27
 ---
 
 > _[The reason to play the game is to be free of it.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)_
@@ -31,7 +31,7 @@ modified: 2025-11-07T08:40:29
 
 ---
 
-# [Winner's Game vs. Loser's Game](https://www.sahilbloom.com/newsletter/winners-game-vs-losers-game)
+# [Winner’s Game vs. Loser’s Game](https://www.sahilbloom.com/newsletter/winners-game-vs-losers-game)
 
 In the 1999 tennis book, _Extraordinary Tennis for the Ordinary Tennis Player_, author Simon Ramo broke down the difference between amateur and professional tennis, writing that they were two different types of games:
 
