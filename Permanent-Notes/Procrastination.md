@@ -1,7 +1,7 @@
 ---
 title: Procrastination
 created: 2024-11-18T09:18:12
-modified: 2025-11-10T06:58:22
+modified: 2025-11-20T18:10:26
 ---
 
 > _“To begin, begin.” — William Wordsworth_
@@ -58,7 +58,7 @@ Inspiration is perishable. Act IMMEDIATELY at the moment of inspiration. Follow 
 
 # The Solution
 
-* When you find yourself procrastinating, [don't resist. Instead lean into it.](acceptance-and-commitment-therapy.md) Procrastinate 100%. Try to do absolutely nothing for 5 minutes. Make it your job. You’ll fail. After 5 minutes, you’ll be ready and eager to work.
+* When you find yourself procrastinating, [don’t resist. Instead lean into it.](acceptance-and-commitment-therapy.md) Procrastinate 100%. Try to do absolutely nothing for 5 minutes. Make it your job. You’ll fail. After 5 minutes, you’ll be ready and eager to work.
 * If you tend to procrastinate, remind yourself, “I’m doing this for my future self” or “so my future self won’t have to.”
 
 	> _“The more you see yourself like a stranger, the more likely you are to give your future self the same workload that you would give a stranger, and the more likely you are to put things off to tomorrow—for your future self to do.” — [@baileyProductivityProjectAccomplishing2016]_
