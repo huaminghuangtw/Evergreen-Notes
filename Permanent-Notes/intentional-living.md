@@ -1,12 +1,12 @@
 ---
 title: Intentional Living
 created: 2024-11-18T09:18:12
-modified: 2025-11-15T19:33:07
+modified: 2025-11-20T18:10:27
 ---
 
 > _“Get busy living, or get busy dying.” — Stephen King_
 
-> _[“If you're not busy being born, you're busy dying.” — Bob Dylan](https://www.bobdylan.com/songs/its-alright-ma-im-only-bleeding/)_
+> _[“If you’re not busy being born, you’re busy dying.” — Bob Dylan](https://www.bobdylan.com/songs/its-alright-ma-im-only-bleeding/)_
 
 > _“The whole future lies in uncertainty: live immediately.” — Seneca_ [^1]
 
@@ -42,7 +42,7 @@ Stop wasting your life. Start living now.
 
 > _“The quality, not the longevity, of one’s life is what is important.” — Martin Luther King, Jr._
 
-> _[“We don't beat the reaper by living longer, but by living well, and living fully — for the reaper will come for all of us. The question is: what do we do between the time we're born and the time he shows up. Because when he shows up, it's too late to do all the things that you're always gonna, kinda get around to. **It is not the things we do in life that we regret on our death bed. It is the things we do not.**” — Randy Pausch](https://youtu.be/RcYv5x6gZTA)_
+> _[“We don’t beat the reaper by living longer, but by living well, and living fully — for the reaper will come for all of us. The question is: what do we do between the time we’re born and the time he shows up. Because when he shows up, it’s too late to do all the things that you’re always gonna, kinda get around to. **It is not the things we do in life that we regret on our death bed. It is the things we do not.**” — Randy Pausch](https://youtu.be/RcYv5x6gZTA)_
 
 ---
 
