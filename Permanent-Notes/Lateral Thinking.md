@@ -1,7 +1,7 @@
 ---
 title: Lateral Thinking
 created: 2024-11-18T09:16:49
-modified: 2025-11-17T14:39:45
+modified: 2025-11-20T18:10:27
 ---
 
 > _“The young man knows the rules, but the old man knows the exceptions.” — Oliver Wendell Holmes, Sr._
@@ -50,7 +50,7 @@ Simulating [Innovation](Innovation.md) → Disruptive [Innovation](Innovation.md
 
 ---
 
-Turn off filters. [Don't be too conservative.](be-ready-to-change-your-mind-completely-at-any-given-time.md)
+Turn off filters. [Don’t be too conservative.](be-ready-to-change-your-mind-completely-at-any-given-time.md)
 
 ---
 
