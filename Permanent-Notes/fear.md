@@ -1,7 +1,7 @@
 ---
 title: Fear
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T05:13:54
+modified: 2025-11-22T15:06:13
 ---
 
 > _“Danger is real, fear is a choice” ― Will Smith_
@@ -24,6 +24,8 @@ modified: 2025-11-20T05:13:54
 
 > _[“Do not fear failure but rather fear not trying.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/8131554-do-not-fear-failure-but-rather-fear-not-trying)_
 
+> _“Of all the liars in the world, sometimes the worst are our own fears.” — Rudyard Kipling_
+
 ---
 
 If you can’t beat the fear, do it scared.
@@ -40,7 +42,7 @@ If we’re controlled by fear, we’re in the mode of ignorance.
 
 ---
 
-[Fear comes from inexperience, not incapability. You're afraid because you haven't done it yet, not because you can't do it.](https://x.com/SahilBloom/status/1910310140995416458)
+[Fear comes from inexperience, not incapability. You’re afraid because you haven’t done it yet, not because you can’t do it.](https://x.com/SahilBloom/status/1910310140995416458)
 
 ---
 
