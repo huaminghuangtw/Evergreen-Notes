@@ -1,7 +1,7 @@
 ---
 title: Deliberate Heat Cold Exposure
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:46
+modified: 2025-11-22T06:30:45
 ---
 
 # Heat Exposure
@@ -18,10 +18,10 @@ modified: 2025-08-29T08:30:46
 
 # Cold Exposure
 
-* ≈ Cryotherapy [^1]
+* ≈ Cryotherapy ≈ Cold-Water Immersion [^1]
 * Formats
 	* Cold shower
-	* Ice baths
+	* Ice bath
 		* Pro Tip: The less water you use, the less ice you need to lower the temperature.
 	* Cold plunge = Cold water immersion
 		* Always dunk. Dip your face. Full send finish is mandatory! [^2]
