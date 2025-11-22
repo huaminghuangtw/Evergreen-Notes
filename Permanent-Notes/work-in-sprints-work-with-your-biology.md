@@ -1,7 +1,7 @@
 ---
 title: Work in sprints, work with your biology
 created: 2024-11-18T09:18:12
-modified: 2025-11-15T13:29:30
+modified: 2025-11-20T18:10:26
 ---
 
 > _“If you want to operate at maximum productivity, efficiency, and creativity, you’re going to work on things that you’re excited about at the moment you’re excited about them and accept nothing less. It is better to sit on your butt and do nothing than it is to work on things that you are not excited about.” — Naval Ravikant_
@@ -115,6 +115,6 @@ According to the research, “_The secret to retaining the highest level of prod
 [^2]: **Circadian Rhythm (= 生理時鐘 = 晝夜節律):** Every cell/organ in our body/brain is modulated or changes in a very regular and predictable rhythm across the 24-hour day.
 [^3]: Don’t work like a cow, standing in the field all day, grazing grass at a slow pace—move with the precision of a hawk or the focus of a lion stalking its prey.
 [^4]: [Why is Lionel Messi always walking during matches?](https://www.reddit.com/r/InterMiami/comments/15x8xvh/why_does_messi_walk_alot_well_here_you_go/)
-[^5]: [LeBron James walks a lot. During the regular season, about 74.4 percent of James' time on the court was spent walking. Again, this was in the top 10 in the league. Almost no one walked up and down the floor more than James. And in the playoffs, he's walking even more—8.7 percent of the time.](https://www.espn.com/nba/story/_/id/23384071/lebron-james-plays-rests-keep-cleveland-cavaliers-hopes-alive)
+[^5]: [LeBron James walks a lot. During the regular season, about 74.4 percent of James' time on the court was spent walking. Again, this was in the top 10 in the league. Almost no one walked up and down the floor more than James. And in the playoffs, he’s walking even more—8.7 percent of the time.](https://www.espn.com/nba/story/_/id/23384071/lebron-james-plays-rests-keep-cleveland-cavaliers-hopes-alive)
 [^6]: Draugiem Group’s study found that the most effective workers didn’t adhere to rigid 8-hour shifts or short breaks every hour. Instead, they alternated between productive 52-minute sessions and restorative 17-minute breaks, allowing their brains to stay fresh and efficient.
 [^7]: The most productive workers weren’t the ones who chained themselves to their desks for eight-hour days, nor those who took a seemingly healthy five-minute break every hour. Instead, they discovered that working in 52-minute bursts, followed by 17-minute breaks, allowed their brains to recharge, maximizing focus and productivity for the next session.
