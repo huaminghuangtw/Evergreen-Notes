@@ -1,7 +1,7 @@
 ---
 title: Neuroscience
 created: 2024-11-18T09:18:12
-modified: 2025-11-17T13:55:26
+modified: 2025-11-20T18:10:27
 ---
 
 The brain is a monkey brain with a supercomputer on top.
@@ -105,7 +105,7 @@ The brain is a monkey brain with a supercomputer on top.
 	* Ninety-five percent of our brain activity is unconscious, meaning that most of our decisions, actions, emotions, and behaviors are driven by processes outside of our conscious awareness. [Ninety-five percent of who you are is a subconscious or even an unconscious state of being. And that means your conscious mind’s five percent is working against the ninety-five percent of what you’ve memorized subconsciously.](https://www.instagram.com/drjoedispenza/p/CVA50vgg-Ui/)
 	* ⭐️ The unconscious really influences our [decision-making](decision-making.md) or [habits](be-a-habit-and-routine-machine.md)
 		* The subconscious mind tends to take everything literally, without distinguishing between positive and negative input. It doesn’t analyze or reason on its own—it simply follows the directions it receives from your conscious thoughts. So, if you constantly tell yourself that you’ll never succeed at something, chances are, that belief will shape your reality. As Henry Ford famously said, _“Whether you think you can, or you think you can’t—you’re right.”_
-		* Your subconscious is designed to store and retrieve data—nothing more, nothing less. It doesn’t judge or analyze; it simply records and replays. It also ensures you react to that stored data—your “programming”—exactly as it was originally logged. So, if you formed a belief early on, like “I’m not good enough,” that program will continue running quietly in the background, influencing every decision you make. It shapes your behavior, locks you into familiar patterns, and reinforces a self-concept that feels “safe,” [even if it's limiting](push-your-limits.md)—until you consciously choose to [upgrade that programming](a-true-transformation-begins-with-a-mental-shift.md).
+		* Your subconscious is designed to store and retrieve data—nothing more, nothing less. It doesn’t judge or analyze; it simply records and replays. It also ensures you react to that stored data—your “programming”—exactly as it was originally logged. So, if you formed a belief early on, like “I’m not good enough,” that program will continue running quietly in the background, influencing every decision you make. It shapes your behavior, locks you into familiar patterns, and reinforces a self-concept that feels “safe,” [even if it’s limiting](push-your-limits.md)—until you consciously choose to [upgrade that programming](a-true-transformation-begins-with-a-mental-shift.md).
 	* [Extended Mind Thesis by Andy Clark and David Chalmers](https://en.wikipedia.org/wiki/Extended_mind_thesis)
 		![](../_attachments/a135fc8c995209eb21fb030ba06c94fa.png)
 * If the unconscious mind runs the show most of the time, the key is to **become more conscious of the unconscious**.
