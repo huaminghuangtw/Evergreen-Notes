@@ -1,7 +1,7 @@
 ---
 title: The Compounding Effect
 created: 2024-11-18T09:18:12
-modified: 2025-11-16T17:19:03
+modified: 2025-11-20T18:10:26
 ---
 
 > _“Compounding is the 8th wonder of the world.” — Albert Einstein_
@@ -115,7 +115,7 @@ The gradual acceptance of negative change, because it happens in such small incr
 
 ## James Clear
 
-> _[“Success is largely the failures you avoid. Health is the injuries you don't sustain. Wealth is the purchases you don't make. Happiness is the objects you don't desire. Peace of mind is the arguments you don't engage. Avoid the bad to protect the good.”](https://jamesclear.com/3-2-1/march-27-2025)_
+> _[“Success is largely the failures you avoid. Health is the injuries you don’t sustain. Wealth is the purchases you don’t make. Happiness is the objects you don’t desire. Peace of mind is the arguments you don’t engage. Avoid the bad to protect the good.”](https://jamesclear.com/3-2-1/march-27-2025)_
 
 ## Charlie Munger
 
