@@ -1,7 +1,7 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2025-11-18T06:46:58
+modified: 2025-11-22T13:21:35
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -57,6 +57,8 @@ There is a Zen Buddhist saying: “What do you do before enlightenment? _Chop w
 > _“No tree, it is said, can grow to heaven unless its roots reach down to hell.” — Carl Jung_
 
 > _“When the root is strong, the fruit is sweet.” — Bob Marley_
+
+> _「先為不可勝，以待敵之可勝」—《孫子兵法》_
 
 * [蹲馬步](slow-down-to-speed-up.md) — [持續地把每件瑣 (碎的小) 事循序漸進、按部就班地做好才是成功的關鍵。](https://youtu.be/mZPN9W-jPm4)
 * 一步一步來，有一才有二
