@@ -1,7 +1,7 @@
 ---
 title: Walk
 created: 2024-11-18T09:16:50
-modified: 2025-11-17T14:30:08
+modified: 2025-11-20T18:10:26
 ---
 
 > _“A walk in nature walks the soul back home.” — Mary Davis_
@@ -66,7 +66,7 @@ Goal: 8000–10000 steps per day
 * **Break Walks**
 * **Active Walks:** I will often spend my active walks listening to an audiobook or podcast, or thinking about something specific that I want to work through (a problem, writing idea, etc.).
 * **Passive “Tech-Free” Walks**
-	* Passive walks are “atelic” [^1] activities (meaning they are done with no goal in mind). These walks are 30-60 minutes and are done at a slow, leisurely pace with no technology. Leave your phone at home. [Let your mind wander. Allow your ideas to mingle. I'd suggest bringing a little pocket notebook to log anything interesting that comes into your head (it will happen!).](creativity-is-just-connecting-things.md)
+	* Passive walks are “atelic” [^1] activities (meaning they are done with no goal in mind). These walks are 30-60 minutes and are done at a slow, leisurely pace with no technology. Leave your phone at home. [Let your mind wander. Allow your ideas to mingle. I’d suggest bringing a little pocket notebook to log anything interesting that comes into your head (it will happen!).](creativity-is-just-connecting-things.md)
 	* Raw dog your walks. When you go out for a walk, leave your phone behind—no calls, no music, no podcasts. Just you and your thoughts. It’s one of the best things you can do for your brain and mind, and I promise you’ll feel the difference.
 	* Go on a walk without phone.
 * Nordic Walking
