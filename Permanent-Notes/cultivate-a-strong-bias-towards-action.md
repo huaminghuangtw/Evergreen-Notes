@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:27
+modified: 2025-11-23T07:12:25
 ---
 
 > _“To be is to do.” — Immanuel Kant_
@@ -20,7 +20,7 @@ modified: 2025-11-20T18:10:27
 
 > _“It isn’t what we say or think that defines us, but what we do.” ― Jane Austen_
 
-> _「不做不知道，做了才知道，輸得起就好」 — 郝旭烈_
+> _“A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.” — George Bernard Shaw_
 
 > _“Some people want it to happen, some wish it would happen, others make it happen.” — Michael Jordan_
 
@@ -48,6 +48,10 @@ Just Fucking Do It (#JFDI)!
 
 * 先做再說
 * 先盡全力搞砸再說
+
+---
+
+不做不知道，做了才知道，犯錯沒關係，輸得起就好。
 
 ---
 
