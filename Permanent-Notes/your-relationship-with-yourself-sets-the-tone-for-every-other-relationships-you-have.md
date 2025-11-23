@@ -1,7 +1,7 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:26
+modified: 2025-11-23T07:40:12
 ---
 
 > _“Your relationship with yourself sets the tone for every other relationship you have.” — Robert Holden_
@@ -23,6 +23,8 @@ modified: 2025-11-20T18:10:26
 > _“If I am not good to myself, how can I expect anyone else to be good to me?” — Maya Angelou_
 
 > _“When you are content to be simply yourself and don’t compare or compete, everyone will respect you.” — Lao Tzu_
+
+> _“Low self esteem is like driving through life with your handbrake on.” — Maxwell Maltz_
 
 ---
 
