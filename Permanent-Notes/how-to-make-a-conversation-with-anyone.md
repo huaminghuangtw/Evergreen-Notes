@@ -1,7 +1,7 @@
 ---
 title: How to make a conversation with anyone
 created: 2025-04-05T08:17:57
-modified: 2025-11-19T21:00:06
+modified: 2025-11-23T11:31:11
 ---
 
 # [7 Ways to Make a Conversation With Anyone | Malavika Varadan](https://youtu.be/F4Zu5ZZAG7I)
@@ -41,7 +41,7 @@ Active constructive responses, which involve genuine engagement and building on 
 # The Principles of Connected Conversation
 
 * Principle 1: Create Doorknobs (that lead to a story rather than end the conversation)
-* Principle 2: Be a Loud [Listener](Active%20Listening.md)
+* Principle 2: Be a Loud [Listener](active-listening.md)
 	* <u>Sounds</u>: Saying “yes” or “uh-huh” or “hmm” to signal listening and encourage continued energy from the speaker.
 	* <u>Facial Expressions</u>: Changing facial expressions to react physically to the story being told.
 	* <u>Body Language</u>: Forward lean posture towards the speaker signals engagement and positive energy. Never turn away or sideways, as it signals you are trying to leave a conversation and immediately hurts the energy of a moment.
