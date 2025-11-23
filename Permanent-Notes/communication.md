@@ -1,7 +1,7 @@
 ---
 title: Communication
 created: 2024-11-18T09:18:12
-modified: 2025-10-31T14:01:51
+modified: 2025-11-23T11:31:11
 ---
 
 * Communication is not about saying what we think. Communication is about ensuring others hear what we mean.
@@ -86,7 +86,7 @@ The next time a friend, partner, or family member comes to you with a problem, r
 * _“Do you want to be helped, heard, or hugged?”_
 	* [The 3H (Helped, Heard, or Hugged) Method](https://www.youtube.com/watch?v=lg48Bi9DA54&t=3m40s)
 		1. **Practical**: _What is this really about?_ → You offer help.
-		2. **Emotional**: _How do we feel?_ → You simply [listen](Active%20Listening.md).
+		2. **Emotional**: _How do we feel?_ → You simply [listen](active-listening.md).
 		3. **Social**: _Who are we?_ → You reciprocate [vulnerability](vulnerability.md).
 * _“Do you want empathy or do you want a solution?”_
 
