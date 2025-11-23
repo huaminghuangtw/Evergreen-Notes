@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-11-20T18:10:27
+modified: 2025-11-23T17:00:22
 ---
 
 Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
@@ -208,8 +208,8 @@ Always starting from the most basic and simplest level, then adding more complex
 		2. Creating questions based on that topic
 		3. **Repeatedly (not just once, ideally 2-3 times)** testing yourself on those questions
 			* Interval Quizzes
-	* _**[Active (self-)testing is far better than passive re-reading or re-exposure to the material.](https://en.wikipedia.org/wiki/Forward_testing_effect) Test yourself ASAP with open-ended, short-answer, minimal-prompt questions after the FIRST exposure, to prevent forgetting and consolidate information.**_
-		* “[When you take a test on the material you just learned, you potentially improve the amount of retention by about 50%.](https://www.youtube.com/watch?v=ddq8JIMhz7c&t=4301s&ab_channel=AndrewHuberman)”
+	* **[Active (self-)testing is far better than passive re-reading or re-exposure to the material.](https://en.wikipedia.org/wiki/Forward_testing_effect) Test yourself ASAP with open-ended, short-answer, minimal-prompt questions after the FIRST exposure, to prevent forgetting and consolidate information.**
+		* [When you take a test on the material you just learned, you potentially improve the amount of retention by about 50%.](https://www.youtube.com/watch?v=ddq8JIMhz7c&t=4301s&ab_channel=AndrewHuberman)
 		* Error-Based Learning: Make sure to compare your answer to the accurate answer, and focus on understanding why you got questions wrong, as this helps to identify knowledge gaps and makes the correct information more memorable.
 		* View (self-)testing as a learning tool to build knowledge / enhance comprehension, not just to evaluate it.
 * Retrieval Practice
