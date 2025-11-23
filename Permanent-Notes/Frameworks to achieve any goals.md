@@ -1,7 +1,7 @@
 ---
 title: Frameworks to achieve any goals
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:11:57
+modified: 2025-11-23T07:12:33
 ---
 
 # 💡 Core Concept
@@ -44,4 +44,4 @@ modified: 2025-10-27T08:11:57
 
 ---
 
-# [The ABZ Framework](The%20ABZ%20Framework.md)
+# [The ABZ Framework](the-abz-framework.md)
