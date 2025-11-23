@@ -1,7 +1,7 @@
 ---
 title: Breathing Techniques
 created: 2025-10-08T05:07:10
-modified: 2025-11-19T21:00:06
+modified: 2025-11-23T15:23:15
 ---
 
 It’s this thing we do [20,000 times per day](#1), but we never really stop to consider how we’re actually doing it—or whether we could be doing it better.
@@ -89,3 +89,33 @@ So, a typical adult breathes roughly **23,000 times per day**.
 4. **憋氣（4 秒）:** 再次屏住呼吸，默數 4 秒。
 
 [想像一個正方形，每個邊都是 4 秒](https://sketchplanations.com/box-breathing)，跟著節奏繞行，就能穩定心率，找回專注。
+
+---
+
+# 冰人呼吸法 [Wim Hof](https://www.wimhofmethod.com) [Breathing Method](https://www.youtube.com/watch?v=nzCaZQqAs9I) [^1]
+
+## ① 進行 30～40 次強力深呼吸（Cyclic Hyperventilation）
+
+* 鼻子吸、嘴巴呼。
+* 每次吸氣都像海浪般帶動腹部與胸部。
+* 強力但不要用力過度，節奏穩定即可。
+
+## ② 最後一次呼吸：深深吸滿 → 完全吐氣
+
+* 在第 30~40 次的最後一次：盡可能深吸氣、完全吐氣。
+
+## ③ 屏息（Retention）
+
+* 吐氣後憋住呼吸，直到自然出現「想吸氣」的反應。
+* 通常為 1~3 分鐘。
+
+## ④ 恢復呼吸（Recovery Breath）
+
+* 當需要吸氣時：
+	* 深吸一大口氣，填滿肺部但不吐氣。
+	* 憋住 10~15 秒，再放鬆吐氣。
+* 完成一回合。
+
+## ⑤ 重複以上步驟（①～④），做 3~4 輪/回合
+
+[^1]: [The Wim Hof Method](https://www.wimhofmethod.com) is a comprehensive mind-body training system built on three pillars: **Breathing Technique**, **Cold Exposure**, and **Mindset & Commitment**.（是一套整合「呼吸控制」、「冷療訓練」與「意志專注」的完整身心鍛鍊系統）
