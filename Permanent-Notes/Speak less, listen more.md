@@ -1,7 +1,7 @@
 ---
 title: Speak less, listen more
 created: 2024-11-18T09:16:49
-modified: 2025-11-17T06:26:50
+modified: 2025-11-23T11:31:11
 ---
 
 > _[“Shallow rivers are noisy. Deep lakes are silent.” — Derek Sivers](https://sive.rs/h)_
@@ -14,13 +14,15 @@ modified: 2025-11-17T06:26:50
 
 ---
 
-The less you speak, the more you [listen](Active%20Listening.md) (and learn).
+The less you speak, the more you [listen](active-listening.md) (and learn).
 
 ---
 
 Talking is mentally taxing. Be still, less chatty. Keep your mouth shut as often as possible.
 
 ---
+
+> _“Nature has given us one tongue but two ears, that we may hear from others twice as much as we speak.” — Epictetus_
 
 Remember: You have two ears and one mouth. Therefore, you should listen twice as much as you speak.
 
@@ -55,7 +57,7 @@ Silence is more eloquent than [words](Be%20impeccable%20with%20your%20word.md). 
 
 ---
 
-Speak confidently. [Listen](Active%20Listening.md) carefully.
+Speak confidently. [Listen](active-listening.md) carefully.
 
 * Speak in such a way that others love to listen to you. Listen in such a way that others love to speak to you.
 
