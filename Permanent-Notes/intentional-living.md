@@ -1,7 +1,7 @@
 ---
 title: Intentional Living
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:27
+modified: 2025-11-23T11:49:42
 ---
 
 > _“Get busy living, or get busy dying.” — Stephen King_
@@ -33,6 +33,10 @@ modified: 2025-11-20T18:10:27
 ---
 
 Stop wasting your life. Start living now.
+
+---
+
+I don’t fear [death](death.md), I fear not living fully.
 
 ---
 
