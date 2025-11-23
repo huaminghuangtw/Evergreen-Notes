@@ -1,7 +1,7 @@
 ---
 title: Seek for the truth
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:26
+modified: 2025-11-23T07:11:10
 ---
 
 > _“Facts are the enemy of truth.” — Miguel de Cervantes_
@@ -19,6 +19,8 @@ modified: 2025-11-20T18:10:26
 > _[“Truth-seekers take feedback from nature (planes have to fly), free markets (customers have to buy), or competition (militaries have to win). Consensus-seekers take feedback from people (actors want fans, academics want honors, politicians want votes, journalists want status).” — Naval Ravikant](https://x.com/naval/status/1856965245690081637)_ [^1]
 
 > _[“The opposite of a correct statement is a false statement. But the opposite of a profound truth may well be another profound truth.” — Niels Bohr](https://www.goodreads.com/quotes/941-the-opposite-of-a-correct-statement-is-a-false-statement)_
+
+> _“The least deviation from truth will be multiplied later.” — Aristotle_
 
 ---
 
