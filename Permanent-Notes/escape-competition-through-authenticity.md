@@ -1,7 +1,7 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:27
+modified: 2025-11-24T10:04:58
 ---
 
 > _“Everything popular is wrong.” — Oscar Wilde_
@@ -86,12 +86,6 @@ The world doesn’t need one more _template_. It needs one more _rebel_.
 Attract \> Chase
 
 > _“If you spend your time chasing butterflies, they’ll fly away. But if you spend your time making/mending a beautiful garden, the butterflies will come.” — Mario Quintana_ [^3]
-
----
-
-> _“If the path before you is clear, you’re probably on someone else’s.” — Joseph Campbell_
-
-Do not go where the path may lead, go instead where there is no path and leave a trail. Remember that life is an adventure.
 
 ---
 
