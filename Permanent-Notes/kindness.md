@@ -1,7 +1,7 @@
 ---
 title: Kindness
 created: 2024-11-18T09:18:12
-modified: 2025-11-17T06:23:03
+modified: 2025-11-24T06:12:55
 ---
 
 > _“Kindness is a language which the deaf can hear and the blind can see.” — Mark Twain_
@@ -43,7 +43,7 @@ Treating people with deference — whether they’re above you (superior), besid
 
 ---
 
-[Empathy](Empathy.md)
+[Empathy](empathy.md)
 
 ---
 
