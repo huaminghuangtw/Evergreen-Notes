@@ -1,7 +1,7 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
 created: 2024-11-18T09:18:12
-modified: 2025-11-23T07:40:12
+modified: 2025-11-24T07:22:24
 ---
 
 > _“Your relationship with yourself sets the tone for every other relationship you have.” — Robert Holden_
@@ -37,20 +37,6 @@ To fall in love with yourself is the first secret to [happiness](happiness.md).
 ---
 
  [Self-esteem is the reputation that you have with yourself.](https://x.com/naval/status/819595652644491264) If you want to have high self-esteem, earn your self-respect first. The hardest respect to earn is one’s own. Treat yourself with respect.
-
----
-
-用力地把自己活成一道光，因爲你不知道，誰會藉著你的光，走出了黑暗。做自己的太陽，就能當別人的光；讓自己發光，就能照亮別人。[如果你心中有願望，請看著天上的星星，對自己許願。](https://www.youtube.com/watch?v=_ziTd2w06xk&t=18m39s)
-
-> _[“There are two ways of spreading light: to be the candle or the mirror that reflects it.” — Edith Wharton](https://www.brainyquote.com/quotes/edith_wharton_100511)_
-
-> _“We could beat the stars, falling from the sky. Shining how we want, brighter than the sun.” — Colbie Caillat, [Brighter Than the Sun](https://www.youtube.com/watch?v=KU5o6M7S5nQ)_
->
-> _“Try to be a rainbow in someone’s cloud.” — Maya Angelou_
-
-> _“We live in a world with a lot of insecure, jealous people. Some of them are our best friends. They are blood relatives. Failure terrifies them. So does our success. Because when we transcend what we once thought possible, push our limits, and become more, our light reflects off all the walls they’ve built up around them. Your light enables them to see the contours of their own prison, their own self-limitations. But if they are truly the great people you always believed them to be, their jealousy will evolve, and soon their imagination might hop its fence, and it will be their turn to change for the better.” — [@gogginsCantHurtMe2018]_
-
-> _[“We are all meant to shine, as children do. We were born to make manifest the glory of God that is within us. It’s not just in some of us; it’s in everyone. And as we let our own light shine, we unconsciously give other people permission to do the same. As we are liberated from our own fear, our presence automatically liberates others.” ― Marianne Williamson, A Return to Love: Reflections on the Principles of “A Course in Miracles”](https://www.goodreads.com/quotes/928-our-deepest-fear-is-not-that-we-are-inadequate-our)_ [^4]
 
 ---
 
@@ -97,7 +83,10 @@ Learn to laugh at yourself. The more you can laugh at yourself, the happier you�
 
 [Change yourself to change the world](change-yourself-to-change-the-world.md)
 
+---
+
+[Dare to be different](dare-to-be-different.md)
+
 [^1]: The way the world treats you is a reflection of the way you treat yourself.
 [^2]: _“How people treat you is their karma; how you react is yours.” — Dr. Wayne Dyer_
 [^3]: _“Sometimes you have to lose all you have to find out who you truly are.” — Roy T. Bennett_
-[^4]: <https://youtu.be/2_fDhqRk_Ro>
