@@ -1,7 +1,7 @@
 ---
 title: Why we exist?
 created: 2024-11-18T09:18:12
-modified: 2025-11-22T13:15:31
+modified: 2025-11-23T17:16:55
 ---
 
 > _[“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)_
@@ -95,7 +95,7 @@ Albert Camus argues that seeking a singular meaning of life can hinder truly liv
 > _“The best way to overcome the fear of death — so at least it seems to me — is to make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life.” — Bertrand Russell_
 
 * ⭐️ Not to find the meaning of life, but to use your life to create things that are meaningful.
-* Find something much bigger and more important than you are, and dedicate your life to it. [^2]
+* Find something much bigger and more important than you are, and dedicate your life to it. [^1]
 * Fulfillment is found through connection to something greater than the self.
 * The 3 Big Questions
 	* **The “1 Thing” Question:** If you had to boil life down to one truth or philosophy that makes life valuable, what is it?
@@ -214,4 +214,4 @@ Maslow’s [Hierarchy/Pyramid of Needs](https://en.wikipedia.org/wiki/Maslow%27s
 
 [Everyone is on their own timeline](everyone-is-on-their-own-timeline.md)
 
-[^2]: _[“God, kids or mission, pick at least one. Preferably all three. It’s very liberating.” — Naval Ravikant](https://www.youtube.com/watch?v=KyfUysrNaco&t=4473s)_
+[^1]: _[“God, kids or mission, pick at least one. Preferably all three. It’s very liberating.” — Naval Ravikant](https://www.youtube.com/watch?v=KyfUysrNaco&t=4473s)_
