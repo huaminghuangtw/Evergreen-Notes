@@ -1,7 +1,7 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2025-11-22T15:34:55
+modified: 2025-11-23T17:16:55
 ---
 
 > _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
@@ -159,7 +159,6 @@ Reasonable \> Rational
 	1. <u>Beginner</u>: If you can’t afford it twice, don’t buy it.
 	2. <u>Advanced</u>: If it’s more than 10% of your income don’t buy it.
 	3. <u>Pro</u>: If it’s not making you more money, only buy it if your assets can pay for it.
-
 
 ---
 
