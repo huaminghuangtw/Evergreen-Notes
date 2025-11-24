@@ -1,7 +1,7 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2025-11-22T13:21:35
+modified: 2025-11-24T06:56:34
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -25,6 +25,12 @@ modified: 2025-11-22T13:21:35
 > _“Don’t stop. Don’t even think about stopping until you get there, and don’t give much thought to where ‘there’ is. Whatever comes, just don’t stop.” — Phil Knight_---
 
 > _“Every day of our lives, we are on the verge of making those slight changes that would make all the difference.” — Mignon McLaughlin_
+
+---
+
+| ![](../_attachments/7250564ec2d06c4dedc8ef32672fbc90.jpg) |
+| :-: |
+| <sub>Source: _The Psychology of Money_ by Morgan Housel</sub> |
 
 ---
 
