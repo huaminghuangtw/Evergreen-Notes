@@ -1,7 +1,7 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2025-11-22T15:02:48
+modified: 2025-11-24T16:39:23
 ---
 
 > _“Love is the absence of judgment.” — Dalai Lama_
@@ -82,12 +82,16 @@ Growing in love > Falling in love
 
 # The Secret To Love: Become What You Seek / Be The Person You Want To Meet
 
+> _“To find a worthy mate, be worthy of a worthy mate.” — Charlie Munger_
+
 * By Charlie Munger
 	* Q: “How do you find a worthy mate?” → A: “Be worthy of a worthy mate.”
 	* Q: “How to find a good spouse?” → A: “The best single way is to deserve a good spouse.”
 * Attract > Chase
 
 	> _“If you spend your time chasing butterflies, they’ll fly away. But if you spend your time making/mending a beautiful garden, the butterflies will come.” — Mario Quintana_
+
+[Change yourself to change the world](change-yourself-to-change-the-world.md)
 
 ---
 
