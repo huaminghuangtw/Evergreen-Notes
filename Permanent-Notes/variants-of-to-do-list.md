@@ -1,7 +1,7 @@
 ---
 title: Variants of to-do list
 created: 2025-01-23T10:40:57
-modified: 2025-08-29T08:30:45
+modified: 2025-11-24T10:09:31
 ---
 
 **Could-Do List → Should-Do List → Must-Do list
@@ -9,8 +9,10 @@ modified: 2025-08-29T08:30:45
 
 ---
 
-**To-Do List → To-Start List**
+# To-Do List → To-Start List
+
 ![](../_attachments/031b6000cd744ccd49e3953b8f90de97.png)
+
 * Write the newsletter → Write the first sentence of the newsletter
 * Go for a run → Put on running shoes
 * Clean apartment → Clean the kitchen table
@@ -18,14 +20,16 @@ modified: 2025-08-29T08:30:45
 
 ---
 
-**The “Open List” and The “Closed List” (“集中” \& “分散” 原則)**
+# The “Open List” and The “Closed List” (“集中” \& “分散” 原則)
 
 1. Dump all the tasks you need to do to the “Open List”
 2. Transfer some tasks from the “Open List” to the “Closed List,” which has a maximum of ten entries — it’s a way to stay focused on what truly matters.
 
 ---
 
-# 封閉式清單 [@forsterItTomorrowOther2008]
+# 封閉式清單
+
+[@forsterItTomorrowOther2008]
 
 > _“A closed list is a way of applying limits to our work in order to increase our efficiency.” ― Mark Forster, Do It Tomorrow and Other Secrets of Time Management_
 
@@ -42,7 +46,7 @@ modified: 2025-08-29T08:30:45
 
 ---
 
-**[The "Done List"](https://www.oliverburkeman.com/donelist)**
+# [The "Done List"](https://www.oliverburkeman.com/donelist)
 
 * Why?
 	* Many people seem to feel as if they start off each morning in a kind of “Productivity Debt”, which they must struggle to pay off through the day, in hopes of reaching a zero balance by the time evening comes.
@@ -51,9 +55,19 @@ modified: 2025-08-29T08:30:45
 
 ---
 
-**The “Stop-Doing” List [@collinsGoodGreatWhy2001]**
+# The “Stop-Doing” List
+
+[@collinsGoodGreatWhy2001]
+
 * “To-Don’t List” or “Anti To-Do List”
 * _**Via negativa**_ is essentially the study of what not to do
+
+---
+
+# [Two Types of Checklists](https://sketchplanations.com/read-do-do-confirm-checklists)
+
+1. **Read-Do**: for unusual/unplanned scenarios
+2. **Do-Confirm**: for normal operations
 
 ---
 
