@@ -1,10 +1,12 @@
 ---
 title: Do great work
 created: 2024-11-18T09:18:12
-modified: 2025-11-15T13:26:00
+modified: 2025-11-24T10:05:31
 ---
 
 > _“Good is the enemy of great.” — [@collinsGoodGreatWhy2001]_
+
+> _“To be great is to be misunderstood.” — Ralph Waldo Emerson_
 
 > _“The only way to do great work is to love what you do.” — Steve Jobs_
 
