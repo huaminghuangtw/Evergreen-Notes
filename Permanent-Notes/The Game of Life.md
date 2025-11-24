@@ -1,7 +1,7 @@
 ---
 title: The Game of Life
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:27
+modified: 2025-11-24T15:59:36
 ---
 
 > _[The reason to play the game is to be free of it.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)_
@@ -115,4 +115,4 @@ When asked about how he rose from undrafted nobody to this level of stardom, he 
 
 [^1]: [Unlike wealth game, status game is inherently combative and driven by competition.](https://www.youtube.com/watch?v=KyfUysrNaco&t=943s) [In the wealth game, more people are winning overall. But in the status game, there are essentially more losers.](https://www.youtube.com/watch?v=KyfUysrNaco&t=10444s)
 [^2]: 把餅做大
-[^3]: 一加一大於二：一個人走得快，一群人走得遠
+[^3]: 一加一大於二<mark>：一個人走得快，一群人走得遠。（If you want to go fast, go alone; if you want to go far, go together.）</mark>
