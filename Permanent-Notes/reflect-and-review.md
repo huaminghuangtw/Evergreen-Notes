@@ -1,7 +1,7 @@
 ---
 title: Reflect & Review
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-11-24T16:02:39
 ---
 
 > _“Without reflection, we go blindly on our way, creating more unintended consequences, and failing to achieve anything useful.” — Margaret J. Wheatley_
@@ -14,7 +14,8 @@ modified: 2025-10-27T08:34:06
 
 Reflect and review, coupled with the clarity of hindsight ,[^1] enables us to turn past experiences into valuable lessons for future growth.
 
-It’s not a matter of learning new information but of _**unlearning**_ [^2] old limits/beliefs.
+It’s not a matter of learning new information (小時候)
+but of **unlearning** [^2] old limits/beliefs (長大後).
 
 ---
 
