@@ -1,7 +1,7 @@
 ---
 title: Judge others by intentions, judge ourselves by actions
 created: 2024-11-18T09:18:12
-modified: 2025-11-22T13:02:50
+modified: 2025-11-24T06:12:55
 ---
 
 > _“We judge ourselves by our intentions and others by their behavior.” — Stephen Covey_ [^1]
@@ -13,7 +13,7 @@ modified: 2025-11-22T13:02:50
 # [基本歸因謬誤 Fundamental Attribution Error (FAE)](https://en.wikipedia.org/wiki/Fundamental_attribution_error)
 
 * The mistake:
-	* _We cut ourselves a break, but hold others accountable._
+	* We cut ourselves a break, but hold others accountable.
 	* We judge ourselves by what we believe our capabilities to be. We judge others by what we have done. In other words, we judge ourselves by our inner sense of ourselves, and we judge others by their appearance. We compare our inner sense of self to others’ outward appearance.
 * Explanations:
 	* We attribute people’s behavior/action to their **character/personality** without taking into account external factors outside of their control:
@@ -30,7 +30,7 @@ modified: 2025-11-22T13:02:50
 * Remember: forming impressions / making judgments of a person’s character based on limited information can have long-lasting effects.
 * How to avoid it?
 	* Become more emotionally \& socially intelligent
-		* This involves practicing [self-awareness](mastering-yourself-is-superpower.md) , [empathy](Empathy.md), self-regulation
+		* This involves practicing [self-awareness](mastering-yourself-is-superpower.md) , [empathy](empathy.md), self-regulation
 	* Be grateful
 		* This will help balance out your perspective, and can help you view someone as a whole person / see the whole picture, instead of through pieces of limited information.
 		* When you become resentful at someone for a negative “quality” they demonstrate, try to make a list of five positive qualities the person also exhibits.
@@ -43,7 +43,7 @@ modified: 2025-11-22T13:02:50
 
 ---
 
-[Satir Transformational Systemic Therapy (STST)](satir-transformational-systemic-therapy.md)
+[Satir Transformational Systemic Therapy](satir-transformational-systemic-therapy.md)
 
 ---
 
