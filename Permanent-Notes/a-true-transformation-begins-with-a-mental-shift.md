@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2025-11-20T05:13:54
+modified: 2025-11-25T20:20:29
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
@@ -69,6 +69,10 @@ Rewire your brain
 ---
 
 It’s not the load that breaks you down, it’s the way you carry it.
+
+---
+
+You can figure out how to configure your **default state** to be _slightly amused_ rather than _slightly annoyed_ you pretty much enter God Mode.
 
 ---
 
