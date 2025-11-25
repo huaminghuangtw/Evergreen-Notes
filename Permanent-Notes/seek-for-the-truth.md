@@ -1,7 +1,7 @@
 ---
 title: Seek for the truth
 created: 2024-11-18T09:18:12
-modified: 2025-11-23T07:11:10
+modified: 2025-11-25T20:37:42
 ---
 
 > _“Facts are the enemy of truth.” — Miguel de Cervantes_
@@ -21,6 +21,8 @@ modified: 2025-11-23T07:11:10
 > _[“The opposite of a correct statement is a false statement. But the opposite of a profound truth may well be another profound truth.” — Niels Bohr](https://www.goodreads.com/quotes/941-the-opposite-of-a-correct-statement-is-a-false-statement)_
 
 > _“The least deviation from truth will be multiplied later.” — Aristotle_
+
+> _“We are only as blind as we want to be.” — Maya Angelou_ [^2]
 
 ---
 
@@ -50,3 +52,4 @@ Do not sacrifice being correct for being right.
 [Have the courage to do the right things](have-the-courage-to-do-the-right-things.md)
 
 [^1]: Truth-seekers take feedback from **action**. Consensus-seekers take feedback from **words**.
+[^2]: Much of the “blindness” we experience in life is self-chosen, not accidental. It’s not that we literally cannot see the truth — it’s that facing the truth often requires courage, discomfort, or change, and so we choose not to see it.
