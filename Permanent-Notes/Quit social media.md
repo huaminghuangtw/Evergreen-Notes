@@ -1,7 +1,7 @@
 ---
 title: Quit social media
 created: 2024-11-18T09:18:12
-modified: 2025-11-17T06:19:02
+modified: 2025-11-25T21:11:54
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -13,6 +13,10 @@ modified: 2025-11-17T06:19:02
 > _“There are only two industries that refer to their customers as “users”: the illegal drug trade and tech companies. Both thrive by creating addicts and profiting from the addiction.” — [The Social Dilemma (2020 film)](https://www.imdb.com/title/tt11464826/)_
 
 > _“Social media should be used as a platform to share your efforts (show your work) with the world, not as a place to mindlessly spend your time. The key is realizing that the flow needs to go from the real world into the digital space, not the other way around. Those who understand this will be the ones who succeed in life, almost guaranteed, barring some accident or injury. It’s that simple.” — Andrew Huberman_
+
+---
+
+[@nguyenFeedsFeelingsFocus2025]
 
 ---
 
