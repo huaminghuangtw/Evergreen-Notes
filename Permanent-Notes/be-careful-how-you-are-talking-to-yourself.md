@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-11-19T21:00:06
+modified: 2025-11-25T21:11:04
 ---
 
 > _“Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes_
@@ -132,6 +132,25 @@ Instead of forgiving ourselves or moving forward, we assign ourselves a kind of 
 
 * “Because I hurt someone, I must feel guilty for the rest of my life.”
 * “Because I made a mistake, I have to keep paying for it.”
+
+---
+
+You ever notice when you take a wrong turn on **Google Maps**, it doesn’t scream at you? **It doesn’t say, you idiot, you failed. It just says recalculating and gives you another route.**
+
+That’s business. That’s life. You mess up, cool—reroute.
+
+Maybe that wrong turn saves you from a worse crash. Maybe that detour taught you what the straight path never could. Maybe that scenic route was the exact view you needed to keep going.
+
+So stop yelling at yourself like you lost forever. You’re not behind. You’re just recalculating.
+
+And guess what? You’re still going to get there.
+
+---
+
+Dr. Peter Attia (Author of Outlive) [shared a method on the Modern Wisdom podcast](https://www.youtube.com/shorts/YarAxbgfCNs) that he says completely fixed his negative self talk:
+
+1. Notice when you’re about to speak to yourself negatively.
+2. Rather than engaging with it, pull out your phone and record a voice memo of what you would say to a friend if they had just made the same mistake as you.
 
 ---
 
