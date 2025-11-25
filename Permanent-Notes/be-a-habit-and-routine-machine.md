@@ -1,8 +1,10 @@
 ---
 title: Be a habit and routine machine
 created: 2024-11-18T09:18:12
-modified: 2025-11-08T16:53:50
+modified: 2025-11-25T20:19:28
 ---
+
+> _“Outer order contributes to inner calm.” — Gretchen Rubin_
 
 > _“We are what we repeatedly do every day. Excellence, then, is not an act, but a habit.” — Will Durant_
 
