@@ -1,7 +1,7 @@
 ---
 title: Peace from mind
 created: 2024-12-03T22:26:07
-modified: 2025-11-19T21:00:06
+modified: 2025-11-25T20:27:38
 ---
 
 > _“The resting place of the mind is the heart. The only thing the mind hears all day is clanging bells and noise and argument, and all it wants is quietude. The only place the mind will ever find peace is inside the silence of the heart. That’s where you need to go.” — Elizabeth Gilbert_
@@ -11,6 +11,8 @@ modified: 2025-11-19T21:00:06
 > _“I’m here to tell you that the path to peace is right there, when you want to get away.” — Pema Chodron_
 
 > _“When you find peace within yourself, you find a quiet joy that makes you happy to be alive.” — Peace Pilgrim_
+
+> _“Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.” — Ronald Reagan_
 
 ---
 
