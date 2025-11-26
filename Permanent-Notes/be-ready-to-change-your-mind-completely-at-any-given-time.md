@@ -1,7 +1,7 @@
 ---
 title: Be ready to change your mind completely at any given time
 created: 2024-12-04T15:59:39
-modified: 2025-11-15T16:47:37
+modified: 2025-11-26T08:35:01
 ---
 
 > _[“Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won’t come in.” — Alan Alda](https://www.goodreads.com/quotes/667214-your-assumptions-are-your-windows-on-the-world-scrub-them)_
@@ -21,6 +21,12 @@ modified: 2025-11-15T16:47:37
 > _“We are all born ignorant, but one must work hard to remain stupid.” — Benjamin Franklin_ [^2] [^3]
 
 > _“Today is the oldest you’ve ever been, and the youngest you’ll ever be again.” — Eleanor Roosevelt_
+
+> _“Nothing is so painful to the human mind as a great and sudden change.” — Mary Shelley, Frankenstein (科學怪人)_
+
+---
+
+![](https://d502jbuhuh9wk.cloudfront.net/orgData/6648d24a89175914ef089aa7/pages/assets/images/ZUP4m25841.png)
 
 ---
 
