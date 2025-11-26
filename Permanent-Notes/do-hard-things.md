@@ -1,7 +1,7 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2025-11-07T21:27:39
+modified: 2025-11-26T08:21:25
 ---
 
 > _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
@@ -92,7 +92,7 @@ When we embrace _|voluntary struggles_, we’re better equipped/prepared for the
 > _“The costs of your good [habits](be-a-habit-and-routine-machine.md) are in the present. The costs of your bad [habits](be-a-habit-and-routine-machine.md) are in the future.” — James Clear_
 
 * [Short-term pain](instant-gratification.md) typically creates compounding [long-term gain](delayed-gratification.md).
-* [Short-term cost pays long-term dividend.](Everything%20in%20life%20has%20an%20opportunity%20cost.md)
+* [Short-term cost pays long-term dividend.](everything-in-life-has-an-opportunity-cost.md)
 * Every gain in life comes from [compound interests](the-compounding-effect.md). Almost all mistakes in life come from short-term thinking. The things that _feel good to us_ in the short-term are rarely the things that _are good for us_ in the long-term.
 * [先苦後甘 > 先甘後苦](do-hard-things.md)
 	* Hard now, easy later.
