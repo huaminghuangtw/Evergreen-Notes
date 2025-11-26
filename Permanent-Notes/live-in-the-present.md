@@ -1,7 +1,7 @@
 ---
 title: Live in the present
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:27
+modified: 2025-11-26T14:40:02
 ---
 
 > _“It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.” — Dr. Robert Hutchings Goddard_
@@ -45,6 +45,10 @@ modified: 2025-11-20T18:10:27
 > _[“I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is.” — Alan Watts](https://www.goodreads.com/quotes/172061-i-have-realized-that-the-past-and-future-are-real)_
 
 > _“Life isn’t how many breaths you take, but it’s the moments that take your breath away.” ― Will Smith_
+
+---
+
+Here & Now
 
 ---
 
