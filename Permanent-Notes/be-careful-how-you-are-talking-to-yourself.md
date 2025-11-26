@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-11-25T21:11:04
+modified: 2025-11-26T08:36:48
 ---
 
 > _“Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes_
@@ -19,6 +19,10 @@ modified: 2025-11-25T21:11:04
 ---
 
 = Internal Monologue = Inner Dialogue
+
+---
+
+![](https://d502jbuhuh9wk.cloudfront.net/orgData/6648d24a89175914ef089aa7/pages/assets/images/BcGVo2607.png)
 
 ---
 
@@ -134,6 +138,8 @@ Instead of forgiving ourselves or moving forward, we assign ourselves a kind of 
 * “Because I made a mistake, I have to keep paying for it.”
 
 ---
+
+#Newsletter 
 
 You ever notice when you take a wrong turn on **Google Maps**, it doesn’t scream at you? **It doesn’t say, you idiot, you failed. It just says recalculating and gives you another route.**
 
