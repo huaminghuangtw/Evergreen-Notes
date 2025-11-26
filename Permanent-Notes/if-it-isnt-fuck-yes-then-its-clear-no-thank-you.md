@@ -1,7 +1,7 @@
 ---
 title: If it isn’t fuck yes, then it’s clear no thank you
 created: 2024-11-18T09:16:49
-modified: 2025-11-21T04:48:40
+modified: 2025-11-26T08:21:25
 ---
 
 **TL; DR** Default to NO.
@@ -107,4 +107,4 @@ Two-factor authentication against your calendar by Naval Ravikant
 
 [You don’t need to be liked to be loved](you-dont-need-to-be-liked-to-be-loved.md)
 
-[^1]: Remember: Whenever you say “yes” to something, [you’re saying “no” to something else.](Everything%20in%20life%20has%20an%20opportunity%20cost.md)
+[^1]: Remember: Whenever you say “yes” to something, [you’re saying “no” to something else.](everything-in-life-has-an-opportunity-cost.md)
