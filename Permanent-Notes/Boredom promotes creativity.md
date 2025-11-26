@@ -1,7 +1,7 @@
 ---
 title: Boredom promotes creativity
 created: 2024-12-16T14:01:41
-modified: 2025-11-20T18:10:27
+modified: 2025-11-26T08:51:14
 ---
 
 [@talebBedProcrustesPhilosophical2016]
@@ -15,6 +15,10 @@ modified: 2025-11-20T18:10:27
 > _[“People who do a job that claims to be creative have to be alone to recharge their batteries. You can’t live 24 hours a day in the spotlight and remain creative. For people like me, solitude is a victory.” — Karl Lagerfeld](https://www.goodreads.com/quotes/324395-people-who-do-a-job-that-claims-to-be-creative)_
 
 > _[“If you want to operate at maximum productivity, efficiency, and creativity, you’re going to work on things that you’re excited about at the moment you’re excited about them and accept nothing less. It is better to sit on your butt and do nothing than it is to work on things that you are not excited about.” — Naval Ravikant](https://podclips.com/c/its-better-to-do-nothing-than-work-on-something-youre-not-excited-about)_ [^1]
+
+---
+
+![](https://d502jbuhuh9wk.cloudfront.net/orgData/6648d24a89175914ef089aa7/pages/assets/images/UwpjW2602.png)
 
 ---
 
