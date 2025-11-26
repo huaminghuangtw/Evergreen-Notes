@@ -1,7 +1,7 @@
 ---
 title: Delayed Gratification
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-11-26T08:21:25
 ---
 
 > _“It is by going down into the abyss that we recover the treasures of life. Where you stumble, there lies your treasure.” — Joseph Campbell_
@@ -24,7 +24,7 @@ Remember: Nothing worth having in life should be easy. The things that matter in
 
 ---
 
-Every single thing you want in life comes at a cost. There is always a cost of entry (入場費). An unavoidable [price you must pay](Everything%20in%20life%20has%20an%20opportunity%20cost.md) to achieve the things you say you want.
+Every single thing you want in life comes at a cost. There is always a cost of entry (入場費). An unavoidable [price you must pay](everything-in-life-has-an-opportunity-cost.md) to achieve the things you say you want.
 
 1. Hard work is a cost of entry for business success.
 2. Discipline is a cost of entry for physical health.
