@@ -1,7 +1,7 @@
 ---
 title: Fasting
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:46
+modified: 2025-11-26T15:06:05
 ---
 
 日本生物學家大隅良典 (Yoshinori Ohsumi) 因為在細胞自噬 ([Autophagy](https://www.google.com/search?q=Autophagy)) 領域的卓越研究，於 2016 年獲得諾貝爾醫學獎
@@ -30,14 +30,19 @@ Wear a continuous glucose monitor and inject little bits of food of different ki
 
 The world’s largest fasting study published in 2019 [@xieRandomizedControlledTrial2022]
 
-**Different Types of Fasting**
+---
+	
+# Different Types of Fasting
 * Modified Therapeutic Fasting (such as Buchinger Fasting): involves consuming low-calorie liquids like juice and vegetable broth
+
+---
 
 [Combining intermittent-fasting regimens/paradigms, such as *early or midday time-restricted feeding* with a healthier diet during the feeding windows, may prove to be particularly powerful.](https://nutritionfacts.org/topics/fasting/)
 
 * Prefer _early TRF_ (eTRF, food intake restricted to the early part of the day) [^2] over _mid-day TRF_ (mTRF, food intake restricted to the middle of the day) [@xieRandomizedControlledTrial2022]
 	* eTRF was more effective than mTRF at improving insulin sensitivity.
 	* eTRF improved fasting glucose, reduced total body mass and adiposity, ameliorated inflammation, and increased gut microbial diversity.
+* [If you want to skip a meal, skip supper, not breakfast. Breatkfast is called “break fast” for a reason.](https://www.youtube.com/shorts/ByqWE1TbYWc)
 
 [^1]: GLP-1（腸泌素）是一種由腸胃道分泌、負責調節食慾的激素，常被稱為「飽足賀爾蒙」
 [^2]: 佛教的出家修行人 — 過午不食，只飲水。
