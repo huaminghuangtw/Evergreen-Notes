@@ -1,7 +1,7 @@
 ---
 title: Stress & Anxiety
 created: 2024-11-18T09:18:12
-modified: 2025-11-22T15:09:01
+modified: 2025-11-26T08:21:25
 ---
 
 > _“Stress happens when the mind resists what is.” — Dan Millman_
@@ -100,7 +100,7 @@ Jacobsen’s [Progressive Muscle Relaxation (PMR)](https://www.google.com/search
 
 ---
 
-Stress and anxiety are a [tax](Everything%20in%20life%20has%20an%20opportunity%20cost.md) on extreme ambition.
+Stress and anxiety are a [tax](everything-in-life-has-an-opportunity-cost.md) on extreme ambition.
 
 ---
 
