@@ -1,7 +1,7 @@
 ---
 title: Seek for the truth
 created: 2024-11-18T09:18:12
-modified: 2025-11-25T20:37:42
+modified: 2025-11-26T10:01:37
 ---
 
 > _“Facts are the enemy of truth.” — Miguel de Cervantes_
@@ -22,7 +22,7 @@ modified: 2025-11-25T20:37:42
 
 > _“The least deviation from truth will be multiplied later.” — Aristotle_
 
-> _“We are only as blind as we want to be.” — Maya Angelou_ [^2]
+> _“We are only as blind as we want to be.” — Maya Angelou_ [^2] [^3]
 
 ---
 
@@ -53,3 +53,4 @@ Do not sacrifice being correct for being right.
 
 [^1]: Truth-seekers take feedback from **action**. Consensus-seekers take feedback from **words**.
 [^2]: Much of the “blindness” we experience in life is self-chosen, not accidental. It’s not that we literally cannot see the truth — it’s that facing the truth often requires courage, discomfort, or change, and so we choose not to see it.
+[^3]: _“We lie loudest when we lie to ourselves.” — Eric Hoffer_
