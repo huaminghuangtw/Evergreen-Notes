@@ -1,7 +1,7 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2025-11-22T15:10:23
+modified: 2025-11-26T08:21:25
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -166,7 +166,7 @@ In Alice’s Adventures in Wonderland, there’s a scene in which Alice reaches 
 
 ---
 
-[Everything in life has an opportunity cost](Everything%20in%20life%20has%20an%20opportunity%20cost.md)
+[Everything in life has an opportunity cost](everything-in-life-has-an-opportunity-cost.md)
 
 [^1]: _“He who hesitates is a damned fool.” — Mae West_
 [^2]: _“The mind is difficult to control; swiftly and lightly it moves wherever it pleases. It is good to tame the mind, for a well-tamed mind brings happiness.” — Dhammapada_
