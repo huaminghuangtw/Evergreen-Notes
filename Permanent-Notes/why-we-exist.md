@@ -1,7 +1,7 @@
 ---
 title: Why we exist?
 created: 2024-11-18T09:18:12
-modified: 2025-11-23T17:16:55
+modified: 2025-11-26T08:21:54
 ---
 
 > _[“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)_
@@ -73,10 +73,10 @@ The purpose of life is a life of purpose.
 [Missions are infinite. Goals are finite.](https://www.sahilbloom.com/newsletter/the-life-changing-power-of-missions)
 
 * You _never reach_ a Mission, you _live out_ a Mission.
-* Missions are life [journey](journey-over-destination.md), [with no specific ends](The%20Game%20of%20Life.md).
+* Missions are life [journey](journey-over-destination.md), [with no specific ends](the-game-of-life.md).
 * Missions are _directions/scope_ of life, not the _destination_ of life.
 * Mission statements usually (and should) sound like vague platitudes.
-* [Goals](goal-setting.md) are focused around discrete achievements, [with specific ends](The%20Game%20of%20Life.md).
+* [Goals](goal-setting.md) are focused around discrete achievements, [with specific ends](the-game-of-life.md).
 
 ---
 
