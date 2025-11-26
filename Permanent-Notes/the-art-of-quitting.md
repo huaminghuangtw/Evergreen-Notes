@@ -1,7 +1,7 @@
 ---
 title: The Art of Quitting
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:26
+modified: 2025-11-26T08:21:25
 ---
 
 > _“I am as proud of what we don’t do as I am of what we do.” — Steve Jobs_
@@ -26,7 +26,7 @@ modified: 2025-11-20T18:10:26
 
 > _“When we are in the losses, we are not only more likely to stick to a losing course of action, but also to double down. This tendency is called **escalation of commitment (加碼錯誤)**. Escalation of commitment is robust and universal, occurring in individuals, organizations, and governmental entities. All of us tend to get stuck in courses of action once started, especially in the face of bad news. Escalation of commitment doesn’t just occur in high-stakes situations. It also happens when the stakes are low, demonstrating the pervasiveness of the error. […] When we’re getting bad news, when we are getting strong signals that we’re losing—signals that others plainly see—we don’t merely refuse to quit. We will double and triple down, making additional decisions to commit more time and money (and other resources) toward the losing cause, and we will strengthen our belief that we are on the right path.” ― Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
 
-> _“By not quitting, you are missing out on the opportunity to switch to something that will create more progress toward your goals. Anytime you stay mired in a losing endeavor, that is when you are slowing your progress. Anytime you stick to something when there are [better opportunities](Everything%20in%20life%20has%20an%20opportunity%20cost.md) out there, that is when you are slowing your progress.” ― Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
+> _“By not quitting, you are missing out on the opportunity to switch to something that will create more progress toward your goals. Anytime you stay mired in a losing endeavor, that is when you are slowing your progress. Anytime you stick to something when there are [better opportunities](everything-in-life-has-an-opportunity-cost.md) out there, that is when you are slowing your progress.” ― Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
 
 ---
 
