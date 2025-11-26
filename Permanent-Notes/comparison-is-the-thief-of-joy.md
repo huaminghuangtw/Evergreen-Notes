@@ -1,7 +1,7 @@
 ---
 title: Comparison is the thief of joy
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:27
+modified: 2025-11-26T08:21:54
 ---
 
 > _”Don’t bother just to be better than your contemporaries or predecessors. Try to be better than yourself.” — William Faulkner_
@@ -47,7 +47,7 @@ Don’t follow the crowd. Run your own race. Free yourself from society’s advi
 
 The best way to diminish your achievement is to compare it to someone else’s.
 
-When you compare yourself with others, or have the desire to be like other people, you [start doing things that aren’t aligned with your true self, abandoning your awesome uniqueness](escape-competition-through-authenticity.md), and [engaging in a competitive zero-sum game](The%20Game%20of%20Life.md).
+When you compare yourself with others, or have the desire to be like other people, you [start doing things that aren’t aligned with your true self, abandoning your awesome uniqueness](escape-competition-through-authenticity.md), and [engaging in a competitive zero-sum game](the-game-of-life.md).
 
 Every ounce of energy you spend comparing yourself to others is an ounce that could have been spent on developing yourself.
 
