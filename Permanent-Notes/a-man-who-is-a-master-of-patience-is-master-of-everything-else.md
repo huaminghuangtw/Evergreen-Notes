@@ -1,7 +1,7 @@
 ---
 title: A man who is a master of patience is master of everything else
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:27
+modified: 2025-11-26T08:21:54
 ---
 
 > _[“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)_
@@ -40,7 +40,7 @@ One moment of patience may ward off great disaster. One moment of impatience may
 
 ---
 
-[All the benefits in life come from compound interests.](the-compounding-effect.md) It is just a function/matter of time. Show up, and then [show up consistently](every-single-day-chop-wood-carry-waters.md). [Play long-term games.](The%20Game%20of%20Life.md) Practice [delayed gratification](delayed-gratification.md). Put in the time. Let things mature. Don’t rush. Be patient.
+[All the benefits in life come from compound interests.](the-compounding-effect.md) It is just a function/matter of time. Show up, and then [show up consistently](every-single-day-chop-wood-carry-waters.md). [Play long-term games.](the-game-of-life.md) Practice [delayed gratification](delayed-gratification.md). Put in the time. Let things mature. Don’t rush. Be patient.
 
 ---
 
