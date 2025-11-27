@@ -1,7 +1,7 @@
 ---
 title: You don’t need to be liked to be loved
 created: 2025-10-18T16:54:28
-modified: 2025-11-19T21:00:06
+modified: 2025-11-26T20:04:59
 ---
 
 > _“When you say yes to others, make sure you are not saying no to yourself.” — Paulo Coelho_
@@ -36,7 +36,7 @@ Stop people-pleasing. Everyone thinking you’re great means nothing, if you don
 
 ---
 
-Don’t be a people pleaser (好好先生、[濫/爛好人](https://www.google.com/search?q=濫好人))
+Don’t be a people pleaser (好好先生、[濫/爛好人](https://www.google.com/search?q=濫好人)、[Yes Man (2008 film)](https://www.imdb.com/title/tt1068680/))
 
 ---
 
