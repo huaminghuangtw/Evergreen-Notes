@@ -1,7 +1,7 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2025-11-24T06:56:34
+modified: 2025-11-27T06:49:40
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -144,7 +144,7 @@ EVERYDAY is easier than SOMEDAY. [^3] Embrace the daily mundane activities / ord
 
 ---
 
-[恆毅力 (Grit) = perseverance and passion for very long term goals](https://www.youtube.com/watch?v=H14bBuluwB8)
+# [恆毅力 (Grit) = perseverance and passion for very long term goals](https://www.youtube.com/watch?v=H14bBuluwB8)
 
 * Perseverance is not a long race; it is many short races one after another.
 * Don’t mistake _hustle_ for _grit_. Real grit is [finishing what you start](https://sketchplanations.com/goal-gradient-effect) when it’s no longer exciting. It’s important to knowing when to _grit_ and when to _[quit](the-art-of-quitting.md)_.
