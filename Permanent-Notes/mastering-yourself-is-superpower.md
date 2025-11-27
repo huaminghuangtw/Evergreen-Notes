@@ -1,7 +1,7 @@
 ---
 title: Mastering yourself is superpower
 created: 2024-11-18T09:18:12
-modified: 2025-11-12T15:47:53
+modified: 2025-11-27T06:21:48
 ---
 
 > _“Knowing yourself is the beginning of all wisdom.” — Aristotle_
@@ -31,6 +31,8 @@ modified: 2025-11-12T15:47:53
 = 自我覺察 (Self-awareness) ≈ Self-examination ≈ 後設認知 (Metacognition) = (對自己) 認知的認知
 
 ---
+
+
 
 # 認識自己 → 接受自己 → 喜歡自己
 
