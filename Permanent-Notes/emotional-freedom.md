@@ -1,7 +1,7 @@
 ---
 title: Emotional Freedom
 created: 2025-05-10T06:27:40
-modified: 2025-11-17T06:19:02
+modified: 2025-11-27T05:58:58
 ---
 
 > _“Enlightenment is making friendship with the whole existence.” — Amit Ray_
@@ -44,7 +44,7 @@ modified: 2025-11-17T06:19:02
 	* Consciousness is your true identity, not the stream of thinking.
 3. **Suffering comes from resistance.**
 	* Negative emotions are not inherently bad; they become problematic when we resist or identify with them.
-	* Acceptance and non-judgment lead to [inner peace](Peace%20from%20mind.md).
+	* Acceptance and non-judgment lead to [inner peace](peace-from-mind.md).
 4. **Happiness is our natural state.**
 	* When we stop believing painful, limiting thoughts, what’s left is inner peace and contentment.
 	* Nothing needs to be “added” to be happy—it’s uncovered by removing mental clutter.
