@@ -1,7 +1,7 @@
 ---
 title: Frameworks to structure your day
 created: 2025-01-23T18:40:57
-modified: 2025-11-15T12:58:38
+modified: 2025-11-27T07:14:43
 ---
 
 > _[Live life by design, not default.](https://fs.blog/david-foster-wallace-this-is-water/) Make each day your masterpiece. How you spend your days is how you spend your life._
@@ -42,6 +42,11 @@ modified: 2025-11-15T12:58:38
 					* Block in time for **holidays** and **trips** _first_, rather than letting the calendar fill up with work-stuff by default
 				* Downtime deserves time management too. The time you PLAN to waste is not a waste of time. The time you ENJOY wasting is not a waste of time.
 			* **Mini adventures:** Set aside a half or full day each month dedicated to exploring a new place or activity (e.g., an evening cooking class).
+
+				> _[“Without new experiences, something inside of us sleeps. The sleeper must awaken.” — Frank Herbert](https://www.goodreads.com/quotes/151154-without-new-experiences-something-inside-of-us-sleeps-the-sleeper)_
+
+				> _[“The very basic core of a man’s living spirit is his passion for adventure. The joy of life comes from our encounters with new experiences, and hence there is no greater joy than to have an endlessly changing horizon, for each day to have a new and different sun.” — Christopher McCandless](https://www.goodreads.com/quotes/452564-the-very-basic-core-of-a-man-s-living-spirit-is)_
+
 * The 8/8/8 Rule
 
 	> _“Eight hours labor, eight hours recreation, eight hours rest.” — Robert Owen_
