@@ -1,7 +1,7 @@
 ---
 title: The most productive people prioritize intentional rest
 created: 2024-11-18T09:18:12
-modified: 2025-11-10T15:32:19
+modified: 2025-11-27T05:54:33
 ---
 
 > _“Rest until you feel like playing, then play until you feel like resting.” — Martha Beck_
@@ -110,7 +110,7 @@ proposed by [Dr. Saundra Dalton-Smith](https://www.drdaltonsmith.com/)
 
 ---
 
-Calm down and chill out by taking advantage of [The Diver Reflex](The%20Diver%20Reflex.md):
+Calm down and chill out by taking advantage of [The Diver Reflex](the-diver-reflex.md):
 
 1. Find a large bowl, or just use your sink.
 2. Fill it with icy water.
