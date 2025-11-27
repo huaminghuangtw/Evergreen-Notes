@@ -1,7 +1,7 @@
 ---
 title: Overthinking
 created: 2025-01-23T10:40:57
-modified: 2025-10-27T08:34:06
+modified: 2025-11-27T05:58:46
 ---
 
 > _“Imagination and fiction make up more than three quarters of our real life.” — Simone Weil_
@@ -15,6 +15,10 @@ modified: 2025-10-27T08:34:06
 ---
 
 ![](../_attachments/6f4cbd9eaa25c23ba85fa647787f4298.png)
+
+---
+
+= 想太多 = 過度延伸 = 對號入座
 
 ---
 
