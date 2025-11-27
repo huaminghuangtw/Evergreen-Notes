@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-11-26T08:36:48
+modified: 2025-11-26T16:42:16
 ---
 
 > _“Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes_
@@ -139,7 +139,7 @@ Instead of forgiving ourselves or moving forward, we assign ourselves a kind of 
 
 ---
 
-#Newsletter 
+#Newsletter
 
 You ever notice when you take a wrong turn on **Google Maps**, it doesn’t scream at you? **It doesn’t say, you idiot, you failed. It just says recalculating and gives you another route.**
 
