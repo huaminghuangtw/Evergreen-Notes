@@ -1,7 +1,7 @@
 ---
 title: Fasting
 created: 2024-11-18T09:18:12
-modified: 2025-11-26T15:06:05
+modified: 2025-11-26T16:42:16
 ---
 
 日本生物學家大隅良典 (Yoshinori Ohsumi) 因為在細胞自噬 ([Autophagy](https://www.google.com/search?q=Autophagy)) 領域的卓越研究，於 2016 年獲得諾貝爾醫學獎
@@ -31,8 +31,9 @@ Wear a continuous glucose monitor and inject little bits of food of different ki
 The world’s largest fasting study published in 2019 [@xieRandomizedControlledTrial2022]
 
 ---
-	
+
 # Different Types of Fasting
+
 * Modified Therapeutic Fasting (such as Buchinger Fasting): involves consuming low-calorie liquids like juice and vegetable broth
 
 ---
