@@ -1,7 +1,7 @@
 ---
 title: Happiness
 created: 2024-11-18T09:18:12
-modified: 2025-11-19T21:00:06
+modified: 2025-11-27T05:58:58
 ---
 
 > _“Happiness is a state where nothing is missing.” — Naval Ravikant_
@@ -30,7 +30,7 @@ modified: 2025-11-19T21:00:06
 
 > _“What I ‘discovered’ was that happiness is not something that happens. It is not the result of good fortune or random chance. It is not something that money can buy or power command. It does not depend on outside events, but, rather, on how we interpret them. Happiness, in fact, is a condition that must be prepared for, cultivated, and defended privately by each person. People who learn to control inner experience will be able to determine the quality of their lives, which is as close as any of us come to being happy.” — Mihalyi Csikszentmihalyi_
 
-> _“I think of happiness as an emergent property of [peace](Peace%20from%20mind.md). If you’re peaceful inside and out, that will eventually result in happiness. But peace is a very hard thing to come by. The irony is the way most of us try to find peace is through war. When you start a business, in a way, you’re going to war. When you struggle with your roommates as to who should clean the dishes, you’re going to war. You’re struggling so you can have some sense of security and peace later. In reality, peace is not a guarantee. It’s always flowing. It’s always changing. You want to learn the core skill set of flowing with life and accepting it in most cases. **You can get almost anything you want out of life, as long as it’s one thing and you want it far more than anything else.** In my own personal experience, the place I end up the most is wanting to be at peace. **Peace is happiness at rest, and happiness is peace in motion.** You can convert peace into happiness anytime you want. But peace is what you want most of the time. If you’re a peaceful person, anything you do will be a happy activity. Today, the way we think you get peace is by resolving all your external problems. But there are unlimited external problems.” — Naval Ravikant_
+> _“I think of happiness as an emergent property of [peace](peace-from-mind.md). If you’re peaceful inside and out, that will eventually result in happiness. But peace is a very hard thing to come by. The irony is the way most of us try to find peace is through war. When you start a business, in a way, you’re going to war. When you struggle with your roommates as to who should clean the dishes, you’re going to war. You’re struggling so you can have some sense of security and peace later. In reality, peace is not a guarantee. It’s always flowing. It’s always changing. You want to learn the core skill set of flowing with life and accepting it in most cases. **You can get almost anything you want out of life, as long as it’s one thing and you want it far more than anything else.** In my own personal experience, the place I end up the most is wanting to be at peace. **Peace is happiness at rest, and happiness is peace in motion.** You can convert peace into happiness anytime you want. But peace is what you want most of the time. If you’re a peaceful person, anything you do will be a happy activity. Today, the way we think you get peace is by resolving all your external problems. But there are unlimited external problems.” — Naval Ravikant_
 
 ---
 
@@ -60,7 +60,7 @@ Happiness is when what you think, what you say, and what you do are in harmony.
 
 ---
 
-True happiness is not just pleasure, but comes out of [peace](Peace%20from%20mind.md) and [fundamentally understanding oneself](mastering-yourself-is-superpower.md).
+True happiness is not just pleasure, but comes out of [peace](peace-from-mind.md) and [fundamentally understanding oneself](mastering-yourself-is-superpower.md).
 
 * Physical pleasure (Oh, that tasted good.)
 * Momentary pleasure (Oh, he/she loves me.)
@@ -110,7 +110,7 @@ One day, I thought, someone out there had to be the happiest person in the world
 # Internal v.s External Benchmarks
 
 * Visible metrics → e.g., money
-* Hidden metrics → e.g., time with family, [peace of mind](Peace%20from%20mind.md)
+* Hidden metrics → e.g., time with family, [peace of mind](peace-from-mind.md)
 * Remember: _The hidden metrics only become visible when it’s too late…_
 
 ---
