@@ -1,78 +1,78 @@
 ---
 title: Apple Shortcuts
 created: 2024-11-18T10:16:50
-modified: 2025-11-08T16:53:50
+modified: 2025-11-28T07:18:28
 ---
 
 [比較]
 
-	* iOS: Apple’s Shortcuts
-	* Android: Google’s Action Blocks
+* iOS: Apple’s Shortcuts
+* Android: Google’s Action Blocks
 
 Actions
 
-	* “Reveal Action” \& “Quick Look”
-	* “Take Screenshot” + “Extract Text from Image” (for OCR)
-	* Get Dictionary Value → Options: “Value”, “All Keys”, “All Values”
-		* Often: “Choose from List” + “All Keys”
-			* **Tip:** “Choose from List” can also be used for a “Dictionary”!
-				* Get “Value” for “Chosen Item → _**Name**_” from “Dictionary”
-	* Get “Item” from List → Options: “First Item”, “Last Item”, \*“Random Item”, “Item at Index”, “Items in Range”
-	* \*Get random items from List
-		* Single: “Get Item from List” → Choose “Random Item”
-		* Multiple: “Filter Files” → Choose “Random” in “Sort by” → Enable “Limit” → Select the number of random items you want to get
-	* “Is Charging” v.s “Is Connected to Charger”
-	* Former: Is the device gaining battery charge?
-	* Latter: Is the device connected to a charger that at least is slowing down the rate the battery drains?
-		* For Optimized Battery Charging: being connected to a charger but not charging
-	* “Add to Variable” → List
-		* **Tip:** “Repeat with each item” + “Text” → “Repeat Results” is already a list of “Text”, not need to use “Add to Variable” for each iteration → simplify code!
-	* How to use Boolean variables?
-	* Method I: Type = Boolean → `If "myBooleanVar"`
-	* Method II: Type = Text → `If "myBooleanVar" is Yes/No`
-	* ? “Run Script over SSH”
-	* ? “Get Contents of URL” → make webhook calls
-	* “Open X-Callback URL” (= [URL_Schemes](URL_Schemes.md))
-	* Allow you to go beyond “Open App” in Shortcuts
-	* They are helpful in the Shortcuts app when the App itself doesn’t have any Shortcut Actions support available by default
-	* **Tip:** If you’d like to run one shortcut from another shortcut, use the `Run Shortcut` action instead of a URL scheme. You should only run shortcuts with a URL if you’re integrating from another app outside of Shortcuts
-	* [Run a shortcut using a URL scheme on iPhone or iPad](https://support.apple.com/en-gb/guide/shortcuts/apd624386f42/ios)
-		* Import Shortcut: `shortcuts://import-shortcut/?url=[url]&name=[name]`
-			* Parameters:
-				* url: download url for a `.shortcut` file
-				* name (optional): name for shortcut, defaults to shortcut filename
-				* silent (optional): `true` to import without opening the shortcut, `false` by default to open and display the shortcut to the user
-			* Example: `shortcuts://import-shortcut/?name=Awesome%20Shortcut&url=https%3A%2F%2Fdownloadwebsite.com`
-		* Open Shortcut:
-			* `shortcuts://` to launch app to last-used state
-			* `shortcuts://create-shortcut` to create a new shortcut
-			* `shortcuts://open-shortcut?name=[name]` to open the app to the shortcut of a given name
-		* Run Shortcut: `shortcuts://run-shortcut`
-			* Query parameters:
-				* name: string name for shortcut
-				* input (optional): initial input into the shortcut, a text string or the word `clipboard` to use the contents of the clipboard
-			* Example: `shortcuts://run-shortcut/?name=Shortcut%20to%20Run`
-		* `shortcuts://x-callback-url/run-shortcut?name=[name]&x-success=[your-application-url]`
-			* Callback URL work with 3 parameters:
-				* `x-success` — To handle Successful execution
-				* `x-cancel` — To handle interruptions in execution
-				* `x-error` — To handle errors in execution
-		* Open the Shortcuts Gallery
-			* `shortcuts://gallery`
-		* Search the Shortcuts Gallery
-			* `shortcuts://gallery/search?query=[query]`
-	* _Run Shortcut_ v.s _URL Scheme_
-		* Difference
-			* _URL Scheme_ requires to open the Shortcuts app, while _Run Shortcut_ doesn’t.
-		* Command-line version of `shortcuts://run-shortcut` from Terminal ([Run Shortcuts from the command line](https://sixcolors.com/post/2021/12/run-shortcuts-from-the-mac-command-line/))
-			* Run Shell Script
-				* Select shell as `bin/bash`
-				* Enter the command: `shortcuts run <YOUR_SHORTCUT_NAME>`
-	* List
-		* Comma-separated text
-		* Each item is encoded
-	* Dictionary
-		* JSON string
+* “Reveal Action” \& “Quick Look”
+* “Take Screenshot” + “Extract Text from Image” (for OCR)
+* Get Dictionary Value → Options: “Value”, “All Keys”, “All Values”
+	* Often: “Choose from List” + “All Keys”
+		* **Tip:** “Choose from List” can also be used for a “Dictionary”!
+			* Get “Value” for “Chosen Item → _**Name**_” from “Dictionary”
+* Get “Item” from List → Options: “First Item”, “Last Item”, \*“Random Item”, “Item at Index”, “Items in Range”
+* \*Get random items from List
+	* Single: “Get Item from List” → Choose “Random Item”
+	* Multiple: “Filter Files” → Choose “Random” in “Sort by” → Enable “Limit” → Select the number of random items you want to get
+* “Is Charging” v.s “Is Connected to Charger”
+* Former: Is the device gaining battery charge?
+* Latter: Is the device connected to a charger that at least is slowing down the rate the battery drains?
+	* For Optimized Battery Charging: being connected to a charger but not charging
+* “Add to Variable” → List
+	* **Tip:** “Repeat with each item” + “Text” → “Repeat Results” is already a list of “Text”, not need to use “Add to Variable” for each iteration → simplify code!
+* How to use Boolean variables?
+* Method I: Type = Boolean → `If "myBooleanVar"`
+* Method II: Type = Text → `If "myBooleanVar" is Yes/No`
+* ? “Run Script over SSH”
+* ? “Get Contents of URL” → make webhook calls
+* “Open X-Callback URL” (= [URL_Schemes](URL_Schemes.md))
+* Allow you to go beyond “Open App” in Shortcuts
+* They are helpful in the Shortcuts app when the App itself doesn’t have any Shortcut Actions support available by default
+* **Tip:** If you’d like to run one shortcut from another shortcut, use the `Run Shortcut` action instead of a URL scheme. You should only run shortcuts with a URL if you’re integrating from another app outside of Shortcuts
+* [Run a shortcut using a URL scheme on iPhone or iPad](https://support.apple.com/en-gb/guide/shortcuts/apd624386f42/ios)
+	* Import Shortcut: `shortcuts://import-shortcut/?url=[url]&name=[name]`
+		* Parameters:
+			* url: download url for a `.shortcut` file
+			* name (optional): name for shortcut, defaults to shortcut filename
+			* silent (optional): `true` to import without opening the shortcut, `false` by default to open and display the shortcut to the user
+		* Example: `shortcuts://import-shortcut/?name=Awesome%20Shortcut&url=https%3A%2F%2Fdownloadwebsite.com`
+	* Open Shortcut:
+		* `shortcuts://` to launch app to last-used state
+		* `shortcuts://create-shortcut` to create a new shortcut
+		* `shortcuts://open-shortcut?name=[name]` to open the app to the shortcut of a given name
+	* Run Shortcut: `shortcuts://run-shortcut`
+		* Query parameters:
+			* name: string name for shortcut
+			* input (optional): initial input into the shortcut, a text string or the word `clipboard` to use the contents of the clipboard
+		* Example: `shortcuts://run-shortcut/?name=Shortcut%20to%20Run`
+	* `shortcuts://x-callback-url/run-shortcut?name=[name]&x-success=[your-application-url]`
+		* Callback URL work with 3 parameters:
+			* `x-success` — To handle Successful execution
+			* `x-cancel` — To handle interruptions in execution
+			* `x-error` — To handle errors in execution
+	* Open the Shortcuts Gallery
+		* `shortcuts://gallery`
+	* Search the Shortcuts Gallery
+		* `shortcuts://gallery/search?query=[query]`
+* _Run Shortcut_ v.s _URL Scheme_
+	* Difference
+		* _URL Scheme_ requires to open the Shortcuts app, while _Run Shortcut_ doesn’t.
+	* Command-line version of `shortcuts://run-shortcut` from Terminal ([Run Shortcuts from the command line](https://sixcolors.com/post/2021/12/run-shortcuts-from-the-mac-command-line/)) [^1]
+		* Run Shell Script
+			* Select shell as `bin/bash`
+			* Enter the command: `shortcuts run <YOUR_SHORTCUT_NAME>`
+* List
+	* Comma-separated text
+	* Each item is encoded
+* Dictionary
+	* JSON string
 
 ---
 
@@ -132,3 +132,5 @@ Dictionaries are a great way of storing multiple pieces of information at once. 
 ---
 
 [There are some web services for which developers haven’t (yet) added Shortcuts support, there is no app, or that enable you to do more by working directly with the service through its REST (Representational state transfer) API (Application Programming Interface). An API is a way we can talk to (web) applications and get information or send them commands, and a REST API is a common, standardized format for web services.](https://www.takecontrolbooks.com/samples/TCoShortcuts-2.1-sample.pdf)
+
+[^1]: [Run shortcuts from the command line - Apple Support](https://support.apple.com/guide/shortcuts-mac/run-shortcuts-from-the-command-line-apd455c82f02/mac)
