@@ -1,7 +1,7 @@
 ---
 title: Change yourself to change the world
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:27
+modified: 2025-11-28T07:34:37
 ---
 
 > _“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi_
@@ -75,11 +75,13 @@ Personal development/growth/improvement is a lifelong endeavor. Every single day
 
 ---
 
-# Set Your House In Perfect Order Before You Criticize The World. (在批評世界之前，先把房間整理乾淨)
+# Set Your House In Perfect Order Before You Criticize The World. 
+
+> 在批評這個世界之前，先把自己的房間整理乾淨。
 
 [@peterson12RulesLife2018]
 
-* Your house is a metaphor for YOU. Unless you are perfect, 99% of the time the solution to your problem is not “out there” but “in here.”
+Your house is a metaphor for YOU. Unless you are perfect, 99% of the time the solution to your problem is not “out there” but “in here.”
 
 ---
 
