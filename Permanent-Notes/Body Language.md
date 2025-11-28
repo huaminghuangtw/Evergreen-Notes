@@ -1,7 +1,7 @@
 ---
 title: Body Language
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:26:45
+modified: 2025-11-28T07:00:33
 ---
 
 * Take up more space — When sitting or standing, take up more space than usual.
@@ -11,3 +11,4 @@ modified: 2025-10-27T08:26:45
 ---
 
 [Your Body Language May Shape Who You Are | Amy Cuddy | TED](https://www.youtube.com/watch?v=Ks-_Mh1QhMc)
+
