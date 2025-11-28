@@ -1,7 +1,7 @@
 ---
 title: Healthy Eating Habits
 created: 2024-11-18T09:16:50
-modified: 2025-11-23T15:27:15
+modified: 2025-11-28T09:31:39
 ---
 
 Eating Better
@@ -117,7 +117,8 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 	* Research the menu in advance to make informed decisions. This prevents poor choices caused by hunger or choice paralysis at the restaurant.
 	* Choose dishes / Order the food with the highest protein content.
 	* Control the portions if healthier options aren’t available. Serve yourself half of what you think you’ll eat, even if it means the plate looks a bit empty.
-- [ ] Eat Light: 吃到飽、吃到撐 → 吃到 [八分飽](https://zh.wikipedia.org/zh-hant/%E8%85%B9%E5%85%AB%E5%88%86%E7%9B%AE) [^12]、吃到不會餓
+- [ ] Eat Light: 吃到飽、吃到撐 → 吃到 [八分飽](https://www.google.com/search?q=%E8%85%B9%E5%85%AB%E5%88%86%E7%9B%AE) [^12]、吃到不會餓
+* There is a 20-minute delay between eating and when the brain registers “fullness” / satiety. [@rakhaInsightsConstellatingDrivers2022]
 * Learn how to better manage/control portion size by using your hands (or a kitchen scale)
 	* At least a palm-sized amount of protein (it works best with meat or fish)
 	* At least a fist-sized amount of veggies (the more the better)
