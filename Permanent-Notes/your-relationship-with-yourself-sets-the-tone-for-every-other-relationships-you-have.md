@@ -1,7 +1,7 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
 created: 2024-11-18T09:18:12
-modified: 2025-11-26T08:38:19
+modified: 2025-11-29T08:00:45
 ---
 
 > _“Your relationship with yourself sets the tone for every other relationship you have.” — Robert Holden_
@@ -52,6 +52,8 @@ If you switched bodies with the person you love most for a year, how would you t
 
 ---
 
+The most courageous act is to think for yourself. Aloud.
+
 Always put yourself first. Self-prioritize yourself. Take care of yourself before taking care of others, so that you can give them your best self. Self-care is giving the world the best of you instead of what’s left of you. **Self-care isn’t selfish.**
 
 先自強，再助人
@@ -62,8 +64,7 @@ Always put yourself first. Self-prioritize yourself. Take care of yourself befor
 
 # Analogy
 
-* Put on your oxygen mask first.
-	* 你得先為自己戴上氧氣罩，才能開始救人。
+* Put on your oxygen mask first. (你得先為自己戴上氧氣罩，才能開始救人。)
 * A starving chef can’t feed anyone.
 * You can’t pour from an empty cup.
 
