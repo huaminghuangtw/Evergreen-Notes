@@ -1,7 +1,7 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2025-11-24T10:04:58
+modified: 2025-11-29T14:29:01
 ---
 
 > _“Everything popular is wrong.” — Oscar Wilde_
@@ -43,6 +43,8 @@ modified: 2025-11-24T10:04:58
 ---
 
 # The Fight Against Normalcy
+
+> _“Normal is the average of deviance.” — Rita Mae Brown_
 
 > _“Do not conform to the pattern of this world, but be transformed by the renewing of your mind.” — Romans 12:2_
 
