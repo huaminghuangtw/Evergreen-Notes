@@ -1,7 +1,7 @@
 ---
 title: A man who is a master of patience is master of everything else
 created: 2024-11-18T09:18:12
-modified: 2025-11-27T16:48:11
+modified: 2025-11-29T15:33:02
 ---
 
 > _[“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)_
@@ -77,7 +77,7 @@ Adopt the pace of nature: Her secret is _patience_.
 
 # Decision-Razor
 
-Weigh the potential **benefits of delayed action [^1]** against the **risks of inaction** to determine the best approach.
+Weigh the potential **benefits of [delayed action](procrastination.md) [^1]** against the **risks of inaction** to determine the best approach.
 
 ---
 
