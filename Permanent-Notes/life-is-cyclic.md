@@ -1,7 +1,7 @@
 ---
 title: Life is cyclic
 created: 2024-11-18T09:18:12
-modified: 2025-11-15T08:27:08
+modified: 2025-11-29T17:14:17
 ---
 
 > _“Life is like a wheel. Sooner or later, it always comes around to where you started again.” — Stephen King_
@@ -12,13 +12,17 @@ modified: 2025-11-15T08:27:08
 
 > _[“My experience of life is that it is not divided up into genres; it’s a horrifying, romantic, tragic, comical, science-fiction cowboy detective novel. You know, with a bit of pornography if you’re lucky.” — Alan Moore]([https://www.goodreads.com/quotes/1981-my-experience-of-life-is-that-it-is-not-divided](https://www.goodreads.com/quotes/1981-my-experience-of-life-is-that-it-is-not-divided))_
 
+> _“There is a time for everything, and a season for every activity under the heavens.” — Ecclesiastes 3:1_
+>
+> 「天下萬物皆有定時。」—《聖經・舊約・傳道書第 3 章第 1 節》
+
 ---
 
 [The Surfer Mentality](https://www.sahilbloom.com/newsletter/the-surfer-mentality)
 
 ---
 
-喜憂參半是生活，起起落落 [^1] 是人生
+喜憂參半是生活，起起落落 [^1] 是人生。
 
 ---
 
