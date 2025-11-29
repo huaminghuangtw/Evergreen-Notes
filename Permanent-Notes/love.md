@@ -1,7 +1,7 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2025-11-24T16:39:23
+modified: 2025-11-29T14:33:10
 ---
 
 > _“Love is the absence of judgment.” — Dalai Lama_
@@ -190,6 +190,8 @@ Fall deeply. Fail fast. Burn beautifully.
 1. Unconditional love
 	* Marriage only works when both panties are willing to serve the other without any expectation in return.
 2. Mutual understanding
+
+	> _“Understanding is love’s other name.” — Thích Nhất Hạnh_
 
 ---
 
