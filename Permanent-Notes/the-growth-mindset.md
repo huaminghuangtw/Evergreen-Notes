@@ -1,7 +1,7 @@
 ---
 title: The Growth Mindset
 created: 2024-11-18T09:18:12
-modified: 2025-11-17T06:14:52
+modified: 2025-11-29T11:34:06
 ---
 
 [@dweckMindsetNewPsychology2008]
@@ -20,9 +20,11 @@ modified: 2025-11-17T06:14:52
 
 持續修正，不斷嘗試、試錯，重點是 [積少成多、聚沙成塔](the-compounding-effect.md)、一次比一次更好的迭代/堆疊 [過程](journey-over-destination.md) (like interval workouts)。
 
+[摸石頭過河](https://www.google.com/search?q=摸石頭過河)（Crossing the river by touching the stones）
+
 ---
 
-駭客精神: 好還要更好!
+駭客精神：好還要更好!
 
 ---
 
