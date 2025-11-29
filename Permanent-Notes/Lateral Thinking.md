@@ -1,7 +1,7 @@
 ---
 title: Lateral Thinking
 created: 2024-11-18T09:16:49
-modified: 2025-11-20T18:10:27
+modified: 2025-11-29T08:11:34
 ---
 
 > _“The young man knows the rules, but the old man knows the exceptions.” — Oliver Wendell Holmes, Sr._
@@ -100,7 +100,7 @@ Rather than being trapped, Alexander challenged the fixed assumption—metaphori
 
 ---
 
-[The PO Creativity Method](The%20PO%20Creativity%20Method.md)
+[The PO Creativity Method](the-po-creativity-method.md)
 
 ---
 
