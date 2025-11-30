@@ -1,7 +1,7 @@
 ---
 title: The absence of desire is true happiness
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:26
+modified: 2025-11-30T07:16:30
 ---
 
 > _「有求皆苦，無求即樂」— 達摩祖師《二入四行觀》_
