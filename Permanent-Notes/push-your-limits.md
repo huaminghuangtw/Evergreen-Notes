@@ -1,7 +1,7 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-11-28T17:41:18
+modified: 2025-11-30T16:06:40
 ---
 
 > _“Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot_
@@ -110,6 +110,8 @@ Self-imposed limits, Self-limiting beliefs/stories, Self-sabotaging behaviors, e
 > _[“Over the years, I have come to realize that the greatest trap in our life is not success, popularity, or power, but self-rejection. Success, popularity, and power can indeed present a great temptation, but their seductive quality often comes from the way they are part of the much larger temptation to self-rejection. When we have come to believe in the voices that call us worthless and unlovable, then success, popularity, and power are easily perceived as attractive solutions. The real trap, however, is self-rejection. As soon as someone accuses me or criticizes me, as soon as I am rejected, left alone, or abandoned, I find myself thinking, "Well, that proves once again that I am a nobody." … [My dark side says,] I am no good… I deserve to be pushed aside, forgotten, rejected, and abandoned. Self-rejection is the greatest enemy of the spiritual life because it contradicts the sacred voice that calls us the "Beloved." Being the Beloved constitutes the core truth of our existence.” — Henri J.M. Nouwen](https://www.goodreads.com/quotes/230436-over-the-years-i-have-come-to-realize-that-the)_
 
 > _[“The biggest wall you have to climb is the one you build in your mind: Never let your mind talk you out of your dreams, trick you into giving up. Never let your mind become the greatest obstacle to success. To get your mind on the right track, the rest will follow.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/8014046-the-biggest-wall-you-have-to-climb-is-the-one)_
+
+> _“Our mind is capable of passing beyond the dividing line we have drawn for it.” — Herman Hesse_
 
 ---
 
