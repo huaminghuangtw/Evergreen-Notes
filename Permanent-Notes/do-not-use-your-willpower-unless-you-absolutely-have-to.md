@@ -1,7 +1,7 @@
 ---
 title: Do not use your willpower unless you absolutely have to
 created: 2024-11-18T09:18:12
-modified: 2025-11-28T17:27:24
+modified: 2025-11-29T17:28:03
 ---
 
 > _[“I only do what is easy. I only write when I immediately know how to do it, if I falter for a moment, I put the matter aside and do something else .” — Niklas Luhmann](https://www.soenkeahrens.de/en/takesmartnotes)_
@@ -24,4 +24,4 @@ Don’t rely solely on willpower to push through toward distant goals. Don’t j
 
 ---
 
-In the long-run (and often in the short-run), your willpower will never beat your environment. The more disciplined your environment is, the less disciplined you need to be. Don't swim upstream.
+In the long-run (and often in the short-run), your willpower will never beat your environment. The more disciplined your environment is, the less disciplined you need to be. Don’t swim upstream.
