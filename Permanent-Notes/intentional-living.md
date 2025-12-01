@@ -1,7 +1,7 @@
 ---
 title: Intentional Living
 created: 2024-11-18T09:18:12
-modified: 2025-11-23T11:49:42
+modified: 2025-12-01T09:25:33
 ---
 
 > _“Get busy living, or get busy dying.” — Stephen King_
@@ -21,6 +21,8 @@ modified: 2025-11-23T11:49:42
 > _“I don’t want to get to the end of my life and find that I just lived the length of it. I want to live the width of it as well.” — Diane Ackerman_
 
 > _“One day your life will flash before your eyes. Make sure it’s worth watching.” — Gerard Way_
+
+> _“Tell me, what is it you plan to do with your one wild and precious life?” — Mary Oliver_
 
 ---
 
