@@ -1,7 +1,7 @@
 ---
 title: Emotion Control
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:27
+modified: 2025-12-01T08:02:32
 ---
 
 > _“Emotional sickness is avoiding reality at any cost. Emotional health is facing reality at any cost.” — [M. Scott Peck](https://quotefancy.com/m-scott-peck-quotes)_
@@ -58,7 +58,23 @@ Before making an important decision ask: “_Am I **hungry**, **angry**, **lonel
 
 ---
 
+# [情緒量表 Mood Meter](https://marcbrackett.com/wp-content/uploads/2023/11/Mood_Meter_Marc_Brackett_Permission-to-Feel.pdf) developed by [Marc Brackett, Ph.D.](https://marcbrackett.com/)
+
 [@brackettPermissionFeelUnlocking2019]
+
+---
+
+# The PERMA Model developed by [Martin Seligman](https://www.google.com/search?q=Martin+Seligman)
+
+[@seligmanFlourishVisionaryNew2011]
+
+represents the five core elements of [happiness](happiness.md) and well-being:
+
+1. Positive Emotion
+2. Engagement
+3. Relationships
+4. Meaning
+5. Accomplishment
 
 ---
 
