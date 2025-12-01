@@ -1,7 +1,7 @@
 ---
 title: The Compounding Effect
 created: 2024-11-18T09:18:12
-modified: 2025-11-28T17:39:02
+modified: 2025-12-01T08:10:43
 ---
 
 > _“Compounding is the 8th wonder of the world.” — Albert Einstein_
@@ -51,6 +51,20 @@ leads to a [Vicious Cycle (良性循環)](https://www.google.com/search?q=Viciou
 #Newsletter
 
 # Success is rarely the result of one variable, but failure often is.
+
+> In some areas of life, your reputation is defined by your wins.
+>
+> 1. **Creative pursuits.** One bestseller or hit song can erase the memory of the ones that didn’t work.
+> 2. **Entrepreneurship.** People rarely remember your failed business ideas, only your winning ones.
+> 
+> In areas like these, your mistakes fade away and the breakthroughs last. But in other areas of life, your reputation is defined by your losses.
+>
+> 1. **Crime.** You can drive safely 364 days a year, but one [DUI](https://www.google.com/search?q=DUI) changes everything.
+> 2. **Ethics and morals.** One unethical decision can ruin a reputation and destroy trust.
+> 
+> In areas like these, your mistakes linger and consistency is rewarded.
+>
+> Some areas of life reward your best day. Others punish your worst day. <mark>Know which situation you’re in, and you can better decide when to be risky and when to play it safe.</mark>
 
 10 - 1 = 0: 即使做對十件事，只要其中一件事做錯，一切就歸零，避免犯錯比什麼都重要!!!
 
