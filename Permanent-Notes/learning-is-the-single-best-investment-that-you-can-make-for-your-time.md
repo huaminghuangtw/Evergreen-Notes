@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-11-23T17:00:22
+modified: 2025-12-01T09:24:01
 ---
 
 Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
@@ -182,6 +182,10 @@ Always starting from the most basic and simplest level, then adding more complex
 
 			> _“When one teaches, two learn.” — Robert Half_
 
+		* [A good teacher is a DJ for learning](https://sketchplanations.com/a-good-teacher-is-a-dj-for-learning). They:
+			1. Sift what matters from everything else
+			2. Create the right mix for the occasion
+			3. Lead and respond to the audience
 		* _“Those who know, do. Those that understand, teach.” — Aristotle_
 			* You don’t fully understand a thing until you try to explain/speak for it
 			* [Explain It To Me Like I’m 5 (ELI5)](https://www.reddit.com/r/explainlikeimfive/)
