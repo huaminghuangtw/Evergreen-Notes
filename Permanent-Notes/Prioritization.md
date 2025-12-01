@@ -1,7 +1,7 @@
 ---
 title: Prioritization
 created: 2024-11-18T09:18:12
-modified: 2025-11-22T15:05:42
+modified: 2025-12-01T08:06:50
 ---
 
 > _“The whole point of getting things done is knowing what to leave undone.” — Oswald Chambers_
@@ -46,8 +46,8 @@ If you have more than 3 priorities, you don’t have any. You must choose what t
 
 # How To Decide What’s Worth Doing? (by Tim Ferriss)
 
-* The thing must have the following properties:
-	* **Upside:** Uncapped exponential outcomes
+* The thing must have the following *asymmetric* properties:
+	* **Upside:** Uncapped/Unlimited exponential outcomes
 	* **Downside:** Possibility to build a skill that you carry/reapply elsewhere
 * Example
 	* Writing Twitter tweets/threads
