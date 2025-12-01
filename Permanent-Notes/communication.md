@@ -1,7 +1,13 @@
 ---
 title: Communication
 created: 2024-11-18T09:18:12
-modified: 2025-11-23T11:31:11
+modified: 2025-12-01T08:12:05
+---
+
+> _“The greatest communication is usually how we are rather than what we say.” — Joseph Goldstein_
+
+True communication goes far beyond words. Often, it’s the way we show up—our presence, our calm, and our authenticity—that speaks volumes without uttering a word. Goldstein’s insight reminds us to focus on being fully present and genuine, knowing that these qualities often communicate more deeply than any words.
+
 ---
 
 * Communication is not about saying what we think. Communication is about ensuring others hear what we mean.
