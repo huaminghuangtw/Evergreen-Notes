@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-11-20T18:10:26
+modified: 2025-12-02T07:55:55
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -164,6 +164,11 @@ While small talk (= idle talk = chitchat) has its place ,[^2] real bonding/conve
 True connection often come from overcoming challenges together.
 
 True bonds are often forged through adversity.
+
+> _“Shared joy is a double joy; shared sorrow is half sorrow.” — Swedish Proverb_
+
+* When one person shares good news with another, both people are happy.
+* When one person shares  sad news with another, the act of sharing takes some of the sadness away.
 
 ---
 
