@@ -1,7 +1,7 @@
 ---
 title: The most productive people prioritize intentional rest
 created: 2024-11-18T09:18:12
-modified: 2025-11-27T05:54:33
+modified: 2025-12-02T08:00:01
 ---
 
 > _“Rest until you feel like playing, then play until you feel like resting.” — Martha Beck_
@@ -65,9 +65,9 @@ Learn to _rest_, not to _quit_. The Last Man Standing is often the winner.
 
 ---
 
-Properly break in your breaks — no sneaky working.
+Properly break in your breaks — no sneaky working. Do not trade the last hour of the night for the first hour in the morning.
 
-> _“If you keep interrupting your evening to check and respond to e-mail, or put aside a few hours after dinner to catch up on an approaching deadline, you’re robbing your directed attention centers of the uninterrupted rest they need for restoration. Even if these work dashes consume only a small amount of time, they prevent you from reaching the levels of deeper relaxation in which attention restoration can occur. Only the confidence that you’re done with work until the next day can convince your brain to downshift to the level where it can begin to recharge for the next day to follow. Put another way, trying to squeeze a little more work out of your evenings might reduce your effectiveness the next day enough that you end up getting less done than if you had instead respected a shutdown.” — [@newportDeepWorkRules2016]_
+> _“If you keep interrupting your evening to check and respond to e-mail, or put aside a few hours after dinner to catch up on an approaching deadline, you’re robbing your directed attention centers of the uninterrupted rest they need for restoration. Even if these work dashes consume only a small amount of time, they prevent you from reaching the levels of deeper relaxation in which attention restoration can occur. Only the confidence that you’re done with work until the next day can convince your brain to downshift to the level where it can begin to recharge for the next day to follow. Put another way, <mark>trying to squeeze a little more work out of your evenings might reduce your effectiveness the next day enough that you end up getting less done than if you had instead respected a shutdown.</mark>” — [@newportDeepWorkRules2016]_
 
 ---
 
