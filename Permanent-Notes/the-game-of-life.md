@@ -1,7 +1,7 @@
 ---
 title: The Game of Life
 created: 2024-11-18T09:18:12
-modified: 2025-11-26T08:21:25
+modified: 2025-12-02T06:53:45
 ---
 
 > _[The reason to play the game is to be free of it.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)_
@@ -28,6 +28,13 @@ modified: 2025-11-26T08:21:25
 | Either WIN or LOSE<br>(Any gain corresponds directly with an equivalent loss) |                                      WIN-WIN                                       |
 |                            Fixed/Scarcity Mindset                             |                 [Growth/Abundance Mindset](the-growth-mindset.md)                  |
 |                              有限賽局的玩家是為了防止未來改變過去                               |                                 無限賽局的玩家是為了讓未來改變過去                                  |
+
+---
+
+| Mindset            | Statement 1        | Statement 2     | Statement 3                   |
+|--------------------|--------------------|------------------|--------------------------------|
+| **Competitor**     | “You win, I lose”  | “My success”     | “I rise by outdoing others”    |
+| **Comrade 同志；戰友**        | “You win, I win”   | “Our success”    | “We rise by lifting others”    |
 
 ---
 
