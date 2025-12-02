@@ -1,7 +1,7 @@
 ---
 title: Mastering yourself is superpower
 created: 2024-11-18T09:18:12
-modified: 2025-11-29T17:28:03
+modified: 2025-12-02T05:06:00
 ---
 
 > _“Knowing yourself is the beginning of all wisdom.” — Aristotle_
@@ -60,6 +60,8 @@ modified: 2025-11-29T17:28:03
 * “I” reflects the self as a subject of experience (self as subject)
 
 ---
+
+#Newsletter 
 
 # [Master Shi Heng Yi – 5 hindrances to self-mastery](https://youtu.be/4-079YIasck) [^3]
 
