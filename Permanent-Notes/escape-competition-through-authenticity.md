@@ -1,7 +1,7 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2025-11-29T14:29:01
+modified: 2025-12-02T05:50:11
 ---
 
 > _“Everything popular is wrong.” — Oscar Wilde_
@@ -88,6 +88,8 @@ The world doesn’t need one more _template_. It needs one more _rebel_.
 Attract \> Chase
 
 > _“If you spend your time chasing butterflies, they’ll fly away. But if you spend your time making/mending a beautiful garden, the butterflies will come.” — Mario Quintana_ [^3]
+
+> _“The flower doesn’t dream of the bee. It blossoms and the bee comes.” — Mark Nepo_
 
 ---
 
