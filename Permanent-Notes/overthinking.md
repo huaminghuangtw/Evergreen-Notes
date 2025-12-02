@@ -1,7 +1,7 @@
 ---
 title: Overthinking
 created: 2025-01-23T10:40:57
-modified: 2025-11-27T05:58:46
+modified: 2025-12-02T04:46:33
 ---
 
 > _“Imagination and fiction make up more than three quarters of our real life.” — Simone Weil_
@@ -24,7 +24,7 @@ modified: 2025-11-27T05:58:46
 
 The primary cause of unhappiness is never the situation but your thoughts about it.
 
-人最大的限制是自己的想像力 — 折磨我們的恐懼，通常都是來自對於事情的「想像」，而不是「真實」的，很多時候我們只是被自己的一些想法給「綑綁」住而已
+人最大的限制是自己的想像力 — 折磨我們的恐懼，通常都是來自對於事情的「想像」，而不是事情「本身」；很多時候，我們只是被自己的一些想法「綑綁」住而已。
 
 ---
 
@@ -34,7 +34,7 @@ The primary cause of unhappiness is never the situation but your thoughts about 
 
 ---
 
-Understand the difference between _**imagination**_ and _**rumination**_
+Understand the difference between **imagination** and **rumination**
 
 ---
 
