@@ -1,7 +1,7 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2025-11-20T18:10:26
+modified: 2025-12-02T07:10:24
 ---
 
 > _[“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)_
@@ -99,6 +99,10 @@ The more easily you get offended, the less emotional intelligence you have. Inve
 * 如果別人朝著你丟石頭，就不要扔回去了，留著做你建高樓的基石。
 * 有些人是真心來對話的，有些人是純心來吵架的，分清楚兩者之間的差異！
 * [“Taking Souls (收割靈魂)” by David Goggins](https://www.google.com/search?q=taking+souls+david+goggings)
+
+	> _“Always aspire to act in a way that cancels out someone else’s cruel or stupid behavior.” — Carl Hiaasen_
+
+	* 「逆境菩薩」
 	* Love your enemies—not by seeking their approval, but by turning your feelings about them into fuel. Let their doubt drive you. [Be so exceptional at what you do](always-do-your-best-as-possible.md) that they’re forced to respect you, not out of affection, but awe. They don’t need to like you. It’s about earning respect through undeniable excellence, shattering their preconceptions with your relentless work and undeniable results.
 * [Reminder: If someone is acting like an idiot, you can just move on and let them be wrong. You do not have a personal obligation to correct people who are committed to being stupid. Sure, sometimes you need to attempt to get on the same page, but usually you can simply reclaim your time and move on to more productive ventures.](https://jamesclear.com/3-2-1/april-24-2025)
 * 笑罵由人、唾面自乾
