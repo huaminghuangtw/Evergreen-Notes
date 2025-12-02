@@ -1,7 +1,7 @@
 ---
 title: Stress & Anxiety
 created: 2024-11-18T09:18:12
-modified: 2025-11-26T08:21:25
+modified: 2025-12-02T06:56:27
 ---
 
 > _“Stress happens when the mind resists what is.” — Dan Millman_
@@ -106,11 +106,22 @@ Stress and anxiety are a [tax](everything-in-life-has-an-opportunity-cost.md) on
 
 # Nothing diminishes anxiety faster than action
 
-Anxiety thrives in the space between thinking and doing. They feed on idleness.
+Stress and anxiety tend to be higher before you act.
 
-[Action](cultivate-a-strong-bias-towards-action.md) is the antidote to anxiety. When you take action, you starve them of the oxygen they need to survive.
+They thrive in the space between thinking and doing. They feed on idleness.
+
+Without action, all you can do is worry.
+
+[Action](cultivate-a-strong-bias-towards-action.md) is the antidote.
+
+When you take action, you starve them of the oxygen they need to survive. / Once you begin, fear shrinks as you start to influence the outcome.
 
 The answers you seek are found in the simple actions you avoid.
+
+  
+
+  
+
 
 ---
 
