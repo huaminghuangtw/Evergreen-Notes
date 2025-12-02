@@ -1,7 +1,7 @@
 ---
 title: The Arrival Fallacy
 created: 2025-01-23T10:40:57
-modified: 2025-11-19T05:44:07
+modified: 2025-12-02T09:24:07
 ---
 
 > _“Arriving someplace more desirable at some future time is an illusion. This is it.” — Jon Kabat-Zinn_
@@ -42,8 +42,8 @@ Beware of destination addiction: The idea that happiness is in the next place, t
 
 # Actions
 
-* Stay in contentment
-	* 我們生活中唯一不變的是 [渴望](the-absence-of-desire-is-true-happiness.md)，而唯一確定的終點是 [旅程](journey-over-destination.md) 本身。
+* [Stay in contentment](embrace-the-beauty-of-enoughness.md)
+	* Contentment is the lasting goal. True joy comes from being content with what you have rather than pursuing what you don’t have.
 * [Expect nothing](not-caring-lets-us-perform-better.md)
 	* Reward Prediction Error = Actual Reward – Expected Reward
 	* Miracles do happen when you least expect it.
