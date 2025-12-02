@@ -1,7 +1,7 @@
 ---
 title: You are the average of the five people you associate with most
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:26
+modified: 2025-12-02T06:15:42
 ---
 
 > _“You are the average of the five people you spend the most time with.” ― Jim Rohn_
@@ -104,6 +104,12 @@ You have to be very selective with whom you give your _time_, _energy_, and _att
 [Observing challenge-seeking in others increased the probability of participants choosing more challenging options. These results indicate that our motivation to seek challenges may be instilled, in part, through social processes.](https://doi.org/10.1037/xge0001620)
 
 [Performance is contagious: sitting near a high performer can make you better at your job—your productivity rises. But sit near a low performer, and it can just as easily plummet.](https://insight.kellogg.northwestern.edu/article/sitting-near-a-high-performer-can-make-you-better-at-your-job)
+
+---
+
+# [Relational Energy](https://oxford-review.com/oxford-review-encyclopaedia-terms/relational-energy-what-it-is-and-why-it-matters-to-organisations/)
+
+The fact that our interactions with others can have a profound effect on our mood.
 
 ---
 
