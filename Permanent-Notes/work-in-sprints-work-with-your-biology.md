@@ -1,7 +1,7 @@
 ---
 title: Work in sprints, work with your biology
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:26
+modified: 2025-12-02T08:02:11
 ---
 
 > _“If you want to operate at maximum productivity, efficiency, and creativity, you’re going to work on things that you’re excited about at the moment you’re excited about them and accept nothing less. It is better to sit on your butt and do nothing than it is to work on things that you are not excited about.” — Naval Ravikant_
@@ -99,7 +99,7 @@ According to the research, “_The secret to retaining the highest level of prod
 
 # 精神時光屋
 
-《七龍珠》中的一個奇異修煉空間，內部時間流逝速度比外界快很多，約為「外界一天，裡面一年」。
+《七龍珠》中的一個奇異修煉空間（「專注之繭」），內部時間流逝速度比外界快很多，約為「外界一天，裡面一年」。
 
 這個梗常用來比喻需要在某個地方進行極為嚴格、密集的訓練，以在短時間內獲得巨大實力提升、快速進步的場合，例如考試前的衝刺或電競選手的特訓。
 
