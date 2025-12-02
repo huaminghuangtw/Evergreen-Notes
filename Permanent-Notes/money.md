@@ -1,7 +1,7 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2025-11-26T08:21:54
+modified: 2025-12-02T07:45:33
 ---
 
 > _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
@@ -59,7 +59,9 @@ Reasonable \> Rational
 		* **Expectation Inflation**
 			* Expectation is the greatest liability. You will never be rich (financially wealthy) if your expectations are growing faster than your asset because you are constantly wanting more.
 			* If your expectations grow faster than your income, you’ll never be satisfied with your money, no matter how much you accumulate.
+			* The less you need, the richer you become – wealth is about flexibility, not luxury.
 			* [John D. Rockefeller was worth the equivalent of $400 billion, but he never had penicillin, sunscreen, or Advil. For most of his adult life he didn’t have electric lights, air conditioning, or sunglasses. **Everything about wealth is circumstances in the context of expectations.**](https://collabfund.com/blog/little-rules-about-big-things/)
+			* Manage Your Expectations: You can be financially poor, but psychologically rich.
 
 # On Making Money
 
