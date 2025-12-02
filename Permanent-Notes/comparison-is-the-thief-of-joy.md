@@ -1,7 +1,7 @@
 ---
 title: Comparison is the thief of joy
 created: 2024-11-18T09:18:12
-modified: 2025-11-26T08:21:54
+modified: 2025-12-02T07:12:58
 ---
 
 > _”Don’t bother just to be better than your contemporaries or predecessors. Try to be better than yourself.” — William Faulkner_
@@ -63,6 +63,24 @@ The only time you should look in someone else’s bowl is to see if they have en
 4. 影子永遠跟著你走，它提醒你：真正的比較對象，其實一直都是「昨天的自己」。
 
 ---
+
+To improve, compare little things.
+
+* Marketing strategies
+* Exercise technique
+* Writing tactics
+
+To be miserable, compare big things.
+
+* Career path
+* Marriage
+* Net worth
+
+Comparison is the thief of joy when applied broadly, but the teacher of skills when applied narrowly.
+
+
+---
+
 
 [Escape competition through authenticity](escape-competition-through-authenticity.md)
 
