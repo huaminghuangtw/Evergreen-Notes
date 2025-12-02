@@ -1,7 +1,7 @@
 ---
 title: Always start and end the day right
 created: 2025-01-23T10:40:57
-modified: 2025-11-12T05:56:35
+modified: 2025-12-02T08:00:33
 ---
 
 > _“Every morning in Africa, a gazelle wakes up, it knows it must outrun the fastest lion or it will be killed. Every morning in Africa, a lion wakes up. It knows it must run faster than the slowest gazelle, or it will starve. It doesn’t matter whether you’re the lion or a gazelle-when the sun comes up, you’d better be running.” — Christopher McDougall_
@@ -30,7 +30,7 @@ Morning routines _start with evening routines the night before_: If you want to 
 
 ---
 
-聖經《創世紀》第一章中記載了上主用六天創造天地的過程，每一天的敘述都以同一句話作結：「有晚上，有早晨。」這樣的陳述很有意思 — 為什麼不是「有早晨，有晚上」呢？我想，或許這正提醒我們，唯有經過充足的休息、睡眠與沉澱，才能開啟充滿生產力和創造力的一天吧！
+聖經《創世紀》第一章中記載了上主用六天創造天地的過程，每一天的敘述都以同一句話作結：「有晚上，有早晨。」這樣的陳述很有意思 — 為什麼不是「有早晨，有晚上」呢？我想，或許這正提醒我們，唯有經過[充足的休息](the-most-productive-people-prioritize-intentional-rest.md)、睡眠與沉澱，才能開啟充滿生產力和創造力的一天吧！
 
 具體來說，《創世紀》1:5、1:8、1:13、1:19、1:23、1:31 等經文中都寫道：
 
