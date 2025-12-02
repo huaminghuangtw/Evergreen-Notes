@@ -1,7 +1,7 @@
 ---
 title: Communication
 created: 2024-11-18T09:18:12
-modified: 2025-12-01T08:12:05
+modified: 2025-12-02T07:54:36
 ---
 
 > _“The greatest communication is usually how we are rather than what we say.” — Joseph Goldstein_
@@ -41,9 +41,18 @@ State the facts and tell the truth. Speak with [integrity](integrity.md)—say e
 
 ---
 
+# Be radically candid
+
+[How to Lead With Radical Candor \| Kim Scott \| TED](https://www.youtube.com/watch?v=vmxHUiiHgNk)
+
+* Praise specifically. Criticize generally.
+* Praise in public. Criticize in private.
+
+---
+
 # [Point Positive](https://sketchplanations.com/point-positive)
 
-Don’t fix the blame, fix the problem.
+[Don’t fix the blame, fix the problem.](https://sketchplanations.com/dont-fix-the-blame-fix-the-problem)
 
 ---
 
@@ -99,6 +108,18 @@ The next time a friend, partner, or family member comes to you with a problem, r
 	> Source: [Lisa Feldman Barrett: Balancing the Brain Budget \[The Knowledge Project Ep. #92\]](https://www.youtube.com/watch?v=jORaNMIGiok&t=48m1s)
 
 This simple step can prevent misunderstandings and show that you’re there for them in the way they need you to be. People want to feel understood, and sometimes the best support you can offer is just your presence and a listening ear.
+
+---
+
+# The power of over-communication
+
+When you think you’ve communicated too much, you probably haven’t communicated enough.
+
+When you think you’ve communicated plenty, you almost certainly haven’t.
+
+Different team members might interpret the shared information in different ways or have different levels of context or understanding. 
+
+Overcommunicating means deliberately going beyond the minimum you think is necessary, and consequently ending up sharing exactly the right amount.
 
 ---
 
