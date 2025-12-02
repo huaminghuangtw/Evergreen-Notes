@@ -1,7 +1,7 @@
 ---
 title: Creativity is just connecting things
 created: 2025-03-12T02:41:12
-modified: 2025-10-27T08:34:06
+modified: 2025-12-02T06:45:34
 ---
 
 > _“Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. That’s because they were able to connect experiences they’ve had and synthesize new things. And the reason they were able to do that was that they’ve had more experiences or they have thought more about their experiences than other people.” — Steve Jobs_
@@ -100,7 +100,7 @@ Here’s a [video](https:/youtu.be/gfHEOL-sDy4) of John Mayer showing off the Cr
 
 ---
 
-**Scenius** = A whole scene of people supporting each other, looking at each other’s work, copying from each other, stealing ideas, and contributing ideas.
+[Genius is an egosystem, scenius is an ecosystems](genius-is-an-egosystem-scenius-is-an-ecosystems.md)
 
 ---
 
