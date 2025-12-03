@@ -1,7 +1,7 @@
 ---
 title: What Success Means To Me
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:26
+modified: 2025-12-03T06:17:27
 ---
 
 > _“The road to success is always under construction.” — Steve Harvey_
@@ -32,6 +32,8 @@ modified: 2025-11-20T18:10:26
 
 > _“Success isn’t about how your life looks to others. It’s about how it feels to you.” — Michelle Obama_
 
+> _[“The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.” — Vince Lombardi](https://www.goodreads.com/quotes/93874-the-difference-between-a-successful-person-and-others-is-not)_
+
 ---
 
 # [“The Inner Ring” by C.S. Lewis](https://www.lewissociety.org/innerring/) [^1]
@@ -50,7 +52,7 @@ modified: 2025-11-20T18:10:26
 
 > _[“The only true test of intelligence is if you get what you want out of life.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)_
 
-1. 想：知道自己想要/不想要什麼、定義自己的平衡/甜蜜點
+1. 想：知道自己想要/不想要什麼、定義自己的平衡/甜蜜點 [^3]
 2. 做：有能力真正地得到/避免自己想要/不想要 の 東西、想辦法站在上面，死都不要下來
 
 [Life is a game of awareness and action: Awareness to understand something’s importance and action to execute on that importance.](https://www.sahilbloom.com/newsletter/11-uncommon-lessons-from-uncommon-minds)
@@ -59,7 +61,7 @@ modified: 2025-11-20T18:10:26
 
 > _[“Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness that most frightens us. We ask ourselves, ’Who am I to be brilliant, gorgeous, talented, fabulous?' Actually, who are you not to be? You are a child of God. Your playing small does not serve the world. There is nothing enlightened about shrinking so that other people won’t feel insecure around you. We are all meant to shine, as children do. We were born to make manifest the glory of God that is within us. It’s not just in some of us; it’s in everyone. And as we let our own light shine, we unconsciously give other people permission to do the same. As we are liberated from our own fear, our presence automatically liberates others.” ― Marianne Williamson, A Return to Love: Reflections on the Principles of “A Course in Miracles”](https://www.goodreads.com/quotes/928-our-deepest-fear-is-not-that-we-are-inadequate-our)_
 
-「我們最大的恐懼，並非自己不夠好，而是遠比想像中更強大。我們最怕的不是失敗，而是做自己的成功。」[^3]
+「我們最大的恐懼，並非自己不夠好，而是遠比想像中更強大。我們最怕的不是失敗，而是做自己的成功。」[^4]
 
 ---
 
@@ -100,4 +102,5 @@ modified: 2025-11-20T18:10:26
 
 [^1]: is the exclusive group/circle to which people are drown to and want to belong throughout their lives.
 [^2]: [If you define success on the basis of comparison to others, you will never feel successful. _The only way to feel successful is to create your own definition of success, rather than consenting to one that was handed to you._](https://www.sahilbloom.com/newsletter/13-harsh-truths-about-success-nobody-told-you)
-[^3]: _“Owning our story and loving ourselves through that process is the bravest thing that we’ll ever do.” — Brené Brown_
+[^3]: The most important thing in life is _not having_ what you want, but _knowing_ what you want—figuring it out is everything!
+[^4]: _“Owning our story and loving ourselves through that process is the bravest thing that we’ll ever do.” — Brené Brown_
