@@ -1,7 +1,7 @@
 ---
 title: Work smart
 created: 2025-01-23T10:40:57
-modified: 2025-11-17T06:18:54
+modified: 2025-12-03T05:38:32
 ---
 
 > _“You’re more likely to unlock a big leap in performance by trying differently than by trying harder. You might be able to work 10% harder, but a different approach might work 10x better. Remain focused on the core problem, but explore a new line of attack. Persistence is not just about effort, but also strategy. Don’t merely try harder, try differently.” — James Clear_
@@ -72,6 +72,10 @@ We need to redefine “[hard work](Work%20hard.md)” to include “[hard thinki
 * The person with a better strategy is out working you.
 
 Usually, the hardest work is thinking of a better way to do it.
+
+---
+
+[99% of effort is wasted](99-percent-of-effort-is-wasted.md)
 
 ---
 
