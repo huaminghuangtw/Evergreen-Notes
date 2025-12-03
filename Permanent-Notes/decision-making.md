@@ -1,7 +1,7 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2025-11-26T08:21:25
+modified: 2025-12-03T15:12:53
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -100,6 +100,10 @@ When faced with any key decision, you effectively choose one of two potential ch
 * When I can do a lot to influence the outcome, I’m less worried about risk. Even if the choice appears risky on the surface, I can likely create a good outcome with effort.
 * When I can’t do much to influence the outcome, I’m more risk averse. Even my best effort won’t move the needle.
 * Your ability to influence the outcome after a decision is made is a crucial thing to consider.
+
+---
+
+[The person who experiences the consequences should make the decision.](https://jamesclear.com/3-2-1/march-13-2025)
 
 ---
 
