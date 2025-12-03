@@ -1,7 +1,7 @@
 ---
 title: Stay curious
 created: 2024-11-18T09:18:12
-modified: 2025-11-16T06:28:15
+modified: 2025-12-03T05:57:35
 ---
 
 > _“The cure for boredom is curiosity. There is no cure for curiosity.” — Dorothy Parker_
@@ -42,6 +42,10 @@ Embrace a child-like curiosity. The smartest people have the curiosity of a chil
 ---
 
 Curiosity comes from The Information Gap. The more you learn, the more curious you are.
+
+---
+
+A mind that opens to a new idea never returns to its original size. A mind once stretched by truth can never shrink again. Growth leaves footprints we can’t unsee.
 
 ---
 
