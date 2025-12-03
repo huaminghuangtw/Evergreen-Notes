@@ -1,7 +1,7 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2025-11-26T08:21:25
+modified: 2025-12-03T04:39:29
 ---
 
 > _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
@@ -36,7 +36,7 @@ modified: 2025-11-26T08:21:25
 
 Do the hard thing, because after doing it, you will feel that you can do anything.
 
-* [Confidence](Confidence%20comes%20from%20preparation.md) is built, not born. Manufacturing evidence of your ability to do hard things is how you create [confidence](Confidence%20comes%20from%20preparation.md) when you’re feeling low.
+* [Confidence](confidence-comes-from-preparation.md) is built, not born. Manufacturing evidence of your ability to do hard things is how you create [confidence](confidence-comes-from-preparation.md) when you’re feeling low.
 
 ---
 
@@ -65,6 +65,26 @@ It’s better to be a warrior in the garden than a gardener at war.
 ---
 
 Stop wanting things to be easy. Prepare for them to be hard.
+
+---
+
+# The Warrior in the Garden
+
+One day, a young warrior was walking to his training when he spotted his teacher, a master warrior, tending to plants in the garden.
+
+He approached cautiously and stood quietly, not wanting to disturb the man from whom he had learned so much.
+
+“What is it you want?” Asked the master warrior, without breaking focus from the plants.
+
+The student replied, “Why do we train for war? Would it not be more tranquil and serene to be a gardener and tend the plants?”
+
+The master paused, turned to the student, and smiled.
+
+“Tending the garden is a relaxing pastime, but it does not prepare one for the inevitable battles of life. It’s easy to be calm in such a serene setting. It’s hard to be calm when under attack.”
+
+The student nodded and turned away, satisfied with the answer, but the master wasn’t finished.
+
+<mark>“It is far better to be a warrior tending his garden than a gardener at war.”</mark>
 
 ---
 
