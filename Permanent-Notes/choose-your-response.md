@@ -1,7 +1,7 @@
 ---
 title: Choose your response
 created: 2025-01-23T10:40:57
-modified: 2025-11-27T05:58:58
+modified: 2025-12-03T06:28:48
 ---
 
 > _“How we decide to respond to our fears, that is the person we become.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
@@ -114,5 +114,9 @@ The Empty Boat Mindset is the reminder that most of these collisions you experie
 ---
 
 [Peace from mind](peace-from-mind.md)
+
+---
+
+[Two Wolves: Dark Wolf & Light Wolf](two-wolves-dark-wolf-vs-light-wolf.md)
 
 [^1]: _“It’s like singing on a boat during a terrible storm at sea. You can’t stop the raging storm, but singing can change the hearts and spirits of the people who are together on that ship.” — Anne Lamott_
