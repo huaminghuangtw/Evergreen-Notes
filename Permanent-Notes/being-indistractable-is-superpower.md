@@ -1,7 +1,7 @@
 ---
 title: Being indistractable is superpower
 created: 2025-01-23T18:40:57
-modified: 2025-11-20T18:10:27
+modified: 2025-12-03T05:20:13
 ---
 
 Being indistractable is about doing what you say you’re going to do.
@@ -12,9 +12,9 @@ The state of our attention determines the state of our life. Poor [attention man
 
 ---
 
-# Distraction Fuels Depression And Anxiety
+# Distraction Fuels [Depression And Anxiety](stress-and-anxiety.md)
 
-Depression is often the result of trying to change what we can’t and dwelling on the past. Anxiety is the result of trying to control what we can’t and worrying about the future. Both are amplified by constant distractions.
+Depression is often the result of trying to change what we can’t and dwelling on the past. Anxiety is the result of trying to control what we can’t and [worrying](train-yourself-not-to-worry.md) about the future. Both are amplified by constant distractions.
 
 ---
 
