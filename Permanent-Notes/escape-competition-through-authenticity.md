@@ -1,7 +1,7 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2025-12-02T05:50:11
+modified: 2025-12-03T13:11:08
 ---
 
 > _“Everything popular is wrong.” — Oscar Wilde_
@@ -85,7 +85,7 @@ The world doesn’t need one more _template_. It needs one more _rebel_.
 
 ---
 
-Attract \> Chase
+# Attract > Chase
 
 > _“If you spend your time chasing butterflies, they’ll fly away. But if you spend your time making/mending a beautiful garden, the butterflies will come.” — Mario Quintana_ [^3]
 
@@ -106,6 +106,14 @@ Find a thing that’s so you, that doing it is just a natural extension of you b
 ---
 
 如果無法為自己規劃願景，只會一昧地跟隨他人的夢想、隨之起舞，到最後，二流永遠只能是二流，追隨者也終究無法超越跟隨的腳步。
+
+---
+
+# 天生我材必有用
+
+> _「無用之用，方為大用。」— 莊子_
+
+人注定要成功。每個人都很獨特，天生就具備與眾不同的能力與特質。成功來自於 [發現真正的自己](mastering-yourself-is-superpower.md)，開發自己尚未開發的潛能。而發揮潛能，靠得不是忍受每天的磨練，而是把每天的磨練轉變成日常快樂的泉源（「刻意玩樂 Deliberate Play」）。
 
 ---
 
