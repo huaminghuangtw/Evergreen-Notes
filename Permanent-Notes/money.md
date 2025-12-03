@@ -1,7 +1,7 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2025-12-02T07:45:33
+modified: 2025-12-03T07:31:51
 ---
 
 > _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
@@ -65,9 +65,13 @@ Reasonable \> Rational
 
 # On Making Money
 
+* Optimize for life fulfillment/experiences, not for money-in-the-bank.
+	* 人生的價值，不在「金錢」的總和，而在「體驗」的加總。
+	* 人們真正想要的，是食、衣、住、行、育、樂，而不是銀行裡的數字。
 * Having a lot of money ≠ Rich life
-	* 在人生中，你應該要追求財富，而不是追求金錢。
-	* 要為了「幸福感」賺錢，不要為了「饋乏感」賺錢。
+	* 而財富，是這些東西的總稱，而非金錢。
+	* 所以，在人生中，你應該追求「財富」，而不是追求「金錢」。
+* 為了「幸福感」賺錢，不要為了「饋乏感」賺錢。
 * Use money to make more money for you. [^5]
 
 	> _“Rich men use most of their money to get richer. Poor men use most of their money to look richer.” — Mokokoma Mokhonoana_
@@ -77,8 +81,6 @@ Reasonable \> Rational
 	> _“Stop thinking about what your money can buy. Start thinking about what your money can earn. And then think about what the money it earns can earn.”_
 
 	* The rich get richer. Money begets money.
-* Optimize for life fulfillment/experiences, not for money-in-the-bank.
-	* 人生的價值，不在金錢的總和，而在體驗的加總。
 * Skills get you to a million, character/charisma takes you to 100 million, and time brings you to a billion.
 
 	> _“The reason you’re not making $10m a year is that you don’t know HOW to make $10m a year. Therefore, that lack of knowledge is costing you $10m a year.” — Alex Hormozi_
