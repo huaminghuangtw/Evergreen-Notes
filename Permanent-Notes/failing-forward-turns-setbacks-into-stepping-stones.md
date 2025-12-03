@@ -1,7 +1,7 @@
 ---
 title: Failing forward turns setbacks into stepping stones
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:27
+modified: 2025-12-03T06:00:59
 ---
 
 > _“Opportunity often comes disguised in the form of misfortune or temporary defeat.” — Napoleon Hill_
@@ -18,15 +18,19 @@ modified: 2025-11-20T18:10:27
 
 ---
 
+You don’t have to get it right the first time. Just fail faster.
+
+---
+
 **Failing Forward:** If you want to _win_, you have to _lose_ first. All _success_ begins with _failure_.
 
-<div align="center">
+<figure>
+  <img src="https://images.squarespace-cdn.com/content/v1/5d15594116124000014ec5aa/1633901635350-O2O70CHYZI3NC57RJT02/lizfossliensuccessandfailure.png?format=1000w">
+  <figcaption>
+    <sub><em>Source: <a href="https://www.fosslien.com/images#/liz-fosslien-success-and-failure">Liz Fosslien</a></em></sub>
+  </figcaption>
+</figure>
 
-![](https://images.squarespace-cdn.com/content/v1/5d15594116124000014ec5aa/1633901635350-O2O70CHYZI3NC57RJT02/lizfossliensuccessandfailure.png?format=1000w)
-
-<sub><em>Source: [Liz Fosslien](https://www.fosslien.com/images#/liz-fosslien-success-and-failure)</em></sub>
-
-</div>
 
 > _“One fails forward toward success.” — Charles Kettering_
 
@@ -93,6 +97,14 @@ Life will inevitably throw dirt your way—challenges, setbacks, and all kinds o
 ---
 
 Failure + [Reflection](reflect-and-review.md) + [Another Rep](deliberate-practice.md) = Competence
+
+---
+
+Treat failure like a scientist.
+
+**Each attempt is an experiment. Each [mistake](mistake.md) is a clue.**
+
+You’re not failing. You’re refining.
 
 ---
 
