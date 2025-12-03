@@ -1,7 +1,7 @@
 ---
 title: Focus is about saying no
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:27
+modified: 2025-12-03T07:07:21
 ---
 
 > _“If you chase two rabbits, you catch none.” — Confucius_
@@ -52,9 +52,10 @@ You’d rather have one sharp knife than 1,000 dull ones.
 
 # Negative Capability
 
-* The mental fortitude to be able to entertain multiple contradictory ideas in your head at the same time / to stay with one activity, despite so many other things feeling unresolved.
+The mental fortitude to be able to entertain multiple contradictory ideas in your head at the same time / to stay with one activity, despite so many other things feeling unresolved.
 
 ---
+
 
 Since focus requires [saying no](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md), it also means what smart people and strong competitors are saying no to are usually great ideas/opportunities.
 
