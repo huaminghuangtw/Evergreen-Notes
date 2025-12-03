@@ -1,7 +1,7 @@
 ---
 title: Eat the biggest frog first thing in the morning
 created: 2024-12-04T17:55:24
-modified: 2025-11-17T06:52:09
+modified: 2025-12-03T05:38:55
 ---
 
 > _“Do one thing every day that scares you.” — Eleanor Roosevelt_
@@ -109,6 +109,10 @@ You need to find XXX in your day, and ruthlessly foster/protect it from all the 
 ---
 
 [Why is it so hard to just do the work?](why-is-it-so-hard-to-just-do-the-work.md)
+
+---
+
+[99% of effort is wasted](99-percent-of-effort-is-wasted.md)
 
 [^1]: Learn to LET the small, bad things happen and MAKE the huge, great things happen.
 [^2]: = MIT = Big Cojones Action (BCA)
