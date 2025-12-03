@@ -1,7 +1,7 @@
 ---
 title: Journaling
 created: 2024-11-18T09:18:12
-modified: 2025-11-12T19:26:05
+modified: 2025-12-03T13:43:37
 ---
 
 > _“Create an environment where you’re free to express what you’re afraid to express.” — Rick Rubin_
@@ -74,6 +74,10 @@ E.g., feelings, emotions, thoughts, memories, special moments/occasions/events
 	* 1 win from the day
 	* 1 point of tension, anxiety, or stress
 	* 1 point of gratitude
+* 大迫傑
+	* 小勝利
+	* 小落敗
+	* 小發現
 * [“Bullet Journaling (Bujo)” by Ryder Caroll](https://bulletjournal.com)
 	* A chronological record of the day
 * “Shadow-Work Journaling (陰影日記)” by Keila Shaheen
