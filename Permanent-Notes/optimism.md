@@ -1,7 +1,7 @@
 ---
 title: Optimism
 created: 2025-01-23T10:40:57
-modified: 2025-11-07T08:39:38
+modified: 2025-12-03T05:39:31
 ---
 
 > _“A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.” — Winston Churchill_ [^1]
@@ -53,5 +53,9 @@ A positive mind finds a way it can be done; A negative mind looks for all the wa
 ---
 
 [Optimism Bias](https://sketchplanations.com/optimism-bias)
+
+---
+
+[Train yourself not to worry](train-yourself-not-to-worry.md)
 
 [^1]: 樂觀的人看見問題背後的機會，悲觀的人看見機會背後的問題。
