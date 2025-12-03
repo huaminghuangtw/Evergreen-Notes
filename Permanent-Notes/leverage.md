@@ -1,7 +1,7 @@
 ---
 title: Leverage
 created: 2025-01-23T10:40:57
-modified: 2025-11-17T06:18:54
+modified: 2025-12-03T07:12:28
 ---
 
 > _“Give me a place to stand, and a lever long enough, and I will move the world.” — Archimedes_
@@ -16,6 +16,13 @@ modified: 2025-11-17T06:18:54
 * Permissionless Leverage (_best_) (Intellectual Properties)
 	* Code
 	* Content/Media (Text, Audio, Video)
+
+## [Adapted by Alex Hormozi](https://x.com/AlexHormozi/status/1526200829878816768)
+
+1. Collaboration (other people’s time)
+2. Capital (other people’s money)
+3. Code (use a machine’s time)
+4. Content (other people’s attention)
 
 ---
 
