@@ -1,7 +1,7 @@
 ---
 title: Intentional Living
 created: 2024-11-18T09:18:12
-modified: 2025-12-01T09:25:33
+modified: 2025-12-03T13:03:32
 ---
 
 > _“Get busy living, or get busy dying.” — Stephen King_
@@ -31,6 +31,10 @@ modified: 2025-12-01T09:25:33
 > _“Concentrate every minute like a Roman—like a man—on doing what’s in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions.”_
 
 > _“To affect the quality of the day, that is the highest of arts. Every man is tasked to make his life, even in its details, worthy of the contemplation of his most elevated and critical hour.” ― Henry David Thoreau_
+
+---
+
+我只知道兩件事：第一，有一天我會死；第二，我現在還沒死。唯一的問題是，在這兩點之間，我應該做什麼？
 
 ---
 
