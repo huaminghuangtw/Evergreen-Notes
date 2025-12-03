@@ -1,7 +1,7 @@
 ---
 title: Information Overwhelm
 created: 2024-11-18T09:18:12
-modified: 2025-11-19T21:00:06
+modified: 2025-12-03T07:10:07
 ---
 
 > _“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” ― T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654)_ [^1]
@@ -36,10 +36,14 @@ modified: 2025-11-19T21:00:06
 * FOMO (Fear Of Missing Out) → JOMO (Joy Of Missing Out)
 	* “Try to get to the _bottom_ of things, not stay on _top_ of things.”
 	* 不要害怕錯過資訊，因為如果是真的很重要的資訊，它會再次出現在我們眼前
-		* 就跟手機來電一樣，如果真的很重要，對方會再打一次，如果沒有再次來電，代表是不重要的事情
-	* Practice strategic ignorance—sometimes, choosing what to pay attention to and letting go of the rest is true bliss.
+
+		> 就跟手機來電一樣，如果真的很重要，對方會再打一次，如果沒有再次來電，代表是不重要的事情
+
+	* Practice strategic ignorance. Be selectively ignorant. Sometimes, choosing what to pay attention to and letting go of the rest is true bliss. [^2]
 
 		> Ignorance is bliss. (無知便是福。)
+
+		> _“Ignore topics that drain your attention. Unfollow people that drain your energy. Abandon projects that drain your time. Do not keep up with it all. The more selectively ignorant you become, the more broadly knowledgeable you can be.” — James Clear_
 
 	* [News Sobriety](News%20Sobriety.md)
 * The Laundry Cycle Mentality
@@ -78,3 +82,4 @@ modified: 2025-11-19T21:00:06
 		* 「批判 \& 獨立思考」的能力至關重要
 
 [^1]: 智慧是知識的恰當運用。
+[^2]: 但要小心「無知的樂觀（dumb ignorant）」。
