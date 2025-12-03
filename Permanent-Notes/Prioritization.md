@@ -1,7 +1,7 @@
 ---
 title: Prioritization
 created: 2024-11-18T09:18:12
-modified: 2025-12-01T16:30:25
+modified: 2025-12-03T05:39:08
 ---
 
 > _“The whole point of getting things done is knowing what to leave undone.” — Oswald Chambers_
@@ -81,3 +81,7 @@ Look for opportunities where it won’t kill you if it goes poorly, but you’d 
 ---
 
 [The Pareto Principle](the-pareto-principle.md)
+
+---
+
+[99% of effort is wasted](99-percent-of-effort-is-wasted.md)
