@@ -1,7 +1,7 @@
 ---
 title: Negative Thoughts & Emotions
 created: 2024-11-18T09:18:12
-modified: 2025-11-17T13:46:44
+modified: 2025-12-04T04:41:02
 ---
 
 > _“You cannot prevent the birds of sorrow from flying over your head, but you can prevent them from building nests in your hair.” — Chinese Proverb_
@@ -30,7 +30,7 @@ modified: 2025-11-17T13:46:44
 * 忌妒 (Jealous)
 * 炫耀
 * 自私 (Selfishness)
-* 在意別人的想法
+* 過度在意別人的想法
 * 拿自己和別人比較 ([Comparison](comparison-is-the-thief-of-joy.md))
 * 害怕、恐懼、心魔 ([Fear](fear.md))
 * 擔心 (Worry)
@@ -39,7 +39,7 @@ modified: 2025-11-17T13:46:44
 * 憤怒 ([Anger/Irritation](anger.md))
 * 不安 (Uncertainty/Insecurity)
 * 羞愧 (Shame)
-* 憎恨/惡 (Hatred/Resentment)
+* 憎恨/惡 (Hatred/Resentment/Grudge)
 * 傷心 (Sorrow/Sadness)
 * 憤世忌俗 ([Cynacism](cynacism.md))
 
@@ -53,7 +53,7 @@ Killing **ANTs (Automatic Negative Thoughts)**
 
 [@burnsFeelingGoodDepressionen2011]
 
-* ALL-OR-NOTHING THINKING: You see things in black-and-white categories. If your performance falls short of perfect, you see yourself as a total failure.
+* [ALL-OR-NOTHING THINKING](from-binary-thinking-to-full-spectrum-thinking.md): You see things in black-and-white categories. If your performance falls short of perfect, you see yourself as a total failure.
 	* How to overcome it?
 		* Avoid thinking in negative, unconditional, absolute terms, such as “never” or “nothing”.
 * OVERGENERALIZATION: You see a single negative event as a never-ending pattern of defeat.
@@ -69,7 +69,7 @@ Killing **ANTs (Automatic Negative Thoughts)**
 * MAGNIFICATION (CATASTROPHIZING) OR MINIMIZATION: You exaggerate the importance of things (such as your goof-up or someone else’s achievement), or you inappropriately shrink things until they appear tiny (your own desirable qualities or the other fellow’s imperfections). This is also called the “binocular trick.”
 * EMOTIONAL REASONING: You assume that your negative emotions necessarily reflect the way things really are: “I feel it, therefore it must be true.”
 	* How to overcome it?
-		* Utilizing relaxation techniques or [self-compassion](self-compassion.md), such as “I am safe.”
+		* Utilizing [relaxation techniques](https://www.google.com/search?q=progressive+muscle+relaxation) or [self-compassion](self-compassion.md), such as “I am safe.”
 		* Give yourself permission to feel anxious. Then remind yourself that it is just a feeling and that does not have to define your reality.
 * SHOULD STATEMENTS: You try to motivate yourself with shoulds and shouldn’ts, as if you had to be whipped and punished before you could be expected to do anything. “Musts” and “oughts” are also offenders. The emotional consequence is guilt. When you direct should statements toward others, you feel anger, frustration, and resentment.
 * PERSONALIZATION: You see yourself as me cause of some negative external event which in fact you were not primarily responsible for.”
