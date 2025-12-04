@@ -1,7 +1,7 @@
 ---
 title: Stress & Anxiety
 created: 2024-11-18T09:18:12
-modified: 2025-12-02T06:56:27
+modified: 2025-12-04T13:18:32
 ---
 
 > _“Stress happens when the mind resists what is.” — Dan Millman_
@@ -118,11 +118,6 @@ When you take action, you starve them of the oxygen they need to survive. / Once
 
 The answers you seek are found in the simple actions you avoid.
 
-  
-
-  
-
-
 ---
 
 Often, stress and anxiety come from the lack of a plan to bridge the gap between your **present reality** and **future expectations**, and are directly proportional to the amount of time you spend in the past or future.
@@ -132,11 +127,13 @@ Often, stress and anxiety come from the lack of a plan to bridge the gap between
 
 ---
 
-學會與壓力共處，並非要將其消除，而是要掌握如何駕馭它。就像風箏需要風的力量才能飛得更高，飛機也必須逆風起飛，才能獲得足夠的升力衝上雲霄。人生的高峰往往也是在壓力的推動下才得以攀登。關鍵在於，我們是否能夠巧妙地調整風箏的線，讓風既不過於強烈而使它斷裂，也不過於微弱而讓它墜落。
+壓力無可避免，也並非壞事。
 
-壓力管理的終極目標，是為心靈尋找到一片安寧的港灣。這份平靜或許來自清晨的一杯咖啡、與友人深刻的對話，或許僅是靜靜凝視窗外，感受陽光灑在臉上的溫暖。在這樣的片刻，你會明白，壓力只是人生的一部分，而非整個人生。
+人生的高峰往往也是在壓力的推動下才得以攀登。
 
-在人生的旅程中，壓力無可避免，但我們有選擇如何應對它的權利。當我們學會以智慧與耐心調整步伐，壓力便不再是枷鎖，而是成為一位值得尊敬的導師，指引我們走向更深刻、更豐富的人生。
+真正的關鍵不是消除壓力，而是學會與之共處，懂得如何駕馭它。
+
+當你感到生活困難重重、人生充滿困境時，請記得：飛機借逆風升空，風箏憑逆風飛揚。
 
 ---
 
