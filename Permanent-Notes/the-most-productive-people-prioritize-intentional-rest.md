@@ -1,7 +1,7 @@
 ---
 title: The most productive people prioritize intentional rest
 created: 2024-11-18T09:18:12
-modified: 2025-12-02T08:00:01
+modified: 2025-12-04T05:39:18
 ---
 
 > _“Rest until you feel like playing, then play until you feel like resting.” — Martha Beck_
@@ -15,22 +15,6 @@ Taking breaks helps to [get most of your work done outside of work.](https://tim
 ---
 
 Structured, deliberate pauses are beneficial, unlike random interruptions that drain motivation. Plan for breaks [^1] that build momentum and maintain a clear path for returning.
-
----
-
-It’s important to take time to [sharpen the saw](https://sketchplanations.com/sharpen-the-saw).
-
-# The Two Woodcutters
-
-This is a well-known metaphor for the importance of taking time to “sharpen your saw,” a concept introduced by Stephen Covey in his book The 7 Habits of Highly Effective People.
-
-[@covey7HabitsHighly2013]
-
-> Once upon a time, there were two woodcutters who were hired to cut down trees in the forest. The first woodcutter worked nonstop, chopping down tree after tree with all his strength. The second woodcutter, however, took regular breaks and spent time sharpening his saw, while the first woodcutter kept hacking away without pausing.
->
-> As time went on, the first woodcutter became increasingly exhausted, yet he kept going, convinced that working harder and longer would get him the best results. The second woodcutter, on the other hand, took the time to rest and maintain his tools, believing that the efficiency gained from sharpening his saw would save him time and effort in the long run.
->
-> At the end of the day, when both woodcutters stood back to assess their work, the second woodcutter had cut down far more trees. The first woodcutter, although he had worked harder, had not been as productive because his saw had become dull, and he had not taken the time to maintain his tools.
 
 ---
 
