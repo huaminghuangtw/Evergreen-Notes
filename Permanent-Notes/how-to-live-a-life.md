@@ -1,10 +1,12 @@
 ---
 title: How to live a life
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:27
+modified: 2025-12-04T13:12:47
 ---
 
 > _“As long as you live, keep learning how to live.” — Seneca_
+
+> _“Begin at once to live, and count each separate day as a separate life.” — Seneca_
 
 > _“Life is a question and how we live it is our answer.” — [@kellerOneThingSurprisingly2013]_
 
