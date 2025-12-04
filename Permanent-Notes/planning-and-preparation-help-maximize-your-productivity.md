@@ -1,7 +1,7 @@
 ---
 title: Planning and preparation help maximize your productivity
 created: 2024-12-12T16:22:20
-modified: 2025-11-20T18:10:26
+modified: 2025-12-04T05:39:44
 ---
 
 > _[“The antidote to impulsiveness is forethought.” — Nir Eyal](https://www.youtube.com/watch?v=VVez_sI1zTU)_
@@ -60,6 +60,24 @@ No matter how often I tried to just jump right in a new task, I found that I per
 [When fisherman cannot go to sea, they repair nets. When the sea is too rough to sail, the smart ones don’t wait—they get to work. They mend their nets, sharpen their tools, and prepare for the moment the storm breaks. Because even in stillness, there’s progress.](https://x.com/drex_dsgn/status/1875141626513002885)
 
 It’s not about idling; it’s about using the pause to build [what comes next](just-focus-on-the-next-decision.md).
+
+---
+
+> _“Give me six hours to chop down a tree and I’ll spend the first four sharpening the axe.” —Abraham Lincoln_
+
+It’s important to take time to [sharpen the saw](https://sketchplanations.com/sharpen-the-saw).
+
+# The Two Woodcutters
+
+This is a well-known metaphor for the importance of taking time to “sharpen your saw,” a concept introduced by Stephen Covey in his book The 7 Habits of Highly Effective People.
+
+[@covey7HabitsHighly2013]
+
+> Once upon a time, there were two woodcutters who were hired to cut down trees in the forest. The first woodcutter worked nonstop, chopping down tree after tree with all his strength. The second woodcutter, however, took regular breaks and spent time sharpening his saw, while the first woodcutter kept hacking away without pausing.
+>
+> As time went on, the first woodcutter became increasingly exhausted, yet he kept going, convinced that working harder and longer would get him the best results. The second woodcutter, on the other hand, took the time to rest and maintain his tools, believing that the efficiency gained from sharpening his saw would save him time and effort in the long run.
+>
+> At the end of the day, when both woodcutters stood back to assess their work, the second woodcutter had cut down far more trees. The first woodcutter, although he had worked harder, had not been as productive because his saw had become dull, and he had not taken the time to maintain his tools.
 
 ---
 
