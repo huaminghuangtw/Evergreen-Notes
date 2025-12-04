@@ -1,7 +1,7 @@
 ---
 title: Dare to be different
 created: 2025-11-24T06:51:20
-modified: 2025-11-24T10:05:14
+modified: 2025-12-04T06:42:13
 ---
 
 > _“Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.” — Robert Frost, The Road Not Taken (1916)_
@@ -18,6 +18,8 @@ modified: 2025-11-24T10:05:14
 
 用力地把自己活成一道光，因爲你不知道，誰會藉著你的光，走出了黑暗。做自己的太陽，就能當別人的光；讓自己發光，就能照亮別人。[如果你心中有願望，請看著天上的星星，對自己許願。](https://www.youtube.com/watch?v=_ziTd2w06xk&t=18m39s)
 
+> _[“The mind once enlightened cannot again become dark.” — Thomas Paine, A Letter Addressed to the Abbe Raynal on the Affairs of North America](https://www.goodreads.com/quotes/101600-the-mind-once-enlightened-cannot-again-become-dark)_
+
 > _[“There are two ways of spreading light: to be the candle or the mirror that reflects it.” — Edith Wharton](https://www.brainyquote.com/quotes/edith_wharton_100511)_
 
 > _“We could beat the stars, falling from the sky. Shining how we want, brighter than the sun.” — Colbie Caillat, [Brighter Than the Sun](https://www.youtube.com/watch?v=KU5o6M7S5nQ)_
@@ -27,6 +29,21 @@ modified: 2025-11-24T10:05:14
 > _“We live in a world with a lot of insecure, jealous people. Some of them are our best friends. They are blood relatives. Failure terrifies them. So does our success. Because when we transcend what we once thought possible, push our limits, and become more, our light reflects off all the walls they’ve built up around them. Your light enables them to see the contours of their own prison, their own self-limitations. But if they are truly the great people you always believed them to be, their jealousy will evolve, and soon their imagination might hop its fence, and it will be their turn to change for the better.” — [@gogginsCantHurtMe2018]_
 
 > _[“We are all meant to shine, as children do. We were born to make manifest the glory of God that is within us. It’s not just in some of us; it’s in everyone. And as we let our own light shine, we unconsciously give other people permission to do the same. As we are liberated from our own fear, our presence automatically liberates others.” ― Marianne Williamson, A Return to Love: Reflections on the Principles of “A Course in Miracles”](https://www.goodreads.com/quotes/928-our-deepest-fear-is-not-that-we-are-inadequate-our)_ [^1]
+
+---
+
+# Sapere Aude
+
+[Sapere Aude](https://www.google.com/search?q=Sapere+Aude) is the Latin phrase meaning _dare to know_ (= 敢於求知 = 勇於使用自己的理性). It’s a call-to-action for independent thinking—the courage and willingness to question the defaults you’ve been handed and form your own perspectives and opinions. Dare to question the definition of success. Dare to ask what you truly want out of life.
+
+> _<mark>Sapere aude</mark> [^1] — Have the courage to use your own understanding!” — Immanuel Kant, What Is Enlightenment?_
+>
+> 敢於運用你自己的理性！
+
+Sources:
+
+* [German](https://www.gutenberg.org/files/30821/30821-h/30821-h.htm)
+* [English](https://www.nypl.org/sites/default/files/kant_whatisenlightenment.pdf)
 
 ---
 
