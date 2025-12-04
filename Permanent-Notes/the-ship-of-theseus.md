@@ -1,7 +1,7 @@
 ---
 title: The Ship of Theseus
 created: 2025-02-06T04:52:16
-modified: 2025-10-26T12:40:23
+modified: 2025-12-04T05:48:19
 ---
 
 aka **Theseus’s Paradox 船舶悖論**
@@ -13,6 +13,9 @@ is a thought experiment and paradox about whether an object is the same object a
 	* 如果把舊木板收集起來，重新組裝成另一艘船，那麼哪一艘才是真正的「原船」?
 * This can be applied to our [personal identities](your-identity-dictates-your-actions.md) as well. → 身體的細胞不斷更新，思想也在變化，那麼我們還是原來的自己嗎？
 	* [The average age of all cells in the human body is 7–10 years.](https://www.reddit.com/r/askscience/comments/1iuwniu/if_all_the_cells_in_your_body_are_replaced_every/)
+
+		> Every seven years, human beings transform into entirely new versions of themselves. This idea stems from the biological principle that our bodies replace virtually all their cells over a seven-year cycle. The person you are today doesn’t share a single cell with the version of you from seven years ago.
+
 	* 不同細胞的更新週期
 		* 🧠 神經細胞 (大腦) → 幾乎不會更新，大部分人一生都帶著同一批神經元 (但有少量例外，如海馬迴的神經元可能會再生) 。
 		* 💀 骨細胞 → 約 10 年完全更新一次。
