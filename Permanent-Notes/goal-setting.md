@@ -1,7 +1,7 @@
 ---
 title: Goal Setting
 created: 2025-01-23T10:40:57
-modified: 2025-11-23T16:23:46
+modified: 2025-12-04T16:40:35
 ---
 
 > _“A goal is not always meant to be reached, it often serves simply as something to aim at.” — Bruce Lee_
@@ -68,9 +68,7 @@ modified: 2025-11-23T16:23:46
 
 > _[This is how Shohei Ohtani, the best baseball player in the world, used this approach for setting his goals for Baseball.](https://www.reddit.com/r/GetMotivated/comments/11yzglu/image_shohei_ohtani_created_this_chart_when_he/)_
 
-aka [The Open Window 64 Chart](https://www.goalpillars.com/) (曼陀羅九宮格)
-
-![](../_attachments/160334acd1948c90882736472543a676.JPG)
+aka [The Open Window 64 Chart](https://www.goalpillars.com/) ([曼陀羅九宮格](https://www.sponichi.co.jp/baseball/news/2013/02/02/gazo/G20130202005109500.html))
 
 ![](../_attachments/8f3ec786ad68fd8e0f54a13688ff8be9.JPG)
 
