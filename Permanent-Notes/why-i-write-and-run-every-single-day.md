@@ -1,12 +1,18 @@
 ---
 title: Why I write and run every single day
 created: 2025-11-13T06:08:11
-modified: 2025-12-03T13:48:33
+modified: 2025-12-04T14:17:23
 ---
 
 > _“Energy is eternal delight.” — William Blake_
 
+> _跑步，並非身體的鍛練，更像是心靈的靜修。_
+
+> _在長跑中，如果說有什麼必須戰勝的對手，那就是過去的自己。_
+
 “It just feels good,” somebody might tell you. “It helps my mental health,” or “I can think more clearly.” People don’t just run because it is good for their physical body. People run because it can improve other parts of their life. Because it helps them feel better.
+
+有意義的痛苦 > 沒意義的享樂；長期的滿足 > 短期的快樂
 
 跑步有助於簡化我的生活，幫助我擺脫對於外在成就的複雜需求。
 
@@ -28,7 +34,9 @@ modified: 2025-12-03T13:48:33
 
 跑步是一種玩樂，玩樂是我為何存在這個世界上的謎底。我跑步，所以我存在。
 
-玩樂是生命存活之處，在那裡，一切都是遊戲，每個人都是遊戲的參與者。發揮潛能，靠得不是忍受每天的磨練，而是把每天的磨練轉變成日常快樂的泉源。
+玩樂是生命存活之處，在那裡，一切都是遊戲，每個人都是遊戲的參與者。
+
+我靠得不是忍受每天的磨練，而是把每天的磨練轉變成日常快樂的泉源。
 
 生命中最美好的時刻都來自於玩樂，像是自己與自然合一的時候。
 
@@ -45,3 +53,7 @@ modified: 2025-12-03T13:48:33
 我跑步的時候會想很多事情，也有很多事情會在跑步的時候解決。
 
 在跑步的時候，我的身體變成靈魂的一部分，我的靈魂變成身體的一部分。
+
+康德（Immanuel Kant）曾說：「自律即自由。」
+
+當我每天自律地寫作和跑步，我就可以繼續自由地書寫和奔跑！
