@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-12-01T09:24:01
+modified: 2025-12-04T06:34:37
 ---
 
 Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
@@ -97,7 +97,7 @@ _[Ultralearning](https://www.scotthyoung.com/blog/ultralearning/)_ by Scott Youn
 
 ---
 
-Stick to the [basics/fundamentals](first-principle%20thinking.md) and **big picture**, then you can learn anything you want.
+Stick to the [basics/fundamentals](first-principle-thinking.md) and **big picture**, then you can learn anything you want.
 
 * Don’t overlook the basics. Don’t ignore the foundation.
 * Learning is a condensing and incremental process.
