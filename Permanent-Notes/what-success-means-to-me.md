@@ -1,7 +1,7 @@
 ---
 title: What Success Means To Me
 created: 2024-11-18T09:18:12
-modified: 2025-12-03T06:17:27
+modified: 2025-12-05T15:08:45
 ---
 
 > _“The road to success is always under construction.” — Steve Harvey_
@@ -59,16 +59,6 @@ modified: 2025-12-03T06:17:27
 
 ---
 
-> _[“Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness that most frightens us. We ask ourselves, ’Who am I to be brilliant, gorgeous, talented, fabulous?' Actually, who are you not to be? You are a child of God. Your playing small does not serve the world. There is nothing enlightened about shrinking so that other people won’t feel insecure around you. We are all meant to shine, as children do. We were born to make manifest the glory of God that is within us. It’s not just in some of us; it’s in everyone. And as we let our own light shine, we unconsciously give other people permission to do the same. As we are liberated from our own fear, our presence automatically liberates others.” ― Marianne Williamson, A Return to Love: Reflections on the Principles of “A Course in Miracles”](https://www.goodreads.com/quotes/928-our-deepest-fear-is-not-that-we-are-inadequate-our)_
-
-「我們最大的恐懼，並非自己不夠好，而是遠比想像中更強大。我們最怕的不是失敗，而是做自己的成功。」[^4]
-
----
-
-> _[“Over the years, I have come to realize that the greatest trap in our life is not success, popularity, or power, but self-rejection. Success, popularity, and power can indeed present a great temptation, but their seductive quality often comes from the way they are part of the much larger temptation to self-rejection. When we have come to believe in the voices that call us worthless and unlovable, then success, popularity, and power are easily perceived as attractive solutions. The real trap, however, is self-rejection. As soon as someone accuses me or criticizes me, as soon as I am rejected, left alone, or abandoned, I find myself thinking, "Well, that proves once again that I am a nobody." ... [My dark side says,] I am no good... I deserve to be pushed aside, forgotten, rejected, and abandoned. Self-rejection is the greatest enemy of the spiritual life because it contradicts the sacred voice that calls us the "Beloved." Being the Beloved constitutes the core truth of our existence.” — Henri J.M. Nouwen](https://www.goodreads.com/quotes/230436-over-the-years-i-have-come-to-realize-that-the)_
-
----
-
 [The Trap of Success: Success leads to freedom.](https://www.sahilbloom.com/newsletter/the-trap-of-success-how-to-escape-it)
 
 ---
@@ -103,4 +93,3 @@ modified: 2025-12-03T06:17:27
 [^1]: is the exclusive group/circle to which people are drown to and want to belong throughout their lives.
 [^2]: [If you define success on the basis of comparison to others, you will never feel successful. _The only way to feel successful is to create your own definition of success, rather than consenting to one that was handed to you._](https://www.sahilbloom.com/newsletter/13-harsh-truths-about-success-nobody-told-you)
 [^3]: The most important thing in life is _not having_ what you want, but _knowing_ what you want—figuring it out is everything!
-[^4]: _“Owning our story and loving ourselves through that process is the bravest thing that we’ll ever do.” — Brené Brown_
