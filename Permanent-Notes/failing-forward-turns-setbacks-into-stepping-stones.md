@@ -1,7 +1,7 @@
 ---
 title: Failing forward turns setbacks into stepping stones
 created: 2024-11-18T09:18:12
-modified: 2025-12-03T06:00:59
+modified: 2025-12-04T17:06:31
 ---
 
 > _“Opportunity often comes disguised in the form of misfortune or temporary defeat.” — Napoleon Hill_
@@ -25,12 +25,11 @@ You don’t have to get it right the first time. Just fail faster.
 **Failing Forward:** If you want to _win_, you have to _lose_ first. All _success_ begins with _failure_.
 
 <figure>
-  <img src="https://images.squarespace-cdn.com/content/v1/5d15594116124000014ec5aa/1633901635350-O2O70CHYZI3NC57RJT02/lizfossliensuccessandfailure.png?format=1000w">
-  <figcaption>
-    <sub><em>Source: <a href="https://www.fosslien.com/images#/liz-fosslien-success-and-failure">Liz Fosslien</a></em></sub>
-  </figcaption>
+	<img src="https://images.squarespace-cdn.com/content/v1/5d15594116124000014ec5aa/1633901635350-O2O70CHYZI3NC57RJT02/lizfossliensuccessandfailure.png?format=1000w">
+	<figcaption>
+		<sub><em>Source: <a href="https://www.fosslien.com/images#/liz-fosslien-success-and-failure">Liz Fosslien</a></em></sub>
+	</figcaption>
 </figure>
-
 
 > _“One fails forward toward success.” — Charles Kettering_
 
