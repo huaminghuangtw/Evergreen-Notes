@@ -1,7 +1,7 @@
 ---
 title: You are the average of the five people you associate with most
 created: 2024-11-18T09:18:12
-modified: 2025-12-02T06:15:42
+modified: 2025-12-05T12:25:35
 ---
 
 > _“You are the average of the five people you spend the most time with.” ― Jim Rohn_
@@ -98,6 +98,8 @@ You have to be very selective with whom you give your _time_, _energy_, and _att
 ---
 
 # The Spillover Effect
+
+> _“Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.” — Colin Powell_
 
 [@ogulmusSocialContagionChallengeseeking2024]
 
