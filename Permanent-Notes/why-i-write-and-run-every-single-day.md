@@ -1,7 +1,7 @@
 ---
 title: Why I write and run every single day
 created: 2025-11-13T06:08:11
-modified: 2025-12-04T14:17:23
+modified: 2025-12-04T17:06:31
 ---
 
 > _“Energy is eternal delight.” — William Blake_
