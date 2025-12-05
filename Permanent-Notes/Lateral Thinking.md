@@ -1,7 +1,7 @@
 ---
 title: Lateral Thinking
 created: 2024-11-18T09:16:49
-modified: 2025-11-29T08:11:34
+modified: 2025-12-05T05:21:20
 ---
 
 > _“The young man knows the rules, but the old man knows the exceptions.” — Oliver Wendell Holmes, Sr._
@@ -44,7 +44,7 @@ modified: 2025-11-29T08:11:34
 
 ---
 
-Simulating [Innovation](Innovation.md) → Disruptive [Innovation](Innovation.md) (by [Clayton Christensen](https://www.google.com/search?q=Clayton+Christensen))
+Simulating [Innovation](__temp__innovation.md) → Disruptive [Innovation](__temp__innovation.md) (by [Clayton Christensen](https://www.google.com/search?q=Clayton+Christensen))
 
 * 破壞式創新/顛覆性想法經常發生於集體盲點
 
