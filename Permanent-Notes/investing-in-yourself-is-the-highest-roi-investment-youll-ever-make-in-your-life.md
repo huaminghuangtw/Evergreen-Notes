@@ -1,18 +1,24 @@
 ---
 title: Investing in yourself is the highest ROI investment you’ll ever make in your life
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:04:21
+modified: 2025-12-05T17:00:37
 ---
 
 > _“An investment in knowledge pays the best interest.” — Benjamin Franklin_
 
 ---
 
-S&P 500 → S&ME
+# S&P 500 → S&ME
 
-Never think twice about investments in yourself (提高自己的身價，因為賺錢的能力增加) → They pay long-term dividends (投資自己穩賺不賠)
+> 投資自己穩賺不賠。
 
-Examples
+Getting an extra 2% return on your $100k investment account is $2,000. That same energy deployed into increasing your **earning power** could have a far more dramatic financial impact.
+
+Never think twice about investments in yourself. They pay long-term dividends.
+
+---
+
+# Examples
 
 * Books/Courses etc. (Things that make you smarter)
 * Mentors (Network)
