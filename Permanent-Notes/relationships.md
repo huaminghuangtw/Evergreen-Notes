@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-12-02T07:55:55
+modified: 2025-12-04T17:06:31
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -168,7 +168,7 @@ True bonds are often forged through adversity.
 > _“Shared joy is a double joy; shared sorrow is half sorrow.” — Swedish Proverb_
 
 * When one person shares good news with another, both people are happy.
-* When one person shares  sad news with another, the act of sharing takes some of the sadness away.
+* When one person shares sad news with another, the act of sharing takes some of the sadness away.
 
 ---
 
