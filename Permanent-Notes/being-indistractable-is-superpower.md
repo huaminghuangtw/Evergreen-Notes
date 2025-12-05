@@ -1,7 +1,7 @@
 ---
 title: Being indistractable is superpower
 created: 2025-01-23T18:40:57
-modified: 2025-12-03T05:20:13
+modified: 2025-12-05T05:21:02
 ---
 
 Being indistractable is about doing what you say you’re going to do.
@@ -28,7 +28,7 @@ The key difference between being distractible and indistractable lies not in [wi
 
 ---
 
-Distraction isn’t a character flaw—it’s an [impulse control](Emotion%20Control.md) challenge we can overcome. Studies show that _external triggers_ (e.g., phone notifications) only account for about 10% of our distractions, and 90% of our distractions begin from within. These are called _internal triggers_. Internal triggers are uncomfortable emotional states/sensations (boredom, loneliness, fatigue, uncertainty, etc.) that we seek to escape with distraction. [@eyalIndistractableHowControl2019]
+Distraction isn’t a character flaw—it’s an [impulse control](emotion-control.md) challenge we can overcome. Studies show that _external triggers_ (e.g., phone notifications) only account for about 10% of our distractions, and 90% of our distractions begin from within. These are called _internal triggers_. Internal triggers are uncomfortable emotional states/sensations (boredom, loneliness, fatigue, uncertainty, etc.) that we seek to escape with distraction. [@eyalIndistractableHowControl2019]
 
 ---
 
