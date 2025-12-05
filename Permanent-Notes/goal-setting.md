@@ -1,7 +1,7 @@
 ---
 title: Goal Setting
 created: 2025-01-23T10:40:57
-modified: 2025-12-04T16:40:35
+modified: 2025-12-05T08:16:41
 ---
 
 > _“A goal is not always meant to be reached, it often serves simply as something to aim at.” — Bruce Lee_
@@ -64,11 +64,13 @@ modified: 2025-12-04T16:40:35
 
 ---
 
-## [The Harada Method](https://theharadamethod.com/about-the-method)
+## [The Harada Method](https://theharadamethod.com/about-the-method) by 原田隆史（Takashi Harada）
 
 > _[This is how Shohei Ohtani, the best baseball player in the world, used this approach for setting his goals for Baseball.](https://www.reddit.com/r/GetMotivated/comments/11yzglu/image_shohei_ohtani_created_this_chart_when_he/)_
 
-aka [The Open Window 64 Chart](https://www.goalpillars.com/) ([曼陀羅九宮格](https://www.sponichi.co.jp/baseball/news/2013/02/02/gazo/G20130202005109500.html))
+aka [The Open Window 64 Chart = OW64](https://www.goalpillars.com/) ([曼陀羅九宮格](https://www.sponichi.co.jp/baseball/news/2013/02/02/gazo/G20130202005109500.html)) [^3]
+
+「曼陀羅（Mandala）」一詞源自梵文 मण्डल，意為 「圓」、「圓環」、「神聖的中心」。它是一種古老的宇宙象徵圖譜，廣泛存在於印度教、佛教、藏傳佛教、道教、基督教、原住民文化等多種傳統之中。
 
 ![](../_attachments/8f3ec786ad68fd8e0f54a13688ff8be9.JPG)
 
@@ -82,6 +84,16 @@ aka [The Open Window 64 Chart](https://www.goalpillars.com/) ([曼陀羅九宮�
 4. Turn the most important actions into a small set of daily routines and track them.
 5. Review your progress regularly, adjusting subgoals and actions based on what you learn.
 
+See also:
+
+* 大谷翔平 の 人生目標表（人生の目標シート）＝「人生設計筆記」（人生設計ノート）
+
+	![](https://static.tvbs.com.tw/health2.0/images/uploads/2024/04/20240415124259-UAFTnvkG.jpg)
+
+* [John Wooden’s Pyramid of Success](https://coachwooden.com/pyramid-of-success)
+
+	![](https://coachwooden.com/files/PyramidThinkingSuccess.jpg)
+
 ---
 
 ## [The Wheel of Life](https://wheeloflife.noomii.com/)
@@ -94,7 +106,7 @@ The problem with this mindset is that, if one stays off too long, it may never t
 * If you don’t invest in your health in your 40s and 50s, you won’t have it in your 60s
 * If you don’t take care of your mind in your 60s and 70s, you won’t have it in your 80s
 
-The new mindset: Each area of your life exists on a _Dimmer Switch_. [^3][@bloom5TypesWealth2025]
+The new mindset: Each area of your life exists on a _Dimmer Switch_. [^4][@bloom5TypesWealth2025]
 
 Rather than shutting areas down completely, you adjust them like “dials”. At different seasons of life, some get higher level of “brightness” while others dim, but nothing is left in total “darkness”.
 
@@ -135,4 +147,5 @@ The key in life is to find the balance, and balance isn’t about perfection. Po
 
 [^1]: _“Dream in a pragmatic way.” — Aldous Huxley_
 [^2]: v.s Stretch Goals
-[^3]: Or: DJ 混音器 (DJ Mixer)
+[^3]: 由日本企業家「松村寧雄（Matsumura Yasuo）」提出
+[^4]: Or: DJ 混音器 (DJ Mixer)
