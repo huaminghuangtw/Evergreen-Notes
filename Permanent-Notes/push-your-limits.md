@@ -1,7 +1,7 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-12-03T06:15:07
+modified: 2025-12-05T15:08:05
 ---
 
 > _“Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot_
@@ -105,11 +105,11 @@ Self-imposed limits, Self-limiting beliefs/stories, Self-sabotaging behaviors, e
 
 > _“In any given moment we have two options: to step forward into growth or to step back into safety.” — Abraham Maslow_
 
-別自己拒了自己
+人類的潛力無遠弗屆，不要為自己設限，別自己拒了自己。天空才是極限（Sky is the limit.）。
 
 [**Remove the Governor:** The mind acts as a “governor,” limiting potential to preserve energy.](https://www.goodreads.com/book/show/41721428-can-t-hurt-me)
 
-> _[“Over the years, I have come to realize that the greatest trap in our life is not success, popularity, or power, but self-rejection. Success, popularity, and power can indeed present a great temptation, but their seductive quality often comes from the way they are part of the much larger temptation to self-rejection. When we have come to believe in the voices that call us worthless and unlovable, then success, popularity, and power are easily perceived as attractive solutions. The real trap, however, is self-rejection. As soon as someone accuses me or criticizes me, as soon as I am rejected, left alone, or abandoned, I find myself thinking, "Well, that proves once again that I am a nobody." … [My dark side says,] I am no good… I deserve to be pushed aside, forgotten, rejected, and abandoned. Self-rejection is the greatest enemy of the spiritual life because it contradicts the sacred voice that calls us the "Beloved." Being the Beloved constitutes the core truth of our existence.” — Henri J.M. Nouwen](https://www.goodreads.com/quotes/230436-over-the-years-i-have-come-to-realize-that-the)_
+> _[“Over the years, I have come to realize that the greatest trap in our life is not success, popularity, or power, but self-rejection. Success, popularity, and power can indeed present a great temptation, but their seductive quality often comes from the way they are part of the much larger temptation to self-rejection. When we have come to believe in the voices that call us worthless and unlovable, then success, popularity, and power are easily perceived as attractive solutions. The real trap, however, is self-rejection. As soon as someone accuses me or criticizes me, as soon as I am rejected, left alone, or abandoned, I find myself thinking, “Well, that proves once again that I am a nobody.” ... \[My dark side says,\] I am no good... I deserve to be pushed aside, forgotten, rejected, and abandoned. Self-rejection is the greatest enemy of the spiritual life because it contradicts the sacred voice that calls us the “Beloved.” Being the Beloved constitutes the core truth of our existence.” — Henri J.M. Nouwen](https://www.goodreads.com/quotes/230436-over-the-years-i-have-come-to-realize-that-the)_
 
 > _[“The biggest wall you have to climb is the one you build in your mind: Never let your mind talk you out of your dreams, trick you into giving up. Never let your mind become the greatest obstacle to success. To get your mind on the right track, the rest will follow.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/8014046-the-biggest-wall-you-have-to-climb-is-the-one)_
 
@@ -143,7 +143,7 @@ If someone says: “That’s impossible. You should understand it as: “Accordi
 
 # Two Of The Biggest Impediments To Life Change
 
-* [Emotion](Emotion%20Control.md): We’re all emotional creatures. We’re so close to everything in our own lives that it’s often hard to remove emotions from our decisions.
+* [Emotion](emotion-control.md): We’re all emotional creatures. We’re so close to everything in our own lives that it’s often hard to remove emotions from our decisions.
 * [Inaction](cultivate-a-strong-bias-towards-action.md): It’s always easier to maintain the [status quo](the-present-bias.md) than taking action. It’s a constant internal battle with yourself especially when inaction appears to be less risky and painful. Yet, when you examine the worst-case scenario, it isn’t as scary as you imagined. In fact, the greatest risk lies in doing nothing at all—once you embrace taking risks, they become far less intimidating than they first seem.
 
 ---
