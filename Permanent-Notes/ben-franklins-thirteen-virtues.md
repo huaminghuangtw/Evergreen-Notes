@@ -1,10 +1,12 @@
 ---
 title: Ben Franklin’s Thirteen Virtues
 created: 2025-11-15T08:39:42
-modified: 2025-11-19T20:58:02
+modified: 2025-12-05T06:10:04
 ---
 
 #Blog
+
+# 富蘭克林 の「13 美德表」
 
 ![](../_attachments/c0e397b355179aa12b94aebb19402907.png)
 
