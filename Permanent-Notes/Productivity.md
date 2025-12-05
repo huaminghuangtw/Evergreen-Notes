@@ -1,7 +1,7 @@
 ---
 title: Productivity
 created: 2024-11-18T09:18:12
-modified: 2025-11-19T21:00:06
+modified: 2025-12-05T12:24:14
 ---
 
 > _“Productivity is most important for things you don’t want to be doing. Most people want to increase productivity so they can spend less time on the task. But before you worry about being more productive, think about being more selective. Rather than focusing on increasing productivity, it may be worth asking, ‘What would I be delighted to spend time on, even if it went slowly?’ Direct your energy toward figuring out how to start what you want to do rather than thinking about how to shorten what you don’t want to do.” — James Clear_
@@ -78,7 +78,7 @@ There are two synergistic approaches for increasing productivity that are invers
 
 [What you work on is far more important than how productively you work](what-you-work-on-is-far-more-important-than-how-productively-you-work.md)
 
-[^1]: _“[One way to instantly gain a competitive edge is to work on things that genuinely interest you. The person who is having fun has a better chance of winning because they are more likely to stick with it when things get challenging. If it felt like a hassle from the start, you’re likely to quit as soon as things get tough. But if you’ve been having fun the whole time, you’re better positioned to work through the hard parts.” — James Clear](https://jamesclear.com/3-2-1/november-13-2025)_
+[^1]: _[“One way to instantly gain a competitive edge is to work on things that genuinely interest you. The person who is having fun has a better chance of winning because they are more likely to stick with it when things get challenging. If it felt like a hassle from the start, you’re likely to quit as soon as things get tough. But if you’ve been having fun the whole time, you’re better positioned to work through the hard parts.” — James Clear](https://jamesclear.com/3-2-1/november-13-2025)_
 [^2]: Productivity can be redefined as minimizing waste in various aspects of life, such as time, energy, attention, ideas, and one’s potential. → [Lean Thinking](https://www.google.com/search?q=Lean+Thinking)
 [^3]: Increased productivity is creating more value in less time. It’s about getting the _right_ things done, not the _most_ things done. The goal isn’t to generate prolific _output_, but to generate prolific _output per unit input_. It’s about the leverage on your input.
 [^4]: It’s not about the number of hours you put in. It’s about the _quality_ of those hours.
