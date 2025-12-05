@@ -1,7 +1,7 @@
 ---
 title: Communication
 created: 2024-11-18T09:18:12
-modified: 2025-12-02T07:54:36
+modified: 2025-12-04T17:06:31
 ---
 
 > _“The greatest communication is usually how we are rather than what we say.” — Joseph Goldstein_
@@ -117,7 +117,7 @@ When you think you’ve communicated too much, you probably haven’t communicat
 
 When you think you’ve communicated plenty, you almost certainly haven’t.
 
-Different team members might interpret the shared information in different ways or have different levels of context or understanding. 
+Different team members might interpret the shared information in different ways or have different levels of context or understanding.
 
 Overcommunicating means deliberately going beyond the minimum you think is necessary, and consequently ending up sharing exactly the right amount.
 
