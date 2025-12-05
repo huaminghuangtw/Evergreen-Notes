@@ -1,10 +1,12 @@
 ---
 title: Why we exist?
 created: 2024-11-18T09:18:12
-modified: 2025-11-26T08:21:54
+modified: 2025-12-05T12:22:43
 ---
 
 > _[“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)_
+
+> _“Existence is a fullness which we can never abandon.” — Jean Paul Sartre_
 
 > _“Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness.” — Leo Tolstoy_
 
@@ -180,7 +182,7 @@ In April of 1958, Hunter S. Thompson was 22 years old when he wrote a letter (fo
 > your friend,
 > Hunter
 
-#TODO [existential crisis](existential%20crisis.md)
+#TODO [existential crisis](existential-crisis.md)
 
 ---
 
