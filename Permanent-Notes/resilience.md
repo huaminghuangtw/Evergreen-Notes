@@ -1,7 +1,7 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2025-12-02T07:10:24
+modified: 2025-12-05T05:21:03
 ---
 
 > _[“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)_
@@ -149,7 +149,7 @@ The more easily you get offended, the less emotional intelligence you have. Inve
 
 ---
 
-[Emotion Control](Emotion%20Control.md)
+[Emotion Control](emotion-control.md)
 
 ---
 
