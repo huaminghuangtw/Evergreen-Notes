@@ -1,7 +1,7 @@
 ---
 title: Innovation
 created: 2024-11-18T09:18:12
-modified: 2025-12-05T05:21:30
+modified: 2025-12-06T14:12:13
 ---
 
 > _“Good ideas are always crazy until they’re not.” — Larry Page_
@@ -10,7 +10,10 @@ modified: 2025-12-05T05:21:30
 
 > _“Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.” — Bertrand Russell_
 
-Innovation is about everyone agreeing with you…*later*. If everyone agrees with you, you’re not truly innovating.
+> _“To be great is to be misunderstood.” — Ralph Waldo Emerson_
+
+
+Your success in life is proportional to your willingness to be misunderstood for long periods of time. Real innovation is about everyone agreeing with you…_later_. If everyone agrees with you, you’re not truly innovating.
 
 ---
 
