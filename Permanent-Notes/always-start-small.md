@@ -1,7 +1,7 @@
 ---
 title: Always start small
 created: 2025-03-05T05:32:10
-modified: 2025-11-17T07:11:28
+modified: 2025-12-06T14:01:07
 ---
 
 > _“It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith_
@@ -46,6 +46,7 @@ If you spend 100 hours a year in any discipline (which is only 18 minutes a day)
 	* 5 minutes of breathwork—your body resets. 
 	* 5 minutes of conversation—your mood improves.
 * Whenever the day feels overwhelming and tough, try to ask yourself: _What’s the best way I can spend my next 5 minutes?_
+* 5 minutes of present energy is worth more than an hour of scattered energy.
 
 ---
 
