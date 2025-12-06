@@ -1,7 +1,7 @@
 ---
 title: Negative Thoughts & Emotions
 created: 2024-11-18T09:18:12
-modified: 2025-12-04T04:41:02
+modified: 2025-12-06T06:48:49
 ---
 
 > _“You cannot prevent the birds of sorrow from flying over your head, but you can prevent them from building nests in your hair.” — Chinese Proverb_
@@ -81,5 +81,9 @@ Killing **ANTs (Automatic Negative Thoughts)**
 ---
 
 [The Sedona Method](the-sedona-method.md)
+
+---
+
+[Cognitive Defusion](cognitive-defusion.md)
 
 [^1]: Do not fear the winds of adversity. Remember, a kite rises against the wind rather than with it.
