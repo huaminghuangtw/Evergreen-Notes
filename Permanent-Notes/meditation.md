@@ -1,7 +1,7 @@
 ---
 title: Meditation
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T09:42:29
+modified: 2025-12-06T07:50:54
 ---
 
 > _“Meditation is all about the pursuit of nothingness. It’s like the ultimate rest. It’s better than the best sleep you’ve ever had. It’s a quieting of the mind. It sharpens everything, especially your appreciation of your surroundings. It keeps life fresh.” — Hugh Jackman_
@@ -58,7 +58,20 @@ The goal of productive meditation is to take a period in which you’re occupied
 
 ---
 
-# Eckhart Tolle
+幫助提升：
+
+1. 外在感知 Exteroception
+2. 內在感知 Interoception
+
+---
+
+# 第三眼 = 人體第六脈輪 = 眉心輪 = 松果體
+
+在人類的身體與心靈之間，存在著一個神秘能量中心。這個特殊的中心位於我們的眉心之間，被視為智慧、洞察力和靈性連接的象徵。
+
+---
+
+# [Eckhart Tolle](https://www.google.com/search?q=Eckhart+Tolle)
 
 * “Enlightenment [^1] is the space between your thoughts.”
 	* It’s _not what we think but what happens in between_ that brings us peace.
@@ -67,7 +80,7 @@ The goal of productive meditation is to take a period in which you’re occupied
 
 ---
 
-# Different Types Of Meditation
+# Different Types of Meditation
 
 * Vipassana Meditation
 * Refocused Focused Meditation
