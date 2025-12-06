@@ -1,7 +1,7 @@
 ---
 title: Be impeccable with your word
 created: 2024-11-18T09:16:50
-modified: 2025-11-23T11:32:27
+modified: 2025-12-06T14:06:02
 ---
 
 > _“Words are but pictures of our thoughts.” — John Dryden_
@@ -19,6 +19,22 @@ One useful word is better than a thousand useless words.
 ---
 
 Always be aware of how you are using the word. Avoid using the word to [speak against yourself](be-careful-how-you-are-talking-to-yourself.md) or to [Never gossip about others](Never%20gossip%20about%20others.md) about others.
+
+---
+
+Some questions to consider before you speak:
+
+ * _Does this need to be said?_
+ * _Does this need to be said by me?_
+ * _Does this need to be said by me right now?_
+
+---
+
+Before you speak, let your words pass through three gates:
+
+1. *Is it true?*
+2. *Is it necessary?*
+3. *Is it kind?*
 
 ---
 
