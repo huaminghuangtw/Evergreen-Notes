@@ -1,7 +1,7 @@
 ---
 title: Wu Wei
 created: 2024-12-05T23:47:15
-modified: 2025-11-06T08:23:48
+modified: 2025-12-06T05:55:14
 ---
 
 > _“Nature never hurries, yet everything is accomplished. (道常無為而無不為。)” — Lao Tzu._
@@ -13,7 +13,7 @@ modified: 2025-11-06T08:23:48
 * A concept meaning “_inexertion_”, “_inaction_”, or “_effortless action_”
 * A state of personal harmony and [free-flowing](flow-state.md)
 * ≠ 什麼事都不做、整天無所事事
-	* It doesn’t mean **inaction**, but rather **not forcing things unnaturally**. [Just as water flows best when unobstructed](Be%20like%20water.md), life unfolds most harmoniously when we don’t constantly interfere.
+	* It doesn’t mean **inaction**, but rather **not forcing things unnaturally**. [Just as water flows best when unobstructed](be-like-water.md), life unfolds most harmoniously when we don’t constantly interfere.
 * = 無為而治，不為自己的利益和欲望做事
 	* 「取天下也，恆無事；及其有事也，不足以取天下。」
 	* 「我無為而民自化，我好靜而民自正，我無事而民自富，我無欲而民自樸。」
