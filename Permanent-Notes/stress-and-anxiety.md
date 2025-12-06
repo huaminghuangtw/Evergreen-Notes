@@ -1,7 +1,7 @@
 ---
 title: Stress & Anxiety
 created: 2024-11-18T09:18:12
-modified: 2025-12-04T13:18:32
+modified: 2025-12-06T14:04:50
 ---
 
 > _“Stress happens when the mind resists what is.” — Dan Millman_
@@ -105,6 +105,8 @@ Stress and anxiety are a [tax](everything-in-life-has-an-opportunity-cost.md) on
 ---
 
 # Nothing diminishes anxiety faster than action
+
+Problem: [Overthinking](overthinking.md) & Underacting
 
 Stress and anxiety tend to be higher before you act.
 
