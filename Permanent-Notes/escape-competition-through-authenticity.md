@@ -1,7 +1,7 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2025-12-03T13:11:08
+modified: 2025-12-06T05:59:52
 ---
 
 > _“Everything popular is wrong.” — Oscar Wilde_
@@ -33,6 +33,8 @@ modified: 2025-12-03T13:11:08
 > _[“Every human is non-fungible at the DNA level. It’s society, shame and conditioning that chips away at individuality.” — George Mack](https://x.com/george__mack/status/1731285742410752077)_
 
 > _“Be yourself; everyone else is already taken.” — Oscar Wilde_
+
+> _“Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.” ― Bruce Lee_
 
 > _“Always be a first-rate version of yourself, instead of a second-rate version of someone else.” — Judy Garland_
 
