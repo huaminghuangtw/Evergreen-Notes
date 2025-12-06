@@ -1,7 +1,7 @@
 ---
 title: Overthinking
 created: 2025-01-23T10:40:57
-modified: 2025-12-02T04:46:33
+modified: 2025-12-06T07:02:41
 ---
 
 > _“Imagination and fiction make up more than three quarters of our real life.” — Simone Weil_
@@ -11,6 +11,8 @@ modified: 2025-12-02T04:46:33
 > _“I am an old man and have known a great many troubles, but most of them never happened.” — Mark Twain_
 
 > _“We suffer more in imagination than in reality” — Seneca_
+
+> _“If you spend too much time thinking about a thing, you’ll never get it done.” ― Bruce Lee_
 
 ---
 
@@ -55,6 +57,52 @@ A surefire way to make a bad situation worse is to continue replaying it in your
 Imagine someone is struck by a poisoned arrow. A doctor is called to remove the arrow, but the man stops him. “Not so fast! Before you remove it, I want to know who shot me. What town or village does he come from? What kind of wood was his bow made from? Was it a crossbow or a longbow?” While he asks the questions, the poison takes hold and he dies.
 
 Like the man in the story, we occasionally get shot with the poisoned arrows of life. But ruminating too much on the nature of those arrows is unlikely to help.
+
+---
+
+# [Eckhart Tolle](https://www.youtube.com/@EckhartTolle)’s 7-step protocol to escape overthinking: 
+
+> [Source](https://threadreaderapp.com/thread/1902379840483029150.html)
+
+## Step 1: Witness Consciousness
+
+Don’t just “be aware” of thoughts - create deliberate distance by labeling them: “Having a thought about failure” instead of “I’m going to fail.”
+
+## Step 2: Pattern Interruption
+
+Tolle recommends a specific technique: When caught in rumination, focus on your hands for 30 seconds.
+
+## Step 3: The Power of Pause
+
+When negative thoughts arise, wait 90 seconds before responding.
+
+## Step 4: The Reality Test
+
+Ask: “Is this thought happening in physical reality right now?”
+
+Not “Is this thought true?” (which keeps you in thought).
+
+## Step 5: Body Anchoring
+
+Instead of general “body awareness,” Tolle recommends feeling your inner energy field:
+
+The tingling life-energy inside your hands, feet, and entire body.
+
+This creates what neuroscientists call “[embodied cognition](acceptance-and-commitment-therapy.md)” - thinking from your whole nervous system.
+
+## Step 6: Radical Acceptance
+
+Don’t just “accept what is” - Tolle teaches saying “yes” to the feeling of resistance itself.
+
+When you feel yourself fighting reality, accept the fighting.
+
+## Step 7: Present Moment Anchoring
+
+Rather than trying to “be present,” Tolle suggests focusing on one sense perception completely:
+
+The sound of water, the sensation of breath, the feeling of air on skin.
+
+This creates what he calls “portals to presence” - gateways beyond thinking.
 
 ---
 
