@@ -1,7 +1,7 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
 created: 2024-11-18T09:18:12
-modified: 2025-11-19T21:00:06
+modified: 2025-12-06T06:35:53
 ---
 
 > _“Glory is fleeting, but obscurity is forever.” — Napoleon Bonaparte_
@@ -13,6 +13,16 @@ modified: 2025-11-19T21:00:06
 ---
 
 Humans are socially conditioned in nature — we are driven for external and social validation from others.
+
+---
+
+# [3 facets that help intrinsic motivation and drive us:](https://sketchplanations.com/autonomy-mastery-purpose)
+
+[@pinkDriveSurprisingTruth2011]
+
+1. **Autonomy**: being in control and able to guide both what we do and how we do it
+2. **Mastery**: our desire to continually be improving and learning and bettering ourselves
+3. **Purpose**: working towards something we think is worthwhile. Having a North Star to aim for and a reason it’s worth doing what we’re doing.
 
 ---
 
