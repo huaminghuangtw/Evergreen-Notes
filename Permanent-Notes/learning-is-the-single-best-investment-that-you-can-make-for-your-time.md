@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-12-04T06:34:37
+modified: 2025-12-06T04:48:21
 ---
 
 Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
@@ -176,26 +176,7 @@ Always starting from the most basic and simplest level, then adding more complex
 
 * The Feynman Technique
 	* Prioritizes simplicity to build depth of understanding
-	* Teaching is the most powerful form of learning
-		* Watch it. Do it. Teach it.
-		* The person who learns the most in any classroom is the teacher. When you teach someone you get to learn it twice. (教學相長)
-
-			> _“When one teaches, two learn.” — Robert Half_
-
-		* [A good teacher is a DJ for learning](https://sketchplanations.com/a-good-teacher-is-a-dj-for-learning). They:
-			1. Sift what matters from everything else
-			2. Create the right mix for the occasion
-			3. Lead and respond to the audience
-		* _“Those who know, do. Those that understand, teach.” — Aristotle_
-			* You don’t fully understand a thing until you try to explain/speak for it
-			* [Explain It To Me Like I’m 5 (ELI5)](https://www.reddit.com/r/explainlikeimfive/)
-		* The Protégé [^3] Effect [@chaseTeachableAgentsProtege2009]
-			* The people who had to teach others about a subject would learn the material better themselves.
-			* **Teachable Agents**
-		* “_Qui docet, discit_”—He who teaches, learns.
-		* Foundation for:
-			* Peer Learning/Teaching
-			* Study Groups
+	* [Teaching is the most powerful form of learning](teaching-is-the-most-powerful-form-of-learning.md)
 	* [Learn In Public](https://www.swyx.io/learn-in-public)
 	* “The Feynman Razor”
 		* If someone uses a lot of complexity and jargon to explain something to you, they probably don’t understand it.
@@ -245,7 +226,7 @@ Always starting from the most basic and simplest level, then adding more complex
 * ⭐️ Take several brief breaks (with each 5-30 seconds) during study / in the act of consuming/absorbing material, and reflect on the material to reinforce memory
 	* **Pro Tip:** Pause longer after key points to allow the “Gap Effects” to happen
 * Avoid phone immediately after a study session to offset forgetting
-* A good night of [restorative](https://dictionary.cambridge.org/dictionary/english/restorative) [sleep](sleep.md) BEFORE and AFTER [^4] studying/learning is crucial for get the best out of your studying/learning efforts. [^5] → _“If you don’t snooze, you lose.”_ [^6]
+* A good night of [restorative](https://dictionary.cambridge.org/dictionary/english/restorative) [sleep](sleep.md) BEFORE and AFTER [^3] studying/learning is crucial for get the best out of your studying/learning efforts. [^4] → _“If you don’t snooze, you lose.”_ [^5]
 
 ---
 
@@ -257,7 +238,6 @@ Always starting from the most basic and simplest level, then adding more complex
 
 [^1]: 圖像、故事、位置空間 ([羅馬房間方位記憶法 = 宮殿記憶法](https://en.wikipedia.org/wiki/Method_of_loci))
 [^2]: [The Learning Pit](https://sketchplanations.com/the-learning-pit)
-[^3]: refers to a person who is guided and supported by someone more experienced or knowledgeable
-[^4]: Especially the first night after learning something important to you, in order to maximize your chances of retaining the information. Without getting enough hours of quality sleep, you lose much of the chance to consolidate (“save”) the new information in your memory.
-[^5]: [After a good night’s sleep, you’re 20-30% better in terms of skilled performance than where you were at the end of the practice session the day before.](https://www.youtube.com/watch?v=pwaWilO_Pig&t=32m37s)
-[^6]: [Neuroplasticity is TRIGGERED by deep focus, but neuroplasticity OCCURS during deep rest and sleep.](https://www.youtube.com/watch?v=SwQhKFMxmDY&t=37m14s)
+[^3]: Especially the first night after learning something important to you, in order to maximize your chances of retaining the information. Without getting enough hours of quality sleep, you lose much of the chance to consolidate (“save”) the new information in your memory.
+[^4]: [After a good night’s sleep, you’re 20-30% better in terms of skilled performance than where you were at the end of the practice session the day before.](https://www.youtube.com/watch?v=pwaWilO_Pig&t=32m37s)
+[^5]: [Neuroplasticity is TRIGGERED by deep focus, but neuroplasticity OCCURS during deep rest and sleep.](https://www.youtube.com/watch?v=SwQhKFMxmDY&t=37m14s)
