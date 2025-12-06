@@ -1,7 +1,7 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2025-12-05T16:58:01
+modified: 2025-12-05T17:13:41
 ---
 
 > _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
@@ -59,6 +59,7 @@ Reasonable \> Rational
 		* **Expectation Inflation**
 			* Expectation is the greatest liability. You will never be rich (financially wealthy) if your expectations are growing faster than your asset because you are constantly wanting more.
 			* If your expectations grow faster than your income, you’ll never be satisfied with your money, no matter how much you accumulate.
+			* You manage financial expectations by keeping your lifestyle way below your means.
 			* Your [​Margin of Freedom​](https://www.sahilbloom.com/newsletter/the-trap-of-success-how-to-escape-it) is the buffer you intentionally create between your reality and your expectations.
 			* The less you need, the richer you become – wealth is about flexibility, not luxury.
 			* [John D. Rockefeller was worth the equivalent of $400 billion, but he never had penicillin, sunscreen, or Advil. For most of his adult life he didn’t have electric lights, air conditioning, or sunglasses. **Everything about wealth is circumstances in the context of expectations.**](https://collabfund.com/blog/little-rules-about-big-things/)
@@ -134,7 +135,6 @@ Reasonable \> Rational
 * 我發現，把錢花在那些很快就消失/一下子就消耗掉/轉瞬即逝的東西上，會讓自己有種受騙的感覺。
 * [Consider spending money as a failure of imagination; a failure to solve problems by smarter means.](https://www.getrichslowly.org/early-retirement-extreme/)
 	* [Your need for money is inversely related to your level of skill. Money buys convenience but more importantly, it compensates for lack of skill.](https://earlyretirementextreme.com/why-so-few-succeed.html)
-
 * Money can buy happiness_, but in an indirect way._ It’s not money itself that makes you happier. It’s the thing acquired by money that actually makes you happy.
 
 	> _“Money absolutely can buy happiness. It’s often though an indirect path. A big fancy house? Maybe. But what really makes you happy is hosting friends and family there. A nice vacation? Sure. But it’s the memories you form with your loved ones that matter. So you can’t say money doesn’t make people happy—it does, just not in the way you might think.” — Morgan Housel_
@@ -144,6 +144,7 @@ Reasonable \> Rational
 * Bought Status Test
 
 	> Before you buy something, ask yourself: Would I buy that thing if I couldn’t tell anyone about it?
+
 * The best uses of money are those that create one of four things in your life: **Time**, **Experiences**, **Purpose**, or **Health**.
 
 	> _[“I try to keep in mind that there are two ways to use money. One is as a tool to live a better life. The other is as a yardstick of success to measure yourself against other people. The first is quiet and personal, the second is loud and performative. It’s so obvious which leads to a happier life.” — Morgen Housel](https://collabfund.com/blog/quiet-compounding/)_
@@ -169,7 +170,7 @@ Reasonable \> Rational
 	1. <u>Beginner</u>: If you can’t afford it twice, don’t buy it.
 	2. <u>Advanced</u>: If it’s more than 10% of your income don’t buy it.
 	3. <u>Pro</u>: If it’s not making you more money, only buy it if your assets can pay for it.
-- [Tip generously whenever you’re able to. Be frugal with yourself and generous with others. Generosity creates significantly more happiness than consumption. It compounds. As a side benefit, when you tip generously, people go out of their way to help you, which always makes your life easier in the long run.](https://www.sahilbloom.com/newsletter/26-money-rules-for-2026)
+* [Tip generously whenever you’re able to. Be frugal with yourself and generous with others. Generosity creates significantly more happiness than consumption. It compounds. As a side benefit, when you tip generously, people go out of their way to help you, which always makes your life easier in the long run.](https://www.sahilbloom.com/newsletter/26-money-rules-for-2026)
 
 ---
 
