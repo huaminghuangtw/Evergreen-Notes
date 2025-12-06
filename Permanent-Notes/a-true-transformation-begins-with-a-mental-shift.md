@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2025-12-04T06:02:47
+modified: 2025-12-06T14:03:37
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
@@ -188,3 +188,7 @@ In the context of our example: _I will embody the state of being of a fulfilled 
 [@nguyenDontBelieveEverything2024]
 
 > Once we become aware of the fact that we are only feeling what we’re thinking and that thinking is the root cause of our unpleasant experience, we see it for what it truly is. Then we allow it to settle by giving it space, and slowly we will see how we begin to have a clear mind again.
+
+---
+
+If you’re 37, don’t regret not waking up at 18 again. Instead, imagine you’re 90 and have just woken up at 37—gifted with another 50 years to live.
