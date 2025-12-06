@@ -1,7 +1,7 @@
 ---
 title: You can achieve anything if you focus on one thing at a time
 created: 2024-11-18T09:18:12
-modified: 2025-11-17T14:03:10
+modified: 2025-12-06T15:30:53
 ---
 
 > _[“The only way to gain enough efficiency to complete The Art of Computer Programming is to operate in batch mode, concentrating intensively and uninterruptedly on one subject at a time, rather than swapping a number of topics in and out of my head.” — Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/retd.html)_
@@ -59,6 +59,19 @@ In The Happiness Hypothesis, New York University psychologist Jonathan Haidt des
 1. **Increased Errors:** Each [switch](task-switching.md) risks losing focus on important details or skipping steps, especially if the tasks are complex or require high concentration.
 2. **Longer Completion Time:** The time taken to re-focus and re-establish where we left off adds up, sometimes resulting in _doubled or even tripled_ task durations.
 3. **Cognitive Fatigue:** [Constantly redirecting attention can exhaust the brain](attention-residue.md), leading to hinder your [creativity](creativity-is-just-connecting-things.md) and [reduce overall decision-making quality](decision-fatigue.md).
+
+---
+
+# 做什麼，像什麼
+
+> _“Age quod agis”_
+>
+> Do what you are doing. = Do well whatever you do. = Concentrate on the task at hand.
+
+* When you eat, eat.
+* Use lunch time for lunch.
+* [When drinking tea, just drink tea.](https://sketchplanations.com/when-drinking-tea-just-drink-tea)
+* [If you want to live a quiet life, live a quiet life.](https://thequietlife.net/p/if-you-want-to-live-a-quiet-life)
 
 ---
 
