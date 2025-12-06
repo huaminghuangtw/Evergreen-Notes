@@ -1,7 +1,7 @@
 ---
 title: Speak less, listen more
 created: 2024-11-18T09:16:49
-modified: 2025-11-23T11:31:11
+modified: 2025-12-06T14:05:32
 ---
 
 > _[“Shallow rivers are noisy. Deep lakes are silent.” — Derek Sivers](https://sive.rs/h)_
@@ -68,14 +68,6 @@ Speak confidently. [Listen](active-listening.md) carefully.
 > _“If it is not right, do not do it; if it is not true, do not say it.” — Marcus Aurelius_
 
 > _“First learn the meaning of what you say, and then speak.” — Epictetus Marcus_
-
----
-
-Some questions to consider before you speak:
-
- * “_Does this need to be said?_”
- * “_Does this need to be said by me?_”
- * “_Does this need to be said by me right now?_”
 
 ---
 
