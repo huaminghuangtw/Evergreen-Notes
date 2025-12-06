@@ -1,8 +1,10 @@
 ---
 title: Intentional Living
 created: 2024-11-18T09:18:12
-modified: 2025-12-05T05:20:32
+modified: 2025-12-06T06:01:15
 ---
+
+> _[“Your goal in life is to be able to say on the day before you die that you have fully become yourself.” — Kevin Kelly](https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/)_
 
 > _“Get busy living, or get busy dying.” — Stephen King_
 
@@ -23,6 +25,8 @@ modified: 2025-12-05T05:20:32
 > _“One day your life will flash before your eyes. Make sure it’s worth watching.” — Gerard Way_
 
 > _“Tell me, what is it you plan to do with your one wild and precious life?” — Mary Oliver_
+
+> _“The key to immortality is first living a life worth remembering.” ― Bruce Lee_
 
 ---
 
