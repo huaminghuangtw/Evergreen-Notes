@@ -1,7 +1,7 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2025-12-03T04:39:29
+modified: 2025-12-06T05:57:47
 ---
 
 > _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
@@ -107,7 +107,7 @@ When we embrace _|voluntary struggles_, we’re better equipped/prepared for the
 
 > _“If you have 2 choices to make and they’re relatively equal (50-50), take the path that is more difficult and painful in the short term.” — Naval Ravikant_
 
-> _“Easy choices, hard life. [^1] Hard choices, easy life.” — Jerzy Gregorek_
+> _“Easy choices, hard life. [^1] Hard choices, easy life.” — Jerzy Gregorek_ [^2] [^3]
 
 > _“The costs of your good [habits](be-a-habit-and-routine-machine.md) are in the present. The costs of your bad [habits](be-a-habit-and-routine-machine.md) are in the future.” — James Clear_
 
@@ -170,3 +170,5 @@ References:
 [Two Types of Passion](two-types-of-passion.md)
 
 [^1]: What brings you _joy in the present_ often conflicts with what brings you _fulfillment in the future_. Chasing _short-term clout_ is a recipe for _long-term misery_.
+[^2]: _“You can make a couple hard changes or you can live a hard life.” ― Emily Ballesteros, [The Cure for Burnout: How to Find Balance and Reclaim Your Life](https://www.goodreads.com/work/quotes/188727257)_
+[^3]: _“Do not pray for an easy life, pray for the strength to endure a difficult one.” — Bruce Lee_
