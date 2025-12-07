@@ -1,7 +1,7 @@
 ---
 title: Healthy Eating Habits
 created: 2024-11-18T09:16:50
-modified: 2025-11-28T09:31:39
+modified: 2025-12-07T04:13:39
 ---
 
 Eating Better
@@ -208,7 +208,7 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 * Myths
 	* 飽和油脂 (低溫下會凝固) 是好的
 	* 低脂不一定健康
-* 建議從堅果 or 酪梨 (牛油果) 直接攝取油脂 (最少加工程序)
+* 建議從堅果 or 酪梨 [^16] 直接攝取油脂 (最少加工程序)
 	* The recommended daily intake of nuts: ~30 grams (ca. one handful)
 - [ ] 餐盤食用順序 (When eating a meal…): 先吃蛋白質 (Protein) / 脂質 (Fat)，再吃蔬菜 (Veggies)，最後吃碳水化合物/澱粉 (Carbs)
 	* This regulates your blood sugar \& insulin levels
@@ -256,3 +256,4 @@ Ultimately, the **Limbo–Titrate–Quality** approach is intended to be a **lif
 [^13]: Variations: 天天 5 蔬果、蔬果 579
 [^14]: “Thy” is an archaic or poetic form of “your,” used in old English, especially in Shakespearean or biblical language.
 [^15]: = Diet Intervention Examining The Factors Interacting with Treatment Success
+[^16]:  酪梨 = 鰐梨 = 牛油果 → 全球公認最好吃、油脂最豐厚的酪梨品種 - Hash (哈斯)
