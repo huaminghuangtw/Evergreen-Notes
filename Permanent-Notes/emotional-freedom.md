@@ -1,7 +1,7 @@
 ---
 title: Emotional Freedom
 created: 2025-05-10T06:27:40
-modified: 2025-12-06T06:51:57
+modified: 2025-12-07T20:33:46
 ---
 
 > _“Enlightenment is making friendship with the whole existence.” — Amit Ray_
@@ -62,7 +62,7 @@ modified: 2025-12-06T06:51:57
 
 1. **Practice being the observer.**
 	* Regularly notice your thoughts [without judgment](dispel-your-narratives.md). Say to yourself, “There’s a thought that…” to create separation.
-2. **Use mindfulness [^2] to stay grounded.**
+2. **Use mindfulness [^1] to stay grounded.**
 	* Anchor yourself in the [present moment](live-in-the-present.md) using your breath, body, or senses.
 	* [Meditation](meditation.md) is a helpful tool, but simple awareness throughout the day works too.
 3. **Ask: “Is this true?”**
@@ -82,11 +82,11 @@ modified: 2025-12-06T06:51:57
 
 ---
 
-[Nonchalant](Evergreen-Notes/Permanent-Notes/Nonchalant.md)
+[Nonchalant](Nonchalant.md)
 
 ---
 
-# The Riptide Mentality (The “Downward Spiral” [^1] Technique)
+# The Riptide Mentality (The “Downward Spiral” [^2] Technique)
 
 > At certain times in your life, there are going to be subtle, hidden, external forces conspiring against you—pulling you further away from your desired destination.
 >
@@ -111,6 +111,5 @@ Resistance amplifies [negative emotions](negative-thoughts-and-emotions.md). [Ac
 * At its heart, the quote speaks to the idea of **[non-interference](wu-wei.md)** and **patience**. When water is muddy, stirring it further only makes it worse — more opaque and unsettled. But if you **let it be**, the sediment will naturally settle, and the water will clear on its own.
 * Sometimes problems solve themselves if we give them space and time.
 
-
-[^1]: ↔ [The Upward Spiral](https://sketchplanations.com/the-upward-spiral)
-[^2]: aka present moment awareness
+[^1]: aka present moment awareness
+[^2]: ↔ [The Upward Spiral](https://sketchplanations.com/the-upward-spiral)
