@@ -1,7 +1,7 @@
 ---
 title: Be impeccable with your word
 created: 2024-11-18T09:16:50
-modified: 2025-12-06T14:06:02
+modified: 2025-12-07T20:35:19
 ---
 
 > _“Words are but pictures of our thoughts.” — John Dryden_
@@ -32,9 +32,9 @@ Some questions to consider before you speak:
 
 Before you speak, let your words pass through three gates:
 
-1. *Is it true?*
-2. *Is it necessary?*
-3. *Is it kind?*
+1. _Is it true?_
+2. _Is it necessary?_
+3. _Is it kind?_
 
 ---
 
