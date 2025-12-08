@@ -1,7 +1,7 @@
 ---
 title: Healthy Eating Habits
 created: 2024-11-18T09:16:50
-modified: 2025-12-07T04:13:39
+modified: 2025-12-07T20:35:19
 ---
 
 Eating Better
@@ -208,7 +208,7 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 * Myths
 	* 飽和油脂 (低溫下會凝固) 是好的
 	* 低脂不一定健康
-* 建議從堅果 or 酪梨 [^16] 直接攝取油脂 (最少加工程序)
+* 建議從堅果 or 酪梨 [^15] 直接攝取油脂 (最少加工程序)
 	* The recommended daily intake of nuts: ~30 grams (ca. one handful)
 - [ ] 餐盤食用順序 (When eating a meal…): 先吃蛋白質 (Protein) / 脂質 (Fat)，再吃蔬菜 (Veggies)，最後吃碳水化合物/澱粉 (Carbs)
 	* This regulates your blood sugar \& insulin levels
@@ -237,7 +237,7 @@ Eat lower-carb lunch. Eat high-starchy carb dinner.
 
 ---
 
-“**[Limbo–Titrate–Quality](https://www.google.com/search?q=Limbo-Titrate-Quality)**” is a three-part dietary intervention strategy, popularized by the **DIETFITS [^15] study** [@stantonDIETFITSStudyDiet2017], designed to help individuals discover a **sustainable healthy diet** rather than chase specific macronutrient targets. **Limbo** involves temporarily reducing fats or carbohydrates to very low levels (e.g., 20 g/day) during the initial phase. **Titrate** refers to gradually increasing fat or carbohydrate intake to identify a comfortable, maintainable level. **Quality** emphasizes prioritizing **nutrient-dense whole foods** while minimizing processed items, added sugars, and refined grains throughout both phases.
+“**[Limbo–Titrate–Quality](https://www.google.com/search?q=Limbo-Titrate-Quality)**” is a three-part dietary intervention strategy, popularized by the **DIETFITS [^16] study** [@stantonDIETFITSStudyDiet2017], designed to help individuals discover a **sustainable healthy diet** rather than chase specific macronutrient targets. **Limbo** involves temporarily reducing fats or carbohydrates to very low levels (e.g., 20 g/day) during the initial phase. **Titrate** refers to gradually increasing fat or carbohydrate intake to identify a comfortable, maintainable level. **Quality** emphasizes prioritizing **nutrient-dense whole foods** while minimizing processed items, added sugars, and refined grains throughout both phases.
 
 Ultimately, the **Limbo–Titrate–Quality** approach is intended to be a **lifelong, adaptable framework** for healthy eating.
 
@@ -255,5 +255,5 @@ Ultimately, the **Limbo–Titrate–Quality** approach is intended to be a **lif
 [^12]: = Hara Hachi Bu = 腹八分目
 [^13]: Variations: 天天 5 蔬果、蔬果 579
 [^14]: “Thy” is an archaic or poetic form of “your,” used in old English, especially in Shakespearean or biblical language.
-[^15]: = Diet Intervention Examining The Factors Interacting with Treatment Success
-[^16]:  酪梨 = 鰐梨 = 牛油果 → 全球公認最好吃、油脂最豐厚的酪梨品種 - Hash (哈斯)
+[^15]: 酪梨 = 鰐梨 = 牛油果 → 全球公認最好吃、油脂最豐厚的酪梨品種 - Hash (哈斯)
+[^16]: = Diet Intervention Examining The Factors Interacting with Treatment Success
