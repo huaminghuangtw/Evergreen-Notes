@@ -1,7 +1,7 @@
 ---
 title: The Hofstadter’s Law
 created: 2024-11-18T09:18:12
-modified: 2025-12-06T14:19:20
+modified: 2025-12-07T20:35:19
 ---
 
 In contradiction to [Parkinson’s Law](the-parkinsons-law.md)
@@ -27,6 +27,5 @@ Often, the last 10% of a task takes as much time as the first 90% did.
 ---
 
 See also: [The Goal-Gradient Effect](https://sketchplanations.com/goal-gradient-effect)
-
 
 [^1]: Similar to [The Planning Fallacy](https://en.wikipedia.org/wiki/Planning_fallacy)
