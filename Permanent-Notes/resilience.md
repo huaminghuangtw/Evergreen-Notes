@@ -1,7 +1,7 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2025-12-05T05:21:03
+modified: 2025-12-09T09:41:27
 ---
 
 > _[“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)_
@@ -14,7 +14,7 @@ modified: 2025-12-05T05:21:03
 
 > _“Obstacles are things a person sees when he takes his eyes off his goal.” — E. Joseph Cossman_
 
-> _“There can be no lotus flower without the mud.” — Thích Nhất Hạnh, No Mud, No Lotus_
+> _“There can be no lotus flower without the mud.” — Thích Nhất Hạnh, No Mud, No Lotus_ [^1]
 
 > _[“Remember diamonds are created under pressure so hold on, it will be your time to shine soon.” — Sope Agbelusi](https://www.goodreads.com/quotes/7900485-remember-diamonds-are-created-under-pressure-so-hold-on-it)_
 
@@ -153,4 +153,6 @@ The more easily you get offended, the less emotional intelligence you have. Inve
 
 ---
 
-[The Let-Them Theory](The%20Let-Them%20Theory.md)
+[The Let-Them Theory](the-let-them-theory.md)
+
+[^1]: _“As a lotus flower is born in water, grows in water, and rises out of water to stand above it unsoiled. So I, born and raised in the world, having overcome the world, live unsoiled by the world.” ― Buddha_
