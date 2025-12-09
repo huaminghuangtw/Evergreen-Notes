@@ -1,7 +1,7 @@
 ---
 title: Just focus on the next decision
 created: 2024-11-18T09:18:12
-modified: 2025-11-23T17:16:55
+modified: 2025-12-09T17:19:09
 ---
 
 > _[“You are always just one good decision away from being in a better place tomorrow — just focus on the next decision.” — Sahil Bloom](https://www.sahilbloom.com/newsletter/information-action-gap-one-decision-away-more)_
@@ -45,6 +45,8 @@ Stop thinking about the damn wall!
 # The One-Move Mindset​
 
 Don’t try to solve everything. Focus on one clear step you can take right now. [Progress](journey-over-destination.md), not [perfection](perfectionism.md).
+
+See also: [A Thousand Miles by One Step](a-thousand-miles-by-one-step.md)
 
 ---
 
