@@ -1,7 +1,7 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2025-12-06T14:20:56
+modified: 2025-12-09T08:12:29
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -102,6 +102,8 @@ The practice solidifies.
 ---
 
 # The “Consistently Good Rather Than Occasionally Great” Principle
+
+> _“Long-term consistency trumps short-term intensity.” — Bruce Lee_
 
 * Don’t aim to be consistently great; aim to be great at being _consistent_.
 * Mastery follows consistent/constant work.
