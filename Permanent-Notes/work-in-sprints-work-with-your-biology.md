@@ -1,7 +1,7 @@
 ---
 title: Work in sprints, work with your biology
 created: 2024-11-18T09:18:12
-modified: 2025-12-06T07:39:37
+modified: 2025-12-09T08:21:05
 ---
 
 > _“If you want to operate at maximum productivity, efficiency, and creativity, you’re going to work on things that you’re excited about at the moment you’re excited about them and accept nothing less. It is better to sit on your butt and do nothing than it is to work on things that you are not excited about.” — Naval Ravikant_
@@ -45,7 +45,7 @@ Why?
 
 |          ![](../_attachments/b592b3f9521574f1f4c2c0cb803edf84.png)          |
 | :-------------------------------------------------------------------------: |
-| <sub>[Source]( https://barbaraoakley.com/books/learning-how-to-learn)</sub> |
+| <sub>[Source](https://barbaraoakley.com/books/learning-how-to-learn)</sub> |
 |                                                                             |
 
 # Match energy level with tasks
@@ -60,6 +60,8 @@ Why?
 [@valdezCircadianRhythmsAttention2019]
 
 There are specific times during the day that are for optimal goal work. According to [a review by Dr. Pablo Valdez in the Yale journal Biology and Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6430172/), there are three peak times each day when our attention and focus are at their highest. As a rough guide, **30 minutes, 3 hours, and 11 hours after you wake up** are great times for hard work. This happens because of the body’s circadian rhythm (sleep-wake cycle) and rhythmicity of body temperature and associated neurochemicals.
+
+**Biological Prime Time (生理黃金時段)** is the time of day when you feel most alert, energized, and productive in accomplishing your tasks.
 
 ---
 
@@ -110,6 +112,10 @@ According to the research, “_The secret to retaining the highest level of prod
 ---
 
 [What you work on is far more important than how productively you work](what-you-work-on-is-far-more-important-than-how-productively-you-work.md)
+
+---
+
+[You can achieve anything if you focus on one thing at a time](you-can-achieve-anything-if-you-focus-on-one-thing-at-a-time.md)
 
 [^1]: 每個人每天都是固定 24 小時
 [^2]: **Circadian Rhythm (= 生理時鐘 = 晝夜節律):** Every cell/organ in our body/brain is modulated or changes in a very regular and predictable rhythm across the 24-hour day.
