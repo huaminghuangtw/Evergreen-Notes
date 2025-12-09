@@ -1,7 +1,7 @@
 ---
 title: Always start and end the day right
 created: 2025-01-23T10:40:57
-modified: 2025-12-04T17:06:31
+modified: 2025-12-09T08:17:53
 ---
 
 > _“Every morning in Africa, a gazelle wakes up, it knows it must outrun the fastest lion or it will be killed. Every morning in Africa, a lion wakes up. It knows it must run faster than the slowest gazelle, or it will starve. It doesn’t matter whether you’re the lion or a gazelle-when the sun comes up, you’d better be running.” — Christopher McDougall_
@@ -80,16 +80,23 @@ Your best work is going to be done anywhere from 4–6 hours after your [tempera
 
 Rather than squandering this prime mental state on activities meant to _prepare_ you for optimal flow, the easiest flow state you can experience ever, leverage these golden moments for the most important task.
 
-* <u>The “One-Priority-Only” (Reverse / Inverse) Morning Routine</u>
-	1. Dive straight into the highest-priority task right after waking up
-		* [Spend the first 90 minutes of your day working on your no.1 priority in life without any distractions and interruption.](eat-the-biggest-frog-first-thing-in-the-morning.md) It’s that simple.
-	2. Do your normal morning routine (yoga, meditation, etc.)
-* _“Whenever I see another entrepreneur who’s obsessive about their routines things like if I don’t have my morning routine I’m a mess or I can’t even function I am so grateful because it just shows how weak they are.” — Alex Hormozi_
-	* _Alex Hormozi’s Morning Routine_
+---
+
+### The “One-Priority-Only” (Reverse / Inverse) Morning Routine
+
+1. Dive straight into the highest-priority task right after waking up
+	* [Spend the first 90 minutes of your day working on your no.1 priority in life without any distractions and interruption.](eat-the-biggest-frog-first-thing-in-the-morning.md) It’s that simple.
+2. Do your normal morning routine (yoga, meditation, etc.)
+
+---
+
+> _“Whenever I see another entrepreneur who’s obsessive about their routines things like if I don’t have my morning routine I’m a mess or I can’t even function I am so grateful because it just shows how weak they are.” — Alex Hormozi_
+
+* _Alex Hormozi’s Morning Routine_
 		1. Wake up
 		2. Drink coffee
 		3. Get to work
-	* When designing your morning routine, always keep asking yourself: “_How quickly can I get to work after waking?_”
+* When designing your morning routine, always keep asking yourself: “_How quickly can I get to work after waking?_”
 
 ## Why?
 
@@ -106,7 +113,7 @@ A little [planning, preparation](planning-and-preparation-help-maximize-your-pro
 
 ---
 
-[How to structure your day](Frameworks%20to%20structure%20your%20day.md)
+[Frameworks to structure your day](frameworks-to-structure-your-day.md)
 
 [^1]: 別把睡前儀式 (或 [睡眠](sleep.md)) 視為一天的結束，而是為明天的美好開端做好準備。
 [^2]: <https://www.hubermanlab.com/episode/maximizing-productivity-physical-and-mental-health-with-daily-tools>
