@@ -1,7 +1,7 @@
 ---
 title: The Law of Diminishing Returns
 created: 2025-11-09T08:52:54
-modified: 2025-11-12T18:04:14
+modified: 2025-12-09T07:10:53
 ---
 
 ![](https://images.prismic.io/sketchplanations/6b64ffe3-b891-4838-989c-a5e0f6d66bce_SP+642+-+Law+of+diminishing+returns+-+revised.png?auto=format%2Ccompress&fit=max&w=640)
@@ -15,15 +15,15 @@ modified: 2025-11-12T18:04:14
 
 ---
 
-一個和尚挑水喝，兩個和尚抬水喝，三個和尚沒水喝
+一個和尚挑水喝，兩個和尚抬水喝，三個和尚沒水喝。
 
 ---
 
-一斗米養個恩人，一石米養個仇人
+一斗米養個恩人，一石米養個仇人。
 
 ---
 
-渴時一滴如甘露，醉後添杯不如無
+渴時一滴如甘露，醉後添杯不如無。
 
 ---
 
