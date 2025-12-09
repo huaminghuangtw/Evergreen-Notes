@@ -1,7 +1,7 @@
 ---
 title: Eat the biggest frog first thing in the morning
 created: 2024-12-04T17:55:24
-modified: 2025-12-03T05:38:55
+modified: 2025-12-09T09:38:33
 ---
 
 > _“Do one thing every day that scares you.” — Eleanor Roosevelt_
@@ -55,7 +55,9 @@ First things first. Do the most important thing [^2] first, not the most urgent 
 
 ---
 
-# The Pickle Jar Theory（醃漬罐理論）
+# The Pickle Jar Theory
+
+> 醃漬罐理論
 
 The Pickle Jar Theory is a [time management](time-management.md) technique that prioritizes tasks based on importance, using the analogy of fitting different-sized items (**rocks/boulders**, **pebbles**, and **sand**) into a jar to represent one’s daily schedule or time available.
 
@@ -81,16 +83,22 @@ In other words, there is a bottleneck that prevents the system from improving.
 
 By focusing attention on **improving the constraint—eliminating the bottleneck**—you can dramatically improve the performance of the entire system.
 
-1. STEP 1. Identify the system’s bottlenecks. (找出瓶頸)
-2. STEP 2. Decide how to exploit the bottlenecks. (善用瓶頸)
-3. STEP 3. Subordinate everything else to the above decision. (遷就瓶頸)
-4. STEP 4. Elevate the system’s bottlenecks. (提升瓶頸)
-5. STEP 5. If, in a previous step, a bottleneck has been broken go back to step 1. (持續改善)
+1. Identify the system’s bottlenecks. (找出瓶頸)
+2. Decide how to exploit the bottlenecks. (善用瓶頸)
+3. Subordinate everything else to the above decision. (遷就瓶頸)
+4. Elevate the system’s bottlenecks. (提升瓶頸)
+5. If, in a previous step, a bottleneck has been broken go back to step 1. (持續改善)
 	1. 什麼要改變？（What to change?）
 	2. 要改變成什麼？（What to change to?）
 	3. 如何造成改變？（How to cause the change?）
 
 ---
+
+> _[“I finally decided I was going to give the best hour of the day to improving my own mind, and then the world could buy the rest of the time.” — Charlie Munger](https://buffett.cnbc.com/video/2007/05/05/afternoon-session---2007-berkshire-hathaway-annual-meeting.html)_
+>
+> 把一天中最好的時段留給自己，然後世界可以買走我剩下的時間。
+
+> _[“Your dreams demand your best hours—and nothing less.” — Anu Atluru](https://substack.com/home/post/p-156930899)_
 
 * **Sacred Morning Free Time**, where you can take advantage of the tranquility of the quiet morning
 * **Quite/Dark Hours**
