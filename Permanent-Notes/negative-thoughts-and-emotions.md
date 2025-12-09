@@ -1,7 +1,7 @@
 ---
 title: Negative Thoughts & Emotions
 created: 2024-11-18T09:18:12
-modified: 2025-12-06T06:48:49
+modified: 2025-12-09T17:09:14
 ---
 
 > _“You cannot prevent the birds of sorrow from flying over your head, but you can prevent them from building nests in your hair.” — Chinese Proverb_
@@ -56,10 +56,14 @@ Killing **ANTs (Automatic Negative Thoughts)**
 * [ALL-OR-NOTHING THINKING](from-binary-thinking-to-full-spectrum-thinking.md): You see things in black-and-white categories. If your performance falls short of perfect, you see yourself as a total failure.
 	* How to overcome it?
 		* Avoid thinking in negative, unconditional, absolute terms, such as “never” or “nothing”.
-* OVERGENERALIZATION: You see a single negative event as a never-ending pattern of defeat.
+* [OVERGENERALIZATION](from-binary-thinking-to-full-spectrum-thinking.md): You see a single negative event as a never-ending pattern of defeat.
 	* How to overcome it?
 		* Think through the accuracy of the statement. When you catch yourself using words like “always” or “never,” stop yourself and ask those words are accurate.
 		* Replace that overly broad language with something more realistic.
+	* Examples
+		* “I made a mistake on this task” becomes “I’m terrible at my job”
+		* “That conversation felt awkward” becomes “Everyone thinks I’m weird”
+		* “That was a stressful commute” becomes “My morning is ruined”
 * LABELING AND MISLABELING: This is an extreme form of overgeneralization. Instead of describing your error, you attach a negative label to yourself: “I’m a loser.” When someone else’s behavior rubs you the wrong way, you attach a negative label to him: “He’s a goddam louse.” Mislabeling involves describing an event with language that is highly colored and emotionally loaded.
 * MENTAL FILTER: You pick out a single negative detail and dwell on it exclusively so that your vision of all reality becomes darkened, like the drop of ink that colors the entire beaker of water.
 * DISQUALIFYING THE POSITIVE: You reject positive experiences by insisting they “don’t count” for some reason or other. In this way you can maintain a negative belief that is contradicted by your everyday experiences.
