@@ -1,7 +1,11 @@
 ---
 title: The Law of Attraction
 created: 2025-10-26T15:33:23
-modified: 2025-12-01T07:51:29
+modified: 2025-12-09T09:52:47
+---
+
+> _[“You’re dangerous,” he says. “Why?” “Because you make me believe in the impossible.” — Simone Elkeles, Rules of Attraction](https://www.goodreads.com/quotes/257182-you-re-dangerous-he-says-why-because-you-make-me-believe)_
+
 ---
 
 = 吸引力法則 ≈ [The Frequency Illusion](https://sketchplanations.com/the-frequency-illusion) = [Baader–Meinhof phenomenon](https://www.google.com/search?q=Baader%E2%80%93Meinhof+phenomenon) =[Selective Attention](https://www.google.com/search?q=Selective+Attention)
