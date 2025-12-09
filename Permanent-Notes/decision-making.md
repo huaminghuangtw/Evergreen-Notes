@@ -1,7 +1,7 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2025-12-08T07:51:00
+modified: 2025-12-09T15:24:30
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -16,7 +16,7 @@ modified: 2025-12-08T07:51:00
 
 # Naval Ravikant
 
-> _We live in an age of infinite leverage. What I mean by that is that your actions can be multiplied a thousandfold, either by broadcasting a podcast or by investing capital or by having people work for you or by writing code. So because of that, the impacts of good decision-making are much higher than they used to be because now you can influence thousands or millions of people through your decisions or your code. So clear mind leads to better (sound) [judgment](judgment-is-the-most-important-skill-in-an-age-of-infinite-leverage.md) leads to a better outcome. So a happy, calm, peaceful person will make better decisions and have better outcomes. So if you want to operate at peak performance, you have to learn how to tame your mind. [^2] Just like you have to learn how to tame your body._
+> _We live in an age of infinite leverage. What I mean by that is that your actions can be multiplied a thousandfold, either by broadcasting a podcast or by investing capital or by having people work for you or by writing code. So because of that, the impacts of good decision-making are much higher than they used to be because now you can influence thousands or millions of people through your decisions or your code. So clear mind leads to better (sound) [judgment](judgment-is-the-most-important-skill-in-an-age-of-infinite-leverage.md) leads to a better outcome. So a happy, calm, peaceful person will make better decisions and have better outcomes. So if you want to operate at peak performance, you have to learn how to tame your mind. [^2] Just like you have to learn how to tame your body._ [^3]
 
 > _If you want to make the wrong decision, ask everyone._
 
@@ -27,7 +27,7 @@ modified: 2025-12-08T07:51:00
 * When faced with a difficult decision, ask yourself what your [80-year-old self](death.md) would want you to do.
 * Anytime you feel a high activation state of any kind of positive/negative emotions or internal arousal, you should pause/stop and reflect, because what’s happening is it’s revealing to you something very important.
 	* By reflecting on these states, we can uncover important lessons and insights that can inform our future decisions and actions.
-	* If you don’t stop to think about why I’m so upset or why I’m so happy, you’re gonna miss an important lesson. (similar to Alchemy 煉金術 \& Avocados [^3])
+	* If you don’t stop to think about why I’m so upset or why I’m so happy, you’re gonna miss an important lesson. (similar to Alchemy 煉金術 \& Avocados [^4])
 * **The Secretary Problem (The 37 Percent Rule) 撿石子理論**
 	* It implies that the optimal win probability is always at least 1/e (e is Napier’s Constant or Euler’s Number), and that the latter holds even in a much greater generality.
 		* 最佳觀察期為整條路段長度的 1/e ~ 0.36788 (略大於 1/3)
@@ -62,9 +62,8 @@ A simple decision-making framework created by author and speaker Suzy Welch. The
 # [Two types of decisions](https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm)
 
 > Some decisions are consequential and irreversible or nearly irreversible – one-way doors – and these decisions must be made methodically, carefully, slowly, with great deliberation and consultation. If you walk through and don’t like what you see on the other side, you can’t get back to where you were before. We can call these Type 1 decisions. But most decisions aren’t like that – they are changeable, reversible – they’re two-way doors. If you’ve made a suboptimal Type 2 decision, you don’t have to live with the consequences for that long. You can reopen the door and go back through. Type 2 decisions can and should be made quickly by high judgment individuals or small groups.
-> 
+>
 > As organizations get larger, there seems to be a tendency to use the heavy-weight Type 1 decision-making process on most decisions, including many Type 2 decisions. The end result of this is slowness, unthoughtful risk aversion, failure to experiment sufficiently, and consequently diminished invention We’ll have to figure out how to fight that tendency.
-
 
 |     Type I      |                           Type II                            |
 | :-------------: | :----------------------------------------------------------: |
@@ -179,4 +178,5 @@ In Alice’s Adventures in Wonderland, there’s a scene in which Alice reaches 
 
 [^1]: _“He who hesitates is a damned fool.” — Mae West_
 [^2]: _“The mind is difficult to control; swiftly and lightly it moves wherever it pleases. It is good to tame the mind, for a well-tamed mind brings happiness.” — Dhammapada_
-[^3]: Not Yet → Not Yet → Not Yet → Not Yet → Time To Eat → Too Late
+[^3]: _“The measure of wisdom is how calm you are when facing any given situation.” — Naval Ravikant_
+[^4]: Not Yet → Not Yet → Not Yet → Not Yet → Time To Eat → Too Late
