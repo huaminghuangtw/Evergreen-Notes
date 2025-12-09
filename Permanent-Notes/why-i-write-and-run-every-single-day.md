@@ -1,7 +1,7 @@
 ---
 title: Why I write and run every single day
 created: 2025-11-13T06:08:11
-modified: 2025-12-04T17:06:31
+modified: 2025-12-09T07:22:30
 ---
 
 > _“Energy is eternal delight.” — William Blake_
@@ -11,6 +11,8 @@ modified: 2025-12-04T17:06:31
 > _在長跑中，如果說有什麼必須戰勝的對手，那就是過去的自己。_
 
 “It just feels good,” somebody might tell you. “It helps my mental health,” or “I can think more clearly.” People don’t just run because it is good for their physical body. People run because it can improve other parts of their life. Because it helps them feel better.
+
+寧靜的早晨
 
 有意義的痛苦 > 沒意義的享樂；長期的滿足 > 短期的快樂
 
