@@ -1,7 +1,7 @@
 ---
 title: Goal Setting
 created: 2025-01-23T10:40:57
-modified: 2025-12-05T08:16:41
+modified: 2025-12-09T17:35:38
 ---
 
 > _“A goal is not always meant to be reached, it often serves simply as something to aim at.” — Bruce Lee_
@@ -31,7 +31,7 @@ modified: 2025-12-05T08:16:41
 
 ---
 
-## The Abc Goal System (by Sahil Bloom)
+## The ABC Goal System (by Sahil Bloom)
 
 * A Goal
 	* Most ambitious, perfect case.
@@ -42,6 +42,14 @@ modified: 2025-12-05T08:16:41
 * C Goal
 	* Minimum viable level, anything above zero compounds positively.
 	* E.g., Finish the race.
+
+## The MTO Goal Method
+
+Define three levels of daily success:
+
+1. **Minimum**: The baseline goal you’d be happy achieving on a given day. For a writer, this might be 250 words a day.
+2. **Target**: A realistic yet challenging goal that stretches you without being too overwhelming. For example, 750 words a day.
+3. **Outrageous**: The dream outcome—the kind of goal that makes you say, “Wow, I can’t believe I did that.” Let’s say it’s 2,000 words a day.
 
 ---
 
