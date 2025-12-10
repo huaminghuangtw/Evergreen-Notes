@@ -1,7 +1,7 @@
 ---
 title: Productivity
 created: 2024-11-18T09:18:12
-modified: 2025-12-05T12:24:14
+modified: 2025-12-10T10:25:19
 ---
 
 > _“Productivity is most important for things you don’t want to be doing. Most people want to increase productivity so they can spend less time on the task. But before you worry about being more productive, think about being more selective. Rather than focusing on increasing productivity, it may be worth asking, ‘What would I be delighted to spend time on, even if it went slowly?’ Direct your energy toward figuring out how to start what you want to do rather than thinking about how to shorten what you don’t want to do.” — James Clear_
@@ -69,6 +69,18 @@ There are two synergistic approaches for increasing productivity that are invers
 
 1. Limit tasks to the important to shorten work time ([The Pareto Principle](the-pareto-principle.md)).
 2. Shorten work time to limit tasks to the important ([The Parkinson’s Law](the-parkinsons-law.md)).
+
+---
+
+# [“The SPACE Productivity Framework”](https://queue.acm.org/detail.cfm?id=3454124) by GitHub
+
+[@forsgrenSPACEDeveloperProductivity2021]
+
+1. satisfaction and well-being
+2. performance
+3. activity
+4. communication and collaboration
+5. efficiency and flow
 
 ---
 
