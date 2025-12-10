@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-11-26T16:42:16
+modified: 2025-12-10T08:00:11
 ---
 
 > _“Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes_
@@ -59,6 +59,12 @@ At any given moment you have the power to say: “This is not how the story is g
 ---
 
 自證預言 = 自我實現預言 = 自我應驗預言 = Self-Fulfilling Prophecy ≈ 心理暗示
+
+---
+
+# [Murphy’s Law](https://en.wikipedia.org/wiki/Murphy%27s_law)
+
+> Anything that can go wrong will go wrong.
 
 ---
 
