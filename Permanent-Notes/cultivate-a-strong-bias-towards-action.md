@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2025-11-23T07:12:25
+modified: 2025-12-10T18:00:22
 ---
 
 > _“To be is to do.” — Immanuel Kant_
@@ -41,6 +41,8 @@ modified: 2025-11-23T07:12:25
 > _“You can’t climb the ladder of success with your hands in your pockets.” — Arnold Schwarzenegger_
 
 > _[“Action isn’t just the effect of motivation, but also the cause of it.” — Mark Manson](https://www.goodreads.com/quotes/11945271-action-isn-t-just-the-effect-of-motivation-it-s-also-the)_
+
+> _[“You do not write your life with words. You write it with actions. What you think is not important. It is only important what you do.” — Patrick Ness, A Monster Calls](https://www.goodreads.com/quotes/394528-you-do-not-write-your-life-with-words-you-write-it)_ [^3]
 
 ---
 
@@ -260,3 +262,4 @@ Neither came from waiting for the perfect idea—they were born from action.
 
 [^1]: _“The professional learns to recognize envy-driven criticism and to take it for what it is: the supreme compliment. The critic hates most that which he would have done himself if he had had the guts.” ― Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
 [^2]: _“The artist cannot look to others to validate his efforts or his calling. If you don’t believe me, ask Van Gogh, who produced masterpiece after masterpiece and never found a buyer in his whole life.” ― Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
+[^3]: Remember: Talk does not cook rice. (別光說不練。) You are what you do, not what you say you’ll do. You can’t build a reputation on what you’re going to do.
