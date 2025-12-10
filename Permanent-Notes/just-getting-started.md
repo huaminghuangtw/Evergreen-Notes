@@ -1,7 +1,7 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2025-11-22T13:08:48
+modified: 2025-12-09T17:24:57
 ---
 
 > _“Start before you’re ready. Don’t prepare. Begin. Don’t think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
@@ -73,12 +73,14 @@ Start even if you can only [do a little](always-start-small.md). Once you get st
 * describes that once we start a task, we feel a drive to complete it—even if we’ve only made minimal progress.
 * refers to the innate human urge to finish tasks we’ve initiated.
 
+See also: [The Goal-Gradient Effect](https://sketchplanations.com/goal-gradient-effect)
+
 ---
 
 > _[“You’re more likely to act yourself into feeling than feel yourself into action.” – Dr. Jerome Bruner, Harvard Psychologist](https://www.goodreads.com/quotes/11683801-you-more-likely-act-yourself-into-feeling-than-feel-yourself)_
 
-* Fake it until you make it
 * Act as if
+* Fake it until you make it
 
 ---
 
