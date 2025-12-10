@@ -1,12 +1,10 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2025-12-09T08:12:29
+modified: 2025-12-10T07:04:33
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
-
-> _“Life is like riding a bicycle, to keep balance you must keep moving.” — Albert Einstein_
 
 > _“There are no quick fixes. But, by taking action just a little bit every day, you will build up a powerful reservoir of confidence, self-esteem, and discipline.” — Scott Allan_
 
@@ -55,6 +53,18 @@ Persistence can change failure into extraordinary achievement.
 ---
 
 There is a Zen Buddhist saying: “What do you do before enlightenment? _Chop wood, carry water_. What do you do after enlightenment? _Chop wood, carry water_.”
+
+---
+
+> _“Life is like riding a bicycle, to keep balance you must keep moving.” — Albert Einstein_
+
+# [Fire & Movement](https://en.wikipedia.org/wiki/Fire_and_movement)
+
+> _[“You move towards the enemy while firing your weapon. The firing forces him to keep his head down so he can’t fire at you. The motion allows you to conquer territory and get closer to your enemy, where your shots are much more likely to hit their target. If you’re not moving, the enemy gets to decide what happens, which is not a good thing. If you’re not firing, the enemy will fire at you, pinning you down.” — Joel Spolsky](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/)_
+
+軍事策略：邊開火邊移動
+
+國軍單兵戰鬥基本教練的報告詞：「請鄰兵以火力掩護我」
 
 ---
 
