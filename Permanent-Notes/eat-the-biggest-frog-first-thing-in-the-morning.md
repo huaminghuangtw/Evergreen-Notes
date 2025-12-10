@@ -1,7 +1,7 @@
 ---
 title: Eat the biggest frog first thing in the morning
 created: 2024-12-04T17:55:24
-modified: 2025-12-09T09:38:33
+modified: 2025-12-10T07:52:06
 ---
 
 > _“Do one thing every day that scares you.” — Eleanor Roosevelt_
@@ -105,14 +105,12 @@ By focusing attention on **improving the constraint—eliminating the bottleneck
 * **The Golden/Holy/Power Hour**
 	* Spending an hour in the morning before checking any emails, notifications, or text messages, and exclusively working on the “Important but not Urgent” stuff.
 * **Magic Time**
-	* This is a _long/solid/consecutive/uninterrupted/unbroken blocks/slabs of time_, where you are three times more productive than usual.
+	* This is a _[long/solid/consecutive/uninterrupted/unbroken blocks/slabs of time](deep-work.md)_, where you are three times more productive than usual.
 	* _“An hour before 9 is worth two after 5.”_ — It feels like gaining extra hours in your day!
 
 You need to find XXX in your day, and ruthlessly foster/protect it from all the time thieves in your life. When you [combine XXX with a deadline](the-parkinsons-law.md), you QUADRUPLE your productivity.
 
 [As those time-chunks get separated and fragmented, my productivity drops spectacularly.](https://www.nealstephenson.com/why-i-am-a-bad-correspondent.html)
-
-[Deep Work](deep-work.md)
 
 ---
 
