@@ -1,7 +1,7 @@
 ---
 title: Being indistractable is superpower
 created: 2025-01-23T18:40:57
-modified: 2025-12-05T05:21:02
+modified: 2025-12-10T10:13:39
 ---
 
 Being indistractable is about doing what you say you’re going to do.
@@ -54,7 +54,7 @@ Distraction isn’t a character flaw—it’s an [impulse control](emotion-contr
 
 # Pro Tip: Distract The Distraction
 
-Use subtle cues to let people know when they shouldn’t interrupt your focus. These cues communicate, without confrontation, that you’re engaged in [deep work](deep-work.md) and shouldn’t be disturbed.
+Use subtle cues to let people know when they shouldn’t [interrupt](the-cost-of-interrupted-work.md) your focus. These cues communicate, without confrontation, that you’re engaged in [deep work](deep-work.md) and shouldn’t be disturbed.
 
 For example:
 
