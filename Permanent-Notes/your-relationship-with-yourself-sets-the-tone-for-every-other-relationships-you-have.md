@@ -1,7 +1,7 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
 created: 2024-11-18T09:18:12
-modified: 2025-12-05T15:08:39
+modified: 2025-12-09T17:34:44
 ---
 
 > _“Your relationship with yourself sets the tone for every other relationship you have.” — Robert Holden_
@@ -45,6 +45,8 @@ The internal golden rule: treat yourself the way others should have treated you.
 People respect you, only as much as you respect yourself. Others treat you the way you treat yourself.
 
 ---
+
+# The “Body Swap” Reframe
 
 If you switched bodies with the person you love most for a year, how would you take care of their mind & body knowing you’d be giving it back to them? How would you take care of that person you love the most? Now do that for you.
 
