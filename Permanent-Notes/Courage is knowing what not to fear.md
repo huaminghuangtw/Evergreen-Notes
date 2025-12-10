@@ -1,7 +1,7 @@
 ---
 title: Courage is knowing what not to fear
 created: 2025-04-11T19:02:45
-modified: 2025-10-28T08:36:20
+modified: 2025-12-10T13:45:16
 ---
 
 > _[“Success is not final, failure is not fatal: it is the courage to continue that counts.” — Winston Churchill](https://www.youtube.com/watch?v=uuxMZL6ieWM)_
@@ -29,6 +29,8 @@ modified: 2025-10-28T08:36:20
 > _“A coward dies a thousand times before his death; but the valiant taste of death but once.” — Julius Caesar_ [^1]
 
 > _“Bravery does not mean the absence of fear. Bravery is learning to continue forward even when you’re terrified.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+
+> _“Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day whispering, ‘I will try again tomorrow.’” — Mary Anne Radmacher_
 
 ---
 
