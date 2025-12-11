@@ -1,7 +1,7 @@
 ---
 title: The most productive people prioritize intentional rest
 created: 2024-11-18T09:18:12
-modified: 2025-12-10T15:30:04
+modified: 2025-12-11T06:58:12
 ---
 
 > _“Rest until you feel like playing, then play until you feel like resting.” — Martha Beck_
@@ -38,7 +38,7 @@ There’s a simple formula for identifying the highest leverage relaxation for y
 
 ⭐️ Stop treating rest as a reward and start treating it as a critical/essential part of your high performance routine.
 
-* Rest is not a reward for [hard work](Work%20hard.md); it’s a requirement for it.
+* Rest is not a reward for [hard work](work-hard.md); it’s a requirement for it.
 * Breaks aren’t a special treat. They’re an absolute necessity.
 * Reframe “wasted time” as rest time. Replace the label “relaxing” or “relaxation” with “recovery,” so you don’t view it as wasted time. Think of _relaxing_ as _recovery_ because it very much is.
 * To achieve peak performance, master the art of deliberate/strategic rest.
