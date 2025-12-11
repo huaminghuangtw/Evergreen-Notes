@@ -1,7 +1,7 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2025-12-05T17:13:41
+modified: 2025-12-11T07:03:23
 ---
 
 > _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
@@ -135,9 +135,9 @@ Reasonable \> Rational
 * 我發現，把錢花在那些很快就消失/一下子就消耗掉/轉瞬即逝的東西上，會讓自己有種受騙的感覺。
 * [Consider spending money as a failure of imagination; a failure to solve problems by smarter means.](https://www.getrichslowly.org/early-retirement-extreme/)
 	* [Your need for money is inversely related to your level of skill. Money buys convenience but more importantly, it compensates for lack of skill.](https://earlyretirementextreme.com/why-so-few-succeed.html)
-* Money can buy happiness_, but in an indirect way._ It’s not money itself that makes you happier. It’s the thing acquired by money that actually makes you happy.
+* [Money can buy happiness_, but in an indirect way._](https://huami.ng/morgan-housel-understand-and-apply-the-psychology-of-money-to-gain-greater-happiness) It’s not money itself that makes you happier. It’s the thing acquired by money that actually makes you happy.
 
-	> _“Money absolutely can buy happiness. It’s often though an indirect path. A big fancy house? Maybe. But what really makes you happy is hosting friends and family there. A nice vacation? Sure. But it’s the memories you form with your loved ones that matter. So you can’t say money doesn’t make people happy—it does, just not in the way you might think.” — Morgan Housel_
+	> _“Those who say that money can’t buy happiness, never had any.” — Samuel L. Jackson_
 
 * Spending can be a representation of how hard you’ve worked and how much stress went into earning your pay check.
 * [“Nothing you will do in your lifetime, realistically, will waste more money than buying a new car. It’s the single worst financial decision millennials will ever make.”](https://www.reddit.com/r/Frugal/comments/9wfs73/selfmade_millionaire_buying_a_new_car_is_the/)
