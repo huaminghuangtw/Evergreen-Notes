@@ -1,16 +1,32 @@
 ---
 title: Specific Knowledge
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-12-11T06:58:00
 ---
 
-* It is found by pursuing your genuine [curiosity](stay-curious.md) on [multiple skillsets](specialization-is-for-insects.md).
-	* It’s hard to become the top 1% in any field, but it’s a lot easier to _combine/stack two (or more) skills_ where you’re in the top 25% of each.
-	* [Diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns) suggest that you don’t need to excel in every foundational skill; you just need to reach a sufficient level of competence in each one.
-* [It should feel like _play_ to you, but _work_ for others.](https://x.com/naval/status/1337144251403014144)
-	* There is an enormous difference between [working hard](Work%20hard.md) on something that is a grind and working hard on something that comes easily to you. Exceptional results almost exclusively happen when you work hard on an area where you have some natural aptitude. Play to your strengths.
-* It can be taught (hence, ≠ Unique Knowledge), but only through [apprenticeship](https://en.wikipedia.org/wiki/Cognitive_apprenticeship) (e.g., on-the-job training), [not in schools](true-education-begins-where-school-ends.md).
-* It is something society cannot yet easily train other people to do (hard to replicate).
+It is found by pursuing your genuine [curiosity](stay-curious.md) on [multiple skillsets](specialization-is-for-insects.md).
+
+* It’s hard to become the top 1% in any field, but it’s a lot easier to _combine/stack two (or more) skills_ where you’re in the top 25% of each.
+* [Diminishing returns](the-law-of-diminishing-returns.md) suggest that you don’t need to excel in every foundational skill; you just need to reach a sufficient level of competence in each one.
+
+---
+
+It can be taught (hence, ≠ Unique Knowledge), but only through [apprenticeship](https://en.wikipedia.org/wiki/Cognitive_apprenticeship) (e.g., on-the-job training), [not in schools](true-education-begins-where-school-ends.md).
+
+---
+
+It is something society cannot yet easily train other people to do (hard to replicate).
+
+---
+
+[It should feel like _play_ to you, but _work_ for others.](https://x.com/naval/status/1337144251403014144)
+
+> _“Enthusiasm is the great hill-climber.” — Elbert Hubbard_
+
+> _[“One way to instantly gain a competitive edge is to work on things that genuinely interest you. The person who is having fun has a better chance of winning because they are more likely to stick with it when things get challenging. If it felt like a hassle from the start, you’re likely to quit as soon as things get tough. But if you’ve been having fun the whole time, you’re better positioned to work through the hard parts.” — James Clear](https://jamesclear.com/3-2-1/november-13-2025)_
+
+* There is an enormous difference between [working hard](work-hard.md) on something that is a grind and working hard on something that comes easily to you. Exceptional results almost exclusively happen when you work hard on an area where you have some natural aptitude. Play to your strengths.
+* You can’t compete with someone who is having fun.
 * [Find your “unfair competitive advantages”](leverage.md): 清楚知道自己的強項與天賦 [^1]，把興趣變成自己的優勢。
 
 ---
