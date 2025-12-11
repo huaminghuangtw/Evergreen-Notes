@@ -1,10 +1,12 @@
 ---
 title: Skepticism
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-12-11T08:22:30
 ---
 
 = radical doubt = 懷疑論
+
+---
 
 By Derek Sivers
 
