@@ -1,7 +1,7 @@
 ---
 title: The Game of Life
 created: 2024-11-18T09:18:12
-modified: 2025-12-02T06:53:45
+modified: 2025-12-11T06:39:34
 ---
 
 > _[The reason to play the game is to be free of it.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)_
@@ -18,16 +18,17 @@ modified: 2025-12-02T06:53:45
 
 ---
 
-|                              Finite Game (有限賽局)                               |                                Infinite Game (無限賽局)                                |
-| :---------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
-|                          is short-term, soon-ending                           |                             is long-term, never-ending                             |
-| = Zero-Sum Game (零和遊戲) = Multi-Player Game = Status Game [^1]  | = Positive-Sum Game (正和遊戲) [^2] = Single-Player Game = Wealth Game |
-|    You win by avoiding errors and waiting for your opponent to make errors    |                    You win by hitting incredible/elegant shots                     |
-|                          The goal is to win the game                          |            The goal is to stay in the game and continue playing forever            |
-|                             打敗多少人? (Competition)                              |                            幫助多少人? (Collaboration) [^3]                             |
-| Either WIN or LOSE<br>(Any gain corresponds directly with an equivalent loss) |                                      WIN-WIN                                       |
-|                            Fixed/Scarcity Mindset                             |                 [Growth/Abundance Mindset](the-growth-mindset.md)                  |
-|                              有限賽局的玩家是為了防止未來改變過去                               |                                 無限賽局的玩家是為了讓未來改變過去                                  |
+|                              Finite Game (有限賽局)                               |                            Infinite Game (無限賽局)                             |
+| :---------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
+|                          is short-term, soon-ending                           |                         is long-term, never-ending                          |
+|         = Zero-Sum Game (零和遊戲) = Multi-Player Game = Status Game [^1]         |     = Positive-Sum Game (正和遊戲) [^2] = Single-Player Game = Wealth Game      |
+|    You win by avoiding errors and waiting for your opponent to make errors    |                 You win by hitting incredible/elegant shots                 |
+|                          The goal is to win the game                          |        The goal is to stay in the game and continue playing forever         |
+|                             打敗多少人? (Competition)                              |                         幫助多少人? (Collaboration) [^3]                         |
+| Either WIN or LOSE<br>(Any gain corresponds directly with an equivalent loss) | WIN-WIN（互通有無、互利共生 ([symbiosis](https://www.google.com/search?q=symbiosis))） |
+|                           Egoism (Selfishness) 利己主義                           |                                Altruism 利他主義                                |
+|                            Fixed/Scarcity Mindset                             |              [Growth/Abundance Mindset](the-growth-mindset.md)              |
+|                              有限賽局的玩家是為了防止未來改變過去                               |                              無限賽局的玩家是為了讓未來改變過去                              |
 
 ---
 
