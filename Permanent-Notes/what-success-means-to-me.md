@@ -1,7 +1,7 @@
 ---
 title: What Success Means To Me
 created: 2024-11-18T09:18:12
-modified: 2025-12-05T15:08:45
+modified: 2025-12-11T12:33:17
 ---
 
 > _“The road to success is always under construction.” — Steve Harvey_
@@ -33,6 +33,8 @@ modified: 2025-12-05T15:08:45
 > _“Success isn’t about how your life looks to others. It’s about how it feels to you.” — Michelle Obama_
 
 > _[“The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.” — Vince Lombardi](https://www.goodreads.com/quotes/93874-the-difference-between-a-successful-person-and-others-is-not)_
+
+> _“Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.” — Tony Robbins_
 
 ---
 
@@ -84,7 +86,7 @@ modified: 2025-12-05T15:08:45
 * The true rich men grow wealth that can’t be stolen.
 * The true rich men live simply so others may simply live.
 * The true rich men die empty, not full.
-* The true rich men have gratitude as their currency.
+* The true rich men have [gratitude](be-grateful.md) as their currency.
 * The true rich men surround themselves with people they love, not things they own.
 * The true rich men make peace with less.
 
