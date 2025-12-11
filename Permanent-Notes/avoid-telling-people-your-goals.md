@@ -1,14 +1,14 @@
 ---
 title: Avoid telling people your goals
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:27
+modified: 2025-12-11T06:58:12
 ---
 
 > _“If you start by promising what you don’t even have yet, you’ll lose your desire to work towards getting it.” — Paulo Coelho_
 
 > _“You are what you do, not what you say you’ll do.” — Carl Jung_
 
-> “[Work hard](Work%20hard.md) in silence. Let your work make the noise.”
+> “[Work hard](work-hard.md) in silence. Let your work make the noise.”
 
 ---
 
