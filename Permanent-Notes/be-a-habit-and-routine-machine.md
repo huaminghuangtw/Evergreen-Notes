@@ -1,7 +1,7 @@
 ---
 title: Be a habit and routine machine
 created: 2024-11-18T09:18:12
-modified: 2025-11-25T20:19:28
+modified: 2025-12-11T06:13:42
 ---
 
 > _“Outer order contributes to inner calm.” — Gretchen Rubin_
@@ -44,13 +44,15 @@ A single habit or lifestyle change that has an _outsized impact_ on everything e
 
 ---
 
+> _“Dreams are built on discipline; discipline is built on habits; habits are built on training. And training takes place in every single second and every situation of your life.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+
 Intention → Action → Practice → Consistency → **Habit** → Simply Who You Are
 
 ---
 
 # [The 95% Compliance Rule by Sahil Bloom](https://x.com/SahilBloom/status/1832407335303835752)
 
-Focus on 95% compliance with any routine. It’s high enough to get the benefits of the structure, but leaves room for the 5% chaos where a lot of incredible memories are made.
+Focus on 95% compliance with any routine. It’s high enough to get the benefits of the structure, but leaves room (unstructured times) for the 5% chaos where a lot of incredible memories are made.
 
 More often than not (= usually)
 
@@ -58,26 +60,35 @@ More often than not (= usually)
 
 # Types of Habits
 
-* **Keystone Habits** [@duhiggPowerHabitWhy2014]
-	* Habits that…
-		* set off a chain reaction that extends to all aspects of a person’s life
-		* lead to a cascade of other habits that are much easier to accomplish
-		* act as an anchor, grounding your boat to the ocean floor so it doesn’t get pulled out to sea during a tumultuous storm
-	* 建立一個核心習慣，自然帶動其他好行為
-		* 例如：每天運動 → 睡得更好 → 飲食更健康
-	* [「上游習慣」會順水推舟「下游習慣」](https://podcasts.apple.com/de/podcast/%E9%9B%BB%E6%89%B6%E6%A2%AF%E8%B5%B0%E5%B7%A6%E9%82%8A-with-jacky-left-side-escalator/id1544225078?i=1000679697289)
-* **[Bookend Habits](always-start-and-end-the-day-right.md)**
-	* Habits that tightly structure the beginning and ending of your day
-		* AM Bookend: The morning ritual that primes you for _productivity_
-		* PM Bookend: The evening ritual that primes you for _recovery_
-	* Analogy
-		* Books on a shelf will topple over if you don’t give them support. Bookends provide structure on either end to keep the books in their best state! The contents of your days are like a set of books. You can never predict what will happen during the course of a day. Some days will have you toppling left, and other days you’ll topple right. But by creating your own set of “bookends”, you set up yourself to be better supported and show up at your best every day.
-	* Create a [positive ripple effect](the-compounding-effect.md) and help set the tone for a smooth and productive day.
-* **Micro Habits**
-	* Habit that are small, often subtle actions that occur almost unconsciously, yet they have the potential to significantly influence our state of mind.
-	* They happen at a moment called “The Point of Contact”
+## Keystone Habits*
+
+[@duhiggPowerHabitWhy2014]
+
+* Habits that…
+	* set off a chain reaction that extends to all aspects of a person’s life
+	* lead to a cascade of other habits that are much easier to accomplish
+	* act as an anchor, grounding your boat to the ocean floor so it doesn’t get pulled out to sea during a tumultuous storm
+* 建立一個核心習慣，自然帶動其他好行為
+	* 例如：每天運動 → 睡得更好 → 飲食更健康
+* 「上游習慣」會順水推舟「下游習慣」
+
+## [Bookend Habits](always-start-and-end-the-day-right.md)
+
+* Habits that tightly structure the beginning and ending of your day
+	* AM Bookend: The morning ritual that primes you for _productivity_
+	* PM Bookend: The evening ritual that primes you for _recovery_
+* Analogy
+	* Books on a shelf will topple over if you don’t give them support. Bookends provide structure on either end to keep the books in their best state! The contents of your days are like a set of books. You can never predict what will happen during the course of a day. Some days will have you toppling left, and other days you’ll topple right. But by creating your own set of “bookends”, you set up yourself to be better supported and show up at your best every day.
+* Create a [positive ripple effect](the-compounding-effect.md) and help set the tone for a smooth and productive day.
+
+## Micro Habits
+
+* Habit that are small, often subtle actions that occur almost unconsciously, yet they have the potential to significantly influence our state of mind.
+* They happen at a moment called “The Point of Contact”.
 
 ---
+
+# On Good & Bad Habits
 
 [Good habits are hard to form, but easy to live with. Bad habits are easy to form, but hard to live with.](https://youtu.be/5J6jAC6XxAI)
 
@@ -91,7 +102,7 @@ More often than not (= usually)
 
 # Building Good Habits
 
-> Philosophy: Everyday is easier than someday.
+**Philosophy: Everyday is easier than someday.**
 
 > _“If you have good habits, time becomes your ally. All you need is patience.” — James Clear_
 
@@ -101,33 +112,27 @@ Good habits have a “blast radius” — Those around you are watching. Be a li
 
 When determining the size or complexity of a new habit ask yourself: **“What can I stick to—even on my worst day?”** Start there. Master the art of showing up. Then advance.
 
-Have “Accountability Partners”
-
-* Or: [Public Commitment Pledge](https://sketchplanations.com/public-commitment-pledge)
+Have “Accountability Partners” [^2]
 
 ---
 
 # Breaking/Replacing Bad Habits
 
-> Philosophy: None is better than sum.
+**Philosophy: None is better than sum.**
 
-There are 3 ways to break a bad habit.
+There are 3 ways to break a bad habit:
 
 1. Eliminate it entirely.
 2. Reduce it.
-3. Substitute it. [^2]
-
----
+3. Substitute it. [^3]
 
 Golden Rule: Don’t resist craving, redirect it; keeping the cue and the reward and just replacing the routine.
 
----
-
 “Cold turkey” refers to suddenly and completely stopping a habit or addiction, especially something like smoking, drinking, or drug use, _without tapering off (gradual quitting) or using substitutes._ It’s often used when someone decides to quit abruptly, with no gradual reduction or medical aid.
 
-	The phrase can also be used metaphorically, like: **“I went cold turkey on social media.”** Meaning the person quit all at once.
-
-	Quitting cold turkey can be effective but also intense, often leading to withdrawal symptoms depending on what’s being quit.
+* The phrase can also be used metaphorically, like: **“I went cold turkey on social media.”** Meaning the person quit all at once.
+* Quitting cold turkey can be effective but also intense, often leading to withdrawal symptoms (戒斷症狀) depending on what’s being quit.
 
 [^1]: See also: [William James on Habit](https://fs.blog/william-james-on-habit/)
-[^2]: Most people overlook this one. (Mostly neglected)
+[^2]: Or: [Public Commitment Pledge](https://sketchplanations.com/public-commitment-pledge)
+[^3]: Most people overlook this one. (Mostly neglected)
