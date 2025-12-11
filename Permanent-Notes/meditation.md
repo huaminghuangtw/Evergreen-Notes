@@ -1,7 +1,7 @@
 ---
 title: Meditation
 created: 2024-11-18T09:18:12
-modified: 2025-12-06T07:50:54
+modified: 2025-12-11T06:52:55
 ---
 
 > _“Meditation is all about the pursuit of nothingness. It’s like the ultimate rest. It’s better than the best sleep you’ve ever had. It’s a quieting of the mind. It sharpens everything, especially your appreciation of your surroundings. It keeps life fresh.” — Hugh Jackman_
@@ -46,7 +46,7 @@ Hiking is walking meditation.
 
 Journaling is writing meditation.
 
-Praying is gratitude meditation.
+Praying is [gratitude](be-grateful.md) meditation.
 
 Showering is accidental meditation.
 
