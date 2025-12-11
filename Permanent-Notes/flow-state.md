@@ -1,7 +1,7 @@
 ---
 title: Flow State
 created: 2025-01-23T18:40:57
-modified: 2025-12-10T08:15:26
+modified: 2025-12-11T18:06:28
 ---
 
 You’re in “the zone.” ( like _[one-buttock playing](https://sketchplanations.com/one-buttock-playing)_)
@@ -33,7 +33,7 @@ Flow is [a state of optimal experience](https://www.flowresearchcollective.com/a
 
 ![](../_attachments/0e5c14fe315346a07f71429188490d34.png)
 
-![](Pasted%20image%2020251210081525.png)
+![](434d2c1c4288416ded92570da0a9ec50.png)
 
 ---
 
