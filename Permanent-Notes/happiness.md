@@ -1,7 +1,7 @@
 ---
 title: Happiness
 created: 2024-11-18T09:18:12
-modified: 2025-11-27T05:58:58
+modified: 2025-12-11T06:52:07
 ---
 
 > _“Happiness is a state where nothing is missing.” — Naval Ravikant_
@@ -73,13 +73,15 @@ Happiness
 
 > _“Happiness is not something ready made. It comes from your own actions.” — Dalai Lama_
 
-= [Agency](cultivate-a-strong-bias-towards-action.md) + Gratitude
+= [Agency](cultivate-a-strong-bias-towards-action.md) + [Gratitude](be-grateful.md) [^3]
 
 = [Reality - Expectations](the-absence-of-desire-is-true-happiness.md) [^1]
 
 = Do what you love + Live where you like + Be with who you love
 
 ---
+
+#TODO 
 
 [#226 ‒ The science of happiness | Arthur Brooks, Ph.D. - Peter Attia (peterattiamd.com)](https://peterattiamd.com/arthurbrooks/)
 
@@ -137,8 +139,8 @@ The ability to think about what is not happening in a moment is a cognitive achi
 
 * 幸福罐
 	* 把日常遇到開心的大小事寫在色彩繽紛的小紙條上，放進一個玻璃罐內
-* 感恩
-	* “今天我還活著”
+* [感恩](be-grateful.md)
+	* 「今天我還活著。」
 * Assurance
 	* “It will all be okay.”
 * [祝福](Loving%20Kindness%20Meditation.md)
@@ -183,3 +185,4 @@ Simple story on “Happiness is found through service of others.”
 
 [^1]: Satisfaction = What you have - What you want. [Lowering desires/expectations](the-absence-of-desire-is-true-happiness.md) can increase satisfaction.
 [^2]: [How to Instantly Feel Better?](https://sketchplanations.com/how-to-instantly-feel-better)
+[^3]: [Dr. Paul Conti presented that the most salient 2 variables associated with mental health are **agency** and **gratitude**.](https://www.youtube.com/watch?v=tLRCS48Ens4&t=11m15s)
