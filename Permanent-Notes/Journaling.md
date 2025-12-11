@@ -1,7 +1,7 @@
 ---
 title: Journaling
 created: 2024-11-18T09:18:12
-modified: 2025-12-03T13:43:37
+modified: 2025-12-11T06:52:40
 ---
 
 > _“Create an environment where you’re free to express what you’re afraid to express.” — Rick Rubin_
@@ -98,7 +98,7 @@ E.g., feelings, emotions, thoughts, memories, special moments/occasions/events
 * Atomic/Incremental Journaling
 	* Jog down keywords anytime and anywhere throughout the day, rather than sit down to write in complete sentences at a specific time each day.
 * [The Five Minute Journal](https://www.intelligentchange.com/products/the-five-minute-journal)
-* Gratitude Journaling (感恩日記)
+* [Gratitude](be-grateful.md) Journaling (感恩日記)
 
 [^1]: Memory is everything. You’re doing this for your future self. Future You will want to look back at this time in your life, and find out what you were actually doing, day-to-day, and how you really felt back then. It will help you [make better decisions](https://fs.blog/decision-journal/). Future You will thank Today You.
 [^2]: Or: 工作日誌（Worklog）
