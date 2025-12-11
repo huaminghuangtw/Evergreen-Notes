@@ -1,12 +1,14 @@
 ---
 title: The Growth Mindset
 created: 2024-11-18T09:18:12
-modified: 2025-11-29T11:34:06
+modified: 2025-12-11T12:34:21
 ---
 
 [@dweckMindsetNewPsychology2008]
 
 > _“True self-confidence is “the courage to be open—to welcome change and new ideas regardless of their source.” Real self-confidence is not reflected in a title, an expensive suit, a fancy car, or a series of acquisitions. It is reflected in your mindset: your readiness to grow.” ― Carol S. Dweck, Mindset: The New Psychology of Success_
+
+> _“Each problem that I solved became a rule which served afterwards to solve other problems.” — René Descartes_
 
 ---
 
@@ -20,11 +22,13 @@ modified: 2025-11-29T11:34:06
 
 持續修正，不斷嘗試、試錯，重點是 [積少成多、聚沙成塔](the-compounding-effect.md)、一次比一次更好的迭代/堆疊 [過程](journey-over-destination.md) (like interval workouts)。
 
+---
+
 [摸石頭過河](https://www.google.com/search?q=摸石頭過河)（Crossing the river by touching the stones）
 
 ---
 
-駭客精神：好還要更好!
+駭客精神：好還要更好！
 
 ---
 
