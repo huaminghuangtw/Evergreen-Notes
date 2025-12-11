@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2025-12-09T08:14:54
+modified: 2025-12-11T16:44:48
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
@@ -194,3 +194,7 @@ In the context of our example: _I will embody the state of being of a fulfilled 
 ---
 
 If you’re 37, don’t regret not waking up at 18 again. Instead, imagine you’re 90 and have just woken up at 37—gifted with another 50 years to live.
+
+---
+
+“[Mens sana in corpore sano](https://www.google.com/search?q=Mens+sana+in+corpore+sano)” is a Latin phrase that translates to “a healthy mind in a healthy body.”
