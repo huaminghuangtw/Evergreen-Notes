@@ -1,7 +1,7 @@
 ---
 title: Two Types of Work
 created: 2024-12-12T21:39:10
-modified: 2025-11-20T05:15:17
+modified: 2025-12-12T05:30:34
 ---
 
 > _[More generally, tasks that require little concentration seem to be best done in batches if possible, while tasks that require a lot of concentration seem to be best done individually, with as few distractions as one can manage.](https://terrytao.wordpress.com/2008/08/07/on-time-management/)_
@@ -23,7 +23,7 @@ modified: 2025-11-20T05:15:17
 
 * ≈ shallow work ≈ fake/pseudo work ≈ low-value work ≈ light work
 * Things we have to do to _maintain_ our life (i.e., status quo)
-* e.g., administrative, logistical, and maintenance tasks, [checking messages&emails](Batching%20Emails%20and%20Text%20Messages.md), household chores, meal preparation, etc.
+* e.g., administrative, logistical, and maintenance tasks, [checking messages&emails](Batching%20Emails%20and%20Text%20Messages.md), household chores, meal preparation, etc. [^3]
 * Better done in “[multi-tasking (多工)](temptation-bundling.md)” mode [^1] [^2]
 
 ---
@@ -32,3 +32,4 @@ It’s crucial to schedule time for both types of work to keep life in order. Th
 
 [^1]: See also: [The Maintenance Day](The%20Maintenance%20Day.md)
 [^2]: Multitasking isn’t always bad — you just have to make sure the conditions are right.
+[^3]: 日文 [Mendokusai](https://ippoippojapanese.co.uk/blog-word-of-the-week-mendokusai/)：形容不想做一件事，卻又必須去做的情況（annoying, but unavoidable）。
