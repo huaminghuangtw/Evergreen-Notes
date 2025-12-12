@@ -1,7 +1,7 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-12-05T15:08:05
+modified: 2025-12-12T07:11:54
 ---
 
 > _“Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot_
@@ -15,6 +15,8 @@ modified: 2025-12-05T15:08:05
 > _“It always seems impossible until it’s done.” — Nelson Mandela_
 
 > _“Reality leaves a lot to the imagination.” — John Lennon_
+
+[@hillThinkGrowRich2021]
 
 > _“What the mind can conceive, it can achieve.” — Napoleon Hill_
 
@@ -30,13 +32,11 @@ modified: 2025-12-05T15:08:05
 
 > _“If you hear a voice within you say ‘you cannot paint,’ then by all means paint and that voice will be silenced.” — Vincent Van Gogh_
 
-> _["The people who are crazy enough to think they can change the world are the ones that do." — Steve Jobs](https://www.goodreads.com/quotes/9859550-the-people-who-are-crazy-enough-to-think-they-can)_
+> _[The people who are crazy enough to think they can change the world are the ones that do.” — Steve Jobs](https://www.goodreads.com/quotes/9859550-the-people-who-are-crazy-enough-to-think-they-can)_
 
-> _Stop allowing your mind to be a slave, to be jerked about by selfish impulses, to kick against fate and the present, and to mistrust the future. — [@markaurelMeditations2006]_
+> _Stop allowing your mind to be a slave, to be jerked about by selfish impulses, to kick against fate and the present, and to mistrust the future. — [@markaurelMeditations2006]_ [^2]
 
 > _“Live and act within the limit of your knowledge and keep expanding it to the limit of your life.” — Ayn Rand_
-
-> _“Whatever the mind can conceive and believe, it can achieve.” — [@hillThinkGrowRich2021]_
 
 > _“You cannot swim for new horizons until you have courage to lose sight of the shore.” — William Faulkner_
 
@@ -50,7 +50,7 @@ modified: 2025-12-05T15:08:05
 
 > _“Pain is neither unbearable nor unending, as long as you keep in mind its limits and don’t magnify them in your imagination.” — [@markaurelMeditations2006]_
 
-> _["Believe in your infinite potential. Your only limitations are those you set upon yourself." — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7721794-believe-in-your-infinite-potential-your-only-limitations-are-those)_
+> _[“Believe in your infinite potential. Your only limitations are those you set upon yourself.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7721794-believe-in-your-infinite-potential-your-only-limitations-are-those)_
 
 > _“You are in danger of living a life so comfortable and soft, that you will die without ever realizing your true potential.” — [@gogginsCantHurtMe2018]_
 
@@ -62,7 +62,7 @@ modified: 2025-12-05T15:08:05
 
 > _[“Shoot for the moon. Even if you miss, you’ll land among the stars.” — Norman Vincent Peale](https://www.goodreads.com/quotes/4324-shoot-for-the-moon-even-if-you-miss-you-ll-land)_
 
-> _[“Most of what constrains us are invisible to us. This is why we have things called ’limiting beliefs.' Sometimes you need someone from the outside to point it out, and the humility to listen.” — Alex Hormozi](https://www.linkedin.com/posts/alexhormozi_10-truths-i-live-by-1-skills-stack-on-activity-7057390440928432128-SgO9/)_
+> _[“Most of what constrains us are invisible to us. This is why we have things called ‘limiting beliefs.’ Sometimes you need someone from the outside to point it out, and the humility to listen.” — Alex Hormozi](https://www.linkedin.com/posts/alexhormozi_10-truths-i-live-by-1-skills-stack-on-activity-7057390440928432128-SgO9/)_
 
 > _“Your dreams can take you much higher and much farther than anyone ever thought possible.” — Buzz Aldrin_
 
@@ -95,7 +95,7 @@ Self-imposed limits, Self-limiting beliefs/stories, Self-sabotaging behaviors, e
 >
 > “Well, when the elephants were very young, we used the same small rope, but at that age, it was strong enough to hold them. Now, even though they are much bigger, they still believe the rope can hold them, so they never try to break it.”
 
-[The Streetlight Effect](The%20Streetlight%20Effect.md)
+[The Streetlight Effect](the-streetlight-effect.md)
 
 ---
 
@@ -141,7 +141,7 @@ If someone says: “That’s impossible. You should understand it as: “Accordi
 
 ---
 
-# Two Of The Biggest Impediments To Life Change
+# Two of The Biggest Impediments to Life Change
 
 * [Emotion](emotion-control.md): We’re all emotional creatures. We’re so close to everything in our own lives that it’s often hard to remove emotions from our decisions.
 * [Inaction](cultivate-a-strong-bias-towards-action.md): It’s always easier to maintain the [status quo](the-present-bias.md) than taking action. It’s a constant internal battle with yourself especially when inaction appears to be less risky and painful. Yet, when you examine the worst-case scenario, it isn’t as scary as you imagined. In fact, the greatest risk lies in doing nothing at all—once you embrace taking risks, they become far less intimidating than they first seem.
@@ -222,3 +222,4 @@ As you move outside of your comfort zone, what was once the unknown and frighten
 [The Swing by Robert Louis Stevenson](the-swing-by-robert-louis-stevenson.md)
 
 [^1]: 3Ps: Personal, Pervasive, Permanent
+[^2]: 最盲目的服從乃是奴隸們所僅存的唯一美德。
