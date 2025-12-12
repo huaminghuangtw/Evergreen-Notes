@@ -1,7 +1,7 @@
 ---
 title: The Arrival Fallacy
 created: 2025-01-23T10:40:57
-modified: 2025-12-02T09:24:07
+modified: 2025-12-12T10:12:39
 ---
 
 > _“Arriving someplace more desirable at some future time is an illusion. This is it.” — Jon Kabat-Zinn_
@@ -37,6 +37,12 @@ Beware of destination addiction: The idea that happiness is in the next place, t
 ---
 
 「馬拉松後憂鬱症」— 因馬拉松賽事需要長時間的訓練與準備，讓跑者在賽前能夠有明確的目標及方向，然而，當比賽一結束，這種明確的目標感與方向感會突然消失，導致心理上的空虛及失落。
+
+---
+
+身份錯位（Identity Displacement/Dislocation/Disorder）
+
+[Your identity dictates your actions](your-identity-dictates-your-actions.md)
 
 ---
 
