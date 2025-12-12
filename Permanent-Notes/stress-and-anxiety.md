@@ -1,7 +1,7 @@
 ---
 title: Stress & Anxiety
 created: 2024-11-18T09:18:12
-modified: 2025-12-06T14:04:50
+modified: 2025-12-12T10:24:54
 ---
 
 > _“Stress happens when the mind resists what is.” — Dan Millman_
@@ -26,6 +26,8 @@ Root Cause: Having two conflicting internal [desires](the-absence-of-desire-is-t
 	* Desire 1: You want to grow, try something new, or break out of a rut.
 	* Desire 2: You fear uncertainty and prefer to stay in your comfort zone.
 	* Result: You feel stuck, restless, and anxious — wanting something different but afraid to take the leap.
+
+One of the ways to get through stress is to acknowledge that you actually have two conflicting desires and either resolve it, pick one and be okay losing the other, or decide later.
 
 ---
 
