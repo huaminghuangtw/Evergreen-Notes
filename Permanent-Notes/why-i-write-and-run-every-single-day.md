@@ -1,14 +1,18 @@
 ---
 title: Why I write and run every single day
 created: 2025-11-13T06:08:11
-modified: 2025-12-09T07:22:30
+modified: 2025-12-12T16:16:23
 ---
 
 > _“Energy is eternal delight.” — William Blake_
 
+I **ran** because it suited me—and **writing** because it did too: _introspective_, _solitary_, _habitual_.
+
 > _跑步，並非身體的鍛練，更像是心靈的靜修。_
 
 > _在長跑中，如果說有什麼必須戰勝的對手，那就是過去的自己。_
+
+https://www.soonnet.org/articleview?id=148109
 
 “It just feels good,” somebody might tell you. “It helps my mental health,” or “I can think more clearly.” People don’t just run because it is good for their physical body. People run because it can improve other parts of their life. Because it helps them feel better.
 
@@ -29,6 +33,10 @@ modified: 2025-12-09T07:22:30
 跑在路上的時候，我是獨居者，想要和周圍的世界結合。
 
 最初半小時，是為了我的身體；最後半小時，是為了我的靈魂。
+
+勞動是社會中每個人不可避免的義務，沒有勞動就不可能有正常人的生活。
+
+寫作與馬拉松其實很像，都需要持久的耐力、專注力以及持之以恆的毅力。
 
 越辛苦的事越值得細細品嚐；辛苦的生活才是我追求的生活。
 
