@@ -1,14 +1,14 @@
 ---
 title: Be ready to change your mind completely at any given time
 created: 2024-12-04T15:59:39
-modified: 2025-11-26T20:11:41
+modified: 2025-12-12T06:10:36
 ---
 
 > _[“Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won’t come in.” — Alan Alda](https://www.goodreads.com/quotes/667214-your-assumptions-are-your-windows-on-the-world-scrub-them)_
 
 > _“Our life always expresses the result of our dominant thoughts.” — Soren Kierkegaard_
 
-> _“On any given day, you may struggle with your habits because you’re too busy or too tired or too overwhelmed or hundreds of other reasons. Over the long run, the real reason you fail to stick with habits is that your self-image gets in the way. **This is why you can’t get too attached to one version of your identity. Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity.**” — [@clearAtomicHabitsEasy2018]_
+> _“On any given day, you may struggle with your habits because you’re too busy or too tired or too overwhelmed or hundreds of other reasons. Over the long run, the real reason you fail to stick with habits is that your self-image gets in the way. <mark>This is why you can’t get too attached to one version of your identity. Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity.</mark>” — [@clearAtomicHabitsEasy2018]_
 
 > _[“The more an idea is tied to your identity, the more you will ignore evidence it is false. People seem to have no trouble finding reasons to ignore the merits of ideas they dislike. To continue to grow and learn, you must be willing to update, expand, and edit your identity. In many ways, growth is unlearning.” — James Clear](https://jamesclear.com/3-2-1/november-14-2024)_
 
@@ -62,7 +62,7 @@ The only bad view is the one you’re stuck in.
 
 ---
 
-[The Streetlight Effect](The%20Streetlight%20Effect.md)
+[The Streetlight Effect](the-streetlight-effect.md)
 
 ---
 
