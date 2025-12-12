@@ -1,12 +1,12 @@
 ---
 title: Lateral Thinking
 created: 2024-11-18T09:16:49
-modified: 2025-12-05T05:21:20
+modified: 2025-12-12T06:32:10
 ---
 
 > _“The young man knows the rules, but the old man knows the exceptions.” — Oliver Wendell Holmes, Sr._
 
-> _“The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.” ― George Bernard Shaw_
+> _“The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.” ― George Bernard Shaw_
 
 ---
 
@@ -44,9 +44,9 @@ modified: 2025-12-05T05:21:20
 
 ---
 
-Simulating [Innovation](__temp__innovation.md) → Disruptive [Innovation](__temp__innovation.md) (by [Clayton Christensen](https://www.google.com/search?q=Clayton+Christensen))
+Simulating [Innovation](innovation.md) → Disruptive [Innovation](innovation.md) (by [Clayton Christensen](https://www.google.com/search?q=Clayton+Christensen))
 
-* 破壞式創新/顛覆性想法經常發生於集體盲點
+> 破壞式創新/顛覆性想法經常發生於集體盲點
 
 ---
 
@@ -54,7 +54,7 @@ Turn off filters. [Don’t be too conservative.](be-ready-to-change-your-mind-co
 
 ---
 
-反直覺式思考: Think differently. Think out of the box.
+反直覺式思考：Think differently. Think out of the box.
 
 ---
 
@@ -62,7 +62,9 @@ Reality is largely negotiable. If you stress-test the boundaries and experiment 
 
 ---
 
-The 3 Stages of Mastery: The Shu Ha Ri model from traditional Japanese martial arts
+# The 3 Stages of Mastery
+
+> The Shu Ha Ri model from traditional Japanese martial arts
 
 1. Shu (to obey): Learn to operate according to the rules.
 2. Ha (to break): Begin to challenge and adapt the rules.
