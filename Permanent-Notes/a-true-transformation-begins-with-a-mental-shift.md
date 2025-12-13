@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2025-12-11T16:44:48
+modified: 2025-12-13T08:30:12
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
@@ -96,7 +96,13 @@ No one can break iron, but its own rust can. Likewise, no one can break a person
 
 ---
 
-[The Law of Attraction](the-law-of-attraction.md)
+# 有志者事竟成
+
+> _Where there’s a will, there’s a way._
+
+> _“What the mind can conceive, it can achieve.” — Napoleon Hill_
+
+> _“If you can dream it, you can do it.” — Walt Disney_
 
 ---
 
@@ -198,3 +204,7 @@ If you’re 37, don’t regret not waking up at 18 again. Instead, imagine you�
 ---
 
 “[Mens sana in corpore sano](https://www.google.com/search?q=Mens+sana+in+corpore+sano)” is a Latin phrase that translates to “a healthy mind in a healthy body.”
+
+---
+
+[The Law of Attraction](the-law-of-attraction.md)
