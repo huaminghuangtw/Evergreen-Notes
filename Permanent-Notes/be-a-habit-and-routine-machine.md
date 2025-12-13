@@ -1,7 +1,7 @@
 ---
 title: Be a habit and routine machine
 created: 2024-11-18T09:18:12
-modified: 2025-12-11T06:13:42
+modified: 2025-12-13T07:34:46
 ---
 
 > _“Outer order contributes to inner calm.” — Gretchen Rubin_
@@ -88,7 +88,9 @@ More often than not (= usually)
 
 ---
 
-# On Good & Bad Habits
+# Habits are either the best of servants or the worst of masters.
+
+> 習慣，若不是最好的僕人，就是最壞的主人。
 
 [Good habits are hard to form, but easy to live with. Bad habits are easy to form, but hard to live with.](https://youtu.be/5J6jAC6XxAI)
 
