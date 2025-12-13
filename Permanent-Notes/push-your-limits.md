@@ -1,7 +1,7 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-12-12T07:11:54
+modified: 2025-12-13T08:28:31
 ---
 
 > _“Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot_
@@ -17,8 +17,6 @@ modified: 2025-12-12T07:11:54
 > _“Reality leaves a lot to the imagination.” — John Lennon_
 
 [@hillThinkGrowRich2021]
-
-> _“What the mind can conceive, it can achieve.” — Napoleon Hill_
 
 > _“Don’t do what you can do. Try what you can’t do.” — William Faulkner_
 
@@ -84,7 +82,7 @@ Self-imposed limits, Self-limiting beliefs/stories, Self-sabotaging behaviors, e
 
 # Examples
 
-1. 習得性無助（Learned Helplessness）[^1] 的狗
+1. 習得性無助（Learned Helplessness）[^3] 的狗
 2. 綁在木樁的小象
 
 > While walking through an elephant camp, a woman noticed that the elephants were only being secured by a small rope around one ankle.
@@ -221,5 +219,5 @@ As you move outside of your comfort zone, what was once the unknown and frighten
 
 [The Swing by Robert Louis Stevenson](the-swing-by-robert-louis-stevenson.md)
 
-[^1]: 3Ps: Personal, Pervasive, Permanent
 [^2]: 最盲目的服從乃是奴隸們所僅存的唯一美德。
+[^3]: 3Ps: Personal, Pervasive, Permanent
