@@ -1,10 +1,8 @@
 ---
 title: Do great work
 created: 2024-11-18T09:18:12
-modified: 2025-12-10T15:34:27
+modified: 2025-12-13T15:57:39
 ---
-
-> _“Good is the enemy of great.” — [@collinsGoodGreatWhy2001]_
 
 > _“To be great is to be misunderstood.” — Ralph Waldo Emerson_
 
