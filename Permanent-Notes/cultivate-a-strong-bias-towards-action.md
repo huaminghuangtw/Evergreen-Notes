@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2025-12-12T07:08:13
+modified: 2025-12-14T09:07:48
 ---
 
 > _“To be is to do.” — Immanuel Kant_
@@ -103,7 +103,7 @@ When people talk about traveling to the past, they worry about radically changin
 
 ---
 
-Remember: [The world is run by people no smarter than you.](https://www.swyx.io/no-smarter) Talent and intelligence are abundant. [Courage](Courage%20is%20knowing%20what%20not%20to%20fear.md) is not. The most successful people he’s met aren’t the smartest. They’re the ones who had the courage to act. They’re the ones who [stayed curious](stay-curious.md) long enough for compounding to kick in. [They aren’t more talented than you.](https://x.com/SahilBloom/status/1925539032261624157) They just took action when you didn’t.
+Remember: [The world is run by people no smarter than you.](https://www.swyx.io/no-smarter) Talent and intelligence are abundant. [Courage](courage-is-knowing-what-not-to-fear.md) is not. The most successful people he’s met aren’t the smartest. They’re the ones who had the courage to act. They’re the ones who [stayed curious](stay-curious.md) long enough for compounding to kick in. [They aren’t more talented than you.](https://x.com/SahilBloom/status/1925539032261624157) They just took action when you didn’t.
 
 ---
 
@@ -226,7 +226,7 @@ In contrast, the person who actually steps into the arena — who tries, fails, 
 Roosevelt’s deeper point is this:
 
 * Effort matters more than [perfection](perfectionism.md).
-* [Courage](Courage%20is%20knowing%20what%20not%20to%20fear.md) matters more than comfort.
+* [Courage](courage-is-knowing-what-not-to-fear.md) matters more than comfort.
 * Doing matters more than [judging](dispel-your-narratives.md).
 
 ---
