@@ -1,7 +1,7 @@
 ---
 title: Mentorship is dated, build a panel of advisors instead
 created: 2025-01-23T10:40:57
-modified: 2025-11-17T06:16:57
+modified: 2025-12-14T08:54:56
 ---
 
 ![](../_attachments/1abb6f103b7cbb0ab268cd7901aa80bb.jpg)
@@ -37,7 +37,7 @@ modified: 2025-11-17T06:16:57
 
 ---
 
-[Lateral Thinking](Lateral%20Thinking.md)
+[Lateral Thinking](lateral-thinking.md)
 
 ---
 
