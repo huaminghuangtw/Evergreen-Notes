@@ -1,7 +1,7 @@
 ---
 title: Starting from scratch isn’t failure, it’s the beginning of something new
 created: 2025-10-28T07:06:19
-modified: 2025-10-28T07:07:03
+modified: 2025-12-14T09:07:48
 ---
 
 > _“Starting from scratch isn’t failure; it’s the beginning of something new.”_
@@ -14,4 +14,4 @@ modified: 2025-10-28T07:07:03
 
 ---
 
-要懷抱「捲土重來」的勇氣，展現「無所畏懼」的 [膽識](Courage%20is%20knowing%20what%20not%20to%20fear.md)。
+要懷抱「捲土重來」的勇氣，展現「無所畏懼」的 [膽識](courage-is-knowing-what-not-to-fear.md)。
