@@ -1,7 +1,7 @@
 ---
 title: The Art of Quitting
 created: 2024-11-18T09:18:12
-modified: 2025-11-26T08:21:25
+modified: 2025-12-14T09:07:48
 ---
 
 > _“I am as proud of what we don’t do as I am of what we do.” — Steve Jobs_
@@ -67,7 +67,7 @@ In life, it’s not only about the [perseverance](every-single-day-chop-wood-car
 
 ---
 
-Quitting isn’t giving up. Quitting is for winners. Quitting can be the smartest, most [courageous](Courage%20is%20knowing%20what%20not%20to%20fear.md) move.
+Quitting isn’t giving up. Quitting is for winners. Quitting can be the smartest, most [courageous](courage-is-knowing-what-not-to-fear.md) move.
 
 * 決定放棄與否的同時，也在決定堅持與否
 * 放棄是決定去選其他東西
