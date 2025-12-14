@@ -1,7 +1,7 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2025-12-12T12:47:41
+modified: 2025-12-14T09:10:12
 ---
 
 > _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
@@ -28,13 +28,7 @@ modified: 2025-12-12T12:47:41
 
 > _“We must all suffer from one of two pains: the pain of [discipline](discipline-equals-freedom.md) or the pain of regret. The difference is [discipline](discipline-equals-freedom.md) weighs ounces while regret weighs tons.” — Jim Rohn_
 
-> _“Growth is painful. Change is painful. But nothing is as painful as staying stuck somewhere you don’t belong.” — Mandy Hale_
-
 > _“Who you are is defined by what you’re willing to struggle for.” — Mark Manson_
-
-> _“Veni nec recedam”_
->
-> 我來此，我不退卻。
 
 ---
 
