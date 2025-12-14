@@ -1,7 +1,7 @@
 ---
 title: Walk
 created: 2024-11-18T09:16:50
-modified: 2025-11-20T18:10:26
+modified: 2025-12-14T08:54:56
 ---
 
 > _“A walk in nature walks the soul back home.” — Mary Davis_
@@ -45,7 +45,7 @@ Goal: 8000–10000 steps per day
 * generates [optic flow](optic-flow.md)
 * lowers activity in the [amygdala](amygdala.md), thereby reducing levels of [stress and anxiety](stress-and-anxiety.md)
 * leads to focused alertness
-* opens up the free flow of creative ideas — a thought process called [Divergent Thinking](Lateral%20Thinking.md)
+* opens up the free flow of creative ideas — a thought process called [Divergent Thinking](lateral-thinking.md)
 
 # How To Get More Daily Walking Steps In?
 
