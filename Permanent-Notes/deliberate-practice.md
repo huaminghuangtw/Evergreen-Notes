@@ -1,7 +1,7 @@
 ---
 title: Deliberate Practice
 created: 2025-01-23T10:40:57
-modified: 2025-11-17T06:18:54
+modified: 2025-12-14T06:53:36
 ---
 
 > _“Practice does not make perfect. Perfect practice makes perfect.” — Vince Lombardi_ [^1]
@@ -43,7 +43,7 @@ Similar to the concept of Progressive Overload in Strength Training — “Reps,
 		* An athlete attempting a personal best in a challenging competition.
 		* An artist trying a new technique that requires them to expand their skills.
 4. 專注地獨立練習 ([Deeply Engaged](flow-state.md))
-5. 反思 ([Reassess](reflect-and-review.md)) 並尋求立即性的 [意見回饋](Feedback%20Loop.md)
+5. 反思 ([Reassess](reflect-and-review.md)) 並尋求立即性的 [意見回饋](feedback-loop.md)
 
 ---
 
