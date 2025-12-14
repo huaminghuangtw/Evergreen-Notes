@@ -1,7 +1,7 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2025-11-29T14:33:10
+modified: 2025-12-14T19:06:20
 ---
 
 > _“Love is the absence of judgment.” — Dalai Lama_
@@ -51,6 +51,10 @@ modified: 2025-11-29T14:33:10
 > _“Love is hard. It takes enormous courage to open a wounded heart over and over again to the possibility of love’s bliss. Like Charlie Mack always says, “Scared money can’t make no money.” Love demands bravery, a willingness to risk it all.” But bravery does not mean the absence of fear. Bravery is learning to continue forward even when you’re terrified.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
 > _“The question is, can we love each other unconditionally, or is our love contingent upon the other person acting exactly as we need them to? It’s easy to “love” somebody when they do what you want them to do, exactly how you want them to do it. But how do you behave when they step outside of your picture? How do you treat them when they hurt you? Those are the times that determine whether or not you actually love somebody. Love is hard. It takes enormous courage to open a wounded heart over and over again to the possibility of love’s bliss.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+
+> _[“Love is a smoke made with the fume of sighs.” — William Shakespeare](https://www.brainyquote.com/quotes/william_shakespeare_106569)_
+> 
+> 愛情是嘆息吹起的一陣煙。
 
 ---
 
