@@ -1,7 +1,7 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2025-12-09T09:41:27
+modified: 2025-12-14T09:07:48
 ---
 
 > _[“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)_
@@ -60,7 +60,7 @@ Mental strength in a warrior’s mind. [@gogginsCantHurtMe2018]
 
 ---
 
-Every challenge is a reminder that you were brought into the world to do something that requires your [courage](Courage%20is%20knowing%20what%20not%20to%20fear.md) to awaken.
+Every challenge is a reminder that you were brought into the world to do something that requires your [courage](courage-is-knowing-what-not-to-fear.md) to awaken.
 
 ---
 
