@@ -1,7 +1,7 @@
 ---
 title: Fear
 created: 2024-11-18T09:18:12
-modified: 2025-11-22T15:06:13
+modified: 2025-12-14T09:07:48
 ---
 
 > _“Danger is real, fear is a choice” ― Will Smith_
@@ -103,4 +103,4 @@ _Becoming the Ocean_ – A Poem by Khalil Gibram
 
 ---
 
-[Courage is knowing what not to fear](Courage%20is%20knowing%20what%20not%20to%20fear.md)
+[Courage is knowing what not to fear](courage-is-knowing-what-not-to-fear.md)
