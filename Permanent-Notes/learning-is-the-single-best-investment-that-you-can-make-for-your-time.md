@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-12-06T04:48:21
+modified: 2025-12-15T15:47:02
 ---
 
 Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
@@ -73,6 +73,10 @@ _[Ultralearning](https://www.scotthyoung.com/blog/ultralearning/)_ by Scott Youn
 
 ---
 
+# [Human Sponges](human-sponges.md)
+
+---
+
 # [Four Stages of Competence](https://sketchplanations.com/stages-of-competence-framework)
 
 ![](../_attachments/6703e4a54443e5507718458802383a45.png)
@@ -111,7 +115,7 @@ Always starting from the most basic and simplest level, then adding more complex
 
 # Learning And Knowing Are Two Completely Different Things!
 
-* 如果要把一個知識點運用到生活當中，就要把它給記錄下來，然後不斷地練習和自我提醒，加強對那個知識點的印象，才能慢慢變成自己的東西
+* 如果要把一個知識點運用到生活當中，就要把它給記錄下來，然後不斷地練習和自我提醒，加強對那個知識點的印象，才能慢慢變成自己的東西。
 * 記憶 = 連結 Association [^1] \& 意義 Meaning
 * Recognizing or being familiar with something is not the same as having agility/mastery/virtuosity of that thing.
 * Chunking – [Break down complex/abstract ideas into tangible/digestible chunks](https://youtu.be/TQMbvJNRpLE), and link those chunks to vivid [mental representations/images](visualization.md). By creating such visual associations, _you’re not just memorizing - you’re understanding._ Your mind is a storage system. Learn to catalog efficiently.
