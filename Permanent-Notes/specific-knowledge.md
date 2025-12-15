@@ -1,7 +1,7 @@
 ---
 title: Specific Knowledge
 created: 2024-11-18T09:18:12
-modified: 2025-12-11T06:58:00
+modified: 2025-12-15T08:58:18
 ---
 
 It is found by pursuing your genuine [curiosity](stay-curious.md) on [multiple skillsets](specialization-is-for-insects.md).
@@ -25,9 +25,13 @@ It is something society cannot yet easily train other people to do (hard to repl
 
 > _[“One way to instantly gain a competitive edge is to work on things that genuinely interest you. The person who is having fun has a better chance of winning because they are more likely to stick with it when things get challenging. If it felt like a hassle from the start, you’re likely to quit as soon as things get tough. But if you’ve been having fun the whole time, you’re better positioned to work through the hard parts.” — James Clear](https://jamesclear.com/3-2-1/november-13-2025)_
 
+> _「知之者不如好之者，好之者不如樂之者。」—《論語 · 雍也》_
+
 * There is an enormous difference between [working hard](work-hard.md) on something that is a grind and working hard on something that comes easily to you. Exceptional results almost exclusively happen when you work hard on an area where you have some natural aptitude. Play to your strengths.
 * You can’t compete with someone who is having fun.
 * [Find your “unfair competitive advantages”](leverage.md): 清楚知道自己的強項與天賦 [^1]，把興趣變成自己的優勢。
+
+See also: [Be primarily internally driven with intrinsic motivation](be-primarily-internally-driven-with-intrinsic-motivation.md)
 
 ---
 
