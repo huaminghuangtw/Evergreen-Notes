@@ -1,7 +1,7 @@
 ---
 title: Information Overwhelm
 created: 2024-11-18T09:18:12
-modified: 2025-12-13T09:44:48
+modified: 2025-12-15T15:47:34
 ---
 
 > _“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” ― T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654)_ [^1]
@@ -30,7 +30,7 @@ modified: 2025-12-13T09:44:48
 
 * Just-In-Case information → Just-In-Time information
 	* It’s not enough to use information for “something” — it needs to be immediate and important. If “no” on either count, don’t consume it. [Information is useless if it is not applied to something important](cultivate-a-strong-bias-towards-action.md) or if you will forget it before you have a chance to apply it.
-* Reactive → Proactive
+* [Reactive → Proactive](human-sponges.md)
 	* Develop the habit of asking yourself, “_Will I definitely use this information for something immediate and important?_” before consuming any content
 * Fast, excessive consumption → Slow, gradual engagement
 * FOMO (Fear Of Missing Out) → JOMO (Joy Of Missing Out)
