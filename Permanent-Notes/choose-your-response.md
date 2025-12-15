@@ -1,12 +1,14 @@
 ---
 title: Choose your response
 created: 2025-01-23T10:40:57
-modified: 2025-12-06T06:58:49
+modified: 2025-12-15T08:58:44
 ---
 
 > _“How we decide to respond to our fears, that is the person we become.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
 > _“It is the set of the sails, not the direction of the wind that determines which way we will go.” — Jim Rohn_
+
+> _“You may not control all the events that happen to you, but you can decide not to be reduced by them.” — Maya Angelou_
 
 > _“Between (triggering) stimulus and (emotional) response there is a space (gap). In that space is our power to choose our response. In our response lies our growth and our freedom.” — Viktor E. Frankl_
 
