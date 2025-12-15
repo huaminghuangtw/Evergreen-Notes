@@ -1,7 +1,7 @@
 ---
 title: Planning and preparation help maximize your productivity
 created: 2024-12-12T16:22:20
-modified: 2025-12-04T05:39:44
+modified: 2025-12-15T15:20:08
 ---
 
 > _[“The antidote to impulsiveness is forethought.” — Nir Eyal](https://www.youtube.com/watch?v=VVez_sI1zTU)_
@@ -13,6 +13,10 @@ modified: 2025-12-04T05:39:44
 > _“People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.” — Brian Tracy_
 
 > _“Chance favors only the prepared mind.” — Louis Pasteur_
+
+> _“In preparing for battle I have always found that plans are useless, but planning is indispensable.” — Dwight D. Eisenhower_
+>
+> 在準備一場戰役的時候，我總是發現計劃是沒有用的，但計劃又是不可或缺的。
 
 ---
 
