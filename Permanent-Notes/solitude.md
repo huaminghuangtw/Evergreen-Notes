@@ -1,8 +1,10 @@
 ---
 title: Solitude
 created: 2024-11-18T09:18:12
-modified: 2025-11-10T07:01:23
+modified: 2025-12-15T08:59:14
 ---
+
+> _“Solitude gives birth to the original in us.” — Thomas Mann_
 
 > _“To live alone, one must be either a beast or a god, says Aristotle. Leaving out the third case: one must be both — a philosopher.” — Nietzsche_
 
