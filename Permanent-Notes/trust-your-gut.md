@@ -1,10 +1,12 @@
 ---
 title: Trust your gut
 created: 2025-01-01T16:32:50
-modified: 2025-11-24T17:21:52
+modified: 2025-12-15T12:15:52
 ---
 
 > _“Intuition is the whisper of the soul.” — Jidda Krishnamurti_
+
+> _“The intuitive mind is a sacred gift and the rational mind is a faithful servant. We have created a society that honors the servant and has forgotten the gift.” — Albert Einstein_
 
 > _“Remember that wherever your heart is, there you will find your treasure.” — Paulo Coelho_
 
@@ -29,6 +31,10 @@ Never let your head outsmart your gut.
 ---
 
 [Don’t trust the coin (you flip); trust your inside guts.](https://mariandrew.substack.com/p/100-things-i-know)
+
+---
+
+跟著內心的感覺走。
 
 ---
 
