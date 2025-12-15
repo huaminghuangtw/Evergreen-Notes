@@ -1,7 +1,7 @@
 ---
 title: Time is the most valuable asset
 created: 2024-11-18T09:18:12
-modified: 2025-12-06T06:09:54
+modified: 2025-12-15T07:25:27
 ---
 
 > _“The price of anything is the amount of life you exchange for it.” — Henry David Thoreau_
@@ -49,7 +49,7 @@ Are you willing to trade your life with Warren Buffett?
 
 	It’s easy to notice when you’ve spent money, but the loss of time often goes unnoticed until it’s too late.
 
-	Make sure you’re making intentional trades — _you can always make more money, but you can never make more time._
+	Make sure you’re making intentional trades. Aim to make every minute on this Earth count for something. <mark>You can always make more money, but you can never make more time.</mark>
 
 	Being cheap with your time and generous with your money allows you to focus on what truly matters and achieve greater freedom in the long run.
 
