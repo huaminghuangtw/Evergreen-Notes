@@ -1,7 +1,7 @@
 ---
 title: Life Paradoxes & Fallacies
 created: 2024-11-18T09:16:50
-modified: 2025-09-05T03:34:56
+modified: 2025-12-15T09:40:48
 ---
 
 # [Sprezzatura](sprezzatura.md)
@@ -17,8 +17,6 @@ modified: 2025-09-05T03:34:56
 # Take On Less, Accomplish More
 
 # [Talk Less To Be Heard More](Speak%20less,%20listen%20more.md)
-
-# The Only Constant Is Change
 
 # Stop Looking To Find More
 
