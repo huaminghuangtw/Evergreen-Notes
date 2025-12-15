@@ -1,7 +1,7 @@
 ---
 title: Adaptability
 created: 2024-11-18T09:18:12
-modified: 2025-12-14T09:11:44
+modified: 2025-12-15T14:48:05
 ---
 
 > _“It is not the strongest of the species that survives, nor the most intelligent. It is the one most adaptable to change; but the species that survives is the one that is able best to adapt and adjust to the changing environment in which it finds itself.” — Charles Darwin_ [^1]
@@ -40,7 +40,7 @@ You’ll only go as far as your ability to absorb life’s punches and pivot on 
 
 # The only constant in life is change.
 
-[Nothing changes if nothing changes. If you change nothing, nothing will change.](the-trap-of-good-enough.md)
+沒有任何事是永恆的，一切都會過去、一切都是無常；無論是美好的事物或痛苦的經歷，人生一切的起起伏伏都會過去。
 
 > _“There is nothing permanent except change.” — Heraclitus_
 
