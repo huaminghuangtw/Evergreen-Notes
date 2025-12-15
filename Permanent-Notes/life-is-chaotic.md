@@ -1,7 +1,7 @@
 ---
 title: Life is chaotic
 created: 2024-11-18T09:18:12
-modified: 2025-11-05T06:35:45
+modified: 2025-12-15T14:59:45
 ---
 
 > _“Everyone has a plan until they get punched in the mouth.” — Mike Tyson_
@@ -25,6 +25,8 @@ modified: 2025-11-05T06:35:45
 ---
 
 Man Plans. God Laughs.
+
+> 當我們自以為能掌控一切時，上帝早已在一旁當笑到袂振袂動。
 
 ---
 
