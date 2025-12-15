@@ -1,7 +1,7 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2025-12-09T17:24:57
+modified: 2025-12-15T08:55:48
 ---
 
 > _“Start before you’re ready. Don’t prepare. Begin. Don’t think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
@@ -12,7 +12,7 @@ modified: 2025-12-09T17:24:57
 
 > _“You don’t have to be great to start, but you have to start to be great.” — Zig Ziglar_
 
-> _[“Whether a decision is good or bad can change based on how you act after the choice is made. **You can’t learn all the lessons beforehand.** You learn a lot about what you want in a marriage after getting married. You discover what type of career you enjoy after doing a lot of work. And so it goes in nearly every area of life. **In many cases, what you wish you knew ahead of time can only be learned after the decision is made.**” — James Clear](https://jamesclear.com/3-2-1/february-13-2025)_
+> _[“Whether a decision is good or bad can change based on how you act after the choice is made. <mark>You can’t learn all the lessons beforehand.</mark> You learn a lot about what you want in a marriage after getting married. You discover what type of career you enjoy after doing a lot of work. And so it goes in nearly every area of life. <mark>In many cases, what you wish you knew ahead of time can only be learned after the decision is made.</mark>” — James Clear](https://jamesclear.com/3-2-1/february-13-2025)_
 
 > _[“You can act your way into feeling long before you can feel your way into action. If you wait until you feel like doing something, you will likely never accomplish it.” ― John C. Maxwell, How Successful People Think: Change Your Thinking, Change Your Life](https://www.goodreads.com/quotes/1158022-you-can-act-your-way-into-feeling-long-before-you)_
 
@@ -21,6 +21,8 @@ modified: 2025-12-09T17:24:57
 > _[“Action isn’t just the effect of motivation; it’s also the cause of it.” — Mark Manson](https://www.goodreads.com/quotes/11945271-action-isn-t-just-the-effect-of-motivation-it-s-also-the)_
 
 > _“It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.” — Seneca_
+
+> _“Do not merely think that you are going to become great; think that you are great now. Do not think that you will begin to act in a great way at some future time; begin now. Do not think that you will act in a great way when you reach a different environment; act in a great way where you are now. Do not think that you will begin to act in a great way when you begin to deal with great things; begin to deal in a great way with small things.” — Wallace Wattles, [The Science of Being Great](https://www.goodreads.com/work/quotes/1881171)_
 
 ---
 
