@@ -1,7 +1,7 @@
 ---
 title: The Trap of Good Enough
 created: 2025-12-14T08:56:00
-modified: 2025-12-14T18:45:57
+modified: 2025-12-15T09:41:42
 ---
 
 > _“Nothing is so painful to the human mind as a great and sudden change.” — Mary Shelley, Frankenstein (科學怪人)_
@@ -44,7 +44,7 @@ The bad path screams for change. The good path that isn’t yours sits in silenc
 
 Reinvention takes courage. [^1] Reinvention starts with release. You can’t build a new life with old wiring. Letting go is the real first step.
 
-If you change nothing, nothing will change.
+Nothing changes if nothing changes. If you change nothing, nothing will change.
 
 Change requires death: The death of old beliefs, old habits, old environments.
 
