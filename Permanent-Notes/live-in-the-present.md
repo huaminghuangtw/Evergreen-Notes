@@ -1,7 +1,7 @@
 ---
 title: Live in the present
 created: 2024-11-18T09:18:12
-modified: 2025-12-06T15:27:36
+modified: 2025-12-15T15:37:37
 ---
 
 > _“It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.” — Dr. Robert Hutchings Goddard_
@@ -139,7 +139,11 @@ We often treat the present as a _vehicle for something else_, failing to see tha
 
 [Time is the most valuable asset](time-is-the-most-valuable-asset.md)
 
+---
+
+[The Day of No Reason: When Logic Meets Joy](the-day-of-no-reason-when-logic-meets-joy.md)
+
 [^1]: Live in the “here and now,” focusing on what we can do today instead of dwelling on the past or worrying about the future.
 [^2]: (adv.) for an intervening or temporary period of time
 [^3]: 現在即未來。Now is future.
-[^4]: [いま 是「現在」的意思，有「把握現在、活在當下」之意](https://www.facebook.com/people/e-MA-Cycling-Team/100057359174980/)
+[^4]: [いま 是「現在」的意思，有「把握現在、活在當下」之意。](https://www.facebook.com/people/e-MA-Cycling-Team/100057359174980/)
