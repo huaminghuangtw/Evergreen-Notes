@@ -1,7 +1,7 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
 created: 2024-11-18T09:18:12
-modified: 2025-12-09T17:34:44
+modified: 2025-12-15T08:44:46
 ---
 
 > _“Your relationship with yourself sets the tone for every other relationship you have.” — Robert Holden_
@@ -51,6 +51,8 @@ People respect you, only as much as you respect yourself. Others treat you the w
 If you switched bodies with the person you love most for a year, how would you take care of their mind & body knowing you’d be giving it back to them? How would you take care of that person you love the most? Now do that for you.
 
 ---
+
+> _[“There are two basic motivating forces: fear and love. When we are afraid, we pull back from life. When we are in love, we open to all that life has to offer with passion, excitement, and acceptance. We need to learn to love ourselves first, in all our glory and our imperfections. If we cannot love ourselves, we cannot fully open to our ability to love others or our potential to create. Evolution and all hopes for a better world rest in the fearlessness and open-hearted vision of people who embrace life.” — John Lennon](https://www.goodreads.com/quotes/26411-there-are-two-basic-motivating-forces-fear-and-love-when)_
 
 The most courageous act is to think for yourself. Aloud.
 
