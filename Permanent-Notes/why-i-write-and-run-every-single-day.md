@@ -1,7 +1,7 @@
 ---
 title: Why I write and run every single day
 created: 2025-11-13T06:08:11
-modified: 2025-12-14T20:04:21
+modified: 2025-12-16T10:21:20
 ---
 
 > _“Energy is eternal delight.” — William Blake_
@@ -34,7 +34,7 @@ I **ran** because it suited me—and **writing** because it did too: _introspect
 
 最初半小時，是為了我的身體；最後半小時，是為了我的靈魂。
 
-勞動是社會中每個人不可避免的義務，沒有勞動就不可能有正常人的生活。
+勞動是社會中每個人不可避免的義務，沒有勞動就不可能有正常人的生活。勞動是快活的根源。
 
 寫作與馬拉松其實很像，都需要持久的耐力、專注力以及持之以恆的毅力。
 
