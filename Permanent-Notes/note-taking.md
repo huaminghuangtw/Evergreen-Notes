@@ -1,7 +1,7 @@
 ---
 title: Note Taking
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:34:06
+modified: 2025-12-15T19:05:12
 ---
 
 > _“Every intellectual endeavor starts with a note.” — Sönke Ahrens_
@@ -26,7 +26,7 @@ Writing is the only thing that matters.
 
 ---
 
-不要記錄跟整理 Google 搜尋就能找到的資訊，這樣做最大的好處是，可以保證得到 up-to-date 的最新知識
+不要記錄跟整理 Google 搜尋就能找到的資訊，這樣做最大的好處是，可以保證得到 up-to-date 的最新知識。
 
 ---
 
@@ -36,7 +36,7 @@ Don’t just _take notes_ (note-taker), but also _make notes_ (note-maker).
 
 Note-making is an _active, engaged_ process for:
 
-* idea creation and connection .[^1]
+* idea creation and connection. [^1]
 * the strengthening of note retrieval.
 * the clever use of spaced repetition.
 
