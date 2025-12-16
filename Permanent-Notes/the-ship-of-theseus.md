@@ -1,7 +1,7 @@
 ---
 title: The Ship of Theseus
 created: 2025-02-06T04:52:16
-modified: 2025-12-12T07:31:45
+modified: 2025-12-16T10:34:07
 ---
 
 忒修斯之船 = Theseus’s Paradox 船舶悖論
@@ -18,6 +18,8 @@ is a thought experiment and paradox about whether an object is the same object a
 * 如果把舊木板收集起來，重新組裝成另一艘船，那麼哪一艘才是真正的「原船」？
 
 ---
+
+# Cell Regeneration
 
 This can be applied to our [personal identities](your-identity-dictates-your-actions.md) as well. → 身體的細胞不斷地在更新，我們還是原來的自己嗎？
 
