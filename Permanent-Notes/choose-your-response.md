@@ -1,14 +1,12 @@
 ---
 title: Choose your response
 created: 2025-01-23T10:40:57
-modified: 2025-12-15T08:58:44
+modified: 2025-12-16T09:24:20
 ---
 
 > _“How we decide to respond to our fears, that is the person we become.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
 > _“It is the set of the sails, not the direction of the wind that determines which way we will go.” — Jim Rohn_
-
-> _“You may not control all the events that happen to you, but you can decide not to be reduced by them.” — Maya Angelou_
 
 > _“Between (triggering) stimulus and (emotional) response there is a space (gap). In that space is our power to choose our response. In our response lies our growth and our freedom.” — Viktor E. Frankl_
 
@@ -28,23 +26,16 @@ modified: 2025-12-15T08:58:44
 
 ---
 
-It’s not what happens to us that shapes our lives, but how we _choose to_ respond.
+> _“You may not control all the events that happen to you, but you can decide not to be reduced by them.” — Maya Angelou_
+
+* It’s not what happens to us that shapes our lives, but how we _choose to_ respond.
+* You can’t control the behavior of others, but you can always control how you respond to it.
+* You are not the cause of everything that happens to you, but you are responsible for how you respond to everything that happens to you.
 
 ---
 
-You can’t control what others choose to do, but you can always control how you choose to respond.
 
----
-
-Knowing when to stop is a superpower. You don’t need to attend every argument you’re invited to, nor should you [waste your energy](energy-management.md) every time.
-
----
-
-You are not the cause of everything that happens to you, but you are responsible for how you respond to everything that happens to you.
-
----
-
-Most of life’s conflicts come from people _reacting_ to situation rather than _responding_ to it. <u>Man who cannot control his words cannot control himself.</u>
+Most of life’s conflicts come from people _reacting_ to situation rather than _responding_ to it. <mark>Man who cannot control his words cannot control himself.</mark>
 
 ✱ Example:
 
@@ -57,19 +48,7 @@ Most of life’s conflicts come from people _reacting_ to situation rather than 
 
 ---
 
-既狹隘又封閉 の「熱」情緒處理（Hot Emotional Processing）
-
----
-
-Pause before insulting or attacking others instead of reacting in the heat of the moment.
-
----
-
-**Progressive Aggression:** By reacting to aggression with aggression we lose the opportunity to spiritually benefit from the experience.
-
----
-
-You cannot control the behavior of others, but you can always choose how you respond to it.
+By reacting to [aggression](anger.md) with aggression we lose the opportunity to spiritually benefit from the experience.
 
 ---
 
