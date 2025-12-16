@@ -1,14 +1,14 @@
 ---
 title: Leverage
 created: 2025-01-23T10:40:57
-modified: 2025-12-03T07:12:28
+modified: 2025-12-16T13:56:19
 ---
 
 > _“Give me a place to stand, and a lever long enough, and I will move the world.” — Archimedes_
 
 ---
 
-# Two Types Of Leverage
+# Two Types of Leverage
 
 * Permissioned Leverage
 	* Labor (_worst_)
@@ -28,7 +28,7 @@ modified: 2025-12-03T07:12:28
 
 # 💡 Guiding Principle
 
-## In The Internal (i.e., personal) World, Focus On The Strengths (unfair advantages), Not Weaknesses
+## 1. In The Internal (i.e., personal) World, Focus On The Strengths (unfair advantages), Not Weaknesses
 
 > _“Success is achieved by developing our strengths, not by eliminating our weaknesses.” — Marilyn vos Savant_
 
@@ -47,11 +47,13 @@ Focus on better use of your best weapons instead of constant repair.
 * We can only make our most significant contributions when we act from our strengths.
 * We achieve the greatest impact not by focusing on improving our weaknesses, but by fully leveraging our strengths.
 
-## In The External (i.e., non-personal) World, Focus On The Weaknesses (bottlenecks), Not The Strengths
+## 2. In The External (i.e., non-personal) World, Focus On The Weaknesses (bottlenecks), Not The Strengths
 
-Example: Any [system](systems-over-goals.md)
+Example: Any [system](systems-thinking.md)
 
 ![](../_attachments/892a43eb93bd11e6921b8c2e3e2301b8.png)
+
+[Theory of Constraints](theory-of-constraints.md)
 
 ---
 
