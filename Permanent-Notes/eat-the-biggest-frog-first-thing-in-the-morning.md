@@ -1,7 +1,7 @@
 ---
 title: Eat the biggest frog first thing in the morning
 created: 2024-12-04T17:55:24
-modified: 2025-12-12T06:14:34
+modified: 2025-12-16T13:51:32
 ---
 
 > _“Do one thing every day that scares you.” — Eleanor Roosevelt_
@@ -20,9 +20,7 @@ modified: 2025-12-12T06:14:34
 
 ---
 
-最重要的是戰勝次要。
-
----
+# Always Important, Never Urgent
 
 First things first. Do the most important thing [^2] first, not the most urgent one.
 
@@ -55,45 +53,6 @@ First things first. Do the most important thing [^2] first, not the most urgent 
 
 ---
 
-# The Pickle Jar Theory
-
-> 醃漬罐理論
-
-The Pickle Jar Theory is a [time management](time-management.md) technique that prioritizes tasks based on importance, using the analogy of fitting different-sized items (**rocks/boulders**, **pebbles**, and **sand**) into a jar to represent one’s daily schedule or time available.
-
-The idea is to start with the most important tasks / fill the jar with the biggest rock/boulders first, followed by medium-priority tasks (pebbles), and finally, less important tasks (sand).
-
-This method helps to maximize time and ensure that the most important items are addressed first, preventing them from being overshadowed by less critical activities.
-
-**Think of your time as a jar. If you don’t make space for the big rocks, the little pebbles and tiny sand will fill your whole jar. And you’ll always wonder why you’re not getting anything meaningful done.**
-
----
-
-# 限制/約束理論
-
-> _“The capacity of the plant is equal to the capacity of its bottlenecks. (工廠的產能等於瓶頸的產能。)” ― Eliyahu M. Goldratt, [The Goal: A Process of Ongoing Improvement](https://www.goodreads.com/work/quotes/462428)_
-
-> _“Since the strength of the chain is determined by the weakest link, then the first step to improve an organization must be to identify the weakest link.” ― Eliyahu M. Goldratt, [The Goal: A Process of Ongoing Improvement](https://www.goodreads.com/work/quotes/462428)_
-
-[The Theory of Constraints](https://www.google.com/search?q=The+Theory+of+Constraints) is a management philosophy first proposed by Eliyahu Goldratt in his 1984 book, _The Goal_.
-
-The key idea is that every system has at least one constraint that restricts its ability to grow or meaningfully improve its desired output.
-
-In other words, there is a bottleneck that prevents the system from improving.
-
-By focusing attention on **improving the constraint—eliminating the bottleneck**—you can dramatically improve the performance of the entire system.
-
-1. Identify the system’s bottlenecks. (找出瓶頸)
-2. Decide how to exploit the bottlenecks. (善用瓶頸)
-3. Subordinate everything else to the above decision. (遷就瓶頸)
-4. Elevate the system’s bottlenecks. (提升瓶頸)
-5. If, in a previous step, a bottleneck has been broken go back to step 1. (持續改善)
-	1. 什麼要改變？（What to change?）
-	2. 要改變成什麼？（What to change to?）
-	3. 如何造成改變？（How to cause the change?）
-
----
-
 > _[“I finally decided I was going to give the best hour of the day to improving my own mind, and then the world could buy the rest of the time.” — Charlie Munger](https://buffett.cnbc.com/video/2007/05/05/afternoon-session---2007-berkshire-hathaway-annual-meeting.html)_
 >
 > 把一天中最好的時段留給自己，然後世界可以買走我剩下的時間。
@@ -111,6 +70,14 @@ By focusing attention on **improving the constraint—eliminating the bottleneck
 You need to find XXX in your day, and ruthlessly foster/protect it from all the time thieves in your life. When you [combine XXX with a deadline](the-parkinsons-law.md), you QUADRUPLE your productivity.
 
 [As those time-chunks get separated and fragmented, my productivity drops spectacularly.](https://www.nealstephenson.com/why-i-am-a-bad-correspondent.html)
+
+---
+
+[The Pickle Jar Theory](the-pickle-jar-theory.md)
+
+---
+
+[Theory of Constraints](theory-of-constraints.md)
 
 ---
 
