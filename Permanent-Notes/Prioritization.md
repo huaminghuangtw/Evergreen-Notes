@@ -1,7 +1,7 @@
 ---
 title: Prioritization
 created: 2024-11-18T09:18:12
-modified: 2025-12-04T17:06:31
+modified: 2025-12-16T13:54:45
 ---
 
 > _“The whole point of getting things done is knowing what to leave undone.” — Oswald Chambers_
@@ -31,6 +31,8 @@ modified: 2025-12-04T17:06:31
 Inequality, Everywhere
 
 ---
+
+# 最重要的是戰勝次要
 
 Don’t sweat the small stuff. Don’t major in minor things. Learn to differentiate the majors and the minors.
 
