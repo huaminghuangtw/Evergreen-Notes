@@ -1,26 +1,25 @@
 ---
 title: Skin Care
 created: 2025-01-23T10:40:57
-modified: 2025-12-13T15:53:54
+modified: 2025-12-16T14:04:03
 ---
 
 # 如何擁有「水煮蛋肌」?
 
-* Sleep: 充足的睡眠
-* Nutrition: 均衡的飲食 (& 大量白開水)
-	* 蛋奶類是大忌
-* Exercise: 規律的運動
+1. Sleep: 充足的睡眠
+2. Nutrition: 均衡的飲食 (& 大量白開水) → 蛋奶類是大忌！
+3. Exercise: 規律的運動
 
 # Background Knowledge
 
 * 臉部黃金酸鹼值 (pH 值) = 5.5
 	* 所以絕對不能用鹼性的「肥皂」洗臉，會造成「過度清潔」而破壞皮脂膜
 * 「粉刺」和「痘痘」都是從「皮脂腺分泌的皮層油脂堵塞毛囊」發展而來的
-	![5e77382cafdd961364f551ad20700841](../_attachments/c503fbb6fec7183237fdcd3fa0a13a64.png)
+	![](../_attachments/c503fbb6fec7183237fdcd3fa0a13a64.png)
 * 關於「閉鎖性 (內包) 粉刺」
-	 ![602ad3332f1f48c558e4af84ab361598](../_attachments/f1d0af257ff4b79917fccae6c86b3f37.png)
+	 ![](../_attachments/f1d0af257ff4b79917fccae6c86b3f37.png)
 	 * 因為它沒有開口，必須比平常更用力才能擠出來，這時通常已經擠到「發炎」了，後續還有可能因為細菌「感染」而轉變成痘痘，進而形成痘疤，非常得不償失!
-	* 清除關鍵:「**去除表面的角質堆積**」
+	* 清除關鍵：「**去除表面的角質堆積**」
 		 * 當毛孔有了開口後，粉刺就有自體/動浮出來的機會 (粉刺是一種代謝廢物，身體也不會再把它們吸收回去)
 * 酸類
 	* 「治痘&抗痘」取向 (適合膚況不佳時擦)
@@ -29,9 +28,9 @@ modified: 2025-12-13T15:53:54
 		* 果酸 (AHA)
 			* 乙醇酸/甘醇酸 (Glycolic Acid)
 		* A 酸
-	* ? 杏仁酸
-	* ? 杜鵑花酸
-	* ? 玻尿酸不是酸
+	* #TODO 杏仁酸
+	* #TODO 杜鵑花酸
+	* #TODO 玻尿酸不是酸
 * [比較] 視黃醇 / 維 A 醇 / A 醇
 	* Retinol
 		* _lower_ concentration of the active retinoic acid ingredient
@@ -66,9 +65,13 @@ modified: 2025-12-13T15:53:54
 
 # Principles
 
-> 步驟越簡單、保養品越少越好!
+> 步驟越簡單、保養品越少越好！
 
 # Goes (擦任何護膚品/保養品都要把握以下原則)
+
+* Use natural products with simple ingredients like tallow, coconut oils, etc.
+
+	> Your skin is your largest organ. Why put things on your skin that you’d never put in your body?
 
 * Carefully and gently pat your face dry using finger tips until the skin is left slightly damp
 	* It takes only a minute or two more
@@ -77,7 +80,7 @@ modified: 2025-12-13T15:53:54
 * Apply the cream into your skin using _small_, _upward_, _circular_ motions
 	* Never drag _downward_ on your skin!
 	* Why? As you age, gravity pulls your skin downward, causing sagging and wrinkles
-		![a955a2f50f84cb2eb51981ad608bd00d](../_attachments/6b7dced24dcd98dfa34670b2181fe361.png)
+		![](../_attachments/6b7dced24dcd98dfa34670b2181fe361.png)
 
 # No-goes (NG 動作)
 
@@ -92,9 +95,9 @@ modified: 2025-12-13T15:53:54
 # 正確的洗臉方式
 
 * 洗臉時要用和人體體溫相近的「溫水」(約攝氏 25 度上下)
-	* ❗️避免使用熱水: 會導致皮膚乾燥和加速皮膚老化
+	* ❗️避免使用熱水：會導致皮膚乾燥和加速皮膚老化
 * 從容易出油的 T 字部位開始塗抹泡沫
-* 動作要輕柔: 潑溼 + 潑洗，以指腹在臉上畫圈按摩、輕輕按壓
+* 動作要輕柔：潑溼 + 潑洗，以指腹在臉上畫圈按摩、輕輕按壓
 
 # 「缺水 + 過乾」也會讓皮膚變得更容易長痘！
 
@@ -139,10 +142,10 @@ modified: 2025-12-13T15:53:54
 		* The easiest way is to sneak our sunscreen into the products we already wear every day (SPF moisturizers)
 	* Apply sunscreen when going out for long time. Do reapply every 3-4 hours or depending on the level of sun exposure.
 	* 選用有以下標示的防曬乳
-		* SPF 30-50
+		* SPF 30–50
 		* PA++++
 		* Broad spectrum: UVA + UVB
-	* What about vitamin D? many studies have shown that _**oral**_ vitamin D supplementation leads to more improvement in blood levels than sun exposure
+	* What about vitamin D? Many studies have shown that **oral** vitamin D supplementation leads to more improvement in blood levels than sun exposure
 
 ## 🌙 晚
 
