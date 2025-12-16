@@ -1,7 +1,7 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2025-12-14T19:31:47
+modified: 2025-12-16T13:48:50
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -57,6 +57,8 @@ There is a Zen Buddhist saying: “What do you do before enlightenment? _Chop w
 ---
 
 > _“Life is like riding a bicycle, to keep balance you must keep moving.” — Albert Einstein_
+
+> _“If you can’t fly, run. If you can’t run, walk. If you can’t walk, crawl, but by all means, keep moving.” — Martin Luther King, Jr._
 
 # [Fire & Movement](https://en.wikipedia.org/wiki/Fire_and_movement)
 
@@ -154,7 +156,7 @@ EVERYDAY is easier than SOMEDAY. [^3] Embrace the daily mundane activities / ord
 * It’s easier to _keep up_ than to _catch up_.
 * It’s easier to stay _motivated_ when you have _momentums_.
 
-![](Pasted%20image%2020251214193141.png)
+![](ae4c5ced67ee74bc5197f513c2d957f4.png)
 
 ---
 
