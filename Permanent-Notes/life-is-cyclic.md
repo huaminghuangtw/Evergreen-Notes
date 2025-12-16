@@ -1,7 +1,7 @@
 ---
 title: Life is cyclic
 created: 2024-11-18T09:18:12
-modified: 2025-11-29T17:14:17
+modified: 2025-12-16T08:53:13
 ---
 
 > _“Life is like a wheel. Sooner or later, it always comes around to where you started again.” — Stephen King_
@@ -23,6 +23,10 @@ modified: 2025-11-29T17:14:17
 ---
 
 喜憂參半是生活，起起落落 [^1] 是人生。
+
+---
+
+沒有任何事是永恆的，一切都會過去、一切都是無常；無論是美好的事物或痛苦的經歷，人生一切的起起伏伏都會過去。
 
 ---
 
