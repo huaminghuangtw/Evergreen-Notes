@@ -1,7 +1,7 @@
 ---
 title: Overthinking
 created: 2025-01-23T10:40:57
-modified: 2025-12-06T07:02:41
+modified: 2025-12-15T18:10:46
 ---
 
 > _“Imagination and fiction make up more than three quarters of our real life.” — Simone Weil_
@@ -10,7 +10,7 @@ modified: 2025-12-06T07:02:41
 
 > _“I am an old man and have known a great many troubles, but most of them never happened.” — Mark Twain_
 
-> _“We suffer more in imagination than in reality” — Seneca_
+> _“We suffer more in imagination than in reality.” — Seneca_
 
 > _“If you spend too much time thinking about a thing, you’ll never get it done.” ― Bruce Lee_
 
