@@ -1,7 +1,7 @@
 ---
 title: Anger
 created: 2024-11-18T09:18:12
-modified: 2025-12-06T06:00:27
+modified: 2025-12-16T09:11:23
 ---
 
 > _“Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.” — Mark Twain_
@@ -46,11 +46,12 @@ It’s okay to be sad, disappointed, or get lost, but don’t be angry. Anger is
 
 > _“Strong, negative emotions (fear, anger, anxiety, hopelessness) tend to narrow our minds—it’s as though our peripheral vision has been cut off because we’re so focused on the peril that’s front and center.” ― Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)_
 
-發火/憤怒/生氣時不講話/決策，人在這種情況下會自動降智、變笨、腦殘。
+避免既狹隘又封閉 の「熱」情緒處理（Hot Emotional Processing）。發火/憤怒/生氣時不講話/決策，人在這種情況下會自動降智、變笨、腦殘。
 
 * Everyone has an emotional blind spot when they fight.
 * Speak when you’re angry and you’ll make the best speech you’ll ever regret.
 * The greatest remedy for anger is delay. When you are angry, try your best to go to sleep, it keeps you away from speaking and thinking.
+* Pause before insulting or attacking others instead of reacting in the heat of the moment.
 
 ---
 
@@ -97,6 +98,10 @@ Revenge harms not only your target but also yourself. The “two graves” symbo
 > The young man, agitated, replied that the gift would still belong to him, because he was the one who had bought it.
 >
 > The Buddha nodded: “_The same applies to your anger. If you come to me with anger, but I choose not to accept it, the anger still belongs to you. You are the only one who is moved by it._”
+
+---
+
+[Choose your response](choose-your-response.md)
 
 [^1]: Forgive and forget. Not for them, but for you.
 [^2]: Everything that irritates us about others can lead us to an understanding of ourselves.
