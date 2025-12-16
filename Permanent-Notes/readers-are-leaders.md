@@ -1,7 +1,7 @@
 ---
 title: Leaders are readers
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:26
+modified: 2025-12-16T13:57:28
 ---
 
 > _“Man is what he reads.” — Joseph Brodsky_
@@ -24,10 +24,13 @@ modified: 2025-11-20T18:10:26
 * Reading is a conversation. All books talk. But a good book listens as well.
 * Reading without [taking notes](note-taking.md) is [useless](https://x.com/neuranne/status/1261991953593401346).
 * 「雜食」：It’s important to read unconventional books as well, not just New York Times Best Sellers.
-* 書中自有黃金屋：Keep in mind that whenever you pick up a good book to read, you are taking an extensive journey into the mind of the author — You have immediate access to the greatest minds of the past and present, and can absorb decades of their toiling research and experience in just a matter of hours/days/weeks!
+* 書中自有黃金屋
 
 	> _“There are so many people who have lived﻿ and died before you. You will never have a new problem; you’re not going to ever have a new problem. Somebody wrote the answer down in a book somewhere.” ― Will Smith_
 
+	> _[“What really knocks me out is a book that, when you’re all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn’t happen much, though.” — J.D. Salinger, The Catcher in the Rye]([https://www.goodreads.com/quotes/5169-what-really-knocks-me-out-is-a-book-that-when](https://www.goodreads.com/quotes/5169-what-really-knocks-me-out-is-a-book-that-when))_
+
+	* Keep in mind that whenever you pick up a good book to read, you are taking an extensive journey into the mind of the author — You have immediate access to the greatest minds of the past and present, and can absorb decades of their toiling research and experience in just a matter of hours/days/weeks!
 	* The amount of value you can get from a book is astronomical. You’ve got years, if not decades, of someone’s research compiled down into something that will only take you a few hours to read.
 * [The purpose of reading a book isn’t to retain information, it’s to refine your worldview just a little bit with each one.](https://x.com/anuatluru/status/1742196321178513782)
 * Book readers tend to live longer than non-book readers. [@bavishiChapterDayAssociation2016] suggests that reading books may not only enrich the mind but also extend life—giving readers more time to enjoy them.
