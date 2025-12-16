@@ -1,7 +1,7 @@
 ---
 title: Work hard
 created: 2024-11-18T09:16:50
-modified: 2025-12-12T07:16:46
+modified: 2025-12-16T10:21:07
 ---
 
 > _“Without ambition one starts nothing. Without work one finishes nothing. The prize will not be sent to you. You have to win it.” — Ralph Waldo Emerson_
@@ -32,7 +32,7 @@ Working hard for something we don’t care about is called **stress**. Working h
 
 ---
 
-勞動是社會中每個人不可避免的義務，沒有勞動就不可能有正常人的生活。
+勞動是社會中每個人不可避免的義務，沒有勞動就不可能有正常人的生活。勞動是快活的根源。
 
 ---
 
