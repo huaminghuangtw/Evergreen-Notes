@@ -1,7 +1,7 @@
 ---
 title: True education begins where school ends
 created: 2025-01-23T18:40:57
-modified: 2025-12-13T14:02:01
+modified: 2025-12-16T10:32:19
 ---
 
 > _“School is one thing. Education is another. The two don’t always overlap. Whether you’re in school or not, it’s always your job to get yourself an education.” — Austin Kleon_
@@ -34,11 +34,21 @@ School lays the foundation, but true education starts when you step beyond the c
 
 ---
 
- [Learning is a lifelong process.](https://hbr.org/2017/02/lifelong-learning-is-good-for-your-health-your-wallet-and-your-social-life)
+ # [Learning is a lifelong process.](https://hbr.org/2017/02/lifelong-learning-is-good-for-your-health-your-wallet-and-your-social-life)
+
+凡是沒有在持續學習的人，精神上早已死去 — 只有死人才不學習。
+
+真正的終身學習者，無論活到幾歲，大腦總是為「未知」留下一席之地，因此他們永遠年輕。
+
+那些自稱「沒時間學習」的人，其實是選擇像機器人一樣操作眼前的生活。
+
+有些人活著，卻如同行屍走肉，因為他們從不思考；有些人死了，卻永遠活著，因為他們的思想永存。
 
 ---
 
 # 當知道的越多，就會發現不知道的也越多
+
+讀書若不思考，只會讓你自以為知道很多；讀書並深思，才會讓你清楚自己所知有限。
 
 > _[“The only true wisdom is in knowing you know nothing.” — Socrates](https://www.goodreads.com/quotes/9431-the-only-true-wisdom-is-in-knowing-you-know-nothing)_
 
