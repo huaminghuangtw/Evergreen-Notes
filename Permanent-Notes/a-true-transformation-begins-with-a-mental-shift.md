@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2025-12-15T08:46:44
+modified: 2025-12-15T18:15:15
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
@@ -84,7 +84,20 @@ The ability to choose one thought over another is superpower—one shift in our 
 
 ---
 
-A change in worldview will change the world viewed. We see the world not as it is, but as we are.
+# 一念之間
+
+> _“We see the world not as it is, but as we are.” — Anaïs Nin_
+
+A change in worldview will change the world viewed.
+
+> _“We suffer more in imagination than in reality.” — Seneca_
+
+我的身體被自己的影子綁架了，完全動彈不得。
+
+## 浪漫的口水 v.s 噁心的口水
+
+1. 戀人，口水是心跳在舌尖跳舞；
+2. 陌生人，口水是細菌在嘴裡開趴。
 
 ---
 
