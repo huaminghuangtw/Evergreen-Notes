@@ -1,7 +1,7 @@
 ---
 title: Discipline equals freedom
 created: 2024-11-18T09:18:12
-modified: 2025-11-17T12:10:22
+modified: 2025-12-16T08:59:20
 ---
 
 > _[“Discipline is doing what you hate to do, but nonetheless doing it like you love it.” — Mike Tyson](https://x.com/MikeTyson/status/1051925919710027777)_
@@ -68,12 +68,6 @@ Winners are not people who never _fail_, but people who never _quit_. Remember: 
 
 ---
 
-# The One-second Decision By David Goggins
+# The One-Second Decision By David Goggins
 
 > _When you are doing something hard in life, you are making a second by second decision to keep going. If you lose one of those seconds, you’ve lost. Each second is an opportunity to keep going or to quit._
-
----
-
-# Design Your Environment Carefully
-
-[Think about self-control less as the quality of a person and more as the quality of a place. There are some places and situations that lean toward lower self-control and others that lean toward higher self-control. Self-control is about your context as much as your character. Put yourself in good positions.](https://jamesclear.com/3-2-1/february-27-2025)
