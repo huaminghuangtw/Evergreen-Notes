@@ -1,10 +1,12 @@
 ---
 title: Helping others makes us feel good
 created: 2025-12-02T06:22:05
-modified: 2025-12-02T07:51:40
+modified: 2025-12-16T07:41:09
 ---
 
 > _“Nothing makes one feel so strong as a call for help.” — Pope Paul VI_
+
+> _“The best way to cheer yourself up is to try to cheer somebody else up.” — Mark Twain_
 
 ---
 
