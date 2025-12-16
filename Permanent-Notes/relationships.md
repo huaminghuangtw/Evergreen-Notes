@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-12-10T15:38:56
+modified: 2025-12-16T09:15:01
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -27,7 +27,7 @@ Time doesn’t heal anything when it comes to relationships.
 1. **Criticism**: framing problems as the partner’s defect
 2. **Defensiveness**: counterattacking, whining, being the innocent victim
 3. **Contempt**: talking down from a position of superiority, insults, eye-rolling, name-calling — the most dangerous of all
-4. **Stonewalling**: withdrawing from the conflict, refusing to engage
+4. **Stonewalling**: withdrawing from the conflict, refusing to engage [^1]
 
 ---
 
@@ -78,7 +78,7 @@ It’s usually better to be nice than right.
 
 ---
 
-# [Dr. Robert Waldinger](https://www.robertwaldinger.com/) [^1]
+# [Dr. Robert Waldinger](https://www.robertwaldinger.com/) [^2]
 
 * [Relationship satisfaction at age 50 was the single greatest predictor of physical health at age 80.](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/)
 * Ambivalent relationships—those that are sometimes supportive and sometimes demeaning—are the most toxic.
@@ -155,7 +155,7 @@ Humans can maintain about 150 stable, meaningful relationships due to cognitive 
 
 ---
 
-While small talk (= idle talk = chitchat) has its place ,[^2] real bonding/conversation happens through sharing _[vulnerability](vulnerability.md)_ or ambition/aspirations.
+While small talk (= idle talk = chitchat) has its place ,[^3] real bonding/conversation happens through sharing _[vulnerability](vulnerability.md)_ or ambition/aspirations.
 
 ---
 
@@ -250,5 +250,6 @@ Judge a man by his questions rather than his answers.
 
 [Communication](communication.md)
 
-[^1]: [The Grant \& Glueck Study](https://www.adultdevelopmentstudy.org/grantandglueckstudy) is one of the world’s longest studies on human development \& adult life ([Harvard Study of Adult Development](https://www.adultdevelopmentstudy.org/)), conducted by researchers at Harvard University.
-[^2]: While deep conversations are valuable, it’s also important to recognize that small talk can serve as a social lubricant. The key is to avoid getting stuck in perpetual triviality.
+[^1]: [Passive-Aggressive Behavior](https://www.google.com/search?q=Passive-Aggressive+Behavior) (被動攻擊行為)
+[^2]: [The Grant \& Glueck Study](https://www.adultdevelopmentstudy.org/grantandglueckstudy) is one of the world’s longest studies on human development \& adult life ([Harvard Study of Adult Development](https://www.adultdevelopmentstudy.org/)), conducted by researchers at Harvard University.
+[^3]: While deep conversations are valuable, it’s also important to recognize that small talk can serve as a social lubricant. The key is to avoid getting stuck in perpetual triviality.
