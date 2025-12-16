@@ -1,7 +1,7 @@
 ---
 title: Communication
 created: 2024-11-18T09:18:12
-modified: 2025-12-04T17:06:31
+modified: 2025-12-16T14:38:22
 ---
 
 > _“The greatest communication is usually how we are rather than what we say.” — Joseph Goldstein_
@@ -27,6 +27,8 @@ State the facts and tell the truth. Speak with [integrity](integrity.md)—say e
 
 > _Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind._
 
+> _“It is better to be hated for what you are than to be loved for what you are not.” — André Gide_
+
 * If you think something, say something. Don’t expect people to guess your thoughts and feelings. Don’t hold a grudge when people didn’t predict what you wanted them to do. Just tell them.
 * People can’t read your mind [^1] / the thoughts in your head, they can only react to your action/word.
 * People who use direct/precise/literal sentences ↔ People who use indirect/shadow/implied/figurative sentences
@@ -38,6 +40,8 @@ State the facts and tell the truth. Speak with [integrity](integrity.md)—say e
 	2. 對方無法接受你的真實樣貌，選擇離開，結束一段不健康的關係。
 
 	無論是何種結果，其實都是好事。
+
+[Escape competition through authenticity](escape-competition-through-authenticity.md)
 
 ---
 
