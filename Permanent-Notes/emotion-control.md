@@ -1,7 +1,7 @@
 ---
 title: Emotion Control
 created: 2024-11-18T09:18:12
-modified: 2025-12-01T08:02:32
+modified: 2025-12-16T09:32:37
 ---
 
 > _“Emotional sickness is avoiding reality at any cost. Emotional health is facing reality at any cost.” — [M. Scott Peck](https://quotefancy.com/m-scott-peck-quotes)_
@@ -18,7 +18,17 @@ modified: 2025-12-01T08:02:32
 
 ---
 
-Emotional strength isn’t about getting rid of difficult feelings — it means you know how to [respond](choose-your-response.md) to them in a healthy way — focus your [attention](attention.md) on the actions that you can take to address your emotion, not the emotion itself. It’s not about managing your emotions; it’s about managing your response to your emotions.
+Emotional strength isn’t about getting rid of difficult feelings — it means you know how to [respond](choose-your-response.md) to them in a healthy way — focus your [attention](attention.md) on the actions that you can take to address your emotion, not the emotion itself. <mark>It’s not about managing your emotions; it’s about managing your **response** to your emotions.</mark>
+
+---
+
+Your goal in life should be to **reduce the amount of time it takes to get out of a bad state**. The ability to [bounce back quickly](resilience.md) is one of life’s most important skills.
+
+My wife once told me, <mark>[“When you’re five, you can be mad for a day. When you’re ten, you can be mad for an hour. By the time you’re thirty, you get ten minutes—and then you have to move on.”](https://jamesclear.com/3-2-1/december-11-2025)</mark>
+
+Life is full of [frustration and disappointment](failing-forward-turns-setbacks-into-stepping-stones.md). Real maturity isn’t eliminating bad moments—it’s shrinking the time they have power over you.
+
+Becoming [less reactive](choose-your-response.md) doesn’t mean nothing bothers you; it means you’ve trained yourself to recognize when you’re in a bad state and pull yourself out of it faster.
 
 ---
 
@@ -79,6 +89,44 @@ represents the five core elements of [happiness](happiness.md) and well-being:
 ---
 
 The thing that prevents you from seeing what’s actually happening are your emotions. Our emotions are constantly clouding our [judgment](judgment-is-the-most-important-skill-in-an-age-of-infinite-leverage.md).
+
+---
+
+> _“Think of life like a play, and it will ease your mind when you’re challenged or when someone stands in your way. Told yourself they were playing a role. **Every story needs a villain.** So why should you waste energy being upset at the villains in your story? Instead, you could use that energy as the fuel to beat them.” — Arnold Schwarzenegger_
+
+> _“Never wrestle with a pig in the mud because you’ll both get dirty and the pig likes it”. — George Bernard Shaw_
+
+> _“You cannot control the behavior of others, but you can always choose how you respond to it.” — Roy T. Bennett_
+
+> _“It is difficult to free fools from the chains they revere.” — Voltaire_
+
+> _“Talk sense to a fool and he calls you foolish.” — Euripides_
+
+> _“Never argue with a fool, because from a distance, people can’t tell who’s who.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+
+> _“I’m at the stage in life where I stay out of arguments. Even if you say 1+1=5, you’re right. Have fun.” — Keanu Reeves_
+
+* 不要和白痴吵架
+
+	> _“If a lion turned every time small dogs barked at it, it would be the laughing stock of the jungle.” — Matshona Dhliwayo_
+	
+	* [Dogs do not get tired of barking.](https://www.google.com/search?q=Dogs+do+not+get+tired+of+barking.)
+	* If you argue with a fool, you become one.
+	* [The Parable of the Donkey and the Tiger](the-parable-of-the-donkey-and-the-tiger.md)
+* 笑罵由人、唾面自乾
+	* 如果別人朝著你丟石頭，就不要扔回去了，留著做你建高樓的基石。
+	* [The Let-Them Theory](the-let-them-theory.md)
+* 有些人是真心來對話的，有些人是純心來吵架的，分清楚兩者之間的差異！
+* [“Taking Souls (收割靈魂)” by David Goggins](https://www.google.com/search?q=taking+souls+david+goggings)
+
+	> _“Always aspire to act in a way that cancels out someone else’s cruel or stupid behavior.” — Carl Hiaasen_
+
+	* 「逆境菩薩」
+	* Love your enemies—not by seeking their approval, but by turning your feelings about them into fuel. Let their doubt drive you. [Be so exceptional at what you do](always-do-your-best-as-possible.md) that they’re forced to respect you, not out of affection, but awe. They don’t need to like you. It’s about earning respect through undeniable excellence, shattering their preconceptions with your relentless work and undeniable results.
+* [Reminder: If someone is acting like an idiot, you can just move on and let them be wrong. You do not have a personal obligation to correct people who are committed to being stupid. Sure, sometimes you need to attempt to get on the same page, but usually you can simply reclaim your time and move on to more productive ventures.](https://jamesclear.com/3-2-1/april-24-2025)
+	* Knowing when to stop is a superpower. You don’t need to attend every argument you’re invited to, nor should you [waste your energy](energy-management.md) every time.
+	- The more easily you get offended, the less emotional intelligence you have. Invest your emotions wisely. Don’t engage in any fruitless arguments.
+	* The worst waste of time is arguing with the fool and fanatic who does not care about truth or reality, but only the victory of his beliefs and illusions.
 
 ---
 
