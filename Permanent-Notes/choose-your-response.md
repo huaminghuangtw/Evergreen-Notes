@@ -1,7 +1,7 @@
 ---
 title: Choose your response
 created: 2025-01-23T10:40:57
-modified: 2025-12-16T09:24:20
+modified: 2025-12-17T12:23:11
 ---
 
 > _“How we decide to respond to our fears, that is the person we become.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
@@ -34,10 +34,7 @@ modified: 2025-12-16T09:24:20
 
 ---
 
-
 Most of life’s conflicts come from people _reacting_ to situation rather than _responding_ to it. <mark>Man who cannot control his words cannot control himself.</mark>
-
-✱ Example:
 
 * REACTING
 	* Person 1: “Why did you do it like that?”
