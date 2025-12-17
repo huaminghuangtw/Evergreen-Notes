@@ -1,12 +1,12 @@
 ---
 title: 99% of effort is wasted
 created: 2025-12-03T05:33:32
-modified: 2025-12-04T17:06:31
+modified: 2025-12-17T08:13:40
 ---
 
 [@jorgensonAlmanackNavalRavikant2021]
 
-> _“I do believe that 99% of effort in life is ‘wasted’. And it’s not wasted in the sense that you don’t learn something; you do learn something. But if you look back at all the term papers you wrote and all the classes you took and all the people you dated and on all the thoughts you had and all the things you stressed about and all the decisions you made, 99% of them didn’t matter; they were inconsequential; and there were a few 1% decisions that did matter.”_
+> _[“I do believe that 99% of effort in life is ‘wasted’. If you look back at all the term papers you wrote, all the classes you took, all the people you dated, and all the things you stressed about. 99% of them didn’t matter; they were inconsequential; and there were a few 1% decisions that did matter.”](https://www.youtube.com/shorts/K1IG_aMmi2k)_
 
 > _“I think most people are working too hard. I think most people are just basically spinning wheels. The older you get, the better you get at just declining work that you know is useless. I have this theory that 99% of work that you do is useless. You still have to do it because it’s iterating your way to the 1% that is useful. But, in an ideal world, if you are omniscient, you would just cut to the 1%.”_
 
