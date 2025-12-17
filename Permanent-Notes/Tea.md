@@ -1,7 +1,7 @@
 ---
 title: Tea
 created: 2024-11-18T09:18:12
-modified: 2025-11-06T06:41:22
+modified: 2025-12-17T12:03:09
 ---
 
 # 茶氨酸 (L-Theanine)
@@ -29,7 +29,7 @@ modified: 2025-11-06T06:41:22
 
 * 康普茶 Kombucha
 * 普洱茶 Pu-Erh [^1]
-* 綠茶 \& 紅茶
+* 綠茶 [^2] \& 紅茶
 	* 咖啡因：紅茶 > 綠茶
 	* 茶氨酸：綠茶 > 紅茶
 * 日本抹茶 Matcha
@@ -39,3 +39,4 @@ modified: 2025-11-06T06:41:22
 * Peppermint Tea
 
 [^1]: <https://www.piquelife.com/pages/puer>
+[^2]: 富含「[兒茶素](https://www.google.com/search?q=兒茶素)（EGCG）」
