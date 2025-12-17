@@ -1,7 +1,7 @@
 ---
 title: Emotion Control
 created: 2024-11-18T09:18:12
-modified: 2025-12-16T09:32:37
+modified: 2025-12-16T16:48:30
 ---
 
 > _“Emotional sickness is avoiding reality at any cost. Emotional health is facing reality at any cost.” — [M. Scott Peck](https://quotefancy.com/m-scott-peck-quotes)_
@@ -109,7 +109,7 @@ The thing that prevents you from seeing what’s actually happening are your emo
 * 不要和白痴吵架
 
 	> _“If a lion turned every time small dogs barked at it, it would be the laughing stock of the jungle.” — Matshona Dhliwayo_
-	
+
 	* [Dogs do not get tired of barking.](https://www.google.com/search?q=Dogs+do+not+get+tired+of+barking.)
 	* If you argue with a fool, you become one.
 	* [The Parable of the Donkey and the Tiger](the-parable-of-the-donkey-and-the-tiger.md)
@@ -125,7 +125,7 @@ The thing that prevents you from seeing what’s actually happening are your emo
 	* Love your enemies—not by seeking their approval, but by turning your feelings about them into fuel. Let their doubt drive you. [Be so exceptional at what you do](always-do-your-best-as-possible.md) that they’re forced to respect you, not out of affection, but awe. They don’t need to like you. It’s about earning respect through undeniable excellence, shattering their preconceptions with your relentless work and undeniable results.
 * [Reminder: If someone is acting like an idiot, you can just move on and let them be wrong. You do not have a personal obligation to correct people who are committed to being stupid. Sure, sometimes you need to attempt to get on the same page, but usually you can simply reclaim your time and move on to more productive ventures.](https://jamesclear.com/3-2-1/april-24-2025)
 	* Knowing when to stop is a superpower. You don’t need to attend every argument you’re invited to, nor should you [waste your energy](energy-management.md) every time.
-	- The more easily you get offended, the less emotional intelligence you have. Invest your emotions wisely. Don’t engage in any fruitless arguments.
+	* The more easily you get offended, the less emotional intelligence you have. Invest your emotions wisely. Don’t engage in any fruitless arguments.
 	* The worst waste of time is arguing with the fool and fanatic who does not care about truth or reality, but only the victory of his beliefs and illusions.
 
 ---
