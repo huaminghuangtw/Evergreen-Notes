@@ -1,10 +1,8 @@
 ---
 title: Never lose faith and hope
 created: 2024-11-18T09:16:50
-modified: 2025-12-15T08:59:43
+modified: 2025-12-17T12:20:08
 ---
-
-> _“Believe and you’re halfway there.” — Harry S. Truman_
 
 > _“Without faith, it is impossible for you to become great.” ― Wallace D. Wattles, [The Science of Being Great](https://www.goodreads.com/work/quotes/1881171)_
 
@@ -46,7 +44,21 @@ Faith is to believe what you do not see; the reward of this faith is to see what
 
 > _“If you can dream it, you can do it.” — Walt Disney_
 
+---
+
+# On believing
+
 > _[“You can’t know, you can only believe - or not.” — C.S. Lewis](https://www.goodreads.com/quotes/81797-you-can-t-know-you-can-only-believe---or-not)_
+
+> _“Believe and you’re halfway there.” — Harry S. Truman_
+
+> _“By believing passionately in something that still does not exist, we create it.” — Franz Kafka_
+
+> _“When you believe in a thing, believe in it all the way, implicitly and unquestionable.” — Walt Disney_
+
+> _“Believe there is a great power silently working all things for good, behave yourself and never mind the rest.” — Beatrix Potter_
+
+> _“Believe it can be done. When you believe something can be done, really believe, your mind will find the ways to do it. Believing a solution paves the way to solution.” ― David J. Schwartz, [The Magic of Thinking Big](https://www.goodreads.com/work/quotes/746042)_
 
 ---
 
