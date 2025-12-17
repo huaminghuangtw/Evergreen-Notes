@@ -1,7 +1,7 @@
 ---
 title: How to live a life
 created: 2024-11-18T09:18:12
-modified: 2025-12-04T13:12:47
+modified: 2025-12-17T06:45:21
 ---
 
 > _“As long as you live, keep learning how to live.” — Seneca_
@@ -37,6 +37,7 @@ modified: 2025-12-04T13:12:47
 > _「人生不是戰場，不必追求勝利，也沒有勝利可追求，更重要的其實是經歷。」 — 張曼娟_
 
 > _“Decide what you would like your obituary to say, and live the life to deserve it.” — [Warren Buffet in his final letter to Berkshire Hathaway shareholders](https://www.berkshirehathaway.com/news/nov1025.pdf)
+
 
 ---
 
@@ -107,5 +108,16 @@ But resisting reality is always the wrong choice / the worst option is sitting a
 Life is like a maze. There are two ways to advance your life: [move forward](just-getting-started.md) when you can, or if you can’t, step back and try a new way. The biggest mistake is to stand still.
 
 人生中遇到任何情況，其實只有三種選擇：接受它（改變自己的態度）、改變它，或是離開它。最糟糕的做法，是抗拒現實 — 既不接受、也不改變、也不離開，只停留在抱怨、擔心與掙扎中 — 這就是大部分痛苦的根源。人生就像一座迷宮，能前進時就勇敢前行，走不通時就退一步換條路，但絕不是原地僵住不動。
+
+---
+
+# 德國哲學家康德（[Immanuel Kant](https://www.google.com/search?q=Immanuel+Kant)）的「人性公式」（Formel der Menschheit）
+
+> _“Handle so, dass du die Menschheit, sowohl in deiner Person, also in der Person eines jeden andern, jederzeit zugleich also Zweck, niemals bloß also Mittel brauchst.” — Immanuel Kant,《[道德形上學基礎](https://zh.wikipedia.org/zh-tw/%E9%81%93%E5%BE%B7%E5%BD%A2%E4%B8%8A%E5%AD%B8%E5%9F%BA%E7%A4%8E)》（Grundlegung zur Metaphysik der Sitten, 1785）_
+>
+> _[Act in such a way that you treat humanity, whether in your own person or in the person of any other, never merely as a means to an end, but always at the same time as an end.](https://www.goodreads.com/quotes/34313-act-in-such-a-way-that-you-treat-humanity-whether)_
+>
+> 把生命當成目的本身，而不是達成目的的手段。
+
 
 [^1]: _“The greatest miracle is to be alive.” — Thich Nhat Hanh_
