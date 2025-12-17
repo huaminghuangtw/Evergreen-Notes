@@ -1,7 +1,7 @@
 ---
 title: How to Make Your Own Energy Bars
 created: 2025-05-03T05:29:44
-modified: 2025-10-27T08:30:13
+modified: 2025-12-17T11:54:30
 ---
 
 ≈ Energy/Power Balls
@@ -26,7 +26,7 @@ modified: 2025-10-27T08:30:13
 	* 可在煮米的過程中視情況再加水
 * 4 tbsp Coconut Oil
 * 3 tbsp Brown/Coconut Sugar
-* 2 tbsp 肉桂粉 Cinnamon (防抽筋)
+* 2 tbsp [肉桂粉 Cinammon](cinammon.md) (防抽筋)
 * 100 ml 蜂蜜 Honey or 龍舌蘭糖漿 (Agave Nectar/Syrup)
 * (Optional) 增加黏性用
 	* Peanut Butter (花生醬/奶油)
