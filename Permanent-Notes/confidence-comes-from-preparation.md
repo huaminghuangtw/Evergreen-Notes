@@ -1,7 +1,7 @@
 ---
 title: Confidence comes from preparation
 created: 2024-11-18T09:18:12
-modified: 2025-10-28T17:41:24
+modified: 2025-12-18T16:38:30
 ---
 
 > _“Confidence comes from [preparation](planning-and-preparation-help-maximize-your-productivity.md). When the game is on the line, I’m not asking myself to do something I haven’t done a thousand times before…In those moments, if I look like ice-cold or not nervous, it’s because I’ve done it a thousand times before. So it’s (just) one more time.” — Kobe Bryant_
@@ -16,4 +16,8 @@ modified: 2025-10-28T17:41:24
 
 ---
 
-[自信，只能從面對並且克服「不擅長」的事裡獲得。當一個人從無到有、從0到100的過程中獲得成就感，那才是真正的自信。](https://www.books.com.tw/products/0010959928)
+Confidence in public comes from discipline/preparation in private.
+
+---
+
+[自信，只能從面對並且克服「不擅長」的事裡獲得。當一個人從無到有、從 0 到 100 的過程中獲得成就感，那才是真正的自信。](https://www.books.com.tw/products/0010959928)
