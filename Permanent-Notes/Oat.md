@@ -1,13 +1,22 @@
 ---
 title: Oat
 created: 2024-11-18T09:16:50
-modified: 2025-07-16T21:23:30
+modified: 2025-12-18T18:15:54
 ---
 
-Steel-cut oats take 20 to 30 minutes to cook. They have a chewier texture than rolled oats. Some athletes use a crockpot to cook them overnight. Despite popular belief, steel-cut oats are nutritionally similar (notsuperior) to rolled oats.
+# 燕麥種類
 
-Old-fashioned oats (rolled oats) cook in 5 to 10 minutes and have a firm texture. They can be eaten uncooked with milk, like any dry cereal, or in the form of muesli or overnight oats.
+![](f5b50132790bb4fe839a90f620cbdb06.png)
 
-Quick-cooking oats are ready in a minute on the stovetop. Because they are rolled thinner than old-fashioned oats, they cook quicker and have a smoother texture.
+* 鋼鐵切燕麥粒 Steel-cut oats
+* 傳統燕麥片 Rolled /Old-fashioned oats
+* 快熟燕麥片 Quick cooking oats
+* 即食燕麥片 Instant oats
 
-Instant oats
+---
+
+顆粒越完整，需沖煮的時間越長，營養價值也越高。
+
+| ![](a5118a788a3fae38c1eb98c76a1bc0ec.jpeg) |
+| :-: |
+| <sub>kernig 硬的 v.s zart 軟的</sub> |
