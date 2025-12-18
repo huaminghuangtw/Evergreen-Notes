@@ -1,7 +1,7 @@
 ---
 title: How to live a life
 created: 2024-11-18T09:18:12
-modified: 2025-12-17T06:45:21
+modified: 2025-12-17T16:08:58
 ---
 
 > _“As long as you live, keep learning how to live.” — Seneca_
@@ -37,7 +37,6 @@ modified: 2025-12-17T06:45:21
 > _「人生不是戰場，不必追求勝利，也沒有勝利可追求，更重要的其實是經歷。」 — 張曼娟_
 
 > _“Decide what you would like your obituary to say, and live the life to deserve it.” — [Warren Buffet in his final letter to Berkshire Hathaway shareholders](https://www.berkshirehathaway.com/news/nov1025.pdf)
-
 
 ---
 
@@ -118,6 +117,5 @@ Life is like a maze. There are two ways to advance your life: [move forward](jus
 > _[Act in such a way that you treat humanity, whether in your own person or in the person of any other, never merely as a means to an end, but always at the same time as an end.](https://www.goodreads.com/quotes/34313-act-in-such-a-way-that-you-treat-humanity-whether)_
 >
 > 把生命當成目的本身，而不是達成目的的手段。
-
 
 [^1]: _“The greatest miracle is to be alive.” — Thich Nhat Hanh_
