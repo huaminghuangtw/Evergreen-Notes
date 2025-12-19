@@ -1,7 +1,7 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-12-14T20:04:21
+modified: 2025-12-19T05:55:44
 ---
 
 > _“Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot_
@@ -40,13 +40,7 @@ modified: 2025-12-14T20:04:21
 
 > _“They are born, then put in a box; they go home to live in a box; they study by ticking boxes; they go to what is called ‘work’ in a box, where they sit in their cubicle box; they drive to the grocery store in a box to buy food in a box; they go to the gym in a box to sit in a box; they talk about thinking ‘outside the box’; and when they die they are put in a box. All boxes, Euclidean, geometrically smooth boxes.” — [@talebBedProcrustesPhilosophical2016]_
 
-> _“At the end of the day, we can endure much more than we think we can.” — Frida Kahlo_
-
 > _[“Sometimes it takes a heartbreak to shake us awake & help us see we are worth so much more than we’re settling for.” — Mandy Hale, The Single Woman–Life, Love, and a Dash of Sass: Embracing Singleness with Confidence](https://www.goodreads.com/quotes/862014-sometimes-it-takes-a-heartbreak-to-shake-us-awake)_
-
-> _“Don’t let your imagination be crushed by life as a whole. Don’t try to picture everything bad that could possibly happen. Stick with the situation at hand, and ask, “Why is this so unbearable? Why can’t I endure it?” — [@markaurelMeditations2006]_
-
-> _“Pain is neither unbearable nor unending, as long as you keep in mind its limits and don’t magnify them in your imagination.” — [@markaurelMeditations2006]_
 
 > _[“Believe in your infinite potential. Your only limitations are those you set upon yourself.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7721794-believe-in-your-infinite-potential-your-only-limitations-are-those)_
 
@@ -119,18 +113,6 @@ You don’t know how much a rubber band can hold until you stretch it. And if yo
 
 ---
 
-# [The Creative Process = The Manifestation Practice](https://www.thesecret.tv/manifestation/)
-
-1. Ask
-	* [“Ask and you shall receive.” — Matthew 7:7](https://biblehub.com/matthew/7-7.htm)
-	* [Closed mouths don’t get fed.](https://youtu.be/zkTf0LmDqKI)
-	* [The squeaky wheel gets the grease. (會吵的小孩有糖吃)](https://www.google.com/search?q=The+squeaky+wheel+gets+the+grease)
-2. Believe
-	* You can’t get to a place that you don’t believe exists.
-3. Receive
-
----
-
 If someone says: “That’s impossible. You should understand it as: “According to my very limited experience and narrow understanding of reality, that’s very unlikely.”
 
 ---
@@ -141,8 +123,8 @@ If someone says: “That’s impossible. You should understand it as: “Accordi
 
 # Two of The Biggest Impediments to Life Change
 
-* [Emotion](emotion-control.md): We’re all emotional creatures. We’re so close to everything in our own lives that it’s often hard to remove emotions from our decisions.
-* [Inaction](cultivate-a-strong-bias-towards-action.md): It’s always easier to maintain the [status quo](the-present-bias.md) than taking action. It’s a constant internal battle with yourself especially when inaction appears to be less risky and painful. Yet, when you examine the worst-case scenario, it isn’t as scary as you imagined. In fact, the greatest risk lies in doing nothing at all—once you embrace taking risks, they become far less intimidating than they first seem.
+1. [Emotion](emotion-control.md): We’re all emotional creatures. We’re so close to everything in our own lives that it’s often hard to remove emotions from our decisions.
+2. [Inaction](cultivate-a-strong-bias-towards-action.md): It’s always easier to maintain the [status quo](the-present-bias.md) than taking action. It’s a constant internal battle with yourself especially when inaction appears to be less risky and painful. Yet, when you examine the worst-case scenario, it isn’t as scary as you imagined. In fact, the greatest risk lies in doing nothing at all—once you embrace taking risks, they become far less intimidating than they first seem.
 
 ---
 
@@ -168,10 +150,15 @@ Your present circumstances don’t determine where you can go; they merely deter
 
 > _“When you think that you are done, you’re only 40% in to what your body’s capable of doing. That’s just the limits that we put on ourselves.”_
 
+> _“At the end of the day, we can endure much more than we think we can.” — Frida Kahlo_
+
 * People typically quit when they are only 40% exhausted; they still have 60% left in the tank.
 	* 當你覺得自己已經「撐不下去了」時，其實你只用了自己潛力的 40%，還有 60% 的潛力沒有被挖掘出來。人的極限常常是心理設下的，而不是身體真正的極限。
 * When the low fuel light comes on, your tank still holds 10–15% of fuel — enough to keep going for dozens of kilometers. Your brain works the same way: it warns you to stop long before you’re truly empty. Trust that you’ve still got more in the tank.
-	* 汽車加油燈的比喻：當汽車的油燈亮起時，很多人會以為「完了，快沒油了，撐不住了」。但實際上，它只是個警告燈；只是在提醒你油量低了—通常是在油箱還剩下 10～15% 燃油時才會亮起，換句話說，你往往還能再開個 50 到 100 公里沒問題。因此，當油燈（心理極限）亮起時，其實你體內還有很多燃料（潛力）沒被發揮。不要一看到「油燈」亮就急著停下來，學會信任自己，其實你還能再前進一段不短的距離。
+	* 汽車加油燈的比喻：當汽車的油燈亮起時，很多人會以為「完了，快沒油了，撐不住了」。但實際上，它只是個警告燈；只是在提醒你油量低了—通常是在油箱還剩下 10～15% 燃油時才會亮起，換句話說，你往往還能再開個 50 到 100 公里沒問題。
+	* 因此，當油燈（心理極限）亮起時，其實你體內還有很多燃料（潛力）沒被發揮。不要一看到「油燈」亮就急著停下來，學會信任自己，其實你還能再前進一段不短的距離。
+
+[Pain Is Inevitable. Suffering Is Optional.](pain-is-inevitable-suffering-is-optional.md)
 
 ---
 
