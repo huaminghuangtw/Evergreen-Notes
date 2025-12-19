@@ -1,7 +1,7 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2025-12-09T15:24:30
+modified: 2025-12-18T19:47:30
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -65,12 +65,13 @@ A simple decision-making framework created by author and speaker Suzy Welch. The
 >
 > As organizations get larger, there seems to be a tendency to use the heavy-weight Type 1 decision-making process on most decisions, including many Type 2 decisions. The end result of this is slowness, unthoughtful risk aversion, failure to experiment sufficiently, and consequently diminished invention We’ll have to figure out how to fight that tendency.
 
-|     Type I      |                           Type II                            |
-| :-------------: | :----------------------------------------------------------: |
-| One-directional |                        Bi-directional                        |
-|  One-way door   |                         Two-way door                         |
-|  Irreversible   |                          Reversible                          |
-|      三思而後行      | [三行而後思](cultivate-a-strong-bias-towards-action.md) |
+|                         Type I                          |                         Type II                         |
+| :-----------------------------------------------------: | :-----------------------------------------------------: |
+|                     One-directional                     |                     Bi-directional                      |
+|                      One-way door                       |                      Two-way door                       |
+|                      Irreversible                       |                       Reversible                        |
+| [機會成本](everything-in-life-has-an-opportunity-cost.md) 較高 | [機會成本](everything-in-life-has-an-opportunity-cost.md) 較低 |
+|                          三思而後行                          |   [三行而後思](cultivate-a-strong-bias-towards-action.md)    |
 
 ---
 
