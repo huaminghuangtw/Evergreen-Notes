@@ -1,7 +1,7 @@
 ---
 title: Daily Oat Meal Bowl
 created: 2024-11-18T09:16:50
-modified: 2025-12-18T04:35:29
+modified: 2025-12-18T19:17:27
 ---
 
 [Oat](Oat.md) (100g)
@@ -30,8 +30,6 @@ modified: 2025-12-18T04:35:29
 	* Frozen Berries: 藍莓、草莓、覆盆莓
 * Tips
 	* 盡量在前一晚做好：隔夜冷泡燕麥粥 (Overnight oats) [^1]
-
-
 
 # References
 
