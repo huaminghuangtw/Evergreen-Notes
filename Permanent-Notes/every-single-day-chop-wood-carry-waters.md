@@ -1,7 +1,7 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2025-12-16T17:07:11
+modified: 2025-12-19T08:20:17
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -60,13 +60,11 @@ There is a Zen Buddhist saying: “What do you do before enlightenment? _Chop w
 
 > _“If you can’t fly, run. If you can’t run, walk. If you can’t walk, crawl, but by all means, keep moving.” — Martin Luther King, Jr._
 
-# [Fire & Movement](https://en.wikipedia.org/wiki/Fire_and_movement)
+> _[“What’s done is done. What’s gone is gone. One of life’s lessons is always moving on. It’s okay to look back to see how far you’ve come but keep moving forward.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7711460-what-s-done-is-done-what-s-gone-is-gone-one-of)_
+
+# 邊開火邊移動（[Fire & Movement](https://en.wikipedia.org/wiki/Fire_and_movement)）
 
 > _[“You move towards the enemy while firing your weapon. The firing forces him to keep his head down so he can’t fire at you. The motion allows you to conquer territory and get closer to your enemy, where your shots are much more likely to hit their target. If you’re not moving, the enemy gets to decide what happens, which is not a good thing. If you’re not firing, the enemy will fire at you, pinning you down.” — Joel Spolsky](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/)_
-
-軍事策略：邊開火邊移動
-
-國軍單兵戰鬥基本教練的報告詞：「請鄰兵以火力掩護我」
 
 ---
 
@@ -174,7 +172,7 @@ EVERYDAY is easier than SOMEDAY. [^3] Embrace the daily mundane activities / ord
 
 ---
 
-[Mental toughness](https://en.wikipedia.org/wiki/Mental_toughness) is often associated with dramatic efforts to **push through the pain**, **grind it out to the end**, and **find a way to make it happen**—the kind of perseverance needed to cross a finish line. However, true [mental toughness](resilience.md) shows up in quieter moments: it’s the discipline to **show up when no one is watching**, **keep your eye on the ball**, and **do a little bit every day**. At its core, mental toughness means not skipping the days that are easy to skip.
+[Mental toughness](https://en.wikipedia.org/wiki/Mental_toughness) is often associated with dramatic efforts to **push through the [pain](pain-is-inevitable-suffering-is-optional.md)**, **grind it out to the end**, and **find a way to make it happen**—the kind of perseverance needed to cross a finish line. However, true [mental toughness](resilience.md) shows up in quieter moments: it’s the discipline to **show up when no one is watching**, **keep your eye on the ball**, and **do a little bit every day**. At its core, mental toughness means not skipping the days that are easy to skip.
 
 ---
 
