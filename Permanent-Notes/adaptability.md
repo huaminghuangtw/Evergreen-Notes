@@ -1,10 +1,12 @@
 ---
 title: Adaptability
 created: 2024-11-18T09:18:12
-modified: 2025-12-16T08:52:56
+modified: 2025-12-19T16:22:44
 ---
 
 > _“It is not the strongest of the species that survives, nor the most intelligent. It is the one most adaptable to change; but the species that survives is the one that is able best to adapt and adjust to the changing environment in which it finds itself.” — Charles Darwin_ [^1]
+
+> _“Arrange whatever pieces come your way.” — Virginia Woolf_
 
 > _“Intelligence is the ability to adapt to change.” — Stephen Hawking_
 
