@@ -1,235 +1,37 @@
 ---
-title: ⚖️ 和過去的自己說再見、故宮南院馬拉松、讓慾望安靜
-issue: 9
-slug: enoughness-9
-description: "Enoughness #9"
-created: 2025-12-12T00:00:00
-modified: 2025-12-17T16:08:58
-draft: false
+title: A Thousand Miles by One Step
+created: 2025-12-09T17:13:58
+modified: 2025-12-19T08:22:35
 ---
 
-<!-- SELF-INTRO-START -->
+A young traveler set out at dawn, filled with ambition for the long journey ahead. The sky was clear, the air cool, and the road stretched before him like a promise. He walked with light steps, proud of his steady progress. By late afternoon, he had covered more ground than he expected.
 
-_嗨，我是 [黃樺明](https://huami.ng)，我熱愛 [寫作](https://huami.ng/writing)、[戶外運動](https://www.strava.com/athletes/huaminghuang)、[開發提升生活品質的軟體工具](https://github.com/huaminghuangtw)。若有一天必須留下 [墓誌銘](https://huami.ng/2025/7/15/live-each-day-as-if-it-were-your-last)，我希望上面寫著：他致力於 [改善人類的手機使用習慣](https://shortcutomation.com)，也努力 [讓臺灣的學生運動員擁有更好的教育環境和適應環境的能力](https://adaptx.tw)。Enoughness，是我從 2023 年開始每天練習的生活哲學，一種「剛剛好」的生活態度。每週，我會在這份電子報分享幾件觸動我 [好奇心](https://huami.ng/weekly-mindware-update) 的事物、想法與學習。如果這封信是朋友轉寄給你的，歡迎 [點此訂閱](https://huami.ng/newsletter)。想看看過往內容？[歷年電子報](https://huami.ng/enoughness) 都在這裡。_
+But as the sun began to sink, the path suddenly changed. The smooth dirt road turned into uneven stones and jagged rocks. Each step became slower and more painful. Dust swirled around his ankles. His confidence evaporated.
 
-<!-- SELF-INTRO-END -->
+Annoyed and exhausted, he stopped, looked up at the sky, and shouted:
 
----
+“Why must the road become so harsh now?”
 
-# 1
+“If this is what the path is going to be like, I’ll never make it to the end!”
 
-**生活中最難的，不是向認識的人道別，而是和過去的自己說再見。**
+His complaint echoed into the hills.
 
-以前，我花很多時間思考「我到底是誰？」，卻始終百思不得其解。
+From the shade of a nearby tree, an old man—gray-haired, leaning on a wooden staff—lifted his head. He had been resting there quietly, watching the scene unfold. With a gentle chuckle, he approached the traveler.
 
-後來，我體會到：太刻意地想要回答這個問題，不僅多餘，甚至危險。
+“Young man,” the old man said, **“you’ve judged a thousand miles by seeing just one.”**
 
-越長大，越覺察：**我，只是存在。**
+The traveler frowned. “What do you mean?”
 
-在這趟人生旅途中，我不過是來旅行的。
+The old man smiled.
 
-此時此刻的我，是短暫且稍縱即逝的。
+“You walked an entire day on good road and assumed the whole journey would be easy. Then one patch of stones, and you assume the whole journey will be hard. A path is made of many kinds of ground—smooth, rough, steep, flat. But none of them last forever. Only a fool decides whether he can finish a journey based on a single moment of it.”
 
-我，從未「完成」，也不會有「完成」的一天。
+The traveler looked at his tired feet, then at the rocky stretch ahead. The old man tapped the ground with his staff.
 
-我，永遠都是「正在進行中」的作品。
+“Keep walking. Tomorrow may surprise you. But if you stop here, this small rough patch will become your whole world.”
 
-我，永遠都處於「正在成為」的狀態。
+Understanding dawned on the young traveler. He bowed to the old man, steadied himself, and continued onward into the twilight—one careful step at a time.
 
-我，沒有起點、中點或終點，也沒有所謂的 V1 或 V2 版本。
+And as the old man watched him go, he murmured:
 
-沒有過去的我需要緊抓不放，也沒有未來的我需要過度擔憂；
-
-只有我 — 那個不完美，卻仍持續改變、更新、進步的我。
-
-👉 閱讀全文：《[和過去的自己說再見](https://huami.ng/2025/12/11/goodbye-past-me)》
-
-# 2
-
-上週日，我參加了 [故宮南院馬拉松](https://www.strava.com/activities/16680278744)。
-
-這是我的第二場馬拉松，也是在台灣的初馬。
-
-<div align="center">
-
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="16680278744" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
-
-</div>
-
-很多人說：「**一場馬拉松，從第 30 公里處才真正開始。**」
-
-所以，按照自己的配速前進，不被別人的節奏打亂，是一件非常重要的事。
-
-在長跑中，如果說有什麼必須戰勝的對手，那便是 [過去的自己](https://huami.ng/2025/12/11/goodbye-past-me)。
-
-在這條賽道上，唯一的競爭者，只有昨天的自己。
-
-<div align="center">
-
-![](../_attachments/4c5eaa63b3f587ca0fd24fcd9b081daa.jpg)
-
-<sub><em>圖片來源：[尋寶網](https://www.soonnet.org/V181228-76101057)</em></sub>
-
-</div>
-
-也有很多人說：「**當你報名馬拉松時，基本上也報名了痛苦。**」
-
-好不容易來到最後 3 公里，每一步都變得異常沈重 — 大腿緊到快抽筋，呼吸也變得急促 — 身體不斷發出訊號，叫我停下來。
-
-就在極限邊緣，我想起了 [村上春樹](https://www.google.com/search?q=村上春樹) 在《[關於跑步，我說的其實是……](https://www.goodreads.com/work/quotes/2475030)》裡的那句名言：
-
-> _Pain is inevitable. Suffering is optional._
->
-> 痛是難免的，苦是甘願的。
-
-身體的疼痛（Pain），是無法避免的生理反應；但心靈的受苦（Suffering），卻是可以選擇的心理狀態。
-
-於是，我試著抽離雙腳痠痛的事實，不再去想還有多遠，而是專注在當下的每一步。
-
-盯著前方跑友的背影、看著腳下的路面、在心中默數 1 到 100…
-
-「我不行了」，不過是個隨時能重新改寫的念頭。
-
-在任何情況下，我永遠可以選擇與痛共存，但不必為苦所困。
-
-![](../_attachments/f746497b619882fde6c546cdf91e51eb.jpeg)
-
-還有很多人說：「**在馬拉松的世界裡，只有累積，沒有奇蹟。**」
-
-最無聊的練習，沉澱出最扎實的基本功。
-
-沒有捷徑，也沒有速成的秘訣。
-
-只有每天重複的浪漫。
-
-奧斯卡影帝 [Will Smith](https://www.google.com/search?q=Will+Smith) 的「[堆磚塊](https://www.youtube.com/watch?v=wIsgyIq_kFs&t=128s)」心態，正是這種精神的最佳寫照：
-
-> _You don’t try to build a wall. You don’t start by saying, I’m going to build the biggest, baddest wall that’s ever been built. You say, I’m going to lay this brick as perfectly as a brick can be laid. You do that every single day, and soon you have a wall._
->
-> 你不說：「我要蓋出一道完美的牆。」你說：「我要完美地擺放每塊磚頭，有一天，我就會蓋出一道完美的牆。」
-
-跑步也是如此。那一磚一瓦的堆疊，正是我們跨出的每一步。
-
-當我們不再被遙遠的 42 公里震懾住，選擇把注意力拉回當下，專心把每一步跑穩、跑好；不知不覺中，看似不可能的距離，都會被我們甩在身後。
-
-人生不是短跑衝刺，而是一場沒有終點的馬拉松；關鍵不是贏在起跑線，或爭一時之先，而是細水長流、走得長遠。
-
-就像一顆大樹，並非一夜之間就能長成，而是在多年前就種下樹苗，經過漫長的灌溉與照料，最後才能迎來綠蔭。
-
-**贏過自己、專心致志、享受過程，這些都是馬拉松教我的事。**
-
-![](../_attachments/bc59c84309f32363c8cb3789ee35b847.jpeg)
-
-# 3
-
-粵劇中的「[虎度門](https://www.google.com/search?q=虎度門)」是舞台兩側的出入口。
-
-演員一旦跨過這道門，就必須放下自我，全情投入表演。
-
-人生如戲，我們在不同階段扮演學生、伴侶、父母或職場強人。
-
-有時候，我們太執著於某個角色，卻忘了那只是人生的其中一幕。
-
-真正的考驗，不只是如何「入戲」，更是懂得何時「出戲」。
-
-就像粵劇演員要在戲裡盡情演繹，也要在謝幕後卸下妝容、回歸自我。
-
-⚖️ 我們需要學會在「投入」與「抽離」之間取得平衡 — 既能跨過虎度門精彩演繹，也能在落幕時瀟灑轉身。
-
-人生中也有無數次待跨過的虎度門，當我們意識到「我只是暫時在扮演這個角色」，就能更輕盈、自由、自在地生活。
-
-**進入角色，也走出角色。**
-
-![](../_attachments/ceee7b73be3efd6a75e7120165325b59.png)
-
-# 4
-
-矽谷知名天使投資人 [Naval Ravikant](https://www.google.com/search?q=Naval+Ravikant) 在 [訪談中](https://www.youtube.com/watch?v=KyfUysrNaco&t=4910) 說道：「**人生中許多掙扎，往往是因為我們內心同時存在兩個互相衝突的慾望。**」
-
-簡單來說，就是苦於「現實」與「理想」的脫節：
-
-1. 一方面想要穩定高薪的工作，另一方面又想要全職追求熱情。
-
-	➡️ 結果：既對工作感到空虛，又害怕追求夢想帶來的不確定性。
-
-2. 一方面想要表達內心的真實想法，另一方面又希望被外界的眼光喜歡。
-
-	➡️ 結果：既對自己產生懷疑，又因忽略本心而焦躁不安。
-
-3. 一方面想要維持這段關係的安穩，另一方面又渴望離開這個不再讓自己成長的環境。
-
-	➡️ 結果：既感到窒息與拉扯，又無法在關係中做自己。
-
-要緩解這種壓力，方法之一就是承認自己確實面臨兩個相互衝突的慾望，然後做出選擇：
-
-要嘛選定一個，下好離手，並坦然接受失去另一個；
-
-要嘛暫時擱置，讓慾望安靜，稍後再做決定。
-
-P.S. 這集是我最喜歡的 Podcast 集數之一，滿滿的人生智慧，[歡迎閲讀我的筆記](https://huami.ng/44-harsh-truths-about-human-nature/)。
-
-![](../_attachments/4583779e4477d44535c8a24505e3069a.png)
-
-# 5
-
-最近在讀《[大格局大思維](https://www.books.com.tw/products/0010970897)》這本書。
-
-和你分享我最喜歡的金句：
-
-1. 當你真心相信某件事能成，大腦就會自動開始尋找解決辦法。相信有解，解法就會出現。
-
-	> _Believe it can be done. When you believe something can be done, really believe, your mind will find the ways to do it. Believing a solution paves the way to solution._
-
-2. 別只看事物的現狀，要看它未來的潛力。有遠見的人總是能預見未來，而不被現狀困住。
-
-	> _Look at things not as they are, but as they can be. A big thinker always visualizes what can be done in the future. He isn’t stuck with the present._
-
-3. 引導智力的思維方式，遠比擁有多少智力更重要。
-
-	> _The thinking that guides your intelligence is much more important than how much intelligence you have._
-
-這讓我聯想到一翻開《[賈伯斯傳](https://www.google.com/search?q=賈伯斯傳)》，那句 Apple 在 1997 年的廣告：
-
-> _The people who are crazy enough to think they can change the world are the ones who do._
->
-> 那些瘋狂到自以為能改變世界的人，才是真正改變世界的人。
-
-我們的夢想必須大到超過目前能力所及。
-
-如果你的夢想沒有讓你感到恐懼，表示它還不夠大。
-
-愛爾蘭劇作家 [George Bernard Shaw](https://www.google.com/search?q=George+Bernard+Shaw) 曾說：
-
-> _The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man._
->
-> 理性的人讓自己適應世界；不理性的人堅持讓世界適應自己。因此，所有的進步都取決於那些不理性的人。
-
-這裡的「不理性」，指的是不願盲從現狀、敢於跳脫既定認知框架的勇氣。
-
-請記得：昨天的夢想，是今天的希望，也將會是明天的現實。
-
-當你開始懷疑自己會不會成功時，就已經失敗了。
-
-人類的潛力無遠弗屆，不要自己拒了自己。
-
-挑戰限制，而非限制挑戰。
-
-永遠把眼光放大、把目光放遠，因為大格局思考就算輸了，也比小格局思考下的勝利，更能讓人成長。
-
-相信你的無限潛能，也別忘記在面對艱難的困境時，當個瘋子！
-
-Think big. Dream big.
-
-![](../_attachments/fbb14ccb28991a710e29af7c1e78c4c1.jpg)
-
-— [樺明](https://huami.ng/2025/12/12/enoughness-9)
-
----
-
-<p align="center">
-<sub>
-“Don’t do what you can do. Try what you can’t do.”
-<br>
-— William Faulkner
-</sub>
-</p>
+**“The journey becomes clear only to those who keep moving.”**
