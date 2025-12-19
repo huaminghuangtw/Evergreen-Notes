@@ -1,7 +1,7 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2025-12-14T09:10:12
+modified: 2025-12-19T05:53:00
 ---
 
 > _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
@@ -26,7 +26,7 @@ modified: 2025-12-14T09:10:12
 
 > _“I learned that by constantly doing things that are hard and making myself uncomfortable, I improve my ability to handle obstacles. I get comfortable being uncomfortable—and that’s real mental toughness.” ― Jesse Itzler, [Living with a SEAL: 31 Days Training with the Toughest Man on the Planet](https://www.goodreads.com/work/quotes/44751808)_
 
-> _“We must all suffer from one of two pains: the pain of [discipline](discipline-equals-freedom.md) or the pain of regret. The difference is [discipline](discipline-equals-freedom.md) weighs ounces while regret weighs tons.” — Jim Rohn_
+> _“We must all suffer from one of two [pains](pain-is-inevitable-suffering-is-optional.md): the pain of [discipline](discipline-equals-freedom.md) or the pain of regret. The difference is [discipline](discipline-equals-freedom.md) weighs ounces while regret weighs tons.” — Jim Rohn_
 
 > _“Who you are is defined by what you’re willing to struggle for.” — Mark Manson_
 
@@ -109,7 +109,7 @@ When we embrace _|voluntary struggles_, we’re better equipped/prepared for the
 
 > _“The costs of your good [habits](be-a-habit-and-routine-machine.md) are in the present. The costs of your bad [habits](be-a-habit-and-routine-machine.md) are in the future.” — James Clear_
 
-* [Short-term pain](instant-gratification.md) typically creates compounding [long-term gain](delayed-gratification.md).
+* [Short-term pain](pain-is-inevitable-suffering-is-optional.md) typically creates compounding [long-term gain](delayed-gratification.md).
 * [Short-term cost pays long-term dividend.](everything-in-life-has-an-opportunity-cost.md)
 * Every gain in life comes from [compound interests](the-compounding-effect.md). Almost all mistakes in life come from short-term thinking. The things that _feel good to us_ in the short-term are rarely the things that _are good for us_ in the long-term.
 * [先苦後甘 > 先甘後苦](do-hard-things.md)
