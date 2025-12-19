@@ -1,7 +1,7 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2025-12-16T09:21:44
+modified: 2025-12-19T07:35:59
 ---
 
 > _[“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)_
@@ -23,8 +23,6 @@ modified: 2025-12-16T09:21:44
 > _“There is a saying in Tibetan, ‘Tragedy should be utilized as a source of strength.’ No matter what sort of difficulties, how painful experience is, if we lose our hope, that’s our real disaster.” ― Dalai Lama XIV_
 
 > _“Our greatest glory is not in never failing, but in rising up every time we [fail](failing-forward-turns-setbacks-into-stepping-stones.md).” — Ralph Waldo Emerson_
-
-> _[“It’s not about how hard you hit. It’s about how hard you can get hit and keep moving forward. How much you can take and keep moving forward.” — Rocky balboa Sylvester Stallone](https://youtu.be/tZUC-uAGLEA)_
 
 > _“Making progress isn’t always about moving forward. Sometimes it’s about bouncing back. Progress is not only reflected in the peaks you reach-it’s also visible in the valleys you cross. Resilience is a form of growth.” ― Adam Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
 
@@ -69,10 +67,6 @@ Forget all the reasons why it won’t work and believe the one reason why it wil
 ---
 
 Resistance, obstacles, and roadblocks lead to growth. “A gem cannot be polished without friction, nor a man perfected without trials.”
-
----
-
-[It’s not about how hard you hit. It’s about how hard you can get hit, how much you can take, and keep moving forward.](https://www.youtube.com/watch?v=tZUC-uAGLEA)
 
 ---
 
