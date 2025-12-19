@@ -1,7 +1,7 @@
 ---
 title: Failing forward turns setbacks into stepping stones
 created: 2024-11-18T09:18:12
-modified: 2025-12-16T09:06:02
+modified: 2025-12-19T07:33:37
 ---
 
 > _“Opportunity often comes disguised in the form of misfortune or temporary defeat.” — Napoleon Hill_
@@ -45,7 +45,7 @@ You don’t have to get it right the first time. Just fail faster.
 
 > _“When you double your rate of failure you double your rate of success.” — James Swanwick_
 
-> _[“Legends aren’t defined by their success, they’re defined by how they bounce back from their failures.” — Chris Bosh](https://www.imdb.com/title/tt21837726/)_
+> _[“Legends aren’t defined by their success, they’re defined by how they bounce back from their failures.” — Chris Bosh](https://www.youtube.com/shorts/Hkd-7zUxQaA)_
 
 * Failure is not the opposite of success, it’s part of success. Failure is success in progress.
 * Success comes from turning _setbacks_ into _comebacks_.
