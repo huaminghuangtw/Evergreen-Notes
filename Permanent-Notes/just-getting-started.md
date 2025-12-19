@@ -1,7 +1,7 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2025-12-15T08:55:48
+modified: 2025-12-19T16:23:07
 ---
 
 > _“Start before you’re ready. Don’t prepare. Begin. Don’t think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
@@ -94,7 +94,8 @@ See also: [The Goal-Gradient Effect](https://sketchplanations.com/goal-gradient-
 
 > _“The heaviest weight at the gym is the front door.” — Ed Latimore_ [^1]
 
-* Well begun is half done.
+> _“Well begun is half done.” — Horace_
+
 * It’s easier to steer a moving ship than to put a stationary one into motion.
 * [My yoga teacher always starts class with this line: “Congrats. The hardest part is over. You showed up.” I feel like that mindset applies to most other things. Worrying about a task often is far worse than the task itself. Starting is the hardest part.](https://mariandrew.substack.com/p/100-things-i-know)
 * The Scandinavians / In Norwegian, they have a phrase dørstokmilla ([The Doorstep Mile](https://sketchplanations.com/the-doorstep-mile))
