@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2025-12-17T12:24:15
+modified: 2025-12-20T06:20:03
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
@@ -14,7 +14,7 @@ modified: 2025-12-17T12:24:15
 
 > _“We see what we believe rather than what we see.” — Alan Watts_
 
-> _“It isn’t what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.” — Dale Carnegie_
+> _[“It isn’t what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.” — Dale Carnegie, How to Win Friends & Influence People]([https://www.goodreads.com/quotes/9292-it-isn-t-what-you-have-or-who-you-are-or](https://www.goodreads.com/quotes/9292-it-isn-t-what-you-have-or-who-you-are-or))_
 
 > _“The real voyage of discovery consists not in seeking out new landscapes but in having new eyes.” — Marcel Proust_
 
@@ -145,7 +145,7 @@ Go laugh in the places you have cried—[change the narrative.](be-careful-how-y
 	* Reactive Living → [Proactive Living](intentional-living.md)
 	* This is the essence of habit one in Stephen R. Covey’s renowned book [@covey7HabitsHighly2013]: **Be Proactive.** Everything starts there.
 
-		> _“But until a person can say deeply and honestly, “I am what I am today because of the choices I made yesterday,” that person cannot say, “I choose otherwise.” ― Stephen R. Covey, The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change_
+		> _“But until a person can say deeply and honestly, “I am what I am today because of the choices I made yesterday,” that person cannot say, “I choose otherwise.” — Stephen R. Covey, The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change_
 
 * Decision → Experiment
 * Problem → Puzzle
