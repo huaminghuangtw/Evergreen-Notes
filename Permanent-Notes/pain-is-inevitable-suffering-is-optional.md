@@ -1,8 +1,10 @@
 ---
 title: Pain Is Inevitable. Suffering Is Optional.
 created: 2025-12-19T05:49:25
-modified: 2025-12-19T05:49:38
+modified: 2025-12-21T05:54:21
 ---
+
+> _[“The trick is not minding that it hurts.”](https://www.youtube.com/watch?v=TvQViPBAvPk) — [Lawrence of Arabia (1962 film)](https://www.imdb.com/title/tt0056172/)_
 
 > _“The struggles you endure today will be the ‘good old days’ you’ll laugh about tomorrow.” — Aaron Lauritsen_
 
@@ -12,7 +14,7 @@ modified: 2025-12-19T05:49:38
 
 ---
 
-> _“Pain is inevitable. Suffering is optional.” ― Haruki Murakami, [What I Talk About When I Talk About Running](https://www.goodreads.com/work/quotes/2475030)_
+> _“Pain is inevitable. Suffering is optional.” — Haruki Murakami, [What I Talk About When I Talk About Running](https://www.goodreads.com/work/quotes/2475030)_
 >
 > 痛是難免的，苦是甘願的。
 
