@@ -1,10 +1,10 @@
 ---
 title: The Tunnel Effect
 created: 2025-02-26T16:56:29
-modified: 2025-12-17T07:21:40
+modified: 2025-12-20T06:24:51
 ---
 
-= [隧道/管窺效應](https://en.wikipedia.org/wiki/Tunnel_effect)
+= [隧道/管窺效應](https://en.wikipedia.org/wiki/Tunnel_effect) = 隧道視野（Tunnel Vision）
 
 指當人們面臨資源稀缺（如時間、金錢）或有壓力、急迫等匱乏情況下時 [^1]，會將注意力過度集中於眼前的問題而限制 [思維的靈活性](be-ready-to-change-your-mind-completely-at-any-given-time.md)—就如同身處「隧道」一樣，只看得見出口處的那道光，導致判斷力下降 [^2] [^3]、視野變得狹隘，難以顧及全局、做出全面性的思考，最後做出短視 [^4] 或非理性的 [決策](decision-making.md)。[^5]
 
