@@ -1,10 +1,10 @@
 ---
 title: Never lose faith and hope
 created: 2024-11-18T09:16:50
-modified: 2025-12-17T12:20:08
+modified: 2025-12-21T15:01:26
 ---
 
-> _“Without faith, it is impossible for you to become great.” ― Wallace D. Wattles, [The Science of Being Great](https://www.goodreads.com/work/quotes/1881171)_
+> _“Without faith, it is impossible for you to become great.” — Wallace D. Wattles, [The Science of Being Great](https://www.goodreads.com/work/quotes/1881171)_
 
 > _“Sometimes life hits you in the head with a brick. Don’t lose faith.” — Steve Jobs_
 
