@@ -1,7 +1,7 @@
 ---
 title: Frameworks to structure your day
 created: 2025-01-23T18:40:57
-modified: 2025-11-27T07:14:43
+modified: 2025-12-21T15:01:26
 ---
 
 > _[Live life by design, not default.](https://fs.blog/david-foster-wallace-this-is-water/) Make each day your masterpiece. How you spend your days is how you spend your life._
@@ -37,7 +37,7 @@ modified: 2025-11-27T07:14:43
 			* **Inject/Introduce planned spontaneity/memories into your days:**
 				* Do not fall into The Retirement Trap
 
-					> _“Remember the motto: ‘Work hard, play hard.’ Regard your personal time as just as important as your work time and give as much attention to planning it as you do to planning your work. What are you working for if you don’t have a personal life?” ― [@forsterItTomorrowOther2008]_
+					> _“Remember the motto: ‘Work hard, play hard.’ Regard your personal time as just as important as your work time and give as much attention to planning it as you do to planning your work. What are you working for if you don’t have a personal life?” — [@forsterItTomorrowOther2008]_
 					* Always put non-work commitments in the calendar FIRST, knowing that work will always have a tendency to fill in the gaps.
 					* Block in time for **holidays** and **trips** _first_, rather than letting the calendar fill up with work-stuff by default
 				* Downtime deserves time management too. The time you PLAN to waste is not a waste of time. The time you ENJOY wasting is not a waste of time.
