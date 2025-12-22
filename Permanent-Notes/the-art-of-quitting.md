@@ -1,7 +1,7 @@
 ---
 title: The Art of Quitting
 created: 2024-11-18T09:18:12
-modified: 2025-12-14T09:07:48
+modified: 2025-12-21T15:01:26
 ---
 
 > _“I am as proud of what we don’t do as I am of what we do.” — Steve Jobs_
@@ -18,7 +18,7 @@ modified: 2025-12-14T09:07:48
 
 > _“When people quit on time, it will usually feel like they are quitting too early, because it will be long before they experience the choice as a close call.” ― Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
 
-> _“Making a plan for when to quit should be done long before you are facing the quitting decision. It recognizes, as Daniel Kahneman has pointed out, that the worst time to make a decision is when you’re ‘in it.’” ― Annie Duke, Quit: The Power of Knowing When to Walk Away_
+> _“Making a plan for when to quit should be done long before you are facing the quitting decision. It recognizes, as Daniel Kahneman has pointed out, that the worst time to make a decision is when you’re ‘in it.’” — Annie Duke, Quit: The Power of Knowing When to Walk Away_
 
 > _“Contrary to popular belief, winners quit a lot. That’s how they win.” ― Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
 
