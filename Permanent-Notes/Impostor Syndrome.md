@@ -1,7 +1,7 @@
 ---
 title: Impostor Syndrome
 created: 2025-01-23T10:40:57
-modified: 2025-10-05T16:04:04
+modified: 2025-12-21T15:01:26
 ---
 
 # You don’t need to be a _guru_. You can just be a _guide_.
@@ -20,4 +20,4 @@ Growth happens when you do things you feel unqualified to.
 
 ---
 
-> _“Impostor syndrome says, “I don’t know what I’m doing. It’s only a matter of time until everyone finds out.’ [Growth mindset](the-growth-mindset.md) says, “I don’t know what I’m doing yet. It’s only a matter of time until I figure it out.” ― Adam Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
+> _“Impostor syndrome says, “I don’t know what I’m doing. It’s only a matter of time until everyone finds out.’ [Growth mindset](the-growth-mindset.md) says, “I don’t know what I’m doing yet. It’s only a matter of time until I figure it out.” — Adam Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
