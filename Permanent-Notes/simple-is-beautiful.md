@@ -1,7 +1,7 @@
 ---
 title: Simple is beautiful
 created: 2025-02-21T16:42:30
-modified: 2025-12-06T06:00:44
+modified: 2025-12-21T15:01:26
 ---
 
 > _”Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.” — Steve Jobs_
@@ -12,7 +12,7 @@ modified: 2025-12-06T06:00:44
 
 > _“Make everything as simple as possible, but not simpler.” — Albert Einstein_ [^1]
 
-> _“It is not a daily increase, but a daily decrease. Hack away at the inessentials.” ― Bruce Lee_
+> _“It is not a daily increase, but a daily decrease. Hack away at the inessentials.” — Bruce Lee_
 
 ---
 
