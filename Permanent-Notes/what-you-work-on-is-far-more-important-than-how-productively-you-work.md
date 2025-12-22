@@ -1,7 +1,7 @@
 ---
 title: What you work on is far more important than how productively you work
 created: 2025-02-04T06:34:16
-modified: 2025-11-06T14:41:44
+modified: 2025-12-21T15:01:26
 ---
 
 > _“If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster.” — Stephen R. Covey_
@@ -12,7 +12,7 @@ modified: 2025-11-06T14:41:44
 
 [@rubinBetterMasteringHabits2015]
 
-> _“The biggest waste of time is to do well something that we need not do at all.” ― Gretchen Rubin_
+> _“The biggest waste of time is to do well something that we need not do at all.” — Gretchen Rubin_
 
 > _“We all want progress, but if you’re on the wrong road, progress means doing an about-turn and walking back to the right road; in that case, the man who turns back soonest is the most progressive.” — C.S. Lewis_
 
