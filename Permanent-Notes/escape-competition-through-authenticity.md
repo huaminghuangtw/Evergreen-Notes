@@ -1,7 +1,7 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2025-12-06T05:59:52
+modified: 2025-12-21T14:58:03
 ---
 
 > _“Everything popular is wrong.” — Oscar Wilde_
@@ -22,7 +22,7 @@ modified: 2025-12-06T05:59:52
 
 > _“In order to be irreplaceable one must always be different.” — Coco Channel_
 
-> _“Today you are You, that is truer than true. There is no one alive who is Youer than You.” ― Dr. Seuss_
+> _“Today you are You, that is truer than true. There is no one alive who is Youer than You.” — Dr. Seuss_
 
 > _“All I can do is be me, whoever that is.” — Bob Dylan_
 
@@ -32,9 +32,7 @@ modified: 2025-12-06T05:59:52
 
 > _[“Every human is non-fungible at the DNA level. It’s society, shame and conditioning that chips away at individuality.” — George Mack](https://x.com/george__mack/status/1731285742410752077)_
 
-> _“Be yourself; everyone else is already taken.” — Oscar Wilde_
-
-> _“Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.” ― Bruce Lee_
+> _“Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.” — Bruce Lee_
 
 > _“Always be a first-rate version of yourself, instead of a second-rate version of someone else.” — Judy Garland_
 
@@ -73,13 +71,9 @@ Normal behavior is forgotten. Only weird behavior survives. _Nobody tells storie
 
 ---
 
-[To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.](https://www.goodreads.com/quotes/876-to-be-yourself-in-a-world-that-is-constantly-trying) Be true to yourself.
-
----
+# Uncondition/Undo yourself
 
 Sometimes becoming who you are is actually about _unbecoming_ who you aren’t.
-
-* Uncondition/Undo yourself
 
 ---
 
@@ -132,6 +126,10 @@ Find a thing that’s so you, that doing it is just a natural extension of you b
 ---
 
 [Stanford Prison Experiment](stanford-prison-experiment.md)
+
+---
+
+[You don’t need to be liked to be loved](you-dont-need-to-be-liked-to-be-loved.md)
 
 [^1]: _“Whenever possible, win without fighting or, at the very least, to win the easiest battles first.” — Sun Tzu_
 [^2]: You are the sum of your influences. No one has the same combination of influences as you.
