@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-12-16T09:15:01
+modified: 2025-12-21T14:54:54
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -237,6 +237,10 @@ Judge a man by his questions rather than his answers.
 
 * by Chris Williamson
 * True charisma is the ability to make others find themselves charismatic
+
+---
+
+[1,000 Years of Relationship Advice](https://www.sahilbloom.com/newsletter/1-000-years-of-relationship-advice)
 
 ---
 
