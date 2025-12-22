@@ -1,7 +1,7 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2025-12-19T05:53:00
+modified: 2025-12-21T15:01:26
 ---
 
 > _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
@@ -16,7 +16,7 @@ modified: 2025-12-19T05:53:00
 
 > _“The finest steel has to go through the hottest fire.” — Richard M. Nixon_
 
-> _“If you look for truth, you may find comfort in the end; if you look for comfort you will not get either comfort or truth only soft soap and wishful thinking to begin, and in the end, despair.” ― CS Lewis_
+> _“If you look for truth, you may find comfort in the end; if you look for comfort you will not get either comfort or truth only soft soap and wishful thinking to begin, and in the end, despair.” — CS Lewis_
 
 > _“Difficult and meaningful will always bring more satisfaction than easy and meaningless.” — Maxime Lagace_
 
