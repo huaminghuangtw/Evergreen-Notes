@@ -1,7 +1,7 @@
 ---
 title: Death
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:27
+modified: 2025-12-21T15:01:26
 ---
 
 > _“The free man thinks of death, least of all things.” — Benedict Spinoza_
@@ -135,7 +135,7 @@ Remarks: Through history, people have gone back into their own pasts, sometime t
 
 「學會死亡，你就學會活著」[@albomTuesdaysMorrieOld2006]
 
-> _“The truth is, once you learn how to die, you learn how to live.” ― Mitch Albom，《最後 14 堂星期二的課》（Tuesdays with Morrie，2006）_
+> _“The truth is, once you learn how to die, you learn how to live.” — Mitch Albom，《最後 14 堂星期二的課》（Tuesdays with Morrie，2006）_
 
 ---
 
