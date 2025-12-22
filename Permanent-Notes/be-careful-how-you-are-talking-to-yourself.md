@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-12-10T08:00:11
+modified: 2025-12-21T15:01:26
 ---
 
 > _“Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes_
@@ -10,7 +10,7 @@ modified: 2025-12-10T08:00:11
 
 > _“The only thing that keeps us from having what we really want is the stories we tell ourselves.” — Tony Robbins_
 
-> _“The most important conversations you’ll ever have are the ones you’ll have with yourself. — You wake up with them, you walk around with them, you go to bed with them, and eventually you act on them.” ― [@gogginsCantHurtMe2018]_
+> _“The most important conversations you’ll ever have are the ones you’ll have with yourself. — You wake up with them, you walk around with them, you go to bed with them, and eventually you act on them.” — [@gogginsCantHurtMe2018]_
 
 > _“The reason I talk to myself is because I’m the only one whose answers I accept.” — George Carlin_
 
