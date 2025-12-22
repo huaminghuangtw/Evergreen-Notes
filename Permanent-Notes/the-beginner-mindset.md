@@ -1,10 +1,10 @@
 ---
 title: The Beginner Mindset
 created: 2024-11-18T09:18:12
-modified: 2025-12-06T05:51:20
+modified: 2025-12-21T15:01:26
 ---
 
-> _“It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” ― Mark Twain_
+> _“It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” — Mark Twain_
 
 > _“I am always doing that which I cannot do, in order that I may learn how to do it.” — Pablo Picasso_
 
