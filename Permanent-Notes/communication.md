@@ -1,7 +1,7 @@
 ---
 title: Communication
 created: 2024-11-18T09:18:12
-modified: 2025-12-16T14:38:22
+modified: 2025-12-21T14:41:36
 ---
 
 > _“The greatest communication is usually how we are rather than what we say.” — Joseph Goldstein_
@@ -25,7 +25,7 @@ State the facts and tell the truth. Speak with [integrity](integrity.md)—say e
 
 > _“If you tell the truth, you don’t have to remember anything.” — Mark Twain_
 
-> _Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind._
+> _“Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.” — Dr. Seuss_
 
 > _“It is better to be hated for what you are than to be loved for what you are not.” — André Gide_
 
