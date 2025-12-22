@@ -1,12 +1,12 @@
 ---
 title: Courage is knowing what not to fear
 created: 2025-04-11T19:02:45
-modified: 2025-12-14T09:10:19
+modified: 2025-12-21T15:01:26
 ---
 
 > _[“Success is not final, failure is not fatal: it is the courage to continue that counts.” — Winston Churchill](https://www.youtube.com/watch?v=uuxMZL6ieWM)_
 
-> _“Courage is simply doing whatever is needed in pursuit of the vision.” ― [@sengeFifthDisciplineArt2006]_
+> _“Courage is simply doing whatever is needed in pursuit of the vision.” — [@sengeFifthDisciplineArt2006]_
 
 > _“Courage is resistance to fear, mastery of fear - not absence of fear.” — Mark Twain_
 
@@ -20,7 +20,7 @@ modified: 2025-12-14T09:10:19
 
 > _[“You cannot swim for new horizons until you have courage to lose sight of the shore.” — William Faulkner](https://www.goodreads.com/quotes/132400-you-cannot-swim-for-new-horizons-until-you-have-courage)_
 
-> _[“Courage is not simply one of the virtues but the form of every virtue at the testing point, which means at the point of highest reality.” ― C.S. Lewis, The Screwtape Letters](https://www.goodreads.com/quotes/37169-courage-is-not-simply-one-of-the-virtues-but-the)_
+> _[“Courage is not simply one of the virtues but the form of every virtue at the testing point, which means at the point of highest reality.” — C.S. Lewis, The Screwtape Letters](https://www.goodreads.com/quotes/37169-courage-is-not-simply-one-of-the-virtues-but-the)_
 
 > _[“Are you paralyzed with fear? That’s a good sign. Fear is good. Like self-doubt, fear is an indicator. Fear tells us what we have to do. Remember one rule of thumb: the more scared we are of a work or calling, the more sure we can be that we have to do it. The amateur believes he must first overcome his fear; then he can do his work. The professional knows that fear can never be overcome.” ― Steven Pressfield, The War of Art](https://www.goodreads.com/work/quotes/722104)_
 
