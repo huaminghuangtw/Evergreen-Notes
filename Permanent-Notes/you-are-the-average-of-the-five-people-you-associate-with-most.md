@@ -1,10 +1,10 @@
 ---
 title: You are the average of the five people you associate with most
 created: 2024-11-18T09:18:12
-modified: 2025-12-16T09:00:36
+modified: 2025-12-21T15:01:26
 ---
 
-> _“You are the average of the five people you spend the most time with.” ― Jim Rohn_
+> _“You are the average of the five people you spend the most time with.” — Jim Rohn_
 
 > _“If you are wondering who your people are, they are the ones who make your heart feel seen and your nervous system feel calm.” — Yung Pueblo_
 
