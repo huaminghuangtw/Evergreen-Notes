@@ -1,7 +1,7 @@
 ---
 title: How to live a life
 created: 2024-11-18T09:18:12
-modified: 2025-12-20T14:43:02
+modified: 2025-12-21T15:01:26
 ---
 
 > _“As long as you live, keep learning how to live.” — Seneca_
@@ -39,7 +39,7 @@ modified: 2025-12-20T14:43:02
 > _“Decide what you would like your obituary to say, and live the life to deserve it.” — [Warren Buffet in his final letter to Berkshire Hathaway shareholders](https://www.berkshirehathaway.com/news/nov1025.pdf)
 
 > _“Life isn’t about waiting for the storm to pass. It’s about learning to dance in the rain.” — Vivian Greene_
-> 
+>
 > 生活不是等待風暴過去，而是學會在雨中跳舞。
 
 ---
