@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2025-12-14T20:04:21
+modified: 2025-12-21T15:01:26
 ---
 
 > _“To be is to do.” — Immanuel Kant_
@@ -18,7 +18,7 @@ modified: 2025-12-14T20:04:21
 
 > _“The actions of men are the best interpreters of their thoughts.” — James Joyce_
 
-> _“It isn’t what we say or think that defines us, but what we do.” ― Jane Austen_
+> _“It isn’t what we say or think that defines us, but what we do.” — Jane Austen_
 
 > _“A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.” — George Bernard Shaw_
 
@@ -28,7 +28,7 @@ modified: 2025-12-14T20:04:21
 
 [@pressfieldWarArtBreak2003]
 
-> _“The professional has learned that success, like happiness, comes as a by-product of work. The professional concentrates on the work and [allows rewards to come or not come](not-caring-lets-us-perform-better.md), whatever they like.” ― Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_ [^1] [^2]
+> _“The professional has learned that success, like happiness, comes as a by-product of work. The professional concentrates on the work and [allows rewards to come or not come](not-caring-lets-us-perform-better.md), whatever they like.” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_ [^1] [^2]
 
 [@gogginsCantHurtMe2018]
 
@@ -215,7 +215,7 @@ There is no later, because later you’ll be [dead](death.md).
 
 ---
 
-> _“It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.” ― [“The Man In The Arena” speech given by Theodore Roosevelt on April 23, 1910, in Paris, France](https://www.youtube.com/watch?v=A311CnTjfos)_
+> _“It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.” — [“The Man In The Arena” speech given by Theodore Roosevelt on April 23, 1910, in Paris, France](https://www.youtube.com/watch?v=A311CnTjfos)_
 
 The line — from Theodore Roosevelt’s famous 1910 speech “[Citizenship in a Republic](https://en.wikipedia.org/wiki/Citizenship_in_a_Republic)” (often called “The Man in the Arena” speech) — captures a timeless idea about courage, effort, and authenticity.
 
@@ -260,7 +260,7 @@ Neither came from waiting for the perfect idea—they were born from action.
 
 [Ask for forgiveness, not permission](ask-for-forgiveness-not-permission.md)
 
-[^1]: _“The professional learns to recognize envy-driven criticism and to take it for what it is: the supreme compliment. The critic hates most that which he would have done himself if he had had the guts.” ― Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
-[^2]: _“The artist cannot look to others to validate his efforts or his calling. If you don’t believe me, ask Van Gogh, who produced masterpiece after masterpiece and never found a buyer in his whole life.” ― Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
+[^1]: _“The professional learns to recognize envy-driven criticism and to take it for what it is: the supreme compliment. The critic hates most that which he would have done himself if he had had the guts.” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
+[^2]: _“The artist cannot look to others to validate his efforts or his calling. If you don’t believe me, ask Van Gogh, who produced masterpiece after masterpiece and never found a buyer in his whole life.” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
 [^3]: Remember: Talk does not cook rice. (別光說不練。) You are what you do, not what you say you’ll do. You can’t build a reputation on what you’re going to do.
 [^4]: 年輕人暢談自己正在做的事，老年人細訴自己曾經做過的事，愚者高論自己想做的事。
