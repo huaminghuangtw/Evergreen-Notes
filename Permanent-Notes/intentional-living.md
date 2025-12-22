@@ -1,7 +1,7 @@
 ---
 title: Intentional Living
 created: 2024-11-18T09:18:12
-modified: 2025-12-06T06:01:15
+modified: 2025-12-22T13:20:33
 ---
 
 > _[“Your goal in life is to be able to say on the day before you die that you have fully become yourself.” — Kevin Kelly](https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/)_
@@ -26,7 +26,7 @@ modified: 2025-12-06T06:01:15
 
 > _“Tell me, what is it you plan to do with your one wild and precious life?” — Mary Oliver_
 
-> _“The key to immortality is first living a life worth remembering.” ― Bruce Lee_
+> _“The key to immortality is first living a life worth remembering.” — Bruce Lee_
 
 ---
 
@@ -34,7 +34,7 @@ modified: 2025-12-06T06:01:15
 
 > _“Concentrate every minute like a Roman—like a man—on doing what’s in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions.”_
 
-> _“To affect the quality of the day, that is the highest of arts. Every man is tasked to make his life, even in its details, worthy of the contemplation of his most elevated and critical hour.” ― Henry David Thoreau_
+> _“To affect the quality of the day, that is the highest of arts. Every man is tasked to make his life, even in its details, worthy of the contemplation of his most elevated and critical hour.” — Henry David Thoreau_
 
 ---
 
@@ -53,6 +53,8 @@ I don’t fear [death](death.md), I fear not living fully.
 > _“If you can’t live longer, live deeper.” — Italian Proverb_
 
 > _“In the end, it’s not the years in your life that count. It’s the life in your years.” — Abraham Lincoln_
+
+> _[“Life is not the amount of breaths you take, it’s the moments that take your breath away.”](https://www.youtube.com/watch?v=fCpdGZbmkJ8) — [Hitch (2005 film)](https://www.imdb.com/title/tt0386588/)_
 
 > _“The quality, not the longevity, of one’s life is what is important.” — Martin Luther King, Jr._
 
