@@ -1,7 +1,7 @@
 ---
 title: Mastering yourself is superpower
 created: 2024-11-18T09:18:12
-modified: 2025-12-06T05:49:08
+modified: 2025-12-21T15:01:26
 ---
 
 > _“Knowing yourself is the beginning of all wisdom.” — Aristotle_
@@ -20,7 +20,7 @@ modified: 2025-12-06T05:49:08
 
 > _“For it is easy to criticize and break down the spirit of others, but to know yourself takes a lifetime.” ― Bruce Lee, [Striking Thoughts: Bruce Lee’s Wisdom for Daily Living](https://www.goodreads.com/work/quotes/251341)_
 
-> _“It is easy to crush an enemy outside oneself but impossible to defeat an enemy within.” ― [@yoshikawaMusashi1995]_
+> _“It is easy to crush an enemy outside oneself but impossible to defeat an enemy within.” — [@yoshikawaMusashi1995]_
 
 > _“A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.” — Andrew Carnegie_
 
