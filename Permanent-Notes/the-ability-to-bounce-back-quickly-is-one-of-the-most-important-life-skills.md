@@ -1,7 +1,7 @@
 ---
 title: The ability to bounce back quickly is one of the most important life skills
 created: 2025-12-21T06:09:03
-modified: 2025-12-21T06:09:03
+modified: 2025-12-21T15:01:26
 ---
 
 #Newsletter
