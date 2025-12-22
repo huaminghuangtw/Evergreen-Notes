@@ -1,7 +1,7 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2025-12-19T07:35:59
+modified: 2025-12-21T15:01:26
 ---
 
 > _[“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)_
@@ -20,7 +20,7 @@ modified: 2025-12-19T07:35:59
 
 > _[“I have not failed. I’ve just found 10,000 ways that won’t work.” — Thomas Edison](https://www.goodreads.com/quotes/8287-i-have-not-failed-i-ve-just-found-10-000-ways-that)_
 
-> _“There is a saying in Tibetan, ‘Tragedy should be utilized as a source of strength.’ No matter what sort of difficulties, how painful experience is, if we lose our hope, that’s our real disaster.” ― Dalai Lama XIV_
+> _“There is a saying in Tibetan, ‘Tragedy should be utilized as a source of strength.’ No matter what sort of difficulties, how painful experience is, if we lose our hope, that’s our real disaster.” — Dalai Lama XIV_
 
 > _“Our greatest glory is not in never failing, but in rising up every time we [fail](failing-forward-turns-setbacks-into-stepping-stones.md).” — Ralph Waldo Emerson_
 
@@ -90,4 +90,4 @@ Resistance, obstacles, and roadblocks lead to growth. “A gem cannot be polishe
 
 [The Let-Them Theory](the-let-them-theory.md)
 
-[^1]: _“As a lotus flower is born in water, grows in water, and rises out of water to stand above it unsoiled. So I, born and raised in the world, having overcome the world, live unsoiled by the world.” ― Buddha_
+[^1]: _“As a lotus flower is born in water, grows in water, and rises out of water to stand above it unsoiled. So I, born and raised in the world, having overcome the world, live unsoiled by the world.” — Buddha_
