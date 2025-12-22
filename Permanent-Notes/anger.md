@@ -1,7 +1,7 @@
 ---
 title: Anger
 created: 2024-11-18T09:18:12
-modified: 2025-12-16T09:11:23
+modified: 2025-12-21T15:01:26
 ---
 
 > _“Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.” — Mark Twain_
@@ -22,7 +22,7 @@ modified: 2025-12-16T09:11:23
 
 > _“He who angers you conquers you.” — Elizabeth Kenny_ [^2]
 
-> _“A quick temper will make a fool of you soon enough.” ― Bruce Lee_
+> _“A quick temper will make a fool of you soon enough.” — Bruce Lee_
 
 ---
 
