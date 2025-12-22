@@ -1,7 +1,7 @@
 ---
 title: Journey over destination
 created: 2024-11-18T09:18:12
-modified: 2025-12-06T06:08:29
+modified: 2025-12-21T15:01:26
 ---
 
 > _“To travel is to be alive, but to get somewhere is to be dead.” — Alan Watts_
@@ -16,7 +16,7 @@ modified: 2025-12-06T06:08:29
 
 > _[“You have to enjoy your journey, the journey is all that there is.” — Naval Ravikant](http://www.youtube.com/watch?v=KyfUysrNaco&t=453)_
 
-> _[“The end of a melody is not its goal: but nonetheless, had the melody not reached its end it would not have reached its goal either. A parable.” ― Friedrich Nietzsche](https://www.goodreads.com/quotes/7368-the-end-of-a-melody-is-not-its-goal-but)_
+> _[“The end of a melody is not its goal: but nonetheless, had the melody not reached its end it would not have reached its goal either. A parable.” — Friedrich Nietzsche](https://www.goodreads.com/quotes/7368-the-end-of-a-melody-is-not-its-goal-but)_
 
 > _“Progress is a natural result of staying focused on the process of doing anything. When you stay on purpose, focused in the present moment, the goal comes toward you with frictionless ease.” ― Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)_
 
