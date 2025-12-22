@@ -1,14 +1,14 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-12-19T05:55:44
+modified: 2025-12-21T15:01:26
 ---
 
 > _“Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot_
 
 > _“Argue for your limitations and, sure enough, they’re yours.” — Richard Bach_
 
-> _“It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” ― Mark Twain_
+> _“It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” — Mark Twain_
 
 > _“There are no traffic jams on the extra mile.” — Zig Ziglar_
 
