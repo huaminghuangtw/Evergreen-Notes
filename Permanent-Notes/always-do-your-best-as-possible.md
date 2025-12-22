@@ -1,7 +1,7 @@
 ---
 title: Always do your best as possible
 created: 2024-11-18T09:18:12
-modified: 2025-12-14T08:58:03
+modified: 2025-12-21T15:01:26
 ---
 
 > _“Inspire yourself to be great. Being good isn’t good enough.” — Gurbaksh Chahal_
@@ -103,7 +103,7 @@ be locked in (on something)：表示一個人集中精神、全神貫注在某�
 
 #Newsletter
 
-> _“When you show yourself to the world and display your talents, you naturally stir all kinds of resentment, envy, and other manifestations of insecurity. You cannot spend your life worrying about the petty feelings of others.” ― Robert Greene, The 48 Laws of Power_
+> _“When you show yourself to the world and display your talents, you naturally stir all kinds of resentment, envy, and other manifestations of insecurity. You cannot spend your life worrying about the petty feelings of others.” — Robert Greene, The 48 Laws of Power_
 
 [Average is addictive. It’s applauded by the crowd. You won’t be criticized for staying the same. You’ll be encouraged. When you’re on your journey to growth, some people won’t like it. They’ll criticize your every move because it doesn’t blend in with the crowd. But recognize one truth: This is fundamentally not about you. Your growth, focus, and improvement are exposing something in them: Their insecurities, their fears, their lack of ambition.](https://www.sahilbloom.com/newsletter/the-costs-of-entry-in-life)
 
