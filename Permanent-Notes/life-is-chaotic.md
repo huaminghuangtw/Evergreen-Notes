@@ -1,7 +1,7 @@
 ---
 title: Life is chaotic
 created: 2024-11-18T09:18:12
-modified: 2025-12-15T14:59:45
+modified: 2025-12-21T15:01:26
 ---
 
 > _“Everyone has a plan until they get punched in the mouth.” — Mike Tyson_
@@ -40,7 +40,7 @@ Write your life plan with a pencil that has an eraser.
 
 [@mansonSubtleArtNot2016]
 
-> _“Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.” ― Mark Manson, The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life_
+> _“Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.” — Mark Manson, The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life_
 
 Problems are a feature of life, not a bug. There will never come a time when you have no problems.
 
