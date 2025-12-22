@@ -1,14 +1,14 @@
 ---
 title: Have the courage to do the right things
 created: 2024-12-08T00:37:07
-modified: 2025-11-24T06:12:55
+modified: 2025-12-21T15:01:26
 ---
 
 > _“The opposite of love is not hate, it’s indifference. The opposite of art is not ugliness, it’s indifference. The opposite of faith is not heresy, it’s indifference. And the opposite of life is not death, it’s indifference.” — Elie Wiesel_
 
 > _“There is only one good, knowledge, and one evil, ignorance.” — Socrates_
 
-> _“There may be times when we are powerless to prevent injustice, but there must never be a time when we fail to protest.” ― Elie Wiesel_
+> _“There may be times when we are powerless to prevent injustice, but there must never be a time when we fail to protest.” — Elie Wiesel_
 
 > _“Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.” — William Faulkner_
 
