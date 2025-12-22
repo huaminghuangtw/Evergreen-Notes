@@ -1,7 +1,7 @@
 ---
 title: Information Overwhelm
 created: 2024-11-18T09:18:12
-modified: 2025-12-15T15:47:34
+modified: 2025-12-21T15:01:26
 ---
 
 > _“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” ― T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654)_ [^1]
@@ -57,7 +57,7 @@ modified: 2025-12-15T15:47:34
 	* If you decide to consume something:
 		* Consume what you are going to create
 
-			> _“The number of hours I spend consuming should never equal or exceed the number of hours I spend creating.” ― Nicolas Cole, The Art and Business of Online Writing_
+			> _“The number of hours I spend consuming should never equal or exceed the number of hours I spend creating.” — Nicolas Cole, The Art and Business of Online Writing_
 
 			* Mindset Shift: Consumer → Producer
 			* 帶著「輸出」的前提去「輸入」（[Writing Worth Reading](https://fs.blog/reading)）：「當我吸收這些資訊&知識後，我要寫出一篇可以公開發表的筆記（或部落格文章）」
