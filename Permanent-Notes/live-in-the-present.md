@@ -1,7 +1,7 @@
 ---
 title: Live in the present
 created: 2024-11-18T09:18:12
-modified: 2025-12-15T15:37:37
+modified: 2025-12-21T15:01:26
 ---
 
 > _“It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.” — Dr. Robert Hutchings Goddard_
@@ -10,7 +10,7 @@ modified: 2025-12-15T15:37:37
 
 > _“Yesterday is but today’s memory, tomorrow is today’s dream.” — Kahlil Gibran_
 
-> _“You pile up enough tomorrows, and you’ll find you are left with nothing but a lot of empty yesterdays.” ― Meredith Willson, The Music Man_
+> _“You pile up enough tomorrows, and you’ll find you are left with nothing but a lot of empty yesterdays.” — Meredith Willson, The Music Man_
 
 > _“Forget yesterday - it has already forgotten you. Don’t sweat tomorrow - you haven’t even met. Instead, open your eyes and your heart to a truly precious gift - today.” — Steve Maraboli_
 
@@ -64,7 +64,7 @@ Here & Now
 
 ---
 
-> _“How we spend our days is, of course, how we spend our lives.” ― Annie Dillard, [The Writing Life](https://www.goodreads.com/work/quotes/516929)_
+> _“How we spend our days is, of course, how we spend our lives.” — Annie Dillard, [The Writing Life](https://www.goodreads.com/work/quotes/516929)_
 
 Life’s just a bunch of todays.
 
