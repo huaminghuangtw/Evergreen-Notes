@@ -1,10 +1,10 @@
 ---
 title: Control the controllable
 created: 2024-11-18T09:16:49
-modified: 2025-10-30T07:05:42
+modified: 2025-12-21T15:01:26
 ---
 
-> _“The more we value things outside our control, the less control we have.” ― Epictetus_
+> _“The more we value things outside our control, the less control we have.” — Epictetus_
 
 > _["People think they can’t change themselves, but they can. People think they can change others, but they can’t." — Naval Ravikant](https://x.com/naval/status/1505645454754672644)_
 
