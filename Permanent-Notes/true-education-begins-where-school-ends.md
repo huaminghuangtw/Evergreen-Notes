@@ -1,7 +1,7 @@
 ---
 title: True education begins where school ends
 created: 2025-01-23T18:40:57
-modified: 2025-12-16T16:48:30
+modified: 2025-12-21T15:01:26
 ---
 
 > _“School is one thing. Education is another. The two don’t always overlap. Whether you’re in school or not, it’s always your job to get yourself an education.” — Austin Kleon_
@@ -22,7 +22,7 @@ modified: 2025-12-16T16:48:30
 
 > _“Live as if you were to die tomorrow. Learn as if you were to live forever.” — Mahatma Gandhi_
 
-> _[“I have never let my schooling interfere with my education.” ― Mark Twain](https://www.goodreads.com/quotes/1427-i-have-never-let-my-schooling-interfere-with-my-education)_
+> _[“I have never let my schooling interfere with my education.” — Mark Twain](https://www.goodreads.com/quotes/1427-i-have-never-let-my-schooling-interfere-with-my-education)_
 
 ---
 
