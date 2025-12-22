@@ -1,7 +1,7 @@
 ---
 title: If it isn’t fuck yes, then it’s clear no thank you
 created: 2024-11-18T09:16:49
-modified: 2025-11-26T08:21:25
+modified: 2025-12-21T15:01:26
 ---
 
 **TL; DR** Default to NO.
@@ -34,7 +34,7 @@ Before you say “yes” or “no”, just **pause**. This simple pause gives yo
 
 # Do More With Less
 
-> _“My goal is no longer to get more done, but rather to have less to do.” ― Francine Jay_
+> _“My goal is no longer to get more done, but rather to have less to do.” — Francine Jay_
 
 > _[“We are most productive when we focus on a very small number of projects on which we can devote a large amount of attention.” — Cal Newport](slow-productivity.md)_
 
