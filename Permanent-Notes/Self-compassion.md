@@ -1,7 +1,7 @@
 ---
 title: Self-compassion
 created: 2025-01-23T10:40:57
-modified: 2025-12-15T14:57:10
+modified: 2025-12-21T14:40:40
 ---
 
 > _“What you deny subdues you. What you accept transforms you.” — Carl Jung_
@@ -33,6 +33,8 @@ modified: 2025-12-15T14:57:10
 人生，就是要適時地放過自己、停止自我攻擊。永遠要寬容、慈悲地對待自己。展現自我同情。
 
 ---
+
+> _“You can search throughout the entire universe for someone who is more deserving of your love and affection than you are yourself, and that person is not to be found anywhere. You yourself, as much as anybody in the entire universe, deserve your love and affection.” — Dhammapada_
 
 If you truly loved yourself, you would never harm another.
 
