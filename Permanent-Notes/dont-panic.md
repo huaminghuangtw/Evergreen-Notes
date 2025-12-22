@@ -1,11 +1,10 @@
 ---
 title: Don’t panic
 created: 2025-12-21T06:11:20
-modified: 2025-12-21T06:11:20
+modified: 2025-12-21T15:01:26
 ---
 
 > _“[Don’t panic… People have a tendency towards fear and panic. And almost always it’s going to be just fine. And when it’s not, it doesn’t matter anyway.” — Rich Barton](https://www.instagram.com/reel/DIyuOeIJySI)_
-
 
 ---
 
