@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-12-15T15:47:02
+modified: 2025-12-21T15:01:26
 ---
 
 Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
@@ -159,7 +159,7 @@ Always starting from the most basic and simplest level, then adding more complex
 
 [@abdaalFeelGoodProductivityHow2024]
 
-> _[“Next time you’re feeling like a task or project is particularly difficult, ask yourself, ’What would it look like if I were really confident at this?' Just by asking yourself the question, you’ll visualize yourself confidently approaching the task at hand. The switch has been flipped.” ― Ali Abdaal, Feel-Good Productivity: How to Do More of What Matters to You](https://www.goodreads.com/work/quotes/100097284-feel-good-productivity-how-to-do-more-of-what-matters-to-you)_
+> _[“Next time you’re feeling like a task or project is particularly difficult, ask yourself, ’What would it look like if I were really confident at this?' Just by asking yourself the question, you’ll visualize yourself confidently approaching the task at hand. The switch has been flipped.” — Ali Abdaal, Feel-Good Productivity: How to Do More of What Matters to You](https://www.goodreads.com/work/quotes/100097284-feel-good-productivity-how-to-do-more-of-what-matters-to-you)_
 
 * Studying should be difficult—if you’re not worrying that you won’t be able to understand something you’re learning, it isn’t hard enough. [^2]
 * [Agitation (焦慮，躁動，緊張不安)](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%B9%81%E4%BD%93/agitation) is good, helping to release norepinephrine and adrenaline
