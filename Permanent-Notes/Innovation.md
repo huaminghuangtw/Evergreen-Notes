@@ -1,7 +1,7 @@
 ---
 title: Innovation
 created: 2024-11-18T09:18:12
-modified: 2025-12-07T20:35:19
+modified: 2025-12-21T15:01:26
 ---
 
 > _“Good ideas are always crazy until they’re not.” — Larry Page_
@@ -16,7 +16,7 @@ Your success in life is proportional to your willingness to be misunderstood for
 
 ---
 
-> _“Those who were seen dancing were thought to be insane by those who could not hear the music.” ― Friedrich Nietzsche_
+> _“Those who were seen dancing were thought to be insane by those who could not hear the music.” — Friedrich Nietzsche_
 
 Dance to your music. Let everyone join in later.
 
