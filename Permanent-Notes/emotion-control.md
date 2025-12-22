@@ -1,7 +1,7 @@
 ---
 title: Emotion Control
 created: 2024-11-18T09:18:12
-modified: 2025-12-21T06:09:04
+modified: 2025-12-21T15:01:26
 ---
 
 > _“Emotional sickness is avoiding reality at any cost. Emotional health is facing reality at any cost.” — [M. Scott Peck](https://quotefancy.com/m-scott-peck-quotes)_
@@ -21,7 +21,6 @@ modified: 2025-12-21T06:09:04
 Emotional strength isn’t about getting rid of difficult feelings — it means you know how to [respond](choose-your-response.md) to them in a healthy way — focus your [attention](attention.md) on the actions that you can take to address your emotion, not the emotion itself. <mark>It’s not about managing your emotions; it’s about managing your **response** to your emotions.</mark>
 
 ---
-
 
 Standing up for yourself without getting emotionally worked up (uptight).
 
