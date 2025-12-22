@@ -1,7 +1,7 @@
 ---
 title: Be a habit and routine machine
 created: 2024-11-18T09:18:12
-modified: 2025-12-13T07:34:46
+modified: 2025-12-21T15:01:26
 ---
 
 > _“Outer order contributes to inner calm.” — Gretchen Rubin_
@@ -44,7 +44,7 @@ A single habit or lifestyle change that has an _outsized impact_ on everything e
 
 ---
 
-> _“Dreams are built on discipline; discipline is built on habits; habits are built on training. And training takes place in every single second and every situation of your life.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+> _“Dreams are built on discipline; discipline is built on habits; habits are built on training. And training takes place in every single second and every situation of your life.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
 Intention → Action → Practice → Consistency → **Habit** → Simply Who You Are
 
