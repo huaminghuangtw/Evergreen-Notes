@@ -1,7 +1,7 @@
 ---
 title: Why we exist?
 created: 2024-11-18T09:18:12
-modified: 2025-12-08T08:09:11
+modified: 2025-12-21T15:01:26
 ---
 
 > _[“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)_
@@ -20,7 +20,7 @@ modified: 2025-12-08T08:09:11
 
 [@pressfieldWarArtBreak2003]
 
-> _“None of us are born as passive generic blobs waiting for the world to stamp its imprint on us. Instead we show up possessing already a highly refined and individuated soul. Another way of thinking of it is: We’re not born with unlimited choices. We can’t be anything we want to be. We come into this world with a specific, personal destiny. We have a job to do, a calling to enact, a self to become. We are who we are from the cradle, and we’re stuck with it. **Our job in this lifetime is not to shape ourselves into some ideal we imagine we ought to be, but to find out who we already are and become it.**” ― Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
+> _“None of us are born as passive generic blobs waiting for the world to stamp its imprint on us. Instead we show up possessing already a highly refined and individuated soul. Another way of thinking of it is: We’re not born with unlimited choices. We can’t be anything we want to be. We come into this world with a specific, personal destiny. We have a job to do, a calling to enact, a self to become. We are who we are from the cradle, and we’re stuck with it. **Our job in this lifetime is not to shape ourselves into some ideal we imagine we ought to be, but to find out who we already are and become it.**” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
 
 > _“It’s more important to be good ancestors than dutiful descendants. Too many people spend their lives being custodians of the past instead of stewards of the future. We worry about making our parents proud when we should be focused on making our children proud. The responsibility of each generation is not to please our predecessors—it’s to improve conditions for our successors.” ― Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
 
@@ -52,7 +52,7 @@ Both because of and in spite of his awareness of the meaninglessness of life, he
 
 ---
 
-> _[“The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” ― David Viscott](https://www.goodreads.com/quotes/7407260-the-purpose-of-life-is-to-discover-your-gift-the)_
+> _[“The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” — David Viscott](https://www.goodreads.com/quotes/7407260-the-purpose-of-life-is-to-discover-your-gift-the)_
 
 > _“Happiness is the meaning and the purpose of life, the whole aim and end of human existence.” — Aristotle_
 
