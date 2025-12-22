@@ -1,10 +1,20 @@
 ---
 title: You don’t need to be liked to be loved
 created: 2025-10-18T16:54:28
-modified: 2025-11-26T20:04:59
+modified: 2025-12-21T14:58:18
 ---
 
 > _“When you say yes to others, make sure you are not saying no to yourself.” — Paulo Coelho_
+
+---
+
+> _“Be yourself; everyone else is already taken.” — Oscar Wilde_
+
+> _“You are loved just for being who you are.” — Ram Dass_
+
+> _“Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.” — Dr. Seuss_
+
+[To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.](https://www.goodreads.com/quotes/876-to-be-yourself-in-a-world-that-is-constantly-trying) Be true to yourself.
 
 ---
 
