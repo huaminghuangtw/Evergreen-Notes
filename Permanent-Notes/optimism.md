@@ -1,8 +1,10 @@
 ---
 title: Optimism
 created: 2025-01-23T10:40:57
-modified: 2025-12-15T08:53:47
+modified: 2025-12-21T14:58:53
 ---
+
+> _“Turn your face to the sun, as flowers know how to do.” — Ming-Dao Deng_
 
 > _“A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.” — Winston Churchill_ [^1]
 
