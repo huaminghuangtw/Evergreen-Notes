@@ -1,7 +1,7 @@
 ---
 title: Never gossip about others
 created: 2025-02-20T10:08:47
-modified: 2025-11-08T06:55:36
+modified: 2025-12-23T16:20:02
 ---
 
 > _“Great minds discuss ideas; average minds discuss events; small minds discuss people.” — Eleanor Roosevelt_
@@ -10,7 +10,7 @@ modified: 2025-11-08T06:55:36
 
 ---
 
-Do not gossip. Just don’t do it.
+Don't gossip. Don’t bad­mouth. Just don’t do it.
 
 ---
 
