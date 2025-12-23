@@ -1,7 +1,7 @@
 ---
 title: Problem Solving
 created: 2024-11-18T09:16:49
-modified: 2025-11-29T17:28:03
+modified: 2025-12-23T16:21:10
 ---
 
 > _“The important thing about a problem is not its solution, but the strength we gain in finding the solution.” — Seneca_
@@ -36,7 +36,7 @@ Not just find solutions, find _scalable_ solutions.
 
 > “If you can write down a problem clearly, you’ve already solved half of it.”
 
-Writing is a powerful tool for problem-solving, because writing is thinking. You cannot write clearly if you aren’t thinking clearly.
+Writing is a powerful tool for problem-solving, because [writing is thinking](https://doi.org/10.1038/s44222-025-00323-4). You cannot write clearly if you aren’t thinking clearly.
 
 It’s less about what you create on the page and more about what the page creates in you.
 
