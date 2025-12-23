@@ -1,10 +1,12 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2025-12-14T20:04:21
+modified: 2025-12-23T16:27:34
 ---
 
 > _“Love is the absence of judgment.” — Dalai Lama_
+
+> _“Love is the energy of life.” — Robert Browning_
 
 > _“Love does not cause suffering: what causes it is the sense of ownership, which is love’s opposite_.” — Antoine de Saint-Exupéry
 
@@ -23,8 +25,6 @@ modified: 2025-12-14T20:04:21
 > _“You don’t love because: you love despite; not for the virtues, but despite the faults.” — William Faulkner_
 
 > _“I have learned not to worry about love; but to honor its coming with all my heart.” — Alice Walker_
-
-> _[“Don’t spoil me with your lies, love me with your truth.” — T.F. Hodge, From Within I Rise: Spiritual Triumph over Death and Conscious Encounters With the Divine Presence](https://www.goodreads.com/quotes/461259-don-t-spoil-me-with-your-lies-love-me-with-your)_
 
 > _[“I choose to love you in silence… For in silence I find no rejection, I choose to love you in loneliness… For in loneliness no one owns you but me, I choose to adore you from a distance… For distance will shield me from pain, I choose to kiss you in the wind… For the wind is gentler than my lips, I choose to hold you in my dreams… For in my dreams, you have no end.” — Rumi](https://www.goodreads.com/quotes/3239983-i-choose-to-love-you-in-silence-for-in-silence)_
 
@@ -58,6 +58,10 @@ modified: 2025-12-14T20:04:21
 
 ---
 
+Remem­ber that love for­gives every­thing.
+
+---
+
 Being in love > Being loved
 
 ---
@@ -76,6 +80,11 @@ Growing in love > Falling in love
 
 * Who you choose as a partner is the most important decision you’ll ever make in your life.
 * Choose your husband/wife wisely. This is the person that will be with you on your greatest and worst days. Choose a man/woman that will see you for who you are.
+
+	> _[“Don’t spoil me with your lies, love me with your truth.” — T.F. Hodge, From Within I Rise: Spiritual Triumph over Death and Conscious Encounters With the Divine Presence](https://www.goodreads.com/quotes/461259-don-t-spoil-me-with-your-lies-love-me-with-your)_
+
+	> _“True belonging never asks us to change who we are.” — Brené Brown_
+
 * Don’t marry anyone you can’t _laugh with_ or _dance with_.
 
 ---
