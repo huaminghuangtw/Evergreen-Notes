@@ -1,7 +1,7 @@
 ---
 title: Creativity is just connecting things
 created: 2025-03-12T02:41:12
-modified: 2025-12-02T06:45:34
+modified: 2025-12-23T16:20:29
 ---
 
 > _“Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. That’s because they were able to connect experiences they’ve had and synthesize new things. And the reason they were able to do that was that they’ve had more experiences or they have thought more about their experiences than other people.” — Steve Jobs_
@@ -96,7 +96,7 @@ Here’s a [video](https:/youtu.be/gfHEOL-sDy4) of John Mayer showing off the Cr
 		* Talking gets the mind thinking. It’s helpful to externalize and articulate the unspoken.
 		* 交談有助於思考 — 與人交談是件很重要的事，但不是閒聊或是客套話，而是認真地就某件事情對話、交換意見。藉由這樣的談話，能讓你清楚了解自己的想法，或是缺少了什麼，也能讓你看清問題的根源所在。如此一來，你腦中的想法才能具體成形。若只是一個人苦思，拚命鑽牛角尖，不僅毫無效率可言，也得不到任何具體的結果。因此，與人交談有助於彼此的思考更具體，更有效率。
 * The process of transforming the idea from one format to another exposes the gaps that exist in your logic and thinking, and you begin to spot creative connections among them. ​
-* Writing/Drawing is the ultimate tool to sharpen thinking—use it as a “knife block” for life.
+* Writing/Drawing is the ultimate tool to sharpen/crystalize thinking—use it as a “knife block” for life.
 
 ---
 
