@@ -1,10 +1,12 @@
 ---
 title: The Art of Quitting
 created: 2024-11-18T09:18:12
-modified: 2025-12-21T15:01:26
+modified: 2025-12-23T07:27:40
 ---
 
 > _“I am as proud of what we don’t do as I am of what we do.” — Steve Jobs_
+
+> _“Someone who can’t sacrifice anything, can never change anything.” — Armin Arlert, Attack on Titan (進擊 の 巨人)_
 
 > _「取是能力，捨是境界。」— 電影《破風》_
 
