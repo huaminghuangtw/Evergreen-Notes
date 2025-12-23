@@ -1,7 +1,7 @@
 ---
 title: Never lose faith and hope
 created: 2024-11-18T09:16:50
-modified: 2025-12-21T15:01:26
+modified: 2025-12-23T09:41:23
 ---
 
 > _“Without faith, it is impossible for you to become great.” — Wallace D. Wattles, [The Science of Being Great](https://www.goodreads.com/work/quotes/1881171)_
@@ -21,6 +21,8 @@ modified: 2025-12-21T15:01:26
 > _“Faith is confidence in what we hope for and assurance about what we do not see.” — Hebrews 11:1_
 >
 > 「信是所望之事的實底、未見之事的確據。」— 希伯來書第十一章
+
+> _“To do original work, it is not necessary to know something nobody else knows. It is necessary to believe something few other people believe.” ― Marc Andreessen_
 
 ---
 
