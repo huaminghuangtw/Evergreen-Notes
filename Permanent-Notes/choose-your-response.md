@@ -1,14 +1,14 @@
 ---
 title: Choose your response
 created: 2025-01-23T10:40:57
-modified: 2025-12-17T12:23:11
+modified: 2025-12-24T06:23:59
 ---
 
 > _“How we decide to respond to our fears, that is the person we become.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
 > _“It is the set of the sails, not the direction of the wind that determines which way we will go.” — Jim Rohn_
 
-> _“Between (triggering) stimulus and (emotional) response there is a space (gap). In that space is our power to choose our response. In our response lies our growth and our freedom.” — Viktor E. Frankl_
+> _“Between (triggering) stimulus and (emotional) response there is a space (gap). In that space is our power to choose our response. In our response lies our growth and our freedom.” — Viktor E. Frankl_ [^2]
 
 > _“When things go wrong, don’t go with them.” — Elvis Presley_
 
@@ -102,3 +102,4 @@ The Empty Boat Mindset is the reminder that most of these collisions you experie
 [Cognitive Defusion](cognitive-defusion.md)
 
 [^1]: _“It’s like singing on a boat during a terrible storm at sea. You can’t stop the raging storm, but singing can change the hearts and spirits of the people who are together on that ship.” — Anne Lamott_
+[^2]: Create [psychological distance](https://www.google.com/search?q=psychological+distance)
