@@ -1,7 +1,7 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
 created: 2024-11-18T09:18:12
-modified: 2025-12-15T08:56:56
+modified: 2025-12-24T13:18:15
 ---
 
 > _“Glory is fleeting, but obscurity is forever.” — Napoleon Bonaparte_
@@ -104,6 +104,10 @@ In a [scene](https://www.youtube.com/watch?v=-Do1ALVm9qk&t=1m16s) from the telev
 > And that’s all cowboyin’ is…
 >
 > **It’s you and a horse, doing a job, trying like hell to not let the other down.**
+
+---
+
+[Don’t chase, attract](dont-chase-attract.md)
 
 ---
 
