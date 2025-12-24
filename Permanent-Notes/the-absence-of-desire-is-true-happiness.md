@@ -1,7 +1,7 @@
 ---
 title: The absence of desire is true happiness
 created: 2024-11-18T09:18:12
-modified: 2025-11-30T07:16:30
+modified: 2025-12-24T13:13:03
 ---
 
 > _「有求皆苦，無求即樂」— 達摩祖師《二入四行觀》_
@@ -19,6 +19,8 @@ modified: 2025-11-30T07:16:30
 > _“Desire makes slaves out of kings, while patience makes kings out of slaves.” ― Imam Al-Ghazali_
 
 > _“Freedom is secured not by the fulfilling of one’s desires, but by the removal of desire.” — Epictetus_
+
+> _“The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.” — Dan Millman_
 
 [@mansonSubtleArtNot2016]
 
