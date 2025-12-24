@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2025-12-21T15:01:26
+modified: 2025-12-24T07:19:35
 ---
 
 > _“Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes_
@@ -14,7 +14,6 @@ modified: 2025-12-21T15:01:26
 
 > _“The reason I talk to myself is because I’m the only one whose answers I accept.” — George Carlin_
 
-> _“Third-person self-talk is a way of being empathetic to ourselves.” ― Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)_
 
 ---
 
@@ -41,6 +40,12 @@ Never say, I’ll never…
 ---
 
 永遠不要看輕自己。
+
+---
+
+# [Distanced Self-Talk](https://www.google.com/search?q=distanced+self-talk)
+
+> _“Third-person self-talk is a way of being empathetic to ourselves.” ― Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)_
 
 ---
 
@@ -108,7 +113,7 @@ If you tell yourself you can’t, you won’t. If you tell yourself you must, yo
 
 ---
 
-Legendary UCLA basketball coach John Wooden recommended the following nine promises that should be made by anyone seeking [happiness](happiness.md) and [success](what-success-means-to-me.md)…
+Legendary UCLA basketball coach [John Wooden](https://www.google.com/search?q=John+Wooden) recommended the following nine promises that should be made by anyone seeking [happiness](happiness.md) and [success](what-success-means-to-me.md)…
 
 1. Promise yourself that you will talk health, happiness, and prosperity as often as possible.
 2. Promise yourself to make all your friends know there is something in them that is special and that you value.
