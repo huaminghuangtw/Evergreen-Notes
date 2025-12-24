@@ -1,7 +1,7 @@
 ---
 title: The ability to bounce back quickly is one of the most important life skills
 created: 2025-12-21T06:09:03
-modified: 2025-12-23T16:24:20
+modified: 2025-12-23T17:29:52
 ---
 
 #Newsletter
@@ -11,7 +11,6 @@ modified: 2025-12-23T16:24:20
 > _“Jumping from failure to failure with undiminished enthusiasm is the big secret to success.” — Savas Dimopoulos_
 
 > _“If you get on the wrong train, get off at the nearest station. The longer it takes you to get off, the more expensive the return trip will be.” — Japanese proverb_
-
 
 ---
 
