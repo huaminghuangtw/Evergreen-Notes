@@ -1,7 +1,7 @@
 ---
 title: Fear
 created: 2024-11-18T09:18:12
-modified: 2025-12-23T13:59:29
+modified: 2025-12-23T17:29:52
 ---
 
 > _“Danger is real, fear is a choice” ― Will Smith_
@@ -33,10 +33,10 @@ If you can’t beat the fear, do it scared.
 If you want something, do it. If you want something, but you’re scared, do it scared.
 
 <figure>
-  <img src="https://ozo.art/_next/image?url=%2F2-options.png&w=3840&q=75">
-  <figcaption>
-    <sub><em>Source: <a href="https://ozo.art/">Janis Ozolins</a></em></sub>
-  </figcaption>
+	<img src="https://ozo.art/_next/image?url=%2F2-options.png&w=3840&q=75">
+	<figcaption>
+		<sub><em>Source: <a href="https://ozo.art/">Janis Ozolins</a></em></sub>
+	</figcaption>
 </figure>
 
 ---
