@@ -1,7 +1,7 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
 created: 2024-11-18T09:18:12
-modified: 2025-12-21T14:57:05
+modified: 2025-12-24T13:15:07
 ---
 
 > _“Your relationship with yourself sets the tone for every other relationship you have.” — Robert Holden_
@@ -43,6 +43,10 @@ To fall in love with yourself is the first secret to [happiness](happiness.md).
 The internal golden rule: treat yourself the way others should have treated you.
 
 People respect you, only as much as you respect yourself. Others treat you the way you treat yourself.
+
+---
+
+Think for yourself, not of yourself. Think of others, not for others.
 
 ---
 
