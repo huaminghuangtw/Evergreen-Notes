@@ -1,10 +1,10 @@
 ---
 title: Work in sprints, work with your biology
 created: 2024-11-18T09:18:12
-modified: 2025-12-10T08:32:12
+modified: 2025-12-24T06:09:13
 ---
 
-> _“If you want to operate at maximum productivity, efficiency, and creativity, you’re going to work on things that you’re excited about at the moment you’re excited about them and accept nothing less. It is better to sit on your butt and do nothing than it is to work on things that you are not excited about.” — Naval Ravikant_
+> _“If you want to operate at maximum [productivity](Productivity.md), efficiency, and creativity, you’re going to work on things that you’re excited about at the moment you’re excited about them and accept nothing less. It is better to [sit on your butt and do nothing](boredom-promotes-creativity.md) than it is to work on things that you are not excited about.” — Naval Ravikant_ [^1] [^2]
 
 > _“The right way to work is like a lion. You don’t — you and I are not like cows. We’re not meant to graze all day, right? We’re meant to hunt like lions. So, as a modern knowledge worker, an intellectual athlete, you want to function like an athlete. This means you train hard, then you sprint, then you rest, then you reassess. You get your feedback loop, you train some more, then you sprint again, then you rest, then you reassess. This idea that you’re going to have linear output just by cranking every day at the same amount of time sitting — that’s machines. Machines should be working 9 to 5. Humans are not meant to work 9 to 5.” — Naval Ravikant_
 
@@ -18,7 +18,7 @@ Humans are not machines.
 
 Why?
 
-* 時間是有限的 [^1]，但 [能量或精力可以無限](energy-management.md)
+* 時間是有限的 [^3]，但 [能量或精力可以無限](energy-management.md)
 * 時間以不變的速度流逝，但能量或精力不斷地在變。
 
 ---
@@ -28,7 +28,7 @@ Why?
 * originated from “Basic Rest-Activity Cycle” by Nathan Kleitman
 * is a recurrent period or cycle repeated throughout a 24-hour day.
 	* Ultradian = “many times a day”
-	* Circadian = “about a day” [^2]
+	* Circadian = “about a day” [^4]
 * is a biological fact that our alertness naturally rises and falls in 90‑minute cycles
 	* Aim for 1–3 × 90-minute intervals per day.
 		* 4 × 90-minute blocks of focused work per day, while possible, is highly unusual.
@@ -81,7 +81,7 @@ Life has four speeds: 1) Rest, 2) Walk, 3) Sprint, and 4) Jog. Most of us defaul
 
 ---
 
-Work like a lion. [^3] [^4] [^5] Eat like a snake. Sleep like a baby.
+Work like a lion. [^5] [^6] [^7] Eat like a snake. Sleep like a baby.
 
 ---
 
@@ -95,7 +95,7 @@ Work like a lion. [^3] [^4] [^5] Eat like a snake. Sleep like a baby.
 
 A productivity study conducted by the [Draugiem Group](https://draugiemgroup.com/) using the [DeskTime](https://desktime.com/) time-tracking app suggests that, the optimal work-to-break ratio is **52 minutes of sprinting followed by 17 minutes of utter [relaxation/recuperation](the-most-productive-people-prioritize-intentional-rest.md)**.
 
-According to the research, “_The secret to retaining the highest level of productivity over the span of a workday is not working longer–but working smarter with frequent breaks._” The most productive 10 percent of employees “_make the most of those 52 minutes by working with intense purpose, but then rest up to be ready for the next burst. In other words, they work with purpose. Working with purpose can also be called the ‘100 percent dedication’ theory–the notion that whatever you do, you do it full-on._” [^6] [^7]
+According to the research, “_The secret to retaining the highest level of productivity over the span of a workday is not working longer–but working smarter with frequent breaks._” The most productive 10 percent of employees “_make the most of those 52 minutes by working with intense purpose, but then rest up to be ready for the next burst. In other words, they work with purpose. Working with purpose can also be called the ‘100 percent dedication’ theory–the notion that whatever you do, you do it full-on._” [^8] [^9]
 
 ---
 
@@ -121,10 +121,12 @@ According to the research, “_The secret to retaining the highest level of prod
 
 [You can achieve anything if you focus on one thing at a time](you-can-achieve-anything-if-you-focus-on-one-thing-at-a-time.md)
 
-[^1]: 每個人每天都是固定 24 小時
-[^2]: **Circadian Rhythm (= 生理時鐘 = 晝夜節律):** Every cell/organ in our body/brain is modulated or changes in a very regular and predictable rhythm across the 24-hour day.
-[^3]: Don’t work like a cow, standing in the field all day, grazing grass at a slow pace—move with the precision of a hawk or the focus of a lion stalking its prey.
-[^4]: [Why is Lionel Messi always walking during matches?](https://www.reddit.com/r/InterMiami/comments/15x8xvh/why_does_messi_walk_alot_well_here_you_go/)
-[^5]: [LeBron James walks a lot. During the regular season, about 74.4 percent of James' time on the court was spent walking. Again, this was in the top 10 in the league. Almost no one walked up and down the floor more than James. And in the playoffs, he’s walking even more—8.7 percent of the time.](https://www.espn.com/nba/story/_/id/23384071/lebron-james-plays-rests-keep-cleveland-cavaliers-hopes-alive)
-[^6]: Draugiem Group’s study found that the most effective workers didn’t adhere to rigid 8-hour shifts or short breaks every hour. Instead, they alternated between productive 52-minute sessions and restorative 17-minute breaks, allowing their brains to stay fresh and efficient.
-[^7]: The most productive workers weren’t the ones who chained themselves to their desks for eight-hour days, nor those who took a seemingly healthy five-minute break every hour. Instead, they discovered that working in 52-minute bursts, followed by 17-minute breaks, allowed their brains to recharge, maximizing focus and productivity for the next session.
+[^1]: “wait-and-see mode”
+[^2]: Naval Ravikant 認為，若想達到生產力、效率與創造力的巔峰，就必須在對事物感到興奮的當下全力以赴。寧願什麼都不做，也不要浪費時間在沒熱情的事情上。
+[^3]: 每個人每天都是固定 24 小時
+[^4]: **Circadian Rhythm (= 生理時鐘 = 晝夜節律):** Every cell/organ in our body/brain is modulated or changes in a very regular and predictable rhythm across the 24-hour day.
+[^5]: Don’t work like a cow, standing in the field all day, grazing grass at a slow pace—move with the precision of a hawk or the focus of a lion stalking its prey.
+[^6]: [Why is Lionel Messi always walking during matches?](https://www.reddit.com/r/InterMiami/comments/15x8xvh/why_does_messi_walk_alot_well_here_you_go/)
+[^7]: [LeBron James walks a lot. During the regular season, about 74.4 percent of James' time on the court was spent walking. Again, this was in the top 10 in the league. Almost no one walked up and down the floor more than James. And in the playoffs, he’s walking even more—8.7 percent of the time.](https://www.espn.com/nba/story/_/id/23384071/lebron-james-plays-rests-keep-cleveland-cavaliers-hopes-alive)
+[^8]: Draugiem Group’s study found that the most effective workers didn’t adhere to rigid 8-hour shifts or short breaks every hour. Instead, they alternated between productive 52-minute sessions and restorative 17-minute breaks, allowing their brains to stay fresh and efficient.
+[^9]: The most productive workers weren’t the ones who chained themselves to their desks for eight-hour days, nor those who took a seemingly healthy five-minute break every hour. Instead, they discovered that working in 52-minute bursts, followed by 17-minute breaks, allowed their brains to recharge, maximizing focus and productivity for the next session.
