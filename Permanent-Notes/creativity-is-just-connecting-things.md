@@ -1,7 +1,7 @@
 ---
 title: Creativity is just connecting things
 created: 2025-03-12T02:41:12
-modified: 2025-12-23T16:20:29
+modified: 2025-12-24T06:09:21
 ---
 
 > _“Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. That’s because they were able to connect experiences they’ve had and synthesize new things. And the reason they were able to do that was that they’ve had more experiences or they have thought more about their experiences than other people.” — Steve Jobs_
@@ -18,7 +18,7 @@ modified: 2025-12-23T16:20:29
 
 ---
 
-[Doing absolutely nothing promotes creativity](Boredom%20promotes%20creativity.md)
+[Doing absolutely nothing promotes creativity](boredom-promotes-creativity.md)
 
 ---
 
