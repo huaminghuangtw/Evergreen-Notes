@@ -1,7 +1,7 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-12-21T15:01:26
+modified: 2025-12-24T05:18:07
 ---
 
 > _“Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot_
@@ -67,8 +67,6 @@ modified: 2025-12-21T15:01:26
 > _[“A bird is safe in its nest but that is not what its wings are made for.” — Amit Ray](https://www.goodreads.com/quotes/1512522-a-bird-is-safe-in-its-nest---but-that)_
 
 > _“Some men see things as they are and ask why. Others dream things that never were and ask why not.” — George Bernard Shaw_
-
-> _[“It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.” — Robert H. Goddard](https://www.brainyquote.com/quotes/robert_h_goddard_390146)_
 
 ---
 
