@@ -1,7 +1,7 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2025-12-21T14:58:03
+modified: 2025-12-24T13:17:19
 ---
 
 > _“Everything popular is wrong.” — Oscar Wilde_
@@ -81,13 +81,7 @@ The world doesn’t need one more _template_. It needs one more _rebel_.
 
 ---
 
-# Attract > Chase
 
-> _“If you spend your time chasing butterflies, they’ll fly away. But if you spend your time making/mending a beautiful garden, the butterflies will come.” — Mario Quintana_ [^3]
-
-> _“The flower doesn’t dream of the bee. It blossoms and the bee comes.” — Mark Nepo_
-
----
 
 找到只有你能做得好的一件事，你就會事半功倍，最後你將成為那件事的世界第一，並且熱愛生命
 
@@ -133,4 +127,3 @@ Find a thing that’s so you, that doing it is just a natural extension of you b
 
 [^1]: _“Whenever possible, win without fighting or, at the very least, to win the easiest battles first.” — Sun Tzu_
 [^2]: You are the sum of your influences. No one has the same combination of influences as you.
-[^3]: _“When you let go of the outcome and stop chasing your desires, What you desire starts chasing you.” — Dr. Wayne Dyer_
