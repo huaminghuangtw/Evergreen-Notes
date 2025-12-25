@@ -1,7 +1,7 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
 created: 2024-11-18T09:18:12
-modified: 2025-12-24T13:18:15
+modified: 2025-12-25T13:49:16
 ---
 
 > _“Glory is fleeting, but obscurity is forever.” — Napoleon Bonaparte_
@@ -9,6 +9,10 @@ modified: 2025-12-24T13:18:15
 > _“The appetite for applause counts amongst the lowest of human character traits.” — Jan-Willem van der Rijt_
 
 > _“It is better to conquer yourself than to win a thousand battles. Then the victory is yours. It cannot be taken from you, not by angels or by demons, heaven or hell.” — Dhammapada_
+
+---
+
+內（在）驅（動）力
 
 ---
 
