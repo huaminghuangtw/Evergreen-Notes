@@ -1,7 +1,7 @@
 ---
 title: Why we exist?
 created: 2024-11-18T09:18:12
-modified: 2025-12-21T15:01:26
+modified: 2025-12-25T09:26:20
 ---
 
 > _[“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)_
@@ -135,8 +135,6 @@ Successful people don’t have a career, they have a mission. Most of them are t
 > _“(It’s true that) none of us will get to live forever(, but) none of the people who die are gone. They’re with us every day. I once heard a pastor at a church say that they’re like ships sailing out of the harbor. Yes, at some point, as they get past the horizon, we can’t see them anymore. But that doesn’t mean they’re gone. I don’t think we ever lose the people who pass away. They stay with us every day, in our memories, but also in the way they shaped our lives.” — Arnold Schwarzenegger_
 
 > _“No one is finally dead until the ripples they cause in the world die away, until the clock wound up winds down, until the wine she made has finished its ferment, until the crop they planted is harvested. The span of someone’s life is only the core of their actual existence.” — Terry Pratchett, Reaper Man_
-
-我們每個人對於已經存在 137 億年的宇宙而言，都是倏忽/轉瞬即逝的存在。任何人世間的紛爭/擾，放在已經存在 137 億年的宇宙旁邊，都是那麼地微不足道。在人生這段旅程中，沒有一樣東西能永久留下，它們終將淡去消失、煙灰雲散，不會有任何聲響。
 
 The great use of life is to spend it for something that outlasts it. To be remembered by people is to live forever.
 
