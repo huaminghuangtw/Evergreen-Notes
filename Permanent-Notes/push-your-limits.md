@@ -1,7 +1,7 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-12-24T05:18:07
+modified: 2025-12-25T15:08:57
 ---
 
 > _“Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot_
@@ -142,19 +142,11 @@ Your present circumstances don’t determine where you can go; they merely deter
 
 ---
 
-# The 40% Rule By David Goggins
-
-[@gogginsCantHurtMe2018]
+# [The 40% Rule by David Goggins](https://huami.ng/2025/12/26/enoughness-11/#2)
 
 > _“When you think that you are done, you’re only 40% in to what your body’s capable of doing. That’s just the limits that we put on ourselves.”_
 
 > _“At the end of the day, we can endure much more than we think we can.” — Frida Kahlo_
-
-* People typically quit when they are only 40% exhausted; they still have 60% left in the tank.
-	* 當你覺得自己已經「撐不下去了」時，其實你只用了自己潛力的 40%，還有 60% 的潛力沒有被挖掘出來。人的極限常常是心理設下的，而不是身體真正的極限。
-* When the low fuel light comes on, your tank still holds 10–15% of fuel — enough to keep going for dozens of kilometers. Your brain works the same way: it warns you to stop long before you’re truly empty. Trust that you’ve still got more in the tank.
-	* 汽車加油燈的比喻：當汽車的油燈亮起時，很多人會以為「完了，快沒油了，撐不住了」。但實際上，它只是個警告燈；只是在提醒你油量低了—通常是在油箱還剩下 10～15% 燃油時才會亮起，換句話說，你往往還能再開個 50 到 100 公里沒問題。
-	* 因此，當油燈（心理極限）亮起時，其實你體內還有很多燃料（潛力）沒被發揮。不要一看到「油燈」亮就急著停下來，學會信任自己，其實你還能再前進一段不短的距離。
 
 [Pain Is Inevitable. Suffering Is Optional.](pain-is-inevitable-suffering-is-optional.md)
 
