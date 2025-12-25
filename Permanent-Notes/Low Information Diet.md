@@ -1,7 +1,7 @@
 ---
 title: Low Information Diet
 created: 2024-11-18T09:18:12
-modified: 2025-12-04T17:06:31
+modified: 2025-12-25T06:10:24
 ---
 
 > _“The art of not reading is a very important one. It consists in not taking an interest in whatever may be engaging the attention of the general public at any particular time. When some political or ecclesiastical pamphlet, or novel, or poem is making a great commotion, you should remember that he who writes for fools always finds a large public. A precondition for reading good books is not reading bad ones: for life is short.” — Arthur Schopenhauer_
@@ -16,7 +16,7 @@ modified: 2025-12-04T17:06:31
 
 Your diet isn’t just about what you eat (the food you put into your body), but also what you read, watch, listen to (the information you take in), as well as who you follow on social platforms \& the friends you hang around. Your digital environment shapes your thinking just as much (if not more) than your physical environment.
 
-Cull Your [Social Media](Quit%20social%20media.md) Feed
+Cull Your [Social Media](quit-social-media.md) Feed
 
 ---
 
@@ -43,4 +43,4 @@ Brainwash yourself with greatness.
 
 ---
 
-[BS Asymmetry Principle](BS%20Asymmetry%20Principle.md)
+[BS Asymmetry Principle](bs-asymmetry-principle.md)
