@@ -1,7 +1,7 @@
 ---
 title: Why I write and run every single day
 created: 2025-11-13T06:08:11
-modified: 2025-12-16T10:21:20
+modified: 2025-12-25T14:18:27
 ---
 
 > _“Energy is eternal delight.” — William Blake_
@@ -60,7 +60,7 @@ I **ran** because it suited me—and **writing** because it did too: _introspect
 
 跑步是一們藝術，在這塊畫布上，我不斷地觀察、感受、思考、分析及冥想。
 
-我跑步的時候會想很多事情，也有很多事情會在跑步的時候解決。
+我跑步的時候會想很多事情，很多事情也會在跑步的時候解決，很多文章也都是在跑步的時候「完成」的。
 
 在跑步的時候，我的身體變成靈魂的一部分，我的靈魂變成身體的一部分。
 
