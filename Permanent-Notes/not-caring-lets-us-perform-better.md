@@ -1,7 +1,7 @@
 ---
 title: Not caring lets us perform better
 created: 2024-11-18T09:18:12
-modified: 2025-11-07T19:06:12
+modified: 2025-12-25T15:17:01
 ---
 
 > _“If you aim at nothing, you will hit it every time.” — Zig Ziglar_
@@ -35,6 +35,8 @@ In this frame, the ideal combination to minimize or remove self-interference is 
 ---
 
 # “Be sincere, not serious” by Alan Watts
+
+> _“I am always sincere, but never serious.” — Alan Watts_
 
 ## Group 1
 
