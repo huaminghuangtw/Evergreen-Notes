@@ -1,7 +1,7 @@
 ---
 title: Boredom promotes creativity
 created: 2024-12-16T14:01:41
-modified: 2025-12-24T06:08:17
+modified: 2025-12-24T17:18:51
 ---
 
 [@talebBedProcrustesPhilosophical2016]
@@ -14,7 +14,6 @@ modified: 2025-12-24T06:08:17
 
 > _[“People who do a job that claims to be creative have to be alone to recharge their batteries. You can’t live 24 hours a day in the spotlight and remain creative. For people like me, solitude is a victory.” — Karl Lagerfeld](https://www.goodreads.com/quotes/324395-people-who-do-a-job-that-claims-to-be-creative)_
 
-
 ---
 
 ![](https://d502jbuhuh9wk.cloudfront.net/orgData/6648d24a89175914ef089aa7/pages/assets/images/UwpjW2602.png)
@@ -25,7 +24,7 @@ After observing that highly creative individuals like Einstein, Mozart, and da V
 
 Surprisingly, the brain wasn’t idle at all but rather engaged in active processes. This state, called **Random Episodic Silent Thinking (R.E.S.T.)** or the **Default Mode Network (DMN) 預設模式網路** [@raichleDefaultModeBrain2001], is when the brain actively seeks connections and forms associations, making sense of experiences.
 
-DMN is best known for being active when a person is not focused on the outside world, engaged with doing mindless activities (such as _walking_, _running_, _bike riding_, _taking shower_ ,[^2] _driving_, _house cleaning_, _washing the dishes_, _hanging up the laundry_, _going to the grocery store_, _sitting on the beach/couch/sofa_, etc.), and the brain is at wakeful rest (such as during daydreaming and mind-wandering [^3]).
+DMN is best known for being active when a person is not focused on the outside world, engaged with doing mindless activities (such as _walking_, _running_, _bike riding_, _taking shower_ ,[^1] _driving_, _house cleaning_, _washing the dishes_, _hanging up the laundry_, _going to the grocery store_, _sitting on the beach/couch/sofa_, etc.), and the brain is at wakeful rest (such as during daydreaming and mind-wandering [^2]).
 
 ---
 
@@ -62,5 +61,5 @@ JK Rowling came up with the idea for Harry Potter while waiting for a train.
 
 > _“[A few years later in 1990, after moving to London, I was sitting on a delayed train back home from Manchester when suddenly I had the idea of a boy wizard who went to wizarding school. Harry Potter and Hogwarts came out of nowhere in the most physical rush of excitement, and ideas came teeming into my head.](https://stories.jkrowling.com/my-story#:~:text=A%20few%20years%20later%20in%E2%80%AF1990%2C%20after%20moving%20to%20London%2C%20I%20was%20sitting%20on%20a%20delayed%20train%20back%20home%20from%20Manchester%20when%20suddenly%20I%20had%20the%20idea%20of%20a%20boy%20wizard%20who%20went%20to%20wizarding%20school.%20Harry%20Potter%20and%20Hogwarts%20came%20out%20of%20nowhere%20in%20the%20most%20physical%20rush%20of%20excitement%2C%20and%20ideas%20came%20teeming%20into%20my%20head.)”_
 
-[^2]: Shower Thoughts: Shower is an idea incubator. Keep [Aqua Notes](https://www.myaquanotes.com/) ready.
-[^3]: = mindless [recharging](the-most-productive-people-prioritize-intentional-rest.md)
+[^1]: Shower Thoughts: Shower is an idea incubator. Keep [Aqua Notes](https://www.myaquanotes.com/) ready.
+[^2]: = mindless [recharging](the-most-productive-people-prioritize-intentional-rest.md)
