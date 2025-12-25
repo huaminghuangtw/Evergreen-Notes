@@ -1,7 +1,7 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2025-12-24T13:17:19
+modified: 2025-12-24T17:18:51
 ---
 
 > _“Everything popular is wrong.” — Oscar Wilde_
@@ -80,8 +80,6 @@ Sometimes becoming who you are is actually about _unbecoming_ who you aren’t.
 The world doesn’t need one more _template_. It needs one more _rebel_.
 
 ---
-
-
 
 找到只有你能做得好的一件事，你就會事半功倍，最後你將成為那件事的世界第一，並且熱愛生命
 
