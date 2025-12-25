@@ -1,7 +1,7 @@
 ---
 title: The Compounding Effect
 created: 2024-11-18T09:18:12
-modified: 2025-12-09T17:06:07
+modified: 2025-12-25T08:51:00
 ---
 
 > _“Compounding is the 8th wonder of the world.” — Albert Einstein_
@@ -93,15 +93,7 @@ The gradual acceptance of negative change, because it happens in such small incr
 
 ---
 
-> _“It isn’t the mountains ahead to climb that wear you out; it’s the pebble in your shoe.” — Muhammad Ali_
-
-* You can’t conquer the mountain in your path until you remove the pebble in your shoes.
-* What truly exhausts us isn’t always the big, obvious obstacle — it’s the small, nagging issue we ignore/overlook.
-* The real threat to progress often comes from within or from things we deem too minor to fix. It’s like trying to run a marathon while ignoring a blister.
-* How it applies in life:
-	* A student might fail not because the coursework is too hard, but because they keep doubting their intelligence.
-	* A relationship might crumble not from a huge fight, but from years of minor miscommunications or unspoken resentment.
-	* A project might stall not from lack of skill, but from procrastination or perfectionism.
+[The Mountain & The Pebbles](the-mountain-and-the-pebbles.md)
 
 ---
 
