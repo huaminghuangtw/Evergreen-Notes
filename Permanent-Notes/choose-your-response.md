@@ -1,20 +1,20 @@
 ---
 title: Choose your response
 created: 2025-01-23T10:40:57
-modified: 2025-12-24T06:23:59
+modified: 2025-12-25T08:52:40
 ---
 
 > _“How we decide to respond to our fears, that is the person we become.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
 > _“It is the set of the sails, not the direction of the wind that determines which way we will go.” — Jim Rohn_
 
-> _“Between (triggering) stimulus and (emotional) response there is a space (gap). In that space is our power to choose our response. In our response lies our growth and our freedom.” — Viktor E. Frankl_ [^2]
+> _“Between (triggering) stimulus and (emotional) response there is a space (gap). In that space is our power to choose our response. In our response lies our growth and our freedom.” — Viktor E. Frankl_ [^1]
 
 > _“When things go wrong, don’t go with them.” — Elvis Presley_
 
 > _“How people treat you is their [karma](life-is-cyclic.md); how you react is yours.” — Dr. Wayne Dyer_
 
-> _“If we are all going to be destroyed by an atomic bomb, let that bomb when it comes find us doing sensible and human things-praying, working, teaching, reading, listening to music, bathing the children, playing tennis, chatting to our friends over a pint and a game of darts—not huddled together like frightened sheep and thinking about bombs. They may break our bodies (a microbe can do that) but they need not dominate our minds.” — C.S. Lewis_ [^1]
+> _“If we are all going to be destroyed by an atomic bomb, let that bomb when it comes find us doing sensible and human things-praying, working, teaching, reading, listening to music, bathing the children, playing tennis, chatting to our friends over a pint and a game of darts—not huddled together like frightened sheep and thinking about bombs. They may break our bodies (a microbe can do that) but they need not dominate our minds.” — C.S. Lewis_ [^2]
 
 ---
 
@@ -71,19 +71,7 @@ The real skill in life _isn’t avoiding pain—it’s refusing to shoot yoursel
 
 ---
 
-# The Empty Boat Mindset
-
-> A monk goes out on a boat in a small lake to meditate. After a few hours of uninterrupted silence, he suddenly feels the jarring impact of another boat bumping into his.
-> ​
-> While he does not open his eyes, he feels the irritation and anger building within him.
-> ​
-> “Why would someone do that? Can’t they see me here? How dare they disturb my meditation?”
-> ​
-> He opens his eyes, ready to shout at the person in the other boat, only to realize that it is empty. It had come untied from the dock and was floating in the middle of the lake.
-> ​
-> In that moment, his anger and frustration disappears. After all, you cannot be angry at an empty boat.
-
-The Empty Boat Mindset is the reminder that most of these collisions you experience in life are with an empty boat. There is no negative intent. There is no desire to harm. They are simply the random collisions of objects floating along on the lake of life.
+[The Empty Boat Mindset](the-empty-boat-mindset.md)
 
 ---
 
@@ -101,5 +89,5 @@ The Empty Boat Mindset is the reminder that most of these collisions you experie
 
 [Cognitive Defusion](cognitive-defusion.md)
 
-[^1]: _“It’s like singing on a boat during a terrible storm at sea. You can’t stop the raging storm, but singing can change the hearts and spirits of the people who are together on that ship.” — Anne Lamott_
-[^2]: Create [psychological distance](https://www.google.com/search?q=psychological+distance)
+[^1]: Create [psychological distance](https://www.google.com/search?q=psychological+distance)
+[^2]: _“It’s like singing on a boat during a terrible storm at sea. You can’t stop the raging storm, but singing can change the hearts and spirits of the people who are together on that ship.” — Anne Lamott_
