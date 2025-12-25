@@ -1,7 +1,7 @@
 ---
 title: Instant Gratification
 created: 2024-11-18T09:18:12
-modified: 2025-12-09T20:06:04
+modified: 2025-12-25T06:10:24
 ---
 
 = Immediate Gratification = Cheap Dopamine → Slow Dopamine
@@ -35,7 +35,7 @@ Temptation is an ever-present failure trigger.
 
 我們經常從「[壞習慣](be-a-habit-and-routine-machine.md)」中獲得「立刻」的滿足，而且當下或短期內並不會產生任何明顯的負面效果，這導致人們常常放任自己、沉溺在壞習慣當中。
 
-* Doomscrolling (= Idle Scrolling = Zombie Scrolling) on [social media](Quit%20social%20media.md) [^2]
+* Doomscrolling (= Idle Scrolling = Zombie Scrolling) on [social media](quit-social-media.md) [^2]
 * Playing video games [^2]
 * Binge-watching TV, Netflix series, or YouTube videos [^2]
 * Binge-eating junk food (= crap food = highly/ultra processed food) [^3]
