@@ -1,7 +1,7 @@
 ---
 title: Be a habit and routine machine
 created: 2024-11-18T09:18:12
-modified: 2025-12-21T15:01:26
+modified: 2025-12-25T07:41:55
 ---
 
 > _“Outer order contributes to inner calm.” — Gretchen Rubin_
@@ -134,6 +134,10 @@ Golden Rule: Don’t resist craving, redirect it; keeping the cue and the reward
 
 * The phrase can also be used metaphorically, like: **“I went cold turkey on social media.”** Meaning the person quit all at once.
 * Quitting cold turkey can be effective but also intense, often leading to withdrawal symptoms (戒斷症狀) depending on what’s being quit.
+
+---
+
+[The Two-Day Rule](the-two-day-rule.md)
 
 [^1]: See also: [William James on Habit](https://fs.blog/william-james-on-habit/)
 [^2]: Or: [Public Commitment Pledge](https://sketchplanations.com/public-commitment-pledge)
