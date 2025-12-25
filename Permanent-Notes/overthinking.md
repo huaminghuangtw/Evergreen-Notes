@@ -1,7 +1,7 @@
 ---
 title: Overthinking
 created: 2025-01-23T10:40:57
-modified: 2025-12-23T16:16:17
+modified: 2025-12-24T17:36:47
 ---
 
 > _“Imagination and fiction make up more than three quarters of our real life.” — Simone Weil_
@@ -31,6 +31,11 @@ The primary cause of unhappiness is never the situation but your thoughts about 
 ---
 
 唐代禪宗六祖惠能大師所作偈（ㄐㄧˋ）語「<mark>菩提本無樹，明鏡亦非台；本來無一物，何處惹塵埃？</mark>」，意指佛性（菩提）原本就不是什麼樹，清淨的心性（明鏡）也根本不是一個可以被安置的台座，強調「自性清淨，本來空寂」，沒有實體，因此無從被煩惱（塵埃）所附著，是人心的終極開悟境界。
+
+另一句：「[應無所住，而生其心。](https://www.ddm.org.tw/xmnews/cont?xsmsid=0K297379120077217595&sid=0M210565215863679987)」—《金剛經》
+
+* 「無所住」：身在紅塵，但不受紅塵困擾。
+* 「生其心」：出入紅塵，還能救濟紅塵中的眾生。
 
 ---
 
