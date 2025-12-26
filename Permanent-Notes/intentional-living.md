@@ -1,7 +1,7 @@
 ---
 title: Intentional Living
 created: 2024-11-18T09:18:12
-modified: 2025-12-22T13:20:33
+modified: 2025-12-26T05:58:00
 ---
 
 > _[“Your goal in life is to be able to say on the day before you die that you have fully become yourself.” — Kevin Kelly](https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/)_
@@ -79,6 +79,7 @@ Don’t be a “Living Dead.” Don’t _die_ before you are _dead_.
 * _“Most people die at 25 and aren’t buried until they’re 75.” — Benjamin Franklin_
 * _“To live is the rarest thing in the world. Most people exist, that is all.” — Oscar Wilde_
 * _“Some people are old at 19 and some are still young at 90.”_
+* _“Don’t go through life, grow through life.” — Eric Butterworth_
 * 乾枯的靈魂
 
 ---
