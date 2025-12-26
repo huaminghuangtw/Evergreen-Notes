@@ -1,7 +1,7 @@
 ---
 title: The Mountain & The Pebbles
 created: 2025-12-25T08:50:59
-modified: 2025-12-25T08:50:59
+modified: 2025-12-25T16:17:20
 ---
 
 > _“It isn’t the mountains ahead to climb that wear you out; it’s the pebble in your shoe.” — Muhammad Ali_
