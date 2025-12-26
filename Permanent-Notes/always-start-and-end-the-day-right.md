@@ -1,7 +1,7 @@
 ---
 title: Always start and end the day right
 created: 2025-01-23T10:40:57
-modified: 2025-12-09T08:17:53
+modified: 2025-12-26T10:11:09
 ---
 
 > _“Every morning in Africa, a gazelle wakes up, it knows it must outrun the fastest lion or it will be killed. Every morning in Africa, a lion wakes up. It knows it must run faster than the slowest gazelle, or it will starve. It doesn’t matter whether you’re the lion or a gazelle-when the sun comes up, you’d better be running.” — Christopher McDougall_
@@ -56,8 +56,6 @@ Morning routines _start with evening routines the night before_: If you want to 
 ## Wind Down 就像結束一天的駕駛，把車停到車庫裡一樣
 
 You don’t park a car going 70 km/h — you slow down first, then park. The same goes for sleep. We often head to bed with our minds still racing from the day’s activity, and then wonder why it’s hard to fall asleep.
-
-因為一整天的忙碌工作（駕駛）通常需要保持高度集中和警覺，而 Wind Down（停車）意味著給大腦和身體一個停頓的空間，放慢節奏，逐漸從「活躍狀態」過渡到「平靜狀態」，讓身心準備好進入休息和恢復階段，真正放下壓力和思緒，為接下來全新的一天做好準備。
 
 ---
 
