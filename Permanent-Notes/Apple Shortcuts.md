@@ -1,7 +1,7 @@
 ---
 title: Apple Shortcuts
 created: 2024-11-18T10:16:50
-modified: 2025-11-28T07:18:28
+modified: 2025-12-27T16:30:53
 ---
 
 [比較]
@@ -21,10 +21,10 @@ Actions
 * \*Get random items from List
 	* Single: “Get Item from List” → Choose “Random Item”
 	* Multiple: “Filter Files” → Choose “Random” in “Sort by” → Enable “Limit” → Select the number of random items you want to get
-* “Is Charging” v.s “Is Connected to Charger”
-* Former: Is the device gaining battery charge?
-* Latter: Is the device connected to a charger that at least is slowing down the rate the battery drains?
-	* For Optimized Battery Charging: being connected to a charger but not charging
+* “Is Charging” v.s “Is Connected to Charger” (Get Battery Status)
+	* Former: Is the device gaining battery charge?
+	* Latter: Is the device connected to a charger that at least is slowing down the rate the battery drains?
+		* For Optimized Battery Charging: being connected to a charger but not charging
 * “Add to Variable” → List
 	* **Tip:** “Repeat with each item” + “Text” → “Repeat Results” is already a list of “Text”, not need to use “Add to Variable” for each iteration → simplify code!
 * How to use Boolean variables?
