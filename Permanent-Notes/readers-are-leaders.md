@@ -1,7 +1,7 @@
 ---
 title: Leaders are readers
 created: 2024-11-18T09:18:12
-modified: 2025-12-16T13:57:28
+modified: 2025-12-28T18:31:03
 ---
 
 > _“Man is what he reads.” — Joseph Brodsky_
@@ -80,6 +80,9 @@ modified: 2025-12-16T13:57:28
 		* Savor the important stuff as you will find more resonance or pick up new ideas by seeing things from different perspectives: focus on points that resonate with you.
 		* The great thing about a powerful piece of writing is that you’ll never read it the same way twice. As you grow older, your contexts change, and what you get out of the piece changes too. A book you read at 35 is not the same as when you read it at 25.
 		* A good book gets better at the second reading. A great book at the third. Any book not worth rereading isn’t worth reading at all.
+		* 好書重覆讀過無數遍後，文字就會：
+			* 像血液般流入體內，深入骨髓。
+			* 如魔音穿腦般，在腦中反覆迴盪。
 * [以終為始](always-start-with-end-in-mind.md)：The first and most important rule of active/skillful reading is asking questions and trying to answer them.
 * Read _from_ books. Not read _through_ books.
 	* Main goal: Find **IQ + AA = Insights, Quotes, and Actionable Advice**
