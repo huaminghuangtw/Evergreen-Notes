@@ -1,14 +1,18 @@
 ---
 title: "The Day of No Reason: When Logic Meets Joy"
 created: 2025-12-15T15:32:39
-modified: 2025-12-16T16:48:30
+modified: 2025-12-28T17:44:09
 ---
+
+> _“Don’t underestimate the value of doing nothing, of just going along, listening to all the things you can’t hear, and not bothering.” — Winnie the Pooh_
 
 #Newsletter
 
-有一天，小熊維尼（Pooh）和小豬並肩坐著，想著今天要做些什麼。
+![](unnamed.jpg)
 
-維尼說：「不如去拜訪大家吧。」
+有一天，小熊維尼（Pooh）和小豬（Piglet）並肩躺在草坪上，望著天空，想著今天要做什麼。
+
+維尼首先打破沉默：「不如去拜訪大家吧。」
 
 小豬有點猶豫：「我們要不要想個理由？比如說，一起去冒險之類的。」
 
@@ -28,7 +32,7 @@ modified: 2025-12-16T16:48:30
 
 「對，他有一顆腦袋。」小豬附和。
 
-維尼又沉默了很久，最後說：「<mark>也許，這就是他什麼都不懂的原因吧。</mark>」
+維尼沉默了很久，最後說：「<mark>也許，這就是他什麼都不懂的原因吧。</mark>」
 
 > 兔子和維尼的思維差異在於：
 >
