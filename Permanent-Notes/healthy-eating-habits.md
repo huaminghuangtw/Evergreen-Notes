@@ -1,7 +1,7 @@
 ---
 title: Healthy Eating Habits
 created: 2024-11-18T09:16:50
-modified: 2025-12-07T20:35:19
+modified: 2025-12-28T15:55:52
 ---
 
 Eating Better
@@ -255,5 +255,5 @@ Ultimately, the **Limbo–Titrate–Quality** approach is intended to be a **lif
 [^12]: = Hara Hachi Bu = 腹八分目
 [^13]: Variations: 天天 5 蔬果、蔬果 579
 [^14]: “Thy” is an archaic or poetic form of “your,” used in old English, especially in Shakespearean or biblical language.
-[^15]: 酪梨 = 鰐梨 = 牛油果 → 全球公認最好吃、油脂最豐厚的酪梨品種 - Hash (哈斯)
+[^15]: 酪梨 = 鰐梨 = 牛油果 → 全球公認最好吃、油脂最豐厚的酪梨品種 - Hass (哈斯)
 [^16]: = Diet Intervention Examining The Factors Interacting with Treatment Success
