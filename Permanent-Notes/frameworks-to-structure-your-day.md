@@ -1,7 +1,7 @@
 ---
 title: Frameworks to structure your day
 created: 2025-01-23T18:40:57
-modified: 2025-12-23T17:29:52
+modified: 2025-12-28T17:59:20
 ---
 
 > _[Live life by design, not default.](https://fs.blog/david-foster-wallace-this-is-water/) Make each day your masterpiece. How you spend your days is how you spend your life._
@@ -13,7 +13,7 @@ modified: 2025-12-23T17:29:52
 * 自由裡的框架，框架裡的自由：Just as [“constraints” in mathematical optimization](https://en.wikipedia.org/wiki/Constrained_optimization) help find the best solution, design a lifestyle by defining a clear boundary for your ideal day and optimizing within it—_rather than the other way around._ If something pulls you outside that box, simply say, “No, thank you.”
 
 	> 生活是全職，工作是兼職。
->
+
 	> _[“Look for a way of life, not goals. Identify how you want to live, not what you want to achieve. Within that lifestyle, see what you can do to make a living.” — Hunter S. Thompson](https://www.notion.so/beca85a66c624275b80ffb4faae2b44c)_
 
 	> _“Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.” — Celestine Chua_
@@ -54,9 +54,9 @@ modified: 2025-12-23T17:29:52
 	> _“Eight hours labor, eight hours recreation, eight hours rest.” — Robert Owen_
 
 	* Divide each 24-hour day into three equal parts:
-		* 8 hours for Work
-		* 8 hours for Rest
-		* 8 hours for Enjoying Life
+		* 8 hours for Work（八小時工作）
+		* 8 hours for Sleep（八小時睡眠）
+		* 8 hours for Enjoying Life（八小時留給自己）
 			* 3 Fs
 				* Family
 				* Friends
@@ -89,11 +89,11 @@ modified: 2025-12-23T17:29:52
 	* 30 minutes of reading
 	* 30 minutes of sunlight
 * [The 10-3-2-1-0 Formula by Craig Ballantyne](https://www.earlytorise.com/10-3-2-1-0-formula-to-get-more-done/)
-	* 10 hours before bed – No more caffeine.
-	* 3 hours before bed – No more food or alcohol.
-	* 2 hours before bed – No more work.
-	* 1 hour before bed – No more screen time (turn off all phones, TVs and computers).
-	* 0 – The number of times you will hit the snooze button in the morning.
+	* 10 hours before bed — No more caffeine.
+	* 3 hours before bed — No more food or alcohol.
+	* 2 hours before bed — No more work.
+	* 1 hour before bed — No more screen time (turn off all phones, TVs and computers).
+	* 0 — The number of times you will hit the snooze button in the morning.
 * 3Es
 	* In the morning, **execute** your priorities
 	* In the afternoon, **exercise** your body
