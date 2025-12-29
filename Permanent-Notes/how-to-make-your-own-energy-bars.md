@@ -1,7 +1,7 @@
 ---
 title: How to Make Your Own Energy Bars
 created: 2025-05-03T05:29:44
-modified: 2025-12-17T11:54:30
+modified: 2025-12-28T18:44:10
 ---
 
 ≈ Energy/Power Balls
@@ -48,7 +48,7 @@ modified: 2025-12-17T11:54:30
 
 * [Team recipe: On-the-bike rice cakes | EF Pro Cycling](https://efprocycling.com/tips-recipes/team-recipe-on-the-bike-rice-cakes/)
 * [How to make: British Cycling’s rice cakes | British Cycling](https://youtu.be/J5OBsf_JLHk)
-* [Famous Cyclist’s Recipes – Rice Cakes | We Love Cycling](https://www.welovecycling.com/wide/2017/08/17/famous-cyclists-recipes-rice-cakes/)
+* [Famous Cyclist’s Recipes — Rice Cakes | We Love Cycling](https://www.welovecycling.com/wide/2017/08/17/famous-cyclists-recipes-rice-cakes/)
 
 ---
 
