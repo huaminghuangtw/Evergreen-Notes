@@ -1,7 +1,7 @@
 ---
 title: Deliberate Heat Cold Exposure
 created: 2024-11-18T09:18:12
-modified: 2025-11-27T05:54:33
+modified: 2025-12-28T18:44:10
 ---
 
 # Heat Exposure
@@ -61,7 +61,7 @@ Cooling “Glabrous Skin Surfaces” [^3] can…
 	* Undoubtedly, during (or before) cold exposure, you will find your mind pushing back against the challenge. Your mind will say, “I really don’t want to do this,” even before getting in, or “Get me out of here.”
 	* You can imagine those mental barriers as ‘walls.’ Those walls are, in fact, the effects of adrenaline pulses in your brain and body, which in this case is what triggers the eventual adaptive response. After all, if it were easy, then there is no stimulus for your body to change (adapt). By maintaining top-down control of your reflexive urge to exit the cold environment, you will have successfully traversed that wall.
 	* Challenge yourself by [counting walls](https://youtu.be/pq6WHJzOkno?t=2308) and setting a goal of “walls” to traverse (e.g., 3-5 walls) during the round of cold exposure.
-* By forcing yourself to embrace the stress of cold exposure as a meaningful self-directed challenge (i.e., stressor), you exert what is called ‘top-down control’ over deeper brain centers that regulate reflexive states. This top-down control process involves your prefrontal cortex – an area of your brain involved in planning and suppressing impulsivity. That ‘top-down’ control is the basis of what people refer to when they talk about “resilience and grit.”
+* By forcing yourself to embrace the stress of cold exposure as a meaningful self-directed challenge (i.e., stressor), you exert what is called ‘top-down control’ over deeper brain centers that regulate reflexive states. This top-down control process involves your prefrontal cortex — an area of your brain involved in planning and suppressing impulsivity. That ‘top-down’ control is the basis of what people refer to when they talk about “resilience and grit.”
 	* To increasing the resilience-enhancing effects:
 		* **Level 1:** Stay completely still while in cold water.
 			* This allows a thermal layer to surround your body, “insulating” you from the cold.
