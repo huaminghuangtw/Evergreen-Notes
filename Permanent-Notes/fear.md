@@ -1,7 +1,7 @@
 ---
 title: Fear
 created: 2024-11-18T09:18:12
-modified: 2025-12-23T17:29:52
+modified: 2025-12-28T18:44:10
 ---
 
 > _“Danger is real, fear is a choice” ― Will Smith_
@@ -78,7 +78,7 @@ If we’re controlled by fear, we’re in the mode of ignorance.
 
 ---
 
-_Becoming the Ocean_ – A Poem by Khalil Gibram
+_Becoming the Ocean_ — A Poem by Khalil Gibram
 
 > _It is said that before entering the sea,_
 >
