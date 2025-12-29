@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2025-12-20T06:20:03
+modified: 2025-12-28T18:44:10
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
@@ -26,7 +26,7 @@ modified: 2025-12-20T06:20:03
 
 > _“Our thinking can create liberation or it can create imprisonment. It depends on how we use our mind.” — Tenzin Palmo_
 
-> _“The energy of the mind is the essence of life.” – Aristotle_
+> _“The energy of the mind is the essence of life.” — Aristotle_
 
 > _“The things I carry are my thoughts. That’s it. They are the only weight. My thoughts determine whether I am free and light or burdened.” — Kamal Ravikant_
 
