@@ -1,7 +1,7 @@
 ---
 title: Sleep
 created: 2024-11-18T09:18:12
-modified: 2025-11-26T12:26:56
+modified: 2025-12-28T18:44:10
 ---
 
 [Matt Walker: Sleep is your superpower \| TED Talk](https://www.ted.com/talks/matt_walker_sleep_is_your_superpower/)
@@ -141,7 +141,7 @@ Lucid dream is a type of dream wherein a person that is dreaming realizes that t
 
 What are the best practices for managing rumination and negative racing thoughts when trying to fall asleep?
 
-* Take a “mental walk” – visualize a familiar route in great detail as though you mentally walk yourself through it
+* Take a “mental walk” — visualize a familiar route in great detail as though you mentally walk yourself through it
 
 Why do I wake up in the middle of the night, no matter what time I go to sleep?
 
