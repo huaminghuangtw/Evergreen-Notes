@@ -1,8 +1,10 @@
 ---
 title: Self-compassion
 created: 2025-01-23T10:40:57
-modified: 2025-12-21T14:40:40
+modified: 2025-12-29T13:51:15
 ---
+
+> _“A moment of self-compassion can change your entire day. A string of such moments can change the course of your life.” — Christopher Germer_
 
 > _“What you deny subdues you. What you accept transforms you.” — Carl Jung_
 
