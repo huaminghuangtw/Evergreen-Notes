@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2025-12-21T15:01:26
+modified: 2025-12-28T18:44:10
 ---
 
 Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
@@ -118,7 +118,7 @@ Always starting from the most basic and simplest level, then adding more complex
 * 如果要把一個知識點運用到生活當中，就要把它給記錄下來，然後不斷地練習和自我提醒，加強對那個知識點的印象，才能慢慢變成自己的東西。
 * 記憶 = 連結 Association [^1] \& 意義 Meaning
 * Recognizing or being familiar with something is not the same as having agility/mastery/virtuosity of that thing.
-* Chunking – [Break down complex/abstract ideas into tangible/digestible chunks](https://youtu.be/TQMbvJNRpLE), and link those chunks to vivid [mental representations/images](visualization.md). By creating such visual associations, _you’re not just memorizing - you’re understanding._ Your mind is a storage system. Learn to catalog efficiently.
+* Chunking — [Break down complex/abstract ideas into tangible/digestible chunks](https://youtu.be/TQMbvJNRpLE), and link those chunks to vivid [mental representations/images](visualization.md). By creating such visual associations, _you’re not just memorizing - you’re understanding._ Your mind is a storage system. Learn to catalog efficiently.
 * If you found yourself need to memorize something, it’s an indication that you don’t understand that stuff well enough.
 	* Don’t try to memorize/cram what you can look up.
 	* True learning is solid, deep understanding. [Change](adaptability.md) is the end result of all true learning.
