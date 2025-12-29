@@ -1,7 +1,7 @@
 ---
 title: Optimism
 created: 2025-01-23T10:40:57
-modified: 2025-12-21T14:58:53
+modified: 2025-12-29T14:45:00
 ---
 
 > _“Turn your face to the sun, as flowers know how to do.” — Ming-Dao Deng_
@@ -12,7 +12,7 @@ modified: 2025-12-21T14:58:53
 
 > _“We should be optimistic not because we believe that our problems are smaller than we thought. We should be optimistic because we believe that our capacity to solve problems is greater than we thought.” — from TED Talk “[The Future Will Be Shaped by Optimists](https://www.youtube.com/watch?v=FrqBWQ-mVEc)” by Kevin Kelly_
 
-> _“[Cynacism](cynacism.md) is easy. Mimicry is easy. Optimistic contrarians are the rarest breed.” — Naval Ravikant_
+> _“[Cynacism](cynicism.md) is easy. Mimicry is easy. Optimistic contrarians are the rarest breed.” — Naval Ravikant_
 
 > _“We must remember that this is not a bad world but a good world in the process of becoming.” ― Wallace D. Wattles, [The Science of Being Great](https://www.goodreads.com/work/quotes/1881171)_
 
