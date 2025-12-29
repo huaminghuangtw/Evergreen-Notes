@@ -1,7 +1,7 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2025-12-21T15:01:26
+modified: 2025-12-28T18:44:10
 ---
 
 > _“Start before you’re ready. Don’t prepare. Begin. Don’t think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
@@ -79,7 +79,7 @@ See also: [The Goal-Gradient Effect](https://sketchplanations.com/goal-gradient-
 
 ---
 
-> _[“You’re more likely to act yourself into feeling than feel yourself into action.” – Dr. Jerome Bruner, Harvard Psychologist](https://www.goodreads.com/quotes/11683801-you-more-likely-act-yourself-into-feeling-than-feel-yourself)_
+> _[“You’re more likely to act yourself into feeling than feel yourself into action.” — Dr. Jerome Bruner, Harvard Psychologist](https://www.goodreads.com/quotes/11683801-you-more-likely-act-yourself-into-feeling-than-feel-yourself)_
 
 * Act as if
 * Fake it until you make it
