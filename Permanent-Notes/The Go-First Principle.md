@@ -1,10 +1,10 @@
 ---
 title: The Go-First Principle
 created: 2024-11-18T09:18:12
-modified: 2025-11-17T14:31:51
+modified: 2025-12-28T18:44:10
 ---
 
-> _“I always say that I’ll go first. That means if I’m checking out at the store, I’ll say hello first. If I’m coming across somebody and make eye contact, I’ll smile first. \[I wish\] people would experiment with that in their life a little bit. Be first, because – not all times, but most times – it comes in your favor.” — Olympic champion [Gabby Reece](https://www.google.com/search?q=Gabby+Reece)_
+> _“I always say that I’ll go first. That means if I’m checking out at the store, I’ll say hello first. If I’m coming across somebody and make eye contact, I’ll smile first. \[I wish\] people would experiment with that in their life a little bit. Be first, because — not all times, but most times — it comes in your favor.” — Olympic champion [Gabby Reece](https://www.google.com/search?q=Gabby+Reece)_
 
 > _[“People are friendly, but you have to go first.” — Ali Abdaal](https://aliabdaal.com/newsletter/the-go-first-rule/)_
 
