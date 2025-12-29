@@ -1,7 +1,7 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2025-12-21T15:01:26
+modified: 2025-12-28T18:44:10
 ---
 
 > _[“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)_
@@ -80,7 +80,7 @@ Resistance, obstacles, and roadblocks lead to growth. “A gem cannot be polishe
 >
 > I realized, through it all, that in the midst of winter, I found there was, within me, an invincible summer.
 >
-> And that makes me happy. For it says that no matter how hard the world pushes against me, within me, there’s something stronger – something better, pushing right back.
+> And that makes me happy. For it says that no matter how hard the world pushes against me, within me, there’s something stronger — something better, pushing right back.
 
 ---
 
