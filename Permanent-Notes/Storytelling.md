@@ -1,7 +1,7 @@
 ---
 title: Storytelling
 created: 2024-11-18T09:18:12
-modified: 2025-10-19T17:23:33
+modified: 2025-12-28T18:44:10
 ---
 
 > _“Human thinking depends on metaphor. We understand new or complex things in relation to things we already know.” — Jonathan Haidt_ [^1]
@@ -52,10 +52,10 @@ Every great storyteller I’ve studied shares one hidden instrument: **vocal rhy
 
 It’s the music behind the words — the way they play with:
 
-* **Speed** – slowing down for weight, speeding up for excitement.
-* **Volume** – whispering to draw you in, rising to lift you up.
-* **Enthusiasm** – letting emotion color the tone.
-* **Staccato and rhyme** – adding pulse and pattern.
+* **Speed** — slowing down for weight, speeding up for excitement.
+* **Volume** — whispering to draw you in, rising to lift you up.
+* **Enthusiasm** — letting emotion color the tone.
+* **Staccato and rhyme** — adding pulse and pattern.
 
 But above all, **vocal rhythm is the art of purposeful silence**.
 
