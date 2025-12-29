@@ -1,7 +1,7 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2025-12-24T17:18:51
+modified: 2025-12-28T18:44:10
 ---
 
 > _“Everything popular is wrong.” — Oscar Wilde_
@@ -16,7 +16,7 @@ modified: 2025-12-24T17:18:51
 
 > _“If you want to be successful in life, simply watch what most people would do in a given situation, and then [do the total opposite](https://www.youtube.com/watch?v=1Y_6fZGSOQI)—nine times out of ten, you’ll receive greater rewards.” — Earl Nightingale_
 
-> _“The world wants you to be typical – in a thousand ways, it pulls at you. Don’t let it happen. You have to pay a price for your distinctiveness, and it’s worth it.” — Jeff Bezos_
+> _“The world wants you to be typical — in a thousand ways, it pulls at you. Don’t let it happen. You have to pay a price for your distinctiveness, and it’s worth it.” — Jeff Bezos_
 
 > _[“Don’t try to emulate. It’s a fool’s errand. Instead, each person is uniquely qualified at something. They have some specific knowledge, capability, and desire nobody else in the world does, purely from the combinatorics of human DNA and development.” — Naval Ravikant](https://nav.al/competition-authenticity)_
 
