@@ -1,7 +1,7 @@
 ---
 title: Negative Thoughts & Emotions
 created: 2024-11-18T09:18:12
-modified: 2025-12-09T17:09:14
+modified: 2025-12-29T14:45:00
 ---
 
 > _“You cannot prevent the birds of sorrow from flying over your head, but you can prevent them from building nests in your hair.” — Chinese Proverb_
@@ -41,7 +41,7 @@ modified: 2025-12-09T17:09:14
 * 羞愧 (Shame)
 * 憎恨/惡 (Hatred/Resentment/Grudge)
 * 傷心 (Sorrow/Sadness)
-* 憤世忌俗 ([Cynacism](cynacism.md))
+* 憤世忌俗 ([Cynacism](cynicism.md))
 
 ---
 
