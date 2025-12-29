@@ -1,7 +1,7 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
 created: 2024-11-18T09:18:12
-modified: 2025-12-25T13:49:16
+modified: 2025-12-28T18:44:10
 ---
 
 > _“Glory is fleeting, but obscurity is forever.” — Napoleon Bonaparte_
@@ -32,9 +32,9 @@ Humans are socially conditioned in nature — we are driven for external and soc
 
 **[Self-Determination Theory (SDT)](https://en.wikipedia.org/wiki/Self-determination_theory)** distinguishes between _intrinsic motivation_ and _extrinsic motivation_. SDT suggests that people have three basic psychological needs that drive motivation and well-being:
 
-1. **Autonomy** – The need to feel in control of one’s own actions and decisions.
-2. **Competence** – The need to feel capable and effective in one’s activities.
-3. **Relatedness** – The need to feel connected to others and have meaningful relationships.
+1. **Autonomy** — The need to feel in control of one’s own actions and decisions.
+2. **Competence** — The need to feel capable and effective in one’s activities.
+3. **Relatedness** — The need to feel connected to others and have meaningful relationships.
 
 The theory argues that when the three basic needs are satisfied, people are more likely to be intrinsically motivated.
 
