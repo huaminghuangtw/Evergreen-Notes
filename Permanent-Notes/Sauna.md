@@ -1,7 +1,7 @@
 ---
 title: Sauna
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2025-12-28T18:44:10
 ---
 
 #TODO
@@ -24,7 +24,7 @@ modified: 2025-08-29T08:30:45
 	* Eat LIGHT snack
 * In the sauna
 	* Always underlay your towel on the wood before you sit or lay down, so that your body does not come into contact with the wood. Also, make sure your feet go on your towel.
-		* Exception: “Dampfbad” or steam room. These rooms have stone seats that you rinse off with water – no towels allowed.
+		* Exception: “Dampfbad” or steam room. These rooms have stone seats that you rinse off with water — no towels allowed.
 		* Lying on the bench helps evenly distribute the heat along your body
 		* The higher up you sit in the sauna, the higher the temperature.
 			* It is most effective to sweat briefly but violently on the upper benches.
