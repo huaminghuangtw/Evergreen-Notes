@@ -1,7 +1,7 @@
 ---
 title: Time is the most valuable asset
 created: 2024-11-18T09:18:12
-modified: 2025-12-15T18:45:45
+modified: 2025-12-28T18:44:10
 ---
 
 > _“The price of anything is the amount of life you exchange for it.” — Henry David Thoreau_
@@ -75,7 +75,7 @@ The older you get, the more it makes sense to spend [money](money.md) to save ti
 
 [In a 2019 episode of *The Tim Ferriss Show* podcast, investor Graham Duncan introduced the concept of a Time Billionaire](https://tim.blog/2019/03/01/the-tim-ferriss-show-transcripts-graham-duncan-362/)—someone with over one billion seconds left to live:
 
-> _“We’re so obsessed, as a culture, with money. And we deify dollar billionaires in a way that […] And I was thinking of time billionaires that when I see, sometimes, 20-year-olds – the thought I had was they probably have two billion seconds left. But they aren’t relating to themselves as time billionaires.”_
+> _“We’re so obsessed, as a culture, with money. And we deify dollar billionaires in a way that […] And I was thinking of time billionaires that when I see, sometimes, 20-year-olds — the thought I had was they probably have two billion seconds left. But they aren’t relating to themselves as time billionaires.”_
 
 When you’re young, you are rich in time—a true Time Billionaire.
 
