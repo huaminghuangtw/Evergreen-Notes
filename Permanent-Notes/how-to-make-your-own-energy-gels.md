@@ -1,7 +1,7 @@
 ---
 title: How to Make Your Own Energy Gels
 created: 2024-11-18T09:16:50
-modified: 2025-10-27T08:13:12
+modified: 2025-12-28T18:44:10
 ---
 
 * The key ingredient in most gels is a carbohydrate powder called [Maltodextrin](../Maltodextrin.md). It’s a white powder that looks a lot like flour and has virtually no taste to the tongue.
@@ -9,11 +9,11 @@ modified: 2025-10-27T08:13:12
 
 # Ingredients
 
-* **Maltodextrin** – for quick energy release
-* **Dates** (Medjool or Deglet Noor) – natural sugar + potassium
-* **Water** – adjust to desired consistency
-* **Salt** – for electrolytes
-* **Lemon juice** (or a pinch of citric acid) – for taste and preservation
+* **Maltodextrin** — for quick energy release
+* **Dates** (Medjool or Deglet Noor) — natural sugar + potassium
+* **Water** — adjust to desired consistency
+* **Salt** — for electrolytes
+* **Lemon juice** (or a pinch of citric acid) — for taste and preservation
 
 # Tips
 
