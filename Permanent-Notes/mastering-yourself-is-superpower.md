@@ -1,7 +1,7 @@
 ---
 title: Mastering yourself is superpower
 created: 2024-11-18T09:18:12
-modified: 2025-12-21T15:01:26
+modified: 2025-12-28T18:44:10
 ---
 
 > _“Knowing yourself is the beginning of all wisdom.” — Aristotle_
@@ -65,7 +65,7 @@ modified: 2025-12-21T15:01:26
 
 #Newsletter
 
-# [Master Shi Heng Yi – 5 hindrances to self-mastery](https://youtu.be/4-079YIasck) [^3]
+# [Master Shi Heng Yi — 5 hindrances to self-mastery](https://youtu.be/4-079YIasck) [^3]
 
 * “_The universal law of being successful and happy at the same time means finding the balance._”
 * _“There are 2 mistakes along the way to Mastery: Not starting it, and not going all the way.”_
