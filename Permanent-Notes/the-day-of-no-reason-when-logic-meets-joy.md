@@ -1,14 +1,12 @@
 ---
 title: "The Day of No Reason: When Logic Meets Joy"
 created: 2025-12-15T15:32:39
-modified: 2025-12-28T17:44:09
+modified: 2025-12-29T16:22:00
 ---
 
-> _“Don’t underestimate the value of doing nothing, of just going along, listening to all the things you can’t hear, and not bothering.” — Winnie the Pooh_
+> _“Don’t underestimate the value of doing nothing, of just going along, listening to all the things you can’t hear, and not bothering.” — Winnie-the-Pooh_
 
-#Newsletter
-
-![](unnamed.jpg)
+![](../_attachments/d4505d78f9eaaaf332422fc2bf37d056.jpg)
 
 有一天，小熊維尼（Pooh）和小豬（Piglet）並肩躺在草坪上，望著天空，想著今天要做什麼。
 
