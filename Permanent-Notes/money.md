@@ -1,7 +1,7 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2025-12-11T07:03:23
+modified: 2025-12-28T18:44:10
 ---
 
 > _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
@@ -61,7 +61,7 @@ Reasonable \> Rational
 			* If your expectations grow faster than your income, you’ll never be satisfied with your money, no matter how much you accumulate.
 			* You manage financial expectations by keeping your lifestyle way below your means.
 			* Your [​Margin of Freedom​](https://www.sahilbloom.com/newsletter/the-trap-of-success-how-to-escape-it) is the buffer you intentionally create between your reality and your expectations.
-			* The less you need, the richer you become – wealth is about flexibility, not luxury.
+			* The less you need, the richer you become — wealth is about flexibility, not luxury.
 			* [John D. Rockefeller was worth the equivalent of $400 billion, but he never had penicillin, sunscreen, or Advil. For most of his adult life he didn’t have electric lights, air conditioning, or sunglasses. **Everything about wealth is circumstances in the context of expectations.**](https://collabfund.com/blog/little-rules-about-big-things/)
 			* Manage Your Expectations: You can be financially poor, but psychologically rich.
 
