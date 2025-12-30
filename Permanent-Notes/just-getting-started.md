@@ -1,7 +1,7 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2025-12-28T18:44:10
+modified: 2025-12-30T13:10:01
 ---
 
 > _“Start before you’re ready. Don’t prepare. Begin. Don’t think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
@@ -28,7 +28,11 @@ modified: 2025-12-28T18:44:10
 
 > _“The best time to plant a tree was 20 years ago. The second best time is now.”_
 
-種一棵樹最好的時間點是十年前，其次就是現在。
+種一棵樹最好的時間點是十年前，其次就是 [現在](live-in-the-present.md)。
+
+---
+
+你必須按下電鍋開關，它才會開始煮飯。
 
 ---
 
