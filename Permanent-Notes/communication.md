@@ -1,7 +1,7 @@
 ---
 title: Communication
 created: 2024-11-18T09:18:12
-modified: 2025-12-21T14:41:36
+modified: 2025-12-30T13:12:42
 ---
 
 > _“The greatest communication is usually how we are rather than what we say.” — Joseph Goldstein_
@@ -117,13 +117,15 @@ This simple step can prevent misunderstandings and show that you’re there for 
 
 # The power of over-communication
 
+Always communicate more than feels necessary.
+
 When you think you’ve communicated too much, you probably haven’t communicated enough.
 
 When you think you’ve communicated plenty, you almost certainly haven’t.
 
 Different team members might interpret the shared information in different ways or have different levels of context or understanding.
 
-Overcommunicating means deliberately going beyond the minimum you think is necessary, and consequently ending up sharing exactly the right amount.
+Over-communication means deliberately going beyond the minimum you think is necessary, and consequently ending up sharing exactly the right amount.
 
 ---
 
