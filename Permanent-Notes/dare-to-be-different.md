@@ -1,7 +1,7 @@
 ---
 title: Dare to be different
 created: 2025-11-24T06:51:20
-modified: 2025-12-23T16:25:45
+modified: 2025-12-30T08:00:59
 ---
 
 > _“Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.” — Robert Frost, The Road Not Taken (1916)_
@@ -32,6 +32,10 @@ modified: 2025-12-23T16:25:45
 
 ---
 
+The things that make me different are the things that make me me.
+
+---
+
 # Sapere Aude
 
 [Sapere Aude](https://www.google.com/search?q=Sapere+Aude) is the Latin phrase meaning _dare to know_ (= 敢於求知 = 勇於使用自己的理性). It’s a call-to-action for independent thinking—the courage and willingness to question the defaults you’ve been handed and form your own perspectives and opinions. Dare to question the definition of success. Dare to ask what you truly want out of life.
@@ -48,5 +52,9 @@ Sources:
 ---
 
 [Escape competition through authenticity](escape-competition-through-authenticity.md)
+
+---
+
+[Becoming the Ocean by Khalil Gibram](becoming-the-ocean-by-khalil-gibram.md)
 
 [^1]: <https://youtu.be/2_fDhqRk_Ro>
