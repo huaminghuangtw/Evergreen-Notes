@@ -1,7 +1,7 @@
 ---
 title: Overthinking
 created: 2025-01-23T10:40:57
-modified: 2025-12-24T17:36:47
+modified: 2025-12-30T08:02:57
 ---
 
 > _“Imagination and fiction make up more than three quarters of our real life.” — Simone Weil_
@@ -13,6 +13,8 @@ modified: 2025-12-24T17:36:47
 > _“We suffer more in imagination than in reality.” — Seneca_
 
 > _“If you spend too much time thinking about a thing, you’ll never get it done.” — Bruce Lee_
+
+> _“Did you ever stop to think, and forget to start again?” ― A.A. Milne_
 
 ---
 
@@ -39,9 +41,13 @@ The primary cause of unhappiness is never the situation but your thoughts about 
 
 ---
 
+# Sometimes the smallest things take up the most room in your heart.
+
+> 有時候，最小的東西，卻在心中佔了最大的位置。
+
 * We often worry a lot in the head throughout our life time, but most of the things that we internally panic about never actually happened.
 * Usually our fears/worries are based on “_what might happen_”, not “_what is actually happening right now_”
-	* Try to remind yourself: “_I am safe right now._”
+* Try to remind yourself: “_I am safe right now._”
 
 ---
 
