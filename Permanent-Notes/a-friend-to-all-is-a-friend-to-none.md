@@ -1,7 +1,7 @@
 ---
 title: A friend to all is a friend to none
 created: 2024-11-18T09:18:12
-modified: 2025-11-08T06:53:33
+modified: 2025-12-30T09:32:13
 ---
 
 > _“A true friend never gets in your way unless you happen to be going down.” — Arnold H. Glasow_
@@ -109,5 +109,9 @@ There are two types of friends:
 * 便辟：走邪門歪道的人。
 * 善柔：讒媚奉迎的人。
 * 便佞：花言巧語的人。
+
+---
+
+[The Social Slope Effect](the-social-slope-effect.md)
 
 [^1]: Why does this happen? “Energy Transference”
