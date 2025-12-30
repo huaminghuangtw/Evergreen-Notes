@@ -1,7 +1,7 @@
 ---
 title: Adaptability
 created: 2024-11-18T09:18:12
-modified: 2025-12-19T16:22:44
+modified: 2025-12-30T07:46:59
 ---
 
 > _“It is not the strongest of the species that survives, nor the most intelligent. It is the one most adaptable to change; but the species that survives is the one that is able best to adapt and adjust to the changing environment in which it finds itself.” — Charles Darwin_ [^1]
@@ -49,6 +49,8 @@ You’ll only go as far as your ability to absorb life’s punches and pivot on 
 ---
 
 > _“In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.” — Eric Hoffer_
+
+> _“I always get to where I am going by walking away from where I have been.” — Winnie-the-Pooh_
 
 * Learners are individuals who embrace [lifelong learning](https://hbr.org/2017/02/lifelong-learning-is-good-for-your-health-your-wallet-and-your-social-life), curiosity, and adaptability. They recognize that knowledge is always expanding, and they continuously update their skills and perspectives to keep up with the changes in society, technology, and global trends.
 * The learned, on the other hand, refers to those who rely on past knowledge and see themselves as already educated or accomplished. They may become complacent, assuming that their existing expertise is sufficient indefinitely.
