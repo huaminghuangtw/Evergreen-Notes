@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2025-12-21T15:01:26
+modified: 2025-12-30T13:07:52
 ---
 
 > _“To be is to do.” — Immanuel Kant_
@@ -117,6 +117,15 @@ Remember: [The world is run by people no smarter than you.](https://www.swyx.io/
 
 ---
 
+# Two Type of Priorities
+
+1. **Stated Priorities:** Priorities that people say they have
+2. **Demonstrated Priorities:** Priorities that people’s actions show they have
+
+<mark>If someone observed my actions for a week, what would they say my priorities are? Does my actions align with my intention?
+</mark>
+---
+
 > _“Inaction breeds doubt and fear. Action breeds confidence and courage.” — Dale Carnegie_
 
 Every single thing you want in life is on the other side of something you don’t want to do. The answers you seek are found in the actions you avoid.
@@ -179,15 +188,6 @@ There is no later, because later you’ll be [dead](death.md).
 		4. Hit a roadblock
 		5. Research how to overcome it
 		6. Repeat until completed
-
----
-
-# Two Type of Priorities
-
-1. **Stated Priorities:** Priorities that people say they have
-2. **Demonstrated Priorities:** Priorities that people’s actions show they have
-
-**If someone observed my actions for a week, what would they say my priorities are? Does my actions align with my intention?**
 
 ---
 
@@ -259,6 +259,10 @@ Neither came from waiting for the perfect idea—they were born from action.
 ---
 
 [Ask for forgiveness, not permission](ask-for-forgiveness-not-permission.md)
+
+---
+
+[Just getting started](just-getting-started.md)
 
 [^1]: _“The professional learns to recognize envy-driven criticism and to take it for what it is: the supreme compliment. The critic hates most that which he would have done himself if he had had the guts.” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
 [^2]: _“The artist cannot look to others to validate his efforts or his calling. If you don’t believe me, ask Van Gogh, who produced masterpiece after masterpiece and never found a buyer in his whole life.” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
