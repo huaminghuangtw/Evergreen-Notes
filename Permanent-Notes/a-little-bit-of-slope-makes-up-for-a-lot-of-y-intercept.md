@@ -1,7 +1,7 @@
 ---
 title: A little bit of slope makes up for a lot of y-intercept
 created: 2025-10-28T06:49:25
-modified: 2025-10-28T07:15:38
+modified: 2025-12-30T14:49:38
 ---
 
 # Slope/Rate > Position
@@ -21,6 +21,8 @@ Full script: _[slope v.s starting](https://gist.github.com/gtallen1187/e83ed02ea
 # Trend > Position
 
 [Stop trusting in the position, start trusting in the trend.](https://www.sahilbloom.com/newsletter/an-open-letter-to-my-lost-younger-self)
+
+![](https://cdn.prod.website-files.com/66915d91469ad34b8324ab88/673c9fb2288e3e7fa0922af7_email.jpeg)
 
 ---
 
