@@ -1,7 +1,7 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2025-12-28T18:44:10
+modified: 2025-12-30T17:22:05
 ---
 
 > _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
@@ -88,7 +88,7 @@ Reasonable \> Rational
 
 	> _“The reason you’re not making $10m a year is that you don’t know HOW to make $10m a year. Therefore, that lack of knowledge is costing you $10m a year.” — Alex Hormozi_
 
-* The only way to make a lot of money is to create a lot of value. Money is a lagging indicator of value created, impact, and service. Don’t chase the dollars. Create the value and the money will chase you. [^6]
+* The only way to make a lot of money is to create a lot of value. No value means no money. Money is a lagging indicator of value created, impact, and service. Don’t chase the dollars. Create the value and the money will chase you. [^6]
 * MONEY and TIME is a balancing act. Stop trading/renting time for money, so money can create more time for you.
 	* Millionaires don’t have salaries. They own [assets](assets-vs-liabilities.md).
 		* [WEALTH = Net Income + Asset Value](wealth-creation.md)
