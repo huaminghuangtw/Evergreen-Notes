@@ -1,7 +1,7 @@
 ---
 title: Change yourself to change the world
 created: 2024-11-18T09:18:12
-modified: 2025-12-29T08:05:12
+modified: 2025-12-30T07:45:58
 ---
 
 > _“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi_
@@ -15,8 +15,6 @@ modified: 2025-12-29T08:05:12
 > _“Be the change that you wish to see in the world.” — Mahatma Gandhi_
 
 > _“We must transform ourselves to transform the world.” — Grace Lee Boggs_
-
-> _“I always get to where I am going by walking away from where I have been.” — Winnie-the-Pooh_
 
 > _“Being aware of a single shortcoming within yourself is far more useful than being aware of a thousand in someone else.” — Dalai Lama_
 
