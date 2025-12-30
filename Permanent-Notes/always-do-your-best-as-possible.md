@@ -1,7 +1,7 @@
 ---
 title: Always do your best as possible
 created: 2024-11-18T09:18:12
-modified: 2025-12-21T15:01:26
+modified: 2025-12-30T15:41:51
 ---
 
 > _“Inspire yourself to be great. Being good isn’t good enough.” — Gurbaksh Chahal_
@@ -11,6 +11,8 @@ modified: 2025-12-21T15:01:26
 > _“Victory is in having done your best. If you’ve done your best, you’ve won.” — Billy Bowerman_
 
 > _“Whatever you do, strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.” — Benjamin Mays_
+
+> _“When you’re a carpenter making a beautiful chest of drawers, you’re not going to use a piece of plywood on the back, even though it faces the wall and nobody will ever see it. You’ll know it’s there, so you’re going to use a beautiful piece of wood on the back. For you to sleep well at night, the aesthetic, the quality, has to be carried all the way through.” — Steve Jobs_
 
 ---
 
