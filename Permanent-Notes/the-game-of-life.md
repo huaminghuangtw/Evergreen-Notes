@@ -1,7 +1,7 @@
 ---
 title: The Game of Life
 created: 2024-11-18T09:18:12
-modified: 2025-12-11T06:39:34
+modified: 2025-12-30T09:21:51
 ---
 
 > _[The reason to play the game is to be free of it.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)_
@@ -24,7 +24,7 @@ modified: 2025-12-11T06:39:34
 |         = Zero-Sum Game (零和遊戲) = Multi-Player Game = Status Game [^1]         |     = Positive-Sum Game (正和遊戲) [^2] = Single-Player Game = Wealth Game      |
 |    You win by avoiding errors and waiting for your opponent to make errors    |                 You win by hitting incredible/elegant shots                 |
 |                          The goal is to win the game                          |        The goal is to stay in the game and continue playing forever         |
-|                             打敗多少人? (Competition)                              |                         幫助多少人? (Collaboration) [^3]                         |
+|      打敗多少人? ([Competition](escape-competition-through-authenticity.md))       |                           幫助多少人? ([Collaboration](the-social-slope-effect.md))                            |
 | Either WIN or LOSE<br>(Any gain corresponds directly with an equivalent loss) | WIN-WIN（互通有無、互利共生 ([symbiosis](https://www.google.com/search?q=symbiosis))） |
 |                           Egoism (Selfishness) 利己主義                           |                                Altruism 利他主義                                |
 |                            Fixed/Scarcity Mindset                             |              [Growth/Abundance Mindset](the-growth-mindset.md)              |
@@ -123,4 +123,3 @@ When asked about how he rose from undrafted nobody to this level of stardom, he 
 
 [^1]: [Unlike wealth game, status game is inherently combative and driven by competition.](https://www.youtube.com/watch?v=KyfUysrNaco&t=943s) [In the wealth game, more people are winning overall. But in the status game, there are essentially more losers.](https://www.youtube.com/watch?v=KyfUysrNaco&t=10444s)
 [^2]: 把餅做大
-[^3]: 一加一大於二<mark>：一個人走得快，一群人走得遠。（If you want to go fast, go alone; if you want to go far, go together.）</mark>
