@@ -1,7 +1,7 @@
 ---
 title: Systems over goals
 created: 2024-11-18T09:18:12
-modified: 2025-12-21T15:01:26
+modified: 2025-12-30T15:46:54
 ---
 
 > _“You don’t rise to the level of your goals. You fall to the level of your systems. Your goal is your desired outcome. Your system is the collection of daily habits that will get you there.” — James Clear_ [^1]
@@ -10,8 +10,8 @@ modified: 2025-12-21T15:01:26
 
 ---
 
-* The worthwhile properties of systems derive from the interactions/connections of its parts
-* The power of systems comes from _the cause and effect (i.e., the upstream and downstream)_, which only works when it’s combined and inter-related as an entity
+* The worthwhile properties of systems derive from the interactions/connections of its parts.
+* The power of systems comes from _the cause and effect (i.e., the upstream and downstream)_, which only works when it’s combined and inter-related as an entity.
 
 **Examples**
 * The magic of a car is not how its components (engine, doors, tires, seats) work, it’s how the whole car works together within the larger transportation system, i.e., it gets you from point A to point B with a certain speed, comfort level, carrying capacity etc. A car is compared with other systems (bus, train, airplane) by how they each fit into the transportation system.
@@ -20,9 +20,7 @@ modified: 2025-12-21T15:01:26
 
 ---
 
-Key step to build an effective system that function smoothly
-
-* Identify the (especially fractal) _**patterns**_ by distinguishing linear (non-essential) from circular (essential)
+Key step to build an effective system that function smoothly: Identify the (especially fractal) **patterns** by distinguishing linear (non-essential) from circular (essential)
 
 ---
 
@@ -39,6 +37,14 @@ Systems allow you to [make a decision](decision-making.md) _one time_ instead of
 	* Long-term vision. Short-term actions.
 	* Macro patience. Micro speed.
 	* Impatience with actions. Patience with results.
+
+[@williamsonPerformancePsychologicalEffects2024]
+
+Outcome-focused goals had a negligible effect, while process/behavior-focused goals had a profound effect.
+
+In simple terms, those who consistently focused on the inputs performed better than those who focused on the outcomes.
+
+[Goal Setting](goal-setting.md)
 
 ---
 
