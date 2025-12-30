@@ -1,7 +1,7 @@
 ---
-title: Slow Down to Speed Up
+title: Slow down to speed up
 created: 2024-12-05T09:05:25
-modified: 2025-12-06T05:42:17
+modified: 2025-12-30T09:20:45
 ---
 
 [@ferriss4hourWorkweekEscape2011]
