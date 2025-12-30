@@ -1,7 +1,7 @@
 ---
 title: Do great work
 created: 2024-11-18T09:18:12
-modified: 2025-12-13T15:57:39
+modified: 2025-12-30T15:48:44
 ---
 
 > _“To be great is to be misunderstood.” — Ralph Waldo Emerson_
@@ -64,11 +64,7 @@ If it’s worth doing, it’s worth doing very well.
 
 ---
 
-The margin between **good** and **great** is narrower than it seems. What begins as a slight edge over the competition [compounds](the-compounding-effect.md) with each additional contest.
-
----
-
-精進/偉大/專家/頂尖之路是<u>短時間進步、長時間停滯</u>的旅程，要學會「享受」[過程](journey-over-destination.md) 中的高原期 (Plateau)
+精進/偉大/專家/頂尖之路是<mark>短時間進步、長時間停滯</mark>的旅程，要學會「享受」[過程](journey-over-destination.md) 中的高原期 (Plateau)
 
 ---
 
@@ -80,10 +76,14 @@ The margin between **good** and **great** is narrower than it seems. What begins
 
 ---
 
-# [The 2-step process for exceptional results:](https://jamesclear.com/3-2-1/april-10-2025)
+# [The 2-step process for exceptional results](https://jamesclear.com/3-2-1/april-10-2025)
 
 1. Spend a little time each day thinking about the highest leverage activity available to you.
 2. Spend a little time each day working on it.
+
+---
+
+[The Hofstadter’s Law](the-hofstadters-law.md)
 
 [^1]: 美國數學家，圖靈獎得主，「漢明碼」的發明人。 1946 至 1976 年在貝爾實驗室 (Bell Telephone Laboratory) 工作，1956 年參與了 IBM 650 的程式設計語言發展工作。 它是美國電腦協會 (ACM) 的創立人之一，曾任該組織的主席。
 [^2]: [Another great one](https://www.youtube.com/watch?v=a1zDuOPkMSw) [by Richard Hamming](https://www.essra.org.cn/view-1000-3224.aspx): [“You and Your Research”](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
