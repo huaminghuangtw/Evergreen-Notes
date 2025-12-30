@@ -1,8 +1,10 @@
 ---
 title: The Law of Attraction
 created: 2025-10-26T15:33:23
-modified: 2025-12-19T05:57:11
+modified: 2025-12-30T15:04:47
 ---
+
+> _“What you seek is seeking you.” — Rumi_
 
 > _[“You’re dangerous,” he says. “Why?” “Because you make me believe in the impossible.” — Simone Elkeles, Rules of Attraction](https://www.goodreads.com/quotes/257182-you-re-dangerous-he-says-why-because-you-make-me-believe)_
 
