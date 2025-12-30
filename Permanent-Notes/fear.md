@@ -1,7 +1,7 @@
 ---
 title: Fear
 created: 2024-11-18T09:18:12
-modified: 2025-12-28T18:44:10
+modified: 2025-12-30T13:20:20
 ---
 
 > _“Danger is real, fear is a choice” ― Will Smith_
@@ -25,6 +25,8 @@ modified: 2025-12-28T18:44:10
 > _[“Do not fear failure but rather fear not trying.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/8131554-do-not-fear-failure-but-rather-fear-not-trying)_
 
 > _“Of all the liars in the world, sometimes the worst are our own fears.” — Rudyard Kipling_
+
+> _“Let us not pray to be sheltered from dangers but to be fearless when facing them.” — Rabindranath Tagore_
 
 ---
 
@@ -78,27 +80,7 @@ If we’re controlled by fear, we’re in the mode of ignorance.
 
 ---
 
-_Becoming the Ocean_ — A Poem by Khalil Gibram
-
-> _It is said that before entering the sea,_
->
-> _a river trembles with fear._
->
-> _She looks back at the path she has travelled,_
->
-> _from the peaks of the mountains, the long winding road crossing forests and villages._
->
-> _And in front of her, she sees an ocean so vast, that to enter there seems nothing more than to disappear forever._
->
-> _But there is no other way._
->
-> _The river can not go back._
->
-> _Nobody can go back._
->
-> _To go back is impossible in existence._
->
-> _**The river needs to take the risk of entering the ocean because only then will fear disappear because that’s where the river will know it’s not about disappearing into the ocean, but of becoming the ocean.**_
+[Becoming the Ocean by Khalil Gibram](becoming-the-ocean-by-khalil-gibram.md)
 
 ---
 
