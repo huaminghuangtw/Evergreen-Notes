@@ -1,7 +1,7 @@
 ---
 title: Mastering yourself is superpower
 created: 2024-11-18T09:18:12
-modified: 2025-12-28T18:44:10
+modified: 2025-12-30T07:14:35
 ---
 
 > _“Knowing yourself is the beginning of all wisdom.” — Aristotle_
@@ -43,6 +43,8 @@ modified: 2025-12-28T18:44:10
 [自我反省乍看之下很簡單，但其實極其困難而且急不得，因為人很擅長欺騙自己，又或是在當下會因為各種因素難以接受自己的真實想法。](https://www.parkerchang.life/life/2023-2024) [^2]
 
 ---
+
+> _“I wasn’t going to eat it, I was just going to taste it.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)_
 
 「灌酒/茶」和「品酒/茶」的差別：後者多了「自覺」
 
