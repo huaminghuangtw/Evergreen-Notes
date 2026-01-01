@@ -1,7 +1,7 @@
 ---
 title: Healthy Eating Habits
 created: 2024-11-18T09:16:50
-modified: 2025-12-28T15:55:52
+modified: 2025-12-30T18:58:36
 ---
 
 Eating Better
@@ -210,8 +210,14 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 	* 低脂不一定健康
 * 建議從堅果 or 酪梨 [^15] 直接攝取油脂 (最少加工程序)
 	* The recommended daily intake of nuts: ~30 grams (ca. one handful)
-- [ ] 餐盤食用順序 (When eating a meal…): 先吃蛋白質 (Protein) / 脂質 (Fat)，再吃蔬菜 (Veggies)，最後吃碳水化合物/澱粉 (Carbs)
-	* This regulates your blood sugar \& insulin levels
+* 進食順序：
+	1. 先吃蔬菜（纖維）
+	2. 再吃蛋白質與脂肪
+	3. 最後才吃碳水化合物/澱粉
+
+	> 就這麼簡單的一個動作，能讓飯後血糖波動降低七成！
+	> This regulates your blood sugar \& insulin levels
+
 - [ ] 吃飯前喝 (稀釋) 醋，並使用「玻璃/不銹鋼吸管」，以免長期下來腐蝕牙齒
 	- [ ] 巴薩米克醋 (Balsamic Vinegar / Aceto Balsamico)
 	- [ ] 蘋果酒醋 (Apple Cider Vinegar)
