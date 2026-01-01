@@ -1,7 +1,7 @@
 ---
 title: You don’t need to be liked to be loved
 created: 2025-10-18T16:54:28
-modified: 2025-12-21T14:58:18
+modified: 2025-12-31T05:58:06
 ---
 
 > _“When you say yes to others, make sure you are not saying no to yourself.” — Paulo Coelho_
@@ -63,6 +63,10 @@ Analogy: 中央空調
 ---
 
 There is no sure path to success, but the surest path to failure is trying to please everyone.
+
+---
+
+[Dare to be different](dare-to-be-different.md)
 
 ---
 
