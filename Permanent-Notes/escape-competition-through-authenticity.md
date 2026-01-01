@@ -1,7 +1,7 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2025-12-28T18:44:10
+modified: 2025-12-31T06:00:50
 ---
 
 > _“Everything popular is wrong.” — Oscar Wilde_
@@ -31,14 +31,6 @@ modified: 2025-12-28T18:44:10
 > _[”The more neatly you fit into society, the less free you actually are.” — Naval Ravikant](https://x.com/naval/status/1319054238362730496)_
 
 > _[“Every human is non-fungible at the DNA level. It’s society, shame and conditioning that chips away at individuality.” — George Mack](https://x.com/george__mack/status/1731285742410752077)_
-
-> _“Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.” — Bruce Lee_
-
-> _“Always be a first-rate version of yourself, instead of a second-rate version of someone else.” — Judy Garland_
-
-> _“If stars needed the sky’s permission to shine, the universe would be a very dark place.” — Matshona Dhliwayo_
-
-> _“Too many people overvalue what they are not and undervalue what they are.” — Malcolm S. Forbes_
 
 ---
 
