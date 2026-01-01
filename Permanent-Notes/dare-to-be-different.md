@@ -1,7 +1,7 @@
 ---
 title: Dare to be different
 created: 2025-11-24T06:51:20
-modified: 2025-12-30T08:00:59
+modified: 2025-12-31T06:55:00
 ---
 
 > _“Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.” — Robert Frost, The Road Not Taken (1916)_
@@ -12,7 +12,20 @@ modified: 2025-12-30T08:00:59
 
 > _“If the path before you is clear, you’re probably on someone else’s.” — Joseph Campbell_
 
+> _“If stars needed the sky’s permission to shine, the universe would be a very dark place.” — Matshona Dhliwayo_
+
 > _“Do not go where the path may lead, go instead where there is no path and leave a trail.” — Ralph Waldo Emerson_
+
+> _“Why fit, in when you were born to stand out?” — Dr. Seuss_
+
+> _“You were not born a winner, and you were not born a loser. You are what you make yourself to be.” — Lou Holtz_
+
+> _“Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.” — Bruce Lee_
+
+> _“Always be a first-rate version of yourself, instead of a second-rate version of someone else.” — Judy Garland_
+
+> _“Too many people overvalue what they are not and undervalue what they are.” — Malcolm S. Forbes_
+
 
 ---
 
