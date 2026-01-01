@@ -1,8 +1,7 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-12-30T15:04:10
+modified: 2025-12-30T18:51:05
 ---
-
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
 
@@ -58,7 +57,6 @@ When the interviewer pressed him, asking whether there were players who don’t,
 
 <https://www.reddit.com/r/creativecoding/comments/kl2wla/the_gestalt_effect/>
 
-
 ---
 
-[Hanlon's Razor](https://sketchplanations.com/hanlons-razor)
+[Hanlon’s Razor](https://sketchplanations.com/hanlons-razor)
