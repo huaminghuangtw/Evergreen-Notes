@@ -1,7 +1,7 @@
 ---
 title: When in doubt, zoom out
 created: 2025-02-10T09:34:23
-modified: 2025-12-26T22:28:32
+modified: 2026-01-01T07:03:13
 ---
 
 退一步海闊天空。
@@ -37,6 +37,8 @@ If you think you have it tough, look around.
 ---
 
 # [The Pale Blue Dot](https://huami.ng/pale-blue-dot)
+
+> _“Everything that we did and built and wrote and thought and discovered will be forgotten.” — The Fault in Our Stars 生命中美好的缺憾 (2014 film)_
 
 相對於已經存在 137 億年的宇宙，我們每個人都只是倏忽/轉瞬即逝的存在。人世間的紛爭/擾與煩惱，放在這樣的時間尺度下，全都顯得格外渺小/微不足道。
 
