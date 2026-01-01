@@ -1,7 +1,7 @@
 ---
 title: Mastering yourself is superpower
 created: 2024-11-18T09:18:12
-modified: 2025-12-30T07:14:35
+modified: 2025-12-31T06:11:27
 ---
 
 > _“Knowing yourself is the beginning of all wisdom.” — Aristotle_
@@ -10,7 +10,9 @@ modified: 2025-12-30T07:14:35
 
 > _“Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power.” — Lao Tzu, Tao Te Ching_
 
-> _“He who controls others may be powerful, but he who has mastered himself is mightier still. (勝人者有力，自勝者強)” — Lao Tzu_
+> _“He who controls others may be powerful, but he who has mastered himself is mightier still.” — Lao Tzu_
+> 
+> 勝人者有力，自勝者強
 
 > _“When you are content to simply be yourself and don’t [compare](comparison-is-the-thief-of-joy.md) or [compete](escape-competition-through-authenticity.md), everybody will respect you.” — Lao Tzu, Tao Te Ching_
 
