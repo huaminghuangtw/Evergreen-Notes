@@ -1,7 +1,7 @@
 ---
 title: Investing in yourself is the highest ROI investment you’ll ever make in your life
 created: 2024-11-18T09:18:12
-modified: 2025-12-05T17:00:37
+modified: 2025-12-30T18:56:13
 ---
 
 > _“An investment in knowledge pays the best interest.” — Benjamin Franklin_
@@ -10,11 +10,23 @@ modified: 2025-12-05T17:00:37
 
 # S&P 500 → S&ME
 
-> 投資自己穩賺不賠。
-
 Getting an extra 2% return on your $100k investment account is $2,000. That same energy deployed into increasing your **earning power** could have a far more dramatic financial impact.
 
+---
+
 Never think twice about investments in yourself. They pay long-term dividends.
+
+---
+
+投資自己穩賺不賠。
+
+在所有投資標的中，自己是風險最低的一項。
+
+你擁有最完整的內線資訊，因此報酬期望值最高。
+
+最安全的賭注，就是押在自己身上。
+
+押誰都不如押自己。
 
 ---
 
