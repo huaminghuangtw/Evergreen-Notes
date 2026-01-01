@@ -1,7 +1,7 @@
 ---
 title: Quit social media
 created: 2024-11-18T09:18:12
-modified: 2025-12-25T06:01:19
+modified: 2025-12-31T08:00:32
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -105,10 +105,10 @@ Fast Digital Consumption
 
 ---
 
-# The Paradox Of Connectedness/Social Media
+# The Paradox of Connectedness/Social Media
 
 * More connected, less connected.
-	* cPhones and digital distractions have amplified this issue. We can be in the same room with others physically, but still feel completely disconnected.
+	* Smartphones and digital distractions have amplified this issue. We can be in the same room with others physically, but still feel completely disconnected.
 * Social media has created more connectedness than ever before—a constant [dopamine drip](dopamine.md).
 * We have more connectedness, but we feel less connected to those around us.
 * Social media is as addictive as drugs [^3] designed to make you wish you were somewhere else, doing something else, with someone else.
