@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2025-12-30T18:51:05
+modified: 2026-01-02T15:27:01
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -60,3 +60,33 @@ When the interviewer pressed him, asking whether there were players who don’t,
 ---
 
 [Hanlon’s Razor](https://sketchplanations.com/hanlons-razor)
+
+---
+
+[Angle Kappa is a critical measurement used to ensure the laser is centered correctly on the eye.](https://doi.org/10.4103/0974-620X.122268)
+
+is the angle between the pupillary and visual axis.
+
+Clinically, angle kappa is generally considered large when it exceeds:
+
+	-	> 5°, or
+
+	-	> 0.5–0.6 mm corneal offset
+
+Who typically has a “Large” Angle?
+
+Hyperopes (Farsighted patients): Large Angle Kappa is much more common in farsighted eyes. Because these eyes are often shorter, the fovea is frequently situated further away from the anatomical center, creating a wider angle.
+
+Myopes (Nearsighted patients): These patients generally have small or even “negative” Angle Kappas, making centration easier and more forgiving.
+
+If a laser treatment is centered strictly on the pupil in an eye with an Angle Kappa of 0.5 mm or more, the patient is at high risk for:
+
+Induced Coma: A type of visual aberration that makes light appear to have a “tail” like a comet.
+
+Decentered Ablation: The “sweet spot” of the laser treatment misses the line of sight, leading to blurred vision, even if the prescription is technically corrected.
+
+Edge Effects: The patient may see “halos” or “starbursts” at night because their line of sight is too close to the edge of the treated zone.
+
+---
+
+Pupil 瞳孔 Cornea 角膜 Retina 視網膜
