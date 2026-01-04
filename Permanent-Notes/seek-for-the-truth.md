@@ -1,7 +1,7 @@
 ---
 title: Seek for the truth
 created: 2024-11-18T09:18:12
-modified: 2025-11-26T10:01:37
+modified: 2026-01-04T15:32:02
 ---
 
 > _“Facts are the enemy of truth.” — Miguel de Cervantes_
@@ -23,10 +23,6 @@ modified: 2025-11-26T10:01:37
 > _“The least deviation from truth will be multiplied later.” — Aristotle_
 
 > _“We are only as blind as we want to be.” — Maya Angelou_ [^2] [^3]
-
----
-
-實事求是
 
 ---
 
