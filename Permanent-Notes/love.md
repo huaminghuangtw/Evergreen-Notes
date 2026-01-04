@@ -1,7 +1,7 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2026-01-02T16:05:06
+modified: 2026-01-02T20:31:20
 ---
 
 > _“Love is the absence of judgment.” — Dalai Lama_
@@ -16,7 +16,8 @@ modified: 2026-01-02T16:05:06
 
 > _“Some people care too much. I think it’s called love.” ― A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)_
 
-> _Piglet: How do you spell love?_  
+> _Piglet: How do you spell love?_
+>
 > _Pooh: You don’t spell it. You feel it._
 
 > _“Love does not claim possession, but gives freedom.” — Rabindranath Tagore_
