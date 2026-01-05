@@ -1,7 +1,7 @@
 ---
 title: BS Asymmetry Principle
 created: 2024-11-18T09:18:12
-modified: 2025-12-25T16:17:20
+modified: 2026-01-05T17:15:47
 ---
 
 <figure>

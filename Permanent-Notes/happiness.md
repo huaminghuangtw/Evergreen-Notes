@@ -1,7 +1,7 @@
 ---
 title: Happiness
 created: 2024-11-18T09:18:12
-modified: 2025-12-14T20:04:21
+modified: 2026-01-05T17:15:47
 ---
 
 > _“Happiness is a state where nothing is missing.” — Naval Ravikant_

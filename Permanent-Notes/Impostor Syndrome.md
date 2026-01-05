@@ -1,7 +1,7 @@
 ---
 title: Impostor Syndrome
 created: 2025-01-23T10:40:57
-modified: 2025-12-21T15:01:26
+modified: 2026-01-05T17:15:47
 ---
 
 # You don’t need to be a _guru_. You can just be a _guide_.

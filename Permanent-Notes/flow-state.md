@@ -1,7 +1,7 @@
 ---
 title: Flow State
 created: 2025-01-23T18:40:57
-modified: 2025-12-14T20:01:38
+modified: 2026-01-05T17:15:47
 ---
 
 You’re in “the zone.” ( like _[one-buttock playing](https://sketchplanations.com/one-buttock-playing)_)

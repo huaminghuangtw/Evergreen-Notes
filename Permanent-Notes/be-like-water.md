@@ -1,7 +1,7 @@
 ---
 title: Be like water
 created: 2025-05-11T18:12:30
-modified: 2025-12-21T15:01:26
+modified: 2026-01-05T17:15:47
 ---
 
 > _[“I said empty your mind, be formless, shapeless — like water. Now, you put water in a cup, it becomes the cup; You put water into a bottle, it becomes the bottle; You put it in a teapot, it becomes the teapot. Now, water can flow, or it can crash. Be water, my friend.” — Bruce Lee](https://www.youtube.com/watch?v=e78SV6EjTQg)_
