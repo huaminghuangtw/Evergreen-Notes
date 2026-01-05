@@ -1,7 +1,7 @@
 ---
 title: Regret Minimization
 created: 2024-11-18T09:16:50
-modified: 2026-01-04T11:54:03
+modified: 2026-01-04T17:02:07
 ---
 
 Sit down with a journal or piece of paper and sketch it out:
@@ -28,7 +28,7 @@ Note that most of the items on my list have very little to do with money or fina
 
 ---
 
-This thought exercise can have a powerful impact on how you live your life in the present. It forces you to begin with the ideal end in mind. 
+This thought exercise can have a powerful impact on how you live your life in the present. It forces you to begin with the ideal end in mind.
 
 Beginning with the ideal future end in mind allows you to **reverse engineer** what is important to focus on in the present:
 
