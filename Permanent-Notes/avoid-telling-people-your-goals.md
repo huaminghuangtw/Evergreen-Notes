@@ -1,7 +1,7 @@
 ---
 title: Avoid telling people your goals
 created: 2024-11-18T09:18:12
-modified: 2025-12-11T06:58:12
+modified: 2026-01-05T17:15:47
 ---
 
 > _“If you start by promising what you don’t even have yet, you’ll lose your desire to work towards getting it.” — Paulo Coelho_

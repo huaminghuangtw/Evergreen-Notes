@@ -1,7 +1,7 @@
 ---
 title: Control the controllable
 created: 2024-11-18T09:16:49
-modified: 2025-12-28T06:20:25
+modified: 2026-01-05T17:15:47
 ---
 
 > _“The more we value things outside our control, the less control we have.” — Epictetus_

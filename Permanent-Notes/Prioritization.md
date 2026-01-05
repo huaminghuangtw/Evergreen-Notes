@@ -1,7 +1,7 @@
 ---
 title: Prioritization
 created: 2024-11-18T09:18:12
-modified: 2025-12-16T13:54:45
+modified: 2026-01-05T17:15:47
 ---
 
 > _“The whole point of getting things done is knowing what to leave undone.” — Oswald Chambers_

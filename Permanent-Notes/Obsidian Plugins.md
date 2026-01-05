@@ -1,7 +1,7 @@
 ---
 title: Obsidian Plugins
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:27
+modified: 2026-01-05T17:15:47
 ---
 
 <https://www.reddit.com/r/Anki/comments/16ttr4w/what_are_the_essential_anki_addons_for_effective/>

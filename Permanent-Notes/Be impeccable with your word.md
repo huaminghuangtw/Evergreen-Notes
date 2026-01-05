@@ -1,7 +1,7 @@
 ---
 title: Be impeccable with your word
 created: 2024-11-18T09:16:50
-modified: 2025-12-07T20:35:19
+modified: 2026-01-05T17:15:47
 ---
 
 > _“Words are but pictures of our thoughts.” — John Dryden_
