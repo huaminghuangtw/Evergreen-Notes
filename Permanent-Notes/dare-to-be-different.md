@@ -1,7 +1,7 @@
 ---
 title: Dare to be different
 created: 2025-11-24T06:51:20
-modified: 2026-01-05T17:15:47
+modified: 2026-01-06T12:34:02
 ---
 
 > _“Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.” — Robert Frost, The Road Not Taken (1916)_
@@ -25,6 +25,8 @@ modified: 2026-01-05T17:15:47
 > _“Always be a first-rate version of yourself, instead of a second-rate version of someone else.” — Judy Garland_
 
 > _“Too many people overvalue what they are not and undervalue what they are.” — Malcolm S. Forbes_
+
+> _“To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.” — Deepak Chopra_
 
 ---
 
