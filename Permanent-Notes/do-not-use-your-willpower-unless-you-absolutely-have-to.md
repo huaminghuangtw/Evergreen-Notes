@@ -1,10 +1,12 @@
 ---
 title: Do not use your willpower unless you absolutely have to
 created: 2024-11-18T09:18:12
-modified: 2025-12-16T09:00:22
+modified: 2026-01-06T12:31:31
 ---
 
 > _[“I only do what is easy. I only write when I immediately know how to do it, if I falter for a moment, I put the matter aside and do something else .” — Niklas Luhmann](https://www.soenkeahrens.de/en/takesmartnotes)_
+
+> _“Before you try to increase your willpower, try to decrease the friction in your environment.” — James Clear_
 
 ---
 
