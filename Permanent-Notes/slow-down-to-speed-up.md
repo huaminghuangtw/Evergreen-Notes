@@ -1,7 +1,7 @@
 ---
 title: Slow down to speed up
 created: 2024-12-05T09:05:25
-modified: 2025-12-30T09:20:45
+modified: 2026-01-06T12:27:59
 ---
 
 [@ferriss4hourWorkweekEscape2011]
@@ -35,6 +35,14 @@ There’s never enough time to do it right but there’s plenty of time to do it
 ---
 
 食緊挵破碗
+
+---
+
+心急吃不了熱豆腐
+
+---
+
+《世說新語》「王藍田食雞子」
 
 ---
 
