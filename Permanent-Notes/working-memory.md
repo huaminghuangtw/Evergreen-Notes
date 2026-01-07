@@ -1,7 +1,7 @@
 ---
 title: Working Memory
 created: 2025-01-23T18:40:57
-modified: 2025-12-14T20:04:21
+modified: 2026-01-06T15:24:12
 ---
 
 Working memory is one’s ability to keep specific information for immediate use, like a little sticky note in the brain.
@@ -37,7 +37,7 @@ Working memory is closely ties to tied to [attention](attention.md).
 
 ---
 
-Working memory capacity/span correlates to the [dopamine](dopamine.md) levels in the prefrontal cortex. The relationship between working memory and dopamine follows an _inverted U-shaped function_.
+Working memory capacity/span correlates to the [dopamine](Dopamine.md) levels in the prefrontal cortex. The relationship between working memory and dopamine follows an _inverted U-shaped function_.
 
 * Higher dopamine correlates with better working memory, while lower dopamine correlates with lower working memory.
 * Note that increasing dopamine doesn’t always enhance working memory; some individuals with high working memory may experience performance degradation with increased dopamine levels; too much dopamine can reduce working memory span.
