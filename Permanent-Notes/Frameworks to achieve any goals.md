@@ -1,13 +1,13 @@
 ---
 title: Frameworks to achieve any goals
 created: 2024-11-18T09:18:12
-modified: 2025-11-23T07:12:33
+modified: 2026-01-06T18:13:19
 ---
 
 # 💡 Core Concept
 
 * Progress = Intensity + [Consistency](every-single-day-chop-wood-carry-waters.md)
-* Mastery = Consistent Action (_without overthinking_) + Solving Real-World Problems (_by doing projects_)
+* Mastery = Consistent Action (_without overthinking_) + Solving Real-World Problems (_by doing projects_) [^1]
 
 ---
 
@@ -45,3 +45,5 @@ modified: 2025-11-23T07:12:33
 ---
 
 # [The ABZ Framework](the-abz-framework.md)
+
+[^1]: _“Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.” — Robert Greene_
