@@ -1,7 +1,11 @@
 ---
 title: wander
 created: 2024-11-18T09:16:50
-modified: 2025-12-24T05:14:23
+modified: 2026-01-06T15:30:51
+---
+
+> _“Not all those who wander are lost.” — J.R.R. Tolkien_
+
 ---
 
 1. Do the opposite of what you think you should.
