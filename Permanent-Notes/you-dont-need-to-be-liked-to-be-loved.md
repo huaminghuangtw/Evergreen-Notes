@@ -1,10 +1,12 @@
 ---
 title: You don’t need to be liked to be loved
 created: 2025-10-18T16:54:28
-modified: 2025-12-31T05:58:06
+modified: 2026-01-06T15:32:23
 ---
 
 > _“When you say yes to others, make sure you are not saying no to yourself.” — Paulo Coelho_
+
+> _“I’m not in this world to live up to your expectations and you’re not in this world to live up to mine.” — Bruce Lee_
 
 ---
 
