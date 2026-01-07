@@ -1,7 +1,7 @@
 ---
 title: Journey over destination
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-06T15:24:12
 ---
 
 > _“To travel is to be alive, but to get somewhere is to be dead.” — Alan Watts_
@@ -66,7 +66,7 @@ Achieving [goals](goal-setting.md) is overrated, striving toward them is underra
 
 # Detach Inputs From Outputs
 
-Attach to input/intention. Detach from output/outcomes. Focus on efforts (which generate [dopamine](dopamine.md)), not outcomes. Forget about outcomes, focus on growth/processes instead. Be [genuinely not care about](not-caring-lets-us-perform-better.md) the outcomes.
+Attach to input/intention. Detach from output/outcomes. Focus on efforts (which generate [dopamine](Dopamine.md)), not outcomes. Forget about outcomes, focus on growth/processes instead. Be [genuinely not care about](not-caring-lets-us-perform-better.md) the outcomes.
 
 ---
 
