@@ -1,7 +1,7 @@
 ---
 title: Do great work
 created: 2024-11-18T09:18:12
-modified: 2025-12-30T15:48:44
+modified: 2026-01-06T18:13:19
 ---
 
 > _“To be great is to be misunderstood.” — Ralph Waldo Emerson_
@@ -17,6 +17,8 @@ modified: 2025-12-30T15:48:44
 > _“If one is a master of one thing and understands one thing well, one has at the same time, insight into and understanding of many things.” — Vincent Van Gogh_
 
 > _“Being realistic is the most common path to mediocrity.” ― Will Smith_
+
+> _“Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.” — Robert Greene_
 
 ---
 
