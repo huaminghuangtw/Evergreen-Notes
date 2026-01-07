@@ -1,7 +1,7 @@
 ---
 title: Duality & Polarity
 created: 2025-01-27T10:24:11
-modified: 2025-11-02T05:46:49
+modified: 2026-01-07T12:11:45
 ---
 
 # Duality (二重性)
@@ -28,6 +28,6 @@ modified: 2025-11-02T05:46:49
 
 Duality often incorporates polarity by recognizing that opposites are interconnected and necessary for balance. For example, light cannot be understood without darkness (duality), yet brightness and dimness exist on a spectrum (polarity).
 
-[^1]: 一體兩面 (two sides of the same coin)、雙面刃 (Double-Edged Sword)
+[^1]: [一體兩面 (two sides of the same coin)、雙面刃 (Double-Edged Sword)](everything-in-life-has-an-opportunity-cost.md)
 [^2]: Often work together to create a whole, i.e., one cannot exist without the other.
 [^3]: Often represent a continuum or gradient.
