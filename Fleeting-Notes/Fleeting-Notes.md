@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2026-01-06T06:04:27
+modified: 2026-01-07T08:04:05
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -11,11 +11,6 @@ Source: Paraphrased from the Tao Te Ching. The original translation reads closer
 
 ---
 
-Epictetus 曾說：
-
-「如果不是你允許，別人無法傷害你；當你認為自己受傷時，你才是真正受傷。」
-
----
 
 it’s almost impossible to beat someone who genuinely enjoys the work itself.
 
