@@ -1,7 +1,7 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-07T12:17:24
 ---
 
 > _“Start before you’re ready. Don’t prepare. Begin. Don’t think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
@@ -45,6 +45,16 @@ modified: 2026-01-05T17:15:47
 只要前進就不嫌慢，沒有什麼叫太慢，
 
 我們都有恐懼和害怕，但我們永遠不會太遲。
+
+---
+
+# Never get caught in the trap of “too old”, or “too late”
+
+* If you learn the piano at 60, by 80 you’ll have played it for 20 years.
+* If you start drawing at 25, you’ll have 5 years of drawing experience at 30.
+* If you learn a new language at 40, you’ll have a 10-year knowledge of said language at 50.
+
+It’s never too old or late to start.
 
 ---
 
