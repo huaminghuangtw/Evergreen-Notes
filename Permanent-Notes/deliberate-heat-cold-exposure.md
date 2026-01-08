@@ -1,7 +1,7 @@
 ---
 title: Deliberate Heat Cold Exposure
 created: 2024-11-18T09:18:12
-modified: 2025-12-28T18:44:10
+modified: 2026-01-08T14:53:33
 ---
 
 # Heat Exposure
@@ -52,30 +52,8 @@ Cooling “Glabrous Skin Surfaces” [^3] can…
 
 ---
 
-# [The Science \& Use of Cold Exposure for Health \& Performance - Huberman Lab](https://www.hubermanlab.com/newsletter/the-science-and-use-of-cold-exposure-for-health-and-performance)
+[The Science & Use of Cold Exposure for Health & Performance](https://huami.ng/the-science-and-use-of-cold-exposure-for-health-and-performance)
 
-* Start slow (_**warmer then colder**_)—as cold shock is possible; just as with lifting weights or other forms of exercise
-* The water temperature should be _**uncomfortably cold** **yet safe**_ to stay in for a few minutes.
-	* The colder the stimulus (water immersion, shower, etc.), the shorter amount of time you need to expose yourself to the cold.
-* **The “Counting Walls” Approach**
-	* Undoubtedly, during (or before) cold exposure, you will find your mind pushing back against the challenge. Your mind will say, “I really don’t want to do this,” even before getting in, or “Get me out of here.”
-	* You can imagine those mental barriers as ‘walls.’ Those walls are, in fact, the effects of adrenaline pulses in your brain and body, which in this case is what triggers the eventual adaptive response. After all, if it were easy, then there is no stimulus for your body to change (adapt). By maintaining top-down control of your reflexive urge to exit the cold environment, you will have successfully traversed that wall.
-	* Challenge yourself by [counting walls](https://youtu.be/pq6WHJzOkno?t=2308) and setting a goal of “walls” to traverse (e.g., 3-5 walls) during the round of cold exposure.
-* By forcing yourself to embrace the stress of cold exposure as a meaningful self-directed challenge (i.e., stressor), you exert what is called ‘top-down control’ over deeper brain centers that regulate reflexive states. This top-down control process involves your prefrontal cortex — an area of your brain involved in planning and suppressing impulsivity. That ‘top-down’ control is the basis of what people refer to when they talk about “resilience and grit.”
-	* To increasing the resilience-enhancing effects:
-		* **Level 1:** Stay completely still while in cold water.
-			* This allows a thermal layer to surround your body, “insulating” you from the cold.
-		* **Level 2:** Move your limbs while keeping your hands and feet in the water (leave your arms hanging loosely by your sides).
-			* This will break up the thermal layer and you will experience the water as (much) colder than if you stayed still.
-* The **Søeberg Principle** based on deliberate cold researcher [Dr. Susanna Søeberg](https://www.instagram.com/susanna_soeberg/) is: _To enhance the metabolic effects of cold, force your body to reheat on its own._ Or “End With Cold.”
-	* **Shivering** is the most important part of cold water therapy.
-	* “_If you want to use deliberate cold exposure to increase metabolism, you should get to the point where you shiver in the cold exposure or immediately after._”
-	* Also, allowing your body to shiver may enhance metabolic increases from cold.
-		* Don’t huddle or cross your arms while in the cold or after getting out (basically, don’t hug yourself).
-		* Don’t towel off.
-		* Don’t stand under a warm shower.
-		* Let your body reheat naturally by drying yourself out in the air for about 1-3 minutes.
-
-[^1]:[LeBron uses a cryotherapy chamber to replicate the therapeutic effects of an ice bath—reducing inflammation and pain—in significantly less time.](https://x.com/DivineManhood/status/1883446124830494866)
+[^1]: LeBron uses a cryotherapy chamber to replicate the therapeutic effects of an ice bath—reducing inflammation and pain—in significantly less time.
 [^2]: See [The Diver Reflex](the-diver-reflex.md)
 [^3]: meaning non-hairy skin areas such as palms of the hands, soles of the feet, upper portion/half of the face, ears
