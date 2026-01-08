@@ -1,7 +1,7 @@
 ---
 title: If it isn’t fuck yes, then it’s clear no thank you
 created: 2024-11-18T09:16:49
-modified: 2026-01-05T17:15:47
+modified: 2026-01-08T09:41:51
 ---
 
 **TL; DR** Default to NO.
@@ -24,11 +24,15 @@ Say NO (resist) to protect your YES (persist)
 
 Saying yes to everything is a quick road / recipe to mediocrity
 
-* Why is it so hard for us to see this? [Inertia](be-ready-to-change-your-mind-completely-at-any-given-time.md), for one. [Ego](abandon-your-ego.md), for another.
+Why is it so hard for us to see this? [Inertia](be-ready-to-change-your-mind-completely-at-any-given-time.md), for one. [Ego](abandon-your-ego.md), for another.
 
 ---
 
 Before you say “yes” or “no”, just **pause**. This simple pause gives you control over your choices, allowing you to [respond with intention rather than reflex](choose-your-response.md).
+
+---
+
+Stopping isn’t weakness, it’s wisdom.
 
 ---
 
