@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2026-01-07T08:04:05
+modified: 2026-01-07T17:04:02
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -10,7 +10,6 @@ Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and sel
 Source: Paraphrased from the Tao Te Ching. The original translation reads closer to something like, “Because he doesn’t compare himself with others, no one can compare with him.”
 
 ---
-
 
 it’s almost impossible to beat someone who genuinely enjoys the work itself.
 
