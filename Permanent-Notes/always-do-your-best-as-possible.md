@@ -1,7 +1,7 @@
 ---
 title: Always do your best as possible
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-10T16:20:23
 ---
 
 > _“Inspire yourself to be great. Being good isn’t good enough.” — Gurbaksh Chahal_
@@ -86,6 +86,12 @@ Quality over Quantity. Depth over Width.
 > 全心投入、傾注靈魂與熱情去做一件事。
 
 具體來說，當一個人用「愛、創意與熱忱」完成某件事（無論是工作、料理、寫作或教學）時，就展現了 Meraki 的精神。
+
+---
+
+# [一生懸命](https://www.google.com/search?q=一生懸命)（いっしょうけんめい）
+
+意思是拼命、盡全力、竭盡所能地去做某件事，源自武士為守護領土而獻出生命的「一所懸命」，因發音相似而演變，現多用於表示對工作或學習的認真態度和決心。 
 
 ---
 
