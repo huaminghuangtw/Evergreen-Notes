@@ -1,7 +1,7 @@
 ---
 title: The Zeigarnik Effect
 created: 2024-11-18T09:16:49
-modified: 2026-01-10T07:47:07
+modified: 2026-01-10T17:00:51
 ---
 
 [@oyamaHemingwayEffectHow2018]
@@ -18,6 +18,7 @@ suggests that students who suspend their study to perform _unplanned energizing 
 ---
 
 This technique aids in…
+
 * maintaining continued forward momentum.
 * enhancing natural curiosity and creativity by allowing your subconscious mind to work on the problem during breaks.
 
