@@ -1,7 +1,7 @@
 ---
 title: Intentional Living
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-11T16:20:45
 ---
 
 > _[“Your goal in life is to be able to say on the day before you die that you have fully become yourself.” — Kevin Kelly](https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/)_
@@ -27,6 +27,8 @@ modified: 2026-01-05T17:15:47
 > _“Tell me, what is it you plan to do with your one wild and precious life?” — Mary Oliver_
 
 > _“The key to immortality is first living a life worth remembering.” — Bruce Lee_
+
+> _“Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.” — Simon Sinek_
 
 ---
 
