@@ -1,7 +1,12 @@
 ---
+created: 2026-01-05T17:15:47
+modified: 2026-01-11T16:30:28
+---
+
+—
 title: A man who is a master of patience is master of everything else
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-11T16:30:18
 ---
 
 > _[“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)_
@@ -52,7 +57,7 @@ One moment of patience may ward off great disaster. One moment of impatience may
 
 [The worst mistakes in life are made when you try to do fast what’s meant to be done slow. Real, durable things take a long time to build. Careers. Businesses. Relationships. Health. There are no hacks or shortcuts. The long way is the right way.](https://x.com/SahilBloom/status/1946914975970103470)
 
-* Good rule of thumb: Anything that creates real value will most likely take much longer and be much harder than you think.
+* Good rule of thumb: Anything that creates real value will most likely [take much longer](the-hofstadters-law.md) and be much harder than you think.
 * What scales overnight isn’t usually sustainable. What is sustainable rarely scales quickly. Everything timeless takes time.
 
 ---
