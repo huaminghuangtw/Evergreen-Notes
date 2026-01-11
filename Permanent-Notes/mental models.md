@@ -1,7 +1,7 @@
 ---
 title: mental models
 created: 2024-11-18T09:18:12
-modified: 2025-12-14T08:54:56
+modified: 2026-01-11T07:16:37
 ---
 
 > _“Being aware of your mental models is key to being objective.” — Elizabeth Thornton_
@@ -12,7 +12,7 @@ modified: 2025-12-14T08:54:56
 
 = 思維模型
 
-A bunch of different mental habits can come together/team up to strongly steer your mind towards a particular course of action and create a big impact ([The Lollapalooza Effect](The%20Lollapalooza%20Effect.md))
+A bunch of different mental habits can come together/team up to strongly steer your mind towards a particular course of action and create a big impact ([The Lollapalooza Effect](the-lollapalooza-effect.md))
 
 HCs = Habits of Mind and Foundational Concepts in [Minerva University](https://www.minerva.edu)
 
