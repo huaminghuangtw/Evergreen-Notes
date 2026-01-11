@@ -1,7 +1,7 @@
 ---
 title: Always do your best as possible
 created: 2024-11-18T09:18:12
-modified: 2026-01-10T16:20:23
+modified: 2026-01-10T17:00:51
 ---
 
 > _“Inspire yourself to be great. Being good isn’t good enough.” — Gurbaksh Chahal_
@@ -91,7 +91,7 @@ Quality over Quantity. Depth over Width.
 
 # [一生懸命](https://www.google.com/search?q=一生懸命)（いっしょうけんめい）
 
-意思是拼命、盡全力、竭盡所能地去做某件事，源自武士為守護領土而獻出生命的「一所懸命」，因發音相似而演變，現多用於表示對工作或學習的認真態度和決心。 
+意思是拼命、盡全力、竭盡所能地去做某件事，源自武士為守護領土而獻出生命的「一所懸命」，因發音相似而演變，現多用於表示對工作或學習的認真態度和決心。
 
 ---
 
