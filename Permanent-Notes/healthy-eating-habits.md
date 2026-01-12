@@ -1,7 +1,7 @@
 ---
 title: Healthy Eating Habits
 created: 2024-11-18T09:16:50
-modified: 2026-01-05T17:15:47
+modified: 2026-01-12T16:19:12
 ---
 
 Eating Better
@@ -73,6 +73,10 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 			* Frozen Fruits \> Ice + Fresh Fruits
 			* [Placing heavier, frozen items on top of lighter ingredients helps weigh them down and gets the blend moving faster. This can also help prevent the blend from stalling.](https://www.vitamix.com/us/en_us/learn)
 * Paleo(lithic)/Caveman/Stone Age Diet
+
+[@jorgensonAlmanackNavalRavikant2021]
+
+> _“There are a number [of things] on the physical side. We have diets we are not evolved to eat. A correct diet should probably look closer to a paleo diet, mostly eating vegetables with a small amount of meat and berries.”_
 
 ---
 
