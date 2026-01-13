@@ -1,7 +1,7 @@
 ---
 title: The Compounding Effect
 created: 2024-11-18T09:18:12
-modified: 2025-12-25T08:51:00
+modified: 2026-01-13T06:48:38
 ---
 
 > _“Compounding is the 8th wonder of the world.” — Albert Einstein_
@@ -44,7 +44,7 @@ A rolling snowball gathers more snow. [^1]
 
 ---
 
-leads to a [Vicious Cycle (良性循環)](https://www.google.com/search?q=Vicious+Cycle)
+leads to a [Vicious Cycle (良性循環)](https://www.google.com/search?q=Vicious+Cycle) [^5]
 
 ---
 
@@ -141,3 +141,4 @@ The gradual acceptance of negative change, because it happens in such small incr
 [^2]: _“The world is full of obvious things which nobody by any chance ever observes.” — Sherlock Holmes_
 [^3]: _“A genius is the man who can do the average thing when everyone else around him is losing his mind.” — Napoleon_
 [^4]: [Sometimes success is just about avoiding failure and](https://fs.blog/avoid-bad-decisions/) [making bad decisions.](decision-making.md)
+[^5]: aka 善的循環
