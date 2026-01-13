@@ -1,7 +1,7 @@
 ---
 title: What Success Means To Me
 created: 2024-11-18T09:18:12
-modified: 2026-01-10T16:18:21
+modified: 2026-01-13T06:45:05
 ---
 
 > _“The road to success is always under construction.” — Steve Harvey_
@@ -104,6 +104,8 @@ The most important thing in life is _not having_ what you want, but _knowing_ wh
 * The true rich men make peace with less.
 
 ---
+
+If you love what you’re doing, then you’ve already succeeded.
 
 [^1]: is the exclusive group/circle to which people are drown to and want to belong throughout their lives.
 [^2]: [If you define success on the basis of comparison to others, you will never feel successful. _The only way to feel successful is to create your own definition of success, rather than consenting to one that was handed to you._](https://www.sahilbloom.com/newsletter/13-harsh-truths-about-success-nobody-told-you)
