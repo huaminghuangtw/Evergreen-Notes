@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2026-01-12T07:19:00
+modified: 2026-01-13T04:47:11
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -55,7 +55,5 @@ When the interviewer pressed him, asking whether there were players who don’t,
 
 [Hanlon’s Razor](https://sketchplanations.com/hanlons-razor)
 
-
 ---
 
-[The Betty Crocker Effect](https://sketchplanations.com/the-betty-crocker-effect)
