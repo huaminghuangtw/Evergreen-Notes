@@ -1,7 +1,7 @@
 ---
 title: Adaptability
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-13T15:57:10
 ---
 
 > _“It is not the strongest of the species that survives, nor the most intelligent. It is the one most adaptable to change; but the species that survives is the one that is able best to adapt and adjust to the changing environment in which it finds itself.” — Charles Darwin_ [^1]
@@ -32,7 +32,7 @@ The highest intelligence isn’t knowing—it’s adapting. Knowledge matters, b
 
 ---
 
-You’ll only go as far as your ability to absorb life’s punches and pivot on the fly.
+You’ll only go as far as your ability to absorb life’s punches and pivot (軸轉) on the fly.
 
 ---
 
