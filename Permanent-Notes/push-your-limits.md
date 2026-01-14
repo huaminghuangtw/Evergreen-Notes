@@ -1,7 +1,7 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2025-12-25T15:08:57
+modified: 2026-01-14T15:15:25
 ---
 
 > _“Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot_
@@ -67,6 +67,8 @@ modified: 2025-12-25T15:08:57
 > _[“A bird is safe in its nest but that is not what its wings are made for.” — Amit Ray](https://www.goodreads.com/quotes/1512522-a-bird-is-safe-in-its-nest---but-that)_
 
 > _“Some men see things as they are and ask why. Others dream things that never were and ask why not.” — George Bernard Shaw_
+
+> _“You are confined only by the walls you build yourself.” — Andrew Murphy_
 
 ---
 
