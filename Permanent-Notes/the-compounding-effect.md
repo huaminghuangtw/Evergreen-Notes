@@ -1,7 +1,7 @@
 ---
 title: The Compounding Effect
 created: 2024-11-18T09:18:12
-modified: 2026-01-13T06:48:38
+modified: 2026-01-14T06:40:48
 ---
 
 > _“Compounding is the 8th wonder of the world.” — Albert Einstein_
@@ -18,7 +18,7 @@ leads to a [Virtuous Cycle (惡性循環)](https://www.google.com/search?q=Virtu
 
 The Butterfly/Ripple/Domino Effect: the cumulative effect produced when one small event/occurrence sets off a series of similar or related events, a form of chain reaction.
 
-[The Matthew Effect](The%20Matthew%20Effect.md)
+[The Matthew Effect](the-matthew-effect.md)
 
 The Cascade Effect
 
