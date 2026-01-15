@@ -1,7 +1,7 @@
 ---
 title: Fear of Failure and Success
 created: 2024-12-14T08:25:33
-modified: 2026-01-05T17:15:47
+modified: 2026-01-15T14:38:27
 ---
 
 > _“In order to succeed, your desire for success should be greater than your fear of failure.” — Bill Cosby_
@@ -19,7 +19,13 @@ modified: 2026-01-05T17:15:47
 
 ---
 
-Success > Failure > Not Trying At All
+# Success > Failure > Not Trying At All
+
+> _[“Do not fear failure but rather fear not trying.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/8131554-do-not-fear-failure-but-rather-fear-not-trying)_
+
+> _“Don’t be afraid to fail. Be afraid not to try.” — Michael Jordan_
+
+> _“Try and fail, but don’t fail to try.” — Stephen Kaggwa_
 
 ---
 
