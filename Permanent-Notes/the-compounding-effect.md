@@ -1,7 +1,7 @@
 ---
 title: The Compounding Effect
 created: 2024-11-18T09:18:12
-modified: 2026-01-14T06:40:48
+modified: 2026-01-14T16:31:04
 ---
 
 > _“Compounding is the 8th wonder of the world.” — Albert Einstein_
@@ -44,7 +44,7 @@ A rolling snowball gathers more snow. [^1]
 
 ---
 
-leads to a [Vicious Cycle (良性循環)](https://www.google.com/search?q=Vicious+Cycle) [^5]
+leads to a [Vicious Cycle (良性循環)](https://www.google.com/search?q=Vicious+Cycle) [^2]
 
 ---
 
@@ -127,9 +127,9 @@ The gradual acceptance of negative change, because it happens in such small incr
 
 > _“All I want to know is where I’m going to die, so I’ll never go there.”_
 
-> _“It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.”_ [^2] [^3]
+> _“It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.”_ [^3] [^4]
 
-> _“I just try to avoid being stupid. I have a way of handling a lot of problems—I put them in what I call my ‘too hard pile,’ and just leave them there. I’m not trying to succeed in my too hard pile.”_ [^4]
+> _“I just try to avoid being stupid. I have a way of handling a lot of problems—I put them in what I call my ‘too hard pile,’ and just leave them there. I’m not trying to succeed in my too hard pile.”_ [^5]
 
 ---
 
@@ -138,7 +138,7 @@ The gradual acceptance of negative change, because it happens in such small incr
 不輸才是贏，少輸也是贏。
 
 [^1]: 巴菲特的「滾雪球理論」（The Snowball Theory）：必須找到「一顆夠濕的雪球」與「一條夠長的下坡路」。
-[^2]: _“The world is full of obvious things which nobody by any chance ever observes.” — Sherlock Holmes_
-[^3]: _“A genius is the man who can do the average thing when everyone else around him is losing his mind.” — Napoleon_
-[^4]: [Sometimes success is just about avoiding failure and](https://fs.blog/avoid-bad-decisions/) [making bad decisions.](decision-making.md)
-[^5]: aka 善的循環
+[^2]: aka 善的循環
+[^3]: _“The world is full of obvious things which nobody by any chance ever observes.” — Sherlock Holmes_
+[^4]: _“A genius is the man who can do the average thing when everyone else around him is losing his mind.” — Napoleon_
+[^5]: [Sometimes success is just about avoiding failure and](https://fs.blog/avoid-bad-decisions/) [making bad decisions.](decision-making.md)
