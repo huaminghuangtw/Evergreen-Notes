@@ -1,7 +1,7 @@
 ---
 title: Fear
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-15T14:37:42
 ---
 
 > _“Danger is real, fear is a choice” ― Will Smith_
@@ -22,7 +22,6 @@ modified: 2026-01-05T17:15:47
 
 > _“We grow fearless when we do the things we fear.” — Robin Sharma_
 
-> _[“Do not fear failure but rather fear not trying.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/8131554-do-not-fear-failure-but-rather-fear-not-trying)_
 
 > _“Of all the liars in the world, sometimes the worst are our own fears.” — Rudyard Kipling_
 
