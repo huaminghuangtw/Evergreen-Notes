@@ -1,7 +1,7 @@
 ---
 title: The absence of desire is true happiness
 created: 2024-11-18T09:18:12
-modified: 2025-12-24T13:13:03
+modified: 2026-01-15T10:05:02
 ---
 
 > _「有求皆苦，無求即樂」— 達摩祖師《二入四行觀》_
@@ -28,7 +28,7 @@ modified: 2025-12-24T13:13:03
 
 ---
 
-Wishful Thinking
+Wishful Thinking = False Hope
 
 ---
 
