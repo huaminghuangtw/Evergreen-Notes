@@ -1,16 +1,20 @@
 ---
 title: Wu Wei
 created: 2024-12-05T23:47:15
-modified: 2025-12-06T05:55:14
+modified: 2026-01-16T06:36:14
 ---
 
-> _“Nature never hurries, yet everything is accomplished. (道常無為而無不為。)” — Lao Tzu._
+> _“Nature never hurries, yet everything is accomplished.” — Lao Tzu_
+>
+> 道常無為而無不為。
+
+> _“We do so much, we run so quickly, the situation is difficult, and many people say, “Don’t just sit there, do something.” But doing more things may make the situation worse. So you should say, “Don’t just do something, sit there.” Sit there, stop, be yourself first, and begin from there.” — Thích Nhất Hạnh, [Being Peace](https://www.goodreads.com/work/quotes/321908)_
 
 ---
 
 # Definition
 
-* A concept meaning “_inexertion_”, “_inaction_”, or “_effortless action_”
+* A concept meaning _inexertion_, _inaction_, or _effortless action_
 * A state of personal harmony and [free-flowing](flow-state.md)
 * ≠ 什麼事都不做、整天無所事事
 	* It doesn’t mean **inaction**, but rather **not forcing things unnaturally**. [Just as water flows best when unobstructed](be-like-water.md), life unfolds most harmoniously when we don’t constantly interfere.
