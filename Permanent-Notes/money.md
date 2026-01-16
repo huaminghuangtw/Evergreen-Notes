@@ -1,7 +1,7 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2026-01-05T17:15:47
+modified: 2026-01-16T06:37:56
 ---
 
 > _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
@@ -109,7 +109,7 @@ Reasonable \> Rational
 
 # On Saving Money
 
-* It’s not about how much money you make, but how much you keep and take home.
+* It’s not how much money you make, but how much money you keep and take home.
 * Mindset shift for keeping money:
 	* ❌ 沒有拿去投資以獲得更高獲利的「罰金」
 	* ✅ 支付未來幸福生活的「入場費/手續費」(安全邊界 Margin of Safety)
