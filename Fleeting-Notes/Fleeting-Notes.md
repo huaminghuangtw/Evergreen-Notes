@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2026-01-14T16:31:04
+modified: 2026-01-16T06:02:07
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -78,3 +78,11 @@ Now we have regularmaxxing
 ---
 
 use red/amber light in the evening
+
+
+---
+
+My rules for embracing first pass thinking:
+I think before I prompt. I clarify the problem, my perspective, and what I actually believe before asking a machine to weigh in.
+I write before I refine. I force myself to produce a bad first draft before touching any tools.
+I decide before I optimize. I form an initial core judgement by myself, then use tools to pressure-test or improve it.
