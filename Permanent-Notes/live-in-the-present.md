@@ -1,7 +1,7 @@
 ---
 title: Live in the present
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-16T14:52:37
 ---
 
 > _“Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why we call it the present” — Eleanor Roosevelt_
@@ -32,7 +32,9 @@ modified: 2026-01-05T17:15:47
 
 > _“Don’t count the days. Make the days count.” — Muhammad Ali_
 
-> _[Genieße den Augenblick - denn Heute ist der erste Tag vom Rest deines Lebens! (享受當下，因為今天是剩下的生命中的第一天！)](http://www.godic.net/home/dailysentence/4056ec51-2133-4b30-8cca-8f9e279b3e45)_ [^3]
+> _[Genieße den Augenblick - denn Heute ist der erste Tag vom Rest deines Lebens!](http://www.godic.net/home/dailysentence/4056ec51-2133-4b30-8cca-8f9e279b3e45)_
+>
+> 享受當下，因為今天是剩下的生命中的第一天！[^3]
 
 > _“Think of yourself in a concert hall listening to the strains of the sweetest music when you suddenly remember that you forgot to lock your car. You are anxious about the car, you cannot walk out of the hall and you cannot enjoy the music. There you have a perfect image of life as it is lived by most human beings.” — Anthony de Mello_
 
@@ -40,7 +42,7 @@ modified: 2026-01-05T17:15:47
 
 > _[“I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is.” — Alan Watts](https://www.goodreads.com/quotes/172061-i-have-realized-that-the-past-and-future-are-real)_
 
-> _“Life isn’t how many breaths you take, but it’s the moments that take your breath away.” ― Will Smith_
+> _“Life isn’t how many breaths you take, but it’s the moments that take your breath away.” — Will Smith_
 
 ---
 
@@ -48,11 +50,15 @@ Here & Now
 
 ---
 
+用「[一期一會](https://www.google.com/search?q=一期一會)」的態度，去珍惜並專注於眼前的每一個瞬間。
+
+---
+
 珍惜現在，活在當下：「除了此時此刻，我們一無所有。」
 
 ---
 
-生命的真諦，就是此時此刻的酸、甜、苦、樂
+生命的真諦，就是此時此刻的酸、甜、苦、辣。
 
 ---
 
@@ -102,9 +108,7 @@ We often treat the present as a _vehicle for something else_, failing to see tha
 
 ---
 
-#Newsletter
-
-“[今は今、今度は今度](https://www.imdb.com/title/tt27503384/)” [^4]
+# [今は今、今度は今度](https://www.imdb.com/title/tt27503384/) [^4]
 
 * Translation:
 	* Now is now, next time is next time.
