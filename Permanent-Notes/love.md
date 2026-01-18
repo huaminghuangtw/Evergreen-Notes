@@ -1,7 +1,7 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2026-01-05T17:15:47
+modified: 2026-01-18T05:50:12
 ---
 
 > _“Love is the absence of judgment.” — Dalai Lama_
@@ -63,6 +63,10 @@ modified: 2026-01-05T17:15:47
 > _[“Love is a smoke made with the fume of sighs.” — William Shakespeare](https://www.brainyquote.com/quotes/william_shakespeare_106569)_
 >
 > 愛情是嘆息吹起的一陣煙。
+
+---
+
+![](https://images.unsplash.com/photo-1518406479616-cd3f1cde0a50?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ---
 
