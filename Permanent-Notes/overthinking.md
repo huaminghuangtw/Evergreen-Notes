@@ -1,7 +1,7 @@
 ---
 title: Overthinking
 created: 2025-01-23T10:40:57
-modified: 2025-12-30T08:02:57
+modified: 2026-01-18T17:54:04
 ---
 
 > _“Imagination and fiction make up more than three quarters of our real life.” — Simone Weil_
@@ -72,6 +72,10 @@ A surefire way to make a bad situation worse is to continue replaying it in your
 Imagine someone is struck by a poisoned arrow. A doctor is called to remove the arrow, but the man stops him. “Not so fast! Before you remove it, I want to know who shot me. What town or village does he come from? What kind of wood was his bow made from? Was it a crossbow or a longbow?” While he asks the questions, the poison takes hold and he dies.
 
 Like the man in the story, we occasionally get shot with the poisoned arrows of life. But ruminating too much on the nature of those arrows is unlikely to help.
+
+---
+
+Put overthinking to bed. With an average of 60,000–80,000 daily thoughts, remember you don’t need to engage with every single one. Breathe, relax, let it pass.
 
 ---
 
