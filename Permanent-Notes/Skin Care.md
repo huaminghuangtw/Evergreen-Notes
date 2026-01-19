@@ -1,7 +1,7 @@
 ---
 title: Skin Care
 created: 2025-01-23T10:40:57
-modified: 2025-12-16T14:04:03
+modified: 2026-01-19T06:02:50
 ---
 
 # 如何擁有「水煮蛋肌」?
@@ -85,7 +85,7 @@ modified: 2025-12-16T14:04:03
 # No-goes (NG 動作)
 
 * 過度清潔 (洗臉) /保養 (尤其是酸類)、頻繁醫美雷射、經常去角質 or 敷面膜
-* Towel Drying
+* Towel Drying: After washing your face, avoid using a towel to dry it. Instead, let it air dry naturally (or use your hands to fan it) to prevent bacteria growth and reduce the risk of acne.
 * 用手摸臉 (尤其是沒有洗手的時候)
 	* Touch face or mouth with dirty hands
 * 用手擠壓或妙鼻貼拔除「閉鎖型 (內包)」粉刺
