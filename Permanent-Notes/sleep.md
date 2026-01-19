@@ -1,7 +1,7 @@
 ---
 title: Sleep
 created: 2024-11-18T09:18:12
-modified: 2025-12-28T18:44:10
+modified: 2026-01-19T05:28:12
 ---
 
 [Matt Walker: Sleep is your superpower \| TED Talk](https://www.ted.com/talks/matt_walker_sleep_is_your_superpower/)
@@ -43,7 +43,7 @@ Make sleep your #1 appointment in your calendar. Sleep is your #1 priority.
 
 * Plan your day around sleep.
 
-Unwind: minimize light, red light ideal
+Unwind: minimize light, red/amber light ideal
 
 Sleep Fundamentals: The QQRT Protocol
 
