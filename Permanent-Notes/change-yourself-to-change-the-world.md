@@ -1,7 +1,7 @@
 ---
 title: Change yourself to change the world
 created: 2024-11-18T09:18:12
-modified: 2026-01-07T12:06:15
+modified: 2026-01-19T06:01:01
 ---
 
 > _“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi_
@@ -40,6 +40,13 @@ Before changing yourself, you need to [knowing yourself](mastering-yourself-is-s
 
 ---
 
+每個人都是自己的創業家，因為我們都在創造自己人生的「業」；同時，我們也是自己人生有限公司（ME Inc.）的負責人（You are the CEO of your own life）。
+
+> _“Life isn’t about finding yourself. Life is about creating yourself.” — George Bernard Shaw_
+
+
+---
+
 [@gogginsCantHurtMe2018]
 
 > _“No one is going to come help you. No one’s coming to save you.”_
@@ -51,6 +58,7 @@ Before changing yourself, you need to [knowing yourself](mastering-yourself-is-s
 [Your entire life will change the day you realize that everything is on you. No one is coming to save you. No one will fix your problems. No one can act on your behalf. No one will change your mindsets. No one will hand you the things you want in life. It’s the acceptance that you have to hunt if you want to eat. It’s all on you.](https://x.com/SahilBloom/status/1855607589578453496)
 
 Self-reliance is the ultimate source of strength. Self-help is the best help.
+
 
 [Never ever complain about anything](never-ever-complain-about-anything.md)
 
