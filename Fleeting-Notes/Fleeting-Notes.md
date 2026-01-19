@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2026-01-16T16:33:04
+modified: 2026-01-19T07:22:32
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -57,8 +57,6 @@ When the interviewer pressed him, asking whether there were players who don’t,
 
 ---
 
----
-
 James Clear (author of Atomic Habits):
 
 I think about decisions in three ways: hats, haircuts, and tattoos.
@@ -71,20 +69,4 @@ A few decisions are like tattoos. Once you make them, you have to live with them
 
 ---
 
-lifemaxxing and looksmaxxing.
-
-Now we have regularmaxxing
-
----
-
-use red/amber light in the evening
-
----
-
-My rules for embracing first pass thinking:
-
-I think before I prompt. I clarify the problem, my perspective, and what I actually believe before asking a machine to weigh in.
-
-I write before I refine. I force myself to produce a bad first draft before touching any tools.
-
-I decide before I optimize. I form an initial core judgement by myself, then use tools to pressure-test or improve it.
+“Luck is what happens when preparation meets opportunity.” — Seneca
