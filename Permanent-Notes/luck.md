@@ -1,12 +1,12 @@
 ---
 title: Luck
 created: 2024-11-18T09:18:12
-modified: 2025-11-12T05:58:10
+modified: 2026-01-20T05:07:08
 ---
 
 > _“Diligence is the mother of good luck.” — Benjamin Franklin_
 
-> _“Luck is where opportunity meets preparation.” — Seneca_
+> _“Luck is what happens when [preparation](planning-and-preparation-help-maximize-your-productivity.md) meets opportunity.” — Seneca_
 
 > _[“People are always claiming that success is a matter of luck, but as Pasteur pointed out, “Luck favors the prepared mind.” […] Many times a discussion with a person who has just done something important will produce a description of how they were led, almost step by step, to the result. It is usually based on things they had done, or intensely thought about, years ago. You succeed because you have prepared yourself with the necessary background long ago, without, of course, knowing then that it would prove to be a necessary step to success.” — Richard Hamming](https://www.mccurley.org/advice/hamming_advice.html)_
 
