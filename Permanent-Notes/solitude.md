@@ -1,12 +1,14 @@
 ---
 title: Solitude
 created: 2024-11-18T09:18:12
-modified: 2025-12-15T08:59:14
+modified: 2026-01-20T06:37:26
 ---
 
 > _“Solitude gives birth to the original in us.” — Thomas Mann_
 
 > _“To live alone, one must be either a beast or a god, says Aristotle. Leaving out the third case: one must be both — a philosopher.” — Nietzsche_
+
+> _[“Remember: the time you feel lonely is the time you most need to be by yourself. Life’s cruelest irony.” — Douglas Coupland, Shampoo Planet](https://www.goodreads.com/quotes/7143-remember-the-time-you-feel-lonely-is-the-time-you)_
 
 ---
 
