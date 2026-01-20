@@ -1,7 +1,7 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
 created: 2024-11-18T09:18:12
-modified: 2025-12-28T18:44:10
+modified: 2026-01-20T10:28:06
 ---
 
 > _“Glory is fleeting, but obscurity is forever.” — Napoleon Bonaparte_
@@ -44,7 +44,7 @@ Your external reality is often a manifestation of your internal reality. Don’t
 
 ---
 
-Focus on the internal scorecard (追求內在成就), not the external/social approval/validation/affirmation/rewards (追求外在成就 [^1])
+Focus on the [Inner Scorecard](https://fs.blog/the-inner-scorecard), not the external/social approval/validation/affirmation/rewards (追求外在成就 [^1])
 
 [Compete](escape-competition-through-authenticity.md) externally and you [compare](comparison-is-the-thief-of-joy.md). Compete internally and you improve.
 
