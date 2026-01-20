@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2026-01-19T07:22:32
+modified: 2026-01-20T05:03:18
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -37,15 +37,6 @@ When the interviewer pressed him, asking whether there were players who don’t,
 
 ---
 
-假傳萬卷書，真傳一句話
-
----
-
-「知者不惑，仁者不憂，勇者不懼。」— 《論語．子罕》
-
-有智慧的人不會迷惑，有仁德的人不會憂愁，勇敢的人不會畏懼。具備這三德，便能成為真正的君子，進而達到成為聖人的目標。
-
----
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
 
@@ -66,7 +57,3 @@ Most decisions are like hats. Try one and if you don’t like it, put it back an
 Some decisions are like haircuts. You can fix a bad one, but it won’t be quick and you might feel foolish for a while. That said, don’t be scared of a bad haircut. Trying something new is usually a risk worth taking. If it doesn’t work out, by this time next year you will have moved on and so will everyone else.
 
 A few decisions are like tattoos. Once you make them, you have to live with them. Some mistakes are irreversible. Maybe you’ll move on for a moment, but then you’ll glance in the mirror and be reminded of that choice all over again. Even years later, the decision leaves a mark. When you’re dealing with an irreversible choice, move slowly and think carefully.
-
----
-
-“Luck is what happens when preparation meets opportunity.” — Seneca
