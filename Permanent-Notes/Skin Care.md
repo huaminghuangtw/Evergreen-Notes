@@ -1,7 +1,7 @@
 ---
 title: Skin Care
 created: 2025-01-23T10:40:57
-modified: 2026-01-19T06:02:50
+modified: 2026-01-21T14:36:21
 ---
 
 # 如何擁有「水煮蛋肌」?
@@ -31,6 +31,7 @@ modified: 2026-01-19T06:02:50
 	* #TODO 杏仁酸
 	* #TODO 杜鵑花酸
 	* #TODO 玻尿酸不是酸
+		* 「玻尿酸」和「膠原蛋白」是肌膚最自然的保濕屏障。
 * [比較] 視黃醇 / 維 A 醇 / A 醇
 	* Retinol
 		* _lower_ concentration of the active retinoic acid ingredient
@@ -165,9 +166,15 @@ modified: 2026-01-19T06:02:50
 	* 用量抓豌豆大小即可
 	* Excellent daily addition to a skincare regimen for anyone who is not pregnant/breastfeeding
 4. Moisturizer
-	* 選擇溫和型、不含玻尿酸的面霜
 	* 可以減少精華液對皮膚的刺激
 	* Don’t neglect your neck!
+
+---
+
+# 凡士林晚安面膜
+
+* 利用凡士林極佳的「鎖水保濕」效果，在完成基本的「補水」保養後，「局部性」塗抹薄薄一層，形成保護膜（保鮮膜）鎖住水分，使肌膚滋潤。
+* 避免大面積、全臉、無死角地塗抹凡士林，否則容易造成毛孔阻塞、粉刺滋生，特別是油性肌膚或本身已有痘痘困擾的人。
 
 [^1]: 初期建議先三天塗抹一次，使用一段時間後，若無乾燥脫皮現象，再慢慢增加使用頻率 (視膚況而定)
 [^2]: 剛開始使用時會有所謂的「爆痘期」，這是因為酸類正在發揮作用，將毛孔內已經成型的粉刺慢慢代謝出來。在這段期間，可能會引起發炎/感染，最後變成痘痘
