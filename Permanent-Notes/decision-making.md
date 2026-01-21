@@ -1,7 +1,7 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-21T05:42:14
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -72,6 +72,18 @@ A simple decision-making framework created by author and speaker Suzy Welch. The
 |                      Irreversible                       |                       Reversible                        |
 | [機會成本](everything-in-life-has-an-opportunity-cost.md) 較高 | [機會成本](everything-in-life-has-an-opportunity-cost.md) 較低 |
 |                          三思而後行                          |   [三行而後思](cultivate-a-strong-bias-towards-action.md)    |
+
+---
+
+# By James Clear (author of Atomic Habits)
+
+I think about decisions in three ways: **hats**, **haircuts**, and **tattoos**.
+
+Most decisions are like hats. Try one and if you don’t like it, put it back and try another. The cost of a mistake is low, so move quickly and try a bunch of hats.
+
+Some decisions are like haircuts. You can fix a bad one, but it won’t be quick and you might feel foolish for a while. That said, don’t be scared of a bad haircut. Trying something new is usually a risk worth taking. If it doesn’t work out, by this time next year you will have moved on and so will everyone else.
+
+A few decisions are like tattoos. Once you make them, you have to live with them. Some mistakes are irreversible. Maybe you’ll move on for a moment, but then you’ll glance in the mirror and be reminded of that choice all over again. Even years later, the decision leaves a mark. When you’re dealing with an irreversible choice, move slowly and think carefully.
 
 ---
 
