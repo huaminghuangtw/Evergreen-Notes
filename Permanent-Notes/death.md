@@ -1,7 +1,7 @@
 ---
 title: Death
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-21T15:45:55
 ---
 
 > _“The free man thinks of death, least of all things.” — Benedict Spinoza_
@@ -53,6 +53,10 @@ Death is scary. It’s uncomfortable to think about. So we tend to avoid it. But
 ---
 
 Death is the ultimate equalizer. We may look different, live in different places, and believe different things, but in the end, we are all the same.
+
+---
+
+死亡其實就像出生一樣，是我們身體自然會經歷的階段，有一套固定的節奏和過程，並沒有想像中那麼可怕。
 
 ---
 
