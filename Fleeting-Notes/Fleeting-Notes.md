@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2026-01-21T05:41:33
+modified: 2026-01-22T07:24:10
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -8,6 +8,35 @@ Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and sel
 “When you are content to be simply yourself and don’t compare or compete, everybody will respect you.”
 
 Source: Paraphrased from the Tao Te Ching. The original translation reads closer to something like, “Because he doesn’t compare himself with others, no one can compare with him.”
+
+---
+
+https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/
+
+# 🐻 上半身
+
+* &nbsp;
+	- [ ] Pull-up
+	- [ ] Push-up to row with dumbbells (0/90 度)
+	- [ ] Row (dumbells/knee-supported/barbell)
+	- [ ] Inverted row (Smith machine/dig stand)
+	- [ ] Sand Bag - Swing to Press
+	- [ ] Sand Bag - Overboard Toss
+	- [ ] Sand Bag - Pick \& Press with sand bag
+	- [ ] Sand Bag - Reverse Lunge with Rotation
+	- [ ] Sand Bag - Rotational Swing
+	- [ ] Dips
+
+# 🐴 下半身
+
+* &nbsp;
+	- [ ] Bulgarian split squats (barbell/dumbbell/kettlebell)
+	- [ ] RDL (kettlebell/dumbbell)
+	- [ ] Barbell jump squat
+	- [ ] Goblet squat
+* With resistance band
+	* Standing side leg raise
+	* Side band walk
 
 ---
 
@@ -40,7 +69,3 @@ When the interviewer pressed him, asking whether there were players who don’t,
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
 
 <https://www.reddit.com/r/creativecoding/comments/kl2wla/the_gestalt_effect/>
-
----
-
-[Hanlon’s Razor](https://sketchplanations.com/hanlons-razor)
