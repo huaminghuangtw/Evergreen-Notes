@@ -1,7 +1,7 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
 created: 2024-11-18T09:18:12
-modified: 2026-01-20T10:28:06
+modified: 2026-01-22T13:52:42
 ---
 
 > _“Glory is fleeting, but obscurity is forever.” — Napoleon Bonaparte_
@@ -26,7 +26,7 @@ Humans are socially conditioned in nature — we are driven for external and soc
 
 1. **Autonomy**: being in control and able to guide both what we do and how we do it
 2. **Mastery**: our desire to continually be improving and learning and bettering ourselves
-3. **Purpose**: working towards something we think is worthwhile. Having a North Star to aim for and a reason it’s worth doing what we’re doing.
+3. **Purpose**: working towards something we think is worthwhile. Having a [North Star](why-we-exist.md) to aim for and a reason it’s worth doing what we’re doing.
 
 ---
 
