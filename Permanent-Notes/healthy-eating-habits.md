@@ -1,7 +1,7 @@
 ---
 title: Healthy Eating Habits
 created: 2024-11-18T09:16:50
-modified: 2026-01-12T16:19:12
+modified: 2026-01-22T07:21:31
 ---
 
 Eating Better
@@ -231,8 +231,6 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 * 優格
 * 醃黃瓜
 * 味噌
-
-希臘優格 (SKYR, ≠ 希臘式優格) 製作的過程中需要「過濾」和「濃縮」，增加製作成本，但營養價值高比希臘式優格高出許多
 
 魚子醬 (Caviar/Roe)
 
