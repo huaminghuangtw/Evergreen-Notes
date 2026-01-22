@@ -1,7 +1,7 @@
 ---
 title: Why we exist?
 created: 2024-11-18T09:18:12
-modified: 2025-12-25T09:26:20
+modified: 2026-01-22T16:34:09
 ---
 
 > _[“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)_
@@ -56,7 +56,7 @@ Both because of and in spite of his awareness of the meaninglessness of life, he
 
 > _“Happiness is the meaning and the purpose of life, the whole aim and end of human existence.” — Aristotle_
 
-> _“Purpose and desire can seem similar, but they are very different, sometimes even opposing forces. Desire is personal, narrow, and pointed, and tends toward self-preservation, self-gratification, and short-term gains and pleasures. Purpose is wider, broader, a longer-term vision encompassing the benefit of others—something outside of yourself you’re willing to fight for. There have been many times in my life where I was acting from a place of desire but I’d fully convinced myself that it was purpose. <mark>Desire is what you want; purpose is the flowering of what you are.</mark> Desire tends to weaken over time, whereas purpose strengthens the more you lean into it. Desire can be depleting because it’s insatiable; purpose is empowering—it’s a stronger engine. Purpose has a way of contextualizing life’s unavoidable sufferings and making them meaningful and worthwhile. As Viktor Frankl wrote, “In some ways suffering ceases to be suffering at the moment it finds a meaning, such as the meaning of a sacrifice.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+> _“Some goals are not meant to be reached, they give you a direction to strive towards.” — Bruce Lee_> _“Purpose and desire can seem similar, but they are very different, sometimes even opposing forces. Desire is personal, narrow, and pointed, and tends toward self-preservation, self-gratification, and short-term gains and pleasures. Purpose is wider, broader, a longer-term vision encompassing the benefit of others—something outside of yourself you’re willing to fight for. There have been many times in my life where I was acting from a place of desire but I’d fully convinced myself that it was purpose. <mark>Desire is what you want; purpose is the flowering of what you are.</mark> Desire tends to weaken over time, whereas purpose strengthens the more you lean into it. Desire can be depleting because it’s insatiable; purpose is empowering—it’s a stronger engine. Purpose has a way of contextualizing life’s unavoidable sufferings and making them meaningful and worthwhile. As Viktor Frankl wrote, “In some ways suffering ceases to be suffering at the moment it finds a meaning, such as the meaning of a sacrifice.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
 The purpose of life is a life of purpose.
 
@@ -74,7 +74,9 @@ The purpose of life is a life of purpose.
 
 ---
 
-[Missions are infinite. Goals are finite.](https://www.sahilbloom.com/newsletter/the-life-changing-power-of-missions)
+# [Missions are infinite. Goals are finite.](https://www.sahilbloom.com/newsletter/the-life-changing-power-of-missions)
+
+> _“Some goals are not meant to be reached, they give you a direction to strive towards.” — Bruce Lee_
 
 * You _never reach_ a Mission, you _live out_ a Mission.
 * Missions are life [journey](journey-over-destination.md), [with no specific ends](the-game-of-life.md).
