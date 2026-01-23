@@ -1,7 +1,7 @@
 ---
 title: Embrace the beauty of enoughness
 created: 2024-11-18T09:18:12
-modified: 2025-11-09T10:58:16
+modified: 2026-01-23T12:29:48
 ---
 
 > _「真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。」 — 沈芯菱_ [^1]
@@ -25,6 +25,8 @@ modified: 2025-11-09T10:58:16
 > _“Many people were increasingly of the opinion that they’d all made a big mistake in coming down from the trees in the first place. And some said that even the trees had been a bad move, and that no one should ever have left the oceans to begin with.” — The Hitchhiker’s Guide to the Galaxy by Douglas Adams_
 
 ---
+
+# Be content
 
 降低需求、[減少慾望](the-absence-of-desire-is-true-happiness.md)、知足常樂。
 
