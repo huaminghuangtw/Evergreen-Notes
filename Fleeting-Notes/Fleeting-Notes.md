@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2026-01-22T07:24:10
+modified: 2026-01-23T05:30:25
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -11,7 +11,7 @@ Source: Paraphrased from the Tao Te Ching. The original translation reads closer
 
 ---
 
-https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/
+<https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/>
 
 # 🐻 上半身
 
