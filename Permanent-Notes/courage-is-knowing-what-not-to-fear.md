@@ -1,7 +1,7 @@
 ---
 title: Courage is knowing what not to fear
 created: 2025-04-11T19:02:45
-modified: 2026-01-05T17:15:47
+modified: 2026-01-24T07:32:54
 ---
 
 > _[“Success is not final, failure is not fatal: it is the courage to continue that counts.” — Winston Churchill](https://www.youtube.com/watch?v=uuxMZL6ieWM)_
@@ -31,6 +31,8 @@ modified: 2026-01-05T17:15:47
 > _“Bravery does not mean the absence of fear. Bravery is learning to continue forward even when you’re terrified.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
 > _“Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day whispering, ‘I will try again tomorrow.’” — Mary Anne Radmacher_
+
+> _“When do I know I’m Spider-Man? You won’t. That’s all it is, Miles. A leap of faith.” — Peter Parker, [Spider-Man: Into the Spider-Verse](https://www.imdb.com/title/tt4633694/) (2018 film)_
 
 ---
 
