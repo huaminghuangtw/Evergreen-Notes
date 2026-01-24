@@ -1,7 +1,7 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
 created: 2024-11-18T09:18:12
-modified: 2026-01-22T13:52:42
+modified: 2026-01-24T16:28:28
 ---
 
 > _“Glory is fleeting, but obscurity is forever.” — Napoleon Bonaparte_
@@ -30,13 +30,13 @@ Humans are socially conditioned in nature — we are driven for external and soc
 
 ---
 
-**[Self-Determination Theory (SDT)](https://en.wikipedia.org/wiki/Self-determination_theory)** distinguishes between _intrinsic motivation_ and _extrinsic motivation_. SDT suggests that people have three basic psychological needs that drive motivation and well-being:
+**[Self-Determination Theory (SDT)](https://en.wikipedia.org/wiki/Self-determination_theory)** distinguishes between _intrinsic motivation_ and _extrinsic motivation_. SDT suggests that human thriving occurs when three basic psychological needs are met:
 
-1. **Autonomy** — The need to feel in control of one’s own actions and decisions.
-2. **Competence** — The need to feel capable and effective in one’s activities.
-3. **Relatedness** — The need to feel connected to others and have meaningful relationships.
+1. **Autonomy** — Feeling in control of one’s own actions and decisions.
+2. **Competence** — Feeling capable and effective in one’s activities.
+3. **Relatedness** — Feeling connected to others.
 
-The theory argues that when the three basic needs are satisfied, people are more likely to be intrinsically motivated.
+The theory argues that when the three basic needs are satisfied, people are more likely to be _intrinsically motivated_.
 
 ---
 
@@ -46,7 +46,7 @@ Your external reality is often a manifestation of your internal reality. Don’t
 
 Focus on the [Inner Scorecard](https://fs.blog/the-inner-scorecard), not the external/social approval/validation/affirmation/rewards (追求外在成就 [^1])
 
-[Compete](escape-competition-through-authenticity.md) externally and you [compare](comparison-is-the-thief-of-joy.md). Compete internally and you improve.
+> _“[Compete](escape-competition-through-authenticity.md) externally and you [compare](comparison-is-the-thief-of-joy.md). Compete internally and you improve.” — James Clear_
 
 * **Internal Competitiveness** means you want to get better than your past self. This makes you happy.
 * **External Competitiveness** means you want to beat other people. This makes you unhappy.
