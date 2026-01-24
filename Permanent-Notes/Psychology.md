@@ -1,7 +1,7 @@
 ---
 title: Psychology
 created: 2024-11-18T09:18:12
-modified: 2025-10-26T07:21:50
+modified: 2026-01-24T06:39:48
 ---
 
 * Egocentric Bias
@@ -21,7 +21,6 @@ modified: 2025-10-26T07:21:50
 		* Standing out is dangerous. It’s always going to be safer and more comfortable to blend in. But it’s only by taking this risk that you can accomplish truly remarkable things.
 		* Those from our class who were willing to look crazy for long periods of time had built unique and impactful things. They also seemed happier on average.
 * The Pyrrhic Victory
-* [The Cobra Effect](The%20Cobra%20Effect.md)
 * The Locksmith Paradox
 	* The locksmith is penalized for proficiency!
 	* Outcome over input time
@@ -40,7 +39,7 @@ modified: 2025-10-26T07:21:50
 	* When acquiring a new possession leads to a spiral of consumption that results in the acquisition of even more possessions. In other words, it means that buying something new can cause a chain reaction of buying more and more things because the new item makes one feel like one needs other things to go with it or to keep up with it.
 * [斯坦福棉花糖實驗 Stanford Marshmallow Experiment on Delayed Gratification](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment)
 * 「果醬實驗」(Jam Experiment)
-	* How Choice Overloads Makes Consumers Buy Less (due to [Decision Fatigue](decision-fatigue.md))
+	* How choice overloads makes consumers buy less (due to [Decision Fatigue](decision-fatigue.md))
 * Echo Chamber (同溫層效應 = 迴聲室效應 = 信息繭房)
 * 信使效應 on 壞消息 → shoot the messenger
 * 鴕鳥心態 (Ostrich Effect): 指一種人類因為不敢面對現實而逃避問題，以求得心理上安全感的懦弱行為
@@ -49,5 +48,3 @@ modified: 2025-10-26T07:21:50
 	* People tend to…
 		* avoid options that we consider to be ambiguous (i.e., a lack of information)
 		* select options for which the probability of a favorable outcome is _known_, over an option for which the probability of a favorable outcome is _unknown_.
-* [The Halo Effect](the-halo-effect.md)
-* [Stanford Prison Experiment](stanford-prison-experiment.md)
