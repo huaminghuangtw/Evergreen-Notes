@@ -1,7 +1,7 @@
 ---
 title: First-Principle Thinking
 created: 2024-11-18T09:18:12
-modified: 2025-12-04T06:35:37
+modified: 2026-01-24T13:46:42
 ---
 
 > _“There comes a point where we need to stop just pulling people out of the river. We need to go upstream and find out why they’re falling in.” — Desmond Tutu_
@@ -19,6 +19,10 @@ A first principle is a basic assumption that cannot be deduced any further by br
 ---
 
 Optimize the function. Ignore the form.
+
+---
+
+釜底抽薪
 
 ---
 
