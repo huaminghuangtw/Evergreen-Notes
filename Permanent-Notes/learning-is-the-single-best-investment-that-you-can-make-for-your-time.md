@@ -1,7 +1,11 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2026-01-10T16:22:16
+modified: 2026-01-24T16:28:56
+---
+
+> _“Learning never exhausts the mind.” — Leonardo da Vinci_
+
 ---
 
 Financial [Compounding](the-compounding-effect.md) → Intellectual Compounding
@@ -149,7 +153,7 @@ Always starting from the most basic and simplest level, then adding more complex
 
 > _“Talent is a pursued interest. Anything that you’re willing to practice, you can do.” — Bob Ross_
 
-> _“The separation of talent and skill is one of the greatest misunderstood concepts for people who are trying to excel, who have dreams, who want to do things. Talent you have naturally. Skill is only developed by hours and hours and hours of beating on your craft.” ― Will Smith_
+> _“The separation of talent and skill is one of the greatest misunderstood concepts for people who are trying to excel, who have dreams, who want to do things. Talent you have naturally. Skill is only developed by hours and hours and hours of beating on your craft.” — Will Smith_
 
 ---
 
@@ -163,12 +167,12 @@ Always starting from the most basic and simplest level, then adding more complex
 
 * Studying should be difficult—if you’re not worrying that you won’t be able to understand something you’re learning, it isn’t hard enough. [^2]
 * [Agitation (焦慮，躁動，緊張不安)](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%B9%81%E4%BD%93/agitation) is good, helping to release norepinephrine and adrenaline
-* [When you tackle a chunk of work, push for a result that is beyond — _but not too far beyond_ — what’s comfortable for your current skill level. Design this chunk to feature enough difficulty that you _quickly get stuck_. At this point, you should slow down, and advance deliberately, in a state of real _mental strain_. This **stretch** is important to: (a) extract the most out of your current abilities; and (b) ensure that your abilities continue to improve. Finding chunks that require stretch, but are not so hard that you get permanently blocked, is non-trivival (very important).](https://calnewport.com/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/)
+* [When you tackle a chunk of work, push for a result that is beyond — _but not too far beyond_ — what’s comfortable for your current skill level. Design this chunk to feature enough difficulty that you _quickly get stuck_. At this point, you should slow down, and advance deliberately, in a state of real _mental strain_. This **stretch** is important to: (a) extract the most out of your current abilities; and (b) ensure that your abilities continue to improve. Finding chunks that require stretch, but are not so hard that you get permanently blocked, is non-trivival (very important).](https://calnewport.com/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/)
 * See also: [Do hard things](do-hard-things.md)
 
 ---
 
-> _“Although listening is often more fun, reading improves comprehension and recall. Whereas listening promotes intuitive thinking, reading activates more analytical processing. It’s true in English and Chinese—people display better logical reasoning when the same trivia questions, riddles, and puzzles are written rather than spoken. With print, you naturally slow down at the start of a paragraph to process the core idea and use paragraph breaks and headers to chunk information.” ― Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
+> _“Although listening is often more fun, reading improves comprehension and recall. Whereas listening promotes intuitive thinking, reading activates more analytical processing. It’s true in English and Chinese—people display better logical reasoning when the same trivia questions, riddles, and puzzles are written rather than spoken. With print, you naturally slow down at the start of a paragraph to process the core idea and use paragraph breaks and headers to chunk information.” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
 
 [閱讀文字對於批判性思考和記憶更好，而聆聽則更適合沉浸式的體驗和情感的連結。因此，如果你想理解並記住資訊，最好用眼睛閱讀；另一方面，如果你想進入故事情節並與主角產生共鳴，可以用耳朵聆聽。](https://okapi.books.com.tw/article/18086)
 
