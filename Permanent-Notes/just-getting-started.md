@@ -1,7 +1,7 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2026-01-07T12:17:24
+modified: 2026-01-24T07:06:54
 ---
 
 > _“Start before you’re ready. Don’t prepare. Begin. Don’t think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
@@ -23,6 +23,8 @@ modified: 2026-01-07T12:17:24
 > _“It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.” — Seneca_
 
 > _“Do not merely think that you are going to become great; think that you are great now. Do not think that you will begin to act in a great way at some future time; begin now. Do not think that you will act in a great way when you reach a different environment; act in a great way where you are now. Do not think that you will begin to act in a great way when you begin to deal with great things; begin to deal in a great way with small things.” — Wallace Wattles, [The Science of Being Great](https://www.goodreads.com/work/quotes/1881171)_
+
+> _“It’s a job that’s never started that takes the longest to finish.” — J.R.R. Tolkien_
 
 ---
 
