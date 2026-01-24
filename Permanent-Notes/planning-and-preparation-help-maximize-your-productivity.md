@@ -1,7 +1,7 @@
 ---
 title: Planning and preparation help maximize your productivity
 created: 2024-12-12T16:22:20
-modified: 2025-12-18T16:39:20
+modified: 2026-01-24T16:30:45
 ---
 
 > _[“The antidote to impulsiveness is forethought.” — Nir Eyal](https://www.youtube.com/watch?v=VVez_sI1zTU)_
@@ -31,6 +31,10 @@ Failure to prepare means preparing to fail.
 ---
 
 Preparation converts [chance](luck.md) into results.
+
+---
+
+The ultimate form of preparation is not planning for a specific scenario, but [a mindset that can handle uncertainty](adaptability.md).
 
 ---
 
