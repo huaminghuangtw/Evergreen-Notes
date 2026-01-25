@@ -1,7 +1,7 @@
 ---
 title: A mistake repeated more than once is a decision
 created: 2025-03-10T05:58:19
-modified: 2026-01-23T06:38:02
+modified: 2026-01-25T16:14:18
 ---
 
 > _“A man who has committed a mistake and doesn’t correct it, is committing another mistake.” — Confucius_
@@ -18,12 +18,11 @@ modified: 2026-01-23T06:38:02
 
 > _[“It doesn’t matter if I don’t succeed in something, what matters is that I learn from my mistakes.” — Linda Evans](https://www.brainyquote.com/authors/linda-evans-quotes)_
 
-> _“Never make a permanent mistake to solve a temporary problem.” ― Damon Suede, [Bad Idea](https://www.goodreads.com/work/quotes/26163619)_
+> _“Never make a permanent mistake to solve a temporary problem.” — Damon Suede, [Bad Idea](https://www.goodreads.com/work/quotes/26163619)_
 
 > _“Learn from the mistakes of others. You can never live long enough to make them all yourself.” — Groucho Marx_ [^1]
 
 > _“More people would learn from their mistakes if they weren’t so busy denying them.” — Harold J. Smith_
-
 
 ---
 
