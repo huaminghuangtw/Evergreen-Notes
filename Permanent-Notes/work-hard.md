@@ -1,7 +1,7 @@
 ---
 title: Work hard
 created: 2024-11-18T09:16:50
-modified: 2025-12-16T10:21:07
+modified: 2026-01-25T16:14:18
 ---
 
 > _“Without ambition one starts nothing. Without work one finishes nothing. The prize will not be sent to you. You have to win it.” — Ralph Waldo Emerson_
@@ -12,7 +12,7 @@ modified: 2025-12-16T10:21:07
 
 > _“Hard work beats talent when talent doesn’t work hard.” — Tim Notke_
 
-> _“The only thing that I see that is distinctly different about me is I’m not afraid to die on a treadmill. I will not be out-worked, period. You might have more talent than me, you might be smarter than me, you might be sexier than me, you might be all of those things you got it on me in nine categories. <mark>But if we get on the treadmill together, there’s two things: You’re getting off first, or I’m going to die. It’s really that simple, right? “You’re not going to out-work me. It’s such a simple, basic concept.</mark> The guy who is willing to hustle the most is going to be the guy that just gets that loose ball. The majority of people who aren’t getting the places they want or aren’t achieving the things that they want in this business is strictly based on hustle. It’s strictly based on being out-worked; it’s strictly based on missing crucial opportunities. I say all the time if you stay ready, you ain’t gotta get ready.” ― Will Smith_
+> _“The only thing that I see that is distinctly different about me is I’m not afraid to die on a treadmill. I will not be out-worked, period. You might have more talent than me, you might be smarter than me, you might be sexier than me, you might be all of those things you got it on me in nine categories. <mark>But if we get on the treadmill together, there’s two things: You’re getting off first, or I’m going to die. It’s really that simple, right? “You’re not going to out-work me. It’s such a simple, basic concept.</mark> The guy who is willing to hustle the most is going to be the guy that just gets that loose ball. The majority of people who aren’t getting the places they want or aren’t achieving the things that they want in this business is strictly based on hustle. It’s strictly based on being out-worked; it’s strictly based on missing crucial opportunities. I say all the time if you stay ready, you ain’t gotta get ready.” — Will Smith_
 
 ---
 
