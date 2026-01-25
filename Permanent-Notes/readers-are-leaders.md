@@ -1,7 +1,7 @@
 ---
 title: Leaders are readers
 created: 2024-11-18T09:18:12
-modified: 2025-12-28T18:31:03
+modified: 2026-01-25T16:14:18
 ---
 
 > _“Man is what he reads.” — Joseph Brodsky_
@@ -26,7 +26,7 @@ modified: 2025-12-28T18:31:03
 * 「雜食」：It’s important to read unconventional books as well, not just New York Times Best Sellers.
 * 書中自有黃金屋
 
-	> _“There are so many people who have lived﻿ and died before you. You will never have a new problem; you’re not going to ever have a new problem. Somebody wrote the answer down in a book somewhere.” ― Will Smith_
+	> _“There are so many people who have lived﻿ and died before you. You will never have a new problem; you’re not going to ever have a new problem. Somebody wrote the answer down in a book somewhere.” — Will Smith_
 
 	> _[“What really knocks me out is a book that, when you’re all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn’t happen much, though.” — J.D. Salinger, The Catcher in the Rye]([https://www.goodreads.com/quotes/5169-what-really-knocks-me-out-is-a-book-that-when](https://www.goodreads.com/quotes/5169-what-really-knocks-me-out-is-a-book-that-when))_
 
@@ -64,7 +64,7 @@ modified: 2025-12-28T18:31:03
 	* Amazon Book Reviews
 	* [Goodreads](https://www.goodreads.com/)
 	* [LibraryThing](https://www.librarything.com/)
-* Realize that you don’t need to read a book from the first page to the last page. This is especially true for non-fiction, self-help books. I got way more value from reading once I started jumping around (跳/挑讀) and synthesizing connections between topics I’m interested in (<mark>主題式閱讀 Synoptical/Comparative Reading</mark>) versus going from cover to cover. [^3]
+* Realize that you don’t need to read a book from the first page to the last page. This is especially true for non-fiction, self-help books. I got way more value from reading once I started jumping around (跳/挑讀) and synthesizing connections between topics I’m interested in (<mark>主題式閱讀 Synoptical/Comparative Reading</mark>) versus going from cover to cover. [^3]
 	* If a book comes highly recommended or starts strong, read it cover to cover. Some chapters may drag, but you won’t know their value until you’ve made it through. Don’t skip the ending—many authors save their best ideas for the final pages.
 * Read the classics that stand the test of time. Do not read books in the same year that they are published.（時間是考驗一本書能否傳世不朽的試金石）
 	* Have a “The Reading Razor (Quality Filter for Books)” — 永遠都有讀不完的新書，所以要慎選 (After all, not all books are equal)
