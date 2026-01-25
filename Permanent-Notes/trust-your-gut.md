@@ -1,7 +1,7 @@
 ---
 title: Trust your gut
 created: 2025-01-01T16:32:50
-modified: 2025-12-15T12:15:52
+modified: 2026-01-25T16:14:18
 ---
 
 > _“Intuition is the whisper of the soul.” — Jidda Krishnamurti_
@@ -83,7 +83,7 @@ The most common interpretation of the story is that we should trust in our intui
 	2. Chest (Heart)
 	3. Gut
 * How?
-	* Look for a _YES_ signal in _ALL_ three areas; that is the only situation in which you should say _yes_. If they’re not all saying _yes_, then it’s a _no_.
+	* Look for a _YES_ signal in _ALL_ three areas; that is the only situation in which you should say _yes_. If they’re not all saying _yes_, then it’s a _no_.
 	* You get a tingling feeling on the back of your neck. This sensation may not come around that often, but when it does, you know it.
 
 ---
