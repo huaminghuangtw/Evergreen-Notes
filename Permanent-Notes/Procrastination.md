@@ -1,7 +1,7 @@
 ---
 title: Procrastination
 created: 2024-11-18T09:18:12
-modified: 2025-11-29T15:32:17
+modified: 2026-01-25T16:14:18
 ---
 
 > _“To begin, begin.” — William Wordsworth_
@@ -18,7 +18,7 @@ modified: 2025-11-29T15:32:17
 
 [@pressfieldWarArtBreak2003]
 
-> _“The most pernicious aspect of procrastination is that it can become a habit. We don’t just put off our lives today; we put them off till our deathbed. Never forget: This very moment, we can change our lives. There never was a moment, and never will be, when we are without the power to alter our destiny. This second we can turn the tables on Resistance. This second, we can sit down and do our work.” ― Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
+> _“The most pernicious aspect of procrastination is that it can become a habit. We don’t just put off our lives today; we put them off till our deathbed. Never forget: This very moment, we can change our lives. There never was a moment, and never will be, when we are without the power to alter our destiny. This second we can turn the tables on Resistance. This second, we can sit down and do our work.” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
 
 ---
 
@@ -101,7 +101,7 @@ Inspiration is perishable. Act IMMEDIATELY at the moment of inspiration. Follow 
 
 ---
 
-Solving the _problem of procrastination_ is solving the _problem of [getting started](just-getting-started.md) — getting started is the key factor for the other critical idea — _momentum_.
+Solving the _problem of procrastination_ is solving the _problem of [getting started](just-getting-started.md) — getting started is the key factor for the other critical idea — _momentum_.
 
 ---
 
@@ -125,7 +125,7 @@ You don’t find motivation to start; you need to start to find motivation. Moti
 
 > _If a person can’t get out of bed, something is making them exhausted. If a student isn’t writing papers, there’s some aspect of the assignment that they can’t do without help. If an employee misses deadlines constantly, something is making organization and deadline-meeting difficult. Even if a person is actively choosing to self-sabotage, there’s a reason for it — some fear they’re working through, some need not being met, a lack of self-esteem being expressed._
 
-[^1]: _“Excitement is the more practical synonym for happiness, and it is precisely what you should strive to chase. It is the cure-all.” \& “The question you should be asking isn’t, “What do I want?” or “What are my goals?” but “What would excite me?” \& “The opposite of love is indifference, and the opposite of happiness is boredom.” ― Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
+[^1]: _“Excitement is the more practical synonym for happiness, and it is precisely what you should strive to chase. It is the cure-all.” \& “The question you should be asking isn’t, “What do I want?” or “What are my goals?” but “What would excite me?” \& “The opposite of love is indifference, and the opposite of happiness is boredom.” — Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
 [^2]: When scared by the size of a task you’re going to do, always focus on making the **entry barrier (i.e., the very first step)** smaller.
 [^3]: Define the **Minimal Enjoyable Action (MEA).** Harness the power of **[Small Wins](always-start-small.md)**.
 [^4]: All human behaviors make sense with _enough_ information.
