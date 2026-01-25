@@ -1,7 +1,7 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2026-01-14T15:15:25
+modified: 2026-01-25T16:14:18
 ---
 
 > _“Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot_
@@ -158,7 +158,7 @@ Your present circumstances don’t determine where you can go; they merely deter
 
 > _“Always focus on the front windshield and not the rear view mirror.” — Colin Powell_
 
-* 我們的潛在心理都有一面「自我設限」的後視鏡，透過這面鏡子，我們會下意識地重複依賴並複製我們過去，誤以為過去的我們就是現在的我們。這導致我們一直被過去所侷限，而限制了我們現在真正的潛力 (We mistakenly believe that _who we were is who we are_, thus limiting our true potential in the present)
+* 我們的潛在心理都有一面「自我設限」的後視鏡，透過這面鏡子，我們會下意識地重複依賴並複製我們過去，誤以為過去的我們就是現在的我們。這導致我們一直被過去所侷限，而限制了我們現在真正的潛力 (We mistakenly believe that _who we were is who we are_, thus limiting our true potential in the present)
 * 例如，我們想創造更好的人生，卻不知道如何「用不同於過去的方式」去改變它，而不斷地把昨天的恐懼和擔憂帶到今天。最糟糕的是，當機會來臨時，我們立刻檢視後視鏡，用過去的經驗和能力來評估自己，認為「我以前從未做過這種事」、「我還不到那個水平」，所以「我做不到」。
 * Action: 「後照鏡思維」(以「過去」為起點) →「倒序推理思維」(以「未來」為起點)
 
