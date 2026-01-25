@@ -1,7 +1,7 @@
 ---
 title: Breathing Techniques
 created: 2025-10-08T05:07:10
-modified: 2025-11-23T15:23:15
+modified: 2026-01-25T16:14:19
 ---
 
 It’s this thing we do [20,000 times per day](#1), but we never really stop to consider how we’re actually doing it—or whether we could be doing it better.
@@ -64,7 +64,7 @@ So, a typical adult breathes roughly **23,000 times per day**.
 		* 1 short inhale to top up
 	* Long exhale through your mouth until you are lungs-empty (to offload the max amount of CO2)
 	* Repeat 2–3 cycles
-* The Cyclic Hyperventilation (to increase alertness and enhance focus)
+* The Cyclic Hyperventilation (to increase alertness and enhance focus)
 	* Take a deep inhale through the nose, immediately followed by a deep exhale (active or passive) through the mouth
 	* Repeat 25x, then fully exhale until lungs are empty and hold for 15-30 seconds
 
