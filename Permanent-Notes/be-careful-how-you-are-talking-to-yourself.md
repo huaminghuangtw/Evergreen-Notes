@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-25T16:14:19
 ---
 
 > _“Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes_
@@ -44,7 +44,7 @@ Never say, I’ll never…
 
 # [Distanced Self-Talk](https://www.google.com/search?q=distanced+self-talk)
 
-> _“Third-person self-talk is a way of being empathetic to ourselves.” ― Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)_
+> _“Third-person self-talk is a way of being empathetic to ourselves.” — Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)_
 
 ---
 
@@ -114,15 +114,15 @@ If you tell yourself you can’t, you won’t. If you tell yourself you must, yo
 
 Legendary UCLA basketball coach [John Wooden](https://www.google.com/search?q=John+Wooden) recommended the following nine promises that should be made by anyone seeking [happiness](happiness.md) and [success](what-success-means-to-me.md)…
 
-1. Promise yourself that you will talk health, happiness, and prosperity as often as possible.
+1. Promise yourself that you will talk health, happiness, and prosperity as often as possible.
 2. Promise yourself to make all your friends know there is something in them that is special and that you value.
 3. Promise yourself to think only of the best, to work only for the best, and to expect only the best in yourself and others.
 4. Promise yourself to be just as enthusiastic about the success of others as you are about your own.
 5. Promise yourself to wear a cheerful appearance at all times and give every person you meet a smile.
-6. Promise yourself to be so strong that nothing can disturb your peace of mind.
-7. Promise yourself to forget the mistakes of the past and press on to greater achievements in the future.
+6. Promise yourself to be so strong that nothing can disturb your peace of mind.
+7. Promise yourself to forget the mistakes of the past and press on to greater achievements in the future.
 8. Promise yourself to give so much time to improving yourself that you have no time to criticize others.
-9. Promise yourself to be too large for worry, too noble for anger, too strong for fear, and too happy to permit trouble to press on you.
+9. Promise yourself to be too large for worry, too noble for anger, too strong for fear, and too happy to permit trouble to press on you.
 
 – _John Wooden, [Wooden: A Lifetime of Observations and Reflections On and Off the Court](http://amzn.to/1UqKTJ7)_
 
@@ -163,7 +163,7 @@ And guess what? You’re still going to get there.
 
 ---
 
-Dr. Peter Attia (Author of Outlive) [shared a method on the Modern Wisdom podcast](https://www.youtube.com/shorts/YarAxbgfCNs) that he says completely fixed his negative self talk:
+Dr. Peter Attia (Author of Outlive) [shared a method on the Modern Wisdom podcast](https://www.youtube.com/shorts/YarAxbgfCNs) that he says completely fixed his negative self talk:
 
 1. Notice when you’re about to speak to yourself negatively.
 2. Rather than engaging with it, pull out your phone and record a voice memo of what you would say to a friend if they had just made the same mistake as you.
