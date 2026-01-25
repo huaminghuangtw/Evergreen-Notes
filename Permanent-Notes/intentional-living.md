@@ -1,7 +1,7 @@
 ---
 title: Intentional Living
 created: 2024-11-18T09:18:12
-modified: 2026-01-11T16:20:45
+modified: 2026-01-25T16:14:18
 ---
 
 > _[“Your goal in life is to be able to say on the day before you die that you have fully become yourself.” — Kevin Kelly](https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/)_
@@ -92,7 +92,7 @@ Don’t be a “Living Dead.” Don’t _die_ before you are _dead_.
 
 Run your mind in a debug mode instead of autopilot mode 24/7
 
-> _“So few people are really aware of their thoughts. Their minds run all over the place without their permission, and they go along for the ride unknowingly and without making a choice. […] If you are not in control of your thoughts then you are not in control of yourself. Without self-control, you have no real power, regardless of whatever else you accomplish. If you are not aware of the thoughts that you are thinking in each moment, then you are the rider with no reins, with no power over where you are going. You cannot control what you are not aware of. Awareness must come first.” ― Thomas M. Sterner, [The Practicing Mind: Bringing Discipline and Focus into Your Life](https://www.goodreads.com/work/quotes/326331)_
+> _“So few people are really aware of their thoughts. Their minds run all over the place without their permission, and they go along for the ride unknowingly and without making a choice. […] If you are not in control of your thoughts then you are not in control of yourself. Without self-control, you have no real power, regardless of whatever else you accomplish. If you are not aware of the thoughts that you are thinking in each moment, then you are the rider with no reins, with no power over where you are going. You cannot control what you are not aware of. Awareness must come first.” — Thomas M. Sterner, [The Practicing Mind: Bringing Discipline and Focus into Your Life](https://www.goodreads.com/work/quotes/326331)_
 
 * _“Watch every thought (, word, and act). Always ask, why am I having this thought (, word, and act)?” — Naval Ravikant_
 * 不要讓生活、工作、時間被「**預設值** 」決定
