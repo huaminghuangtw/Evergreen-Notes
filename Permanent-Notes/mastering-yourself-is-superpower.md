@@ -1,7 +1,7 @@
 ---
 title: Mastering yourself is superpower
 created: 2024-11-18T09:18:12
-modified: 2026-01-23T07:02:56
+modified: 2026-01-25T16:14:18
 ---
 
 > _“Knowing yourself is the beginning of all wisdom.” — Aristotle_
@@ -20,7 +20,7 @@ modified: 2026-01-23T07:02:56
 
 > _“In order to control myself I must first accept myself by going with and not against my nature.” — Bruce Lee_
 
-> _“For it is easy to criticize and break down the spirit of others, but to know yourself takes a lifetime.” ― Bruce Lee, [Striking Thoughts: Bruce Lee’s Wisdom for Daily Living](https://www.goodreads.com/work/quotes/251341)_
+> _“For it is easy to criticize and break down the spirit of others, but to know yourself takes a lifetime.” — Bruce Lee, [Striking Thoughts: Bruce Lee’s Wisdom for Daily Living](https://www.goodreads.com/work/quotes/251341)_
 
 > _“It is easy to crush an enemy outside oneself but impossible to defeat an enemy within.” — [@yoshikawaMusashi1995]_
 
@@ -46,7 +46,7 @@ modified: 2026-01-23T07:02:56
 
 ---
 
-> _“I wasn’t going to eat it, I was just going to taste it.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)_
+> _“I wasn’t going to eat it, I was just going to taste it.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)_
 
 「灌酒/茶」和「品酒/茶」的差別：後者多了「自覺」
 
