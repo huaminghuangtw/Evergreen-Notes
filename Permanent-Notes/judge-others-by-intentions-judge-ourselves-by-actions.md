@@ -1,7 +1,7 @@
 ---
 title: Judge others by intentions, judge ourselves by actions
 created: 2024-11-18T09:18:12
-modified: 2025-11-24T06:12:55
+modified: 2026-01-25T16:14:18
 ---
 
 > _“We judge ourselves by our intentions and others by their behavior.” — Stephen Covey_ [^1]
@@ -26,7 +26,7 @@ modified: 2025-11-24T06:12:55
 * Examples:
 	1. When you cut someone off in traffic, it’s because you were being absentminded or because you’re late to sing lullabies to your newborn, right? But when someone cuts YOU off, it’s because they’re a jerk.
 	2. A slow driver? Maybe they’re protecting a birthday cake in the back.
-	3. Your co-worker was late to an important meeting, you might be inclined to form a judgment of his/her character based on this one action alone (e.g., _he/she is late because he’s selfish_). It’s possible, however, that his/her behavior is due to several external, rather than internal, factors (e.g., _family emergency or traffic jam_), which caused him/her to run behind schedule.
+	3. Your co-worker was late to an important meeting, you might be inclined to form a judgment of his/her character based on this one action alone (e.g., _he/she is late because he’s selfish_). It’s possible, however, that his/her behavior is due to several external, rather than internal, factors (e.g., _family emergency or traffic jam_), which caused him/her to run behind schedule.
 * Remember: forming impressions / making judgments of a person’s character based on limited information can have long-lasting effects.
 * How to avoid it?
 	* Become more emotionally \& socially intelligent
