@@ -1,7 +1,7 @@
 ---
 title: How to live a life
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-25T16:14:18
 ---
 
 > _“As long as you live, keep learning how to live.” — Seneca_
@@ -32,9 +32,9 @@ modified: 2026-01-05T17:15:47
 
 > _[“Good friends, good books, and a sleepy conscience: this is the ideal life.” — Mark Twain](https://www.goodreads.com/quotes/360-good-friends-good-books-and-a-sleepy-conscience-this-is)_
 
-> _“Life is like school, with one key difference—in school you get the lesson, and then you take the test. But in life, you get the test, and it’s your job to take the lesson.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+> _“Life is like school, with one key difference—in school you get the lesson, and then you take the test. But in life, you get the test, and it’s your job to take the lesson.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
-> _「人生不是戰場，不必追求勝利，也沒有勝利可追求，更重要的其實是經歷。」 — 張曼娟_
+> _「人生不是戰場，不必追求勝利，也沒有勝利可追求，更重要的其實是經歷。」 — 張曼娟_
 
 > _“Decide what you would like your obituary to say, and live the life to deserve it.” — [Warren Buffet in his final letter to Berkshire Hathaway shareholders](https://www.berkshirehathaway.com/news/nov1025.pdf)
 
