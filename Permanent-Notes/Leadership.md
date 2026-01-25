@@ -1,7 +1,7 @@
 ---
 title: Leadership
 created: 2025-01-23T10:40:57
-modified: 2025-11-10T08:33:24
+modified: 2026-01-25T16:14:18
 ---
 
 > _“To lead people, walk beside them.” — Lao Tzu_
@@ -26,7 +26,7 @@ modified: 2025-11-10T08:33:24
 
 > _“Treat a man as he is and he will remain as he is. Treat a man as he can and should be and he will become as he can and should be.” ― Stephen R. Covey, The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change_
 
-> _“When we select leaders, we don’t usually pick the person with the strongest leadership skills. We frequently choose the person who talks the most. It’s called the babble effect. Research shows that groups promote the people who command the most airtime—regardless of their aptitude and expertise. We mistake confidence for competence, certainty for credibility, and quantity for quality. We get stuck following people who dominate the discussion instead of those who elevate it.” ― Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
+> _“When we select leaders, we don’t usually pick the person with the strongest leadership skills. We frequently choose the person who talks the most. It’s called the babble effect. Research shows that groups promote the people who command the most airtime—regardless of their aptitude and expertise. We mistake confidence for competence, certainty for credibility, and quantity for quality. We get stuck following people who dominate the discussion instead of those who elevate it.” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
 
 ---
 
