@@ -1,7 +1,7 @@
 ---
 title: You are the average of the five people you associate with most
 created: 2024-11-18T09:18:12
-modified: 2025-12-30T09:31:45
+modified: 2026-01-25T16:14:18
 ---
 
 > _“You are the average of the five people you spend the most time with.” — Jim Rohn_
@@ -20,7 +20,7 @@ modified: 2025-12-30T09:31:45
 
 ---
 
-aka The Five Chimps [^3] Theory
+aka The Five Chimps [^3] Theory
 
 ---
 
@@ -93,7 +93,7 @@ Find your “Front Row People.”
 
 ---
 
-You have to be very selective with whom you give your _time_, _energy_, and _attention_. Don’t fall for the “[Yes Man](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md)” trap. The more successful you become, the more people will want to massage your ego. Cherish the _truth tellers_ in your life.
+You have to be very selective with whom you give your _time_, _energy_, and _attention_. Don’t fall for the “[Yes Man](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md)” trap. The more successful you become, the more people will want to massage your ego. Cherish the _truth tellers_ in your life.
 
 * Most of us need fewer [friends](a-friend-to-all-is-a-friend-to-none.md) and more **_intellectual sparring partners_**. Friends are easy to come by. Intellectual sparring partners are harder to find. They will call you on your BS, question your assumptions, and push you to think deeply. [^4]
 
