@@ -1,7 +1,7 @@
 ---
 title: Stress & Anxiety
 created: 2024-11-18T09:18:12
-modified: 2025-12-12T10:24:54
+modified: 2026-01-25T16:14:18
 ---
 
 > _“Stress happens when the mind resists what is.” — Dan Millman_
@@ -46,7 +46,7 @@ TSST = Trier Social Stress Test
 
 MBSR = Mindfulness-Based Stress Reduction
 
-**Stress Inoculation Therapy (SIT，壓力免疫治療)**, also known as **Stress Inoculation Training (壓力免疫訓練)**, is a type of cognitive-behavioral therapy (CBT) that helps individuals develop skills to manage stress and anxiety.
+**Stress Inoculation Therapy (SIT，壓力免疫治療)**, also known as **Stress Inoculation Training (壓力免疫訓練)**, is a type of cognitive-behavioral therapy (CBT) that helps individuals develop skills to manage stress and anxiety.
 
 ---
 
