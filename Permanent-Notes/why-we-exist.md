@@ -1,7 +1,7 @@
 ---
 title: Why we exist?
 created: 2024-11-18T09:18:12
-modified: 2026-01-22T16:34:09
+modified: 2026-01-25T16:14:18
 ---
 
 > _[“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)_
@@ -22,7 +22,7 @@ modified: 2026-01-22T16:34:09
 
 > _“None of us are born as passive generic blobs waiting for the world to stamp its imprint on us. Instead we show up possessing already a highly refined and individuated soul. Another way of thinking of it is: We’re not born with unlimited choices. We can’t be anything we want to be. We come into this world with a specific, personal destiny. We have a job to do, a calling to enact, a self to become. We are who we are from the cradle, and we’re stuck with it. **Our job in this lifetime is not to shape ourselves into some ideal we imagine we ought to be, but to find out who we already are and become it.**” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
 
-> _“It’s more important to be good ancestors than dutiful descendants. Too many people spend their lives being custodians of the past instead of stewards of the future. We worry about making our parents proud when we should be focused on making our children proud. The responsibility of each generation is not to please our predecessors—it’s to improve conditions for our successors.” ― Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
+> _“It’s more important to be good ancestors than dutiful descendants. Too many people spend their lives being custodians of the past instead of stewards of the future. We worry about making our parents proud when we should be focused on making our children proud. The responsibility of each generation is not to please our predecessors—it’s to improve conditions for our successors.” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
 
 ---
 
@@ -56,7 +56,7 @@ Both because of and in spite of his awareness of the meaninglessness of life, he
 
 > _“Happiness is the meaning and the purpose of life, the whole aim and end of human existence.” — Aristotle_
 
-> _“Some goals are not meant to be reached, they give you a direction to strive towards.” — Bruce Lee_> _“Purpose and desire can seem similar, but they are very different, sometimes even opposing forces. Desire is personal, narrow, and pointed, and tends toward self-preservation, self-gratification, and short-term gains and pleasures. Purpose is wider, broader, a longer-term vision encompassing the benefit of others—something outside of yourself you’re willing to fight for. There have been many times in my life where I was acting from a place of desire but I’d fully convinced myself that it was purpose. <mark>Desire is what you want; purpose is the flowering of what you are.</mark> Desire tends to weaken over time, whereas purpose strengthens the more you lean into it. Desire can be depleting because it’s insatiable; purpose is empowering—it’s a stronger engine. Purpose has a way of contextualizing life’s unavoidable sufferings and making them meaningful and worthwhile. As Viktor Frankl wrote, “In some ways suffering ceases to be suffering at the moment it finds a meaning, such as the meaning of a sacrifice.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+> _“Some goals are not meant to be reached, they give you a direction to strive towards.” — Bruce Lee_> _“Purpose and desire can seem similar, but they are very different, sometimes even opposing forces. Desire is personal, narrow, and pointed, and tends toward self-preservation, self-gratification, and short-term gains and pleasures. Purpose is wider, broader, a longer-term vision encompassing the benefit of others—something outside of yourself you’re willing to fight for. There have been many times in my life where I was acting from a place of desire but I’d fully convinced myself that it was purpose. <mark>Desire is what you want; purpose is the flowering of what you are.</mark> Desire tends to weaken over time, whereas purpose strengthens the more you lean into it. Desire can be depleting because it’s insatiable; purpose is empowering—it’s a stronger engine. Purpose has a way of contextualizing life’s unavoidable sufferings and making them meaningful and worthwhile. As Viktor Frankl wrote, “In some ways suffering ceases to be suffering at the moment it finds a meaning, such as the meaning of a sacrifice.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
 The purpose of life is a life of purpose.
 
@@ -86,7 +86,7 @@ The purpose of life is a life of purpose.
 
 ---
 
-> _“If you’re not making someone else’s life better, then you’re wasting your time. Your life will become better by making other lives better.” ― Will Smith_
+> _“If you’re not making someone else’s life better, then you’re wasting your time. Your life will become better by making other lives better.” — Will Smith_
 
 [At the end of your life, God will only assess you based on how well you help other people be better people. Life is people.](https://youtu.be/tvos4nORf_Y?t=18m33s)
 
