@@ -1,12 +1,12 @@
 ---
 title: The Trap of Good Enough
 created: 2025-12-14T08:56:00
-modified: 2025-12-15T09:41:42
+modified: 2026-01-25T16:14:18
 ---
 
 > _“Nothing is so painful to the human mind as a great and sudden change.” — Mary Shelley, Frankenstein (科學怪人)_
 
-> _[“All human nature vigorously resists grace because grace changes us and the change is painful.” — Flannery O’Connor](https://www.goodreads.com/quotes/139057-all-human-nature-vigorously-resists-grace-because-grace-changes-us)_
+> _[“All human nature vigorously resists grace because grace changes us and the change is painful.” — Flannery O’Connor](https://www.goodreads.com/quotes/139057-all-human-nature-vigorously-resists-grace-because-grace-changes-us)_
 
 > _[“You never change your life until you step out of your comfort zone; change begins at the end of your comfort zone.” — Roy T. Bennett](https://www.goodreads.com/quotes/7733758-you-never-change-your-life-until-you-step-out-of)_
 
@@ -16,7 +16,7 @@ modified: 2025-12-15T09:41:42
 
 [@collinsGoodGreatWhy2001]_
 
-> _“Good is the enemy of great. Few people attain great lives, in large part because it is just so easy to settle for a good life.” — Jim Collins, [Good to Great](https://www.goodreads.com/work/quotes/1094028)_
+> _“Good is the enemy of great. Few people attain great lives, in large part because it is just so easy to settle for a good life.” — Jim Collins, [Good to Great](https://www.goodreads.com/work/quotes/1094028)_
 
 ---
 
