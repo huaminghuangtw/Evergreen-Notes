@@ -1,12 +1,12 @@
 ---
 title: Teaching is the most powerful form of learning
 created: 2025-12-06T04:41:26
-modified: 2025-12-06T05:48:24
+modified: 2026-01-25T16:14:18
 ---
 
 > _“The best teachers are those who show you where to look, but don’t tell you what to see.” — Alexandra K. Trenfor_
 
-> _“A good teacher protects his pupils from his own influence.” ― Bruce Lee_
+> _“A good teacher protects his pupils from his own influence.” — Bruce Lee_
 
 > _“Qui docet discit”_
 >
