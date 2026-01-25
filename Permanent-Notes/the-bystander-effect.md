@@ -1,7 +1,7 @@
 ---
 title: The Bystander Effect
 created: 2025-01-23T10:40:57
-modified: 2025-10-17T06:29:15
+modified: 2026-01-25T16:14:18
 ---
 
 = Bystander Apathy
@@ -11,7 +11,7 @@ modified: 2025-10-17T06:29:15
 
 Poem: _Everybody Somebody Anybody and Nobody_
 
-> This is a story about four people named _Everybody_, _Somebody_, _Anybody and Nobody_.
+> This is a story about four people named _Everybody_, _Somebody_, _Anybody and Nobody_.
 >
 > There was an important job to be done and Everybody was sure that Somebody would do it.
 >
