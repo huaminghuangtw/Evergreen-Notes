@@ -1,7 +1,7 @@
 ---
 title: Not caring lets us perform better
 created: 2024-11-18T09:18:12
-modified: 2025-12-25T15:17:01
+modified: 2026-01-25T16:14:18
 ---
 
 > _“If you aim at nothing, you will hit it every time.” — Zig Ziglar_
@@ -15,13 +15,13 @@ modified: 2025-12-25T15:17:01
 * <u>Self 1</u>: the explicit, thinking part that tries to catch the ball.
 * <u>Self 2</u>: the implicit, non-thinking part that actually catches the ball.
 
-The more Self 1 cares about achieving a goal, the more it interferes with the natural functioning of Self 2. _This is why, counterintuitively, the less you care about something, the more easily, effortlessly and effectively it can be achieved._
+The more Self 1 cares about achieving a goal, the more it interferes with the natural functioning of Self 2. _This is why, counterintuitively, the less you care about something, the more easily, effortlessly and effectively it can be achieved._
 
 ---
 
 # The difference between “not caring” and “not intending”
 
-* Caring is as described above, and comes with a sense of the outcome being important, that it (or we) would bad if the outcome weren’t achieved. There is a physical tension associated with it.
+* Caring is as described above, and comes with a sense of the outcome being important, that it (or we) would bad if the outcome weren’t achieved. There is a physical tension associated with it.
 * Intending is the [activation energy](why-is-it-so-hard-to-just-do-the-work.md) required to take a specific action. I can intend to catch the ball (or not) as it flies towards me, while not caring whether or not I actually catch it.
 
 In this frame, the ideal combination to minimize or remove self-interference is to have a strong and unambiguous intention while caring as little as possible. The worst combination for our performance is to have a weak and ambiguous intention while caring strongly about achieving a particular outcome.
@@ -40,8 +40,8 @@ In this frame, the ideal combination to minimize or remove self-interference is 
 
 ## Group 1
 
-* Suppose you are a student. Your parents want you to have good grade in exams. You also want to be a class topper. Hence, you do your studies with high devotion. Sometimes you become bored and start to play video games. After an hour, you feel that you have a lot of homework to be done. So, again you pick up your books. Whenever you start spending some hours other than studying, you feel you are wasting your time. You also feel you have to utilize every second you have to achieve your goal. You are **serious.**
-* Your best friend has the same goal as you have. He also wants to top the class. But he cannot devote every second in studies like you. Whenever he likes to play video games, he plays for hours. But after that, when his heart tells him to study, he does it with full concentration. Everything he does is in a heartfelt manner. He is very genuine with his inner feelings. He is **sincere.**
+* Suppose you are a student. Your parents want you to have good grade in exams. You also want to be a class topper. Hence, you do your studies with high devotion. Sometimes you become bored and start to play video games. After an hour, you feel that you have a lot of homework to be done. So, again you pick up your books. Whenever you start spending some hours other than studying, you feel you are wasting your time. You also feel you have to utilize every second you have to achieve your goal. You are **serious.**
+* Your best friend has the same goal as you have. He also wants to top the class. But he cannot devote every second in studies like you. Whenever he likes to play video games, he plays for hours. But after that, when his heart tells him to study, he does it with full concentration. Everything he does is in a heartfelt manner. He is very genuine with his inner feelings. He is **sincere.**
 
 ## Group 2
 
