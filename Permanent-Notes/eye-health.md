@@ -1,7 +1,7 @@
 ---
 title: Eye Health
 created: 2024-11-18T09:16:50
-modified: 2025-10-17T06:29:38
+modified: 2026-01-25T16:14:19
 ---
 
 [Visual Training Exercise](https://www.youtube.com/c/VisualExercises)
@@ -27,7 +27,7 @@ Every twenty minutes take a twenty-second break and focus on objects twenty feet
 
 “_This changes your focal distance from inches to many feet and requires blood flow to brain areas that are not related to constant attention_”, says Adam Gazalley in his book _The Distracted Mind_
 
-> Relax all your face muscles to relax (including the jaw muscles) while viewing things further out in the distance
+> Relax all your face muscles to relax (including the jaw muscles) while viewing things further out in the distance
 
 ---
 
