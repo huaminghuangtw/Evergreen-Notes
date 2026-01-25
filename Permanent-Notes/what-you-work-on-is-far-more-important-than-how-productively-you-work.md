@@ -1,12 +1,14 @@
 ---
 title: What you work on is far more important than how productively you work
 created: 2025-02-04T06:34:16
-modified: 2025-12-21T15:01:26
+modified: 2026-01-25T13:58:28
 ---
+
+> _“It is not enough that we do our best; sometimes we must do what is required.” — Winston Churchill_
 
 > _“If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster.” — Stephen R. Covey_
 
-> _“What you do is more important than how you do everything else, and doing something unimportant well does not make it important.” — Tim Ferriss_ [^1]
+> _“What you do is more important than how you do everything else, and doing something unimportant well does not make it important.” — Tim Ferriss_ [^1]
 
 > _[“The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work.” — Paul Graham](https://paulgraham.com/selfindulgence.html)_
 
