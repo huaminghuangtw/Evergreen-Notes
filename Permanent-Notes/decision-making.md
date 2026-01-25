@@ -1,7 +1,7 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2026-01-21T05:42:14
+modified: 2026-01-25T16:14:19
 ---
 
 > _“The decisions of our past are the architects of our present.” — Dan Brown_
@@ -45,7 +45,7 @@ modified: 2026-01-21T05:42:14
 > _“Don’t make a hundred decisions when one will do.” — [Jim Collins](https://www.jimcollins.com/index.html)_
 
 * 「哪一種決定是可以把水龍頭🚰關起來的? 」
-* [Style is consistent constraint. Having a style collapses hundreds of future decisions into one, and gives you focus. Style gives you leverage. Every time you reuse your style you save time. A durable style is a great investment. Collect constraints you enjoy.](https://stephango.com/style)
+* [Style is consistent constraint. Having a style collapses hundreds of future decisions into one, and gives you focus. Style gives you leverage. Every time you reuse your style you save time. A durable style is a great investment. Collect constraints you enjoy.](https://stephango.com/style)
 
 ---
 
@@ -107,7 +107,7 @@ When faced with any key decision, you effectively choose one of two potential ch
 
 # [The Munger Two Step](https://fs.blog/munger-two-step/)
 
-1. Understand the forces at play.
+1. Understand the forces at play.
 2. Understand the psychological factors, i.e., how your subconscious might be leading you astray.
 
 ---
