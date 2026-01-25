@@ -1,7 +1,7 @@
 ---
 title: Work in sprints, work with your biology
 created: 2024-11-18T09:18:12
-modified: 2025-12-24T06:09:13
+modified: 2026-01-25T16:14:18
 ---
 
 > _“If you want to operate at maximum [productivity](Productivity.md), efficiency, and creativity, you’re going to work on things that you’re excited about at the moment you’re excited about them and accept nothing less. It is better to [sit on your butt and do nothing](boredom-promotes-creativity.md) than it is to work on things that you are not excited about.” — Naval Ravikant_ [^1] [^2]
@@ -39,7 +39,7 @@ Why?
 
 # 在對的時間做對的事情
 
-> _“Focus on being productive instead of busy.” ― Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
+> _“Focus on being productive instead of busy.” — Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
 
 **Choose [the right task](two-types-of-work.md) at the right time / Put your time in the right places**
 
