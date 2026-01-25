@@ -1,10 +1,10 @@
 ---
 title: Idea Capture Inbox
 created: 2024-11-18T09:18:12
-modified: 2025-11-12T20:16:12
+modified: 2026-01-25T16:14:18
 ---
 
-> _Every composer knows the anguish and despair occasioned by forgetting ideas which one had no time to write down. ― Hector Berlioz_
+> _Every composer knows the anguish and despair occasioned by forgetting ideas which one had no time to write down. — Hector Berlioz_
 
 ---
 
@@ -15,7 +15,7 @@ modified: 2025-11-12T20:16:12
 # Rules
 
 * Write down ANYTHING that comes across your mind. Never miss writing down or document a good thought/task/note. Nothing is too big or too small. Nothing counts other than what you capture.
-* Always carry a **A7 tear-off notepad (pocket notebook)** and a **0.5mm mechanical pencil (soft 2B leads)** with me.
+* Always carry a **A7 tear-off notepad (pocket notebook)** and a **0.5mm mechanical pencil (soft 2B leads)** with me.
 
 ---
 
