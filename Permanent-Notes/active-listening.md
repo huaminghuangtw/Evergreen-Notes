@@ -1,7 +1,7 @@
 ---
 title: Active Listening
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-25T16:14:19
 ---
 
 > _“There is a difference between listening and waiting for your turn to speak.” — Simon Sinek_
@@ -57,7 +57,7 @@ A good listener is one who helps us OVERHEAR ourselves. [^2] When you truly list
 
 ---
 
-> _“The core skill of Understanding is the search for the underlying theme or possible cause that fuels the emotion. We’re not asking questions and listening to answers just to provide a sympathetic ear. <mark>As we listen, we’re looking for a meaning that goes deeper than the words being said.</mark>” ― Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)_
+> _“The core skill of Understanding is the search for the underlying theme or possible cause that fuels the emotion. We’re not asking questions and listening to answers just to provide a sympathetic ear. <mark>As we listen, we’re looking for a meaning that goes deeper than the words being said.</mark>” — Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)_
 
 > _“Understanding requires mastery of four ways of looking at things — as they were, as they are, as they might become, and as they ought to be.” — Dee Hock_
 
