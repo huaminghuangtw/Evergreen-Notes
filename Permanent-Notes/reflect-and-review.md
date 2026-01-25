@@ -1,7 +1,7 @@
 ---
 title: Reflect & Review
 created: 2024-11-18T09:18:12
-modified: 2025-11-26T16:42:16
+modified: 2026-01-25T16:14:18
 ---
 
 > _“Without reflection, we go blindly on our way, creating more unintended consequences, and failing to achieve anything useful.” — Margaret J. Wheatley_
@@ -22,7 +22,7 @@ but of **unlearning** [^2] old limits/beliefs (長大後).
 
 # [Would the idea of living your current life on repeat be horrifying or affirming?](https://www.sahilbloom.com/newsletter/museum-of-failure-eternal-recurrence-more)
 
-Friedrich Nietzsche once wrote on a thought experiment he referred to as _Eternal Recurrence_:
+Friedrich Nietzsche once wrote on a thought experiment he referred to as _Eternal Recurrence_:
 
 Imagine a universe in which you would live your current life over and over again, in perpetuity. You would live exactly the same way, down to the tiniest detail.
 
