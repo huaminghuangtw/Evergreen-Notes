@@ -1,13 +1,13 @@
 ---
 title: Psychology
 created: 2024-11-18T09:18:12
-modified: 2026-01-24T06:39:48
+modified: 2026-01-25T16:14:19
 ---
 
 * Egocentric Bias
 	* We convince ourselves of the accuracy of our own personal perspective—that we view ourselves as unimpeachable—and therefore struggle to acknowledge any perspectives or data that may alter our understanding of the world.
 	* Everything you look for and all that you perceive has a way of proving whatever you believe.
-* Asch Conformity Experiments
+* Asch Conformity Experiments
 	* 指鹿為馬的「從眾心理」
 * The Illusory Truth Effect
 	* The tendency to believe false information to be correct after repeated exposure
