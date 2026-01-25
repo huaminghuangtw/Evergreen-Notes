@@ -1,7 +1,7 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2025-12-28T18:44:10
+modified: 2026-01-25T16:14:18
 ---
 
 > _[“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)_
@@ -24,7 +24,7 @@ modified: 2025-12-28T18:44:10
 
 > _“Our greatest glory is not in never failing, but in rising up every time we [fail](failing-forward-turns-setbacks-into-stepping-stones.md).” — Ralph Waldo Emerson_
 
-> _“Making progress isn’t always about moving forward. Sometimes it’s about bouncing back. Progress is not only reflected in the peaks you reach-it’s also visible in the valleys you cross. Resilience is a form of growth.” ― Adam Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
+> _“Making progress isn’t always about moving forward. Sometimes it’s about bouncing back. Progress is not only reflected in the peaks you reach-it’s also visible in the valleys you cross. Resilience is a form of growth.” — Adam Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
 
 > _“Always seek out the seed of triumph in every adversity.” — Og Mandino_
 
