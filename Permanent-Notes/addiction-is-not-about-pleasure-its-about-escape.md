@@ -1,7 +1,7 @@
 ---
 title: Addiction is not about pleasure, it’s about escape
 created: 2025-10-16T05:07:41
-modified: 2025-10-19T17:23:33
+modified: 2026-01-25T16:14:19
 ---
 
 # The Rat Park Experiment
@@ -28,13 +28,13 @@ He created **“Rat Park”**—a large, stimulating environment filled with oth
 
 # [How I broke my phone addiction (after years of failing) | Colby Kultgen](https://colbykultgen.substack.com/p/how-i-broke-my-phone-addiction-after)
 
-> The average person spends **4 hours and 37 minutes per day** on their phone. That’s about **70 full days per year**.
-> If you’re 25 now, that adds up to nearly **ten years** of your life spent staring at your device by the time you turn 70.
+> The average person spends **4 hours and 37 minutes per day** on their phone. That’s about **70 full days per year**.
+> If you’re 25 now, that adds up to nearly **ten years** of your life spent staring at your device by the time you turn 70.
 
-> Phone addiction isn’t just a technology problem. It’s an _emotional regulation_ problem.
+> Phone addiction isn’t just a technology problem. It’s an _emotional regulation_ problem.
 
-> Most people don’t pick up their phones because they _want_ to scroll.
-> They pick them up to _avoid something_: boredom, loneliness, uncertainty, discomfort.
+> Most people don’t pick up their phones because they _want_ to scroll.
+> They pick them up to _avoid something_: boredom, loneliness, uncertainty, discomfort.
 > Your phone becomes a pacifier.
 
-> Your phone should feel like a **Swiss Army knife**, not a slot machine.
+> Your phone should feel like a **Swiss Army knife**, not a slot machine.
