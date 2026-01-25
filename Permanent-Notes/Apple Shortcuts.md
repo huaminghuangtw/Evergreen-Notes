@@ -1,7 +1,7 @@
 ---
 title: Apple Shortcuts
 created: 2024-11-18T10:16:50
-modified: 2025-12-27T16:30:53
+modified: 2026-01-25T16:14:19
 ---
 
 [比較]
@@ -35,28 +35,28 @@ Actions
 * “Open X-Callback URL” (= [URL_Schemes](URL_Schemes.md))
 * Allow you to go beyond “Open App” in Shortcuts
 * They are helpful in the Shortcuts app when the App itself doesn’t have any Shortcut Actions support available by default
-* **Tip:** If you’d like to run one shortcut from another shortcut, use the `Run Shortcut` action instead of a URL scheme. You should only run shortcuts with a URL if you’re integrating from another app outside of Shortcuts
+* **Tip:** If you’d like to run one shortcut from another shortcut, use the `Run Shortcut` action instead of a URL scheme. You should only run shortcuts with a URL if you’re integrating from another app outside of Shortcuts
 * [Run a shortcut using a URL scheme on iPhone or iPad](https://support.apple.com/en-gb/guide/shortcuts/apd624386f42/ios)
-	* Import Shortcut: `shortcuts://import-shortcut/?url=[url]&name=[name]`
+	* Import Shortcut: `shortcuts://import-shortcut/?url=[url]&name=[name]`
 		* Parameters:
 			* url: download url for a `.shortcut` file
 			* name (optional): name for shortcut, defaults to shortcut filename
-			* silent (optional): `true` to import without opening the shortcut, `false` by default to open and display the shortcut to the user
-		* Example: `shortcuts://import-shortcut/?name=Awesome%20Shortcut&url=https%3A%2F%2Fdownloadwebsite.com`
+			* silent (optional): `true` to import without opening the shortcut, `false` by default to open and display the shortcut to the user
+		* Example: `shortcuts://import-shortcut/?name=Awesome%20Shortcut&url=https%3A%2F%2Fdownloadwebsite.com`
 	* Open Shortcut:
-		* `shortcuts://` to launch app to last-used state
-		* `shortcuts://create-shortcut` to create a new shortcut
-		* `shortcuts://open-shortcut?name=[name]` to open the app to the shortcut of a given name
-	* Run Shortcut: `shortcuts://run-shortcut`
+		* `shortcuts://` to launch app to last-used state
+		* `shortcuts://create-shortcut` to create a new shortcut
+		* `shortcuts://open-shortcut?name=[name]` to open the app to the shortcut of a given name
+	* Run Shortcut: `shortcuts://run-shortcut`
 		* Query parameters:
 			* name: string name for shortcut
-			* input (optional): initial input into the shortcut, a text string or the word `clipboard` to use the contents of the clipboard
-		* Example: `shortcuts://run-shortcut/?name=Shortcut%20to%20Run`
+			* input (optional): initial input into the shortcut, a text string or the word `clipboard` to use the contents of the clipboard
+		* Example: `shortcuts://run-shortcut/?name=Shortcut%20to%20Run`
 	* `shortcuts://x-callback-url/run-shortcut?name=[name]&x-success=[your-application-url]`
 		* Callback URL work with 3 parameters:
-			* `x-success` — To handle Successful execution
-			* `x-cancel` — To handle interruptions in execution
-			* `x-error` — To handle errors in execution
+			* `x-success` — To handle Successful execution
+			* `x-cancel` — To handle interruptions in execution
+			* `x-error` — To handle errors in execution
 	* Open the Shortcuts Gallery
 		* `shortcuts://gallery`
 	* Search the Shortcuts Gallery
