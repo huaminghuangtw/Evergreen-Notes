@@ -1,7 +1,7 @@
 ---
 title: Variants of to-do list
 created: 2025-01-23T10:40:57
-modified: 2025-12-21T15:01:26
+modified: 2026-01-25T16:14:18
 ---
 
 **Could-Do List → Should-Do List → Must-Do list
@@ -60,7 +60,7 @@ modified: 2025-12-21T15:01:26
 [@collinsGoodGreatWhy2001]
 
 * “To-Don’t List” or “Anti To-Do List”
-* _**Via negativa**_ is essentially the study of what not to do
+* _**Via negativa**_ is essentially the study of what not to do
 
 ---
 
