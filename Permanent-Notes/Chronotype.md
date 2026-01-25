@@ -1,7 +1,7 @@
 ---
 title: Chronotype
 created: 2025-07-01T10:43:51
-modified: 2025-10-27T08:34:06
+modified: 2026-01-25T16:14:19
 ---
 
 # 🕰️ What is Chronotype?
@@ -21,7 +21,7 @@ These are based on Dr. Michael Breus’s book _The Power of When_:
 | 🐺 Wolf    | 13:00–21:00 (afternoon/evening) | Night owls; slow starters, peak later in the day.           |
 | 🐬 Dolphin | Unpredictable                   | Light sleepers, easily disturbed, irregular energy.         |
 
-Morning lark (雲雀；百靈鳥) ↔ Night owl (貓頭鷹)
+Morning lark (雲雀；百靈鳥) ↔ Night owl (貓頭鷹)
 
 # 🧭 Why Knowing Your Chronotype Helps
 
