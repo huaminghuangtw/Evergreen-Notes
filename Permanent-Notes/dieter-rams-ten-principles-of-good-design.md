@@ -1,7 +1,7 @@
 ---
 title: Dieter Rams’ Ten Principles of Good Design
 created: 2025-11-22T06:34:59
-modified: 2025-12-28T18:44:10
+modified: 2026-01-25T16:14:19
 ---
 
 proposed by [Dieter Rams](https://www.google.com/search?q=Dieter+Rams), a German industrial designer, best known for his work at **Braun**, the consumer electronics company, and for his philosophy of **“less, but better”** in design.
@@ -19,4 +19,4 @@ Goo design is…
 7. **Long-lasting** — Avoid trendy design; aim for durability in both function and style.
 8. **Thorough down to the last detail** — Every element should be carefully considered.
 9. **Environmentally friendly** — Minimize waste and consider sustainability.
-10. ⭐️ **As little design as possible** — Removing anything unnecessary. Back to purity, back to [simplicity](simple-is-beautiful.md).
+10. ⭐️ **As little design as possible** — Removing anything unnecessary. Back to purity, back to [simplicity](simple-is-beautiful.md).
