@@ -1,7 +1,7 @@
 ---
 title: The Yerkes-Dodson Law
 created: 2025-08-11T16:32:08
-modified: 2026-01-23T12:45:00
+modified: 2026-01-25T16:14:21
 ---
 
 [@yerkesRelationStrengthStimulus1908]
@@ -12,13 +12,16 @@ modified: 2026-01-23T12:45:00
 
 The relationship is often illustrated as an inverted U-shaped curve.
 
-
 ![](_attachments/013534095903519a321b81beb825cf1f.png)
 
 * At low levels of arousal, performance is suboptimal due to lack of motivation or alertness.
 * At moderate levels, performance peaks.
 * At high levels, excessive stress or anxiety impairs performance.
 
+---
+
+* Understimulated ➞ Boreout
+* Overstimulated ➞ [Burnout](Burnout.md)
 
 # Task Complexity
 
