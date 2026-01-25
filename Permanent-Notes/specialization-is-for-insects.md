@@ -1,7 +1,7 @@
 ---
 title: Specialization is for insects
 created: 2025-01-23T10:40:57
-modified: 2026-01-13T15:42:22
+modified: 2026-01-25T16:14:18
 ---
 
 > _“At some level, all humans are broad. We’re all multivariate/multifaceted, but we get summarized in pithy ways in our lives.” — Naval Ravikant_
@@ -48,7 +48,7 @@ Many people call themselves “generalists” as a way to avoid specializing, bu
 
 ---
 
-# Emilie Wapnick’s TED Talk [“Why some of us don’t have one true calling”](https://youtu.be/4sZdcB6bjI8)
+# Emilie Wapnick’s TED Talk [“Why some of us don’t have one true calling”](https://youtu.be/4sZdcB6bjI8)
 
 * [Multipotentiality/Multipotentialite](https://www.google.com/search?q=Multipotentiality) is someone with many interests and creative pursuits.
 * Three “superpowers” that multipotentialites have:
