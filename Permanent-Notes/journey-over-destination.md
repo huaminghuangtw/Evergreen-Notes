@@ -1,7 +1,7 @@
 ---
 title: Journey over destination
 created: 2024-11-18T09:18:12
-modified: 2026-01-24T16:14:23
+modified: 2026-01-25T16:14:18
 ---
 
 > _“To travel is to be alive, but to get somewhere is to be dead.” — Alan Watts_
@@ -18,11 +18,11 @@ modified: 2026-01-24T16:14:23
 
 > _[“The end of a melody is not its goal: but nonetheless, had the melody not reached its end it would not have reached its goal either. A parable.” — Friedrich Nietzsche](https://www.goodreads.com/quotes/7368-the-end-of-a-melody-is-not-its-goal-but)_
 
-> _“Progress is a natural result of staying focused on the process of doing anything. When you stay on purpose, focused in the present moment, the goal comes toward you with frictionless ease.” ― Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)_
+> _“Progress is a natural result of staying focused on the process of doing anything. When you stay on purpose, focused in the present moment, the goal comes toward you with frictionless ease.” — Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)_
 
-> _“When, instead, your goal is to focus on the process and stay in the present, then there are no mistakes and no judging. You are just learning and doing. You are executing the activity, observing the outcome, and adjusting yourself and your practice energy to produce the desired result. There are no bad emotions, because you are not judging anything.” ― Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)_
+> _“When, instead, your goal is to focus on the process and stay in the present, then there are no mistakes and no judging. You are just learning and doing. You are executing the activity, observing the outcome, and adjusting yourself and your practice energy to produce the desired result. There are no bad emotions, because you are not judging anything.” — Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)_
 
-> _“The great mistake is to anticipate the outcome of the engagement; you ought not to be thinking of whether it ends in victory or defeat. Let nature take its course, and your tools will strike at the right moment.” ― Bruce Lee_
+> _“The great mistake is to anticipate the outcome of the engagement; you ought not to be thinking of whether it ends in victory or defeat. Let nature take its course, and your tools will strike at the right moment.” — Bruce Lee_
 
 ---
 
