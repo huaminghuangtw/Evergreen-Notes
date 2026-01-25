@@ -1,10 +1,10 @@
 ---
 title: We don’t get a lot of things to really care about
 created: 2025-11-16T08:00:23
-modified: 2025-11-16T08:06:24
+modified: 2026-01-25T16:14:18
 ---
 
-In [this scene](https://www.youtube.com/watch?v=MDPeLlMR2D4) of the 2021 movie _[Pig](https://www.imdb.com/title/tt11003218/)_, the main character, Rob (played by Nicolas Cage), confronts Chef Field (Derek), who runs an upscale, modern restaurant.
+In [this scene](https://www.youtube.com/watch?v=MDPeLlMR2D4) of the 2021 movie _[Pig](https://www.imdb.com/title/tt11003218/)_, the main character, Rob (played by Nicolas Cage), confronts Chef Field (Derek), who runs an upscale, modern restaurant.
 
 * Rob enters the restaurant asking for his truffled pig [[00:01](http://www.youtube.com/watch?v=MDPeLlMR2D4&t=1)].
 * After some confusion, Chef Field recognizes Rob, noting he’s been “off the scene” for many years [[00:37](http://www.youtube.com/watch?v=MDPeLlMR2D4&t=37)]. The chef reveals he once worked for Rob as a prep cook but was fired for overcooking pasta [[01:04](http://www.youtube.com/watch?v=MDPeLlMR2D4&t=64)].
@@ -14,7 +14,7 @@ In [this scene](https://www.youtube.com/watch?v=MDPeLlMR2D4) of the 2021 movie 
 
 [04:05](https://www.youtube.com/watch?v=MDPeLlMR2D4&t=4m5s)
 
-> They’re not real; you get that, right? None of it is real. The critics aren’t real. The customers aren’t real. Because _this_ isn’t real. You aren’t real.
+> They’re not real; you get that, right? None of it is real. The critics aren’t real. The customers aren’t real. Because _this_ isn’t real. You aren’t real.
 >
 > Derek, why do you care about these people? They don’t care about you, none of them. They don’t even know you, because you haven’t shown them.
 >
