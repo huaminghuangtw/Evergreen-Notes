@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-25T16:14:19
 ---
 
 > _“To be is to do.” — Immanuel Kant_
@@ -12,7 +12,7 @@ modified: 2026-01-05T17:15:47
 
 > _“Strategy is a commodity, execution is an art.” — Peter Drucker_
 
-> _“You miss 100% of the shots you don’t take.” — [Michael Scott](https://www.google.com/search?q=Michael%20Scott)_
+> _“You miss 100% of the shots you don’t take.” — [Michael Scott](https://www.google.com/search?q=Michael%20Scott)_
 
 > _“Knowing is not enough, we must apply. Willing is not enough, we must do.” — Johann Wolfgang von Goethe_
 
@@ -173,7 +173,7 @@ There is no later, because later you’ll be [dead](death.md).
 > _“Wanting more information is often just a form of procrastination.” — Russ Roberts_
 
 * Information is abundant, action is hard. Execution is everything.
-* Ideas are easy. It’s the execution of ideas that really separates the sheep from the goats.
+* Ideas are easy. It’s the execution of ideas that really separates the sheep from the goats.
 * EXECUTION is more important than the tactic itself.
 * Solve the **“Knowledge”** problem first (by gathering information), then the **“Execution”** problem (by creating evidence pool).
 	* But be aware of **The Information-Action Gap** (= The time lag between receiving information and acting on that information)
