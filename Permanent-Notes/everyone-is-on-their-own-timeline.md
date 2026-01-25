@@ -1,7 +1,7 @@
 ---
 title: Everyone is on their own timeline
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-25T16:14:19
 ---
 
 > _“One’s own dharma performed imperfectly is better than another’s dharma well performed…It is better to strive in one’s own dharma than to succeed in the dharma of another.” — Bhagavad Gita_
@@ -24,7 +24,7 @@ Most of the timelines are [cultural or social norms](https://fs.blog/david-foste
 * X salary by age X
 * Forbes X Under X
 
-You need to destroy the idea that there’s an expectation to do things by a certain age.
+You need to destroy the idea that there’s an expectation to do things by a certain age.
 
 * A 4-year degree attained after 7 years is still a degree.
 * A graduation at the age of 50 is still a graduation.
@@ -43,7 +43,7 @@ No matter where you are in life _today_, you’re always one good decision away 
 
 It’s okay to be lost sometimes, but [never compare your timeline to other people’s, because it’s a pointless comparison](comparison-is-the-thief-of-joy.md). Don’t let anyone rush you with their timelines. Don’t get stuck in a life that isn’t yours. Don’t live a life that isn’t yours. [^1]
 
-[Life is neither a race, nor a competition.](escape-competition-through-authenticity.md) There are no rules to life. Not everything in life has to come together at the exact same time. There is no such thing as “too late” or “falling behind” when it comes to life. You might be [too scared](fear.md), but you are never too late.
+[Life is neither a race, nor a competition.](escape-competition-through-authenticity.md) There are no rules to life. Not everything in life has to come together at the exact same time. There is no such thing as “too late” or “falling behind” when it comes to life. You might be [too scared](fear.md), but you are never too late.
 
 Each planet has its own orbit agenda. We spin through life at our own pace—no two paths are exactly the same. [Everyone is on their own clock.](https://www.youtube.com/watch?v=vvJmGY0XK_0&ab_channel=SulimanAlsmairat)
 
