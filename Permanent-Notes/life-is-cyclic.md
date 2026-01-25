@@ -1,12 +1,12 @@
 ---
 title: Life is cyclic
 created: 2024-11-18T09:18:12
-modified: 2025-12-16T08:53:13
+modified: 2026-01-25T16:14:18
 ---
 
 > _“Life is like a wheel. Sooner or later, it always comes around to where you started again.” — Stephen King_
 
-> _“Nobody’s going to win all the time. On the highway of life you can’t always be in the fast lane.” ― Haruki Murakami, [What I Talk About When I Talk About Running](https://www.goodreads.com/work/quotes/2475030)_
+> _“Nobody’s going to win all the time. On the highway of life you can’t always be in the fast lane.” — Haruki Murakami, [What I Talk About When I Talk About Running](https://www.goodreads.com/work/quotes/2475030)_
 
 > _“Everything in life opens and closes, sheds and renews. We are no different.” — Mark Nepo_
 
@@ -26,7 +26,7 @@ modified: 2025-12-16T08:53:13
 
 ---
 
-沒有任何事是永恆的，一切都會過去、一切都是無常；無論是美好的事物或痛苦的經歷，人生一切的起起伏伏都會過去。
+沒有任何事是永恆的，凡事皆無常；人生的一切起起伏伏都會過去，無論是美好的事物或痛苦的經歷。
 
 ---
 
