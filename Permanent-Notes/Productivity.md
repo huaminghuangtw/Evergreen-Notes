@@ -1,10 +1,10 @@
 ---
 title: Productivity
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-25T16:14:19
 ---
 
-> _“Productivity is most important for things you don’t want to be doing. Most people want to increase productivity so they can spend less time on the task. But before you worry about being more productive, think about being more selective. Rather than focusing on increasing productivity, it may be worth asking, ‘What would I be delighted to spend time on, even if it went slowly?’ Direct your energy toward figuring out how to start what you want to do rather than thinking about how to shorten what you don’t want to do.” — James Clear_
+> _“Productivity is most important for things you don’t want to be doing. Most people want to increase productivity so they can spend less time on the task. But before you worry about being more productive, think about being more selective. Rather than focusing on increasing productivity, it may be worth asking, ‘What would I be delighted to spend time on, even if it went slowly?’ Direct your energy toward figuring out how to start what you want to do rather than thinking about how to shorten what you don’t want to do.” — James Clear_
 
 > _“Productivity isn’t really about getting more things done, it’s mostly about learning to [enjoy the journey](journey-over-destination.md) — because when we’re having fun with things we’re doing, then productivity takes care of itself.” — Ali Abdaal_
 
@@ -26,11 +26,11 @@ Productivity is not only a _measure of [efficiency](what-you-work-on-is-far-more
 
 Productivity
 
-= (_High-Quality Output_ / Time Spent) [^2] × Fun Factor
+= (_High-Quality Output_ / Time Spent) [^2] × Fun Factor
 
-= (_Time Spent × **Intensity** of [Focus](focus-is-about-saying-no.md)_ / Time Spent) × Fun Factor
+= (_Time Spent × **Intensity** of [Focus](focus-is-about-saying-no.md)_ / Time Spent) × Fun Factor
 
-= _**Intensity**_ of [Focus](focus-is-about-saying-no.md) × Fun Factor [^3]
+= _**Intensity**_ of [Focus](focus-is-about-saying-no.md) × Fun Factor [^3]
 
 ---
 
@@ -95,6 +95,6 @@ There are two synergistic approaches for increasing productivity that are invers
 [The Day of No Reason: When Logic Meets Joy](the-day-of-no-reason-when-logic-meets-joy.md)
 
 [^1]: Productivity can be redefined as minimizing waste in various aspects of life, such as time, energy, attention, ideas, and one’s potential. → [Lean Thinking](https://www.google.com/search?q=Lean+Thinking)
-[^2]: Increased productivity is creating more value in less time. It’s about getting the _right_ things done, not the _most_ things done. The goal isn’t to generate prolific _output_, but to generate prolific _output per unit input_. It’s about the leverage on your input.
+[^2]: Increased productivity is creating more value in less time. It’s about getting the _right_ things done, not the _most_ things done. The goal isn’t to generate prolific _output_, but to generate prolific _output per unit input_. It’s about the leverage on your input.
 [^3]: It’s not about the number of hours you put in. It’s about the _quality_ of those hours.
 [^4]: Productivity porn refers to the obsession with consuming content and strategies about productivity rather than actually being productive. It tricks you into feeling productive when in reality you didn’t actually do anything productive. By focusing on the appearance of being productive (e.g., perfect planners, aesthetic workspaces), individuals may neglect the actual work that drives results or moves the needle. Productivity porn creates an endless loop of preparation. This term highlights how people often spend time reading books, watching videos, or engaging with tools and systems about productivity instead of applying these methods in practice. The abundance of advice can overwhelm users, making it harder to choose and stick to a single approach, leading to frustration and decision fatigue.
