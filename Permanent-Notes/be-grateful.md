@@ -1,7 +1,7 @@
 ---
 title: Be Grateful
 created: 2025-12-11T06:45:36
-modified: 2025-12-29T19:44:19
+modified: 2026-01-25T16:14:19
 ---
 
 #Newsletter
@@ -14,7 +14,7 @@ modified: 2025-12-29T19:44:19
 
 ---
 
-Take 30 seconds to pause and be [thankful](https://jacksondahl.com/Posts/Grateful) for **[The Small Treasures / The Little Things](https://www.dear-data.com/week-39-a-week-of-beauty)** each day.
+Take 30 seconds to pause and be [thankful](https://jacksondahl.com/Posts/Grateful) for **[The Small Treasures / The Little Things](https://www.dear-data.com/week-39-a-week-of-beauty)** each day.
 
 * There are a lot of tiny beauties in life that are easy to miss if you’re moving too fast to appreciate them.
 * When we slow down and lean into gratitude for these moments, feelings, and people, we find new joy and happiness in our lives.
