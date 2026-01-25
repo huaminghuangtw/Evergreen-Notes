@@ -1,7 +1,7 @@
 ---
 title: Optimism
 created: 2025-01-23T10:40:57
-modified: 2025-12-29T14:45:00
+modified: 2026-01-25T16:14:18
 ---
 
 > _“Turn your face to the sun, as flowers know how to do.” — Ming-Dao Deng_
@@ -14,7 +14,7 @@ modified: 2025-12-29T14:45:00
 
 > _“[Cynacism](cynicism.md) is easy. Mimicry is easy. Optimistic contrarians are the rarest breed.” — Naval Ravikant_
 
-> _“We must remember that this is not a bad world but a good world in the process of becoming.” ― Wallace D. Wattles, [The Science of Being Great](https://www.goodreads.com/work/quotes/1881171)_
+> _“We must remember that this is not a bad world but a good world in the process of becoming.” — Wallace D. Wattles, [The Science of Being Great](https://www.goodreads.com/work/quotes/1881171)_
 
 ---
 
@@ -48,7 +48,7 @@ A positive mind finds a way it can be done; A negative mind looks for all the wa
 
 > In life, you can choose to be G(rouchy) or you can choose to be J(olly).
 
-> If you call out the biggest [complainers](never-ever-complain-about-anything.md) you know about their behavior, starting with yourself, we bet the most common retort will be some version of **standards**. _I pride myself on having good taste in food, so of course I have to complain about how nasty this Big Mac is instead of eating it and moving on with my life._
+> If you call out the biggest [complainers](never-ever-complain-about-anything.md) you know about their behavior, starting with yourself, we bet the most common retort will be some version of **standards**. _I pride myself on having good taste in food, so of course I have to complain about how nasty this Big Mac is instead of eating it and moving on with my life._
 
 > Choosing optimism and joy doesn’t mean you can’t have standards. All it means is that you don’t have to vocalize those standards all of the time.
 
