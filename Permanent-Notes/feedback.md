@@ -1,7 +1,7 @@
 ---
 title: Feedback
 created: 2024-11-18T09:18:12
-modified: 2025-12-17T13:42:40
+modified: 2026-01-25T16:14:19
 ---
 
 # On Giving Feedback
@@ -37,21 +37,21 @@ To give feedback, first make the other person feel you care about them.
 	3. **Positive end:** Finish with positive reinforcement or encouragement.
 * Example:
 
-> **You:** Hi, Mara. Do you have a second?
+> **You:** Hi, Mara. Do you have a second?
 >
-> **Mara:** Sure. What’s up?
+> **Mara:** Sure. What’s up?
 >
-> **You:** _First, I wanted to thank you for_ helping me with the Meelie Worm account [or whatever]. _I really appreciate_ you showing me how to handle that. _You’re really good_ at fixing the technical issues.
+> **You:** _First, I wanted to thank you for_ helping me with the Meelie Worm account [or whatever]. _I really appreciate_ you showing me how to handle that. _You’re really good_ at fixing the technical issues.
 >
-> **Mara:** No problem.
+> **Mara:** No problem.
 >
-> **You:** _Here’s the thing_. [^1] There is a lot of work coming down on everyone, and _I’m feeling_ [^2] a bit overwhelmed. _Normally, priorities are really clear to me_ ,[^3] but I’ve been having trouble recently figuring out which tasks are highest on the list. _Could you help me_ by pointing out the most important items when a handful need to be done? _I’m sure it’s just me, but I’d really appreciate it, and I think it would help._
+> **You:** _Here’s the thing_. [^1] There is a lot of work coming down on everyone, and _I’m feeling_ [^2] a bit overwhelmed. _Normally, priorities are really clear to me_ ,[^3] but I’ve been having trouble recently figuring out which tasks are highest on the list. _Could you help me_ by pointing out the most important items when a handful need to be done? _I’m sure it’s just me, but I’d really appreciate it, and I think it would help._
 >
-> **Mara:** Uhh … I’ll see what I can do.
+> **Mara:** Uhh … I’ll see what I can do.
 >
-> **You:** _That means a lot to me. Thanks. Before I forget_ ,[^4] last week’s presentation was excellent.
+> **You:** _That means a lot to me. Thanks. Before I forget_ ,[^4] last week’s presentation was excellent.
 >
-> **Mara:** Did you think so? Blah, blah, blah …
+> **Mara:** Did you think so? Blah, blah, blah …
 
 ---
 
@@ -87,7 +87,7 @@ When people hesitate to give you honest feedback, ask for a score from 0–10, i
 
 ---
 
-Don’t confuse DISAGREEMENT with DISRESPECT. Never confuse your [CRITICS](criticism.md) with your HATERS. Feedback can skyrocket your growth _if you don’t take it personally_.
+Don’t confuse DISAGREEMENT with DISRESPECT. Never confuse your [CRITICS](criticism.md) with your HATERS. Feedback can skyrocket your growth _if you don’t take it personally_.
 
 ---
 
