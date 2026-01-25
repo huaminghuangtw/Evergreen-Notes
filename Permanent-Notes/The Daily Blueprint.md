@@ -1,12 +1,12 @@
 ---
 title: The Daily Blueprint
 created: 2024-11-18T09:16:50
-modified: 2025-10-22T22:55:44
+modified: 2026-01-25T16:14:19
 ---
 
 <mark>My Daily Habits/Routines/Rituals</mark>
 
-> What do you do before enlightenment? _Chop wood, carry water_. What do you do after enlightenment? _Chop wood, carry water_.
+> What do you do before enlightenment? _Chop wood, carry water_. What do you do after enlightenment? _Chop wood, carry water_.
 
 # 🟨 Early Morning Routine
 
@@ -28,8 +28,8 @@ modified: 2025-10-22T22:55:44
 
 # 🟨 Midday Routine
 
-* 🚶‍♂️ Post-Lunch Walk
-* 😴 NSDR (Non-Sleep Deep Rest)
+* 🚶‍♂️ Post-Lunch Walk
+* 😴 NSDR (Non-Sleep Deep Rest)
 
 # 🟨 Shutdown Routine
 
@@ -56,7 +56,7 @@ modified: 2025-10-22T22:55:44
 * 🙃 Invert Off The Bed
 * 🥽 Wear A Sleep Mask
 * 👄 Mouth Taping
-* 👂 Ear Plug
+* 👂 Ear Plug
 * 🪖 The Military Sleep Method
 * 🫁 The 4-7-8 Breathing Technique
 * 🧠 Subconscious Mind Exercise — upon closing your eyes, give your mind an overnight task and don’t try to solve it then, e.g., “How might I make an extra $1k each month?”, and brainstorm on this question first thing in the morning before any input.
