@@ -1,7 +1,7 @@
 ---
 title: Have the courage to do the right things
 created: 2024-12-08T00:37:07
-modified: 2026-01-05T17:15:47
+modified: 2026-01-25T16:14:19
 ---
 
 > _“The opposite of love is not hate, it’s indifference. The opposite of art is not ugliness, it’s indifference. The opposite of faith is not heresy, it’s indifference. And the opposite of life is not death, it’s indifference.” — Elie Wiesel_
@@ -12,7 +12,7 @@ modified: 2026-01-05T17:15:47
 
 > _“Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.” — William Faulkner_
 
-> _“Being polite is withholding feedback to make someone feel good today. Being kind is being candid about how they can get better tomorrow” ― Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
+> _“Being polite is withholding feedback to make someone feel good today. Being kind is being candid about how they can get better tomorrow” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
 
 ---
 
