@@ -1,7 +1,7 @@
 ---
 title: Avoid telling people your goals
 created: 2024-11-18T09:18:12
-modified: 2026-01-06T15:24:11
+modified: 2026-01-25T16:14:19
 ---
 
 > _“If you start by promising what you don’t even have yet, you’ll lose your desire to work towards getting it.” — Paulo Coelho_
@@ -36,7 +36,7 @@ Telling someone who doubts you can activate your desire to prove them wrong—th
 
 ---
 
-[Early praise kills projects. Being told how great you are (or how great your work is) isn’t always helpful. Maybe it gives you some short-term motivation at first. In that moment, it can feel like you’ve already made it. It leads you to want to shorten the feedback loop as much as possible. Just so you can get that boost of dopamine a bit quicker than last time. And that is the key part of the problem.In the long run, it steers us away from the real work that actually deserves positive feedback; it leads us to lose motivation to actually reach the finish line. So, don’t announce anything until it’s done. A pat on the back after you’ve finished something worthwhile feels a lot better than getting a few cheap likes on social media.](https://chrishannah.me/early-praise-kills-projects/)
+[Early praise kills projects. Being told how great you are (or how great your work is) isn’t always helpful. Maybe it gives you some short-term motivation at first. In that moment, it can feel like you’ve already made it. It leads you to want to shorten the feedback loop as much as possible. Just so you can get that boost of dopamine a bit quicker than last time. And that is the key part of the problem.In the long run, it steers us away from the real work that actually deserves positive feedback; it leads us to lose motivation to actually reach the finish line. So, don’t announce anything until it’s done. A pat on the back after you’ve finished something worthwhile feels a lot better than getting a few cheap likes on social media.](https://chrishannah.me/early-praise-kills-projects/)
 
 ---
 
