@@ -1,12 +1,12 @@
 ---
 title: Lateral Thinking
 created: 2024-11-18T09:16:49
-modified: 2026-01-06T15:24:12
+modified: 2026-01-25T16:14:18
 ---
 
 > _“The young man knows the rules, but the old man knows the exceptions.” — Oliver Wendell Holmes, Sr._
 
-> _“The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.” ― George Bernard Shaw_
+> _“The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.” — George Bernard Shaw_
 
 ---
 
@@ -14,7 +14,7 @@ modified: 2026-01-06T15:24:12
 
 ---
 
-> _“Learn the rules like a pro, so you can break them like an artist.”_
+> _“Learn the rules like a pro, so you can break them like an artist.”_
 
 > _“I learned over the years that people don’t argue with rules. We’ve been taught our whole lives to follow the rules, but we’ve never thought of how to create rules for ourselves that we just follow when we’re at our worst. We all know no matter how bad our day is, we shouldn’t speed on the highway because it’s against the rules. What we don’t think about is how do we use rules to our advantage?” — Daniel Kahneman_
 
