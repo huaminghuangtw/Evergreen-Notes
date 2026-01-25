@@ -1,7 +1,7 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2026-01-18T05:50:12
+modified: 2026-01-25T16:14:18
 ---
 
 > _“Love is the absence of judgment.” — Dalai Lama_
@@ -14,7 +14,7 @@ modified: 2026-01-18T05:50:12
 
 > _“Love is taking a few steps backward maybe even more… to give way to the happiness of the person you love.” — Winnie-the-Pooh_
 
-> _“Some people care too much. I think it’s called love.” ― A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)_
+> _“Some people care too much. I think it’s called love.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)_
 
 > _Piglet: How do you spell love?_
 >
@@ -50,15 +50,15 @@ modified: 2026-01-18T05:50:12
 
 [@mansonSubtleArtNot2016]
 
-> _“Unhealthy love is based on two people trying to escape their problems through their emotions for each other—in other words, they’re using each other as an escape. Healthy love is based on two people acknowledging and addressing their own problems with each other’s support.” ― Mark Manson, [The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/work/quotes/48297245)_
+> _“Unhealthy love is based on two people trying to escape their problems through their emotions for each other—in other words, they’re using each other as an escape. Healthy love is based on two people acknowledging and addressing their own problems with each other’s support.” — Mark Manson, [The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/work/quotes/48297245)_
 
 > _[“He’s not perfect. You aren’t either, and the two of you will never be perfect. But if he can make you laugh at least once, causes you to think twice, and if he admits to being human and making mistakes, hold onto him and give him the most you can. He isn’t going to quote poetry, he’s not thinking about you every moment, but he will give you a part of him that he knows you could break. Don’t hurt him, don’t change him, and don’t expect for more than he can give. Don’t analyze. Smile when he makes you happy, yell when he makes you mad, and miss him when he’s not there. Love hard when there is love to be had. Because perfect guys don’t exist, but there’s always one guy that is perfect for you.” — Bob Marley](https://www.goodreads.com/quotes/361858-he-s-not-perfect-you-aren-t-either-and-the-two-of)_
 
 > _“Love doesn’t just sit there, like a stone, it has to be made, like bread; remade all the time, made new.” — Ursula K. Le Guin_
 
-> _“Love is hard. It takes enormous courage to open a wounded heart over and over again to the possibility of love’s bliss. Like Charlie Mack always says, “Scared money can’t make no money.” Love demands bravery, a willingness to risk it all.” But bravery does not mean the absence of fear. Bravery is learning to continue forward even when you’re terrified.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+> _“Love is hard. It takes enormous courage to open a wounded heart over and over again to the possibility of love’s bliss. Like Charlie Mack always says, “Scared money can’t make no money.” Love demands bravery, a willingness to risk it all.” But bravery does not mean the absence of fear. Bravery is learning to continue forward even when you’re terrified.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
-> _“The question is, can we love each other unconditionally, or is our love contingent upon the other person acting exactly as we need them to? It’s easy to “love” somebody when they do what you want them to do, exactly how you want them to do it. But how do you behave when they step outside of your picture? How do you treat them when they hurt you? Those are the times that determine whether or not you actually love somebody. Love is hard. It takes enormous courage to open a wounded heart over and over again to the possibility of love’s bliss.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+> _“The question is, can we love each other unconditionally, or is our love contingent upon the other person acting exactly as we need them to? It’s easy to “love” somebody when they do what you want them to do, exactly how you want them to do it. But how do you behave when they step outside of your picture? How do you treat them when they hurt you? Those are the times that determine whether or not you actually love somebody. Love is hard. It takes enormous courage to open a wounded heart over and over again to the possibility of love’s bliss.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
 > _[“Love is a smoke made with the fume of sighs.” — William Shakespeare](https://www.brainyquote.com/quotes/william_shakespeare_106569)_
 >
