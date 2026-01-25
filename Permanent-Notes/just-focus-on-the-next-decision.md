@@ -1,7 +1,7 @@
 ---
 title: Just focus on the next decision
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-25T16:14:18
 ---
 
 > _[“You are always just one good decision away from being in a better place tomorrow — just focus on the next decision.” — Sahil Bloom](https://www.sahilbloom.com/newsletter/information-action-gap-one-decision-away-more)_
@@ -36,7 +36,7 @@ Minimum Viable Action
 
 > _[“You don’t try to build a wall. You don’t start by saying, I’m going to build the biggest, baddest wall that’s ever been built. You say, I’m going to lay this brick as perfectly as a brick can be laid. You do that every single day, and soon you have a wall.” — Will Smith](https://www.youtube.com/watch?v=wIsgyIq_kFs&t=128s)_
 
-> _“No matter what you’re going through, there is always another brick sitting right there in front of you, waiting to be laid. The only question is, are you going to get up and lay it?” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+> _“No matter what you’re going through, there is always another brick sitting right there in front of you, waiting to be laid. The only question is, are you going to get up and lay it?” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
 Stop thinking about the damn wall!
 
