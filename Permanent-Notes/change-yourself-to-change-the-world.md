@@ -1,7 +1,7 @@
 ---
 title: Change yourself to change the world
 created: 2024-11-18T09:18:12
-modified: 2026-01-19T06:01:01
+modified: 2026-01-25T16:14:19
 ---
 
 > _“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi_
@@ -10,7 +10,7 @@ modified: 2026-01-19T06:01:01
 
 > _“Nothing helps; I must help myself, or I am finished.” — Friedrich Nietzsche_
 
-> _“You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You’re on your own. And you know what you know. And YOU are the one who’ll decide where to go.” ― Dr. Seuss, [Oh, the Places You’ll Go!](https://www.goodreads.com/work/quotes/2125304)_
+> _“You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You’re on your own. And you know what you know. And YOU are the one who’ll decide where to go.” — Dr. Seuss, [Oh, the Places You’ll Go!](https://www.goodreads.com/work/quotes/2125304)_
 
 > _“Be the change that you wish to see in the world.” — Mahatma Gandhi_
 
@@ -44,7 +44,6 @@ Before changing yourself, you need to [knowing yourself](mastering-yourself-is-s
 
 > _“Life isn’t about finding yourself. Life is about creating yourself.” — George Bernard Shaw_
 
-
 ---
 
 [@gogginsCantHurtMe2018]
@@ -58,7 +57,6 @@ Before changing yourself, you need to [knowing yourself](mastering-yourself-is-s
 [Your entire life will change the day you realize that everything is on you. No one is coming to save you. No one will fix your problems. No one can act on your behalf. No one will change your mindsets. No one will hand you the things you want in life. It’s the acceptance that you have to hunt if you want to eat. It’s all on you.](https://x.com/SahilBloom/status/1855607589578453496)
 
 Self-reliance is the ultimate source of strength. Self-help is the best help.
-
 
 [Never ever complain about anything](never-ever-complain-about-anything.md)
 
@@ -99,7 +97,7 @@ Your house is a metaphor for YOU. Unless you are perfect, 99% of the time the so
 
 ![](../_attachments/399f5eabbf33dfe8f8505b21847b81d5.png)
 
-* Based on these two circles, **reactive** people will think more about the **circle of concern** while **proactive** people focus more on the **circle of influence**.
+* Based on these two circles, **reactive** people will think more about the **circle of concern** while **proactive** people focus more on the **circle of influence**.
 * Your Circle of Concern (關注圈) is all the things you worry about and that influence you but that you have no control over: Federal Government, climate change, etc.
 * Your Circle of Influence (影響圈) is all the things you can control: your actions, your habits, your attitudes, your attention, etc.
 * **The more you focus on your Circle of Influence, the bigger your Circle of Influence will get, and the more you can accomplish to help fix things in your Circle of Concern.**
