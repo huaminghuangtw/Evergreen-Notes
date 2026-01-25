@@ -1,7 +1,7 @@
 ---
 title: Supplements
 created: 2024-11-18T09:16:50
-modified: 2025-10-27T08:29:42
+modified: 2026-01-25T16:14:18
 ---
 
 Effervescent Tablets (發泡錠)
@@ -44,7 +44,7 @@ Supplement to Microspike Dopamine
 * Don’t take them with hot drinks like coffee or tea, but with water or orange juice
 * Don’t double up if you miss a dose, just take it at the next scheduled time
 * Keep supplements in a cool, dry, and dark place
-* It’s okay to swallow supplements in forms of _**pills**, **tablets**_ and _**capsules**_ while fasting (i.e., on empty stomach), since they do not carry added sugar or calories and are unlikely to affect insulin levels. Therefore, you can safely take them during your fasting window without having to break your fasted state.
+* It’s okay to swallow supplements in forms of _**pills**, **tablets**_ and _**capsules**_ while fasting (i.e., on empty stomach), since they do not carry added sugar or calories and are unlikely to affect insulin levels. Therefore, you can safely take them during your fasting window without having to break your fasted state.
 * 魚油中包含的兩種脂肪酸 (2 types of omega-3 fats)
 	* EPA (Eicosapentaenoic Acid)
 	* DHA (Docosahexanoic Acid)
