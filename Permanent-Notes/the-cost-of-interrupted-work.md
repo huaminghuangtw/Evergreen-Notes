@@ -1,7 +1,7 @@
 ---
 title: The Cost of Interrupted Work
 created: 2025-11-17T14:00:18
-modified: 2025-12-15T17:46:25
+modified: 2026-01-25T16:14:18
 ---
 
 > _[“Productivity depends on being able to juggle a lot of little details in short term memory all at once. Any kind of interruption can cause these details to come crashing down. When you resume work, you can’t remember any of the details (like local variable names you were using, or where you were up to in implementing that search algorithm) and you have to keep looking these things up, which slows you down a lot until you get back up to speed.” — Joel Spolsky](https://www.joelonsoftware.com/2000/04/19/where-do-these-people-get-their-unoriginal-ideas/)_
@@ -44,9 +44,9 @@ by [Sune Carlson](https://en.wikipedia.org/wiki/Sune_Carlson)
 
 # Constant interruptions for software developers are caused by:
 
-* **Meeting overload:** When a single daily standup runs 45 minutes, 10% of your team’s workweek is gone — before factoring in all the other recurring meetings filling their calendars.
-* **Calendar fragmentation:** A developer with just 90 minutes of scattered meetings throughout the day can lose 4+ hours of potential deep work due to the mental context-switching required before and after each interruption.
-* **Ad-hoc communications:** Junior developers naturally reach out with a “quick” Slack message when they’re stuck, and suddenly your most experienced engineers are spending more time troubleshooting others’ problems than solving their own.
+* **Meeting overload:** When a single daily standup runs 45 minutes, 10% of your team’s workweek is gone — before factoring in all the other recurring meetings filling their calendars.
+* **Calendar fragmentation:** A developer with just 90 minutes of scattered meetings throughout the day can lose 4+ hours of potential deep work due to the mental context-switching required before and after each interruption.
+* **Ad-hoc communications:** Junior developers naturally reach out with a “quick” Slack message when they’re stuck, and suddenly your most experienced engineers are spending more time troubleshooting others’ problems than solving their own.
 
 ---
 
