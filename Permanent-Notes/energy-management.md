@@ -1,7 +1,7 @@
 ---
 title: Energy Management
 created: 2024-11-18T09:18:12
-modified: 2025-12-02T09:28:52
+modified: 2026-01-25T16:14:19
 ---
 
 > _“Energy is eternal delight.” — William Blake_
@@ -60,8 +60,8 @@ There’s no such thing as working too hard. There’s just being under rested. 
 
 # [“The Energy Investment Portfolio” by Ali Abdaal](https://aliabdaal.com/newsletter/the-energy-investment-portfolio/)
 
-* <u>Dream Investments</u>: Things that you want to do at some point, but probably not right now; can be as long as you like.
-* <u>Active Investments</u>: Things that you want to work on right now (e.g., this week); should be limited (~5) based on how much time and energy you’ve got to invest in them.
+* <u>Dream Investments</u>: Things that you want to do at some point, but probably not right now; can be as long as you like.
+* <u>Active Investments</u>: Things that you want to work on right now (e.g., this week); should be limited (~5) based on how much time and energy you’ve got to invest in them.
 
 ---
 
@@ -75,4 +75,4 @@ There’s no such thing as working too hard. There’s just being under rested. 
 
 當然，你無法如此精確地分配你的注意力，但這個公式至少提供了一種在有限資源下進行合理取捨的靈感。
 
-[^1]: [Studies show that our brain does not consume more blood sugar when working on difficult tasks. The brain is an organ, not a muscle. It does not burn extra calories but maintains a steady energy consumption with increased effort. Whether you’re solving calculus problems or watching cat videos, your brain burns roughly the same number of calories per waking minute.](https://www.scientificamerican.com/article/thinking-hard-calories/)
+[^1]: [Studies show that our brain does not consume more blood sugar when working on difficult tasks. The brain is an organ, not a muscle. It does not burn extra calories but maintains a steady energy consumption with increased effort. Whether you’re solving calculus problems or watching cat videos, your brain burns roughly the same number of calories per waking minute.](https://www.scientificamerican.com/article/thinking-hard-calories/)
