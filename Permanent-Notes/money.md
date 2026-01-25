@@ -1,7 +1,7 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2026-01-16T06:37:56
+modified: 2026-01-25T16:14:18
 ---
 
 > _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
@@ -60,7 +60,7 @@ Reasonable \> Rational
 			* Expectation is the greatest liability. You will never be rich (financially wealthy) if your expectations are growing faster than your asset because you are constantly wanting more.
 			* If your expectations grow faster than your income, you’ll never be satisfied with your money, no matter how much you accumulate.
 			* You manage financial expectations by keeping your lifestyle way below your means.
-			* Your [​Margin of Freedom​](https://www.sahilbloom.com/newsletter/the-trap-of-success-how-to-escape-it) is the buffer you intentionally create between your reality and your expectations.
+			* Your [​Margin of Freedom​](https://www.sahilbloom.com/newsletter/the-trap-of-success-how-to-escape-it) is the buffer you intentionally create between your reality and your expectations.
 			* The less you need, the richer you become — wealth is about flexibility, not luxury.
 			* [John D. Rockefeller was worth the equivalent of $400 billion, but he never had penicillin, sunscreen, or Advil. For most of his adult life he didn’t have electric lights, air conditioning, or sunglasses. **Everything about wealth is circumstances in the context of expectations.**](https://collabfund.com/blog/little-rules-about-big-things/)
 			* Manage Your Expectations: You can be financially poor, but psychologically rich.
@@ -126,7 +126,7 @@ Reasonable \> Rational
 
 # On Spending Money
 
-> _“Spend your money on the things money can buy. Spend your time on the things money can’t buy.” — Haruki Murakami_
+> _“Spend your money on the things money can buy. Spend your time on the things money can’t buy.” — Haruki Murakami_
 
 > _“Too many people spend money they haven’t earned (can’t afford), to buy things they don’t want (need), to impress people that they don’t like (care).” — Will Rogers_
 
