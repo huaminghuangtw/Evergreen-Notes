@@ -1,7 +1,7 @@
 ---
 title: The Beginner Mindset
 created: 2024-11-18T09:18:12
-modified: 2025-12-21T15:01:26
+modified: 2026-01-25T16:14:18
 ---
 
 > _“It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” — Mark Twain_
@@ -77,7 +77,7 @@ Naivety (= naiveness = naïveté)
 >
 > The master smiled and said, “Just like this cup, you are filled with your own thoughts. There’s no room for anything new. Come back when your cup is empty.”
 
-> _“Empty your cup so that it may be filled; become devoid to gain totality.” ― Bruce Lee_
+> _“Empty your cup so that it may be filled; become devoid to gain totality.” — Bruce Lee_
 
 ---
 
