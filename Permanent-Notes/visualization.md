@@ -1,10 +1,10 @@
 ---
 title: Visualization
 created: 2024-11-18T09:18:12
-modified: 2025-11-09T08:19:10
+modified: 2026-01-25T16:14:18
 ---
 
-> _“Everything you can imagine is real.” — Pablo Picasso_
+> _“Everything you can imagine is real.” — Pablo Picasso_
 
 ---
 
