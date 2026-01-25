@@ -1,7 +1,7 @@
 ---
 title: Kindness
 created: 2024-11-18T09:18:12
-modified: 2026-01-13T06:50:29
+modified: 2026-01-25T16:14:18
 ---
 
 > _“Kindness is a language which the deaf can hear and the blind can see.” — Mark Twain_
@@ -12,7 +12,7 @@ modified: 2026-01-13T06:50:29
 
 > _“Treat everyone with politeness and kindness, not because they are nice, but because you are.” — Roy T. Bennett, The Light in the Heart_
 >
-> _“Each planet has its own orbit agenda. Think of people close to you as planets. Sometimes it’s nice to just watch them orbit and shine.” ― Yoko Ono_
+> _“Each planet has its own orbit agenda. Think of people close to you as planets. Sometimes it’s nice to just watch them orbit and shine.” — Yoko Ono_
 
 > _“It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.” — Steve Maraboli_
 
