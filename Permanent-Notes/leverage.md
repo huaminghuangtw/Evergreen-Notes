@@ -1,7 +1,7 @@
 ---
 title: Leverage
 created: 2025-01-23T10:40:57
-modified: 2026-01-14T06:50:46
+modified: 2026-01-25T16:14:18
 ---
 
 > _“Give me a place to stand, and a lever long enough, and I will move the world.” — Archimedes_
@@ -38,7 +38,7 @@ Emphasize strengths. Don’t fix weaknesses.
 
 > _[It is far more lucrative and fun to leverage your strengths instead of attempting to fix all the chinks in your armor. The choice is between multiplication of results using strengths or incremental improvement fixing weaknesses that will, at best, become mediocre. Focus on better use of your best weapons instead of constant repair.](https://x.com/tferriss/status/1813970861742755865)_
 
-> _“The superheroes you have in your mind (idols, icons, titans, billionaires, etc.) are nearly all walking flaws who’ve maximized 1 or 2 strengths. Humans are imperfect creatures. You don’t “succeed” because you have no weaknesses; you succeed because you find your unique strengths and focus on developing habits around them.” ― Timothy Ferriss, [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers](https://www.goodreads.com/work/quotes/52480873)_
+> _“The superheroes you have in your mind (idols, icons, titans, billionaires, etc.) are nearly all walking flaws who’ve maximized 1 or 2 strengths. Humans are imperfect creatures. You don’t “succeed” because you have no weaknesses; you succeed because you find your unique strengths and focus on developing habits around them.” — Timothy Ferriss, [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers](https://www.goodreads.com/work/quotes/52480873)_
 
 The Circle of Competence by Warren Buffett (The Zone of Genius)
 
