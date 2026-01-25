@@ -1,7 +1,7 @@
 ---
 title: Embrace the beauty of enoughness
 created: 2024-11-18T09:18:12
-modified: 2026-01-23T12:29:48
+modified: 2026-01-25T16:14:19
 ---
 
 > _「真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。」 — 沈芯菱_ [^1]
@@ -10,7 +10,7 @@ modified: 2026-01-23T12:29:48
 
 > _“A Gold Medal is a wonderful thing. But if you are not enough without it, you will never be enough with it.” — Irv Blitzer (John Candy) from the movie [Cool Runnings](https://www.imdb.com/title/tt0106611/)_ [^2]
 
-> _“A full belly is of little worth where the mind is starved, and the heart.” ― Mark Twain_
+> _“A full belly is of little worth where the mind is starved, and the heart.” — Mark Twain_
 
 > _“Having enough is itself a form of wealth.” — Brunello Cucinelli_
 
@@ -18,7 +18,7 @@ modified: 2026-01-23T12:29:48
 
 > _“Never let the quest for more distract you from the beauty of enough.” — Sahil Bloom_
 
-> _“Contentment is natural wealth, luxury is artificial poverty.” ― Socrates_
+> _“Contentment is natural wealth, luxury is artificial poverty.” — Socrates_
 
 > _“Those who are not satisfied with a little, are satisfied with nothing.” — Epicurus_
 
