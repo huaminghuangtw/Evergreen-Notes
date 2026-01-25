@@ -1,14 +1,14 @@
 ---
 title: Theory of Constraints
 created: 2025-12-16T13:51:30
-modified: 2025-12-16T16:48:30
+modified: 2026-01-25T16:14:18
 ---
 
-> _“The capacity of the plant is equal to the capacity of its bottlenecks.” ― Eliyahu M. Goldratt, [The Goal: A Process of Ongoing Improvement](https://www.goodreads.com/work/quotes/462428)_
+> _“The capacity of the plant is equal to the capacity of its bottlenecks.” — Eliyahu M. Goldratt, [The Goal: A Process of Ongoing Improvement](https://www.goodreads.com/work/quotes/462428)_
 >
 > 工廠的產能等於瓶頸的產能。
 
-> _“Since the strength of the chain is determined by the weakest link, then the first step to improve an organization must be to identify the weakest link.” ― Eliyahu M. Goldratt, [The Goal: A Process of Ongoing Improvement](https://www.goodreads.com/work/quotes/462428)_
+> _“Since the strength of the chain is determined by the weakest link, then the first step to improve an organization must be to identify the weakest link.” — Eliyahu M. Goldratt, [The Goal: A Process of Ongoing Improvement](https://www.goodreads.com/work/quotes/462428)_
 
 ---
 
