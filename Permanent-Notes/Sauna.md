@@ -1,7 +1,7 @@
 ---
 title: Sauna
 created: 2024-11-18T09:18:12
-modified: 2025-12-28T18:44:10
+modified: 2026-01-25T16:14:18
 ---
 
 #TODO
@@ -13,12 +13,12 @@ modified: 2025-12-28T18:44:10
 * 🛀 Heat-Cold Contrast Therapy (**The Kneipp Therapy**)
 	* Sauna Session 15-20 mins + Ice Baths/Cold Shower/Cold Plunge 5 mins) ONCE a week
 		* 加入浴鹽 (Epsom Salt) [^1] + 茶樹精油 (Tea Tree Oil) [^2]
-		* Prefer traditional sauna instead of infrared sauna, due to the heat range they can reach
+		* Prefer traditional sauna instead of infrared sauna, due to the heat range they can reach
 			* According to Andrew Huberman, the optimal temperature for sauna therapy is 80-87 degree Celsius
 	* Do 2-3 rounds of 冷熱交替的三溫暖 (hot → quick cold shower \& warm foot bath → cooldown)
 		* Hot: 5-20 mins
 		* Take a quick cold shower \& warm foot bath (+ drink a glass of water) between sauna sessions
-		* Cooldown: 10-15 mins (in fresh air, sit still)
+		* Cooldown: 10-15 mins (in fresh air, sit still)
 * Before the sauna
 	* Shower and DRY OFF COMPLETELY, because dry skin sweats/perspires faster than moist
 	* Eat LIGHT snack
