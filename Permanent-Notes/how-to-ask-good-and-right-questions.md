@@ -1,7 +1,7 @@
 ---
 title: How to ask good and right questions
 created: 2024-11-18T09:18:12
-modified: 2025-09-28T14:51:35
+modified: 2026-01-25T16:14:18
 ---
 
 > _[“One who knows all the answers has not been asked all the questions.” — Confucius](https://www.goodreads.com/quotes/26930-he-who-knows-all-the-answers-has-not-been-asked)_
@@ -32,12 +32,12 @@ General questions are usually hard to answer. Instead, ask open, engaging, and f
 
 ---
 
-> _“A wise man can learn more from a foolish question than a fool can learn from a wise answer.”  — Bruce Lee_
+> _“A wise man can learn more from a foolish question than a fool can learn from a wise answer.”  — Bruce Lee_
 
 The beginner chases the right answer. The master chases the right questions.
 
 * The stupidity of people comes from having an answer for everything. The wisdom of the novel comes from having a question for everything.
-* The reason the wise man can learn from even the most foolish question is that he [never assigns that label in the first place.](dispel-your-narratives.md)
+* The reason the wise man can learn from even the most foolish question is that he [never assigns that label in the first place.](dispel-your-narratives.md)
 
 ---
 
