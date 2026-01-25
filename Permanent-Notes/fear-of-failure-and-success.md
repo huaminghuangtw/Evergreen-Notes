@@ -1,7 +1,7 @@
 ---
 title: Fear of Failure and Success
 created: 2024-12-14T08:25:33
-modified: 2026-01-15T14:38:27
+modified: 2026-01-25T16:14:19
 ---
 
 > _“In order to succeed, your desire for success should be greater than your fear of failure.” — Bill Cosby_
@@ -41,12 +41,12 @@ The fear is in the judgment. The fear is in the embarrassment. The fear is in th
 
 ---
 
-> _“We fear our highest possibilities. We are generally afraid to become that which we can glimpse in our most perfect moments, under the most perfect conditions, under conditions of great courage. We enjoy and even thrill to the godlike possibilities we see in ourselves in such peak moments. And yet we simultaneously shiver with weakness, awe, and fear before these very same possibilities. So often, we run away from the responsibilities dictated, or rather suggested by nature, by fate, even sometimes by accident, just as [Jonah](https://www.biblegateway.com/passage/?search=Jonah%201-3&version=NIV) tried in vain to run away from his fate.” — Abraham H. Maslow, [The Farther Reaches of Human Nature](https://www.goodreads.com/work/quotes/486580)_
+> _“We fear our highest possibilities. We are generally afraid to become that which we can glimpse in our most perfect moments, under the most perfect conditions, under conditions of great courage. We enjoy and even thrill to the godlike possibilities we see in ourselves in such peak moments. And yet we simultaneously shiver with weakness, awe, and fear before these very same possibilities. So often, we run away from the responsibilities dictated, or rather suggested by nature, by fate, even sometimes by accident, just as [Jonah](https://www.biblegateway.com/passage/?search=Jonah%201-3&version=NIV) tried in vain to run away from his fate.” — Abraham H. Maslow, [The Farther Reaches of Human Nature](https://www.goodreads.com/work/quotes/486580)_
 
 > _“Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness that most frightens us. We ask ourselves, ‘Who am I to be brilliant, gorgeous, talented, fabulous?’ Actually, who are you not to be? You are a child of God. Your playing small does not serve the world. There is nothing enlightened about shrinking so that other people won’t feel insecure around you. We are all meant to shine, as children do. We were born to make manifest the glory of God that is within us. It’s not just in some of us; it’s in everyone. And as we let our own light shine, we unconsciously give other people permission to do the same. As we are liberated from our own fear, our presence automatically liberates others.” — Marianne Williamson, [A Return to Love: Reflections on the Principles of “A Course in Miracles”](https://www.goodreads.com/quotes/928-our-deepest-fear-is-not-that-we-are-inadequate-our)_ [^1]
 
 > _“Owning our story and loving ourselves through that process is the bravest thing that we’ll ever do.” — Brené Brown_
 
-> _“We fear discovering that we are more than we think we are. More than our parents/children/teachers think we are. We fear that we actually possess the talent that our still, small voice tells us. That we actually have the guts, the perseverance, the capacity. We fear that we truly can steer our ship, plant our flag, reach our Promised Land. We fear this because, if it’s true, then we become estranged from all we know. We pass through a membrane. We become monsters and monstrous.” ― Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
+> _“We fear discovering that we are more than we think we are. More than our parents/children/teachers think we are. We fear that we actually possess the talent that our still, small voice tells us. That we actually have the guts, the perseverance, the capacity. We fear that we truly can steer our ship, plant our flag, reach our Promised Land. We fear this because, if it’s true, then we become estranged from all we know. We pass through a membrane. We become monsters and monstrous.” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
 
 [^1]: <https://youtu.be/2_fDhqRk_Ro>
