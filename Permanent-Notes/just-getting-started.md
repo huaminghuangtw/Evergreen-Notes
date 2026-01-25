@@ -1,10 +1,10 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2026-01-24T07:06:54
+modified: 2026-01-25T16:14:18
 ---
 
-> _“Start before you’re ready. Don’t prepare. Begin. Don’t think. Act.” ― Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
+> _“Start before you’re ready. Don’t prepare. Begin. Don’t think. Act.” — Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
 
 > _“Start where you are. Use what you have. Do what you can.” — Arthur Ashe_
 
@@ -108,7 +108,7 @@ See also: [The Goal-Gradient Effect](https://sketchplanations.com/goal-gradient-
 
 > _“The secret to getting ahead is getting started.” — Mark Twain_
 
-> _“The heaviest weight at the gym is the front door.” — Ed Latimore_ [^1]
+> _“The heaviest weight at the gym is the front door.” — Ed Latimore_ [^1]
 
 > _“Well begun is half done.” — Horace_
 
