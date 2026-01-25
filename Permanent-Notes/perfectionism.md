@@ -1,7 +1,7 @@
 ---
 title: Perfectionism
 created: 2024-11-18T09:18:12
-modified: 2025-11-27T06:31:47
+modified: 2026-01-25T16:14:18
 ---
 
 > _“You don’t have to be great to start, but you have to start to be great.” — Zig Ziglar_
@@ -10,7 +10,7 @@ modified: 2025-11-27T06:31:47
 
 [@ferriss4hourWorkweekEscape2011]
 
-> _“Conditions are never perfect. ‘Someday”’ is a disease that will take your dreams to the grave with you. Pro and con lists are just as bad. If it’s important to you and you want to do it ‘eventually,’ just do it and correct course along the way.” ― Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
+> _“Conditions are never perfect. ‘Someday”’ is a disease that will take your dreams to the grave with you. Pro and con lists are just as bad. If it’s important to you and you want to do it ‘eventually,’ just do it and correct course along the way.” — Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
 
 > _“Don’t let perfection become procrastination. Do it now.” — Danielle LaPorte_
 
