@@ -1,7 +1,7 @@
 ---
 title: Visual Perceptual Exercise by Andrew Huberman
 created: 2024-11-18T09:18:12
-modified: 2025-12-06T07:40:05
+modified: 2026-01-25T16:14:18
 ---
 
 = Space-Time Bridging (時空橋樑) = Shift between different time domains [^1]
@@ -29,7 +29,7 @@ By focusing on a specific spot, you activate brain circuitry that releases neuro
 # Other Tools
 
 * Overt Visual Focus
-	* Physically focus your visual attention on a **specific point** (or “**spotlight**”) will help maintain focus during bouts of goal work.
+	* Physically focus your visual attention on a **specific point** (or “**spotlight**”) will help maintain focus during bouts of goal work.
 * Covert Visual Focus
 	* Focus your eyes on one location, such as a pen, but direct your focus elsewhere in the room or location that you’re in.
 
