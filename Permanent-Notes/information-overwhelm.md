@@ -1,14 +1,14 @@
 ---
 title: Information Overwhelm
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-25T16:14:18
 ---
 
-> _“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” ― T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654)_ [^1]
+> _“Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” — T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654)_ [^1]
 
 > _Knowledge is cumulative. Intelligence is selective. It’s a matter of efficiency versus effectiveness._
 
-> _“The Chinese philosopher Lao Tzu advised, “To attain knowledge add things every day. To attain wisdom [subtract](addition-by-subtraction.md) things every day.” ― Leidy Klotz, [Subtract: The Untapped Science of Less](https://www.goodreads.com/work/quotes/79888731)_
+> _“The Chinese philosopher Lao Tzu advised, “To attain knowledge add things every day. To attain wisdom [subtract](addition-by-subtraction.md) things every day.” — Leidy Klotz, [Subtract: The Untapped Science of Less](https://www.goodreads.com/work/quotes/79888731)_
 
 ---
 
@@ -69,7 +69,7 @@ modified: 2026-01-05T17:15:47
 			* [Brain Attic](brain-attic.md)
 		* Read fewer forecasts and more history. Study history to predict the future.
 
-			> _“History never repeats itself. Man always does.” ― Voltaire_
+			> _“History never repeats itself. Man always does.” — Voltaire_
 
 			> _“Learn enough from history to respect one another’s delusions.” — Will Durant_
 
