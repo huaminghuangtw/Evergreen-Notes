@@ -1,10 +1,10 @@
 ---
 title: Emotion Control
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-25T16:14:19
 ---
 
-> _“Emotional sickness is avoiding reality at any cost. Emotional health is facing reality at any cost.” — [M. Scott Peck](https://quotefancy.com/m-scott-peck-quotes)_
+> _“Emotional sickness is avoiding reality at any cost. Emotional health is facing reality at any cost.” — [M. Scott Peck](https://quotefancy.com/m-scott-peck-quotes)_
 
 > _[“Emotions can override any level of intelligence.” — Morgan Housel](https://collabfund.com/blog/little-rules-about-big-things/)_
 
@@ -94,7 +94,7 @@ The thing that prevents you from seeing what’s actually happening are your emo
 
 > _“Talk sense to a fool and he calls you foolish.” — Euripides_
 
-> _“Never argue with a fool, because from a distance, people can’t tell who’s who.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+> _“Never argue with a fool, because from a distance, people can’t tell who’s who.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
 > _“I’m at the stage in life where I stay out of arguments. Even if you say 1+1=5, you’re right. Have fun.” — Keanu Reeves_
 
