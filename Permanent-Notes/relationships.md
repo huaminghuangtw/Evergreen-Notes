@@ -1,7 +1,7 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2025-12-21T14:54:54
+modified: 2026-01-25T16:14:18
 ---
 
 > _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
@@ -26,7 +26,7 @@ Time doesn’t heal anything when it comes to relationships.
 
 1. **Criticism**: framing problems as the partner’s defect
 2. **Defensiveness**: counterattacking, whining, being the innocent victim
-3. **Contempt**: talking down from a position of superiority, insults, eye-rolling, name-calling — the most dangerous of all
+3. **Contempt**: talking down from a position of superiority, insults, eye-rolling, name-calling — the most dangerous of all
 4. **Stonewalling**: withdrawing from the conflict, refusing to engage [^1]
 
 ---
