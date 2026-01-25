@@ -1,7 +1,7 @@
 ---
 title: The Compounding Effect
 created: 2024-11-18T09:18:12
-modified: 2026-01-14T16:31:04
+modified: 2026-01-25T16:14:18
 ---
 
 > _“Compounding is the 8th wonder of the world.” — Albert Einstein_
@@ -115,7 +115,7 @@ The gradual acceptance of negative change, because it happens in such small incr
 
 ## The Boiling Frog Syndrome (溫水煮青蛙)
 
-> Premise: If a frog is suddenly put into a pot of boiling water, it will instinctively jump out to avoid being killed and save itself from impending death. But if a frog is placed in warm water that is slowly brought to a boil, it may not notice the creeping, subtle change in temperature until it is too late.
+> Premise: If a frog is suddenly put into a pot of boiling water, it will instinctively jump out to avoid being killed and save itself from impending death. But if a frog is placed in warm water that is slowly brought to a boil, it may not notice the creeping, subtle change in temperature until it is too late.
 
 > Life Analogy: The most dangerous habits, behaviors, and beliefs are the ones you slip into slowly, day after day, without ever realizing the damage they are doing to your life. We think that catastrophic outcomes can be avoided by simply avoiding significant mistakes, when in reality, catastrophic outcomes are often simply the macro result of thousands of micro mistakes. Minimizing stupidity will get you far in life.
 
