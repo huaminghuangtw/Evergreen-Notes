@@ -1,7 +1,7 @@
 ---
 title: Death
 created: 2024-11-18T09:18:12
-modified: 2026-01-21T15:45:55
+modified: 2026-01-25T16:14:19
 ---
 
 > _“The free man thinks of death, least of all things.” — Benedict Spinoza_
@@ -18,7 +18,7 @@ modified: 2026-01-21T15:45:55
 
 > _[“Almost everything…just fall[s] away in the face of death, leaving only what is truly important…Remembering that you are going to die is the best way I know to avoid the trap of thinking: you have something to lose. You are already naked. There is no reason not to follow your heart.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=587)_
 
-> _[“Death is the destination we all share, no one has ever escaped it. And that is as it should be because death is very likely the single best invention of life.” ― Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=723)_
+> _[“Death is the destination we all share, no one has ever escaped it. And that is as it should be because death is very likely the single best invention of life.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=723)_
 
 > _[“It is not death that a man should fear, but he should fear never beginning to live.” — Marcus Aurelius, Meditations](https://www.goodreads.com/quotes/44693-it-is-not-death-that-a-man-should-fear-but)_
 
@@ -68,7 +68,7 @@ Death is the ultimate equalizer. We may look different, live in different places
 
 # 最大化快樂/體驗，[最小化後悔/遺憾](https://www.youtube.com/watch?v=jwG_qR6XmDQ) [^1]
 
-> _“We don’t beat the reaper by living longer, but by living well, and living fully — for the reaper will come for all of us. The question is: what do we do between the time we’re born and the time he shows up. Because when he shows up, it’s too late to do all the things that you always wanted to get around to. It is not the things we do in life that we regret on our deathbed. It is the things we do not.” — Randy Pausch_
+> _“We don’t beat the reaper by living longer, but by living well, and living fully — for the reaper will come for all of us. The question is: what do we do between the time we’re born and the time he shows up. Because when he shows up, it’s too late to do all the things that you always wanted to get around to. It is not the things we do in life that we regret on our deathbed. It is the things we do not.” — Randy Pausch_
 
 * Don’t be on your deathbed someday, having squandered your one chance at life, full of regret because you pursued little distractions instead of big dreams.
 * [“The Dash” by Linda Ellis](https://100.best-poems.net/dash.html)
@@ -78,7 +78,7 @@ Death is the ultimate equalizer. We may look different, live in different places
 # The Reverse Obituary Technique
 
 * Write down what you want your obituary/eulogy/gravestone to say, then figure out how to live up to it.
-* Use this exercise to identify your true priorities in life, and then create an action plan to go after them.
+* Use this exercise to identify your true priorities in life, and then create an action plan to go after them.
 
 ---
 
@@ -96,7 +96,7 @@ Memento Homo is a Latin phrase that translates to “remember that you are just 
 
 </div>
 
-**What people most often regret before they die (Deathbed Regret):** [^2]
+**What people most often regret before they die (Deathbed Regret):** [^2]
 
 1. I wish I had the courage to live a life true to myself, not trying to a people pleaser and lived the life others expected of me.
 2. I wish I didn’t work so hard. [^3]
@@ -120,10 +120,10 @@ Remarks: Through history, people have gone back into their own pasts, sometime t
 
 # [The Green Box Exercise](https://twitter.com/girdley/status/1705556382152642957)
 
-* Personal things (letters to family, your will, mementos)
-* Life admin (passwords, insurance details, medical information)
-* Business (org charts, list of trusted advisors)
-* Asset (finance statements, property titles)
+* Personal things (letters to family, your will, mementos)
+* Life admin (passwords, insurance details, medical information)
+* Business (org charts, list of trusted advisors)
+* Asset (finance statements, property titles)
 * Final to-do lists
 
 ---
