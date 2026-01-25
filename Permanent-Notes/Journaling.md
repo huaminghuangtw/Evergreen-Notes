@@ -1,7 +1,7 @@
 ---
 title: Journaling
 created: 2024-11-18T09:18:12
-modified: 2025-12-11T06:52:40
+modified: 2026-01-25T16:14:18
 ---
 
 > _“Create an environment where you’re free to express what you’re afraid to express.” — Rick Rubin_
@@ -93,7 +93,7 @@ E.g., feelings, emotions, thoughts, memories, special moments/occasions/events
 			* During your day, [journal every time you transition from one work project to another](https://plaintext-productivity.net/2-09-work-journal.html). Write a few sentences in your journal about _what you just did_, and then a few more sentences about what _you’re about to do_.
 			* The times between work projects (i.e., when you take breaks) are the interstitial moments when you should write in a journal.
 			* This approach provides a touchstone to track your progress throughout the day. It offers a sense of security, helping you avoid the misleading/false feeling of “never enough” and allowing you to internalize how much you’ve accomplished.
-		* You can also flip it:[^3] Write short, simple notes on the goals before you put any effort into it. This helps you _plan_, _strategize_, and _[think ahead (forward thinking)](https://plaintext-productivity.net/2-09-work-journal.html)_. It gives you focus and a clear view of the big picture. It also encourages you to add _perspective_ to daily activities and tasks that a to-do list can’t do.
+		* You can also flip it:[^3] Write short, simple notes on the goals before you put any effort into it. This helps you _plan_, _strategize_, and _[think ahead (forward thinking)](https://plaintext-productivity.net/2-09-work-journal.html)_. It gives you focus and a clear view of the big picture. It also encourages you to add _perspective_ to daily activities and tasks that a to-do list can’t do.
 		* You can also flip it: Write quick, simple notes about your big goals before you start your day. This helps you plan, think ahead, and stay focused. It gives you a clear view of what matters, something a to-do list can’t do.
 * Atomic/Incremental Journaling
 	* Jog down keywords anytime and anywhere throughout the day, rather than sit down to write in complete sentences at a specific time each day.
