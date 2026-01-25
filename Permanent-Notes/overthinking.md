@@ -1,7 +1,7 @@
 ---
 title: Overthinking
 created: 2025-01-23T10:40:57
-modified: 2026-01-18T17:54:04
+modified: 2026-01-25T16:14:18
 ---
 
 > _“Imagination and fiction make up more than three quarters of our real life.” — Simone Weil_
@@ -14,7 +14,7 @@ modified: 2026-01-18T17:54:04
 
 > _“If you spend too much time thinking about a thing, you’ll never get it done.” — Bruce Lee_
 
-> _“Did you ever stop to think, and forget to start again?” ― A.A. Milne_
+> _“Did you ever stop to think, and forget to start again?” — A.A. Milne_
 
 ---
 
@@ -79,7 +79,7 @@ Put overthinking to bed. With an average of 60,000–80,000 daily thoughts, reme
 
 ---
 
-# [Eckhart Tolle](https://www.youtube.com/@EckhartTolle)’s 7-step protocol to escape overthinking: 
+# [Eckhart Tolle](https://www.youtube.com/@EckhartTolle)’s 7-step protocol to escape overthinking:
 
 > [Source](https://threadreaderapp.com/thread/1902379840483029150.html)
 
