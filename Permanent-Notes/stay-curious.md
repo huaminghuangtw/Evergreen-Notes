@@ -1,7 +1,7 @@
 ---
 title: Stay curious
 created: 2024-11-18T09:18:12
-modified: 2025-12-06T05:51:53
+modified: 2026-01-25T16:14:18
 ---
 
 > _“The cure for boredom is curiosity. There is no cure for curiosity.” — Dorothy Parker_
@@ -24,7 +24,7 @@ modified: 2025-12-06T05:51:53
 
 > _“Develop an interest in life as you see it; the people, things, literature, music - the world is so rich, simply throbbing with rich treasures, beautiful souls, and interesting people. Forget yourself.” — Henry Miller_
 
-> _“Empty your cup so that it may be filled; become devoid to gain totality.” ― Bruce Lee_
+> _“Empty your cup so that it may be filled; become devoid to gain totality.” — Bruce Lee_
 
 ---
 
