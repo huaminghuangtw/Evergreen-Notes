@@ -1,18 +1,18 @@
 ---
 title: Time is the most valuable asset
 created: 2024-11-18T09:18:12
-modified: 2025-12-28T18:44:10
+modified: 2026-01-25T16:14:18
 ---
 
 > _“The price of anything is the amount of life you exchange for it.” — Henry David Thoreau_
 
 > _“An inch of time is an inch of gold but you can’t buy that inch of time with an inch of gold. (一寸光陰一寸金，寸金難買寸光陰)” — Chinese Proverb_
 
-> _“Spend your money on the things money can buy. Spend your time on the things money can’t buy.” — Haruki Murakami_
+> _“Spend your money on the things money can buy. Spend your time on the things money can’t buy.” — Haruki Murakami_
 
 > _“Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.” — Thomas Jefferson_
 
-> _“If you love life, don’t waste time, for time is what life is made up of.” ― Bruce Lee_
+> _“If you love life, don’t waste time, for time is what life is made up of.” — Bruce Lee_
 
 ---
 
