@@ -1,7 +1,7 @@
 ---
 title: Habit Stacking
 created: 2025-01-23T10:40:57
-modified: 2025-10-01T05:33:41
+modified: 2026-01-25T16:14:19
 ---
 
 is a special form of [Implementation Intentions](implementation-intentions.md). Rather than pairing a new habit with a particular time and location, you pair it with an old, current habit (the “anchor” [@foggTinyHabitsSmall2020]).
@@ -12,7 +12,7 @@ The habit stacking formula is:
 
 > After/Before [CURRENT HABIT], I will [NEW HABIT].
 
-You can even combine [temptation bundling](temptation-bundling.md) with habit stacking to create a set of rules to guide your behavior. The habit stacking + temptation bundling formula is:
+You can even combine [temptation bundling](temptation-bundling.md) with habit stacking to create a set of rules to guide your behavior. The habit stacking + temptation bundling formula is:
 
 > 1. After [CURRENT HABIT], I will [HABIT I NEED].
 > 2. After [HABIT I NEED], I will [HABIT I WANT].
