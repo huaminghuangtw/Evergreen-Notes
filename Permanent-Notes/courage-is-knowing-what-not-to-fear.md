@@ -1,7 +1,7 @@
 ---
 title: Courage is knowing what not to fear
 created: 2025-04-11T19:02:45
-modified: 2026-01-24T07:32:54
+modified: 2026-01-25T16:14:19
 ---
 
 > _[“Success is not final, failure is not fatal: it is the courage to continue that counts.” — Winston Churchill](https://www.youtube.com/watch?v=uuxMZL6ieWM)_
@@ -22,13 +22,13 @@ modified: 2026-01-24T07:32:54
 
 > _[“Courage is not simply one of the virtues but the form of every virtue at the testing point, which means at the point of highest reality.” — C.S. Lewis, The Screwtape Letters](https://www.goodreads.com/quotes/37169-courage-is-not-simply-one-of-the-virtues-but-the)_
 
-> _[“Are you paralyzed with fear? That’s a good sign. Fear is good. Like self-doubt, fear is an indicator. Fear tells us what we have to do. Remember one rule of thumb: the more scared we are of a work or calling, the more sure we can be that we have to do it. The amateur believes he must first overcome his fear; then he can do his work. The professional knows that fear can never be overcome.” ― Steven Pressfield, The War of Art](https://www.goodreads.com/work/quotes/722104)_
+> _[“Are you paralyzed with fear? That’s a good sign. Fear is good. Like self-doubt, fear is an indicator. Fear tells us what we have to do. Remember one rule of thumb: the more scared we are of a work or calling, the more sure we can be that we have to do it. The amateur believes he must first overcome his fear; then he can do his work. The professional knows that fear can never be overcome.” — Steven Pressfield, The War of Art](https://www.goodreads.com/work/quotes/722104)_
 
-> _“If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution. Timidity is dangerous: Better to enter with boldness. Any mistakes you commit through audacity are easily corrected with more audacity. Everyone admires the bold; no one honors the timid.” ― Robert Greene, [The 48 Laws of Power](https://www.goodreads.com/work/quotes/1297604)_
+> _“If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution. Timidity is dangerous: Better to enter with boldness. Any mistakes you commit through audacity are easily corrected with more audacity. Everyone admires the bold; no one honors the timid.” — Robert Greene, [The 48 Laws of Power](https://www.goodreads.com/work/quotes/1297604)_
 
 > _“A coward dies a thousand times before his death; but the valiant taste of death but once.” — Julius Caesar_ [^1]
 
-> _“Bravery does not mean the absence of fear. Bravery is learning to continue forward even when you’re terrified.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+> _“Bravery does not mean the absence of fear. Bravery is learning to continue forward even when you’re terrified.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
 > _“Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day whispering, ‘I will try again tomorrow.’” — Mary Anne Radmacher_
 
