@@ -1,7 +1,7 @@
 ---
 title: Deliberate Heat Cold Exposure
 created: 2024-11-18T09:18:12
-modified: 2026-01-08T14:53:33
+modified: 2026-01-25T16:14:19
 ---
 
 # Heat Exposure
@@ -29,7 +29,7 @@ modified: 2026-01-08T14:53:33
 * ~11 mins per week
 	* 2-4 sessions lasting 1-5 mins each distributed across the week
 	* 2-3 minutes cold showers * 5 per week
-	* Or: _Challenge yourself by [counting walls](https://youtu.be/pq6WHJzOkno?t=2308) and setting a goal of “walls” to traverse (e.g., 3-5 walls) during the round of cold exposure._
+	* Or: _Challenge yourself by [counting walls](https://youtu.be/pq6WHJzOkno?t=2308) and setting a goal of “walls” to traverse (e.g., 3-5 walls) during the round of cold exposure._
 * Timing
 	* Early in the morning
 
