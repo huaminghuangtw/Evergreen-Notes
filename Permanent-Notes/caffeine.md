@@ -1,7 +1,7 @@
 ---
 title: Caffeine
 created: 2024-11-18T09:18:12
-modified: 2025-11-06T06:38:48
+modified: 2026-01-25T16:14:19
 ---
 
 提神 ≠ 專注
@@ -24,11 +24,11 @@ Do not drink coffee immediately upon waking. Instead, delaying coffee consumptio
 
 ---
 
-Consuming caffeine on an **empty stomach** allows for a smaller dose to have the same stimulant and performance-enhancing effects.
+Consuming caffeine on an **empty stomach** allows for a smaller dose to have the same stimulant and performance-enhancing effects.
 
 ---
 
-Avoid drinking caffeine for least **10–12 hours** before bedtime.
+Avoid drinking caffeine for least **10–12 hours** before bedtime.
 
 ---
 
