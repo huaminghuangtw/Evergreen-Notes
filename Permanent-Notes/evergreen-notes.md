@@ -1,14 +1,14 @@
 ---
 title: Evergreen Notes
 created: 2024-11-18T09:18:12
-modified: 2025-12-15T19:09:02
+modified: 2026-01-25T16:14:19
 ---
 
 [卡片盒筆記法 (Zettelkasten, Slip Box) by 德國社會學家 Niklas Luhmann](https://youtu.be/qRSCKSPMuDc?t=37m30s)
 
 ---
 
-#TODO [How to Take Smart Notes by Sönke Ahrens](https://www.soenkeahrens.de/en/takesmartnotes)
+#TODO [How to Take Smart Notes by Sönke Ahrens](https://www.soenkeahrens.de/en/takesmartnotes)
 
 ---
 
