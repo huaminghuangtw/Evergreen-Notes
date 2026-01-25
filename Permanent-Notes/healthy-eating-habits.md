@@ -1,7 +1,7 @@
 ---
 title: Healthy Eating Habits
 created: 2024-11-18T09:16:50
-modified: 2026-01-22T07:21:31
+modified: 2026-01-25T16:14:19
 ---
 
 Eating Better
@@ -254,7 +254,7 @@ Ultimately, the **Limbo–Titrate–Quality** approach is intended to be a **lif
 [^3]: [飲食會殺人，餵孩子吃工業化食品，結果就是出現愈來愈多氣喘、過動，或憂鬱傾向的下一代，而癌症、心血管疾病、糖尿病也有越來越年輕化的趨勢。](https://www.books.com.tw/products/0010786351)
 [^4]: 營養密度高、卡路里熱量密度低
 [^5]: 所有活的食物（Living Food）都含有豐富的酵素，但它有一個特點，就是一旦遇到 50 度以上的高溫，酵素就會被破壞並失去活性，無法再幫助分解食物、促進消化吸收，以及參與新陳代謝等生理作用。
-[^6]: Someone who chooses to eat a vegetarian diet, but who also eats fish and other seafood.
+[^6]: Someone who chooses to eat a vegetarian diet, but who also eats fish and other seafood.
 [^7]: Legumes 莢豆 (plants that produce pods with seeds or beans): peas 豌豆、lentils 扁豆、pinto beans 斑豆
 [^8]: 榛果 Hazelnut、腰果 Cashew (Cashewnuss)、杏仁 Mandel、核桃 Walnuss (Walnut)、開心果 Pistazie (Pistachio)、碧根果/長壽果 Pekan、巴西果 Paranuss、花生 Erdnuss、松子 (Pine Nut)
 [^9]: 是一種將多種蔬菜、水果、堅果等食材混合 (包含不易吞嚥的籽皮部分)，經由調理棒或果汁機攪打成滑順濃汁的營養飲品。
