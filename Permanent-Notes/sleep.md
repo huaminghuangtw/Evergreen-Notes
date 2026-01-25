@@ -1,7 +1,7 @@
 ---
 title: Sleep
 created: 2024-11-18T09:18:12
-modified: 2026-01-19T05:28:12
+modified: 2026-01-25T16:14:18
 ---
 
 [Matt Walker: Sleep is your superpower \| TED Talk](https://www.ted.com/talks/matt_walker_sleep_is_your_superpower/)
@@ -115,24 +115,24 @@ Taking **magnesium** (200–400 mg) and **L-theanine** (100–400 mg) together 3
 
 apigenin isn’t that great. Just get chamomile if you want to try it.
 
-* **[Magnesium Threonate](https://momentous.go2cloud.org/aff_c?offer_id=1&aff_id=1218&url_id=47)**: **200-400mg 2-3 hours before sleep**
+* **[Magnesium Threonate](https://momentous.go2cloud.org/aff_c?offer_id=1&aff_id=1218&url_id=47)**: **200-400mg 2-3 hours before sleep**
 	* **_(use code PODCASTNOTES for 15% off)_**
 	* Threonate are forms of magnesium that crosses the blood-brain barrier and will assist with sleep instead of absorption by gut
 	* ~5% of people have stomach issues with this form of magnesium, so be careful on the first night
 * [L-**Theanine**](https://momentous.go2cloud.org/aff_c?offer_id=1&aff_id=1218&url_id=51)**: 200-400mg**
 	* **_(use code PODCASTNOTES for 15% off)_**
 	* Nootropic but takes the edge off and balances caffeine intake
-	* Do **NOT** take Theanine if you have night terrors or sleep walk
+	* Do **NOT** take Theanine if you have night terrors or sleep walk
 * **[Apigenin](https://momentous.go2cloud.org/aff_c?offer_id=1&aff_id=1218&url_id=49): 50mg**
 	* **_(use code PODCASTNOTES for 15% off)_**
 	* From Chamomile
-* **[Glycine](https://s.thorne.com/rKuVC): 2 gram** (every 3rd or 4th night)
-* **[GABA](https://s.thorne.com/kVddD)**: **100 mg** (every 3rd or 4th night)
-* **Apigenin** (50 mg) is derived from chamomile and helps in reducing anxiety to aid the transition to sleep.
-* **Theanine** (100-400 mg) can help you relax and fall asleep. Note: for people who experience vivid dreams that disturb their sleep, theanine can exacerbate this issue.
-* **Inositol** (900 mg) is particularly beneficial if you wake up during the night and struggle to fall back asleep, as it can reduce the time needed to return to sleep.
-* **Glycine** (1.5-2 g) has shown reliable sleep benefits in randomized controlled trials.
-* **Phosphatidylserine** (100 mg) decreases the cortisol response, which can be helpful for individuals with insomnia.
+* **[Glycine](https://s.thorne.com/rKuVC): 2 gram** (every 3rd or 4th night)
+* **[GABA](https://s.thorne.com/kVddD)**: **100 mg** (every 3rd or 4th night)
+* **Apigenin** (50 mg) is derived from chamomile and helps in reducing anxiety to aid the transition to sleep.
+* **Theanine** (100-400 mg) can help you relax and fall asleep. Note: for people who experience vivid dreams that disturb their sleep, theanine can exacerbate this issue.
+* **Inositol** (900 mg) is particularly beneficial if you wake up during the night and struggle to fall back asleep, as it can reduce the time needed to return to sleep.
+* **Glycine** (1.5-2 g) has shown reliable sleep benefits in randomized controlled trials.
+* **Phosphatidylserine** (100 mg) decreases the cortisol response, which can be helpful for individuals with insomnia.
 * 洋車前子 (Psyllium Husk)
 
 focus on your quality, quantity, regularity, and timing (QQRT)
@@ -145,12 +145,12 @@ What are the best practices for managing rumination and negative racing thoughts
 
 Why do I wake up in the middle of the night, no matter what time I go to sleep?
 
-* Checking the time when you wake up at night can train your brain to continue waking at that time. This is a form of **learning** whereby checking the clock strengthens the memory association with that specific time.
+* Checking the time when you wake up at night can train your brain to continue waking at that time. This is a form of **learning** whereby checking the clock strengthens the memory association with that specific time.
 	* Remove visible clocks from your bedroom to help disrupt this pattern.
 * If you wake up in the middle of the night, don’t check the time. This will allow you to fall back asleep without worrying about how many hours you have left. → Alternatives: (1) 冥想 (搭配: 腹式呼吸、身體掃描等等) (2) 看書 (3) 聽 Podcasts
 
 **Can we “bank” sleep or catch up on lost sleep?**
-Sleep doesn’t work like a bank. You cannot accumulate a sleep “debt” and then hopefully pay it off later, such as on the weekend. There is no such a credit system when it comes to sleep. The body can **only recoup ~25% of the lost hours**. Frequently sleeping less than the recommended 7 to 8 hours/night (some may need 6, others 9 or even 10 hours!) means you will always be running a sleep debt - predictive of ill health outcomes and early mortality.
+Sleep doesn’t work like a bank. You cannot accumulate a sleep “debt” and then hopefully pay it off later, such as on the weekend. There is no such a credit system when it comes to sleep. The body can **only recoup ~25% of the lost hours**. Frequently sleeping less than the recommended 7 to 8 hours/night (some may need 6, others 9 or even 10 hours!) means you will always be running a sleep debt - predictive of ill health outcomes and early mortality.
 
 Reframing: 把睡覺當作是…
 
