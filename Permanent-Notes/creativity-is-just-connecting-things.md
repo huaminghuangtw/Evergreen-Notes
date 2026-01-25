@@ -1,7 +1,7 @@
 ---
 title: Creativity is just connecting things
 created: 2025-03-12T02:41:12
-modified: 2025-12-24T06:09:21
+modified: 2026-01-25T16:14:19
 ---
 
 > _“Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. That’s because they were able to connect experiences they’ve had and synthesize new things. And the reason they were able to do that was that they’ve had more experiences or they have thought more about their experiences than other people.” — Steve Jobs_
@@ -64,7 +64,7 @@ modified: 2025-12-24T06:09:21
 2. The first mile is wastewater that needs to be emptied. [^1]
 3. The clear water arrives after emptying the bad ideas, you begin to spot patterns _as to why they are bad_. [^2] [^3]
 
-Let’s apply this to creativity: At the beginning of a creative session, see through every bad idea that comes to mind. Instead of being self-critical and resisting bad ideas, recognize that you must see them to completion. Bad ideas, by the way, are often the clichés your brain has been overexposed to. Once bad ideas are emptied, a surprising thing happens: better ideas begin to arrive.
+Let’s apply this to creativity: At the beginning of a creative session, see through every bad idea that comes to mind. Instead of being self-critical and resisting bad ideas, recognize that you must see them to completion. Bad ideas, by the way, are often the clichés your brain has been overexposed to. Once bad ideas are emptied, a surprising thing happens: better ideas begin to arrive.
 
 Here’s my guess as to why: Once you’ve generated enough bad output, your mind reflexively identifies which elements caused the badness. Then it becomes better at avoiding them. You start pattern-matching interesting ideas with greater intuition.
 
