@@ -1,7 +1,7 @@
 ---
 title: A Letter to My Body
 created: 2025-12-15T14:55:53
-modified: 2025-12-15T17:00:49
+modified: 2026-01-25T16:14:19
 ---
 
 > Dear body, thank you.
@@ -33,4 +33,4 @@ modified: 2025-12-15T17:00:49
 
 ---
 
-> _“I surrender my body to be ruled by my mind; I surrender my mind to be governed by my soul, and I surrender my soul to the guidance of God.” — Wallace D. Wattles, [The Science of Being Great](https://www.goodreads.com/work/quotes/1881171)_
+> _“I surrender my body to be ruled by my mind; I surrender my mind to be governed by my soul, and I surrender my soul to the guidance of God.” — Wallace D. Wattles, [The Science of Being Great](https://www.goodreads.com/work/quotes/1881171)_
