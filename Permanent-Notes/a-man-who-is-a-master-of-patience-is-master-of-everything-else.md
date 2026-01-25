@@ -1,7 +1,7 @@
 ---
 title: A man who is a master of patience is master of everything else
 created: 2024-11-18T09:18:12
-modified: 2026-01-16T16:14:22
+modified: 2026-01-25T16:14:19
 ---
 
 > _[“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)_
@@ -10,11 +10,11 @@ modified: 2026-01-16T16:14:22
 
 > _“Don’t aim at success. The more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue.”_
 
-> _“The first step toward patience is to become aware of when your internal dialogue is running wild and dragging you with it. The second step in creating patience is understanding and accepting that there is no such thing as reaching a point of perfection in anything.” ― Thomas M. Sterner, [The Practicing Mind: Bringing Discipline and Focus into Your Life](https://www.goodreads.com/work/quotes/326331)_
+> _“The first step toward patience is to become aware of when your internal dialogue is running wild and dragging you with it. The second step in creating patience is understanding and accepting that there is no such thing as reaching a point of perfection in anything.” — Thomas M. Sterner, [The Practicing Mind: Bringing Discipline and Focus into Your Life](https://www.goodreads.com/work/quotes/326331)_
 
 > _“Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.” — John Quincy Adams_
 
-> _“Rivers know this: there is no hurry. We shall get there some day.” ― A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)_
+> _“Rivers know this: there is no hurry. We shall get there some day.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)_
 
 ---
 
@@ -57,7 +57,7 @@ One moment of patience may ward off great disaster. One moment of impatience may
 
 ---
 
-**[Slack](slackness.md)** in project management is the time a task _can be delayed_ without causing a delay to either subsequent tasks or project completion time. _The amount of time before a constraint binds._
+**[Slack](slackness.md)** in project management is the time a task _can be delayed_ without causing a delay to either subsequent tasks or project completion time. _The amount of time before a constraint binds._
 
 ---
 
