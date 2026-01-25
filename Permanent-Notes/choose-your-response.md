@@ -1,10 +1,10 @@
 ---
 title: Choose your response
 created: 2025-01-23T10:40:57
-modified: 2026-01-05T17:15:47
+modified: 2026-01-25T16:14:19
 ---
 
-> _“How we decide to respond to our fears, that is the person we become.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+> _“How we decide to respond to our fears, that is the person we become.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
 > _“It is the set of the sails, not the direction of the wind that determines which way we will go.” — Jim Rohn_
 
