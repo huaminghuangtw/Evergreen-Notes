@@ -1,14 +1,14 @@
 ---
 title: The Monty Hall Problem
 created: 2025-11-17T09:43:40
-modified: 2025-11-19T21:00:06
+modified: 2026-01-25T16:14:18
 ---
 
 The **Monty Hall Problem (= Car-Goat Problem = 三門問題)** is a famous probability puzzle based on a game show scenario. [^1] A contestant is presented with **three doors**: behind one door is a valuable prize (like a car), and behind the other two are goats. After the contestant selects a door, the host—who **knows what’s behind each door**—opens one of the remaining doors, always revealing a goat. The contestant is then given the choice to **stick with their original door or switch (換？還是不換？)** to the other unopened door. Counterintuitively, the best strategy is to **always switch**, as it gives a **2/3 chance of winning** compared to a **1/3 chance if staying**. The problem illustrates how human intuition about probability can be misleading and highlights the importance of conditional probability in decision-making.
 
 ---
 
-# 為何換門更好 
+# 為何換門更好
 
 * 第一次選擇：你選擇到汽車的機率是 1/3；選到山羊的機率是 2/3。
 * 主持人介入：主持人永遠會打開一扇有山羊的門，這個行動是基於你的第一次選擇。
