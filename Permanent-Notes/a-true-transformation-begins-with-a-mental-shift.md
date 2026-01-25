@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2026-01-06T15:29:20
+modified: 2026-01-25T16:14:19
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
@@ -18,7 +18,7 @@ modified: 2026-01-06T15:29:20
 
 > _“The real voyage of discovery consists not in seeking out new landscapes but in having new eyes.” — Marcel Proust_
 
-> _“Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.” ― Viktor E. Frankl_
+> _“Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.” — Viktor E. Frankl_
 
 > _“Your living is determined not so much by what life brings to you as by the attitude you bring to life; not so much by what happens to you as by the way your mind looks at what happens.” — Khalil Gibran_
 
@@ -46,7 +46,7 @@ modified: 2026-01-06T15:29:20
 
 > _[“Beliefs are choices. First you choose your beliefs. Then your beliefs affect your choices.” — Roy T. Bennett](https://www.goodreads.com/quotes/7718116-beliefs-are-choices-first-you-choose-your-beliefs-then-your)_
 
-> _“By itself, conscious positive thinking cannot overcome subconscious negative feelings.” ― Joe Dispenza, [Breaking the Habit of Being Yourself: How to Lose Your Mind and Create a New One](https://www.goodreads.com/work/quotes/18108532)_
+> _“By itself, conscious positive thinking cannot overcome subconscious negative feelings.” — Joe Dispenza, [Breaking the Habit of Being Yourself: How to Lose Your Mind and Create a New One](https://www.goodreads.com/work/quotes/18108532)_
 
 > _“All that we are is the result of what we have thought. The mind is everything. What we think, we become.” — Dhammapada_
 
