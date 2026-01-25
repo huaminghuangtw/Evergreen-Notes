@@ -1,12 +1,12 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-25T16:14:19
 ---
 
-> _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
+> _“Difficulties strengthen the mind, as labor does the body.” — Seneca_
 
-> _“A smooth sea never made a skilled sailor. (一片風平浪靜的海洋無法造就一名偉大的舵手)” ― Franklin D. Roosevelt_
+> _“A smooth sea never made a skilled sailor. (一片風平浪靜的海洋無法造就一名偉大的舵手)” — Franklin D. Roosevelt_
 
 > _“One day, in retrospect, the years of struggle will strike you as the most beautiful.” — Sigmund Freud_
 
@@ -24,7 +24,7 @@ modified: 2026-01-05T17:15:47
 
 > _“Our culture has become hooked on the quick-fix, the life hack, efficiency. Everyone is on the hunt for that simple action algorithm that nets maximum profit with the least amount of effort. There’s no denying this attitude may get you some of the trappings of success, if you’re lucky, but it will not lead to a calloused mind or self-mastery. If you want to master the mind and remove your governor, you’ll have to become addicted to hard work. Because passion and obsession, even talent, are only useful tools if you have the work ethic to back them up.” — [@gogginsCantHurtMe2018]_
 
-> _“I learned that by constantly doing things that are hard and making myself uncomfortable, I improve my ability to handle obstacles. I get comfortable being uncomfortable—and that’s real mental toughness.” ― Jesse Itzler, [Living with a SEAL: 31 Days Training with the Toughest Man on the Planet](https://www.goodreads.com/work/quotes/44751808)_
+> _“I learned that by constantly doing things that are hard and making myself uncomfortable, I improve my ability to handle obstacles. I get comfortable being uncomfortable—and that’s real mental toughness.” — Jesse Itzler, [Living with a SEAL: 31 Days Training with the Toughest Man on the Planet](https://www.goodreads.com/work/quotes/44751808)_
 
 > _“We must all suffer from one of two [pains](pain-is-inevitable-suffering-is-optional.md): the pain of [discipline](discipline-equals-freedom.md) or the pain of regret. The difference is [discipline](discipline-equals-freedom.md) weighs ounces while regret weighs tons.” — Jim Rohn_
 
@@ -145,7 +145,7 @@ References:
 
 [Doing the Unrealistic is Easier Than Doing the Realistic](https://tim.blog/2008/06/19/why-bigger-goals-less-competition-plus-eco-bounty-winners/)
 
-> _“It’s lonely at the top. Ninety-nine percent of people in the world are convinced they are incapable of achieving great things, so they aim for the mediocre. The level of competition is thus fiercest for ‘realistic’ goals, paradoxically making them the most time and energy-consuming.” ― Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
+> _“It’s lonely at the top. Ninety-nine percent of people in the world are convinced they are incapable of achieving great things, so they aim for the mediocre. The level of competition is thus fiercest for ‘realistic’ goals, paradoxically making them the most time and energy-consuming.” — Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
 
 ---
 
@@ -168,5 +168,5 @@ References:
 [Two Types of Passion](two-types-of-passion.md)
 
 [^1]: What brings you _joy in the present_ often conflicts with what brings you _fulfillment in the future_. Chasing _short-term clout_ is a recipe for _long-term misery_.
-[^2]: _“You can make a couple hard changes or you can live a hard life.” ― Emily Ballesteros, [The Cure for Burnout: How to Find Balance and Reclaim Your Life](https://www.goodreads.com/work/quotes/188727257)_
+[^2]: _“You can make a couple hard changes or you can live a hard life.” — Emily Ballesteros, [The Cure for Burnout: How to Find Balance and Reclaim Your Life](https://www.goodreads.com/work/quotes/188727257)_
 [^3]: _“Do not pray for an easy life, pray for the strength to endure a difficult one.” — Bruce Lee_
