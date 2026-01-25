@@ -1,7 +1,7 @@
 ---
 title: What Success Means To Me
 created: 2024-11-18T09:18:12
-modified: 2026-01-13T06:45:05
+modified: 2026-01-25T16:14:18
 ---
 
 > _“The road to success is always under construction.” — Steve Harvey_
@@ -28,7 +28,7 @@ modified: 2026-01-13T06:45:05
 
 > _[“The ultimate success metric is whether you get what you want out of life. But that’s harder than it sounds because it’s easy to try to copy someone who wants something you don’t.” — Morgan Housel](https://collabfund.com/blog/your-way-is-the-only-way/)_
 
-> _“Redefine success. The most meaningful form of performance is progress. The ultimate mark of potential is not the height of the peak you’ve reached, but the distance you’ve traveled—and helped others travel.” ― Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
+> _“Redefine success. The most meaningful form of performance is progress. The ultimate mark of potential is not the height of the peak you’ve reached, but the distance you’ve traveled—and helped others travel.” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
 
 > _“Success isn’t about how your life looks to others. It’s about how it feels to you.” — Michelle Obama_
 
