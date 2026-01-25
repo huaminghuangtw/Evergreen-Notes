@@ -1,7 +1,7 @@
 ---
 title: Your identity dictates your actions
 created: 2025-03-12T01:41:12
-modified: 2025-11-10T06:50:42
+modified: 2026-01-25T16:14:18
 ---
 
 > _We are what we believe we are.” — C.S. Lewis_
@@ -61,7 +61,7 @@ The _task_ doesn’t change, but the _meaning_ does.
 
 [The story you tell yourself](be-careful-how-you-are-talking-to-yourself.md) dictates your daily actions.
 
-> _“What look like differences in natural ability are often differences in opportunity and motivation.” ― Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
+> _“What look like differences in natural ability are often differences in opportunity and motivation.” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
 
 ---
 
