@@ -1,7 +1,7 @@
 ---
 title: Dare to be different
 created: 2025-11-24T06:51:20
-modified: 2026-01-07T17:04:02
+modified: 2026-01-25T15:46:15
 ---
 
 > _“Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.” — Robert Frost, The Road Not Taken (1916)_
@@ -39,6 +39,8 @@ modified: 2026-01-07T17:04:02
 > _“We could beat the stars, falling from the sky. Shining how we want, brighter than the sun.” — Colbie Caillat, [Brighter Than the Sun](https://www.youtube.com/watch?v=KU5o6M7S5nQ)_
 
 > _“Try to be a rainbow in someone’s cloud.” — Maya Angelou_
+
+> _“Nothing can dim the light which shines from within.” — Maya Angelou_
 
 > _“We live in a world with a lot of insecure, jealous people. Some of them are our best friends. They are blood relatives. Failure terrifies them. So does our success. Because when we transcend what we once thought possible, push our limits, and become more, our light reflects off all the walls they’ve built up around them. Your light enables them to see the contours of their own prison, their own self-limitations. But if they are truly the great people you always believed them to be, their jealousy will evolve, and soon their imagination might hop its fence, and it will be their turn to change for the better.” — [@gogginsCantHurtMe2018]_
 
