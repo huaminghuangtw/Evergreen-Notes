@@ -1,7 +1,7 @@
 ---
 title: Humor is a way to show you are smart without bragging
 created: 2024-11-18T09:18:12
-modified: 2025-12-31T05:38:58
+modified: 2026-01-25T16:14:18
 ---
 
 # Principles
@@ -49,7 +49,7 @@ Rebel: 進電梯後不要轉向，繼續面對人群 → 只要我不尷尬，�
 為什麼飯不能煮太久？
 </summary>
 <p>
-因為會犯太歲    
+因為會犯太歲
 </p>
 </details>
 
