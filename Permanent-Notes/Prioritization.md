@@ -1,7 +1,7 @@
 ---
 title: Prioritization
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-25T16:14:19
 ---
 
 > _“The whole point of getting things done is knowing what to leave undone.” — Oswald Chambers_
@@ -16,7 +16,7 @@ modified: 2026-01-05T17:15:47
 
 > _“Clarity about what matters provides clarity about what does not.” — [@newportDeepWorkRules2016]_
 
-> _“The Principle of Priority states (a) you must know the difference between what is urgent and what is important, and (b) you must do what’s important first.” ― Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
+> _“The Principle of Priority states (a) you must know the difference between what is urgent and what is important, and (b) you must do what’s important first.” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
 
 ---
 
