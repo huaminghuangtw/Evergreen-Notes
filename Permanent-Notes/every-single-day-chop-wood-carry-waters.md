@@ -1,7 +1,7 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2026-01-06T15:41:47
+modified: 2026-01-25T16:14:19
 ---
 
 > _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
@@ -18,7 +18,7 @@ modified: 2026-01-06T15:41:47
 
 > _“I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times” — Shannon Lee_ [^1] [^2]
 
-> _“Dreams are built on discipline; discipline is built on habits; habits are built on training. And training takes place in every single second and every situation of your life.” ― Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+> _“Dreams are built on discipline; discipline is built on habits; habits are built on training. And training takes place in every single second and every situation of your life.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
 
 > _“Don’t stop. Don’t even think about stopping until you get there, and don’t give much thought to where ‘there’ is. Whatever comes, just don’t stop.” — Phil Knight_---
 
@@ -54,7 +54,7 @@ Persistence can change failure into extraordinary achievement.
 
 ---
 
-There is a Zen Buddhist saying: “What do you do before enlightenment? _Chop wood, carry water_. What do you do after enlightenment? _Chop wood, carry water_.”
+There is a Zen Buddhist saying: “What do you do before enlightenment? _Chop wood, carry water_. What do you do after enlightenment? _Chop wood, carry water_.”
 
 ---
 
@@ -151,7 +151,7 @@ Doing a thing once is nothing special. You’re only a legend if you can do it b
 
 EVERYDAY is easier than SOMEDAY. [^3] Embrace the daily mundane activities / ordinary actions. Find the lifelong rhythm.
 
-> _“It’s easier to hold your principles 100 percent of the time than it is to hold them 98 percent of the time.” ― Clayton M. Christensen, [How Will You Measure Your Life?](https://www.goodreads.com/work/quotes/18907551)_
+> _“It’s easier to hold your principles 100 percent of the time than it is to hold them 98 percent of the time.” — Clayton M. Christensen, [How Will You Measure Your Life?](https://www.goodreads.com/work/quotes/18907551)_
 
 * It’s easier to _keep up_ than to _catch up_.
 * It’s easier to stay _motivated_ when you have _momentums_.
