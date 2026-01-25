@@ -1,7 +1,7 @@
 ---
 title: Empathy
 created: 2024-11-18T09:18:12
-modified: 2025-11-16T06:45:46
+modified: 2026-01-25T16:14:19
 ---
 
 > _“I do not ask the wounded person how he feels, I myself become the wounded person.” — Walt Whitman_
@@ -16,7 +16,7 @@ modified: 2025-11-16T06:45:46
 
 > _“Perspective taking is listening to the truth as other people experience it and acknowledging it as the truth. What you see is as true, real and honest as what I see, so let me be quiet for a minute, listen and learn about what you see. Let me get curious about what you see. Let me ask questions about what you see._
 >
-> _Empathy is incompatible with shame and judgment. [Staying out of judgment](dispel-your-narratives.md) requires understanding. **We tend to judge those areas where we’re the most vulnerable to feeling shame ourselves. We don’t tend to judge in areas where our sense of self-worth is stable and secure.** In order to stay out of judgment, we must pay attention to our own triggers and issues._
+> _Empathy is incompatible with shame and judgment. [Staying out of judgment](dispel-your-narratives.md) requires understanding. **We tend to judge those areas where we’re the most vulnerable to feeling shame ourselves. We don’t tend to judge in areas where our sense of self-worth is stable and secure.** In order to stay out of judgment, we must pay attention to our own triggers and issues._
 >
 > _Empathy (同理) reduces shame, whereas sympathy (同情) exacerbates it. There is a huge difference between **feeling with someone** and **feeling for someone**. Shame causes a person to believe they’re alone. Through empathy, we cause them to realize that they are not alone, which is why it is the antidote to shame.” — Brené Brown_
 
@@ -56,7 +56,7 @@ Empathy is a full-body experience you practice, not just something you think.
 
 ---
 
-> _“Never underestimate the pain of a person, because in all honesty, everyone is struggling. Some people are just better at hiding it than others.” ― Will Smith_
+> _“Never underestimate the pain of a person, because in all honesty, everyone is struggling. Some people are just better at hiding it than others.” — Will Smith_
 
 Remember: Everyone is going through life for the first time. Every person is fighting a battle you know nothing about. Everyone has done the best they can. No one is crazy. [^1]
 
