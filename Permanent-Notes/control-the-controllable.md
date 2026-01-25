@@ -1,7 +1,7 @@
 ---
 title: Control the controllable
 created: 2024-11-18T09:16:49
-modified: 2026-01-05T17:15:47
+modified: 2026-01-25T16:14:19
 ---
 
 > _“The more we value things outside our control, the less control we have.” — Epictetus_
@@ -27,7 +27,7 @@ modified: 2026-01-05T17:15:47
 1. Things we can control
 2. Things we cannot control
 
-# [The Trichotomy of Control](https://aliabdaal.com/newsletter/the-trichotomy-of-control/)
+# [The Trichotomy of Control](https://aliabdaal.com/newsletter/the-trichotomy-of-control/)
 
 1. Things you have complete control over
 2. Things you have partial control over
