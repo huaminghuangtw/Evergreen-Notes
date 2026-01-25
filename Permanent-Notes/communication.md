@@ -1,7 +1,7 @@
 ---
 title: Communication
 created: 2024-11-18T09:18:12
-modified: 2025-12-30T13:12:42
+modified: 2026-01-25T16:14:19
 ---
 
 > _“The greatest communication is usually how we are rather than what we say.” — Joseph Goldstein_
@@ -96,7 +96,7 @@ To ensure clear communication, incorporate these three elements at the start of 
 
 ## When someone has a problem, ask if they want empathy or a solution
 
-> _“Too often we look for strategies that will shift people out of negative emotion spaces, but that’s not always possible. During difficult times, sometimes we just need to be there for one another.” ― Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)_
+> _“Too often we look for strategies that will shift people out of negative emotion spaces, but that’s not always possible. During difficult times, sometimes we just need to be there for one another.” — Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)_
 
 We often jump into “Mr. Fix It” mode, eager to [offer advice](advice.md) and [solve a problem](Problem%20Solving.md). However, this can create tension because people don’t always want a solution; sometimes, they just want to feel heard and understood. In fact, **most arguments are not really about the argument, so most arguments can’t be won by arguing.**
 
