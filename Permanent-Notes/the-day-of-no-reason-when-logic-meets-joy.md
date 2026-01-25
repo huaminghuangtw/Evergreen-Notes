@@ -1,14 +1,14 @@
 ---
 title: "The Day of No Reason: When Logic Meets Joy"
 created: 2025-12-15T15:32:39
-modified: 2025-12-30T07:50:06
+modified: 2026-01-25T16:14:18
 ---
 
-> _“Don’t underestimate the value of doing nothing, of just going along, listening to all the things you can’t hear, and not bothering.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)_
+> _“Don’t underestimate the value of doing nothing, of just going along, listening to all the things you can’t hear, and not bothering.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)_
 
-> _“People say nothing is impossible, but I do nothing every day.” ― A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)_
+> _“People say nothing is impossible, but I do nothing every day.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)_
 
-> _“Doing nothing often leads to the very best of something.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)_
+> _“Doing nothing often leads to the very best of something.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)_
 
 ---
 
