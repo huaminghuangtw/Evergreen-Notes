@@ -1,7 +1,7 @@
 ---
 title: Always start and end the day right
 created: 2025-01-23T10:40:57
-modified: 2025-12-26T10:11:09
+modified: 2026-01-26T07:16:07
 ---
 
 > _“Every morning in Africa, a gazelle wakes up, it knows it must outrun the fastest lion or it will be killed. Every morning in Africa, a lion wakes up. It knows it must run faster than the slowest gazelle, or it will starve. It doesn’t matter whether you’re the lion or a gazelle-when the sun comes up, you’d better be running.” — Christopher McDougall_
@@ -54,6 +54,8 @@ Morning routines _start with evening routines the night before_: If you want to 
 ---
 
 ## Wind Down 就像結束一天的駕駛，把車停到車庫裡一樣
+
+Much like slowing down a car before stopping, a ‘deceleration’ from the day’s activities is essential for good sleep. Establish a wind-down routine to prepare the body and mind for sleep:
 
 You don’t park a car going 70 km/h — you slow down first, then park. The same goes for sleep. We often head to bed with our minds still racing from the day’s activity, and then wonder why it’s hard to fall asleep.
 
