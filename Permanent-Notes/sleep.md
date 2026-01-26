@@ -1,7 +1,7 @@
 ---
 title: Sleep
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-01-26T07:14:19
 ---
 
 [Matt Walker: Sleep is your superpower \| TED Talk](https://www.ted.com/talks/matt_walker_sleep_is_your_superpower/)
@@ -13,11 +13,6 @@ modified: 2026-01-25T16:14:18
 > So if you are staying in bed awake for too long, you should get out of bed and go to a different room and do something different. The reason is because your brain will very quickly associate your bedroom with the place of wakefulness, and you need to break that association. So only return to bed when you are sleepy, and that way you will relearn the association that you once had, which is your bed is the place of sleep. **So the analogy would be, you’d never sit at the dinner table, waiting to get hungry, so why would you lie in bed, waiting to get sleepy?**
 
 ---
-
-You can’t force sleep. The more you force sleep, the more it resists.
-
-* Insomniac delusion: If you can’t fall asleep, just try harder. This will do the opposite.
-* [If you can’t sleep, pretend you’re lying in a canoe.](https://mariandrew.substack.com/p/100-things-i-know)
 
 # Why We Sleep?
 
@@ -39,15 +34,20 @@ Sleep deprivation makes hard things feel impossible. High quality sleep makes se
 
 # Actionable Tips
 
-Make sleep your #1 appointment in your calendar. Sleep is your #1 priority.
+Make sleep your #1 appointment in your calendar. Sleep is your #1 life priority. Plan your day around sleep.
 
-* Plan your day around sleep.
+[Minimize light, red/amber light ideal](nighttime-lighting.md)
 
-Unwind: minimize light, red/amber light ideal
+---
 
-Sleep Fundamentals: The QQRT Protocol
+# The QQRT Protocol
 
-Quality, Quantity, Regularity, and Timing
+1. Quality
+2. Quantity
+3. Regularity
+4. Timing
+
+---
 
 The bed is for sleep and sex
 
@@ -61,11 +61,9 @@ Aim for consistent bedtimes and wake times with a ± 30 minutes margin of error,
 
 In addition to your morning alarm clock, consider adding a “bedtime alarm,” which tells you when to go to sleep.
 
-* You do not have 24 hours in the day. You only have ~16 hours per day being awake once you factor in the sleep tax. That’s like confusing revenue with profit.
+You do not have 24 hours in the day. You only have ~16 hours per day being awake once you factor in the sleep tax. That’s like confusing revenue with profit.
 
 ---
-
-In the evening, dim the lights in your home to signal the body that it’s time to wind down. Use low-positioned lights (rather than overhead) and yellow or, even better, deep orange/red lightbulbs, if available; they are less stimulating than typical lights.
 
 **Separate bed covers — sleeping the Scandinavian way**
 Individual duvets provide the warmest way to sleep, eliminating air gaps and the risk of your partner pulling or hogging the duvet in the middle of the night, ultimately stop nightly battle over the bedsheets.
@@ -78,79 +76,56 @@ Stick your hands or feet out from underneath the covers to help cool down.
 
 Eating closer to bedtime can increase the likelihood of gastric reflux (heartburn) and impair sleep
 
-Much like slowing down a car before stopping, a ‘deceleration’ from the day’s activities is essential for good sleep. Establish a wind-down routine to prepare the body and mind for sleep:
-
 Avoid stimulating activities before bed, such as watching television, reading the news, strenuous exercise, or social media.
 
-Mental Walk: If you have trouble falling asleep, take a “mental walk” and visualize walking a familiar route.
+Sleep Hygiene (The 10/3/2/1 Rule)
 
-Sleep Hygiene (10/3/2/1, 3/2/1)
+睡眠認知行為治療 (Cognitive Behavioral Therapy for Insomnia，CBT-I)
 
-睡眠認知行為治療 (CBT-I)
+Wakefulness is low level brain damage. Sleepiness offers a reparatory function. You make the best use of time not by sleeping less, but awaking less.
 
-甲基鈷胺素 甲基 B12 Methylcobalamin 左旋茶氨酸
+膠淋巴系統 (The Glymphatic System)
 
-3Slow/DeltaWave 2Spindle 紡錘 Wave 技能型長期記憶鞏固 學科 術科 舒緩情緒
-
-Wakefulness is low level brain damage.
-
-Sleepiness offers a repairatory function.
-
-* You make the best use of time not by sleeping less, but awaking less.
-
-大腦\* 膠淋巴系統 (The Glymphatic System) = 大腦排毒系統
-
-* 俗稱「龍骨水」
+* 俗稱「龍骨水」，是大腦的排毒系統
 * 只在「深睡期」產生
-
-magnesium threonate, magnesium bisglycinate, or magnesium chloride
-
-chamomile tea
-
-Taking **magnesium** (200–400 mg) and **L-theanine** (100–400 mg) together 30–60 minutes before bedtime
-
-* **Synergistic Effects**: Magnesium relaxes the muscles, while L-theanine calms the mind, addressing both physiological and psychological barriers to sleep.
 
 ## Huberman Sleep Cocktail
 
-apigenin isn’t that great. Just get chamomile if you want to try it.
-
-* **[Magnesium Threonate](https://momentous.go2cloud.org/aff_c?offer_id=1&aff_id=1218&url_id=47)**: **200-400mg 2-3 hours before sleep**
-	* **_(use code PODCASTNOTES for 15% off)_**
+* **Magnesium Threonate**: 200–400mg 2–3 hours before sleep
 	* Threonate are forms of magnesium that crosses the blood-brain barrier and will assist with sleep instead of absorption by gut
-	* ~5% of people have stomach issues with this form of magnesium, so be careful on the first night
-* [L-**Theanine**](https://momentous.go2cloud.org/aff_c?offer_id=1&aff_id=1218&url_id=51)**: 200-400mg**
-	* **_(use code PODCASTNOTES for 15% off)_**
+* **L-Theanine**: 200–400mg
 	* Nootropic but takes the edge off and balances caffeine intake
-	* Do **NOT** take Theanine if you have night terrors or sleep walk
-* **[Apigenin](https://momentous.go2cloud.org/aff_c?offer_id=1&aff_id=1218&url_id=49): 50mg**
-	* **_(use code PODCASTNOTES for 15% off)_**
-	* From Chamomile
-* **[Glycine](https://s.thorne.com/rKuVC): 2 gram** (every 3rd or 4th night)
-* **[GABA](https://s.thorne.com/kVddD)**: **100 mg** (every 3rd or 4th night)
-* **Apigenin** (50 mg) is derived from chamomile and helps in reducing anxiety to aid the transition to sleep.
-* **Theanine** (100-400 mg) can help you relax and fall asleep. Note: for people who experience vivid dreams that disturb their sleep, theanine can exacerbate this issue.
+* **Glycine**: 2 gram (every 3rd or 4th night)
+* **GABA**: 100 mg (every 3rd or 4th night)
 * **Inositol** (900 mg) is particularly beneficial if you wake up during the night and struggle to fall back asleep, as it can reduce the time needed to return to sleep.
-* **Glycine** (1.5-2 g) has shown reliable sleep benefits in randomized controlled trials.
 * **Phosphatidylserine** (100 mg) decreases the cortisol response, which can be helpful for individuals with insomnia.
-* 洋車前子 (Psyllium Husk)
 
-focus on your quality, quantity, regularity, and timing (QQRT)
+Psyllium Husk 洋車前子
+
+Chamomile Tea 洋甘菊（晚安舒眠）茶
 
 Lucid dream is a type of dream wherein a person that is dreaming realizes that they are dreaming during their dream.
 
 What are the best practices for managing rumination and negative racing thoughts when trying to fall asleep?
 
-* Take a “mental walk” — visualize a familiar route in great detail as though you mentally walk yourself through it
+Mental Walk: If you have trouble falling asleep, take a “mental walk” and visualize walking a familiar route.
 
 Why do I wake up in the middle of the night, no matter what time I go to sleep?
 
 * Checking the time when you wake up at night can train your brain to continue waking at that time. This is a form of **learning** whereby checking the clock strengthens the memory association with that specific time.
 	* Remove visible clocks from your bedroom to help disrupt this pattern.
 * If you wake up in the middle of the night, don’t check the time. This will allow you to fall back asleep without worrying about how many hours you have left. → Alternatives: (1) 冥想 (搭配: 腹式呼吸、身體掃描等等) (2) 看書 (3) 聽 Podcasts
+* You can’t force sleep. The more you force sleep, the more it resists.
+	* Insomniac delusion: If you can’t fall asleep, just try harder. This will do the opposite.
+	* [If you can’t sleep, pretend you’re lying in a canoe.](https://mariandrew.substack.com/p/100-things-i-know)
 
-**Can we “bank” sleep or catch up on lost sleep?**
+---
+
+# Can we “bank” sleep or catch up on lost sleep?
+
 Sleep doesn’t work like a bank. You cannot accumulate a sleep “debt” and then hopefully pay it off later, such as on the weekend. There is no such a credit system when it comes to sleep. The body can **only recoup ~25% of the lost hours**. Frequently sleeping less than the recommended 7 to 8 hours/night (some may need 6, others 9 or even 10 hours!) means you will always be running a sleep debt - predictive of ill health outcomes and early mortality.
+
+---
 
 Reframing: 把睡覺當作是…
 
