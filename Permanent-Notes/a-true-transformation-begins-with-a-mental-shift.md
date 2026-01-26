@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2026-01-25T16:14:19
+modified: 2026-01-26T08:03:11
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
@@ -29,6 +29,8 @@ modified: 2026-01-25T16:14:19
 > _“The energy of the mind is the essence of life.” — Aristotle_
 
 > _“The soul becomes dyed with the color of its thoughts.” — Marcus Aurelius_
+
+> _“You have power over your mind, not outside events. Realize this, and you will find strength.” — Marcus Aurelius_
 
 > _“The things I carry are my thoughts. That’s it. They are the only weight. My thoughts determine whether I am free and light or burdened.” — Kamal Ravikant_
 
