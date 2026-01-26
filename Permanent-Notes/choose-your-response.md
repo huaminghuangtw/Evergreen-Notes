@@ -1,7 +1,7 @@
 ---
 title: Choose your response
 created: 2025-01-23T10:40:57
-modified: 2026-01-25T16:14:19
+modified: 2026-01-26T11:13:25
 ---
 
 > _“How we decide to respond to our fears, that is the person we become.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
@@ -33,6 +33,8 @@ modified: 2026-01-25T16:14:19
 * You are not the cause of everything that happens to you, but you are responsible for how you respond to everything that happens to you.
 
 ---
+
+# Be effective, not defensive
 
 Most of life’s conflicts come from people _reacting_ to situation rather than _responding_ to it. <mark>Man who cannot control his words cannot control himself.</mark>
 
