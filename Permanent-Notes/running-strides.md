@@ -1,7 +1,7 @@
 ---
 title: Running Strides
 created: 2024-11-18T09:16:50
-modified: 2025-08-24T06:03:15
+modified: 2026-01-28T06:31:26
 ---
 
 # What?
@@ -21,6 +21,6 @@ modified: 2025-08-24T06:03:15
 # When?
 
 * After warming up (dynamic stretching) with a short, ten-minute run at a conversational pace
-* At the end of easy run
+* At the end of an easy run
 * As a standalone workout
 * Before a race
