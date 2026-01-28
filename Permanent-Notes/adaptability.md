@@ -1,7 +1,7 @@
 ---
 title: Adaptability
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:19
+modified: 2026-01-28T07:05:31
 ---
 
 > _“It is not the strongest of the species that survives, nor the most intelligent. It is the one most adaptable to change; but the species that survives is the one that is able best to adapt and adjust to the changing environment in which it finds itself.” — Charles Darwin_ [^1]
@@ -21,6 +21,8 @@ modified: 2026-01-25T16:14:19
 > _“When you are finished changing, you are finished.” — Benjamin Franklin_
 
 > _“The capacity to adjust and improvise is arguably the single most critical human ability.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+
+> _“Until you change how you get things done, you’ll never know what works best.” — Roy T. Bennett_
 
 ---
 
