@@ -1,7 +1,7 @@
 ---
 title: Why we exist?
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-01-28T08:15:28
 ---
 
 > _[“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)_
@@ -9,6 +9,8 @@ modified: 2026-01-25T16:14:18
 > _“Existence is a fullness which we can never abandon.” — Jean Paul Sartre_
 
 > _“Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness.” — Leo Tolstoy_
+
+> _[“I’ve come to believe that each of us has a personal calling that’s as unique as a fingerprint - and that the best way to succeed is to discover what you love and then find a way to offer it to others in the form of service, working hard, and also allowing the energy of the universe to lead you.” — Oprah Winfrey](https://www.goodreads.com/quotes/24752-i-ve-come-to-believe-that-each-of-us-has-a)_
 
 > _“You will never live if you are looking for the meaning of life.” — Albert Camus_
 
