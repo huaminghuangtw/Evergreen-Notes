@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:19
+modified: 2026-01-29T06:50:18
 ---
 
 > _“To be is to do.” — Immanuel Kant_
@@ -77,6 +77,10 @@ It’s also a lot easier to [change direction](adaptability.md) when you’re mo
 
 Act first, insight second. [Motivation starts with action.](why-is-it-so-hard-to-just-do-the-work.md)
 
+---
+
+ **[Action, not motion.](https://jamesclear.com/taking-action)** — You don’t want to merely be planning. You want to be practicing.
+ 
 ---
 
 Krummes Holz gibt auch gerades Feuer. = Crooked logs also make straight fires.
