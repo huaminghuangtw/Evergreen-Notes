@@ -1,10 +1,10 @@
 ---
 title: Slackness
 created: 2024-12-05T09:42:10
-modified: 2025-08-26T05:28:46
+modified: 2026-01-29T06:26:38
 ---
 
-**[Slackness (鬆弛; 懈怠; 不積極) - the absence of a binding constraint](https://thezvi.wordpress.com/2017/09/30/slack/)**
+**[Slackness (鬆弛；懈怠；不積極) - the absence of a binding constraint](https://thezvi.wordpress.com/2017/09/30/slack/)**
 
 * Slack means margin for error. You can relax.
 * Slack allows pursuing opportunities. You can explore. You can trade.
@@ -15,4 +15,4 @@ modified: 2025-08-26T05:28:46
 * Slack presents things as they are without concern for how things look or what others think. You can be honest.
 * Slack in project management is the time a task can be delayed without causing a delay to either subsequent tasks or project completion time. The amount of time before a constraint binds. [^1]
 
-[^1]: ↔ “Crunch mode”, also referred to as “crunch time,” is the term used by those in the software development industry to describe working extra hours for extended periods of time in order to finish a project or meet a deadline.
+[^1]: ↔ **“Crunch mode”**, also referred to as **“crunch time,”** is the term used by those in the software development industry to describe working extra hours for extended periods of time in order to finish a project or meet a deadline.
