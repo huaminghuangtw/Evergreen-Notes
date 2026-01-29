@@ -1,7 +1,11 @@
 ---
 title: Communication
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:19
+modified: 2026-01-29T12:47:52
+---
+
+> _“The single biggest problem in communication is the illusion that it has taken place.” — George Bernard Shaw_
+
 ---
 
 > _“The greatest communication is usually how we are rather than what we say.” — Joseph Goldstein_
