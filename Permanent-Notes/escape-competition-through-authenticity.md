@@ -1,7 +1,7 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:19
+modified: 2026-01-30T06:29:22
 ---
 
 > _“Everything popular is wrong.” — Oscar Wilde_
@@ -107,7 +107,7 @@ Find a thing that’s so you, that doing it is just a natural extension of you b
 
 ---
 
-[The Spotlight Effect](The%20Spotlight%20Effect.md)
+[The Spotlight Effect](the-spotlight-effect.md)
 
 ---
 
