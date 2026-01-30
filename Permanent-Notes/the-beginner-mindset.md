@@ -1,7 +1,7 @@
 ---
 title: The Beginner Mindset
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-01-30T06:21:16
 ---
 
 > _“It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” — Mark Twain_
@@ -13,6 +13,8 @@ modified: 2026-01-25T16:14:18
 > _“Every act of conscious [learning](learning-is-the-single-best-investment-that-you-can-make-for-your-time.md) requires the willingness to suffer an [injury to one’s self-esteem](abandon-your-ego.md). That is why young children, before they are aware of their own self-importance, learn so easily; and why older persons, especially if vain or important, cannot learn at all.” — Thomas Szasz_
 
 > _“You can’t be content with mastery; you have to push yourself to become a student again.” — [@kleonShowYourWork2014]_
+
+> _“In the beginner’s mind there are many possibilities; in the expert’s mind there are few.” — Shunryu Suzuki_
 
 ---
 
