@@ -1,7 +1,7 @@
 ---
 title: Anger
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:19
+modified: 2026-01-30T06:21:27
 ---
 
 > _“Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.” — Mark Twain_
@@ -24,6 +24,7 @@ modified: 2026-01-25T16:14:19
 
 > _“A quick temper will make a fool of you soon enough.” — Bruce Lee_
 
+> The strongest among you is the one who controls his anger.
 ---
 
 Beneath anger there’s always [fear](fear.md).
