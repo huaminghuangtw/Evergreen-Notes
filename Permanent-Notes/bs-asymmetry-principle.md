@@ -1,15 +1,12 @@
 ---
 title: BS Asymmetry Principle
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-01-31T14:13:15
 ---
 
-<figure>
-	<img src="https://images.prismic.io/sketchplanations/71d30e66-9038-498d-8d8c-6bf45cd53760_SP+677+-+The+BS+asymmetry+principle+-+large.png?auto=compress%2Cformat&fit=max&w=1080">
-	<figcaption>
-		<sub><em>Source: <a href="https://sketchplanations.com/the-bs-asymmetry-principle">Sketchplanations</a></em></sub>
-	</figcaption>
-</figure>
+| ![](https://images.prismic.io/sketchplanations/71d30e66-9038-498d-8d8c-6bf45cd53760_SP+677+-+The+BS+asymmetry+principle+-+large.png?auto=compress%2Cformat&fit=max&w=1080) |
+| :-: |
+| <sub>Source: [Sketchplanations](https://sketchplanations.com/the-bs-asymmetry-principle)</sub> |
 
 ---
 
