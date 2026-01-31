@@ -1,7 +1,7 @@
 ---
 title: Death
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:19
+modified: 2026-01-31T14:05:33
 ---
 
 > _“The free man thinks of death, least of all things.” — Benedict Spinoza_
@@ -90,11 +90,7 @@ Memento Homo is a Latin phrase that translates to “remember that you are just 
 
 # [Bronnie Ware’s “Top Five Regrets of the Dying”](https://bronnieware.com/blog/regrets-of-the-dying/)
 
-<div align="center">
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tAcQfn96yFk?si=UnqXEBEN5fEY-ktD&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-</div>
 
 **What people most often regret before they die (Deathbed Regret):** [^2]
 
