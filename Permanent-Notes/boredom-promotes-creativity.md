@@ -1,7 +1,7 @@
 ---
 title: Boredom promotes creativity
 created: 2024-12-16T14:01:41
-modified: 2026-01-08T09:49:24
+modified: 2026-02-02T09:33:22
 ---
 
 [@talebBedProcrustesPhilosophical2016]
@@ -10,7 +10,7 @@ modified: 2026-01-08T09:49:24
 
 [@hanBurnoutSociety2015]
 
-> _“If sleep represents the high point of bodily relaxation, deep boredom is the peak of mental relaxation.” _
+> _“If sleep represents the high point of bodily relaxation, deep boredom is the peak of mental relaxation.”_
 
 > _[“People who do a job that claims to be creative have to be alone to recharge their batteries. You can’t live 24 hours a day in the spotlight and remain creative. For people like me, solitude is a victory.” — Karl Lagerfeld](https://www.goodreads.com/quotes/324395-people-who-do-a-job-that-claims-to-be-creative)_
 
