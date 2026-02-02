@@ -1,10 +1,10 @@
 ---
 title: Criticism
 created: 2024-11-18T09:16:50
-modified: 2025-08-29T08:30:45
+modified: 2026-02-01T17:44:38
 ---
 
-> _“To avoid criticism, do nothing, say nothing, be nothing.” — Elbert Hubbard_
+—_“To avoid criticism, do nothing, say nothing, be nothing.” — Elbert Hubbard_
 
 > _“The trouble with most of us is that we’d rather be ruined by praise than saved by criticism.” — Norman Vincent Peale_
 
@@ -22,4 +22,4 @@ Uncomfortable facts are often the most helpful ones.
 
 ---
 
-Better get hurt by the truth than comforted with a lie. To tell the hurtful truth is brave, but to receive the hurtful truth is probably braver.
+Better get hurt by the truth than comforted with a lie. To [tell the hurtful truth](seek-for-the-truth.md) is brave, but to receive the hurtful truth is probably braver.
