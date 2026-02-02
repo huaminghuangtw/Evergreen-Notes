@@ -1,7 +1,7 @@
 ---
 title: Emotion Control
 created: 2024-11-18T09:18:12
-modified: 2026-01-30T06:23:21
+modified: 2026-02-01T17:44:38
 ---
 
 > _“Emotional sickness is avoiding reality at any cost. Emotional health is facing reality at any cost.” — [M. Scott Peck](https://quotefancy.com/m-scott-peck-quotes)_
@@ -26,7 +26,7 @@ Standing up for yourself without getting emotionally worked up (uptight).
 
 ---
 
-The strong person is not the one who can overpower others, but the one who controls themselves in moments of [anger](anger.md).
+The strong person is not the one who can overpower others, but the one who controls themselves in moments of [anger](anger.md).
 
 ---
 
