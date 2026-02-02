@@ -1,7 +1,7 @@
 ---
 title: Apple Shortcuts
 created: 2024-11-18T10:16:50
-modified: 2026-01-25T16:14:19
+modified: 2026-02-02T08:22:16
 ---
 
 [比較]
@@ -132,5 +132,9 @@ Dictionaries are a great way of storing multiple pieces of information at once. 
 ---
 
 [There are some web services for which developers haven’t (yet) added Shortcuts support, there is no app, or that enable you to do more by working directly with the service through its REST (Representational state transfer) API (Application Programming Interface). An API is a way we can talk to (web) applications and get information or send them commands, and a REST API is a common, standardized format for web services.](https://www.takecontrolbooks.com/samples/TCoShortcuts-2.1-sample.pdf)
+
+---
+
+Keep Automation simple and intuitive. If a workflow is complex, package it as a custom Shortcut and use the “Run Shortcut” action. This makes sharing and maintainability much easier.
 
 [^1]: [Run shortcuts from the command line - Apple Support](https://support.apple.com/guide/shortcuts-mac/run-shortcuts-from-the-command-line-apd455c82f02/mac)
