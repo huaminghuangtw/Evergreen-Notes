@@ -1,7 +1,7 @@
 ---
 title: A man who is a master of patience is master of everything else
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:19
+modified: 2026-02-03T08:43:59
 ---
 
 > _[“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)_
@@ -15,6 +15,10 @@ modified: 2026-01-25T16:14:19
 > _“Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.” — John Quincy Adams_
 
 > _“Rivers know this: there is no hurry. We shall get there some day.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)_
+
+> _“Genius is eternal patience.” — Michelangelo_
+>
+> 「天才是耐心的極致。」— 米開朗基羅
 
 ---
 
