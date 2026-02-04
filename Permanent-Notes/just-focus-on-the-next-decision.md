@@ -1,20 +1,20 @@
 ---
 title: Just focus on the next decision
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _[“You are always just one good decision away from being in a better place tomorrow — just focus on the next decision.” — Sahil Bloom](https://www.sahilbloom.com/newsletter/information-action-gap-one-decision-away-more)_
+> [“You are always just one good decision away from being in a better place tomorrow — just focus on the next decision.” — Sahil Bloom](https://www.sahilbloom.com/newsletter/information-action-gap-one-decision-away-more)
 
-> _“Any success takes one in a row. Do one thing well, then another. Once, then once more. Over and over until the end, then it’s one in a row again.” — [@mcconaugheyGreenlights2021]_
+> “Any success takes one in a row. Do one thing well, then another. Once, then once more. Over and over until the end, then it’s one in a row again.” — [@mcconaugheyGreenlights2021]
 
-> _[“At some point, everything’s gonna go south on you and you’re going to say, this is it. This is how I end. Now you can either accept that, or you can get to work. That’s all it is. You just begin. You do the math. You solve one problem and you solve the next one, and then the next. And If you solve enough problems, you get to come home.” — The Martian](https://www.youtube.com/watch?v=mDYCLFE86Po)_
+> [“At some point, everything’s gonna go south on you and you’re going to say, this is it. This is how I end. Now you can either accept that, or you can get to work. That’s all it is. You just begin. You do the math. You solve one problem and you solve the next one, and then the next. And If you solve enough problems, you get to come home.” — The Martian](https://www.youtube.com/watch?v=mDYCLFE86Po)
 
-> _“Doing the best at this moment puts you in the best place for the next moment.” — Oprah Winfrey_
+> “Doing the best at this moment puts you in the best place for the next moment.” — Oprah Winfrey
 
-> _“We take care of the future best by taking care of the present now.” — Jon Kabat-Zinn_
+> “We take care of the future best by taking care of the present now.” — Jon Kabat-Zinn
 
-> _[“You can’t make time go faster or success come sooner. The only thing you can control is the next action.” — James Clear](https://jamesclear.com/3-2-1/april-24-2025)_
+> [“You can’t make time go faster or success come sooner. The only thing you can control is the next action.” — James Clear](https://jamesclear.com/3-2-1/april-24-2025)
 
 ---
 
@@ -34,13 +34,13 @@ Minimum Viable Action
 
 > Stacking the bricks
 
-> _[“You don’t try to build a wall. You don’t start by saying, I’m going to build the biggest, baddest wall that’s ever been built. You say, I’m going to lay this brick as perfectly as a brick can be laid. You do that every single day, and soon you have a wall.” — Will Smith](https://www.youtube.com/watch?v=wIsgyIq_kFs&t=128s)_
+> [“You don’t try to build a wall. You don’t start by saying, I’m going to build the biggest, baddest wall that’s ever been built. You say, I’m going to lay this brick as perfectly as a brick can be laid. You do that every single day, and soon you have a wall.” — Will Smith](https://www.youtube.com/watch?v=wIsgyIq_kFs&t=128s)
 
-> _“No matter what you’re going through, there is always another brick sitting right there in front of you, waiting to be laid. The only question is, are you going to get up and lay it?” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+> “No matter what you’re going through, there is always another brick sitting right there in front of you, waiting to be laid. The only question is, are you going to get up and lay it?” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)
 
 Stop thinking about the damn wall!
 
-> _There is no wall. There are only bricks. Your job is to lay this brick perfectly. Then move on to the next brick. Then lay that brick perfectly. Then the next one. Don’t be worrying about no wall. Your only concern is one brick._
+> There is no wall. There are only bricks. Your job is to lay this brick perfectly. Then move on to the next brick. Then lay that brick perfectly. Then the next one. Don’t be worrying about no wall. Your only concern is one brick.
 
 ---
 

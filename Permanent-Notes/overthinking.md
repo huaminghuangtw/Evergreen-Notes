@@ -1,20 +1,20 @@
 ---
 title: Overthinking
 created: 2025-01-23T10:40:57
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Imagination and fiction make up more than three quarters of our real life.” — Simone Weil_
+> “Imagination and fiction make up more than three quarters of our real life.” — Simone Weil
 
-> _“Everything is created twice, first in the mind and then in reality.” — Robin Sharma_
+> “Everything is created twice, first in the mind and then in reality.” — Robin Sharma
 
-> _“I am an old man and have known a great many troubles, but most of them never happened.” — Mark Twain_
+> “I am an old man and have known a great many troubles, but most of them never happened.” — Mark Twain
 
-> _“We suffer more in imagination than in reality.” — Seneca_
+> “We suffer more in imagination than in reality.” — Seneca
 
-> _“If you spend too much time thinking about a thing, you’ll never get it done.” — Bruce Lee_
+> “If you spend too much time thinking about a thing, you’ll never get it done.” — Bruce Lee
 
-> _“Did you ever stop to think, and forget to start again?” — A.A. Milne_
+> “Did you ever stop to think, and forget to start again?” — A.A. Milne
 
 ---
 

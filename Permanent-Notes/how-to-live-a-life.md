@@ -1,44 +1,44 @@
 ---
 title: How to live a life
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“As long as you live, keep learning how to live.” — Seneca_
+> “As long as you live, keep learning how to live.” — Seneca
 
-> _“Begin at once to live, and count each separate day as a separate life.” — Seneca_
+> “Begin at once to live, and count each separate day as a separate life.” — Seneca
 
-> _“Life is a question and how we live it is our answer.” — [@kellerOneThingSurprisingly2013]_
+> “Life is a question and how we live it is our answer.” — [@kellerOneThingSurprisingly2013]
 
-> _“Life is a balance of holding on and letting go.” — Rumi_
+> “Life is a balance of holding on and letting go.” — Rumi
 
 > _“There are two ways to live: you can live as if nothing is a miracle; you can live as if everything is a miracle.” — Albert Einstein_ [^1]
 
-> _“There is no magic pill or shortcuts in life. The only shortcut is doing something the right way the first time so that you don’t waste any time on the shortcuts.” — Arnold Schwarzenegger_
+> “There is no magic pill or shortcuts in life. The only shortcut is doing something the right way the first time so that you don’t waste any time on the shortcuts.” — Arnold Schwarzenegger
 
-> _“Do not stop thinking of life as an adventure.” — Eleanor Roosevelt_
+> “Do not stop thinking of life as an adventure.” — Eleanor Roosevelt
 
-> _“Life is really simple, but we insist on making it complicated.” — Confucius_
+> “Life is really simple, but we insist on making it complicated.” — Confucius
 
-> _“Live life as though nobody is watching, and express yourself as though everyone is listening.” — Nelson Mandela_
+> “Live life as though nobody is watching, and express yourself as though everyone is listening.” — Nelson Mandela
 
-> _[“I think a good formula for a pretty good life at the simplest level is independence plus purpose. You need to have a purpose that is bigger than yourself… and you need to have the independence to make sure you can do it on your own terms rather than chasing somebody else’s goal. That’s the highest level of psychological well-being, independence and purpose.” — Morgan Housel](https://www.hubermanlab.com/episode/morgan-housel-understand-apply-the-psychology-of-money-to-gain-greater-happiness)_
+> [“I think a good formula for a pretty good life at the simplest level is independence plus purpose. You need to have a purpose that is bigger than yourself… and you need to have the independence to make sure you can do it on your own terms rather than chasing somebody else’s goal. That’s the highest level of psychological well-being, independence and purpose.” — Morgan Housel](https://www.hubermanlab.com/episode/morgan-housel-understand-apply-the-psychology-of-money-to-gain-greater-happiness)
 
-> _“A master in the art of living draws no sharp distinction between his work and his play; his labor and his leisure; his mind and his body; his education and his recreation. He hardly knows which is which. He simply pursues his vision of excellence through whatever he is doing, and leaves others to determine whether he is working or playing. To himself, he always appears to be doing both.” — Lawrence Pearsall Jacks_
+> “A master in the art of living draws no sharp distinction between his work and his play; his labor and his leisure; his mind and his body; his education and his recreation. He hardly knows which is which. He simply pursues his vision of excellence through whatever he is doing, and leaves others to determine whether he is working or playing. To himself, he always appears to be doing both.” — Lawrence Pearsall Jacks
 
-> _“A few simple tips for life: feet on the ground, head to the skies, heart open…quiet mind.” — Rasheed Ogunlaru_
+> “A few simple tips for life: feet on the ground, head to the skies, heart open…quiet mind.” — Rasheed Ogunlaru
 
-> _“Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.” — Norman Vincent Peale_
+> “Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.” — Norman Vincent Peale
 
-> _[“Good friends, good books, and a sleepy conscience: this is the ideal life.” — Mark Twain](https://www.goodreads.com/quotes/360-good-friends-good-books-and-a-sleepy-conscience-this-is)_
+> [“Good friends, good books, and a sleepy conscience: this is the ideal life.” — Mark Twain](https://www.goodreads.com/quotes/360-good-friends-good-books-and-a-sleepy-conscience-this-is)
 
-> _“Life is like school, with one key difference—in school you get the lesson, and then you take the test. But in life, you get the test, and it’s your job to take the lesson.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+> “Life is like school, with one key difference—in school you get the lesson, and then you take the test. But in life, you get the test, and it’s your job to take the lesson.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)
 
-> _「人生不是戰場，不必追求勝利，也沒有勝利可追求，更重要的其實是經歷。」 — 張曼娟_
+> 「人生不是戰場，不必追求勝利，也沒有勝利可追求，更重要的其實是經歷。」 — 張曼娟
 
 > _“Decide what you would like your obituary to say, and live the life to deserve it.” — [Warren Buffet in his final letter to Berkshire Hathaway shareholders](https://www.berkshirehathaway.com/news/nov1025.pdf)
 
-> _“Life isn’t about waiting for the storm to pass. It’s about learning to dance in the rain.” — Vivian Greene_
+> “Life isn’t about waiting for the storm to pass. It’s about learning to dance in the rain.” — Vivian Greene
 >
 > 生活不是等待風暴過去，而是學會在雨中跳舞。
 
@@ -98,7 +98,7 @@ The goal of life isn’t to reach a destination, but to enjoy the journey itself
 
 ---
 
-> _“There is no need to fear any problem you are working on. If you are working on it, then you are influencing the outcome. It’s the problems you don’t address that should concern you.” — James Clear_
+> “There is no need to fear any problem you are working on. If you are working on it, then you are influencing the outcome. It’s the problems you don’t address that should concern you.” — James Clear
 
 You always have 3 options/choices in any circumstance/situation in life — that is:
 
@@ -116,9 +116,9 @@ Life is like a maze. There are two ways to advance your life: [move forward](jus
 
 # 德國哲學家康德（[Immanuel Kant](https://www.google.com/search?q=Immanuel+Kant)）的「人性公式」（Formel der Menschheit）
 
-> _“Handle so, dass du die Menschheit, sowohl in deiner Person, also in der Person eines jeden andern, jederzeit zugleich also Zweck, niemals bloß also Mittel brauchst.” — Immanuel Kant,《[道德形上學基礎](https://zh.wikipedia.org/zh-tw/%E9%81%93%E5%BE%B7%E5%BD%A2%E4%B8%8A%E5%AD%B8%E5%9F%BA%E7%A4%8E)》（Grundlegung zur Metaphysik der Sitten, 1785）_
+> “Handle so, dass du die Menschheit, sowohl in deiner Person, also in der Person eines jeden andern, jederzeit zugleich also Zweck, niemals bloß also Mittel brauchst.” — Immanuel Kant,《[道德形上學基礎](https://zh.wikipedia.org/zh-tw/%E9%81%93%E5%BE%B7%E5%BD%A2%E4%B8%8A%E5%AD%B8%E5%9F%BA%E7%A4%8E)》（Grundlegung zur Metaphysik der Sitten, 1785）
 >
-> _[Act in such a way that you treat humanity, whether in your own person or in the person of any other, never merely as a means to an end, but always at the same time as an end.](https://www.goodreads.com/quotes/34313-act-in-such-a-way-that-you-treat-humanity-whether)_
+> [Act in such a way that you treat humanity, whether in your own person or in the person of any other, never merely as a means to an end, but always at the same time as an end.](https://www.goodreads.com/quotes/34313-act-in-such-a-way-that-you-treat-humanity-whether)
 >
 > 把生命當成目的本身，而不是達成目的的手段。
 

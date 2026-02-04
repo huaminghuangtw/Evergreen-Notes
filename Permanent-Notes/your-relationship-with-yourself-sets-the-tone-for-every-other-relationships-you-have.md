@@ -1,30 +1,30 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
 created: 2024-11-18T09:18:12
-modified: 2025-12-24T13:15:07
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Your relationship with yourself sets the tone for every other relationship you have.” — Robert Holden_
+> “Your relationship with yourself sets the tone for every other relationship you have.” — Robert Holden
 
-> _“How you love yourself is how you teach others to love you.” — Rupo Kaur_
+> “How you love yourself is how you teach others to love you.” — Rupo Kaur
 
 > _“The outer world is a reflection of the inner world. [^1] Other people’s perception of you is a reflection of them; your response to them is an awareness of you.” — Roy T. Bennett_ [^2]
 
-> _“Anytime we can listen to true self and give the care it requires, we do it not only for ourselves, but for the many others whose lives we touch.” — Parker Palmer_
+> “Anytime we can listen to true self and give the care it requires, we do it not only for ourselves, but for the many others whose lives we touch.” — Parker Palmer
 
 [@rubinSecretsAdulthoodSimple2025]
 
-> _“If you find it hard to take good care of yourself, care for yourself like a toddler: Don’t let yourself get too hungry, too tired, or too uncomfortable; too bored, too lonely, or too overwhelmed.” — Gretchen Rubin_
+> “If you find it hard to take good care of yourself, care for yourself like a toddler: Don’t let yourself get too hungry, too tired, or too uncomfortable; too bored, too lonely, or too overwhelmed.” — Gretchen Rubin
 
 > _“You are not one person, but three: The one you think you are; The one others think you are; The one you really are.” — Sathya Sai Baba_ [^3]
 
-> _“If I am not good to myself, how can I expect anyone else to be good to me?” — Maya Angelou_
+> “If I am not good to myself, how can I expect anyone else to be good to me?” — Maya Angelou
 
-> _“When you are content to be simply yourself and don’t compare or compete, everyone will respect you.” — Lao Tzu_
+> “When you are content to be simply yourself and don’t compare or compete, everyone will respect you.” — Lao Tzu
 
-> _“Low self esteem is like driving through life with your handbrake on.” — Maxwell Maltz_
+> “Low self esteem is like driving through life with your handbrake on.” — Maxwell Maltz
 
-> _“To choose doubt as a philosophy of life is akin to choosing immobility as a means of transportation.” — Yann Martel_
+> “To choose doubt as a philosophy of life is akin to choosing immobility as a means of transportation.” — Yann Martel
 
 ---
 
@@ -56,9 +56,9 @@ If you switched bodies with the person you love most for a year, how would you t
 
 ---
 
-> _“The urge to transcend self-conscious selfhood is a principal appetite of the soul.” — Aldous Huxley_
+> “The urge to transcend self-conscious selfhood is a principal appetite of the soul.” — Aldous Huxley
 
-> _[“There are two basic motivating forces: fear and love. When we are afraid, we pull back from life. When we are in love, we open to all that life has to offer with passion, excitement, and acceptance. We need to learn to love ourselves first, in all our glory and our imperfections. If we cannot love ourselves, we cannot fully open to our ability to love others or our potential to create. Evolution and all hopes for a better world rest in the fearlessness and open-hearted vision of people who embrace life.” — John Lennon](https://www.goodreads.com/quotes/26411-there-are-two-basic-motivating-forces-fear-and-love-when)_
+> [“There are two basic motivating forces: fear and love. When we are afraid, we pull back from life. When we are in love, we open to all that life has to offer with passion, excitement, and acceptance. We need to learn to love ourselves first, in all our glory and our imperfections. If we cannot love ourselves, we cannot fully open to our ability to love others or our potential to create. Evolution and all hopes for a better world rest in the fearlessness and open-hearted vision of people who embrace life.” — John Lennon](https://www.goodreads.com/quotes/26411-there-are-two-basic-motivating-forces-fear-and-love-when)
 
 Prefer dignity (尊嚴) for yourself. Don’t be afraid to be thought arrogant or selfish. The most courageous act is to think for yourself. Aloud.
 

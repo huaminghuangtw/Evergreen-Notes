@@ -1,20 +1,20 @@
 ---
 title: The Beginner Mindset
 created: 2024-11-18T09:18:12
-modified: 2026-01-30T06:21:16
+modified: 2026-02-05T07:51:24
 ---
 
-> _“It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” — Mark Twain_
+> “It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” — Mark Twain
 
-> _“I am always doing that which I cannot do, in order that I may learn how to do it.” — Pablo Picasso_
+> “I am always doing that which I cannot do, in order that I may learn how to do it.” — Pablo Picasso
 
-> _[“In many cases, you’ll find the only thing preventing you from learning is your ego. No one enjoys feeling foolish, but attempting something new requires that you climb down from your perch and struggle as a beginner. You must ask questions that reveal your ignorance or attempt skills that make you look uncoordinated. Learning demands the willingness to live in a brief state of discomfort. You must believe that looking like a fool for an hour will not ruin your reputation for life.” — James Clear](https://jamesclear.com/3-2-1/october-24-2024)_
+> [“In many cases, you’ll find the only thing preventing you from learning is your ego. No one enjoys feeling foolish, but attempting something new requires that you climb down from your perch and struggle as a beginner. You must ask questions that reveal your ignorance or attempt skills that make you look uncoordinated. Learning demands the willingness to live in a brief state of discomfort. You must believe that looking like a fool for an hour will not ruin your reputation for life.” — James Clear](https://jamesclear.com/3-2-1/october-24-2024)
 
-> _“Every act of conscious [learning](learning-is-the-single-best-investment-that-you-can-make-for-your-time.md) requires the willingness to suffer an [injury to one’s self-esteem](abandon-your-ego.md). That is why young children, before they are aware of their own self-importance, learn so easily; and why older persons, especially if vain or important, cannot learn at all.” — Thomas Szasz_
+> “Every act of conscious [learning](learning-is-the-single-best-investment-that-you-can-make-for-your-time.md) requires the willingness to suffer an [injury to one’s self-esteem](abandon-your-ego.md). That is why young children, before they are aware of their own self-importance, learn so easily; and why older persons, especially if vain or important, cannot learn at all.” — Thomas Szasz
 
-> _“You can’t be content with mastery; you have to push yourself to become a student again.” — [@kleonShowYourWork2014]_
+> “You can’t be content with mastery; you have to push yourself to become a student again.” — [@kleonShowYourWork2014]
 
-> _“In the beginner’s mind there are many possibilities; in the expert’s mind there are few.” — Shunryu Suzuki_
+> “In the beginner’s mind there are many possibilities; in the expert’s mind there are few.” — Shunryu Suzuki
 
 ---
 
@@ -79,7 +79,7 @@ Naivety (= naiveness = naïveté)
 >
 > The master smiled and said, “Just like this cup, you are filled with your own thoughts. There’s no room for anything new. Come back when your cup is empty.”
 
-> _“Empty your cup so that it may be filled; become devoid to gain totality.” — Bruce Lee_
+> “Empty your cup so that it may be filled; become devoid to gain totality.” — Bruce Lee
 
 ---
 

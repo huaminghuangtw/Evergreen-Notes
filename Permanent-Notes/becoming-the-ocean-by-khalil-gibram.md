@@ -1,25 +1,25 @@
 ---
 title: Becoming the Ocean by Khalil Gibram
 created: 2025-12-30T08:00:33
-modified: 2025-12-30T18:51:05
+modified: 2026-02-05T07:51:24
 ---
 
-> _It is said that before entering the sea,_
+> It is said that before entering the sea,
 >
-> _a river trembles with fear._
+> a river trembles with fear.
 >
-> _She looks back at the path she has traveled,_
+> She looks back at the path she has traveled,
 >
-> _from the peaks of the mountains, the long winding road crossing forests and villages._
+> from the peaks of the mountains, the long winding road crossing forests and villages.
 >
-> _And in front of her, she sees an ocean so vast, that to enter there seems nothing more than to disappear forever._
+> And in front of her, she sees an ocean so vast, that to enter there seems nothing more than to disappear forever.
 >
-> _But there is no other way._
+> But there is no other way.
 >
-> _The river can not go back._
+> The river can not go back.
 >
-> _Nobody can go back._
+> Nobody can go back.
 >
-> _To go back is impossible in existence._
+> To go back is impossible in existence.
 >
-> _<mark>The river needs to take the risk of entering the ocean because only then will fear disappear because that’s where the river will know it’s not about disappearing into the ocean, but of becoming the ocean.</mark>_
+> <mark>The river needs to take the risk of entering the ocean because only then will fear disappear because that’s where the river will know it’s not about disappearing into the ocean, but of becoming the ocean.</mark>

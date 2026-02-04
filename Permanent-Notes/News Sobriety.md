@@ -1,12 +1,12 @@
 ---
 title: News Sobriety
 created: 2024-11-18T09:18:12
-modified: 2025-12-17T19:13:45
+modified: 2026-02-05T07:51:24
 ---
 
-> _“If you don’t read the newspaper, you’re uninformed. If you read the newspaper, you’re misinformed.” — Mark Twain_
+> “If you don’t read the newspaper, you’re uninformed. If you read the newspaper, you’re misinformed.” — Mark Twain
 
-> _[“People everywhere confuse what they read in newspapers with news.” — A. J. Liebling](https://www.goodreads.com/quotes/77035-people-everywhere-confuse-what-they-read-in-newspapers-with-news)_
+> [“People everywhere confuse what they read in newspapers with news.” — A. J. Liebling](https://www.goodreads.com/quotes/77035-people-everywhere-confuse-what-they-read-in-newspapers-with-news)
 
 ---
 

@@ -1,38 +1,38 @@
 ---
 title: Happiness
 created: 2024-11-18T09:18:12
-modified: 2026-02-04T14:00:22
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Happiness is a state where nothing is missing.” — Naval Ravikant_
+> “Happiness is a state where nothing is missing.” — Naval Ravikant
 
-> _“Happiness is not about positive or negative thoughts — it’s about [the absence of desire](the-absence-of-desire-is-true-happiness.md), especially the absence of desire for external things.” — Naval Ravikant_
+> “Happiness is not about positive or negative thoughts — it’s about [the absence of desire](the-absence-of-desire-is-true-happiness.md), especially the absence of desire for external things.” — Naval Ravikant
 
-> _“Happiness is a perfume you cannot pour on others without getting a few drops on yourself.” — Ralph Waldo Emerson_
+> “Happiness is a perfume you cannot pour on others without getting a few drops on yourself.” — Ralph Waldo Emerson
 
-> _“You will never be happy if you continue to search for what happiness consists of.” — Albert Camus_
+> “You will never be happy if you continue to search for what happiness consists of.” — Albert Camus
 
-> _“The search for happiness is one of the chief sources of unhappiness.” — Eric Hoffer_
+> “The search for happiness is one of the chief sources of unhappiness.” — Eric Hoffer
 
-> _“As soon as we wish to be happier, we are no longer happy.” — Walter Landor_
+> “As soon as we wish to be happier, we are no longer happy.” — Walter Landor
 
-> _“Happiness is holding someone in your arms and knowing you hold the whole world.” — Orhan Pamu_
+> “Happiness is holding someone in your arms and knowing you hold the whole world.” — Orhan Pamu
 
-> _“Happiness cannot be pursued; it must ensue.” — Viktor E. Frankl_
+> “Happiness cannot be pursued; it must ensue.” — Viktor E. Frankl
 
-> _“Happiness is good health and a bad memory.” — Ingrid Bergman_
+> “Happiness is good health and a bad memory.” — Ingrid Bergman
 
-> _“Happiness is not something ready made. It comes from your own actions.” — Tenzin Gyatso._
+> “Happiness is not something ready made. It comes from your own actions.” — Tenzin Gyatso.
 
-> _[“The happiest people seem to be those who have no particular cause for being happy except that they are so.” — William Inge](https://www.google.com/search?q=%22The%20happiest%20people%20seem%20to%20be%20those%20who%20have%20no%20particular%20cause%20for%20being%20happy%20except%20that%20they%20are%20so.%22%20%E2%80%94%20William%20Inge)_
+> [“The happiest people seem to be those who have no particular cause for being happy except that they are so.” — William Inge](https://www.google.com/search?q=%22The%20happiest%20people%20seem%20to%20be%20those%20who%20have%20no%20particular%20cause%20for%20being%20happy%20except%20that%20they%20are%20so.%22%20%E2%80%94%20William%20Inge)
 
-> _“The happiest people in the world are those who feel absolutely terrific about themselves.” — Brian Tracy_
+> “The happiest people in the world are those who feel absolutely terrific about themselves.” — Brian Tracy
 
-> _[“Happiness can be found even in the darkest of times, if one only remembers to turn on the light.” — J.K. Rowling, Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/quotes/1266091-happiness-can-be-found-even-in-the-darkest-of-times)_
+> [“Happiness can be found even in the darkest of times, if one only remembers to turn on the light.” — J.K. Rowling, Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/quotes/1266091-happiness-can-be-found-even-in-the-darkest-of-times)
 
-> _“What I ‘discovered’ was that happiness is not something that happens. It is not the result of good fortune or random chance. It is not something that money can buy or power command. It does not depend on outside events, but, rather, on how we interpret them. Happiness, in fact, is a condition that must be prepared for, cultivated, and defended privately by each person. People who learn to control inner experience will be able to determine the quality of their lives, which is as close as any of us come to being happy.” — Mihalyi Csikszentmihalyi_
+> “What I ‘discovered’ was that happiness is not something that happens. It is not the result of good fortune or random chance. It is not something that money can buy or power command. It does not depend on outside events, but, rather, on how we interpret them. Happiness, in fact, is a condition that must be prepared for, cultivated, and defended privately by each person. People who learn to control inner experience will be able to determine the quality of their lives, which is as close as any of us come to being happy.” — Mihalyi Csikszentmihalyi
 
-> _“I think of happiness as an emergent property of [peace](peace-from-mind.md). If you’re peaceful inside and out, that will eventually result in happiness. But peace is a very hard thing to come by. The irony is the way most of us try to find peace is through war. When you start a business, in a way, you’re going to war. When you struggle with your roommates as to who should clean the dishes, you’re going to war. You’re struggling so you can have some sense of security and peace later. In reality, peace is not a guarantee. It’s always flowing. It’s always changing. You want to learn the core skill set of flowing with life and accepting it in most cases. **You can get almost anything you want out of life, as long as it’s one thing and you want it far more than anything else.** In my own personal experience, the place I end up the most is wanting to be at peace. **Peace is happiness at rest, and happiness is peace in motion.** You can convert peace into happiness anytime you want. But peace is what you want most of the time. If you’re a peaceful person, anything you do will be a happy activity. Today, the way we think you get peace is by resolving all your external problems. But there are unlimited external problems.” — Naval Ravikant_
+> “I think of happiness as an emergent property of [peace](peace-from-mind.md). If you’re peaceful inside and out, that will eventually result in happiness. But peace is a very hard thing to come by. The irony is the way most of us try to find peace is through war. When you start a business, in a way, you’re going to war. When you struggle with your roommates as to who should clean the dishes, you’re going to war. You’re struggling so you can have some sense of security and peace later. In reality, peace is not a guarantee. It’s always flowing. It’s always changing. You want to learn the core skill set of flowing with life and accepting it in most cases. **You can get almost anything you want out of life, as long as it’s one thing and you want it far more than anything else.** In my own personal experience, the place I end up the most is wanting to be at peace. **Peace is happiness at rest, and happiness is peace in motion.** You can convert peace into happiness anytime you want. But peace is what you want most of the time. If you’re a peaceful person, anything you do will be a happy activity. Today, the way we think you get peace is by resolving all your external problems. But there are unlimited external problems.” — Naval Ravikant
 
 ---
 
@@ -73,7 +73,7 @@ Happiness
 
 = Health + Relationships + Wealth
 
-> _“Happiness is not something ready made. It comes from your own actions.” — Dalai Lama_
+> “Happiness is not something ready made. It comes from your own actions.” — Dalai Lama
 
 = [Agency](cultivate-a-strong-bias-towards-action.md) + [Gratitude](be-grateful.md) [^1]
 
@@ -96,7 +96,7 @@ Happiness
 
 ---
 
-> _“There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.” — Denis Waitley_
+> “There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.” — Denis Waitley
 
 There are two ways to be happier:
 

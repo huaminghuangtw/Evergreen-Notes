@@ -1,22 +1,22 @@
 ---
 title: Planning and preparation help maximize your productivity
 created: 2024-12-12T16:22:20
-modified: 2026-01-24T16:30:45
+modified: 2026-02-05T07:51:24
 ---
 
-> _[“The antidote to impulsiveness is forethought.” — Nir Eyal](https://www.youtube.com/watch?v=VVez_sI1zTU)_
+> [“The antidote to impulsiveness is forethought.” — Nir Eyal](https://www.youtube.com/watch?v=VVez_sI1zTU)
 
-> _“Failing to prepare is preparing to fail.” — John Wooden_
+> “Failing to prepare is preparing to fail.” — John Wooden
 
-> _“You waste years by not being able to waste hours.” — Amor Tversky_
+> “You waste years by not being able to waste hours.” — Amor Tversky
 
-> _“There is an inverse relationship between things on your mind and those things getting done”. — David Allen_
+> “There is an inverse relationship between things on your mind and those things getting done”. — David Allen
 
-> _“People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.” — Brian Tracy_
+> “People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.” — Brian Tracy
 
-> _“Chance favors only the prepared mind.” — Louis Pasteur_
+> “Chance favors only the prepared mind.” — Louis Pasteur
 
-> _“In preparing for battle I have always found that plans are useless, but planning is indispensable.” — Dwight D. Eisenhower_
+> “In preparing for battle I have always found that plans are useless, but planning is indispensable.” — Dwight D. Eisenhower
 >
 > 在準備一場戰役的時候，我總是發現計劃是沒有用的，但計劃又是不可或缺的。
 
@@ -46,7 +46,7 @@ Planning and [doing](cultivate-a-strong-bias-towards-action.md) are two differen
 
 ❗Too much → [Procrastination](procrastination.md)
 
-> _“Patience only works if you do. Doing the work + patience = results. Planning to work + patience = procrastination” — James Clear_
+> “Patience only works if you do. Doing the work + patience = results. Planning to work + patience = procrastination” — James Clear
 
 ---
 
@@ -73,7 +73,7 @@ It’s not about idling; it’s about using the pause to build [what comes next]
 
 ---
 
-> _“Give me six hours to chop down a tree and I’ll spend the first four sharpening the axe.” —Abraham Lincoln_
+> “Give me six hours to chop down a tree and I’ll spend the first four sharpening the axe.” —Abraham Lincoln
 
 It’s important to take time to [sharpen the saw](https://sketchplanations.com/sharpen-the-saw).
 

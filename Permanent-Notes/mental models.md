@@ -1,12 +1,12 @@
 ---
 title: mental models
 created: 2024-11-18T09:18:12
-modified: 2026-01-11T07:16:37
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Being aware of your mental models is key to being objective.” — Elizabeth Thornton_
+> “Being aware of your mental models is key to being objective.” — Elizabeth Thornton
 
-> _“Eloquence is a painting of the thoughts.” — Blaise Pascal_
+> “Eloquence is a painting of the thoughts.” — Blaise Pascal
 
 ---
 

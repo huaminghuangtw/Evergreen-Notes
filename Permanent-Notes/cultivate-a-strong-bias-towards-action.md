@@ -1,30 +1,30 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2026-02-01T17:44:38
+modified: 2026-02-05T07:51:24
 ---
 
-> _“To be is to do.” — Immanuel Kant_
+> “To be is to do.” — Immanuel Kant
 
-> _“Nothing will work unless you do.” — Maya Angelou_
+> “Nothing will work unless you do.” — Maya Angelou
 
-> _“It is better to light a single candle than to curse the darkness.” — Eleanor Roosevelt_
+> “It is better to light a single candle than to curse the darkness.” — Eleanor Roosevelt
 
-> _“Strategy is a commodity, execution is an art.” — Peter Drucker_
+> “Strategy is a commodity, execution is an art.” — Peter Drucker
 
-> _“You miss 100% of the shots you don’t take.” — [Michael Scott](https://www.google.com/search?q=Michael%20Scott)_
+> “You miss 100% of the shots you don’t take.” — [Michael Scott](https://www.google.com/search?q=Michael%20Scott)
 
-> _“Knowing is not enough, we must apply. Willing is not enough, we must do.” — Johann Wolfgang von Goethe_
+> “Knowing is not enough, we must apply. Willing is not enough, we must do.” — Johann Wolfgang von Goethe
 
-> _“The actions of men are the best interpreters of their thoughts.” — James Joyce_
+> “The actions of men are the best interpreters of their thoughts.” — James Joyce
 
-> _“It isn’t what we say or think that defines us, but what we do.” — Jane Austen_
+> “It isn’t what we say or think that defines us, but what we do.” — Jane Austen
 
-> _“A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.” — George Bernard Shaw_
+> “A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.” — George Bernard Shaw
 
-> _“Some people want it to happen, some wish it would happen, others make it happen.” — Michael Jordan_
+> “Some people want it to happen, some wish it would happen, others make it happen.” — Michael Jordan
 
-> _[“The universe doesn’t give you what you ask for with your thoughts - it gives you what you demand with your actions.” — Steve Maraboli, Life, the Truth, and Being Free](https://www.goodreads.com/quotes/319474-the-universe-doesn-t-give-you-what-you-ask-for-with)_
+> [“The universe doesn’t give you what you ask for with your thoughts - it gives you what you demand with your actions.” — Steve Maraboli, Life, the Truth, and Being Free](https://www.goodreads.com/quotes/319474-the-universe-doesn-t-give-you-what-you-ask-for-with)
 
 [@pressfieldWarArtBreak2003]
 
@@ -32,15 +32,15 @@ modified: 2026-02-01T17:44:38
 
 [@gogginsCantHurtMe2018]
 
-> _“Our culture has become hooked on the quick-fix, the life hack, efficiency. Everyone is on the hunt for that simple action algorithm that nets maximum profit with the least amount of effort. There’s no denying this attitude may get you some of the trappings of success, if you’re lucky, but it will not lead to a calloused mind or self-mastery. If you want to master the mind and remove your governor, you’ll have to become addicted to hard work. Because passion and obsession, even talent, are only useful tools if you have the work ethic to back them up.”_
+> “Our culture has become hooked on the quick-fix, the life hack, efficiency. Everyone is on the hunt for that simple action algorithm that nets maximum profit with the least amount of effort. There’s no denying this attitude may get you some of the trappings of success, if you’re lucky, but it will not lead to a calloused mind or self-mastery. If you want to master the mind and remove your governor, you’ll have to become addicted to hard work. Because passion and obsession, even talent, are only useful tools if you have the work ethic to back them up.”
 
-> _[“The problem with smart people is they can come up with a good reason for not doing anything. They are smart enough to find the cracks, to foresee the challenges, and to talk themselves out of the idea. They are experts at justifying their lack of courage or lack of action with an intelligent excuse. But there will always be reasons to not do something, and this is particularly true of anything worth doing. We value those moments in which we overcame challenge, not those in which we avoided it. Ultimately, action is a choice. The choice to emphasize the reasons for doing it despite the reasons you have for avoiding it.” — James Clear](https://jamesclear.com/3-2-1/august-8-2024)_
+> [“The problem with smart people is they can come up with a good reason for not doing anything. They are smart enough to find the cracks, to foresee the challenges, and to talk themselves out of the idea. They are experts at justifying their lack of courage or lack of action with an intelligent excuse. But there will always be reasons to not do something, and this is particularly true of anything worth doing. We value those moments in which we overcame challenge, not those in which we avoided it. Ultimately, action is a choice. The choice to emphasize the reasons for doing it despite the reasons you have for avoiding it.” — James Clear](https://jamesclear.com/3-2-1/august-8-2024)
 
-> _[Action kills anxiety](stress-and-anxiety.md). You only feel afraid of doing the thing when you’re not doing the thing. Once you’re doing it, you just focus on doing it. If you want to get fit, go to the gym. Right now. If you want to build a business, find one thing you can do and do it. Right now. If you want to expand your network, start sending cold DMs. Right now. If you want a romantic partner, join a group where you might meet someone. Right now. The more you procrastinate, the worse you’ll feel. [Get in the arena.](https://www.workingtheorys.com/p/before-the-crowd) It’s ironically easier to be in it than anxiously watching and waiting on the sidelines.” — Charles Miller_
+> [Action kills anxiety](stress-and-anxiety.md). You only feel afraid of doing the thing when you’re not doing the thing. Once you’re doing it, you just focus on doing it. If you want to get fit, go to the gym. Right now. If you want to build a business, find one thing you can do and do it. Right now. If you want to expand your network, start sending cold DMs. Right now. If you want a romantic partner, join a group where you might meet someone. Right now. The more you procrastinate, the worse you’ll feel. [Get in the arena.](https://www.workingtheorys.com/p/before-the-crowd) It’s ironically easier to be in it than anxiously watching and waiting on the sidelines.” — Charles Miller
 
-> _“You can’t climb the ladder of success with your hands in your pockets.” — Arnold Schwarzenegger_
+> “You can’t climb the ladder of success with your hands in your pockets.” — Arnold Schwarzenegger
 
-> _[“Action isn’t just the effect of motivation, but also the cause of it.” — Mark Manson](https://www.goodreads.com/quotes/11945271-action-isn-t-just-the-effect-of-motivation-it-s-also-the)_
+> [“Action isn’t just the effect of motivation, but also the cause of it.” — Mark Manson](https://www.goodreads.com/quotes/11945271-action-isn-t-just-the-effect-of-motivation-it-s-also-the)
 
 > _[“You do not write your life with words. You write it with actions. What you think is not important. It is only important what you do.” — Patrick Ness, A Monster Calls](https://www.goodreads.com/quotes/394528-you-do-not-write-your-life-with-words-you-write-it)_ [^3] [^4]
 
@@ -113,7 +113,7 @@ Remember: [The world is run by people no smarter than you.](https://www.swyx.io/
 
 # Identify and close your **Say-Do Gap**
 
-> _“All know the way; few actually walk it.” — Bodhidharma_
+> “All know the way; few actually walk it.” — Bodhidharma
 
 大部分的人在「知道」和「做到」之間有很大的鴻溝（知易行難）
 
@@ -130,7 +130,7 @@ Remember: [The world is run by people no smarter than you.](https://www.swyx.io/
 </mark>
 ---
 
-> _“Inaction breeds doubt and fear. Action breeds confidence and courage.” — Dale Carnegie_
+> “Inaction breeds doubt and fear. Action breeds confidence and courage.” — Dale Carnegie
 
 Every single thing you want in life is on the other side of something you don’t want to do. The answers you seek are found in the actions you avoid.
 
@@ -174,7 +174,7 @@ There is no later, because later you’ll be [dead](death.md).
 
 # Stop Gathering More Information And Start Acting On The Information You Already Have.
 
-> _“Wanting more information is often just a form of procrastination.” — Russ Roberts_
+> “Wanting more information is often just a form of procrastination.” — Russ Roberts
 
 * Information is abundant, action is hard. Execution is everything.
 * Ideas are easy. It’s the execution of ideas that really separates the sheep from the goats.
@@ -215,11 +215,11 @@ There is no later, because later you’ll be [dead](death.md).
 >
 > Reading about how to do the thing isn’t doing the thing. Reading about how other people did the thing isn’t doing the thing. Reading this essay isn’t doing the thing.
 >
-> _The only thing that is doing the thing is doing the thing._
+> The only thing that is doing the thing is doing the thing.
 
 ---
 
-> _“It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.” — [“The Man In The Arena” speech given by Theodore Roosevelt on April 23, 1910, in Paris, France](https://www.youtube.com/watch?v=A311CnTjfos)_
+> “It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.” — [“The Man In The Arena” speech given by Theodore Roosevelt on April 23, 1910, in Paris, France](https://www.youtube.com/watch?v=A311CnTjfos)
 
 The line — from Theodore Roosevelt’s famous 1910 speech “[Citizenship in a Republic](https://en.wikipedia.org/wiki/Citizenship_in_a_Republic)” (often called “The Man in the Arena” speech) — captures a timeless idea about courage, effort, and authenticity.
 

@@ -1,12 +1,12 @@
 ---
 title: Always start and end the day right
 created: 2025-01-23T10:40:57
-modified: 2026-01-26T07:16:07
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Every morning in Africa, a gazelle wakes up, it knows it must outrun the fastest lion or it will be killed. Every morning in Africa, a lion wakes up. It knows it must run faster than the slowest gazelle, or it will starve. It doesn’t matter whether you’re the lion or a gazelle-when the sun comes up, you’d better be running.” — Christopher McDougall_
+> “Every morning in Africa, a gazelle wakes up, it knows it must outrun the fastest lion or it will be killed. Every morning in Africa, a lion wakes up. It knows it must run faster than the slowest gazelle, or it will starve. It doesn’t matter whether you’re the lion or a gazelle-when the sun comes up, you’d better be running.” — Christopher McDougall
 
-> _“Write it on your heart that every day is the best day in the year. He is rich who owns the day, and no one owns the day who allows it to be invaded with fret and anxiety. Finish every day and be done with it. You have done what you could.” — Ralph Waldo Emerson_
+> “Write it on your heart that every day is the best day in the year. He is rich who owns the day, and no one owns the day who allows it to be invaded with fret and anxiety. Finish every day and be done with it. You have done what you could.” — Ralph Waldo Emerson
 
 ---
 
@@ -24,7 +24,7 @@ Reserve the first and last part of your day for activities that support your men
 
 # Evening Routine
 
-> _“Quality time off, leads to quality time on.” — Max Klein_
+> “Quality time off, leads to quality time on.” — Max Klein
 
 Morning routines _start with evening routines the night before_: If you want to win the day, you have to win the morning, but in reality, to win the morning, you have to win the evening first. [^1]
 
@@ -90,7 +90,7 @@ Rather than squandering this prime mental state on activities meant to _prepare_
 
 ---
 
-> _“Whenever I see another entrepreneur who’s obsessive about their routines things like if I don’t have my morning routine I’m a mess or I can’t even function I am so grateful because it just shows how weak they are.” — Alex Hormozi_
+> “Whenever I see another entrepreneur who’s obsessive about their routines things like if I don’t have my morning routine I’m a mess or I can’t even function I am so grateful because it just shows how weak they are.” — Alex Hormozi
 
 * _Alex Hormozi’s Morning Routine_
 		1. Wake up

@@ -1,26 +1,26 @@
 ---
 title: You don’t need to be liked to be loved
 created: 2025-10-18T16:54:28
-modified: 2026-01-30T06:29:14
+modified: 2026-02-05T07:51:24
 ---
 
-> _“When you say yes to others, make sure you are not saying no to yourself.” — Paulo Coelho_
+> “When you say yes to others, make sure you are not saying no to yourself.” — Paulo Coelho
 
-> _“I’m not in this world to live up to your expectations and you’re not in this world to live up to mine.” — Bruce Lee_
+> “I’m not in this world to live up to your expectations and you’re not in this world to live up to mine.” — Bruce Lee
 
 ---
 
-> _“Be yourself; everyone else is already taken.” — Oscar Wilde_
+> “Be yourself; everyone else is already taken.” — Oscar Wilde
 
-> _“You are loved just for being who you are.” — Ram Dass_
+> “You are loved just for being who you are.” — Ram Dass
 
-> _“Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.” — Dr. Seuss_
+> “Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.” — Dr. Seuss
 
 [To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.](https://www.goodreads.com/quotes/876-to-be-yourself-in-a-world-that-is-constantly-trying) Be true to yourself.
 
 ---
 
-> _[“Your job, throughout your entire life, is to disappoint as many people as it takes to avoid disappointing yourself.” — Glennon Doyle](https://www.goodreads.com/quotes/10286222-your-job-throughout-your-entire-life-is-to-disappoint-as)_
+> [“Your job, throughout your entire life, is to disappoint as many people as it takes to avoid disappointing yourself.” — Glennon Doyle](https://www.goodreads.com/quotes/10286222-your-job-throughout-your-entire-life-is-to-disappoint-as)
 
 Sometimes when you say no to others it opens a pathway to a hell yes for yourself. To grow, you have to disappoint some people. [Saying no](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md) is a form of self-respect. Don’t be the one to tell yourself no.
 

@@ -1,18 +1,18 @@
 ---
 title: Life is cyclic
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Life is like a wheel. Sooner or later, it always comes around to where you started again.” — Stephen King_
+> “Life is like a wheel. Sooner or later, it always comes around to where you started again.” — Stephen King
 
-> _“Nobody’s going to win all the time. On the highway of life you can’t always be in the fast lane.” — Haruki Murakami, [What I Talk About When I Talk About Running](https://www.goodreads.com/work/quotes/2475030)_
+> “Nobody’s going to win all the time. On the highway of life you can’t always be in the fast lane.” — Haruki Murakami, [What I Talk About When I Talk About Running](https://www.goodreads.com/work/quotes/2475030)
 
-> _“Everything in life opens and closes, sheds and renews. We are no different.” — Mark Nepo_
+> “Everything in life opens and closes, sheds and renews. We are no different.” — Mark Nepo
 
-> _[“My experience of life is that it is not divided up into genres; it’s a horrifying, romantic, tragic, comical, science-fiction cowboy detective novel. You know, with a bit of pornography if you’re lucky.” — Alan Moore]([https://www.goodreads.com/quotes/1981-my-experience-of-life-is-that-it-is-not-divided](https://www.goodreads.com/quotes/1981-my-experience-of-life-is-that-it-is-not-divided))_
+> [“My experience of life is that it is not divided up into genres; it’s a horrifying, romantic, tragic, comical, science-fiction cowboy detective novel. You know, with a bit of pornography if you’re lucky.” — Alan Moore]([https://www.goodreads.com/quotes/1981-my-experience-of-life-is-that-it-is-not-divided](https://www.goodreads.com/quotes/1981-my-experience-of-life-is-that-it-is-not-divided))
 
-> _“There is a time for everything, and a season for every activity under the heavens.” — Ecclesiastes 3:1_
+> “There is a time for everything, and a season for every activity under the heavens.” — Ecclesiastes 3:1
 >
 > 「天下萬物皆有定時。」—《聖經・舊約・傳道書第 3 章第 1 節》
 

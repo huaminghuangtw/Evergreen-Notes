@@ -1,32 +1,32 @@
 ---
 title: Focus is about saying no
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-02-05T07:51:24
 ---
 
-> _“If you chase two rabbits, you catch none.” — Confucius_
+> “If you chase two rabbits, you catch none.” — Confucius
 
-> _“He who chases two hares catches neither.” — Desiderius Erasmus_
+> “He who chases two hares catches neither.” — Desiderius Erasmus
 
-> _[“Focus is about saying no.” — Steve Jobs](https://www.youtube.com/watch?v=H8eP99neOVs)_
+> [“Focus is about saying no.” — Steve Jobs](https://www.youtube.com/watch?v=H8eP99neOVs)
 
-> _[“People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.” — Steve Jobs](https://www.goodreads.com/quotes/629613-people-think-focus-means-saying-yes-to-the-thing-you-ve)_
+> [“People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.” — Steve Jobs](https://www.goodreads.com/quotes/629613-people-think-focus-means-saying-yes-to-the-thing-you-ve)
 
-> _“Deciding what not to do is as important as deciding what to do.” — Steve Jobs_
+> “Deciding what not to do is as important as deciding what to do.” — Steve Jobs
 
-> _“In a world where [information is abundant and easy to access](information-overwhelm.md), the real advantage is knowing where to focus.” — James Clear_
+> “In a world where [information is abundant and easy to access](information-overwhelm.md), the real advantage is knowing where to focus.” — James Clear
 
-> _[“You’re not focused enough unless you’re mourning some of the things you’re saying no to.” — James Clear](https://jamesclear.com/3-2-1/january-04-2024)_
+> [“You’re not focused enough unless you’re mourning some of the things you’re saying no to.” — James Clear](https://jamesclear.com/3-2-1/january-04-2024)
 
-> _“What focus means is saying ‘no’ to something that you believe with every bone in your body is a phenomenal idea. You wake up thinking about it, but you say ‘no’ to it because you’re focusing on something else.” — Jony Ive_
+> “What focus means is saying ‘no’ to something that you believe with every bone in your body is a phenomenal idea. You wake up thinking about it, but you say ‘no’ to it because you’re focusing on something else.” — Jony Ive
 
-> _[“We are kept from our goals not by obstacles but by a clear path to lesser goals.” — Robert Brault](https://www.goodreads.com/quotes/875504-we-are-kept-from-our-goal-not-by-obstacles-but)_
+> [“We are kept from our goals not by obstacles but by a clear path to lesser goals.” — Robert Brault](https://www.goodreads.com/quotes/875504-we-are-kept-from-our-goal-not-by-obstacles-but)
 
-> _“Develop the habit of [letting small bad things happen](https://tim.blog/2007/10/25/weapons-of-mass-distractions-and-the-art-of-letting-bad-things-happen/). If you don’t, you’ll never find time for the life-changing big things, whether important tasks or true peak experiences.” — [@ferriss4hourWorkweekEscape2011]_
+> “Develop the habit of [letting small bad things happen](https://tim.blog/2007/10/25/weapons-of-mass-distractions-and-the-art-of-letting-bad-things-happen/). If you don’t, you’ll never find time for the life-changing big things, whether important tasks or true peak experiences.” — [@ferriss4hourWorkweekEscape2011]
 
-> _“What we choose to focus on and what we choose to ignore—plays in defining the quality of our life.” — [@newportDeepWorkRules2016]_
+> “What we choose to focus on and what we choose to ignore—plays in defining the quality of our life.” — [@newportDeepWorkRules2016]
 
-> _“It is far easier to start something than it is to finish it.” — Amelia Earhart_
+> “It is far easier to start something than it is to finish it.” — Amelia Earhart
 
 ---
 
@@ -66,7 +66,7 @@ Since focus requires [saying no](if-it-isnt-fuck-yes-then-its-clear-no-thank-you
 
 # The Parable of The Fox and The Hedgehog
 
-> _“A fox knows many things, but the hedgehog knows one big thing.” — Archilochus_
+> “A fox knows many things, but the hedgehog knows one big thing.” — Archilochus
 
 * Hedgehogs focus on the big picture. They are decisive. They reduce every problem to one organizing principle.
 * Foxes use different approaches for different problems. They are comfortable with nuance. They can live with contradictions.

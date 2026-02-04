@@ -1,18 +1,18 @@
 ---
 title: Boredom promotes creativity
 created: 2024-12-16T14:01:41
-modified: 2026-02-02T09:33:22
+modified: 2026-02-05T07:51:24
 ---
 
 [@talebBedProcrustesPhilosophical2016]
 
-> _“You will be civilized on the day you can spend a long period doing nothing, learning nothing, and improving nothing, without feeling the slightest amount of guilt.”_
+> “You will be civilized on the day you can spend a long period doing nothing, learning nothing, and improving nothing, without feeling the slightest amount of guilt.”
 
 [@hanBurnoutSociety2015]
 
-> _“If sleep represents the high point of bodily relaxation, deep boredom is the peak of mental relaxation.”_
+> “If sleep represents the high point of bodily relaxation, deep boredom is the peak of mental relaxation.”
 
-> _[“People who do a job that claims to be creative have to be alone to recharge their batteries. You can’t live 24 hours a day in the spotlight and remain creative. For people like me, solitude is a victory.” — Karl Lagerfeld](https://www.goodreads.com/quotes/324395-people-who-do-a-job-that-claims-to-be-creative)_
+> [“People who do a job that claims to be creative have to be alone to recharge their batteries. You can’t live 24 hours a day in the spotlight and remain creative. For people like me, solitude is a victory.” — Karl Lagerfeld](https://www.goodreads.com/quotes/324395-people-who-do-a-job-that-claims-to-be-creative)
 
 ---
 
@@ -55,7 +55,7 @@ Boredom is a filter. **Common ideas come before it. Uncommon ideas come after it
 
 JK Rowling came up with the idea for Harry Potter while waiting for a train.
 
-> _[A few years later in 1990, after moving to London, I was sitting on a delayed train back home from Manchester when suddenly I had the idea of a boy wizard who went to wizarding school. Harry Potter and Hogwarts came out of nowhere in the most physical rush of excitement, and ideas came teeming into my head.](https://stories.jkrowling.com/my-story#:~:text=A%20few%20years%20later%20in%E2%80%AF1990%2C%20after%20moving%20to%20London%2C%20I%20was%20sitting%20on%20a%20delayed%20train%20back%20home%20from%20Manchester%20when%20suddenly%20I%20had%20the%20idea%20of%20a%20boy%20wizard%20who%20went%20to%20wizarding%20school.%20Harry%20Potter%20and%20Hogwarts%20came%20out%20of%20nowhere%20in%20the%20most%20physical%20rush%20of%20excitement%2C%20and%20ideas%20came%20teeming%20into%20my%20head.)_
+> [A few years later in 1990, after moving to London, I was sitting on a delayed train back home from Manchester when suddenly I had the idea of a boy wizard who went to wizarding school. Harry Potter and Hogwarts came out of nowhere in the most physical rush of excitement, and ideas came teeming into my head.](https://stories.jkrowling.com/my-story#:~:text=A%20few%20years%20later%20in%E2%80%AF1990%2C%20after%20moving%20to%20London%2C%20I%20was%20sitting%20on%20a%20delayed%20train%20back%20home%20from%20Manchester%20when%20suddenly%20I%20had%20the%20idea%20of%20a%20boy%20wizard%20who%20went%20to%20wizarding%20school.%20Harry%20Potter%20and%20Hogwarts%20came%20out%20of%20nowhere%20in%20the%20most%20physical%20rush%20of%20excitement%2C%20and%20ideas%20came%20teeming%20into%20my%20head.)
 
 [^1]: Shower Thoughts: Shower is an idea incubator. Keep [Aqua Notes](https://www.myaquanotes.com/) ready.
 [^2]: = mindless [recharging](the-most-productive-people-prioritize-intentional-rest.md)

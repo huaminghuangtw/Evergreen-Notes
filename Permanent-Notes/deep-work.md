@@ -1,12 +1,12 @@
 ---
 title: Deep Work
 created: 2025-01-23T10:40:57
-modified: 2026-01-25T16:14:19
+modified: 2026-02-05T07:51:24
 ---
 
-> _“If a large diamond is cut up into pieces, it immediately loses its value as a whole; or if an army is scattered or divided into small bodies, it loses all its power; and in the same way a great intellect has no more power than an ordinary one as soon as it is interrupted, disturbed, distracted, or diverted.” — Arthur Schopenhauer_
+> “If a large diamond is cut up into pieces, it immediately loses its value as a whole; or if an army is scattered or divided into small bodies, it loses all its power; and in the same way a great intellect has no more power than an ordinary one as soon as it is interrupted, disturbed, distracted, or diverted.” — Arthur Schopenhauer
 
-> _“The difference between the greats and the legends is their ability to focus for longer periods of time.” — Jordan Burroughs_
+> “The difference between the greats and the legends is their ability to focus for longer periods of time.” — Jordan Burroughs
 
 ---
 

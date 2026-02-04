@@ -1,10 +1,10 @@
 ---
 title: Work smart
 created: 2025-01-23T10:40:57
-modified: 2025-12-11T06:58:12
+modified: 2026-02-05T07:51:24
 ---
 
-> _“You’re more likely to unlock a big leap in performance by trying differently than by trying harder. You might be able to work 10% harder, but a different approach might work 10x better. Remain focused on the core problem, but explore a new line of attack. Persistence is not just about effort, but also strategy. Don’t merely try harder, try differently.” — James Clear_
+> “You’re more likely to unlock a big leap in performance by trying differently than by trying harder. You might be able to work 10% harder, but a different approach might work 10x better. Remain focused on the core problem, but explore a new line of attack. Persistence is not just about effort, but also strategy. Don’t merely try harder, try differently.” — James Clear
 
 ---
 
@@ -33,7 +33,7 @@ Never press the “Try/Grind Harder” button. Instead, build a sustainable _[sy
 
 # The Law Of Reversed Effort
 
-> _“The harder we try with the conscious will to do something, the less we shall succeed.” — Aldous Huxley_
+> “The harder we try with the conscious will to do something, the less we shall succeed.” — Aldous Huxley
 
 * A Zen parable:
 

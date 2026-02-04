@@ -1,12 +1,12 @@
 ---
 title: Hope for the best, prepare for the worst
 created: 2024-11-18T09:18:12
-modified: 2025-11-23T17:16:55
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Do not think there are no crocodiles just because the water is calm.”_
+> “Do not think there are no crocodiles just because the water is calm.”
 
-> _“A flower falls, even though we love it; and a weed grows, even though we do not love it.” — Dogen_
+> “A flower falls, even though we love it; and a weed grows, even though we do not love it.” — Dogen
 
 ---
 

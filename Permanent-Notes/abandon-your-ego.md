@@ -1,16 +1,16 @@
 ---
 title: Abandon your ego
 created: 2024-11-18T09:18:12
-modified: 2026-01-22T13:54:56
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Showing off is the fool’s idea of glory.” — Bruce Lee_
+> “Showing off is the fool’s idea of glory.” — Bruce Lee
 
-> _“The main cause of our unhappiness is that we identify so strongly with the ego.” — Tenzin Palmo_
+> “The main cause of our unhappiness is that we identify so strongly with the ego.” — Tenzin Palmo
 
-> _“More people would learn from their mistakes if they weren’t so busy denying them.” — Harold J. Smith_
+> “More people would learn from their mistakes if they weren’t so busy denying them.” — Harold J. Smith
 
-> _“If you want to improve, be content to be thought foolish and stupid.” — Epictetus_
+> “If you want to improve, be content to be thought foolish and stupid.” — Epictetus
 
 ---
 
@@ -60,23 +60,23 @@ One of the great mistakes in life is suffering for years because you didn’t wa
 
 # [“Keep Your Identity Small” by Paul Graham](https://paulgraham.com/identity.html)
 
-> _Politics, like religion, is a topic where there’s no threshold of expertise for expressing an opinion. All you need is strong convictions/beliefs, and anyone can have those._
+> Politics, like religion, is a topic where there’s no threshold of expertise for expressing an opinion. All you need is strong convictions/beliefs, and anyone can have those.
 
-> _I think what religion and politics have in common is that they become part of people’s identity, and people can never have a fruitful argument about something that’s part of their identity._
+> I think what religion and politics have in common is that they become part of people’s identity, and people can never have a fruitful argument about something that’s part of their identity.
 
-> _So it’s not politics that’s the source of the trouble, but identity. When people say a discussion has degenerated into a religious war, what they really mean is that it has started to be driven mostly by people’s identities._
+> So it’s not politics that’s the source of the trouble, but identity. When people say a discussion has degenerated into a religious war, what they really mean is that it has started to be driven mostly by people’s identities.
 
-> _The more labels you have for yourself, the dumber they make you._
+> The more labels you have for yourself, the dumber they make you.
 
 ---
 
 # [“I assume I’m below average” by Derek Sivers](https://sive.rs/below-average)
 
-> _Now I just assume I’m below average._
+> Now I just assume I’m below average.
 
-> _It serves me well. I listen more. I ask a lot of questions. I’ve stopped thinking others are stupid. I assume most people are smarter than me._
+> It serves me well. I listen more. I ask a lot of questions. I’ve stopped thinking others are stupid. I assume most people are smarter than me.
 
-> _To assume you’re below average is to admit you’re still learning. You focus on what you need to improve, not your past accomplishments._
+> To assume you’re below average is to admit you’re still learning. You focus on what you need to improve, not your past accomplishments.
 
 ---
 
@@ -86,9 +86,9 @@ One of the great mistakes in life is suffering for years because you didn’t wa
 
 Not thinking less of yourself, but thinking of yourself less.
 
-> _[“Thinking about yourself is the source of all unhappiness.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)_
+> [“Thinking about yourself is the source of all unhappiness.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)
 
-> _“Think lightly of yourself and deeply of the world.” — Miyamoto Musashi_
+> “Think lightly of yourself and deeply of the world.” — Miyamoto Musashi
 
 ---
 

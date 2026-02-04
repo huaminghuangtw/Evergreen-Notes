@@ -1,12 +1,12 @@
 ---
 title: Your identity dictates your actions
 created: 2025-03-12T01:41:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _We are what we believe we are.” — C.S. Lewis_
+> We are what we believe we are.” — C.S. Lewis
 
-> _“The bad workouts are the most important ones. It’s easy to train when you feel good, but it’s crucial to show up when you don’t feel like it—even if you do less than you hope. Going to the gym for 15 minutes might not improve your performance, but it reaffirms your identity. **It’s not always about what happens during the workout. It’s about becoming the type of person who doesn’t miss workouts.**” — James Clear_
+> “The bad workouts are the most important ones. It’s easy to train when you feel good, but it’s crucial to show up when you don’t feel like it—even if you do less than you hope. Going to the gym for 15 minutes might not improve your performance, but it reaffirms your identity. **It’s not always about what happens during the workout. It’s about becoming the type of person who doesn’t miss workouts.**” — James Clear
 
 ---
 
@@ -61,7 +61,7 @@ The _task_ doesn’t change, but the _meaning_ does.
 
 [The story you tell yourself](be-careful-how-you-are-talking-to-yourself.md) dictates your daily actions.
 
-> _“What look like differences in natural ability are often differences in opportunity and motivation.” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
+> “What look like differences in natural ability are often differences in opportunity and motivation.” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)
 
 ---
 

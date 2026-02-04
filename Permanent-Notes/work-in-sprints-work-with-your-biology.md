@@ -1,12 +1,12 @@
 ---
 title: Work in sprints, work with your biology
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
 > _“If you want to operate at maximum [productivity](Productivity.md), efficiency, and creativity, you’re going to work on things that you’re excited about at the moment you’re excited about them and accept nothing less. It is better to [sit on your butt and do nothing](boredom-promotes-creativity.md) than it is to work on things that you are not excited about.” — Naval Ravikant_ [^1] [^2]
 
-> _“The right way to work is like a lion. You don’t — you and I are not like cows. We’re not meant to graze all day, right? We’re meant to hunt like lions. So, as a modern knowledge worker, an intellectual athlete, you want to function like an athlete. This means you train hard, then you sprint, then you rest, then you reassess. You get your feedback loop, you train some more, then you sprint again, then you rest, then you reassess. This idea that you’re going to have linear output just by cranking every day at the same amount of time sitting — that’s machines. Machines should be working 9 to 5. Humans are not meant to work 9 to 5.” — Naval Ravikant_
+> “The right way to work is like a lion. You don’t — you and I are not like cows. We’re not meant to graze all day, right? We’re meant to hunt like lions. So, as a modern knowledge worker, an intellectual athlete, you want to function like an athlete. This means you train hard, then you sprint, then you rest, then you reassess. You get your feedback loop, you train some more, then you sprint again, then you rest, then you reassess. This idea that you’re going to have linear output just by cranking every day at the same amount of time sitting — that’s machines. Machines should be working 9 to 5. Humans are not meant to work 9 to 5.” — Naval Ravikant
 
 ---
 
@@ -39,7 +39,7 @@ Why?
 
 # 在對的時間做對的事情
 
-> _“Focus on being productive instead of busy.” — Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
+> “Focus on being productive instead of busy.” — Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)
 
 **Choose [the right task](two-types-of-work.md) at the right time / Put your time in the right places**
 
@@ -73,7 +73,7 @@ There are specific times during the day that are for optimal goal work. Accordin
 
 # [The Productivity Pendulum](https://aliabdaal.com/newsletter/the-productivity-pendulum/)
 
-> _Productivity and creativity are two sides of the same coin (pendulum). They complement and enhance each other. Both should be balanced as excessive focus on either end of the spectrum can lead to [diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns)._
+> Productivity and creativity are two sides of the same coin (pendulum). They complement and enhance each other. Both should be balanced as excessive focus on either end of the spectrum can lead to [diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns).
 
 ---
 
@@ -87,7 +87,7 @@ Work like a lion. [^5] [^6] [^7] Eat like a snake. Sleep like a baby.
 
 # Work At A Ten, Not A [Simmering Six](https://www.google.com/search?q=Simmering)
 
-> _“[Most people in high-stress, decision-making industries are always operating at this kind of simmering six, or four, as opposed to the undulation between just deep relaxation and being at a 10. Being at a 10 is millions of times better than being at a 6. It’s just in a different universe.](https://tim.blog/2019/06/27/josh-waitzkin/)” — Josh Waitzkin_
+> “[Most people in high-stress, decision-making industries are always operating at this kind of simmering six, or four, as opposed to the undulation between just deep relaxation and being at a 10. Being at a 10 is millions of times better than being at a 6. It’s just in a different universe.](https://tim.blog/2019/06/27/josh-waitzkin/)” — Josh Waitzkin
 
 ---
 

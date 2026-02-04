@@ -1,10 +1,10 @@
 ---
 title: Emotional Freedom
 created: 2025-05-10T06:27:40
-modified: 2026-01-05T17:15:47
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Enlightenment is making friendship with the whole existence.” — Amit Ray_
+> “Enlightenment is making friendship with the whole existence.” — Amit Ray
 
 ---
 
@@ -16,7 +16,7 @@ modified: 2026-01-05T17:15:47
 
 # The Very First Step
 
-> _“Instead of shaming your emotions, try to understand what they are telling you.” — Lindsay C. Gibson_
+> “Instead of shaming your emotions, try to understand what they are telling you.” — Lindsay C. Gibson
 
 * Embrace the whole range of your emotions. To feel is to be alive.
 * “I am grateful to be able to feel a spectrum of amazing emotions.”
@@ -98,15 +98,15 @@ modified: 2026-01-05T17:15:47
 >
 > Once it inevitably dissipates, you will have the energy and fortitude to safely navigate to your destination.
 >
-> _**Perhaps the best course of action is to conserve energy now and deploy it more effectively later.**_
+> **Perhaps the best course of action is to conserve energy now and deploy it more effectively later.**
 
-> _“What you resist, persists.” — Carl Jung_
+> “What you resist, persists.” — Carl Jung
 
 Resistance amplifies [negative emotions](negative-thoughts-and-emotions.md). [Acceptance](acceptance-and-commitment-therapy.md) diffuses them. It’s like quicksand: The more you fight, the deeper you sink. Observing the struggle [without judgment](dispel-your-narratives.md) creates mental space for solutions to emerge [naturally](wu-wei.md).
 
 ---
 
-> _“Muddy water is best cleared by leaving it alone.” — Alan Watts_
+> “Muddy water is best cleared by leaving it alone.” — Alan Watts
 
 * At its heart, the quote speaks to the idea of **[non-interference](wu-wei.md)** and **patience**. When water is muddy, stirring it further only makes it worse — more opaque and unsettled. But if you **let it be**, the sediment will naturally settle, and the water will clear on its own.
 * Sometimes problems solve themselves if we give them space and time.

@@ -1,10 +1,10 @@
 ---
 title: The Mountain & The Pebbles
 created: 2025-12-25T08:50:59
-modified: 2025-12-25T16:17:20
+modified: 2026-02-05T07:51:24
 ---
 
-> _“It isn’t the mountains ahead to climb that wear you out; it’s the pebble in your shoe.” — Muhammad Ali_
+> “It isn’t the mountains ahead to climb that wear you out; it’s the pebble in your shoe.” — Muhammad Ali
 
 * You can’t conquer the mountain in your path until you remove the pebble in your shoes.
 * What truly exhausts us isn’t always the big, obvious obstacle — it’s the small, nagging issue we ignore/overlook.

@@ -1,14 +1,14 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
 created: 2024-11-18T09:18:12
-modified: 2026-01-24T16:28:28
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Glory is fleeting, but obscurity is forever.” — Napoleon Bonaparte_
+> “Glory is fleeting, but obscurity is forever.” — Napoleon Bonaparte
 
-> _“The appetite for applause counts amongst the lowest of human character traits.” — Jan-Willem van der Rijt_
+> “The appetite for applause counts amongst the lowest of human character traits.” — Jan-Willem van der Rijt
 
-> _“It is better to conquer yourself than to win a thousand battles. Then the victory is yours. It cannot be taken from you, not by angels or by demons, heaven or hell.” — Dhammapada_
+> “It is better to conquer yourself than to win a thousand battles. Then the victory is yours. It cannot be taken from you, not by angels or by demons, heaven or hell.” — Dhammapada
 
 ---
 
@@ -46,7 +46,7 @@ Your external reality is often a manifestation of your internal reality. Don’t
 
 Focus on the [Inner Scorecard](https://fs.blog/the-inner-scorecard), not the external/social approval/validation/affirmation/rewards (追求外在成就 [^1])
 
-> _“[Compete](escape-competition-through-authenticity.md) externally and you [compare](comparison-is-the-thief-of-joy.md). Compete internally and you improve.” — James Clear_
+> “[Compete](escape-competition-through-authenticity.md) externally and you [compare](comparison-is-the-thief-of-joy.md). Compete internally and you improve.” — James Clear
 
 * **Internal Competitiveness** means you want to get better than your past self. This makes you happy.
 * **External Competitiveness** means you want to beat other people. This makes you unhappy.
@@ -70,7 +70,7 @@ Focus on the [Inner Scorecard](https://fs.blog/the-inner-scorecard), not the ext
 
 # [David Brooks - Résumé Virtues \& Eulogy Virtues](https://www.youtube.com/watch?v=MlLWTeApqIM)
 
-> _So I’ve been thinking about the difference between the résumé virtues and the eulogy virtues. The résumé virtues are the ones you put on your résumé, which are the skills you bring to the marketplace. The eulogy virtues are the ones that get mentioned in the eulogy, which are deeper: who are you, in your depth, what is the nature of your relationships, are you bold, loving, dependable, consistency? And most of us, including me, would say that the eulogy virtues are the more important of the virtues. But at least in my case, are they the ones that I think about the most? And the answer is no._
+> So I’ve been thinking about the difference between the résumé virtues and the eulogy virtues. The résumé virtues are the ones you put on your résumé, which are the skills you bring to the marketplace. The eulogy virtues are the ones that get mentioned in the eulogy, which are deeper: who are you, in your depth, what is the nature of your relationships, are you bold, loving, dependable, consistency? And most of us, including me, would say that the eulogy virtues are the more important of the virtues. But at least in my case, are they the ones that I think about the most? And the answer is no.
 
 * [【TFT 】「你要追求你的履歷表，還是你的墓誌銘？」](https://www.youtube.com/watch?v=SBDWLvTRmP0)
 * [王文華：要寫出精彩的「履歷表」，先擬一篇動人的「墓誌銘」](https://www.cheers.com.tw/article/article.action)

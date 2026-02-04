@@ -1,14 +1,14 @@
 ---
 title: Active Listening
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:19
+modified: 2026-02-05T07:51:24
 ---
 
-> _“There is a difference between listening and waiting for your turn to speak.” — Simon Sinek_
+> “There is a difference between listening and waiting for your turn to speak.” — Simon Sinek
 
-> _[“Open your mind before your mouth.” — Aristophanes](https://www.goodreads.com/quotes/712935-open-your-mind-before-your-mouth)_
+> [“Open your mind before your mouth.” — Aristophanes](https://www.goodreads.com/quotes/712935-open-your-mind-before-your-mouth)
 
-> _“If we cannot listen mindfully, we cannot practice right speech. No matter what we say, it will not be mindful, because we’ll be speaking only our own ideas and not in response to the other person.” — Thích Nhất Hạnh_
+> “If we cannot listen mindfully, we cannot practice right speech. No matter what we say, it will not be mindful, because we’ll be speaking only our own ideas and not in response to the other person.” — Thích Nhất Hạnh
 
 ---
 
@@ -18,7 +18,7 @@ modified: 2026-01-25T16:14:19
 
 [@covey7HabitsHighly2013]
 
-> _“Most people do not listen with the intent to understand; they listen with the intent to reply.” — Stephen R. Covey, The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change_
+> “Most people do not listen with the intent to understand; they listen with the intent to reply.” — Stephen R. Covey, The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 
 《善意溝通》提到，好的傾聽需要注意對方話語背後的情感與需求，這些往往隱藏在言外之意中。因此，除了用耳朵聽，我們還需要用肢體語言與眼神表達專注，例如輕點頭或用適當的目光交流。作者宋怡慧老師強調：「傾聽不只是耳朵的工作，更是心的參與。」
 
@@ -57,11 +57,11 @@ A good listener is one who helps us OVERHEAR ourselves. [^2] When you truly list
 
 ---
 
-> _“The core skill of Understanding is the search for the underlying theme or possible cause that fuels the emotion. We’re not asking questions and listening to answers just to provide a sympathetic ear. <mark>As we listen, we’re looking for a meaning that goes deeper than the words being said.</mark>” — Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)_
+> “The core skill of Understanding is the search for the underlying theme or possible cause that fuels the emotion. We’re not asking questions and listening to answers just to provide a sympathetic ear. <mark>As we listen, we’re looking for a meaning that goes deeper than the words being said.</mark>” — Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)
 
-> _“Understanding requires mastery of four ways of looking at things — as they were, as they are, as they might become, and as they ought to be.” — Dee Hock_
+> “Understanding requires mastery of four ways of looking at things — as they were, as they are, as they might become, and as they ought to be.” — Dee Hock
 
-> _“We are all different. [Don’t judge](dispel-your-narratives.md), understand instead.” — Roy T. Bennett_
+> “We are all different. [Don’t judge](dispel-your-narratives.md), understand instead.” — Roy T. Bennett
 
 Listen to what is not being said—the unspoken words, the non-verbal cues. Listen intently before replying. Listening with compassion. [^3]
 

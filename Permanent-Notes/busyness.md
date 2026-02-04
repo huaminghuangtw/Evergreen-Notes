@@ -1,18 +1,18 @@
 ---
 title: Busyness
 created: 2024-11-18T09:18:12
-modified: 2026-02-04T18:30:56
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Beware the barrenness of a busy life.” — Socrates_
+> “Beware the barrenness of a busy life.” — Socrates
 
-> _“If you do not change direction, you may end up where you are heading.” — Lao Tzu_
+> “If you do not change direction, you may end up where you are heading.” — Lao Tzu
 
-> _[“Working hard for a long time without checking what the better things to be working on are is a hidden form of laziness. A laziness that disguises itself as something to be proud of.” — Julian Shapiro](https://x.com/Julian/status/1452676852032499713)_
+> [“Working hard for a long time without checking what the better things to be working on are is a hidden form of laziness. A laziness that disguises itself as something to be proud of.” — Julian Shapiro](https://x.com/Julian/status/1452676852032499713)
 
-> _“Busyness is no different from laziness when it doesn’t lead you to accomplish anything.” — [@baileyProductivityProjectAccomplishing2016]_
+> “Busyness is no different from laziness when it doesn’t lead you to accomplish anything.” — [@baileyProductivityProjectAccomplishing2016]
 
-> _“I’m about to make a wild, extreme and severe relationship rule: the word busy is a load of crap and is most often used by assholes. The word “busy” is the relationship Weapon of Mass Destruction. Remember: men are never too busy to get what they want.” — Greg Behrendt, [He’s Just Not That Into You: The No-Excuses Truth to Understanding Guys](https://www.goodreads.com/work/quotes/822184)_
+> “I’m about to make a wild, extreme and severe relationship rule: the word busy is a load of crap and is most often used by assholes. The word “busy” is the relationship Weapon of Mass Destruction. Remember: men are never too busy to get what they want.” — Greg Behrendt, [He’s Just Not That Into You: The No-Excuses Truth to Understanding Guys](https://www.goodreads.com/work/quotes/822184)
 
 ---
 
@@ -30,7 +30,7 @@ modified: 2026-02-04T18:30:56
 
 # [“Being In Motion vs. Taking Action” by James Clear](https://jamesclear.com/taking-action)
 
-> _“Never mistake activity for achievement.” — John Wooden_
+> “Never mistake activity for achievement.” — John Wooden
 
 * You gain clarity through _motion_, but don’t mistake motion with _action_. Beware of false progress.
 

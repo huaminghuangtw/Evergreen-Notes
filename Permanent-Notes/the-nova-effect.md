@@ -1,10 +1,10 @@
 ---
 title: The Nova Effect
 created: 2025-11-19T05:35:28
-modified: 2025-11-19T21:00:06
+modified: 2026-02-05T07:51:24
 ---
 
-> _“You never know what worse luck your bad luck saved you from.” — Cormac McCarthy_
+> “You never know what worse luck your bad luck saved you from.” — Cormac McCarthy
 
 ---
 

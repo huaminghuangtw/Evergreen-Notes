@@ -1,16 +1,16 @@
 ---
 title: The Growth Mindset
 created: 2024-11-18T09:18:12
-modified: 2026-01-22T13:54:46
+modified: 2026-02-05T07:51:24
 ---
 
-> _[“It’s the disease of thinking that a really great idea is 90% of the work, and if you just tell all these other people “here’s this great idea” then of course they can go off and make it happen. And the problem with that is that there is just a tremendous amount of craftsmanship in between a great idea and a great product. And as you evolve that great idea it changes and grows. It never comes out like it starts because you learn a lot more as you get in the subtleties of it. And you also find there’s tremendous trade-offs that you have to make. There are just certain things you can’t make electrons do. There are certain things you can’t make plastic do or glass do. Or factories do, or robots do. And as you get in to all these things, designing a product is keeping 5000 things in your brain, these concepts. And fitting them all together and kind of continuing to push to fit them together in new and different ways to get what you want. And every day you discover something new that is a new problem or a new opportunity to fit these things together a little differently. It’s that process that is the magic.” — Steve Jobs](https://www.youtube.com/watch?v=sm1msysj5lw)_
+> [“It’s the disease of thinking that a really great idea is 90% of the work, and if you just tell all these other people “here’s this great idea” then of course they can go off and make it happen. And the problem with that is that there is just a tremendous amount of craftsmanship in between a great idea and a great product. And as you evolve that great idea it changes and grows. It never comes out like it starts because you learn a lot more as you get in the subtleties of it. And you also find there’s tremendous trade-offs that you have to make. There are just certain things you can’t make electrons do. There are certain things you can’t make plastic do or glass do. Or factories do, or robots do. And as you get in to all these things, designing a product is keeping 5000 things in your brain, these concepts. And fitting them all together and kind of continuing to push to fit them together in new and different ways to get what you want. And every day you discover something new that is a new problem or a new opportunity to fit these things together a little differently. It’s that process that is the magic.” — Steve Jobs](https://www.youtube.com/watch?v=sm1msysj5lw)
 
 [@dweckMindsetNewPsychology2008]
 
-> _“True self-confidence is “the courage to be open—to welcome change and new ideas regardless of their source.” Real self-confidence is not reflected in a title, an expensive suit, a fancy car, or a series of acquisitions. It is reflected in your mindset: your readiness to grow.” — Carol S. Dweck, Mindset: The New Psychology of Success_
+> “True self-confidence is “the courage to be open—to welcome change and new ideas regardless of their source.” Real self-confidence is not reflected in a title, an expensive suit, a fancy car, or a series of acquisitions. It is reflected in your mindset: your readiness to grow.” — Carol S. Dweck, Mindset: The New Psychology of Success
 
-> _“Each problem that I solved became a rule which served afterwards to solve other problems.” — René Descartes_
+> “Each problem that I solved became a rule which served afterwards to solve other problems.” — René Descartes
 
 ---
 
@@ -40,7 +40,7 @@ Kaizen (改善)
 
 ---
 
-> _“Talent is a pursued interest. Anything that you’re willing to practice, you can do.” — Bob Ross_
+> “Talent is a pursued interest. Anything that you’re willing to practice, you can do.” — Bob Ross
 
 Approach everything in life as a _skill_ at which you can increase your competency through [practices](deliberate-practice.md). You get better at what you practice. [What you like to practice is what’s worth pursuing. Getting to perform is just a bonus.](https://www.workingtheorys.com/p/about-practice) Everything is practice. [Practice makes perfect.](deliberate-practice.md) [^1]
 
@@ -64,7 +64,7 @@ Approach everything in life as a _skill_ at which you can increase your competen
 
 # [The Power of Yet](https://youtu.be/J-swZaKN2Ic)
 
-> _“Not the ‘not,’ but the ‘not yet.’ — [@markaurelMeditations2006]_
+> “Not the ‘not,’ but the ‘not yet.’ — [@markaurelMeditations2006]
 
 * “I’m not good enough” → “I’m not good enough…_yet_.”
 * “I don’t know how to do it” → “I don’t know how to do it…_yet_.”

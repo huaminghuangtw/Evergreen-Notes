@@ -1,26 +1,26 @@
 ---
 title: Be a habit and routine machine
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:19
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Outer order contributes to inner calm.” — Gretchen Rubin_
+> “Outer order contributes to inner calm.” — Gretchen Rubin
 
-> _“We are what we repeatedly do every day. Excellence, then, is not an act, but a habit.” — Will Durant_
+> “We are what we repeatedly do every day. Excellence, then, is not an act, but a habit.” — Will Durant
 
-> _“Routine, in an intelligent man, is a sign of ambition.” — W.H. Auden_
+> “Routine, in an intelligent man, is a sign of ambition.” — W.H. Auden
 
-> _“Inspiration will help you take the first step. Habits will get you across the finish line.” — Zander Fryer_
+> “Inspiration will help you take the first step. Habits will get you across the finish line.” — Zander Fryer
 
-> _“Habits are the compound interest of self-improvement. The same way that money multiplies through compound interest.” — James Clear_
+> “Habits are the compound interest of self-improvement. The same way that money multiplies through compound interest.” — James Clear
 
-> _“People do not decide their futures, they decide their habits and their habits decide their futures.” — F. Matthias Alexander_
+> “People do not decide their futures, they decide their habits and their habits decide their futures.” — F. Matthias Alexander
 
 [@curreyDailyRitualsHow2013]
 
-> _“The repetition itself becomes the important thing; it’s a form of mesmerism. I mesmerize myself to reach a deeper state of mind.”_
+> “The repetition itself becomes the important thing; it’s a form of mesmerism. I mesmerize myself to reach a deeper state of mind.”
 
-> _“Habits and practice are very interrelated. What we practice will become a habit.” — Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)_
+> “Habits and practice are very interrelated. What we practice will become a habit.” — Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)
 
 > _“Only habits of order are formed can we advance to really interesting fields of action — and consequently accumulate grain on grain of willful choice like a very miser — never forgetting how one link dropped undoes an indefinite number. **The more of the details of our daily life we can hand over to the effortless custody of automatism, the more our higher powers of mind will be set free for their own proper work.** There is no more miserable human being than one in whom nothing is habitual but indecision, and for whom the lighting of every cigar, the drinking of every cup, the time of rising and going to bed every day, and the beginning of every bit of work are subjects of express volitional deliberation. Full half the time of such a man goes to the deciding or regretting of matters which ought to be so ingrained in him as practically not to exist for his consciousness at all. If there be such daily duties not yet ingrained in any one of my hearers, let him begin this very hour to set the matter right.” — excepts from [Daily Rituals](http://www.amazon.com/gp/product/0307273601) by Mason Currey_ [^1]
 
@@ -44,7 +44,7 @@ A single habit or lifestyle change that has an _outsized impact_ on everything e
 
 ---
 
-> _“Dreams are built on discipline; discipline is built on habits; habits are built on training. And training takes place in every single second and every situation of your life.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+> “Dreams are built on discipline; discipline is built on habits; habits are built on training. And training takes place in every single second and every situation of your life.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)
 
 Intention → Action → Practice → Consistency → **Habit** → Simply Who You Are
 
@@ -106,7 +106,7 @@ More often than not (= usually)
 
 **Philosophy: Everyday is easier than someday.**
 
-> _“If you have good habits, time becomes your ally. All you need is patience.” — James Clear_
+> “If you have good habits, time becomes your ally. All you need is patience.” — James Clear
 
 Why is it so important to form good habits? They allow you to offload cognitive resources, enabling routine operations to run automatically in the background (背景處理) while you focus on other life demands.
 

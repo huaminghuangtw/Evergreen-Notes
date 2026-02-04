@@ -1,10 +1,10 @@
 ---
 title: From Binary Thinking to Full-Spectrum Thinking
 created: 2025-11-15T16:47:35
-modified: 2025-12-09T17:08:20
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Categories move us toward certainty, but away from clarity.” — Bob Johansen_
+> “Categories move us toward certainty, but away from clarity.” — Bob Johansen
 
 ---
 
@@ -24,7 +24,7 @@ Binary Thinking = All-or-nothing Thinking
 
 ---
 
-> _“There are no differences but differences of degree between different degrees of difference and no difference.” — William James_
+> “There are no differences but differences of degree between different degrees of difference and no difference.” — William James
 
 * He’s highlighting that **all distinctions we make are relative** and lie on a **spectrum**. There’s rarely a true **binary** (either/or); most things are **more or less**, **not/not-at-all**, **slightly/somewhat/extremely** different rather than **entirely different**.
 * This idea aligns with **James’ pragmatism**, where the _value_ or _truth_ of a concept comes from its practical effect, and where sharp boundaries are often illusions created by language or perception.

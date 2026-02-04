@@ -1,14 +1,14 @@
 ---
 title: Communication
 created: 2024-11-18T09:18:12
-modified: 2026-01-29T12:47:52
+modified: 2026-02-05T07:51:24
 ---
 
-> _“The single biggest problem in communication is the illusion that it has taken place.” — George Bernard Shaw_
+> “The single biggest problem in communication is the illusion that it has taken place.” — George Bernard Shaw
 
 ---
 
-> _“The greatest communication is usually how we are rather than what we say.” — Joseph Goldstein_
+> “The greatest communication is usually how we are rather than what we say.” — Joseph Goldstein
 
 True communication goes far beyond words. Often, it’s the way we show up—our presence, our calm, and our authenticity—that speaks volumes without uttering a word. Goldstein’s insight reminds us to focus on being fully present and genuine, knowing that these qualities often communicate more deeply than any words.
 
@@ -27,11 +27,11 @@ Nonverbal communication often plays a crucial role in how well a verbal communic
 
 State the facts and tell the truth. Speak with [integrity](integrity.md)—say exactly what you mean and mean exactly what you say.
 
-> _“If you tell the truth, you don’t have to remember anything.” — Mark Twain_
+> “If you tell the truth, you don’t have to remember anything.” — Mark Twain
 
-> _“Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.” — Dr. Seuss_
+> “Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.” — Dr. Seuss
 
-> _“It is better to be hated for what you are than to be loved for what you are not.” — André Gide_
+> “It is better to be hated for what you are than to be loved for what you are not.” — André Gide
 
 * If you think something, say something. Don’t expect people to guess your thoughts and feelings. Don’t hold a grudge when people didn’t predict what you wanted them to do. Just tell them.
 * People can’t read your mind [^1] / the thoughts in your head, they can only react to your action/word.
@@ -70,7 +70,7 @@ State the facts and tell the truth. Speak with [integrity](integrity.md)—say e
 
 As [Neil Strauss](https://www.neilstrauss.com/) said, “_Unspoken expectations are premeditated resentments._” I say, “_Shared expectations are adaptive gratification._”
 
-> _[“Timing influences communication. Talk about potential mistakes before they happen and people start looking for ways to prevent them. Talk about actual mistakes after they happen and people start looking for reasons to defend their actions. What do we need to be talking about now, so we can learn the lessons before we need them?” — James Clear](https://jamesclear.com/3-2-1/june-5-2025)_
+> [“Timing influences communication. Talk about potential mistakes before they happen and people start looking for ways to prevent them. Talk about actual mistakes after they happen and people start looking for reasons to defend their actions. What do we need to be talking about now, so we can learn the lessons before we need them?” — James Clear](https://jamesclear.com/3-2-1/june-5-2025)
 
 * 3 Steps to avoid “unspoken expectations”
 	1. Start with facts and what you expect, specifically (think “painting done” [^2]).
@@ -100,7 +100,7 @@ To ensure clear communication, incorporate these three elements at the start of 
 
 ## When someone has a problem, ask if they want empathy or a solution
 
-> _“Too often we look for strategies that will shift people out of negative emotion spaces, but that’s not always possible. During difficult times, sometimes we just need to be there for one another.” — Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)_
+> “Too often we look for strategies that will shift people out of negative emotion spaces, but that’s not always possible. During difficult times, sometimes we just need to be there for one another.” — Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)
 
 We often jump into “Mr. Fix It” mode, eager to [offer advice](advice.md) and [solve a problem](Problem%20Solving.md). However, this can create tension because people don’t always want a solution; sometimes, they just want to feel heard and understood. In fact, **most arguments are not really about the argument, so most arguments can’t be won by arguing.**
 

@@ -1,7 +1,7 @@
 ---
 title: GTD 6 Horizons of Focus
 created: 2024-11-18T09:16:50
-modified: 2025-12-28T06:00:19
+modified: 2026-02-05T07:51:24
 ---
 
 [Picture yourself sitting on a plane.](when-in-doubt-zoom-out.md) At 50.000ft there is nothing but blue sky and an endless horizon. Up here there are no limits.
@@ -14,17 +14,17 @@ When you start to clear the clouds at 20.000ft you can start to make out details
 
 # [Life Purpose](why-we-exist.md)
 
-> _What is your destination in life?_
+> What is your destination in life?
 
-> _Why do I exist on this planet?_
+> Why do I exist on this planet?
 
 # Vision (Big Picture)
 
-> _Where do you see yourself in five years, having achieved your goals? How does your work look like? Where do you live? Who are you with?_
+> Where do you see yourself in five years, having achieved your goals? How does your work look like? Where do you live? Who are you with?
 
-> _What gets me out of bed every morning?_
+> What gets me out of bed every morning?
 
-> _What is the ideal lifestyle I want to live?_
+> What is the ideal lifestyle I want to live?
 
 # Goals
 

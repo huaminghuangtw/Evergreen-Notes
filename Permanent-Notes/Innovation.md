@@ -1,22 +1,22 @@
 ---
 title: Innovation
 created: 2024-11-18T09:18:12
-modified: 2025-12-21T15:01:26
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Good ideas are always crazy until they’re not.” — Larry Page_
+> “Good ideas are always crazy until they’re not.” — Larry Page
 
 ---
 
-> _“Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.” — Bertrand Russell_
+> “Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.” — Bertrand Russell
 
-> _“To be great is to be misunderstood.” — Ralph Waldo Emerson_
+> “To be great is to be misunderstood.” — Ralph Waldo Emerson
 
 Your success in life is proportional to your willingness to be misunderstood for long periods of time. Real innovation is about everyone agreeing with you…_later_. If everyone agrees with you, you’re not truly innovating.
 
 ---
 
-> _“Those who were seen dancing were thought to be insane by those who could not hear the music.” — Friedrich Nietzsche_
+> “Those who were seen dancing were thought to be insane by those who could not hear the music.” — Friedrich Nietzsche
 
 Dance to your music. Let everyone join in later.
 

@@ -1,34 +1,34 @@
 ---
 title: Mastering yourself is superpower
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Knowing yourself is the beginning of all wisdom.” — Aristotle_
+> “Knowing yourself is the beginning of all wisdom.” — Aristotle
 
-> _“The more you know yourself, the better your relationship with the rest of the world.” — Esther Perel_
+> “The more you know yourself, the better your relationship with the rest of the world.” — Esther Perel
 
-> _“Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power.” — Lao Tzu, Tao Te Ching_
+> “Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power.” — Lao Tzu, Tao Te Ching
 
-> _“He who controls others may be powerful, but he who has mastered himself is mightier still.” — Lao Tzu_
+> “He who controls others may be powerful, but he who has mastered himself is mightier still.” — Lao Tzu
 >
 > 勝人者有力，自勝者強
 
-> _“When you are content to simply be yourself and don’t [compare](comparison-is-the-thief-of-joy.md) or [compete](escape-competition-through-authenticity.md), everybody will respect you.” — Lao Tzu, Tao Te Ching_
+> “When you are content to simply be yourself and don’t [compare](comparison-is-the-thief-of-joy.md) or [compete](escape-competition-through-authenticity.md), everybody will respect you.” — Lao Tzu, Tao Te Ching
 
-> _“There are 2 mistakes along the way to Self-Mastery: Not starting it, and not going all the way.” — Shi Heng Yi (释恒義)_
+> “There are 2 mistakes along the way to Self-Mastery: Not starting it, and not going all the way.” — Shi Heng Yi (释恒義)
 
-> _“In order to control myself I must first accept myself by going with and not against my nature.” — Bruce Lee_
+> “In order to control myself I must first accept myself by going with and not against my nature.” — Bruce Lee
 
-> _“For it is easy to criticize and break down the spirit of others, but to know yourself takes a lifetime.” — Bruce Lee, [Striking Thoughts: Bruce Lee’s Wisdom for Daily Living](https://www.goodreads.com/work/quotes/251341)_
+> “For it is easy to criticize and break down the spirit of others, but to know yourself takes a lifetime.” — Bruce Lee, [Striking Thoughts: Bruce Lee’s Wisdom for Daily Living](https://www.goodreads.com/work/quotes/251341)
 
-> _“It is easy to crush an enemy outside oneself but impossible to defeat an enemy within.” — [@yoshikawaMusashi1995]_
+> “It is easy to crush an enemy outside oneself but impossible to defeat an enemy within.” — [@yoshikawaMusashi1995]
 
-> _“A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.” — Andrew Carnegie_
+> “A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.” — Andrew Carnegie
 
 > _“The degree to which a person can grow is directly proportional to the amount of truth he can accept about himself without running away.” — Leland Val Van De Wall_ [^1]
 
-> _“Until you make the unconscious conscious, it will direct your life and you will call it fate.” — Carl Jung_
+> “Until you make the unconscious conscious, it will direct your life and you will call it fate.” — Carl Jung
 
 ---
 
@@ -46,7 +46,7 @@ modified: 2026-01-25T16:14:18
 
 ---
 
-> _“I wasn’t going to eat it, I was just going to taste it.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)_
+> “I wasn’t going to eat it, I was just going to taste it.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)
 
 「灌酒/茶」和「品酒/茶」的差別：後者多了「自覺」
 

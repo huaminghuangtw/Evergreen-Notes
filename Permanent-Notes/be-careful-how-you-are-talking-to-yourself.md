@@ -1,18 +1,18 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:19
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes_
+> “Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes
 
-> _“Talk to yourself like you talk to someone you love.” — Brené Brown_
+> “Talk to yourself like you talk to someone you love.” — Brené Brown
 
-> _“The only thing that keeps us from having what we really want is the stories we tell ourselves.” — Tony Robbins_
+> “The only thing that keeps us from having what we really want is the stories we tell ourselves.” — Tony Robbins
 
-> _“The most important conversations you’ll ever have are the ones you’ll have with yourself. — You wake up with them, you walk around with them, you go to bed with them, and eventually you act on them.” — [@gogginsCantHurtMe2018]_
+> “The most important conversations you’ll ever have are the ones you’ll have with yourself. — You wake up with them, you walk around with them, you go to bed with them, and eventually you act on them.” — [@gogginsCantHurtMe2018]
 
-> _“The reason I talk to myself is because I’m the only one whose answers I accept.” — George Carlin_
+> “The reason I talk to myself is because I’m the only one whose answers I accept.” — George Carlin
 
 ---
 
@@ -44,13 +44,13 @@ Never say, I’ll never…
 
 # [Distanced Self-Talk](https://www.google.com/search?q=distanced+self-talk)
 
-> _“Third-person self-talk is a way of being empathetic to ourselves.” — Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)_
+> “Third-person self-talk is a way of being empathetic to ourselves.” — Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)
 
 ---
 
-> _“Whether you think you can, or you think you can’t—you’re both right.” — Henry Ford_
+> “Whether you think you can, or you think you can’t—you’re both right.” — Henry Ford
 
-> _“Just when you think it can’t get any worse, it can. And just when you think it can’t get any better, it can.” — Nicholas Spark_
+> “Just when you think it can’t get any worse, it can. And just when you think it can’t get any better, it can.” — Nicholas Spark
 
 If you say you can. Yes, you can!
 
@@ -72,7 +72,7 @@ At any given moment you have the power to say: “This is not how the story is g
 
 ---
 
-> _“Doubt kills more dreams than failure ever will.” — Suzy Kassem_
+> “Doubt kills more dreams than failure ever will.” — Suzy Kassem
 
 Pay close attention to the stories you tell yourself, because stories create your reality.
 

@@ -1,10 +1,10 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2026-01-24T16:28:56
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Learning never exhausts the mind.” — Leonardo da Vinci_
+> “Learning never exhausts the mind.” — Leonardo da Vinci
 
 ---
 
@@ -96,7 +96,7 @@ _[Ultralearning](https://www.scotthyoung.com/blog/ultralearning/)_ by Scott Youn
 
 # Learning by Doing
 
-> _[“Acquiring knowledge is easy, the hard part is knowing what to apply and when. That’s why all true learning is “on the job.” Life is lived in the arena.” — Naval Ravikant](https://x.com/naval/status/1930058059172458665)_
+> [“Acquiring knowledge is easy, the hard part is knowing what to apply and when. That’s why all true learning is “on the job.” Life is lived in the arena.” — Naval Ravikant](https://x.com/naval/status/1930058059172458665)
 
 * One learns best through hands-on practice (through projects)
 * [No one learns new things faster than someone who needs to apply the knowledge right now; so if you want to learn fast, commit to something ASAP that requires it.](https://x.com/anuatluru/status/1741281104953278748)
@@ -151,9 +151,9 @@ Always starting from the most basic and simplest level, then adding more complex
 
 # Skill is the ability to do something. Talent is the rate at which you can acquire the ability to do something.
 
-> _“Talent is a pursued interest. Anything that you’re willing to practice, you can do.” — Bob Ross_
+> “Talent is a pursued interest. Anything that you’re willing to practice, you can do.” — Bob Ross
 
-> _“The separation of talent and skill is one of the greatest misunderstood concepts for people who are trying to excel, who have dreams, who want to do things. Talent you have naturally. Skill is only developed by hours and hours and hours of beating on your craft.” — Will Smith_
+> “The separation of talent and skill is one of the greatest misunderstood concepts for people who are trying to excel, who have dreams, who want to do things. Talent you have naturally. Skill is only developed by hours and hours and hours of beating on your craft.” — Will Smith
 
 ---
 
@@ -163,7 +163,7 @@ Always starting from the most basic and simplest level, then adding more complex
 
 [@abdaalFeelGoodProductivityHow2024]
 
-> _[“Next time you’re feeling like a task or project is particularly difficult, ask yourself, ’What would it look like if I were really confident at this?' Just by asking yourself the question, you’ll visualize yourself confidently approaching the task at hand. The switch has been flipped.” — Ali Abdaal, Feel-Good Productivity: How to Do More of What Matters to You](https://www.goodreads.com/work/quotes/100097284-feel-good-productivity-how-to-do-more-of-what-matters-to-you)_
+> [“Next time you’re feeling like a task or project is particularly difficult, ask yourself, ’What would it look like if I were really confident at this?' Just by asking yourself the question, you’ll visualize yourself confidently approaching the task at hand. The switch has been flipped.” — Ali Abdaal, Feel-Good Productivity: How to Do More of What Matters to You](https://www.goodreads.com/work/quotes/100097284-feel-good-productivity-how-to-do-more-of-what-matters-to-you)
 
 * Studying should be difficult—if you’re not worrying that you won’t be able to understand something you’re learning, it isn’t hard enough. [^2]
 * [Agitation (焦慮，躁動，緊張不安)](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%B9%81%E4%BD%93/agitation) is good, helping to release norepinephrine and adrenaline
@@ -172,7 +172,7 @@ Always starting from the most basic and simplest level, then adding more complex
 
 ---
 
-> _“Although listening is often more fun, reading improves comprehension and recall. Whereas listening promotes intuitive thinking, reading activates more analytical processing. It’s true in English and Chinese—people display better logical reasoning when the same trivia questions, riddles, and puzzles are written rather than spoken. With print, you naturally slow down at the start of a paragraph to process the core idea and use paragraph breaks and headers to chunk information.” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
+> “Although listening is often more fun, reading improves comprehension and recall. Whereas listening promotes intuitive thinking, reading activates more analytical processing. It’s true in English and Chinese—people display better logical reasoning when the same trivia questions, riddles, and puzzles are written rather than spoken. With print, you naturally slow down at the start of a paragraph to process the core idea and use paragraph breaks and headers to chunk information.” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)
 
 [閱讀文字對於批判性思考和記憶更好，而聆聽則更適合沉浸式的體驗和情感的連結。因此，如果你想理解並記住資訊，最好用眼睛閱讀；另一方面，如果你想進入故事情節並與主角產生共鳴，可以用耳朵聆聽。](https://okapi.books.com.tw/article/18086)
 

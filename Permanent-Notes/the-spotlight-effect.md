@@ -1,16 +1,16 @@
 ---
 title: The Spotlight Effect
 created: 2024-11-18T09:18:12
-modified: 2026-01-30T06:29:27
+modified: 2026-02-05T07:51:24
 ---
 
-> _“You have no responsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It’s their mistake, not my failing.” — Richard P. Feynman_
+> “You have no responsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It’s their mistake, not my failing.” — Richard P. Feynman
 
-> _“Care about what other people might think of you and you will always be their prisoners.” — Lao Tzu_
+> “Care about what other people might think of you and you will always be their prisoners.” — Lao Tzu
 
-> _“We all love ourselves more than other people, but care more about their opinion than our own.” — Marcus Aurelius_
+> “We all love ourselves more than other people, but care more about their opinion than our own.” — Marcus Aurelius
 
-> _“If you know how quickly people forget the dead, you will stop living to impress people.” — Christopher Walken_
+> “If you know how quickly people forget the dead, you will stop living to impress people.” — Christopher Walken
 
 ---
 

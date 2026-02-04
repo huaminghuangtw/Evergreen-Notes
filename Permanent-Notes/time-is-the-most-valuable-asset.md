@@ -1,18 +1,18 @@
 ---
 title: Time is the most valuable asset
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“The price of anything is the amount of life you exchange for it.” — Henry David Thoreau_
+> “The price of anything is the amount of life you exchange for it.” — Henry David Thoreau
 
-> _“An inch of time is an inch of gold but you can’t buy that inch of time with an inch of gold. (一寸光陰一寸金，寸金難買寸光陰)” — Chinese Proverb_
+> “An inch of time is an inch of gold but you can’t buy that inch of time with an inch of gold. (一寸光陰一寸金，寸金難買寸光陰)” — Chinese Proverb
 
-> _“Spend your money on the things money can buy. Spend your time on the things money can’t buy.” — Haruki Murakami_
+> “Spend your money on the things money can buy. Spend your time on the things money can’t buy.” — Haruki Murakami
 
-> _“Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.” — Thomas Jefferson_
+> “Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.” — Thomas Jefferson
 
-> _“If you love life, don’t waste time, for time is what life is made up of.” — Bruce Lee_
+> “If you love life, don’t waste time, for time is what life is made up of.” — Bruce Lee
 
 ---
 
@@ -75,7 +75,7 @@ The older you get, the more it makes sense to spend [money](money.md) to save ti
 
 [In a 2019 episode of *The Tim Ferriss Show* podcast, investor Graham Duncan introduced the concept of a Time Billionaire](https://tim.blog/2019/03/01/the-tim-ferriss-show-transcripts-graham-duncan-362/)—someone with over one billion seconds left to live:
 
-> _“We’re so obsessed, as a culture, with money. And we deify dollar billionaires in a way that […] And I was thinking of time billionaires that when I see, sometimes, 20-year-olds — the thought I had was they probably have two billion seconds left. But they aren’t relating to themselves as time billionaires.”_
+> “We’re so obsessed, as a culture, with money. And we deify dollar billionaires in a way that […] And I was thinking of time billionaires that when I see, sometimes, 20-year-olds — the thought I had was they probably have two billion seconds left. But they aren’t relating to themselves as time billionaires.”
 
 When you’re young, you are rich in time—a true Time Billionaire.
 

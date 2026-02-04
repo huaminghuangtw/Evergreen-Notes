@@ -1,20 +1,20 @@
 ---
 title: If it isn’t fuck yes, then it’s clear no thank you
 created: 2024-11-18T09:16:49
-modified: 2026-01-08T09:41:51
+modified: 2026-02-05T07:51:24
 ---
 
 **TL; DR** Default to NO.
 
 ---
 
-> _[“Raise the bar as high as possible, and say no to anything that you feel less than ‘Hell yeah, that’ll be amazing!’” — Derek Sivers, Hell Yeah or No](https://sive.rs/hellyeah)_
+> [“Raise the bar as high as possible, and say no to anything that you feel less than ‘Hell yeah, that’ll be amazing!’” — Derek Sivers, Hell Yeah or No](https://sive.rs/hellyeah)
 
 > _[“When you say no, you are only saying no to one option. When you say yes, you are saying no to every other option. No is a decision. Yes is a responsibility. Be careful what (and who) you say yes to. It will shape your day, your career, your family, your life.” — James Clear](https://jamesclear.com/saying-no)_ [^1]
 
-> _“We need to learn the slow ‘yes’ and the quick ‘no.’” — Tom Friel, the former CEO of Heidrick & Struggles_
+> “We need to learn the slow ‘yes’ and the quick ‘no.’” — Tom Friel, the former CEO of Heidrick & Struggles
 
-> _“Half of the troubles of this life can be traced to saying yes too quickly and not saying no soon enough.” — Josh Billings_
+> “Half of the troubles of this life can be traced to saying yes too quickly and not saying no soon enough.” — Josh Billings
 
 ---
 
@@ -38,9 +38,9 @@ Stopping isn’t weakness, it’s wisdom.
 
 # Do More With Less
 
-> _“My goal is no longer to get more done, but rather to have less to do.” — Francine Jay_
+> “My goal is no longer to get more done, but rather to have less to do.” — Francine Jay
 
-> _[“We are most productive when we focus on a very small number of projects on which we can devote a large amount of attention.” — Cal Newport](slow-productivity.md)_
+> [“We are most productive when we focus on a very small number of projects on which we can devote a large amount of attention.” — Cal Newport](slow-productivity.md)
 
 * The goal is to achieve more by doing less, and the only way to get more things done is to have fewer things to do. Remember: [The more things you do, the less well you do each of them.](https://www.workingtheorys.com/p/3-hours) The less you have to do, the more time you get to chase randomness and enjoy the things you really want to do.
 * Less is often more—but getting to “less” is the hard part.
@@ -82,7 +82,7 @@ When deciding whether to take on a new commitment, ask yourself, “_Would I do 
 
 ---
 
-> _“There is nothing so useless as doing efficiently that which should not be done at all.” — Peter Drucker_
+> “There is nothing so useless as doing efficiently that which should not be done at all.” — Peter Drucker
 
 Examples:
 

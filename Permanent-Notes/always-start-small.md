@@ -1,12 +1,12 @@
 ---
 title: Always start small
 created: 2025-03-05T05:32:10
-modified: 2026-01-25T16:14:19
+modified: 2026-02-05T07:51:24
 ---
 
-> _“It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith_
+> “It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith
 
-> _[“If you can’t feed a hundred people, then feed just one.” — Mother Teresa](https://www.brainyquote.com/quotes/mother_teresa_105649)_
+> [“If you can’t feed a hundred people, then feed just one.” — Mother Teresa](https://www.brainyquote.com/quotes/mother_teresa_105649)
 
 > _“We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.” — Mother Teresa_ [^1]
 

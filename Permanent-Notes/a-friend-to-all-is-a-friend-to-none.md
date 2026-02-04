@@ -1,18 +1,18 @@
 ---
 title: A friend to all is a friend to none
 created: 2024-11-18T09:18:12
-modified: 2025-12-30T09:32:13
+modified: 2026-02-05T07:51:24
 ---
 
-> _“A true friend never gets in your way unless you happen to be going down.” — Arnold H. Glasow_
+> “A true friend never gets in your way unless you happen to be going down.” — Arnold H. Glasow
 
-> _“The friend is the man who knows all about you, and still likes you.” — Elbert Hubbard_
+> “The friend is the man who knows all about you, and still likes you.” — Elbert Hubbard
 
-> _“Many people will walk in and out of your life, but only true friends will leave footprints in your heart.” — Eleanor Roosevelt_
+> “Many people will walk in and out of your life, but only true friends will leave footprints in your heart.” — Eleanor Roosevelt
 
-> _“Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.” — George Washington_
+> “Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.” — George Washington
 
-> _[Fremde sind Freunde, die man nur noch nicht kennengelernt hat. 陌生人只是那些我們還沒來得及認識的朋友。](https://www.godic.net/home/dailysentence/2663f4f2-2119-4048-9bb4-a4fafe7ec25b)_
+> [Fremde sind Freunde, die man nur noch nicht kennengelernt hat. 陌生人只是那些我們還沒來得及認識的朋友。](https://www.godic.net/home/dailysentence/2663f4f2-2119-4048-9bb4-a4fafe7ec25b)
 
 ---
 

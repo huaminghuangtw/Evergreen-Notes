@@ -1,18 +1,18 @@
 ---
 title: Meditation
 created: 2024-11-18T09:18:12
-modified: 2026-01-27T13:51:59
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Meditation is all about the pursuit of nothingness. It’s like the ultimate rest. It’s better than the best sleep you’ve ever had. It’s a quieting of the mind. It sharpens everything, especially your appreciation of your surroundings. It keeps life fresh.” — Hugh Jackman_
+> “Meditation is all about the pursuit of nothingness. It’s like the ultimate rest. It’s better than the best sleep you’ve ever had. It’s a quieting of the mind. It sharpens everything, especially your appreciation of your surroundings. It keeps life fresh.” — Hugh Jackman
 
-> _“Meditation is to be aware of what is going on: in your body, in your feelings, in your mind, and in the world.” — Thích Nhất Hạnh_
+> “Meditation is to be aware of what is going on: in your body, in your feelings, in your mind, and in the world.” — Thích Nhất Hạnh
 
-> _“Meditation is not about stopping thoughts, but recognizing that we are more than our thoughts and our feelings.” — Arianna Huffington_
+> “Meditation is not about stopping thoughts, but recognizing that we are more than our thoughts and our feelings.” — Arianna Huffington
 
-> _“Meditation is the way in which we come to feel our basic inseparability from the whole universe.” — Alan Watts_
+> “Meditation is the way in which we come to feel our basic inseparability from the whole universe.” — Alan Watts
 
-> _“All of humanity’s problems stem from man’s inability to sit quietly in a room alone.” — Blaise Pascal_
+> “All of humanity’s problems stem from man’s inability to sit quietly in a room alone.” — Blaise Pascal
 
 ---
 

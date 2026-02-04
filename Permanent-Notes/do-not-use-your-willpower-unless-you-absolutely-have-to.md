@@ -1,12 +1,12 @@
 ---
 title: Do not use your willpower unless you absolutely have to
 created: 2024-11-18T09:18:12
-modified: 2026-01-06T12:31:31
+modified: 2026-02-05T07:51:24
 ---
 
-> _[“I only do what is easy. I only write when I immediately know how to do it, if I falter for a moment, I put the matter aside and do something else .” — Niklas Luhmann](https://www.soenkeahrens.de/en/takesmartnotes)_
+> [“I only do what is easy. I only write when I immediately know how to do it, if I falter for a moment, I put the matter aside and do something else .” — Niklas Luhmann](https://www.soenkeahrens.de/en/takesmartnotes)
 
-> _“Before you try to increase your willpower, try to decrease the friction in your environment.” — James Clear_
+> “Before you try to increase your willpower, try to decrease the friction in your environment.” — James Clear
 
 ---
 
@@ -16,7 +16,7 @@ Avoid temptation rather than relying on willpower.
 
 # Design Your Environment Carefully
 
-> _“Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.” — W. Clement Stone_
+> “Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.” — W. Clement Stone
 
 [Think about self-control less as the quality of a person and more as the quality of a place. There are some places and situations that lean toward lower self-control and others that lean toward higher self-control. Self-control is about your context as much as your character. Put yourself in good positions.](https://jamesclear.com/3-2-1/february-27-2025)
 

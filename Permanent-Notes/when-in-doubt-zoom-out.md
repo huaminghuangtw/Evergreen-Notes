@@ -1,7 +1,7 @@
 ---
 title: When in doubt, zoom out
 created: 2025-02-10T09:34:23
-modified: 2026-01-01T07:03:13
+modified: 2026-02-05T07:51:24
 ---
 
 退一步海闊天空。
@@ -18,7 +18,7 @@ modified: 2026-01-01T07:03:13
 
 [Slow down](slow-down-to-speed-up.md) and remember this: Most things make no difference.
 
-> _[“I do believe that 99% of effort in life is ‘wasted’. And it’s not wasted in the sense that you don’t learn something; you do learn something. But if you look back at all the term papers you wrote and all the classes you took and all the people you dated and on all the thoughts you had and all the things you stressed about and all the decisions you made, 99% of them didn’t matter; they were inconsequential; and there were a few 1% decisions that did matter.” — Naval Ravikant](https://www.reddit.com/r/NavalRavikant/comments/ublf3u/do_you_agree_with_naval_is_99_of_effort_really/)_
+> [“I do believe that 99% of effort in life is ‘wasted’. And it’s not wasted in the sense that you don’t learn something; you do learn something. But if you look back at all the term papers you wrote and all the classes you took and all the people you dated and on all the thoughts you had and all the things you stressed about and all the decisions you made, 99% of them didn’t matter; they were inconsequential; and there were a few 1% decisions that did matter.” — Naval Ravikant](https://www.reddit.com/r/NavalRavikant/comments/ublf3u/do_you_agree_with_naval_is_99_of_effort_really/)
 
 ---
 
@@ -38,7 +38,7 @@ If you think you have it tough, look around.
 
 # [The Pale Blue Dot](https://huami.ng/pale-blue-dot)
 
-> _“Everything that we did and built and wrote and thought and discovered will be forgotten.” — The Fault in Our Stars 生命中美好的缺憾 (2014 film)_
+> “Everything that we did and built and wrote and thought and discovered will be forgotten.” — The Fault in Our Stars 生命中美好的缺憾 (2014 film)
 
 相對於已經存在 137 億年的宇宙，我們每個人都只是倏忽/轉瞬即逝的存在。人世間的紛爭/擾與煩惱，放在這樣的時間尺度下，全都顯得格外渺小/微不足道。
 

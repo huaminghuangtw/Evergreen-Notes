@@ -1,18 +1,18 @@
 ---
 title: Always do your best as possible
 created: 2024-11-18T09:18:12
-modified: 2026-01-10T17:00:51
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Inspire yourself to be great. Being good isn’t good enough.” — Gurbaksh Chahal_
+> “Inspire yourself to be great. Being good isn’t good enough.” — Gurbaksh Chahal
 
-> _“If you deliberately plan to be less than you are capable of being, then I warn you that you’ll be deeply unhappy for the rest of your life.” — Abraham Maslow_
+> “If you deliberately plan to be less than you are capable of being, then I warn you that you’ll be deeply unhappy for the rest of your life.” — Abraham Maslow
 
-> _“Victory is in having done your best. If you’ve done your best, you’ve won.” — Billy Bowerman_
+> “Victory is in having done your best. If you’ve done your best, you’ve won.” — Billy Bowerman
 
-> _“Whatever you do, strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.” — Benjamin Mays_
+> “Whatever you do, strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.” — Benjamin Mays
 
-> _“When you’re a carpenter making a beautiful chest of drawers, you’re not going to use a piece of plywood on the back, even though it faces the wall and nobody will ever see it. You’ll know it’s there, so you’re going to use a beautiful piece of wood on the back. For you to sleep well at night, the aesthetic, the quality, has to be carried all the way through.” — Steve Jobs_
+> “When you’re a carpenter making a beautiful chest of drawers, you’re not going to use a piece of plywood on the back, even though it faces the wall and nobody will ever see it. You’ll know it’s there, so you’re going to use a beautiful piece of wood on the back. For you to sleep well at night, the aesthetic, the quality, has to be carried all the way through.” — Steve Jobs
 
 ---
 
@@ -111,7 +111,7 @@ be locked in (on something)：表示一個人集中精神、全神貫注在某�
 
 #Newsletter
 
-> _“When you show yourself to the world and display your talents, you naturally stir all kinds of resentment, envy, and other manifestations of insecurity. You cannot spend your life worrying about the petty feelings of others.” — Robert Greene, The 48 Laws of Power_
+> “When you show yourself to the world and display your talents, you naturally stir all kinds of resentment, envy, and other manifestations of insecurity. You cannot spend your life worrying about the petty feelings of others.” — Robert Greene, The 48 Laws of Power
 
 [Average is addictive. It’s applauded by the crowd. You won’t be criticized for staying the same. You’ll be encouraged. When you’re on your journey to growth, some people won’t like it. They’ll criticize your every move because it doesn’t blend in with the crowd. But recognize one truth: This is fundamentally not about you. Your growth, focus, and improvement are exposing something in them: Their insecurities, their fears, their lack of ambition.](https://www.sahilbloom.com/newsletter/the-costs-of-entry-in-life)
 

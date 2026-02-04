@@ -1,28 +1,28 @@
 ---
 title: Self-compassion
 created: 2025-01-23T10:40:57
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“A moment of self-compassion can change your entire day. A string of such moments can change the course of your life.” — Christopher Germer_
+> “A moment of self-compassion can change your entire day. A string of such moments can change the course of your life.” — Christopher Germer
 
-> _“What you deny subdues you. What you accept transforms you.” — Carl Jung_
+> “What you deny subdues you. What you accept transforms you.” — Carl Jung
 
-> _“Compassion is not complete if it does not include oneself.” — Allan Lokos_
+> “Compassion is not complete if it does not include oneself.” — Allan Lokos
 
-> _“Tension is who you think you should be. Relaxation is who you are.” — Buddha_
+> “Tension is who you think you should be. Relaxation is who you are.” — Buddha
 
-> _“Instead of shaming your emotions, try to understand what they are telling you.” — Lindsay C. Gibson_
+> “Instead of shaming your emotions, try to understand what they are telling you.” — Lindsay C. Gibson
 
-> _“The truth is: Belonging starts with [self-acceptance](acceptance-and-commitment-therapy.md). Your level of belonging, in fact, can never be greater than your level of self-acceptance, because believing that you’re enough is what gives you the courage to be authentic, vulnerable and imperfect.” — Brene Brown_
+> “The truth is: Belonging starts with [self-acceptance](acceptance-and-commitment-therapy.md). Your level of belonging, in fact, can never be greater than your level of self-acceptance, because believing that you’re enough is what gives you the courage to be authentic, vulnerable and imperfect.” — Brene Brown
 
-> _“If your compassion does not include yourself, it is incomplete.” — Jack Kornfield_
+> “If your compassion does not include yourself, it is incomplete.” — Jack Kornfield
 
-> _“The goal is not to show how great you are to others, but how [vulnerable](vulnerability.md) you are to yourself.” — Maxime Lagace_
+> “The goal is not to show how great you are to others, but how [vulnerable](vulnerability.md) you are to yourself.” — Maxime Lagace
 
-> _“As you gain fame, as you gain fortune, as you gain position and seniority, people will treat you better. — They will hold doors open for you. They will get you a cup of tea and coffee without you even asking. — None of that stuff is meant for you. That stuff is meant for the position you hold. It is meant to the level you have achieved of leader or success or whatever you want to call it, but remember: you will always deserve a Styrofoam cup.” — Simon Sinek_
+> “As you gain fame, as you gain fortune, as you gain position and seniority, people will treat you better. — They will hold doors open for you. They will get you a cup of tea and coffee without you even asking. — None of that stuff is meant for you. That stuff is meant for the position you hold. It is meant to the level you have achieved of leader or success or whatever you want to call it, but remember: you will always deserve a Styrofoam cup.” — Simon Sinek
 
-> _“Harsh self-criticism activates the sympathetic nervous system (fight/flight) and elevates stress hormones. Self-compassion, on the other hand, triggers the mammalian caregiving system and hormones of affiliation and love such as oxytocin.” — Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)_
+> “Harsh self-criticism activates the sympathetic nervous system (fight/flight) and elevates stress hormones. Self-compassion, on the other hand, triggers the mammalian caregiving system and hormones of affiliation and love such as oxytocin.” — Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)
 
 ---
 
@@ -36,7 +36,7 @@ modified: 2026-01-25T16:14:18
 
 ---
 
-> _“You can search throughout the entire universe for someone who is more deserving of your love and affection than you are yourself, and that person is not to be found anywhere. You yourself, as much as anybody in the entire universe, deserve your love and affection.” — Dhammapada_
+> “You can search throughout the entire universe for someone who is more deserving of your love and affection than you are yourself, and that person is not to be found anywhere. You yourself, as much as anybody in the entire universe, deserve your love and affection.” — Dhammapada
 
 If you truly loved yourself, you would never harm another.
 
@@ -48,7 +48,7 @@ Being kind to others is mostly about your actions. Being kind to yourself is mos
 
 接納自己的第一步是停止 [拿自己和別人比較](comparison-is-the-thief-of-joy.md)。
 
-> _“The first step to accepting yourself is to stop comparing yourself to others.” — Joe Duncan_
+> “The first step to accepting yourself is to stop comparing yourself to others.” — Joe Duncan
 
 ---
 

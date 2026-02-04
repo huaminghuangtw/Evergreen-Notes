@@ -1,42 +1,42 @@
 ---
 title: Intentional Living
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _[“Your goal in life is to be able to say on the day before you die that you have fully become yourself.” — Kevin Kelly](https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/)_
+> [“Your goal in life is to be able to say on the day before you die that you have fully become yourself.” — Kevin Kelly](https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/)
 
-> _“Get busy living, or get busy dying.” — Stephen King_
+> “Get busy living, or get busy dying.” — Stephen King
 
-> _[“If you’re not busy being born, you’re busy dying.” — Bob Dylan](https://www.bobdylan.com/songs/its-alright-ma-im-only-bleeding/)_
+> [“If you’re not busy being born, you’re busy dying.” — Bob Dylan](https://www.bobdylan.com/songs/its-alright-ma-im-only-bleeding/)
 
 > _“The whole future lies in uncertainty: live immediately.” — Seneca_ [^1]
 
-> _“You could leave life right now, let that determine what you do and say.” — Marcus Aurelius_
+> “You could leave life right now, let that determine what you do and say.” — Marcus Aurelius
 
-> _“You only live once, but if you do it right, once is enough.” — Mae West_
+> “You only live once, but if you do it right, once is enough.” — Mae West
 
-> _“Life, if well lived, is long enough.” — Seneca_
+> “Life, if well lived, is long enough.” — Seneca
 
-> _“We are not given a short life but we make it short, and we are not ill-supplied but wasteful of it.” — Seneca_
+> “We are not given a short life but we make it short, and we are not ill-supplied but wasteful of it.” — Seneca
 
-> _“I don’t want to get to the end of my life and find that I just lived the length of it. I want to live the width of it as well.” — Diane Ackerman_
+> “I don’t want to get to the end of my life and find that I just lived the length of it. I want to live the width of it as well.” — Diane Ackerman
 
-> _“One day your life will flash before your eyes. Make sure it’s worth watching.” — Gerard Way_
+> “One day your life will flash before your eyes. Make sure it’s worth watching.” — Gerard Way
 
-> _“Tell me, what is it you plan to do with your one wild and precious life?” — Mary Oliver_
+> “Tell me, what is it you plan to do with your one wild and precious life?” — Mary Oliver
 
-> _“The key to immortality is first living a life worth remembering.” — Bruce Lee_
+> “The key to immortality is first living a life worth remembering.” — Bruce Lee
 
-> _“Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.” — Simon Sinek_
+> “Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.” — Simon Sinek
 
 ---
 
 [@markaurelMeditations2006]
 
-> _“Concentrate every minute like a Roman—like a man—on doing what’s in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions.”_
+> “Concentrate every minute like a Roman—like a man—on doing what’s in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions.”
 
-> _“To affect the quality of the day, that is the highest of arts. Every man is tasked to make his life, even in its details, worthy of the contemplation of his most elevated and critical hour.” — Henry David Thoreau_
+> “To affect the quality of the day, that is the highest of arts. Every man is tasked to make his life, even in its details, worthy of the contemplation of his most elevated and critical hour.” — Henry David Thoreau
 
 ---
 
@@ -52,15 +52,15 @@ I don’t fear [death](death.md), I fear not living fully.
 
 ---
 
-> _“If you can’t live longer, live deeper.” — Italian Proverb_
+> “If you can’t live longer, live deeper.” — Italian Proverb
 
-> _“In the end, it’s not the years in your life that count. It’s the life in your years.” — Abraham Lincoln_
+> “In the end, it’s not the years in your life that count. It’s the life in your years.” — Abraham Lincoln
 
-> _[“Life is not the amount of breaths you take, it’s the moments that take your breath away.”](https://www.youtube.com/watch?v=fCpdGZbmkJ8) — [Hitch (2005 film)](https://www.imdb.com/title/tt0386588/)_
+> [“Life is not the amount of breaths you take, it’s the moments that take your breath away.”](https://www.youtube.com/watch?v=fCpdGZbmkJ8) — [Hitch (2005 film)](https://www.imdb.com/title/tt0386588/)
 
-> _“The quality, not the longevity, of one’s life is what is important.” — Martin Luther King, Jr._
+> “The quality, not the longevity, of one’s life is what is important.” — Martin Luther King, Jr.
 
-> _[“We don’t beat the reaper by living longer, but by living well, and living fully — for the reaper will come for all of us. The question is: what do we do between the time we’re born and the time he shows up. Because when he shows up, it’s too late to do all the things that you’re always gonna, kinda get around to. **It is not the things we do in life that we regret on our death bed. It is the things we do not.**” — Randy Pausch](https://youtu.be/RcYv5x6gZTA)_
+> [“We don’t beat the reaper by living longer, but by living well, and living fully — for the reaper will come for all of us. The question is: what do we do between the time we’re born and the time he shows up. Because when he shows up, it’s too late to do all the things that you’re always gonna, kinda get around to. **It is not the things we do in life that we regret on our death bed. It is the things we do not.**” — Randy Pausch](https://youtu.be/RcYv5x6gZTA)
 
 ---
 
@@ -92,7 +92,7 @@ Don’t be a “Living Dead.” Don’t _die_ before you are _dead_.
 
 Run your mind in a debug mode instead of autopilot mode 24/7
 
-> _“So few people are really aware of their thoughts. Their minds run all over the place without their permission, and they go along for the ride unknowingly and without making a choice. […] If you are not in control of your thoughts then you are not in control of yourself. Without self-control, you have no real power, regardless of whatever else you accomplish. If you are not aware of the thoughts that you are thinking in each moment, then you are the rider with no reins, with no power over where you are going. You cannot control what you are not aware of. Awareness must come first.” — Thomas M. Sterner, [The Practicing Mind: Bringing Discipline and Focus into Your Life](https://www.goodreads.com/work/quotes/326331)_
+> “So few people are really aware of their thoughts. Their minds run all over the place without their permission, and they go along for the ride unknowingly and without making a choice. […] If you are not in control of your thoughts then you are not in control of yourself. Without self-control, you have no real power, regardless of whatever else you accomplish. If you are not aware of the thoughts that you are thinking in each moment, then you are the rider with no reins, with no power over where you are going. You cannot control what you are not aware of. Awareness must come first.” — Thomas M. Sterner, [The Practicing Mind: Bringing Discipline and Focus into Your Life](https://www.goodreads.com/work/quotes/326331)
 
 * _“Watch every thought (, word, and act). Always ask, why am I having this thought (, word, and act)?” — Naval Ravikant_
 * 不要讓生活、工作、時間被「**預設值** 」決定

@@ -1,28 +1,28 @@
 ---
 title: Anger
 created: 2024-11-18T09:18:12
-modified: 2026-02-01T17:44:38
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.” — Mark Twain_
+> “Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.” — Mark Twain
 
-> _“Anger always outlasts hurt. Best to take the opposite course.” — Seneca_
+> “Anger always outlasts hurt. Best to take the opposite course.” — Seneca
 
-> _“Anger is a contract you make with yourself to be in physical and mental and emotional turmoil until reality changes.” — Naval Ravikant_
+> “Anger is a contract you make with yourself to be in physical and mental and emotional turmoil until reality changes.” — Naval Ravikant
 
-> _[“Anger is like an oven; heat without light. Forgiveness is like the moon; light without heat.” — James Clear](https://jamesclear.com/quotes/anger-is-like-an-oven)_
+> [“Anger is like an oven; heat without light. Forgiveness is like the moon; light without heat.” — James Clear](https://jamesclear.com/quotes/anger-is-like-an-oven)
 
-> _“To be angry is to revenge the faults of others on ourselves.” — Alexander Pope_
+> “To be angry is to revenge the faults of others on ourselves.” — Alexander Pope
 
-> _“Any person capable of angering you becomes your master. They can anger you only when you permit yourself to be disturbed by them.” — Epictetus_
+> “Any person capable of angering you becomes your master. They can anger you only when you permit yourself to be disturbed by them.” — Epictetus
 
 > _“Holding onto anger is like drinking poison and expecting the other person to die.” — Buddha_ [^1]
 
-> _“A man is about as big as the things that make him angry.” — Winston Churchill_
+> “A man is about as big as the things that make him angry.” — Winston Churchill
 
 > _“He who angers you conquers you.” — Elizabeth Kenny_ [^2]
 
-> _“A quick temper will make a fool of you soon enough.” — Bruce Lee_
+> “A quick temper will make a fool of you soon enough.” — Bruce Lee
 
 > The strongest among you is the one who controls his anger.
 
@@ -40,13 +40,13 @@ It’s okay to be sad, disappointed, or get lost, but don’t be angry. Anger is
 
 ---
 
-> _“For every minute you are angry you lose sixty seconds of happiness.” — Ralph Waldo Emerson_
+> “For every minute you are angry you lose sixty seconds of happiness.” — Ralph Waldo Emerson
 
 每生氣一分鐘，就會少 60 秒的快樂。
 
 ---
 
-> _“Strong, negative emotions (fear, anger, anxiety, hopelessness) tend to narrow our minds—it’s as though our peripheral vision has been cut off because we’re so focused on the peril that’s front and center.” — Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)_
+> “Strong, negative emotions (fear, anger, anxiety, hopelessness) tend to narrow our minds—it’s as though our peripheral vision has been cut off because we’re so focused on the peril that’s front and center.” — Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)
 
 避免既狹隘又封閉 の「熱」情緒處理（Hot Emotional Processing）。發火/憤怒/生氣時不講話/決策，人在這種情況下會自動降智、變笨、腦殘。
 
@@ -61,9 +61,9 @@ It’s okay to be sad, disappointed, or get lost, but don’t be angry. Anger is
 
 ---
 
-> _“Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you.” — Norman Vincent Peale_
+> “Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you.” — Norman Vincent Peale
 
-> _“Before you embark on a journey of revenge, dig two graves.”_
+> “Before you embark on a journey of revenge, dig two graves.”
 
 Revenge harms not only your target but also yourself. The “two graves” symbolize the dual loss—both the victim and the avenger suffer.
 

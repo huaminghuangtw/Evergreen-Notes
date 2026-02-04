@@ -1,28 +1,28 @@
 ---
 title: Discipline equals freedom
 created: 2024-11-18T09:18:12
-modified: 2025-12-19T05:52:36
+modified: 2026-02-05T07:51:24
 ---
 
-> _[“Discipline is doing what you hate to do, but nonetheless doing it like you love it.” — Mike Tyson](https://x.com/MikeTyson/status/1051925919710027777)_
+> [“Discipline is doing what you hate to do, but nonetheless doing it like you love it.” — Mike Tyson](https://x.com/MikeTyson/status/1051925919710027777)
 
-> _「只有在生活中紀律嚴明的人才是自由的。如果缺乏紀律，只會成為情緒和激情的奴隸。」(Only the disciplined ones in life are free. If you are undisciplined, you are a slave to your moods and your passions.) — Eliud Kipchoge_
+> 「只有在生活中紀律嚴明的人才是自由的。如果缺乏紀律，只會成為情緒和激情的奴隸。」(Only the disciplined ones in life are free. If you are undisciplined, you are a slave to your moods and your passions.) — Eliud Kipchoge
 
-> _“A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy.” — Norman Vincent Peale_
+> “A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy.” — Norman Vincent Peale
 
 ---
 
 # 康德（Immanuel Kant）：自律即自由
 
-> _“Autonomie des Willens ist die Eigenschaft des Willens, sich selbst ein Gesetz zu sein.” — Grundlegung zur Metaphysik der Sitten, BA 89_
+> “Autonomie des Willens ist die Eigenschaft des Willens, sich selbst ein Gesetz zu sein.” — Grundlegung zur Metaphysik der Sitten, BA 89
 >
 > 「意志的自律，就是意志為自己立法的能力。」
 
-> _“Freiheit ist die Eigenschaft, eine Ursache unabhängig von fremden, bestimmenden Ursachen zu sein.” — Kritik der praktischen Vernunft_
+> “Freiheit ist die Eigenschaft, eine Ursache unabhängig von fremden, bestimmenden Ursachen zu sein.” — Kritik der praktischen Vernunft
 >
 > 「自由，就是作為一個原因而不受其他外在決定性原因所支配的性質。」
 
-> _“Ein Will ist nur dann frei, wenn er autonom ist.”_
+> “Ein Will ist nur dann frei, wenn er autonom ist.”
 >
 > 「意志唯有在自律時才是自由的。」
 
@@ -70,4 +70,4 @@ Winners are not people who never _fail_, but people who never _quit_. Remember: 
 
 # The One-Second Decision By David Goggins
 
-> _When you are doing something hard in life, you are making a second by second decision to keep going. If you lose one of those seconds, you’ve lost. Each second is an opportunity to keep going or to quit._
+> When you are doing something hard in life, you are making a second by second decision to keep going. If you lose one of those seconds, you’ve lost. Each second is an opportunity to keep going or to quit.

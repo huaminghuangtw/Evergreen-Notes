@@ -1,32 +1,32 @@
 ---
 title: Leadership
 created: 2025-01-23T10:40:57
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“To lead people, walk beside them.” — Lao Tzu_
+> “To lead people, walk beside them.” — Lao Tzu
 
 > _[“The way to help someone is not to critique what makes them smaller, but to encourage what makes them larger.” — James Clear](https://jamesclear.com/3-2-1/march-20-2025)_ [^1]
 
-> _“The greatest sign of success for a teacher is to be able to say, ‘The children are now working as if I did not exist.’ But this holds true for leadership in general—give people space and they flourish.” — Maria Montessori_
+> “The greatest sign of success for a teacher is to be able to say, ‘The children are now working as if I did not exist.’ But this holds true for leadership in general—give people space and they flourish.” — Maria Montessori
 
-> _“Great leaders create more leaders, not followers. Great leaders have vision, share vision, and inspire others to create their own.” — Roy T. Bennett_
+> “Great leaders create more leaders, not followers. Great leaders have vision, share vision, and inspire others to create their own.” — Roy T. Bennett
 
-> _A man who wants to lead the orchestra must turn his back on the crowd.” — Islwyn Jeneins_
+> A man who wants to lead the orchestra must turn his back on the crowd.” — Islwyn Jeneins
 
 [@sengeFifthDisciplineArt2006]
 
-> _“The bad leader is he who the people despise; the good leader is he who the people praise; the great leader is he who the people say, ‘We did it ourselves.’”_
+> “The bad leader is he who the people despise; the good leader is he who the people praise; the great leader is he who the people say, ‘We did it ourselves.’”
 
 [@sinekLeadersEatLast2014]
 
-> _“If your actions inspire others to dream more, learn more, do more and become more, you are a leader.” — Simon Sinek_
+> “If your actions inspire others to dream more, learn more, do more and become more, you are a leader.” — Simon Sinek
 
 [@covey7HabitsHighly2013]
 
-> _“Treat a man as he is and he will remain as he is. Treat a man as he can and should be and he will become as he can and should be.” ― Stephen R. Covey, The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change_
+> $1
 
-> _“When we select leaders, we don’t usually pick the person with the strongest leadership skills. We frequently choose the person who talks the most. It’s called the babble effect. Research shows that groups promote the people who command the most airtime—regardless of their aptitude and expertise. We mistake confidence for competence, certainty for credibility, and quantity for quality. We get stuck following people who dominate the discussion instead of those who elevate it.” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
+> “When we select leaders, we don’t usually pick the person with the strongest leadership skills. We frequently choose the person who talks the most. It’s called the babble effect. Research shows that groups promote the people who command the most airtime—regardless of their aptitude and expertise. We mistake confidence for competence, certainty for credibility, and quantity for quality. We get stuck following people who dominate the discussion instead of those who elevate it.” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)
 
 ---
 

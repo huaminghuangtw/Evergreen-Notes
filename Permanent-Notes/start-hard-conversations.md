@@ -1,10 +1,10 @@
 ---
 title: Start hard conversations
 created: 2024-11-18T09:16:49
-modified: 2025-10-31T16:51:44
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Avoidance will make you feel less vulnerable in the short run, but it will never make you less afraid.” — Brené Brown_
+> “Avoidance will make you feel less vulnerable in the short run, but it will never make you less afraid.” — Brené Brown
 
 ---
 

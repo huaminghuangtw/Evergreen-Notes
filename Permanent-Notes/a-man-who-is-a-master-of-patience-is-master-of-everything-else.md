@@ -1,22 +1,22 @@
 ---
 title: A man who is a master of patience is master of everything else
 created: 2024-11-18T09:18:12
-modified: 2026-02-03T08:43:59
+modified: 2026-02-05T07:51:24
 ---
 
-> _[“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)_
+> [“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)
 
 [@franklMansSearchMeaning2006]
 
-> _“Don’t aim at success. The more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue.”_
+> “Don’t aim at success. The more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue.”
 
-> _“The first step toward patience is to become aware of when your internal dialogue is running wild and dragging you with it. The second step in creating patience is understanding and accepting that there is no such thing as reaching a point of perfection in anything.” — Thomas M. Sterner, [The Practicing Mind: Bringing Discipline and Focus into Your Life](https://www.goodreads.com/work/quotes/326331)_
+> “The first step toward patience is to become aware of when your internal dialogue is running wild and dragging you with it. The second step in creating patience is understanding and accepting that there is no such thing as reaching a point of perfection in anything.” — Thomas M. Sterner, [The Practicing Mind: Bringing Discipline and Focus into Your Life](https://www.goodreads.com/work/quotes/326331)
 
-> _“Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.” — John Quincy Adams_
+> “Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.” — John Quincy Adams
 
-> _“Rivers know this: there is no hurry. We shall get there some day.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)_
+> “Rivers know this: there is no hurry. We shall get there some day.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)
 
-> _“Genius is eternal patience.” — Michelangelo_
+> “Genius is eternal patience.” — Michelangelo
 >
 > 「天才是耐心的極致。」— 米開朗基羅
 
@@ -97,11 +97,11 @@ Patience builds foundations that last. Patience builds what shortcuts destroy. P
 
 # [“Slow Change Can Be Radical Change” by Rebecca Solnit](https://lithub.com/rebecca-solnit-slow-change-can-be-radical-change/)
 
-> _Someone at the dinner table wanted to know what everyone’s turning point on climate was, which is to say she wanted us to tell a story with a pivotal moment. She wanted sudden; all I had was slow, the story of a journey with many steps, gradual shifts, accumulating knowledge, concern, and commitment. A lot had happened but it had happened in many increments over a few decades, not via one transformative anything._
+> Someone at the dinner table wanted to know what everyone’s turning point on climate was, which is to say she wanted us to tell a story with a pivotal moment. She wanted sudden; all I had was slow, the story of a journey with many steps, gradual shifts, accumulating knowledge, concern, and commitment. A lot had happened but it had happened in many increments over a few decades, not via one transformative anything.
 
-> _You could read up on the essentials in a day, probably in an hour, possibly in a quarter of an hour. But the point is to somehow so deeply embed those values, perspectives, and insights in yourself. The job is not to know; it’s to become._
+> You could read up on the essentials in a day, probably in an hour, possibly in a quarter of an hour. But the point is to somehow so deeply embed those values, perspectives, and insights in yourself. The job is not to know; it’s to become.
 
-> _A lot of change is undramatic growth, transformation, or decay, or rather its timescale means the drama might not be perceptible to the impatient._
+> A lot of change is undramatic growth, transformation, or decay, or rather its timescale means the drama might not be perceptible to the impatient.
 
 > _Describing the slowness of change is often confused with acceptance of the status quo. It’s really the opposite_: an argument that the status quo must be changed, and it will take [steadfast](https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/steadfast) commitment to see the job through. It’s not accepting defeat; it’s accepting the terms of possible victory.
 

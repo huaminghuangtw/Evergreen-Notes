@@ -1,14 +1,14 @@
 ---
 title: Teaching is the most powerful form of learning
 created: 2025-12-06T04:41:26
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“The best teachers are those who show you where to look, but don’t tell you what to see.” — Alexandra K. Trenfor_
+> “The best teachers are those who show you where to look, but don’t tell you what to see.” — Alexandra K. Trenfor
 
-> _“A good teacher protects his pupils from his own influence.” — Bruce Lee_
+> “A good teacher protects his pupils from his own influence.” — Bruce Lee
 
-> _“Qui docet discit”_
+> “Qui docet discit”
 >
 > He who teaches, learns.
 
@@ -18,7 +18,7 @@ Watch it. Do it. Teach it.
 
 ---
 
-> _“When one teaches, two learn.” — Robert Half_
+> “When one teaches, two learn.” — Robert Half
 
 The person who learns the most in any classroom is the teacher. When you teach someone you get to learn it twice. (教學相長)
 
@@ -32,7 +32,7 @@ The person who learns the most in any classroom is the teacher. When you teach s
 
 ---
 
-> _“Those who know, do. Those that understand, teach.” — Aristotle_
+> “Those who know, do. Those that understand, teach.” — Aristotle
 
 You don’t fully understand a thing until you try to explain/speak for it.
 

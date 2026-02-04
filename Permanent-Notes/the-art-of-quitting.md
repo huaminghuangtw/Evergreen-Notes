@@ -1,34 +1,34 @@
 ---
 title: The Art of Quitting
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“I am as proud of what we don’t do as I am of what we do.” — Steve Jobs_
+> “I am as proud of what we don’t do as I am of what we do.” — Steve Jobs
 
-> _“Someone who can’t sacrifice anything, can never change anything.” — Armin Arlert, Attack on Titan (進擊 の 巨人)_
+> “Someone who can’t sacrifice anything, can never change anything.” — Armin Arlert, Attack on Titan (進擊 の 巨人)
 
-> _「取是能力，捨是境界。」— 電影《破風》_
+> 「取是能力，捨是境界。」— 電影《破風》
 
 [@ferriss4hourWorkweekEscape2011]
 
-> _“Being able to quit things that don’t work is integral to being a winner.” — Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
+> “Being able to quit things that don’t work is integral to being a winner.” — Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)
 
-> _“With renunciation life begins.” — Amelia Barr _
+> “With renunciation life begins.” — Amelia Barr 
 
-> _[“Strategic retreat, sacrifice, deciding what to give up is at the core, the very core of success.” — Jensen Huang, NVIDIA’s CEO](https://www.youtube.com/watch?v=oi89u6q0_AY&t=19m57s)_
+> [“Strategic retreat, sacrifice, deciding what to give up is at the core, the very core of success.” — Jensen Huang, NVIDIA’s CEO](https://www.youtube.com/watch?v=oi89u6q0_AY&t=19m57s)
 
-> _“When people quit on time, it will usually feel like they are quitting too early, because it will be long before they experience the choice as a close call.” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
+> “When people quit on time, it will usually feel like they are quitting too early, because it will be long before they experience the choice as a close call.” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)
 
-> _“Making a plan for when to quit should be done long before you are facing the quitting decision. It recognizes, as Daniel Kahneman has pointed out, that the worst time to make a decision is when you’re ‘in it.’” — Annie Duke, Quit: The Power of Knowing When to Walk Away_
+> “Making a plan for when to quit should be done long before you are facing the quitting decision. It recognizes, as Daniel Kahneman has pointed out, that the worst time to make a decision is when you’re ‘in it.’” — Annie Duke, Quit: The Power of Knowing When to Walk Away
 
-> _“Contrary to popular belief, winners quit a lot. That’s how they win.” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
+> “Contrary to popular belief, winners quit a lot. That’s how they win.” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)
 
-> _“When you are weighing whether to quit something or stick with it, you can’t know for sure whether you can succeed at what you’re doing because that’s probabilistic. But there is a crucial difference between the two choices. Only one choice—the choice to persevere—lets you eventually find out the answer.” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
+> “When you are weighing whether to quit something or stick with it, you can’t know for sure whether you can succeed at what you’re doing because that’s probabilistic. But there is a crucial difference between the two choices. Only one choice—the choice to persevere—lets you eventually find out the answer.” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)
 
-> _“When we are in the losses, we are not only more likely to stick to a losing course of action, but also to double down. This tendency is called **escalation of commitment (加碼錯誤)**. Escalation of commitment is robust and universal, occurring in individuals, organizations, and governmental entities. All of us tend to get stuck in courses of action once started, especially in the face of bad news. Escalation of commitment doesn’t just occur in high-stakes situations. It also happens when the stakes are low, demonstrating the pervasiveness of the error. […] When we’re getting bad news, when we are getting strong signals that we’re losing—signals that others plainly see—we don’t merely refuse to quit. We will double and triple down, making additional decisions to commit more time and money (and other resources) toward the losing cause, and we will strengthen our belief that we are on the right path.” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
+> “When we are in the losses, we are not only more likely to stick to a losing course of action, but also to double down. This tendency is called **escalation of commitment (加碼錯誤)**. Escalation of commitment is robust and universal, occurring in individuals, organizations, and governmental entities. All of us tend to get stuck in courses of action once started, especially in the face of bad news. Escalation of commitment doesn’t just occur in high-stakes situations. It also happens when the stakes are low, demonstrating the pervasiveness of the error. […] When we’re getting bad news, when we are getting strong signals that we’re losing—signals that others plainly see—we don’t merely refuse to quit. We will double and triple down, making additional decisions to commit more time and money (and other resources) toward the losing cause, and we will strengthen our belief that we are on the right path.” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)
 
-> _“By not quitting, you are missing out on the opportunity to switch to something that will create more progress toward your goals. Anytime you stay mired in a losing endeavor, that is when you are slowing your progress. Anytime you stick to something when there are [better opportunities](everything-in-life-has-an-opportunity-cost.md) out there, that is when you are slowing your progress.” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
+> “By not quitting, you are missing out on the opportunity to switch to something that will create more progress toward your goals. Anytime you stay mired in a losing endeavor, that is when you are slowing your progress. Anytime you stick to something when there are [better opportunities](everything-in-life-has-an-opportunity-cost.md) out there, that is when you are slowing your progress.” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)
 
 ---
 
@@ -36,7 +36,7 @@ modified: 2026-01-25T16:14:18
 
 ---
 
-> _“Quit and grit are two sides of the exact same decision. Decision-making in the real world requires action without complete information. Quitting is the tool that allows us to react to new information that is revealed after we make a decision.” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
+> “Quit and grit are two sides of the exact same decision. Decision-making in the real world requires action without complete information. Quitting is the tool that allows us to react to new information that is revealed after we make a decision.” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)
 
 **Grit is good when the path is worthwhile. Quitting is essential when it’s not.**
 
@@ -62,7 +62,7 @@ In life, it’s not only about the [perseverance](every-single-day-chop-wood-car
 
 ---
 
-> _“Success does not lie in sticking to things. It lies in picking the right thing to stick to and quitting the rest.” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
+> “Success does not lie in sticking to things. It lies in picking the right thing to stick to and quitting the rest.” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)
 
 * Success isn’t sticking forever; it’s **maximizing long-term outcomes**.
 * Success isn’t about never quitting; it’s about **strategically quitting the wrong things**.
@@ -109,7 +109,7 @@ Embrace the rare [ability to start over](https://www.youtube.com/shorts/H7dxy-CW
 
 [@dukeQuitPowerKnowing2022]
 
-> _“Monkeys and pedestals is a mental model that helps you quit sooner. Pedestals are the part of the problem you know you can already solve, like designing the perfect business card or logo. The hardest thing is training the monkey. When faced with a complex, ambitious goal, (a) identify the hard thing first; (b) try to solve for that as quickly as possible; and (c) beware of false progress. Building pedestals creates the illusion that you are making progress toward your goal, but doing the easy stuff is a waste of time if the hard stuff is actually impossible. Tackling the monkey first gets you to no faster, limiting the time, effort, and money you sink into a project, making it easier to walk away. When we butt up against a hard problem we can’t solve, we have a tendency to turn to pedestal-building rather than choosing to quit. Advance planning and precommitment contracts increase the chances you will quit sooner.” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
+> “Monkeys and pedestals is a mental model that helps you quit sooner. Pedestals are the part of the problem you know you can already solve, like designing the perfect business card or logo. The hardest thing is training the monkey. When faced with a complex, ambitious goal, (a) identify the hard thing first; (b) try to solve for that as quickly as possible; and (c) beware of false progress. Building pedestals creates the illusion that you are making progress toward your goal, but doing the easy stuff is a waste of time if the hard stuff is actually impossible. Tackling the monkey first gets you to no faster, limiting the time, effort, and money you sink into a project, making it easier to walk away. When we butt up against a hard problem we can’t solve, we have a tendency to turn to pedestal-building rather than choosing to quit. Advance planning and precommitment contracts increase the chances you will quit sooner.” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)
 
 常犯錯誤：先放下猴子去蓋基座，以為有了漂亮的基座，猴子就能「自然」學會表演 → 雙面災難：
 
@@ -136,7 +136,7 @@ Instead of _“Should I quit?”_, ask: _“If I wasn’t already in this, would
 
 # **“Kill Criteria”**
 
-> _“When you enter into a course of action, create a set of **kill criteria**. This is a list of signals you might see in the future that would tell you it’s time to quit. Kill criteria will help inoculate you against bad decision-making when you’re “in it” by limiting the number of decisions you’ll have to make once you’re already in the gains or in the losses. In organizations, kill criteria allow people a different way to get rewarded beyond dogged and blind pursuit of a project until the bitter end.” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)_
+> “When you enter into a course of action, create a set of **kill criteria**. This is a list of signals you might see in the future that would tell you it’s time to quit. Kill criteria will help inoculate you against bad decision-making when you’re “in it” by limiting the number of decisions you’ll have to make once you’re already in the gains or in the losses. In organizations, kill criteria allow people a different way to get rewarded beyond dogged and blind pursuit of a project until the bitter end.” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)
 
 * Before committing, set **clear conditions under which you will quit**. Example: _“If sales don’t reach X by month 6, we shut it down.”_
 * This prevents emotional decision-making later when biases are strongest.

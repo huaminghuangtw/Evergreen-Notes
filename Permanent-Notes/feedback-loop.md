@@ -1,10 +1,10 @@
 ---
 title: Feedback Loop
 created: 2024-12-04T07:20:41
-modified: 2026-01-05T17:15:47
+modified: 2026-02-05T07:51:24
 ---
 
-> _“The more you feed me, the more I feed you.” — Feedback Loop_
+> “The more you feed me, the more I feed you.” — Feedback Loop
 
 ---
 

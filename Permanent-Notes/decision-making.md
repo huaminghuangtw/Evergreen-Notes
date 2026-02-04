@@ -1,16 +1,16 @@
 ---
 title: Decision Making
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:19
+modified: 2026-02-05T07:51:24
 ---
 
-> _“The decisions of our past are the architects of our present.” — Dan Brown_
+> “The decisions of our past are the architects of our present.” — Dan Brown
 
 > _“It’s better to be boldly decisive and risk being wrong than to agonise at length and be right too late.” — Marilyn Moats Kennedy_ [^1]
 
-> _“Learn to make non-fatal or easily reversible decisions as quickly as possible. Fast (not rushed) decisions preserve usable [attention](attention.md) for what matters. It’s deliberation—the time we vacillate over and consider each decision—consumes our attention. Embrace a choice-minimal lifestyle.” — [@ferriss4hourWorkweekEscape2011]_
+> “Learn to make non-fatal or easily reversible decisions as quickly as possible. Fast (not rushed) decisions preserve usable [attention](attention.md) for what matters. It’s deliberation—the time we vacillate over and consider each decision—consumes our attention. Embrace a choice-minimal lifestyle.” — [@ferriss4hourWorkweekEscape2011]
 
-> _“I’ve learned that whenever I decide something with an open heart, I usually make the right decision.” — Maya Angelou_
+> “I’ve learned that whenever I decide something with an open heart, I usually make the right decision.” — Maya Angelou
 
 ---
 
@@ -18,7 +18,7 @@ modified: 2026-01-25T16:14:19
 
 > _We live in an age of infinite leverage. What I mean by that is that your actions can be multiplied a thousandfold, either by broadcasting a podcast or by investing capital or by having people work for you or by writing code. So because of that, the impacts of good decision-making are much higher than they used to be because now you can influence thousands or millions of people through your decisions or your code. So clear mind leads to better (sound) [judgment](judgment-is-the-most-important-skill-in-an-age-of-infinite-leverage.md) leads to a better outcome. So a happy, calm, peaceful person will make better decisions and have better outcomes. So if you want to operate at peak performance, you have to learn how to tame your mind. [^2] Just like you have to learn how to tame your body._ [^3]
 
-> _If you want to make the wrong decision, ask everyone._
+> If you want to make the wrong decision, ask everyone.
 
 ---
 
@@ -42,7 +42,7 @@ modified: 2026-01-25T16:14:19
 
 # [Look for single decision that removes hundreds or thousands of other decisions.](https://tim.blog/2020/01/20/one-decision-that-removes-100-decisions/)
 
-> _“Don’t make a hundred decisions when one will do.” — [Jim Collins](https://www.jimcollins.com/index.html)_
+> “Don’t make a hundred decisions when one will do.” — [Jim Collins](https://www.jimcollins.com/index.html)
 
 * 「哪一種決定是可以把水龍頭🚰關起來的? 」
 * [Style is consistent constraint. Having a style collapses hundreds of future decisions into one, and gives you focus. Style gives you leverage. Every time you reuse your style you save time. A durable style is a great investment. Collect constraints you enjoy.](https://stephango.com/style)
@@ -160,7 +160,7 @@ Razors
 
 # [The Cheshire Cat Principle: How to Create Clarity](https://www.sahilbloom.com/newsletter/the-cheshire-cat-principle-how-to-create-clarity)
 
-> _If you aren’t clear on where you want to go, any road will take you there._
+> If you aren’t clear on where you want to go, any road will take you there.
 
 In Alice’s Adventures in Wonderland, there’s a scene in which Alice reaches a fork in the road and has a simple exchange with the Cheshire Cat:
 

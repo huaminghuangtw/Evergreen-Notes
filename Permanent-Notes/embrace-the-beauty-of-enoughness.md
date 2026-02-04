@@ -1,28 +1,28 @@
 ---
 title: Embrace the beauty of enoughness
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:19
+modified: 2026-02-05T07:51:24
 ---
 
 > _「真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。」 — 沈芯菱_ [^1]
 
-> _“Be thankful for what you have; you’ll end up having more. If you concentrate on what you don’t have, you will never, ever have enough.” — Oprah Winfrey_
+> “Be thankful for what you have; you’ll end up having more. If you concentrate on what you don’t have, you will never, ever have enough.” — Oprah Winfrey
 
 > _“A Gold Medal is a wonderful thing. But if you are not enough without it, you will never be enough with it.” — Irv Blitzer (John Candy) from the movie [Cool Runnings](https://www.imdb.com/title/tt0106611/)_ [^2]
 
-> _“A full belly is of little worth where the mind is starved, and the heart.” — Mark Twain_
+> “A full belly is of little worth where the mind is starved, and the heart.” — Mark Twain
 
-> _“Having enough is itself a form of wealth.” — Brunello Cucinelli_
+> “Having enough is itself a form of wealth.” — Brunello Cucinelli
 
-> _“In most of modern life, all our diseases are diseases of abundance, not diseases of scarcity. We are overexposed to everything.” — Naval Ravikant_
+> “In most of modern life, all our diseases are diseases of abundance, not diseases of scarcity. We are overexposed to everything.” — Naval Ravikant
 
-> _“Never let the quest for more distract you from the beauty of enough.” — Sahil Bloom_
+> “Never let the quest for more distract you from the beauty of enough.” — Sahil Bloom
 
-> _“Contentment is natural wealth, luxury is artificial poverty.” — Socrates_
+> “Contentment is natural wealth, luxury is artificial poverty.” — Socrates
 
-> _“Those who are not satisfied with a little, are satisfied with nothing.” — Epicurus_
+> “Those who are not satisfied with a little, are satisfied with nothing.” — Epicurus
 
-> _“Many people were increasingly of the opinion that they’d all made a big mistake in coming down from the trees in the first place. And some said that even the trees had been a bad move, and that no one should ever have left the oceans to begin with.” — The Hitchhiker’s Guide to the Galaxy by Douglas Adams_
+> “Many people were increasingly of the opinion that they’d all made a big mistake in coming down from the trees in the first place. And some said that even the trees had been a bad move, and that no one should ever have left the oceans to begin with.” — The Hitchhiker’s Guide to the Galaxy by Douglas Adams
 
 ---
 
@@ -69,7 +69,7 @@ For everything in life, the answer always lies somewhere in the middle. Beyond a
 
 ---
 
-> _“Life is the art of drawing sufficient conclusions from insufficient premises.” — Samuel Butler_
+> “Life is the art of drawing sufficient conclusions from insufficient premises.” — Samuel Butler
 
 Keys:
 

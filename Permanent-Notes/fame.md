@@ -1,14 +1,14 @@
 ---
 title: Fame
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Uneasy lies the head that wears a crown.” — William Shakespeare_
+> “Uneasy lies the head that wears a crown.” — William Shakespeare
 
-> _“You want to be rich and anonymous, not poor and famous.” — Naval Ravikant_
+> “You want to be rich and anonymous, not poor and famous.” — Naval Ravikant
 
-> _[“It’s better that it’s earned fame. The fame you get by serving others is an earned fame which give you respect.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)_
+> [“It’s better that it’s earned fame. The fame you get by serving others is an earned fame which give you respect.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)
 
 ---
 

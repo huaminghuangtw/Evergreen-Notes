@@ -1,14 +1,14 @@
 ---
 title: Negative Thoughts & Emotions
 created: 2024-11-18T09:18:12
-modified: 2025-12-29T14:45:00
+modified: 2026-02-05T07:51:24
 ---
 
-> _“You cannot prevent the birds of sorrow from flying over your head, but you can prevent them from building nests in your hair.” — Chinese Proverb_
+> “You cannot prevent the birds of sorrow from flying over your head, but you can prevent them from building nests in your hair.” — Chinese Proverb
 
-> _“If everything around you seems dark, look again, you may be the light.” — Rumi_
+> “If everything around you seems dark, look again, you may be the light.” — Rumi
 
-> _“When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.” — Henry Ford_
+> “When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.” — Henry Ford
 
 > _“Kites rise highest against the wind - not with it.” — Winston Churchill_ [^1]
 

@@ -1,16 +1,16 @@
 ---
 title: Slow down to speed up
 created: 2024-12-05T09:05:25
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
 [@ferriss4hourWorkweekEscape2011]
 
-> _“Slow Dance: Have you ever watched kids, On a merry-go-round? Or listened to the rain, Slapping on the ground? Ever followed a butterfly’s erratic flight? Or gazed at the sun into the fading night? You better slow down. Don’t dance too fast. Time is short. The music won’t last. Do you run through each day, On the fly? When you ask: How are you? Do you hear the reply? When the day is done, do you lie in your bed, With the next hundred chores, Running through your head? You’d better slow down, Don’t dance too fast. Time is short, The music won’t last. Ever told your child we’ll do it tomorrow? And in your haste, Not see his sorrow? Ever lost touch, Let a good friendship die, Cause you never had time, To call and say Hi? You’d better slow down. Don’t dance so fast. Time is short. The music won’t last. When you run so fast to get somewhere, You miss half the fun of getting there. When you worry and hurry through your day, It is like an unopened gift thrown away. Life is not a race. Do take it slower. Hear the music, Before the song is over.” — Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
+> “Slow Dance: Have you ever watched kids, On a merry-go-round? Or listened to the rain, Slapping on the ground? Ever followed a butterfly’s erratic flight? Or gazed at the sun into the fading night? You better slow down. Don’t dance too fast. Time is short. The music won’t last. Do you run through each day, On the fly? When you ask: How are you? Do you hear the reply? When the day is done, do you lie in your bed, With the next hundred chores, Running through your head? You’d better slow down, Don’t dance too fast. Time is short, The music won’t last. Ever told your child we’ll do it tomorrow? And in your haste, Not see his sorrow? Ever lost touch, Let a good friendship die, Cause you never had time, To call and say Hi? You’d better slow down. Don’t dance so fast. Time is short. The music won’t last. When you run so fast to get somewhere, You miss half the fun of getting there. When you worry and hurry through your day, It is like an unopened gift thrown away. Life is not a race. Do take it slower. Hear the music, Before the song is over.” — Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)
 
-> _“Rushing had become so much of a habit that I was amazed at the amount of concentration it took to work slowly on purpose.” — Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)_
+> “Rushing had become so much of a habit that I was amazed at the amount of concentration it took to work slowly on purpose.” — Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)
 
-> _“The paradox of slowness is that you will find you accomplish the task more quickly and with less effort because you are not wasting energy. Try it and you will see.” — Thomas M. Sterner, [The Practicing Mind: Bringing Discipline and Focus into Your Life](https://www.goodreads.com/work/quotes/326331)_
+> “The paradox of slowness is that you will find you accomplish the task more quickly and with less effort because you are not wasting energy. Try it and you will see.” — Thomas M. Sterner, [The Practicing Mind: Bringing Discipline and Focus into Your Life](https://www.goodreads.com/work/quotes/326331)
 
 ---
 

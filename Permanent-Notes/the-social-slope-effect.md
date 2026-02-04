@@ -1,10 +1,10 @@
 ---
 title: The Social Slope Effect
 created: 2025-12-30T09:21:54
-modified: 2025-12-30T09:30:56
+modified: 2026-02-05T07:51:24
 ---
 
-> _If you want to go fast, go alone; if you want to go far, go together._
+> If you want to go fast, go alone; if you want to go far, go together.
 >
 > 一個人走得快，一群人走得遠。
 

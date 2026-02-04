@@ -1,66 +1,66 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Love is the absence of judgment.” — Dalai Lama_
+> “Love is the absence of judgment.” — Dalai Lama
 
-> _“Love is the energy of life.” — Robert Browning_
+> “Love is the energy of life.” — Robert Browning
 
 > _“Love does not cause suffering: what causes it is the sense of ownership, which is love’s opposite_.” — Antoine de Saint-Exupéry
 
-> _“Love is the only way to grasp another human being in the innermost core of his personality.” — Viktor Frankl_
+> “Love is the only way to grasp another human being in the innermost core of his personality.” — Viktor Frankl
 
-> _“Love is taking a few steps backward maybe even more… to give way to the happiness of the person you love.” — Winnie-the-Pooh_
+> “Love is taking a few steps backward maybe even more… to give way to the happiness of the person you love.” — Winnie-the-Pooh
 
-> _“Some people care too much. I think it’s called love.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)_
+> “Some people care too much. I think it’s called love.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)
 
-> _Piglet: How do you spell love?_
+> Piglet: How do you spell love?
 >
-> _Pooh: You don’t spell it. You feel it._
+> Pooh: You don’t spell it. You feel it.
 
-> _“Love does not claim possession, but gives freedom.” — Rabindranath Tagore_
+> “Love does not claim possession, but gives freedom.” — Rabindranath Tagore
 
-> _[“Love is the outreach of self toward completion.” — Ralph W. Sockman](https://www.brainyquote.com/quotes/ralph_w_sockman_113905)_
+> [“Love is the outreach of self toward completion.” — Ralph W. Sockman](https://www.brainyquote.com/quotes/ralph_w_sockman_113905)
 
-> _“Love is merely the name for the desire and pursuit of the whole (原本的樣子).” — Aristophanes_
+> “Love is merely the name for the desire and pursuit of the whole (原本的樣子).” — Aristophanes
 
-> _“Love is not: I will give this to you if you do this for me. Love is: I will give this to you so that you may shine.” — Yung Pueblo_
+> “Love is not: I will give this to you if you do this for me. Love is: I will give this to you so that you may shine.” — Yung Pueblo
 
-> _[“Love consists in this, that two solitudes protect and touch and greet each other.” — Rainer Maria Rilke](https://www.brainyquote.com/quotes/rainer_maria_rilke_164598)_
+> [“Love consists in this, that two solitudes protect and touch and greet each other.” — Rainer Maria Rilke](https://www.brainyquote.com/quotes/rainer_maria_rilke_164598)
 
-> _“You don’t love because: you love despite; not for the virtues, but despite the faults.” — William Faulkner_
+> “You don’t love because: you love despite; not for the virtues, but despite the faults.” — William Faulkner
 
-> _“I have learned not to worry about love; but to honor its coming with all my heart.” — Alice Walker_
+> “I have learned not to worry about love; but to honor its coming with all my heart.” — Alice Walker
 
-> _[“I choose to love you in silence… For in silence I find no rejection, I choose to love you in loneliness… For in loneliness no one owns you but me, I choose to adore you from a distance… For distance will shield me from pain, I choose to kiss you in the wind… For the wind is gentler than my lips, I choose to hold you in my dreams… For in my dreams, you have no end.” — Rumi](https://www.goodreads.com/quotes/3239983-i-choose-to-love-you-in-silence-for-in-silence)_
+> [“I choose to love you in silence… For in silence I find no rejection, I choose to love you in loneliness… For in loneliness no one owns you but me, I choose to adore you from a distance… For distance will shield me from pain, I choose to kiss you in the wind… For the wind is gentler than my lips, I choose to hold you in my dreams… For in my dreams, you have no end.” — Rumi](https://www.goodreads.com/quotes/3239983-i-choose-to-love-you-in-silence-for-in-silence)
 
-> _「這世界上最不缺的就是，隨處可見的漂亮妞，隨處可見的有錢人和隨處泛濫的愛情。卻唯獨缺少了愛情裡，本不該缺失的那份責任感、安全感還有忠誠。一個人有多好，一點都不重要，一個人對你有多好，才重要。在這個放蕩不羈又充滿誘惑的世界裡，如果有一個人能給你安全感和忠誠，為你承擔那份責任，那他—定比這個世界更迷人。」— 楊絳_
+> 「這世界上最不缺的就是，隨處可見的漂亮妞，隨處可見的有錢人和隨處泛濫的愛情。卻唯獨缺少了愛情裡，本不該缺失的那份責任感、安全感還有忠誠。一個人有多好，一點都不重要，一個人對你有多好，才重要。在這個放蕩不羈又充滿誘惑的世界裡，如果有一個人能給你安全感和忠誠，為你承擔那份責任，那他—定比這個世界更迷人。」— 楊絳
 
-> _“The most important aspect of love is not in giving or the receiving: it’s in the being.” — Ram Dass_
+> “The most important aspect of love is not in giving or the receiving: it’s in the being.” — Ram Dass
 
 > _“When you love someone, you have to offer that person the best you have. The best thing we can offer another person is our true presence (full attention).” — Thích Nhất Hạnh_ [^1]
 
-> _“It’s enough for me to be sure that you and I exist at this moment.” — Gabriel García Márquez_
+> “It’s enough for me to be sure that you and I exist at this moment.” — Gabriel García Márquez
 
-> _“I no longer believed in the idea of soul mates, or love at first sight. But I was beginning to believe that a very few times in your life, if you were lucky, you might meet someone who was exactly right for you. Not because he was perfect, or because you were, but because your combined flaws were arranged in a way that allowed two separate beings to hinge together.” — Lisa Kleypas_
+> “I no longer believed in the idea of soul mates, or love at first sight. But I was beginning to believe that a very few times in your life, if you were lucky, you might meet someone who was exactly right for you. Not because he was perfect, or because you were, but because your combined flaws were arranged in a way that allowed two separate beings to hinge together.” — Lisa Kleypas
 
-> _“People grow when they are loved well. If you want to help others heal, love them without an agenda.” — Mike Mchargue_
+> “People grow when they are loved well. If you want to help others heal, love them without an agenda.” — Mike Mchargue
 
 [@mansonSubtleArtNot2016]
 
-> _“Unhealthy love is based on two people trying to escape their problems through their emotions for each other—in other words, they’re using each other as an escape. Healthy love is based on two people acknowledging and addressing their own problems with each other’s support.” — Mark Manson, [The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/work/quotes/48297245)_
+> “Unhealthy love is based on two people trying to escape their problems through their emotions for each other—in other words, they’re using each other as an escape. Healthy love is based on two people acknowledging and addressing their own problems with each other’s support.” — Mark Manson, [The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/work/quotes/48297245)
 
-> _[“He’s not perfect. You aren’t either, and the two of you will never be perfect. But if he can make you laugh at least once, causes you to think twice, and if he admits to being human and making mistakes, hold onto him and give him the most you can. He isn’t going to quote poetry, he’s not thinking about you every moment, but he will give you a part of him that he knows you could break. Don’t hurt him, don’t change him, and don’t expect for more than he can give. Don’t analyze. Smile when he makes you happy, yell when he makes you mad, and miss him when he’s not there. Love hard when there is love to be had. Because perfect guys don’t exist, but there’s always one guy that is perfect for you.” — Bob Marley](https://www.goodreads.com/quotes/361858-he-s-not-perfect-you-aren-t-either-and-the-two-of)_
+> [“He’s not perfect. You aren’t either, and the two of you will never be perfect. But if he can make you laugh at least once, causes you to think twice, and if he admits to being human and making mistakes, hold onto him and give him the most you can. He isn’t going to quote poetry, he’s not thinking about you every moment, but he will give you a part of him that he knows you could break. Don’t hurt him, don’t change him, and don’t expect for more than he can give. Don’t analyze. Smile when he makes you happy, yell when he makes you mad, and miss him when he’s not there. Love hard when there is love to be had. Because perfect guys don’t exist, but there’s always one guy that is perfect for you.” — Bob Marley](https://www.goodreads.com/quotes/361858-he-s-not-perfect-you-aren-t-either-and-the-two-of)
 
-> _“Love doesn’t just sit there, like a stone, it has to be made, like bread; remade all the time, made new.” — Ursula K. Le Guin_
+> “Love doesn’t just sit there, like a stone, it has to be made, like bread; remade all the time, made new.” — Ursula K. Le Guin
 
-> _“Love is hard. It takes enormous courage to open a wounded heart over and over again to the possibility of love’s bliss. Like Charlie Mack always says, “Scared money can’t make no money.” Love demands bravery, a willingness to risk it all.” But bravery does not mean the absence of fear. Bravery is learning to continue forward even when you’re terrified.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+> “Love is hard. It takes enormous courage to open a wounded heart over and over again to the possibility of love’s bliss. Like Charlie Mack always says, “Scared money can’t make no money.” Love demands bravery, a willingness to risk it all.” But bravery does not mean the absence of fear. Bravery is learning to continue forward even when you’re terrified.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)
 
-> _“The question is, can we love each other unconditionally, or is our love contingent upon the other person acting exactly as we need them to? It’s easy to “love” somebody when they do what you want them to do, exactly how you want them to do it. But how do you behave when they step outside of your picture? How do you treat them when they hurt you? Those are the times that determine whether or not you actually love somebody. Love is hard. It takes enormous courage to open a wounded heart over and over again to the possibility of love’s bliss.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+> “The question is, can we love each other unconditionally, or is our love contingent upon the other person acting exactly as we need them to? It’s easy to “love” somebody when they do what you want them to do, exactly how you want them to do it. But how do you behave when they step outside of your picture? How do you treat them when they hurt you? Those are the times that determine whether or not you actually love somebody. Love is hard. It takes enormous courage to open a wounded heart over and over again to the possibility of love’s bliss.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)
 
-> _[“Love is a smoke made with the fume of sighs.” — William Shakespeare](https://www.brainyquote.com/quotes/william_shakespeare_106569)_
+> [“Love is a smoke made with the fume of sighs.” — William Shakespeare](https://www.brainyquote.com/quotes/william_shakespeare_106569)
 >
 > 愛情是嘆息吹起的一陣煙。
 
@@ -88,7 +88,7 @@ Growing in love > Falling in love
 
 # Marry Only For Love!
 
-> _[“Never love anyone who treats you like you’re ordinary.” — Oscar Wilde](https://www.goodreads.com/quotes/273844-never-love-anyone-who-treats-you-like-you-re-ordinary)_
+> [“Never love anyone who treats you like you’re ordinary.” — Oscar Wilde](https://www.goodreads.com/quotes/273844-never-love-anyone-who-treats-you-like-you-re-ordinary)
 
 * Who you choose as a partner is the most important decision you’ll ever make in your life.
 * Choose your husband/wife wisely. This is the person that will be with you on your greatest and worst days. Choose a man/woman that will see you for who you are.
@@ -107,7 +107,7 @@ Growing in love > Falling in love
 
 # The Secret To Love: Become What You Seek / Be The Person You Want To Meet
 
-> _“To find a worthy mate, be worthy of a worthy mate.” — Charlie Munger_
+> “To find a worthy mate, be worthy of a worthy mate.” — Charlie Munger
 
 * By Charlie Munger
 	* Q: “How do you find a worthy mate?” → A: “Be worthy of a worthy mate.”
@@ -174,7 +174,7 @@ Find a partner who believes in you more than you believe in yourself.
 
 ---
 
-> _“Love does not consist in gazing at each other, but in looking.” — Antoine De Saint-Exupéry_
+> “Love does not consist in gazing at each other, but in looking.” — Antoine De Saint-Exupéry
 
 * Is this relationship making me fulfilled or just less lonely? If a relationship isn’t creating feelings of fulfillment, it won’t last.
 * Find the people who create your fulfillment, not just reduce your loneliness.

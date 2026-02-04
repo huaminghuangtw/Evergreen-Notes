@@ -1,62 +1,62 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2026-01-26T08:03:11
+modified: 2026-02-05T07:51:24
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
 
 ---
 
-> _“My destination is no longer a place, rather a new way of seeing.” — Marcel Proust_
+> “My destination is no longer a place, rather a new way of seeing.” — Marcel Proust
 
-> _“We don’t see things as they are, we see them as we are.” — Anaïs Nin_
+> “We don’t see things as they are, we see them as we are.” — Anaïs Nin
 
-> _“We see what we believe rather than what we see.” — Alan Watts_
+> “We see what we believe rather than what we see.” — Alan Watts
 
-> _[“It isn’t what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.” — Dale Carnegie, How to Win Friends & Influence People]([https://www.goodreads.com/quotes/9292-it-isn-t-what-you-have-or-who-you-are-or](https://www.goodreads.com/quotes/9292-it-isn-t-what-you-have-or-who-you-are-or))_
+> [“It isn’t what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.” — Dale Carnegie, How to Win Friends & Influence People]([https://www.goodreads.com/quotes/9292-it-isn-t-what-you-have-or-who-you-are-or](https://www.goodreads.com/quotes/9292-it-isn-t-what-you-have-or-who-you-are-or))
 
-> _“The real voyage of discovery consists not in seeking out new landscapes but in having new eyes.” — Marcel Proust_
+> “The real voyage of discovery consists not in seeking out new landscapes but in having new eyes.” — Marcel Proust
 
-> _“Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.” — Viktor E. Frankl_
+> “Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.” — Viktor E. Frankl
 
-> _“Your living is determined not so much by what life brings to you as by the attitude you bring to life; not so much by what happens to you as by the way your mind looks at what happens.” — Khalil Gibran_
+> “Your living is determined not so much by what life brings to you as by the attitude you bring to life; not so much by what happens to you as by the way your mind looks at what happens.” — Khalil Gibran
 
-> _“I am not what happened to me, I am what I choose to become.” — Carl Jung_
+> “I am not what happened to me, I am what I choose to become.” — Carl Jung
 
-> _“Our thinking can create liberation or it can create imprisonment. It depends on how we use our mind.” — Tenzin Palmo_
+> “Our thinking can create liberation or it can create imprisonment. It depends on how we use our mind.” — Tenzin Palmo
 
-> _“The energy of the mind is the essence of life.” — Aristotle_
+> “The energy of the mind is the essence of life.” — Aristotle
 
-> _“The soul becomes dyed with the color of its thoughts.” — Marcus Aurelius_
+> “The soul becomes dyed with the color of its thoughts.” — Marcus Aurelius
 
-> _“You have power over your mind, not outside events. Realize this, and you will find strength.” — Marcus Aurelius_
+> “You have power over your mind, not outside events. Realize this, and you will find strength.” — Marcus Aurelius
 
-> _“The things I carry are my thoughts. That’s it. They are the only weight. My thoughts determine whether I am free and light or burdened.” — Kamal Ravikant_
+> “The things I carry are my thoughts. That’s it. They are the only weight. My thoughts determine whether I am free and light or burdened.” — Kamal Ravikant
 
-> _“The things you think about determine the quality of your mind. Your soul takes on the color of your thoughts.” — Marcus Aurelius_
+> “The things you think about determine the quality of your mind. Your soul takes on the color of your thoughts.” — Marcus Aurelius
 
-> _“The happiness of your life depends upon the quality of your thoughts.” — Marcus Aurelius_
+> “The happiness of your life depends upon the quality of your thoughts.” — Marcus Aurelius
 
-> _“A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.” — Andrew Carnegie_
+> “A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.” — Andrew Carnegie
 
 [@gogginsCantHurtMe2018]
 
-> _“It won’t always go your way, so you can’t get trapped in this idea that just because you’ve imagined a possibility for yourself that you somehow deserve it. Your entitled mind is dead weight. Cut it loose. Don’t focus on what you think you deserve. Take aim on what you are willing to earn!”_
+> “It won’t always go your way, so you can’t get trapped in this idea that just because you’ve imagined a possibility for yourself that you somehow deserve it. Your entitled mind is dead weight. Cut it loose. Don’t focus on what you think you deserve. Take aim on what you are willing to earn!”
 
-> _“Children are wonderfully confident in their own imaginations. Most of us lose this confidence as we grow up.” — Sir Ken Robinson_
+> “Children are wonderfully confident in their own imaginations. Most of us lose this confidence as we grow up.” — Sir Ken Robinson
 
-> _[“Beliefs are choices. First you choose your beliefs. Then your beliefs affect your choices.” — Roy T. Bennett](https://www.goodreads.com/quotes/7718116-beliefs-are-choices-first-you-choose-your-beliefs-then-your)_
+> [“Beliefs are choices. First you choose your beliefs. Then your beliefs affect your choices.” — Roy T. Bennett](https://www.goodreads.com/quotes/7718116-beliefs-are-choices-first-you-choose-your-beliefs-then-your)
 
-> _“By itself, conscious positive thinking cannot overcome subconscious negative feelings.” — Joe Dispenza, [Breaking the Habit of Being Yourself: How to Lose Your Mind and Create a New One](https://www.goodreads.com/work/quotes/18108532)_
+> “By itself, conscious positive thinking cannot overcome subconscious negative feelings.” — Joe Dispenza, [Breaking the Habit of Being Yourself: How to Lose Your Mind and Create a New One](https://www.goodreads.com/work/quotes/18108532)
 
-> _“All that we are is the result of what we have thought. The mind is everything. What we think, we become.” — Dhammapada_
+> “All that we are is the result of what we have thought. The mind is everything. What we think, we become.” — Dhammapada
 
-> _“We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.” — Gabor Mate_
+> “We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.” — Gabor Mate
 
 > _“People are not disturbed by things, but by the views they take of them.” — Epictetus_ [^1]
 
-> _“There are no [mistakes](mistake.md). They are happy accidents.” — Bob Ross_
+> “There are no [mistakes](mistake.md). They are happy accidents.” — Bob Ross
 
 ---
 
@@ -92,11 +92,11 @@ The ability to choose one thought over another is superpower—one shift in our 
 
 # 一念之間
 
-> _“We see the world not as it is, but as we are.” — Anaïs Nin_
+> “We see the world not as it is, but as we are.” — Anaïs Nin
 
 A change in worldview will change the world viewed.
 
-> _“We suffer more in imagination than in reality.” — Seneca_
+> “We suffer more in imagination than in reality.” — Seneca
 
 我的身體被自己的影子綁架了，完全動彈不得。
 
@@ -198,7 +198,7 @@ Be, Do, Have flips this traditional thinking on its head:
 
 In the context of our example: _I will embody the state of being of a fulfilled person, then I can do the actions of a fulfilled person, then I will have the things I desire._
 
-> _“Modern society is based on the mode of having (佔有), not on the mode of being (存在).” — Erich From, To Have or To Be?_
+> “Modern society is based on the mode of having (佔有), not on the mode of being (存在).” — Erich From, To Have or To Be?
 
 ---
 

@@ -1,38 +1,38 @@
 ---
 title: Death
 created: 2024-11-18T09:18:12
-modified: 2026-01-31T14:05:33
+modified: 2026-02-05T07:51:24
 ---
 
-> _“The free man thinks of death, least of all things.” — Benedict Spinoza_
+> “The free man thinks of death, least of all things.” — Benedict Spinoza
 
-> _“The meaning of life is that it stops.” — Franz Kafka_
+> “The meaning of life is that it stops.” — Franz Kafka
 
-> _[“To the well-organized mind, death is but the next great adventure.” — J.K. Rowling, Harry Potter and the Sorcerer’s Stone](https://www.goodreads.com/quotes/4864-to-the-well-organized-mind-death-is-but-the-next-great)_
+> [“To the well-organized mind, death is but the next great adventure.” — J.K. Rowling, Harry Potter and the Sorcerer’s Stone](https://www.goodreads.com/quotes/4864-to-the-well-organized-mind-death-is-but-the-next-great)
 
-> _“I’m the one that’s got to die when it’s time for me to die, so let me live my life the way I want to.” — Jimi Hendrix_
+> “I’m the one that’s got to die when it’s time for me to die, so let me live my life the way I want to.” — Jimi Hendrix
 
-> _[“If you live each day as it was your last, someday you’ll most certainly be right.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=552)_
+> [“If you live each day as it was your last, someday you’ll most certainly be right.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=552)
 
-> _[“Remembering that I’ll be dead soon is the most important tool I’ve ever encountered to help me make the big choices in life.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=580)_
+> [“Remembering that I’ll be dead soon is the most important tool I’ve ever encountered to help me make the big choices in life.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=580)
 
-> _[“Almost everything…just fall[s] away in the face of death, leaving only what is truly important…Remembering that you are going to die is the best way I know to avoid the trap of thinking: you have something to lose. You are already naked. There is no reason not to follow your heart.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=587)_
+> [“Almost everything…just fall[s] away in the face of death, leaving only what is truly important…Remembering that you are going to die is the best way I know to avoid the trap of thinking: you have something to lose. You are already naked. There is no reason not to follow your heart.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=587)
 
-> _[“Death is the destination we all share, no one has ever escaped it. And that is as it should be because death is very likely the single best invention of life.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=723)_
+> [“Death is the destination we all share, no one has ever escaped it. And that is as it should be because death is very likely the single best invention of life.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=723)
 
-> _[“It is not death that a man should fear, but he should fear never beginning to live.” — Marcus Aurelius, Meditations](https://www.goodreads.com/quotes/44693-it-is-not-death-that-a-man-should-fear-but)_
+> [“It is not death that a man should fear, but he should fear never beginning to live.” — Marcus Aurelius, Meditations](https://www.goodreads.com/quotes/44693-it-is-not-death-that-a-man-should-fear-but)
 
-> _[“The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.” — Mark Twain](https://www.goodreads.com/quotes/5785-the-fear-of-death-follows-from-the-fear-of-life)_
+> [“The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.” — Mark Twain](https://www.goodreads.com/quotes/5785-the-fear-of-death-follows-from-the-fear-of-life)
 
-> _“Why do we fear death? Why are we so afraid of death? In fact, when you are in the deep sleep phase every night, you’re essentially dead. It’s not the experience of being dead that we fear, but the time we haven’t spent on living the life we wanted or doing things we wanted to do that we fear. If you were truly living your ideal, dream, and [fulfilling](why-we-exist.md) life on your own terms, in a way you want, I don’t think you really fear death. Why? First, you would be too busy living. Second, you don’t have any regrets.” — Naval Ravikant_
+> “Why do we fear death? Why are we so afraid of death? In fact, when you are in the deep sleep phase every night, you’re essentially dead. It’s not the experience of being dead that we fear, but the time we haven’t spent on living the life we wanted or doing things we wanted to do that we fear. If you were truly living your ideal, dream, and [fulfilling](why-we-exist.md) life on your own terms, in a way you want, I don’t think you really fear death. Why? First, you would be too busy living. Second, you don’t have any regrets.” — Naval Ravikant
 
-> _“I want death to find me planting my cabbages, neither worrying about it, nor about the unfinished gardening.” — Michel de Montaigne_
+> “I want death to find me planting my cabbages, neither worrying about it, nor about the unfinished gardening.” — Michel de Montaigne
 
-> _[“Death is not the opposite of life, but a part of it.” — Haruki Murakami, Blind Willow, Sleeping Woman: 24 Stories](https://www.goodreads.com/quotes/83202-death-is-not-the-opposite-of-life-but-a-part)_
+> [“Death is not the opposite of life, but a part of it.” — Haruki Murakami, Blind Willow, Sleeping Woman: 24 Stories](https://www.goodreads.com/quotes/83202-death-is-not-the-opposite-of-life-but-a-part)
 
 [@markaurelMeditations2006]
 
-> _“Death. The end of sense-perception, of being controlled by our emotions, of mental activity, of enslavement to our bodies.”_
+> “Death. The end of sense-perception, of being controlled by our emotions, of mental activity, of enslavement to our bodies.”
 
 ---
 
@@ -68,7 +68,7 @@ Death is the ultimate equalizer. We may look different, live in different places
 
 # 最大化快樂/體驗，[最小化後悔/遺憾](https://www.youtube.com/watch?v=jwG_qR6XmDQ) [^1]
 
-> _“We don’t beat the reaper by living longer, but by living well, and living fully — for the reaper will come for all of us. The question is: what do we do between the time we’re born and the time he shows up. Because when he shows up, it’s too late to do all the things that you always wanted to get around to. It is not the things we do in life that we regret on our deathbed. It is the things we do not.” — Randy Pausch_
+> “We don’t beat the reaper by living longer, but by living well, and living fully — for the reaper will come for all of us. The question is: what do we do between the time we’re born and the time he shows up. Because when he shows up, it’s too late to do all the things that you always wanted to get around to. It is not the things we do in life that we regret on our deathbed. It is the things we do not.” — Randy Pausch
 
 * Don’t be on your deathbed someday, having squandered your one chance at life, full of regret because you pursued little distractions instead of big dreams.
 * [“The Dash” by Linda Ellis](https://100.best-poems.net/dash.html)
@@ -135,7 +135,7 @@ Remarks: Through history, people have gone back into their own pasts, sometime t
 
 「學會死亡，你就學會活著」[@albomTuesdaysMorrieOld2006]
 
-> _“The truth is, once you learn how to die, you learn how to live.” — Mitch Albom，《最後 14 堂星期二的課》（Tuesdays with Morrie，2006）_
+> “The truth is, once you learn how to die, you learn how to live.” — Mitch Albom，《最後 14 堂星期二的課》（Tuesdays with Morrie，2006）
 
 ---
 

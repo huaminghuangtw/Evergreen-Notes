@@ -1,24 +1,24 @@
 ---
 title: Procrastination
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“To begin, begin.” — William Wordsworth_
+> “To begin, begin.” — William Wordsworth
 
 > [*“Start small, start now.” — Seth Godin*](https://seths.blog/2017/12/start-small-start-now/)
 
-> _“Patience only works if you do. Doing the work + patience = results. Planning to work + patience = procrastination” — James Clear_
+> “Patience only works if you do. Doing the work + patience = results. Planning to work + patience = procrastination” — James Clear
 
-> _“The cave you fear to enter holds the treasure you seek.” — Joseph Campbell_
+> “The cave you fear to enter holds the treasure you seek.” — Joseph Campbell
 
-> _“One day you will wake up and there won’t be any more time to do the things you’ve always wanted. Do it now.” — Paulo Coelho_
+> “One day you will wake up and there won’t be any more time to do the things you’ve always wanted. Do it now.” — Paulo Coelho
 
-> _[“You cannot escape the responsibility of tomorrow by evading it today.” — Abraham Lincoln](https://www.brainyquote.com/quotes/abraham_lincoln_101733)_
+> [“You cannot escape the responsibility of tomorrow by evading it today.” — Abraham Lincoln](https://www.brainyquote.com/quotes/abraham_lincoln_101733)
 
 [@pressfieldWarArtBreak2003]
 
-> _“The most pernicious aspect of procrastination is that it can become a habit. We don’t just put off our lives today; we put them off till our deathbed. Never forget: This very moment, we can change our lives. There never was a moment, and never will be, when we are without the power to alter our destiny. This second we can turn the tables on Resistance. This second, we can sit down and do our work.” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
+> “The most pernicious aspect of procrastination is that it can become a habit. We don’t just put off our lives today; we put them off till our deathbed. Never forget: This very moment, we can change our lives. There never was a moment, and never will be, when we are without the power to alter our destiny. This second we can turn the tables on Resistance. This second, we can sit down and do our work.” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)
 
 ---
 
@@ -40,7 +40,7 @@ Inspiration is perishable. Act IMMEDIATELY at the moment of inspiration. Follow 
 
 ---
 
-> _[“The magic you are looking for is in the work you are always avoiding.”](https://www.youtube.com/shorts/E0SkEQ1e3P0)_
+> [“The magic you are looking for is in the work you are always avoiding.”](https://www.youtube.com/shorts/E0SkEQ1e3P0)
 
 * Often, what we resist the most, holds us the biggest rewards.
 * The thing you [fear](fear.md) the most is often the thing you most need to do.
@@ -113,17 +113,17 @@ You don’t find motivation to start; you need to start to find motivation. Moti
 
 **[Laziness Does Not Exist](https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01)**
 
-> _When people procrastinate, there’s usually a good reason._
+> When people procrastinate, there’s usually a good reason.
 
 > _It’s really helpful to respond to a person’s ineffective behavior with **curiosity** rather than **judgment**._ [^4]
 
-> _If a person’s behavior doesn’t make sense to you, it is because you are missing a part of their context._
+> If a person’s behavior doesn’t make sense to you, it is because you are missing a part of their context.
 
-> _For decades, psychological research has been able to explain procrastination as a functioning problem, not a consequence of laziness. When a person fails to begin a project that they care about, it’s typically due to either **a) anxiety about their attempts not being “good enough” or b) confusion about what the first steps of the task are**. Not laziness. In fact, procrastination is more likely when the task is meaningful and the individual cares about doing it well._
+> For decades, psychological research has been able to explain procrastination as a functioning problem, not a consequence of laziness. When a person fails to begin a project that they care about, it’s typically due to either **a) anxiety about their attempts not being “good enough” or b) confusion about what the first steps of the task are**. Not laziness. In fact, procrastination is more likely when the task is meaningful and the individual cares about doing it well.
 
-> _People do not choose to fail or disappoint. No one wants to feel incapable, apathetic, or ineffective. If you look at a person’s action (or inaction) and see only laziness, you are missing key details. There is always an explanation. There are always barriers. Just because you can’t see them, or don’t view them as legitimate, doesn’t mean they’re not there. Look harder._
+> People do not choose to fail or disappoint. No one wants to feel incapable, apathetic, or ineffective. If you look at a person’s action (or inaction) and see only laziness, you are missing key details. There is always an explanation. There are always barriers. Just because you can’t see them, or don’t view them as legitimate, doesn’t mean they’re not there. Look harder.
 
-> _If a person can’t get out of bed, something is making them exhausted. If a student isn’t writing papers, there’s some aspect of the assignment that they can’t do without help. If an employee misses deadlines constantly, something is making organization and deadline-meeting difficult. Even if a person is actively choosing to self-sabotage, there’s a reason for it — some fear they’re working through, some need not being met, a lack of self-esteem being expressed._
+> If a person can’t get out of bed, something is making them exhausted. If a student isn’t writing papers, there’s some aspect of the assignment that they can’t do without help. If an employee misses deadlines constantly, something is making organization and deadline-meeting difficult. Even if a person is actively choosing to self-sabotage, there’s a reason for it — some fear they’re working through, some need not being met, a lack of self-esteem being expressed.
 
 [^1]: _“Excitement is the more practical synonym for happiness, and it is precisely what you should strive to chase. It is the cure-all.” \& “The question you should be asking isn’t, “What do I want?” or “What are my goals?” but “What would excite me?” \& “The opposite of love is indifference, and the opposite of happiness is boredom.” — Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
 [^2]: When scared by the size of a task you’re going to do, always focus on making the **entry barrier (i.e., the very first step)** smaller.

@@ -1,10 +1,10 @@
 ---
 title: Time Management
 created: 2024-11-18T09:18:12
-modified: 2026-01-06T15:24:12
+modified: 2026-02-05T07:51:24
 ---
 
-> _“It is not that we have too little time to do all the things we need to do, it is that we feel the need to do too many things in the time we have.” — Gary Keller_
+> “It is not that we have too little time to do all the things we need to do, it is that we feel the need to do too many things in the time we have.” — Gary Keller
 
 ---
 

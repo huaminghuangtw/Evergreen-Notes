@@ -1,20 +1,20 @@
 ---
 title: Simple is beautiful
 created: 2025-02-21T16:42:30
-modified: 2026-01-31T15:52:52
+modified: 2026-02-05T07:51:24
 ---
 
-> _”Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.” — Steve Jobs_
+> ”Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.” — Steve Jobs
 
-> _“Take a simple idea, and take it seriously.” — Charlie Munger_
+> “Take a simple idea, and take it seriously.” — Charlie Munger
 
-> _“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” — Antoine de Saint-Exupéry_
+> “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” — Antoine de Saint-Exupéry
 
 > _“Make everything as simple as possible, but not simpler.” — Albert Einstein_ [^1]
 
-> _“It is not a daily increase, but a daily decrease. Hack away at the inessentials.” — Bruce Lee_
+> “It is not a daily increase, but a daily decrease. Hack away at the inessentials.” — Bruce Lee
 
-> _“[To simplify before you understand the details is ignorance. To simplify after you understand the details is genius.” — James Clear](https://x.com/JamesClear/status/2017001941318906151)_
+> “[To simplify before you understand the details is ignorance. To simplify after you understand the details is genius.” — James Clear](https://x.com/JamesClear/status/2017001941318906151)
 
 ---
 
