@@ -1,7 +1,7 @@
 ---
 title: Happiness
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-02-04T14:00:22
 ---
 
 > _“Happiness is a state where nothing is missing.” — Naval Ravikant_
@@ -21,6 +21,8 @@ modified: 2026-01-05T17:15:47
 > _“Happiness cannot be pursued; it must ensue.” — Viktor E. Frankl_
 
 > _“Happiness is good health and a bad memory.” — Ingrid Bergman_
+
+> _“Happiness is not something ready made. It comes from your own actions.” — Tenzin Gyatso._
 
 > _[“The happiest people seem to be those who have no particular cause for being happy except that they are so.” — William Inge](https://www.google.com/search?q=%22The%20happiest%20people%20seem%20to%20be%20those%20who%20have%20no%20particular%20cause%20for%20being%20happy%20except%20that%20they%20are%20so.%22%20%E2%80%94%20William%20Inge)_
 
