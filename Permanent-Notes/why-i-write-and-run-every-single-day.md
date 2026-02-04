@@ -1,16 +1,16 @@
 ---
 title: Why I write and run every single day
 created: 2025-11-13T06:08:11
-modified: 2025-12-25T14:18:27
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Energy is eternal delight.” — William Blake_
+> “Energy is eternal delight.” — William Blake
 
 I **ran** because it suited me—and **writing** because it did too: _introspective_, _solitary_, _habitual_.
 
-> _跑步，並非身體的鍛練，更像是心靈的靜修。_
+> 跑步，並非身體的鍛練，更像是心靈的靜修。
 
-> _在長跑中，如果說有什麼必須戰勝的對手，那就是過去的自己。_
+> 在長跑中，如果說有什麼必須戰勝的對手，那就是過去的自己。
 
 <https://www.soonnet.org/articleview?id=148109>
 

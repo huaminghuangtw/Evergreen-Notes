@@ -1,14 +1,14 @@
 ---
 title: Creativity is just connecting things
 created: 2025-03-12T02:41:12
-modified: 2026-01-25T16:14:19
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. That’s because they were able to connect experiences they’ve had and synthesize new things. And the reason they were able to do that was that they’ve had more experiences or they have thought more about their experiences than other people.” — Steve Jobs_
+> “Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. That’s because they were able to connect experiences they’ve had and synthesize new things. And the reason they were able to do that was that they’ve had more experiences or they have thought more about their experiences than other people.” — Steve Jobs
 
-> _“The dangerous man is the one who has only one idea, because then he’ll fight and die for it. The way real science goes is that you come up with lots of ideas, and most of them will be wrong.” — Francis Crick_
+> “The dangerous man is the one who has only one idea, because then he’ll fight and die for it. The way real science goes is that you come up with lots of ideas, and most of them will be wrong.” — Francis Crick
 
-> _“If a plant only gets sunlight, it’s very harmful. It needs darkness too…In the darkness, it converts oxygen into carbon dioxide. We are like that too. We need periods of doing \& periods of non-doing.” — Robert Pirsig_
+> “If a plant only gets sunlight, it’s very harmful. It needs darkness too…In the darkness, it converts oxygen into carbon dioxide. We are like that too. We need periods of doing \& periods of non-doing.” — Robert Pirsig
 
 ---
 

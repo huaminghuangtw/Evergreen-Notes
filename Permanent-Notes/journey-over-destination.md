@@ -1,28 +1,28 @@
 ---
 title: Journey over destination
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“To travel is to be alive, but to get somewhere is to be dead.” — Alan Watts_
+> “To travel is to be alive, but to get somewhere is to be dead.” — Alan Watts
 
-> _If you focus on results and finding shortcuts, you’ll get impatient. If you focus on the process and doing the right thing, you’ll be unstoppable.” — Maxime Lagace_
+> If you focus on results and finding shortcuts, you’ll get impatient. If you focus on the process and doing the right thing, you’ll be unstoppable.” — Maxime Lagace
 
-> _“Process saves us from the poverty of our intentions.” — Elizabeth King_
+> “Process saves us from the poverty of our intentions.” — Elizabeth King
 
-> _“Fall in love with the process and the results will follow.” — Bradley Whitford_
+> “Fall in love with the process and the results will follow.” — Bradley Whitford
 
-> _“God will not look you over for medals, degrees or diplomas but for scars.” — Elbert Hubbard_
+> “God will not look you over for medals, degrees or diplomas but for scars.” — Elbert Hubbard
 
-> _[“You have to enjoy your journey, the journey is all that there is.” — Naval Ravikant](http://www.youtube.com/watch?v=KyfUysrNaco&t=453)_
+> [“You have to enjoy your journey, the journey is all that there is.” — Naval Ravikant](http://www.youtube.com/watch?v=KyfUysrNaco&t=453)
 
-> _[“The end of a melody is not its goal: but nonetheless, had the melody not reached its end it would not have reached its goal either. A parable.” — Friedrich Nietzsche](https://www.goodreads.com/quotes/7368-the-end-of-a-melody-is-not-its-goal-but)_
+> [“The end of a melody is not its goal: but nonetheless, had the melody not reached its end it would not have reached its goal either. A parable.” — Friedrich Nietzsche](https://www.goodreads.com/quotes/7368-the-end-of-a-melody-is-not-its-goal-but)
 
-> _“Progress is a natural result of staying focused on the process of doing anything. When you stay on purpose, focused in the present moment, the goal comes toward you with frictionless ease.” — Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)_
+> “Progress is a natural result of staying focused on the process of doing anything. When you stay on purpose, focused in the present moment, the goal comes toward you with frictionless ease.” — Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)
 
-> _“When, instead, your goal is to focus on the process and stay in the present, then there are no mistakes and no judging. You are just learning and doing. You are executing the activity, observing the outcome, and adjusting yourself and your practice energy to produce the desired result. There are no bad emotions, because you are not judging anything.” — Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)_
+> “When, instead, your goal is to focus on the process and stay in the present, then there are no mistakes and no judging. You are just learning and doing. You are executing the activity, observing the outcome, and adjusting yourself and your practice energy to produce the desired result. There are no bad emotions, because you are not judging anything.” — Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)
 
-> _“The great mistake is to anticipate the outcome of the engagement; you ought not to be thinking of whether it ends in victory or defeat. Let nature take its course, and your tools will strike at the right moment.” — Bruce Lee_
+> “The great mistake is to anticipate the outcome of the engagement; you ought not to be thinking of whether it ends in victory or defeat. Let nature take its course, and your tools will strike at the right moment.” — Bruce Lee
 
 ---
 
@@ -139,31 +139,31 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 
 # [“Here’s how to live: Master something.” by Derek Sivers](https://sive.rs/htl08)
 
-> _How long will it take you to become a master?_
+> How long will it take you to become a master?
 >
-> _It doesn’t matter._
+> It doesn’t matter.
 >
-> _Imagine getting to a mountaintop after a long hike through a gorgeous forest._
+> Imagine getting to a mountaintop after a long hike through a gorgeous forest.
 >
-> _Achieving your goal would feel like taking off your backpack._
+> Achieving your goal would feel like taking off your backpack.
 
 ---
 
 # By [James Clear](https://jamesclear.com/quotes/when-you-choose-the-benefits-of-an-action-you-also-choose-the-drawbacks)
 
-> _If you want to be an author, you can’t only choose the finished novel and book signings. You are also choosing months of lonely typing._
+> If you want to be an author, you can’t only choose the finished novel and book signings. You are also choosing months of lonely typing.
 >
-> _If you want to be a bodybuilder, you can’t only choose the fit body and attention. You are also choosing the boring meals and calorie counting._
+> If you want to be a bodybuilder, you can’t only choose the fit body and attention. You are also choosing the boring meals and calorie counting.
 
 ---
 
 # By [Sahil Bloom](https://www.instagram.com/sahilbloom/reel/C5azEXuAIGi/)
 
-> _I no longer focus on the journey or the destination, I focus on the people (companionship)._
+> I no longer focus on the journey or the destination, I focus on the people (companionship).
 >
-> _When you surround yourself with inspiring people, the journeys become more beautiful and the destinations become more brilliant._
+> When you surround yourself with inspiring people, the journeys become more beautiful and the destinations become more brilliant.
 >
-> _[Focus on the company—the people you want to journey with](you-are-the-average-of-the-five-people-you-associate-with-most.md)—and you’ll find that the journey reveals itself in due time._
+> [Focus on the company—the people you want to journey with](you-are-the-average-of-the-five-people-you-associate-with-most.md)—and you’ll find that the journey reveals itself in due time.
 
 Paradox: Although it’s being said that “you got to focus on the journey because there is no guarantee on the destination”, you need a destination to get into the journey. [Without a destination, there is no journey—just movement.](always-start-with-end-in-mind.md)
 

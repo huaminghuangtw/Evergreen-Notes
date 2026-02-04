@@ -1,30 +1,30 @@
 ---
 title: Why we exist?
 created: 2024-11-18T09:18:12
-modified: 2026-01-28T08:15:28
+modified: 2026-02-05T07:51:24
 ---
 
-> _[“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)_
+> [“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)
 
-> _“Existence is a fullness which we can never abandon.” — Jean Paul Sartre_
+> “Existence is a fullness which we can never abandon.” — Jean Paul Sartre
 
-> _“Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness.” — Leo Tolstoy_
+> “Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness.” — Leo Tolstoy
 
-> _[“I’ve come to believe that each of us has a personal calling that’s as unique as a fingerprint - and that the best way to succeed is to discover what you love and then find a way to offer it to others in the form of service, working hard, and also allowing the energy of the universe to lead you.” — Oprah Winfrey](https://www.goodreads.com/quotes/24752-i-ve-come-to-believe-that-each-of-us-has-a)_
+> [“I’ve come to believe that each of us has a personal calling that’s as unique as a fingerprint - and that the best way to succeed is to discover what you love and then find a way to offer it to others in the form of service, working hard, and also allowing the energy of the universe to lead you.” — Oprah Winfrey](https://www.goodreads.com/quotes/24752-i-ve-come-to-believe-that-each-of-us-has-a)
 
-> _“You will never live if you are looking for the meaning of life.” — Albert Camus_
+> “You will never live if you are looking for the meaning of life.” — Albert Camus
 
-> _“Don’t ask yourself what the world needs. Ask yourself what makes you come alive, and go do that, because what the world needs is people who have come alive.” — Howard Thurman_
+> “Don’t ask yourself what the world needs. Ask yourself what makes you come alive, and go do that, because what the world needs is people who have come alive.” — Howard Thurman
 
 [@niebuhrIronyAmericanHistory2010]
 
-> _“Nothing that is worth doing can be achieved in our lifetime; therefore we must be saved by hope. Nothing which is true or beautiful or good makes complete sense in any immediate context of history; therefore we must be saved by faith. Nothing we do, however virtuous, can be accomplished alone; therefore we must be saved by love. No virtuous act is quite as virtuous from the standpoint of our friend or foe as it is from our standpoint. Therefore we must be saved by the final form of love which is forgiveness.”_
+> “Nothing that is worth doing can be achieved in our lifetime; therefore we must be saved by hope. Nothing which is true or beautiful or good makes complete sense in any immediate context of history; therefore we must be saved by faith. Nothing we do, however virtuous, can be accomplished alone; therefore we must be saved by love. No virtuous act is quite as virtuous from the standpoint of our friend or foe as it is from our standpoint. Therefore we must be saved by the final form of love which is forgiveness.”
 
 [@pressfieldWarArtBreak2003]
 
-> _“None of us are born as passive generic blobs waiting for the world to stamp its imprint on us. Instead we show up possessing already a highly refined and individuated soul. Another way of thinking of it is: We’re not born with unlimited choices. We can’t be anything we want to be. We come into this world with a specific, personal destiny. We have a job to do, a calling to enact, a self to become. We are who we are from the cradle, and we’re stuck with it. **Our job in this lifetime is not to shape ourselves into some ideal we imagine we ought to be, but to find out who we already are and become it.**” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
+> “None of us are born as passive generic blobs waiting for the world to stamp its imprint on us. Instead we show up possessing already a highly refined and individuated soul. Another way of thinking of it is: We’re not born with unlimited choices. We can’t be anything we want to be. We come into this world with a specific, personal destiny. We have a job to do, a calling to enact, a self to become. We are who we are from the cradle, and we’re stuck with it. **Our job in this lifetime is not to shape ourselves into some ideal we imagine we ought to be, but to find out who we already are and become it.**” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)
 
-> _“It’s more important to be good ancestors than dutiful descendants. Too many people spend their lives being custodians of the past instead of stewards of the future. We worry about making our parents proud when we should be focused on making our children proud. The responsibility of each generation is not to please our predecessors—it’s to improve conditions for our successors.” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
+> “It’s more important to be good ancestors than dutiful descendants. Too many people spend their lives being custodians of the past instead of stewards of the future. We worry about making our parents proud when we should be focused on making our children proud. The responsibility of each generation is not to please our predecessors—it’s to improve conditions for our successors.” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)
 
 ---
 
@@ -36,7 +36,7 @@ by Viktor Frankl
 
 ---
 
-> _“The most terrifying fact about the universe is not that it is hostile but that it is indifferent, but if we can come to terms with this indifference, then our existence as a species can have genuine meaning. <mark>However vast the darkness, we must supply our own light.</mark>” — Stanley Kubrick_
+> “The most terrifying fact about the universe is not that it is hostile but that it is indifferent, but if we can come to terms with this indifference, then our existence as a species can have genuine meaning. <mark>However vast the darkness, we must supply our own light.</mark>” — Stanley Kubrick
 
 Playboy: If life is so purposeless, do you feel that it’s worth living?
 
@@ -54,11 +54,11 @@ Both because of and in spite of his awareness of the meaninglessness of life, he
 
 ---
 
-> _[“The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” — David Viscott](https://www.goodreads.com/quotes/7407260-the-purpose-of-life-is-to-discover-your-gift-the)_
+> [“The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” — David Viscott](https://www.goodreads.com/quotes/7407260-the-purpose-of-life-is-to-discover-your-gift-the)
 
-> _“Happiness is the meaning and the purpose of life, the whole aim and end of human existence.” — Aristotle_
+> “Happiness is the meaning and the purpose of life, the whole aim and end of human existence.” — Aristotle
 
-> _“Some goals are not meant to be reached, they give you a direction to strive towards.” — Bruce Lee_> _“Purpose and desire can seem similar, but they are very different, sometimes even opposing forces. Desire is personal, narrow, and pointed, and tends toward self-preservation, self-gratification, and short-term gains and pleasures. Purpose is wider, broader, a longer-term vision encompassing the benefit of others—something outside of yourself you’re willing to fight for. There have been many times in my life where I was acting from a place of desire but I’d fully convinced myself that it was purpose. <mark>Desire is what you want; purpose is the flowering of what you are.</mark> Desire tends to weaken over time, whereas purpose strengthens the more you lean into it. Desire can be depleting because it’s insatiable; purpose is empowering—it’s a stronger engine. Purpose has a way of contextualizing life’s unavoidable sufferings and making them meaningful and worthwhile. As Viktor Frankl wrote, “In some ways suffering ceases to be suffering at the moment it finds a meaning, such as the meaning of a sacrifice.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+> “Some goals are not meant to be reached, they give you a direction to strive towards.” — Bruce Lee_> _“Purpose and desire can seem similar, but they are very different, sometimes even opposing forces. Desire is personal, narrow, and pointed, and tends toward self-preservation, self-gratification, and short-term gains and pleasures. Purpose is wider, broader, a longer-term vision encompassing the benefit of others—something outside of yourself you’re willing to fight for. There have been many times in my life where I was acting from a place of desire but I’d fully convinced myself that it was purpose. <mark>Desire is what you want; purpose is the flowering of what you are.</mark> Desire tends to weaken over time, whereas purpose strengthens the more you lean into it. Desire can be depleting because it’s insatiable; purpose is empowering—it’s a stronger engine. Purpose has a way of contextualizing life’s unavoidable sufferings and making them meaningful and worthwhile. As Viktor Frankl wrote, “In some ways suffering ceases to be suffering at the moment it finds a meaning, such as the meaning of a sacrifice.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)
 
 The purpose of life is a life of purpose.
 
@@ -78,7 +78,7 @@ The purpose of life is a life of purpose.
 
 # [Missions are infinite. Goals are finite.](https://www.sahilbloom.com/newsletter/the-life-changing-power-of-missions)
 
-> _“Some goals are not meant to be reached, they give you a direction to strive towards.” — Bruce Lee_
+> “Some goals are not meant to be reached, they give you a direction to strive towards.” — Bruce Lee
 
 * You _never reach_ a Mission, you _live out_ a Mission.
 * Missions are life [journey](journey-over-destination.md), [with no specific ends](the-game-of-life.md).
@@ -88,7 +88,7 @@ The purpose of life is a life of purpose.
 
 ---
 
-> _“If you’re not making someone else’s life better, then you’re wasting your time. Your life will become better by making other lives better.” — Will Smith_
+> “If you’re not making someone else’s life better, then you’re wasting your time. Your life will become better by making other lives better.” — Will Smith
 
 [At the end of your life, God will only assess you based on how well you help other people be better people. Life is people.](https://youtu.be/tvos4nORf_Y?t=18m33s)
 
@@ -100,7 +100,7 @@ Albert Camus argues that seeking a singular meaning of life can hinder truly liv
 
 ---
 
-> _“The best way to overcome the fear of death — so at least it seems to me — is to make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life.” — Bertrand Russell_
+> “The best way to overcome the fear of death — so at least it seems to me — is to make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life.” — Bertrand Russell
 
 * ⭐️ Not to find the meaning of life, but to use your life to create things that are meaningful.
 * Find something much bigger and more important than you are, and dedicate your life to it. [^1]
@@ -114,7 +114,7 @@ Albert Camus argues that seeking a singular meaning of life can hinder truly liv
 
 # [3 Heuristics for a Fulfilling Life](https://fs.blog/brain-food/june-11-2023/)
 
-> _“The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.” — Michelangelo_
+> “The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.” — Michelangelo
 
 1. Big ambitions
 2. High standards
@@ -130,15 +130,15 @@ Successful people don’t have a career, they have a mission. Most of them are t
 
 ---
 
-> _The sad part is, that I will probably end up loving you without you for much longer than I loved you when I knew you. Some people might find that strange. But the truth of it is that the amount of love you feel for someone and the impact they have on you as a person, is in no way relative to the amount of time you have known them.” — Ranata Suzuki_
+> The sad part is, that I will probably end up loving you without you for much longer than I loved you when I knew you. Some people might find that strange. But the truth of it is that the amount of love you feel for someone and the impact they have on you as a person, is in no way relative to the amount of time you have known them.” — Ranata Suzuki
 
-> _[“To live in hearts we leave behind is not to die.” — Thomas Campbell](https://www.goodreads.com/quotes/8204-to-live-in-hearts-we-leave-behind-is-not-to)_
+> [“To live in hearts we leave behind is not to die.” — Thomas Campbell](https://www.goodreads.com/quotes/8204-to-live-in-hearts-we-leave-behind-is-not-to)
 
-> _[“Your biological age is the number of days you’ve lived. Your psychological age is the number of thoughts you’ve entertained. Your sociological age is the number of contributions you’ve made.” — James Clear](https://jamesclear.com/3-2-1/december-12-2024)_
+> [“Your biological age is the number of days you’ve lived. Your psychological age is the number of thoughts you’ve entertained. Your sociological age is the number of contributions you’ve made.” — James Clear](https://jamesclear.com/3-2-1/december-12-2024)
 
-> _“(It’s true that) none of us will get to live forever(, but) none of the people who die are gone. They’re with us every day. I once heard a pastor at a church say that they’re like ships sailing out of the harbor. Yes, at some point, as they get past the horizon, we can’t see them anymore. But that doesn’t mean they’re gone. I don’t think we ever lose the people who pass away. They stay with us every day, in our memories, but also in the way they shaped our lives.” — Arnold Schwarzenegger_
+> “(It’s true that) none of us will get to live forever(, but) none of the people who die are gone. They’re with us every day. I once heard a pastor at a church say that they’re like ships sailing out of the harbor. Yes, at some point, as they get past the horizon, we can’t see them anymore. But that doesn’t mean they’re gone. I don’t think we ever lose the people who pass away. They stay with us every day, in our memories, but also in the way they shaped our lives.” — Arnold Schwarzenegger
 
-> _“No one is finally dead until the ripples they cause in the world die away, until the clock wound up winds down, until the wine she made has finished its ferment, until the crop they planted is harvested. The span of someone’s life is only the core of their actual existence.” — Terry Pratchett, Reaper Man_
+> “No one is finally dead until the ripples they cause in the world die away, until the clock wound up winds down, until the wine she made has finished its ferment, until the crop they planted is harvested. The span of someone’s life is only the core of their actual existence.” — Terry Pratchett, Reaper Man
 
 The great use of life is to spend it for something that outlasts it. To be remembered by people is to live forever.
 

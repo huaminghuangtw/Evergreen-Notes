@@ -1,22 +1,22 @@
 ---
 title: Prioritization
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:19
+modified: 2026-02-05T07:51:24
 ---
 
-> _“The whole point of getting things done is knowing what to leave undone.” — Oswald Chambers_
+> “The whole point of getting things done is knowing what to leave undone.” — Oswald Chambers
 
-> _“Just because it’s what’s done, doesn’t mean it’s what should be done.” — Cinderella_
+> “Just because it’s what’s done, doesn’t mean it’s what should be done.” — Cinderella
 
-> _“You can do anything, but not everything.” — David Allen_
+> “You can do anything, but not everything.” — David Allen
 
-> _“The main thing is to keep the main thing the main thing.” — Stephen Covey_
+> “The main thing is to keep the main thing the main thing.” — Stephen Covey
 
-> _“What is important is seldom urgent and what is urgent is seldom important.” — Dwight D. Eisenhower_
+> “What is important is seldom urgent and what is urgent is seldom important.” — Dwight D. Eisenhower
 
-> _“Clarity about what matters provides clarity about what does not.” — [@newportDeepWorkRules2016]_
+> “Clarity about what matters provides clarity about what does not.” — [@newportDeepWorkRules2016]
 
-> _“The Principle of Priority states (a) you must know the difference between what is urgent and what is important, and (b) you must do what’s important first.” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
+> “The Principle of Priority states (a) you must know the difference between what is urgent and what is important, and (b) you must do what’s important first.” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)
 
 ---
 

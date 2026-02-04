@@ -1,18 +1,18 @@
 ---
 title: Trust your gut
 created: 2025-01-01T16:32:50
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Intuition is the whisper of the soul.” — Jidda Krishnamurti_
+> “Intuition is the whisper of the soul.” — Jidda Krishnamurti
 
-> _“The intuitive mind is a sacred gift and the rational mind is a faithful servant. We have created a society that honors the servant and has forgotten the gift.” — Albert Einstein_
+> “The intuitive mind is a sacred gift and the rational mind is a faithful servant. We have created a society that honors the servant and has forgotten the gift.” — Albert Einstein
 
-> _“Remember that wherever your heart is, there you will find your treasure.” — Paulo Coelho_
+> “Remember that wherever your heart is, there you will find your treasure.” — Paulo Coelho
 
-> _“It takes time to develop your gut, but once it’s developed, don’t listen to anything else.” — Naval Ravikant_
+> “It takes time to develop your gut, but once it’s developed, don’t listen to anything else.” — Naval Ravikant
 
-> _“The more knowledge you have, the more you’re free to rely on your instincts.” — Arnold Schwarzenegger_
+> “The more knowledge you have, the more you’re free to rely on your instincts.” — Arnold Schwarzenegger
 
 ---
 

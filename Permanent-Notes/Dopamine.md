@@ -1,18 +1,18 @@
 ---
 title: Dopamine
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:19
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Persons with severe addictions are among those contemporary prophets that we ignore to our own demise, for they show us who we truly are. (重度成癮者是當代的預言家，不把他們當一回事，沒有好下場的是我們，因為他們反映的正是我們真實的面貌)” — Kent Dunnington_
+> “Persons with severe addictions are among those contemporary prophets that we ignore to our own demise, for they show us who we truly are. (重度成癮者是當代的預言家，不把他們當一回事，沒有好下場的是我們，因為他們反映的正是我們真實的面貌)” — Kent Dunnington
 
 ---
 
 [@liebermanMoleculeMoreHow2018]
 
-> _From dopamine’s point of view, [having things is uninteresting. It’s only getting things that matters.](journey-over-destination.md) If you live under a bridge, dopamine makes you want a tent. If you live in a tent, dopamine makes you want a house. If you live in the most expensive mansion in the world, dopamine makes you want a castle on the moon. Dopamine has no standard for good, and seeks no finish line. The dopamine circuits in the brain can be stimulated only by the possibility of whatever is shiny and new, never mind how perfect things are at the moment. The dopamine motto is “More.”_
+> From dopamine’s point of view, [having things is uninteresting. It’s only getting things that matters.](journey-over-destination.md) If you live under a bridge, dopamine makes you want a tent. If you live in a tent, dopamine makes you want a house. If you live in the most expensive mansion in the world, dopamine makes you want a castle on the moon. Dopamine has no standard for good, and seeks no finish line. The dopamine circuits in the brain can be stimulated only by the possibility of whatever is shiny and new, never mind how perfect things are at the moment. The dopamine motto is “More.”
 
-> _Dopamine isn’t the pleasure molecule, after all. It’s the anticipation molecule. To enjoy the things we have, as opposed to the things that are only possible, our brains must transition from future-oriented dopamine to present-oriented chemicals, a collection of neurotransmitters we call the Here and Now molecules, or the H&Ns._
+> Dopamine isn’t the pleasure molecule, after all. It’s the anticipation molecule. To enjoy the things we have, as opposed to the things that are only possible, our brains must transition from future-oriented dopamine to present-oriented chemicals, a collection of neurotransmitters we call the Here and Now molecules, or the H&Ns.
 
 ---
 

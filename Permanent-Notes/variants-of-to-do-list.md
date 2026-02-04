@@ -1,7 +1,7 @@
 ---
 title: Variants of to-do list
 created: 2025-01-23T10:40:57
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
 **Could-Do List → Should-Do List → Must-Do list
@@ -31,7 +31,7 @@ modified: 2026-01-25T16:14:18
 
 [@forsterItTomorrowOther2008]
 
-> _“A closed list is a way of applying limits to our work in order to increase our efficiency.” — Mark Forster, Do It Tomorrow and Other Secrets of Time Management_
+> “A closed list is a way of applying limits to our work in order to increase our efficiency.” — Mark Forster, Do It Tomorrow and Other Secrets of Time Management
 
 ## 概念
 

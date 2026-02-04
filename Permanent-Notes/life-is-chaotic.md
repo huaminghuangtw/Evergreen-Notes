@@ -1,22 +1,22 @@
 ---
 title: Life is chaotic
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Everyone has a plan until they get punched in the mouth.” — Mike Tyson_
+> “Everyone has a plan until they get punched in the mouth.” — Mike Tyson
 
-> _“We must be willing to let go of the life we have planned, so as to have the life that is waiting for us.” — E. M. Forster_
+> “We must be willing to let go of the life we have planned, so as to have the life that is waiting for us.” — E. M. Forster
 
-> _[“You can never plan the future by the past.” — Edmund Burke](https://www.brainyquote.com/quotes/edmund_burke_161391)_
+> [“You can never plan the future by the past.” — Edmund Burke](https://www.brainyquote.com/quotes/edmund_burke_161391)
 
 [@markaurelMeditations2006]
 
-> _“When jarred, unavoidably, by circumstances, revert at once to yourself, and don’t lose the rhythm more than you can help. You’ll have a better grasp of the harmony if you keep on going back to it.” — Marcus Aurelius_
+> “When jarred, unavoidably, by circumstances, revert at once to yourself, and don’t lose the rhythm more than you can help. You’ll have a better grasp of the harmony if you keep on going back to it.” — Marcus Aurelius
 
-> _[“We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.” — C.S. Lewis](https://www.goodreads.com/quotes/615-we-are-not-necessarily-doubting-that-god-will-do-the)_
+> [“We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.” — C.S. Lewis](https://www.goodreads.com/quotes/615-we-are-not-necessarily-doubting-that-god-will-do-the)
 
-> _“To be interested in the changing seasons is a happier state of mind than to be hopelessly in love with spring.” — George Santayana_
+> “To be interested in the changing seasons is a happier state of mind than to be hopelessly in love with spring.” — George Santayana
 
 ---
 
@@ -40,13 +40,13 @@ Write your life plan with a pencil that has an eraser.
 
 [@mansonSubtleArtNot2016]
 
-> _“Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.” — Mark Manson, The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life_
+> “Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.” — Mark Manson, The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life
 
 Problems are a feature of life, not a bug. There will never come a time when you have no problems.
 
 ---
 
-> _“No amount of sophistication is going to allay the fact that all your knowledge is about the past and all your decisions are about the future.” — Ian Wilson_
+> “No amount of sophistication is going to allay the fact that all your knowledge is about the past and all your decisions are about the future.” — Ian Wilson
 
 Life is uncertain, but you have to [act](cultivate-a-strong-bias-towards-action.md) anyway.
 

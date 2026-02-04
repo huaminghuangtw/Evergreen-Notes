@@ -1,12 +1,12 @@
 ---
 title: You can achieve anything if you focus on one thing at a time
 created: 2024-11-18T09:18:12
-modified: 2025-12-06T15:30:53
+modified: 2026-02-05T07:51:24
 ---
 
-> _[“The only way to gain enough efficiency to complete The Art of Computer Programming is to operate in batch mode, concentrating intensively and uninterruptedly on one subject at a time, rather than swapping a number of topics in and out of my head.” — Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/retd.html)_
+> [“The only way to gain enough efficiency to complete The Art of Computer Programming is to operate in batch mode, concentrating intensively and uninterruptedly on one subject at a time, rather than swapping a number of topics in and out of my head.” — Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/retd.html)
 
-> _“Take a simple idea, and take it seriously.” — Charlie Munger_
+> “Take a simple idea, and take it seriously.” — Charlie Munger
 
 ---
 
@@ -50,7 +50,7 @@ In his book Thinking, Fast and Slow, Nobel-prize-winning psychologist and econom
 
 In The Happiness Hypothesis, New York University psychologist Jonathan Haidt describes the key distinction of “automatic processing” and “controlled processing” as it relates to multitasking:
 
-> _Controlled processing is limited — we can think consciously about one thing at a time only — but automatic processes run in parallel and can handle many tasks at once. If the mind performs hundreds of operations each second, all but one of them must be handled automatically._
+> Controlled processing is limited — we can think consciously about one thing at a time only — but automatic processes run in parallel and can handle many tasks at once. If the mind performs hundreds of operations each second, all but one of them must be handled automatically.
 
 ---
 
@@ -64,7 +64,7 @@ In The Happiness Hypothesis, New York University psychologist Jonathan Haidt des
 
 # 做什麼，像什麼
 
-> _“Age quod agis”_
+> “Age quod agis”
 >
 > Do what you are doing. = Do well whatever you do. = Concentrate on the task at hand.
 

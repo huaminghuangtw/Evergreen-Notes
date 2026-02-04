@@ -1,12 +1,12 @@
 ---
 title: Be impeccable with your word
 created: 2024-11-18T09:16:50
-modified: 2026-01-05T17:15:47
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Words are but pictures of our thoughts.” — John Dryden_
+> “Words are but pictures of our thoughts.” — John Dryden
 
-> _“Understanding is the heartwood of well-spoken words.” — The Buddha_
+> “Understanding is the heartwood of well-spoken words.” — The Buddha
 
 ---
 

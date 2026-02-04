@@ -1,34 +1,34 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Start before you’re ready. Don’t prepare. Begin. Don’t think. Act.” — Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)_
+> “Start before you’re ready. Don’t prepare. Begin. Don’t think. Act.” — Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)
 
-> _“Start where you are. Use what you have. Do what you can.” — Arthur Ashe_
+> “Start where you are. Use what you have. Do what you can.” — Arthur Ashe
 
-> _“As you start to walk on the way, the way appears.” — Rumi_
+> “As you start to walk on the way, the way appears.” — Rumi
 
-> _“You don’t have to be great to start, but you have to start to be great.” — Zig Ziglar_
+> “You don’t have to be great to start, but you have to start to be great.” — Zig Ziglar
 
-> _[“Whether a decision is good or bad can change based on how you act after the choice is made. <mark>You can’t learn all the lessons beforehand.</mark> You learn a lot about what you want in a marriage after getting married. You discover what type of career you enjoy after doing a lot of work. And so it goes in nearly every area of life. <mark>In many cases, what you wish you knew ahead of time can only be learned after the decision is made.</mark>” — James Clear](https://jamesclear.com/3-2-1/february-13-2025)_
+> [“Whether a decision is good or bad can change based on how you act after the choice is made. <mark>You can’t learn all the lessons beforehand.</mark> You learn a lot about what you want in a marriage after getting married. You discover what type of career you enjoy after doing a lot of work. And so it goes in nearly every area of life. <mark>In many cases, what you wish you knew ahead of time can only be learned after the decision is made.</mark>” — James Clear](https://jamesclear.com/3-2-1/february-13-2025)
 
-> _[“You can act your way into feeling long before you can feel your way into action. If you wait until you feel like doing something, you will likely never accomplish it.” — John C. Maxwell, How Successful People Think: Change Your Thinking, Change Your Life](https://www.goodreads.com/quotes/1158022-you-can-act-your-way-into-feeling-long-before-you)_
+> [“You can act your way into feeling long before you can feel your way into action. If you wait until you feel like doing something, you will likely never accomplish it.” — John C. Maxwell, How Successful People Think: Change Your Thinking, Change Your Life](https://www.goodreads.com/quotes/1158022-you-can-act-your-way-into-feeling-long-before-you)
 
-> _“If we wait for the moment when everything, absolutely everything is ready, we shall never begin.” — Ivan Turgenev_
+> “If we wait for the moment when everything, absolutely everything is ready, we shall never begin.” — Ivan Turgenev
 
-> _[“Action isn’t just the effect of motivation; it’s also the cause of it.” — Mark Manson](https://www.goodreads.com/quotes/11945271-action-isn-t-just-the-effect-of-motivation-it-s-also-the)_
+> [“Action isn’t just the effect of motivation; it’s also the cause of it.” — Mark Manson](https://www.goodreads.com/quotes/11945271-action-isn-t-just-the-effect-of-motivation-it-s-also-the)
 
-> _“It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.” — Seneca_
+> “It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.” — Seneca
 
-> _“Do not merely think that you are going to become great; think that you are great now. Do not think that you will begin to act in a great way at some future time; begin now. Do not think that you will act in a great way when you reach a different environment; act in a great way where you are now. Do not think that you will begin to act in a great way when you begin to deal with great things; begin to deal in a great way with small things.” — Wallace Wattles, [The Science of Being Great](https://www.goodreads.com/work/quotes/1881171)_
+> “Do not merely think that you are going to become great; think that you are great now. Do not think that you will begin to act in a great way at some future time; begin now. Do not think that you will act in a great way when you reach a different environment; act in a great way where you are now. Do not think that you will begin to act in a great way when you begin to deal with great things; begin to deal in a great way with small things.” — Wallace Wattles, [The Science of Being Great](https://www.goodreads.com/work/quotes/1881171)
 
-> _“It’s a job that’s never started that takes the longest to finish.” — J.R.R. Tolkien_
+> “It’s a job that’s never started that takes the longest to finish.” — J.R.R. Tolkien
 
 ---
 
-> _“The best time to plant a tree was 20 years ago. The second best time is now.”_
+> “The best time to plant a tree was 20 years ago. The second best time is now.”
 
 種一棵樹最好的時間點是十年前，其次就是 [現在](live-in-the-present.md)。
 
@@ -95,7 +95,7 @@ See also: [The Goal-Gradient Effect](https://sketchplanations.com/goal-gradient-
 
 ---
 
-> _[“You’re more likely to act yourself into feeling than feel yourself into action.” — Dr. Jerome Bruner, Harvard Psychologist](https://www.goodreads.com/quotes/11683801-you-more-likely-act-yourself-into-feeling-than-feel-yourself)_
+> [“You’re more likely to act yourself into feeling than feel yourself into action.” — Dr. Jerome Bruner, Harvard Psychologist](https://www.goodreads.com/quotes/11683801-you-more-likely-act-yourself-into-feeling-than-feel-yourself)
 
 * Act as if
 * Fake it until you make it
@@ -104,13 +104,13 @@ See also: [The Goal-Gradient Effect](https://sketchplanations.com/goal-gradient-
 
 # 萬事起頭難
 
-> _“Begin now to be what you will be hereafter.” — St. Jerome_
+> “Begin now to be what you will be hereafter.” — St. Jerome
 
-> _“The secret to getting ahead is getting started.” — Mark Twain_
+> “The secret to getting ahead is getting started.” — Mark Twain
 
 > _“The heaviest weight at the gym is the front door.” — Ed Latimore_ [^1]
 
-> _“Well begun is half done.” — Horace_
+> “Well begun is half done.” — Horace
 
 * It’s easier to steer a moving ship than to put a stationary one into motion.
 * [My yoga teacher always starts class with this line: “Congrats. The hardest part is over. You showed up.” I feel like that mindset applies to most other things. Worrying about a task often is far worse than the task itself. Starting is the hardest part.](https://mariandrew.substack.com/p/100-things-i-know)

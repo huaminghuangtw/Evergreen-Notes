@@ -1,30 +1,30 @@
 ---
 title: Stay curious
 created: 2024-11-18T09:18:12
-modified: 2026-01-29T06:50:30
+modified: 2026-02-05T07:51:24
 ---
 
-> _“The cure for boredom is curiosity. There is no cure for curiosity.” — Dorothy Parker_
+> “The cure for boredom is curiosity. There is no cure for curiosity.” — Dorothy Parker
 
-> _[“Curiosity is something you can activate at any time. It leads to a sense of wonder, awe, and even joy. Curiosity is the cure to the mundane.” — Nick Milo](https://www.linkingyourthinking.com/ideaverse/curiosity-is-the-cure-to-the-mundane)_
+> [“Curiosity is something you can activate at any time. It leads to a sense of wonder, awe, and even joy. Curiosity is the cure to the mundane.” — Nick Milo](https://www.linkingyourthinking.com/ideaverse/curiosity-is-the-cure-to-the-mundane)
 
-> _“Curiosity is the engine of achievement.” — Sir Ken Robinso_
+> “Curiosity is the engine of achievement.” — Sir Ken Robinso
 
-> _“If you don’t know it, it’s because you aren’t interested in it.” — Naval Ravikant_
+> “If you don’t know it, it’s because you aren’t interested in it.” — Naval Ravikant
 
-> _“There are no uninteresting things, only uninterested people.” — Gilbert Chesterton_
+> “There are no uninteresting things, only uninterested people.” — Gilbert Chesterton
 
-> _“Nearly everything is really interesting if you go into it deeply enough.” — Richard Feynman_
+> “Nearly everything is really interesting if you go into it deeply enough.” — Richard Feynman
 
-> _“Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new.” — Og Mandino_
+> “Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new.” — Og Mandino
 
-> _“Remember to look up at the stars and not down at your feet. Try to make sense of what you see and wonder about what makes the universe exist. Be curious.” — Stephen Hawking_
+> “Remember to look up at the stars and not down at your feet. Try to make sense of what you see and wonder about what makes the universe exist. Be curious.” — Stephen Hawking
 
-> _“The true delight is in the finding out rather than in the knowing.” — Isaac Asimov_
+> “The true delight is in the finding out rather than in the knowing.” — Isaac Asimov
 
-> _“Develop an interest in life as you see it; the people, things, literature, music - the world is so rich, simply throbbing with rich treasures, beautiful souls, and interesting people. Forget yourself.” — Henry Miller_
+> “Develop an interest in life as you see it; the people, things, literature, music - the world is so rich, simply throbbing with rich treasures, beautiful souls, and interesting people. Forget yourself.” — Henry Miller
 
-> _“Empty your cup so that it may be filled; become devoid to gain totality.” — Bruce Lee_
+> “Empty your cup so that it may be filled; become devoid to gain totality.” — Bruce Lee
 
 ---
 

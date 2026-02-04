@@ -1,26 +1,26 @@
 ---
 title: Be ready to change your mind completely at any given time
 created: 2024-12-04T15:59:39
-modified: 2025-12-28T18:44:10
+modified: 2026-02-05T07:51:24
 ---
 
-> _[“Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won’t come in.” — Alan Alda](https://www.goodreads.com/quotes/667214-your-assumptions-are-your-windows-on-the-world-scrub-them)_
+> [“Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won’t come in.” — Alan Alda](https://www.goodreads.com/quotes/667214-your-assumptions-are-your-windows-on-the-world-scrub-them)
 
-> _“Our life always expresses the result of our dominant thoughts.” — Soren Kierkegaard_
+> “Our life always expresses the result of our dominant thoughts.” — Soren Kierkegaard
 
-> _“On any given day, you may struggle with your habits because you’re too busy or too tired or too overwhelmed or hundreds of other reasons. Over the long run, the real reason you fail to stick with habits is that your self-image gets in the way. <mark>This is why you can’t get too attached to one version of your identity. Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity.</mark>” — [@clearAtomicHabitsEasy2018]_
+> “On any given day, you may struggle with your habits because you’re too busy or too tired or too overwhelmed or hundreds of other reasons. Over the long run, the real reason you fail to stick with habits is that your self-image gets in the way. <mark>This is why you can’t get too attached to one version of your identity. Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity.</mark>” — [@clearAtomicHabitsEasy2018]
 
-> _[“The more an idea is tied to your identity, the more you will ignore evidence it is false. People seem to have no trouble finding reasons to ignore the merits of ideas they dislike. To continue to grow and learn, you must be willing to update, expand, and edit your identity. In many ways, growth is unlearning.” — James Clear](https://jamesclear.com/3-2-1/november-14-2024)_
+> [“The more an idea is tied to your identity, the more you will ignore evidence it is false. People seem to have no trouble finding reasons to ignore the merits of ideas they dislike. To continue to grow and learn, you must be willing to update, expand, and edit your identity. In many ways, growth is unlearning.” — James Clear](https://jamesclear.com/3-2-1/november-14-2024)
 
 > _“The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.” — F. Scott Fitzgerald_ [^1]
 
-> _“Beware of false knowledge, it is more dangerous than ignorance.” — George Bernard Shaw_
+> “Beware of false knowledge, it is more dangerous than ignorance.” — George Bernard Shaw
 
-> _“The first principle is that you must not fool yourself—and you are the easiest person to fool.” — Richard P. Feynman_
+> “The first principle is that you must not fool yourself—and you are the easiest person to fool.” — Richard P. Feynman
 
 > _“We are all born ignorant, but one must work hard to remain stupid.” — Benjamin Franklin_ [^2] [^3]
 
-> _“Today is the oldest you’ve ever been, and the youngest you’ll ever be again.” — Eleanor Roosevelt_
+> “Today is the oldest you’ve ever been, and the youngest you’ll ever be again.” — Eleanor Roosevelt
 
 ---
 
@@ -32,7 +32,7 @@ Nev­er for­get that, no mat­ter how cer­tain, you might be wrong. The only b
 
 **Any opinions I have formed can be changed based on accumulated personal experience and information that comes my way.**
 
-> _The fastest way to an effective forecast is often through a sequence of lousy forecasts. Instead of withholding judgment until an exhaustive search for data is complete, I will force myself to make a tentative forecast based on the information available, and then systematically tear it apart, using the insights gained to guide my search for further indicators and information. Iterate the process a few times, and it is surprising how quickly one can get to a useful forecast. Since the mid-1980s, my mantra for this process is “strong opinions, weakly held.” Allow your intuition to guide you to a conclusion, no matter how imperfect — this is the “strong opinion” part. Then — and this is the “weakly held” part — prove yourself wrong. Engage in creative doubt. Look for information that doesn’t fit, or indicators that pointing in an entirely different direction. Eventually your intuition will kick in and a new hypothesis will emerge out of the rubble, ready to be ruthlessly torn apart once again. You will be surprised by how quickly the sequence of faulty forecasts will deliver you to a useful result. This process is equally useful for evaluating an already-final forecast in the face of new information. It sensitizes one to the weak signals of changes coming over the horizon and keeps the hapless forecaster from becoming so attached to their model that reality intrudes too late to make a difference. More generally, “strong opinions weakly held” is often a useful default perspective to adopt in the face of any issue fraught with high levels of uncertainty, whether one is venturing a forecast or not. Try it at a cocktail party the next time a controversial topic comes up; it is an elegant way to discover new insights — and duck that tedious bore who loudly knows nothing but won’t change their mind!— [Paul Saffo](https://saffo.com/)_
+> The fastest way to an effective forecast is often through a sequence of lousy forecasts. Instead of withholding judgment until an exhaustive search for data is complete, I will force myself to make a tentative forecast based on the information available, and then systematically tear it apart, using the insights gained to guide my search for further indicators and information. Iterate the process a few times, and it is surprising how quickly one can get to a useful forecast. Since the mid-1980s, my mantra for this process is “strong opinions, weakly held.” Allow your intuition to guide you to a conclusion, no matter how imperfect — this is the “strong opinion” part. Then — and this is the “weakly held” part — prove yourself wrong. Engage in creative doubt. Look for information that doesn’t fit, or indicators that pointing in an entirely different direction. Eventually your intuition will kick in and a new hypothesis will emerge out of the rubble, ready to be ruthlessly torn apart once again. You will be surprised by how quickly the sequence of faulty forecasts will deliver you to a useful result. This process is equally useful for evaluating an already-final forecast in the face of new information. It sensitizes one to the weak signals of changes coming over the horizon and keeps the hapless forecaster from becoming so attached to their model that reality intrudes too late to make a difference. More generally, “strong opinions weakly held” is often a useful default perspective to adopt in the face of any issue fraught with high levels of uncertainty, whether one is venturing a forecast or not. Try it at a cocktail party the next time a controversial topic comes up; it is an elegant way to discover new insights — and duck that tedious bore who loudly knows nothing but won’t change their mind!— [Paul Saffo](https://saffo.com/)
 
 ---
 

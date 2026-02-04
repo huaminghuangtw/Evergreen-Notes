@@ -1,10 +1,10 @@
 ---
 title: Note Taking
 created: 2024-11-18T09:18:12
-modified: 2025-12-15T19:05:12
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Every intellectual endeavor starts with a note.” — Sönke Ahrens_
+> “Every intellectual endeavor starts with a note.” — Sönke Ahrens
 
 ---
 
@@ -12,7 +12,7 @@ modified: 2025-12-15T19:05:12
 
 ---
 
-> _“One cannot think without writing.” — Niklas Luhmann_
+> “One cannot think without writing.” — Niklas Luhmann
 
 Writing is the only thing that matters.
 
@@ -20,7 +20,7 @@ Writing is the only thing that matters.
 
 # Incremental Writing
 
-> _“For me, writing means making a rough draft and refining it over a considerable period of time. My image of myself as a writer includes the expectation of an ‘unacceptable’ first draft that will develop with successive editing into presentable form.” — Seymour Papert_
+> “For me, writing means making a rough draft and refining it over a considerable period of time. My image of myself as a writer includes the expectation of an ‘unacceptable’ first draft that will develop with successive editing into presentable form.” — Seymour Papert
 
 [Progressive Summarization by Tiago Forte](https://fortelabs.com/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/)
 

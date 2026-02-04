@@ -1,14 +1,14 @@
 ---
 title: Wu Wei
 created: 2024-12-05T23:47:15
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Nature never hurries, yet everything is accomplished.” — Lao Tzu_
+> “Nature never hurries, yet everything is accomplished.” — Lao Tzu
 >
 > 道常無為而無不為。
 
-> _“We do so much, we run so quickly, the situation is difficult, and many people say, “Don’t just sit there, do something.” But doing more things may make the situation worse. So you should say, “Don’t just do something, sit there.” Sit there, stop, be yourself first, and begin from there.” — Thích Nhất Hạnh, [Being Peace](https://www.goodreads.com/work/quotes/321908)_
+> “We do so much, we run so quickly, the situation is difficult, and many people say, “Don’t just sit there, do something.” But doing more things may make the situation worse. So you should say, “Don’t just do something, sit there.” Sit there, stop, be yourself first, and begin from there.” — Thích Nhất Hạnh, [Being Peace](https://www.goodreads.com/work/quotes/321908)
 
 ---
 

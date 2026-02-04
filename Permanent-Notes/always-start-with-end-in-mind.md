@@ -1,18 +1,18 @@
 ---
 title: Always start with end in mind
 created: 2024-11-18T09:18:12
-modified: 2025-11-18T16:10:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement(/accomplishment).” — Isocrates_
+> “It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement(/accomplishment).” — Isocrates
 
-> _“There is nothing so useless as doing efficiently that which should not be done at all.” — Peter Drucker_
+> “There is nothing so useless as doing efficiently that which should not be done at all.” — Peter Drucker
 
-> _“Having lost sight of our objectives, we redoubled our efforts.” — Walt Kelly_
+> “Having lost sight of our objectives, we redoubled our efforts.” — Walt Kelly
 
-> _“First say to yourself what you would be; and then do what you have to do.” — Epictetus_
+> “First say to yourself what you would be; and then do what you have to do.” — Epictetus
 
-> _“Decide what you would like your obituary to say, and live the life to deserve it.” — [Warren Buffet in his final letter to Berkshire Hathaway shareholders](https://www.berkshirehathaway.com/news/nov1025.pdf)_
+> “Decide what you would like your obituary to say, and live the life to deserve it.” — [Warren Buffet in his final letter to Berkshire Hathaway shareholders](https://www.berkshirehathaway.com/news/nov1025.pdf)
 
 ---
 

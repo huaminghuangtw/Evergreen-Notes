@@ -1,10 +1,10 @@
 ---
 title: Journaling
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Create an environment where you’re free to express what you’re afraid to express.” — Rick Rubin_
+> “Create an environment where you’re free to express what you’re afraid to express.” — Rick Rubin
 
 ---
 
@@ -27,7 +27,7 @@ Use daily diary as a place to ask yourself questions, then question your answers
 
 # Wins I Achieved
 
-> _“Don’t judge each day by the harvest you reap but by the seeds you plant.” — Robert Louis Stevenson_
+> “Don’t judge each day by the harvest you reap but by the seeds you plant.” — Robert Louis Stevenson
 
 * Writing down daily achievements—not matter how small/tiny—gives me a sene of **completeness**.
 * Focus on the seeds, not the trees. What seeds are you planting today?

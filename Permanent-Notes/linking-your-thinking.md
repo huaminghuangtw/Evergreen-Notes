@@ -1,10 +1,10 @@
 ---
 title: Linking Your Thinking
 created: 2025-01-23T18:40:57
-modified: 2025-11-17T06:14:44
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Neurons that fire together wire together” — Hebb’s Rule_
+> “Neurons that fire together wire together” — Hebb’s Rule
 
 ---
 

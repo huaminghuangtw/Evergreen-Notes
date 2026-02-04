@@ -1,14 +1,14 @@
 ---
 title: The Law of Attraction
 created: 2025-10-26T15:33:23
-modified: 2026-01-27T16:08:01
+modified: 2026-02-05T07:51:24
 ---
 
-> _“What you seek is seeking you.” — Rumi_
+> “What you seek is seeking you.” — Rumi
 
-> _[“You’re dangerous,” he says. “Why?” “Because you make me believe in the impossible.” — Simone Elkeles, Rules of Attraction](https://www.goodreads.com/quotes/257182-you-re-dangerous-he-says-why-because-you-make-me-believe)_
+> [“You’re dangerous,” he says. “Why?” “Because you make me believe in the impossible.” — Simone Elkeles, Rules of Attraction](https://www.goodreads.com/quotes/257182-you-re-dangerous-he-says-why-because-you-make-me-believe)
 
-> _“Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.” — Earl Nightingale_
+> “Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.” — Earl Nightingale
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 title: Kindness
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Kindness is a language which the deaf can hear and the blind can see.” — Mark Twain_
+> “Kindness is a language which the deaf can hear and the blind can see.” — Mark Twain
 
-> _“Kindness is as important as knowledge.” — Megan Smith_
+> “Kindness is as important as knowledge.” — Megan Smith
 
-> _[“Kindness is universal. Sometimes being kind allows others to see the goodness in humanity through you. Always be kinder than necessary.” — Germany Kent](https://www.goodreads.com/quotes/8455116-kindness-is-universal-sometimes-being-kind-allows-others-to-see)_
+> [“Kindness is universal. Sometimes being kind allows others to see the goodness in humanity through you. Always be kinder than necessary.” — Germany Kent](https://www.goodreads.com/quotes/8455116-kindness-is-universal-sometimes-being-kind-allows-others-to-see)
 
-> _“Treat everyone with politeness and kindness, not because they are nice, but because you are.” — Roy T. Bennett, The Light in the Heart_
+> “Treat everyone with politeness and kindness, not because they are nice, but because you are.” — Roy T. Bennett, The Light in the Heart
 >
-> _“Each planet has its own orbit agenda. Think of people close to you as planets. Sometimes it’s nice to just watch them orbit and shine.” — Yoko Ono_
+> “Each planet has its own orbit agenda. Think of people close to you as planets. Sometimes it’s nice to just watch them orbit and shine.” — Yoko Ono
 
-> _“It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.” — Steve Maraboli_
+> “It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.” — Steve Maraboli
 
-> _“Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.” — Ming-Dao Deng_
+> “Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.” — Ming-Dao Deng
 
-> _“The smallest act of kindness is worth more than the greatest intention.” — Khalil Gibran_
+> “The smallest act of kindness is worth more than the greatest intention.” — Khalil Gibran
 
 ---
 

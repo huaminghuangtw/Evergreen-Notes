@@ -1,16 +1,16 @@
 ---
 title: Criticism
 created: 2024-11-18T09:16:50
-modified: 2026-02-01T17:44:38
+modified: 2026-02-05T07:51:24
 ---
 
 —_“To avoid criticism, do nothing, say nothing, be nothing.” — Elbert Hubbard_
 
-> _“The trouble with most of us is that we’d rather be ruined by praise than saved by criticism.” — Norman Vincent Peale_
+> “The trouble with most of us is that we’d rather be ruined by praise than saved by criticism.” — Norman Vincent Peale
 
-> _“Take criticism seriously, but not personally. If there is truth or merit in the criticism, try to learn from it. Otherwise, let it roll right off you.” — Hillary Rodham Clinton_
+> “Take criticism seriously, but not personally. If there is truth or merit in the criticism, try to learn from it. Otherwise, let it roll right off you.” — Hillary Rodham Clinton
 
-> _“Against criticism we can neither protect nor defend ourselves; we must act in despite of it, and gradually it resigns itself to this.” — Johann Wolfgang von Goethe_
+> “Against criticism we can neither protect nor defend ourselves; we must act in despite of it, and gradually it resigns itself to this.” — Johann Wolfgang von Goethe
 
 ---
 

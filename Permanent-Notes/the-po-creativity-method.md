@@ -1,10 +1,10 @@
 ---
 title: The PO Creativity Method
 created: 2024-11-18T09:18:12
-modified: 2025-08-29T08:30:45
+modified: 2026-02-05T07:51:24
 ---
 
-> _“NO is the basic tool of the logic system. YES is the basic tool of the belief system. PO is the basic tool of the creative system.” — Edward de Bono_
+> “NO is the basic tool of the logic system. YES is the basic tool of the belief system. PO is the basic tool of the creative system.” — Edward de Bono
 
 ---
 

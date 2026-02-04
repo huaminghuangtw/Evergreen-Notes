@@ -1,30 +1,30 @@
 ---
 title: Fear
 created: 2024-11-18T09:18:12
-modified: 2026-01-31T14:17:07
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Danger is real, fear is a choice” — Will Smith_
+> “Danger is real, fear is a choice” — Will Smith
 
-> _“Fear is a natural reaction to moving closer to the truth” — Pema Chodron_
+> “Fear is a natural reaction to moving closer to the truth” — Pema Chodron
 
-> _“Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.” — Marie Curie_
+> “Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.” — Marie Curie
 
-> _“Life can be the scariest and most beautiful thing simultaneously.” — Maxime Lagace_
+> “Life can be the scariest and most beautiful thing simultaneously.” — Maxime Lagace
 
-> _“You can conquer almost any fear if you will only make up your mind to do so. For remember, fear doesn’t exist anywhere except in the mind.” — Dale Carnegie_
+> “You can conquer almost any fear if you will only make up your mind to do so. For remember, fear doesn’t exist anywhere except in the mind.” — Dale Carnegie
 
-> _“There is no fear for one whose mind is not filled with desires.” — The Buddha_
+> “There is no fear for one whose mind is not filled with desires.” — The Buddha
 
-> _“FEAR has two meanings: ‘Forget Everything And Run’ or ‘Face Everything And Rise.’ The choice is yours.” — Zig Ziglar_
+> “FEAR has two meanings: ‘Forget Everything And Run’ or ‘Face Everything And Rise.’ The choice is yours.” — Zig Ziglar
 
-> _“If you approach the mountain in fear, it will look bigger than it appears.” — Tene Edwards_
+> “If you approach the mountain in fear, it will look bigger than it appears.” — Tene Edwards
 
-> _“We grow fearless when we do the things we fear.” — Robin Sharma_
+> “We grow fearless when we do the things we fear.” — Robin Sharma
 
-> _“Of all the liars in the world, sometimes the worst are our own fears.” — Rudyard Kipling_
+> “Of all the liars in the world, sometimes the worst are our own fears.” — Rudyard Kipling
 
-> _“Let us not pray to be sheltered from dangers but to be fearless when facing them.” — Rabindranath Tagore_
+> “Let us not pray to be sheltered from dangers but to be fearless when facing them.” — Rabindranath Tagore
 
 ---
 

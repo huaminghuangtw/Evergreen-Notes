@@ -1,12 +1,12 @@
 ---
 title: Goal Setting
 created: 2025-01-23T10:40:57
-modified: 2025-12-09T17:35:38
+modified: 2026-02-05T07:51:24
 ---
 
-> _“A goal is not always meant to be reached, it often serves simply as something to aim at.” — Bruce Lee_
+> “A goal is not always meant to be reached, it often serves simply as something to aim at.” — Bruce Lee
 
-> _“Setting goals is the first step in turning the invisible into the visible.” — Tony Robbins_
+> “Setting goals is the first step in turning the invisible into the visible.” — Tony Robbins
 
 > _“A goal is a dream with a deadline.” — Napoleon Hill_ [^1]
 
@@ -74,7 +74,7 @@ Define three levels of daily success:
 
 ## [The Harada Method](https://theharadamethod.com/about-the-method) by 原田隆史（Takashi Harada）
 
-> _[This is how Shohei Ohtani, the best baseball player in the world, used this approach for setting his goals for Baseball.](https://www.reddit.com/r/GetMotivated/comments/11yzglu/image_shohei_ohtani_created_this_chart_when_he/)_
+> [This is how Shohei Ohtani, the best baseball player in the world, used this approach for setting his goals for Baseball.](https://www.reddit.com/r/GetMotivated/comments/11yzglu/image_shohei_ohtani_created_this_chart_when_he/)
 
 aka [The Open Window 64 Chart = OW64](https://www.goalpillars.com/) ([曼陀羅九宮格](https://www.sponichi.co.jp/baseball/news/2013/02/02/gazo/G20130202005109500.html)) [^3]
 

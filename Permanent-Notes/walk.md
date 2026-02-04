@@ -1,14 +1,14 @@
 ---
 title: Walk
 created: 2024-11-18T09:16:50
-modified: 2025-12-16T10:17:23
+modified: 2026-02-05T07:51:24
 ---
 
-> _“A walk in nature walks the soul back home.” — Mary Davis_
+> “A walk in nature walks the soul back home.” — Mary Davis
 
-> _“Above all, do not lose your desire to walk. Everyday, I walk myself into a state of well-being & walk away from every illness. I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it.” — Søren Kierkegaard_
+> “Above all, do not lose your desire to walk. Everyday, I walk myself into a state of well-being & walk away from every illness. I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it.” — Søren Kierkegaard
 
-> _“I can only meditate when I am walking. When I stop, I cease to think; my mind works only with my legs.” — Jean-Jacques Rousseau_
+> “I can only meditate when I am walking. When I stop, I cease to think; my mind works only with my legs.” — Jean-Jacques Rousseau
 >
 > 散步促進我的思想。唯有身體不停行走，腦筋才會甦醒運轉。
 

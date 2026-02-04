@@ -1,12 +1,12 @@
 ---
 title: Delayed Gratification
 created: 2024-11-18T09:18:12
-modified: 2025-11-26T08:21:25
+modified: 2026-02-05T07:51:24
 ---
 
-> _“It is by going down into the abyss that we recover the treasures of life. Where you stumble, there lies your treasure.” — Joseph Campbell_
+> “It is by going down into the abyss that we recover the treasures of life. Where you stumble, there lies your treasure.” — Joseph Campbell
 
-> _“All things are difficult before they are easy.” — Thomas Fuller_
+> “All things are difficult before they are easy.” — Thomas Fuller
 
 ---
 
@@ -44,7 +44,7 @@ Remark: Wanting is the desire you feel before doing something. Liking is the sat
 
 [@rubinSecretsAdulthoodSimple2025]
 
-> _“Happiness doesn’t always make us feel happy. Living up to our values, challenging ourselves, facing our mistakes, depriving ourselves… these aims make our lives happier, but they don’t always make us feel happy in the moment.” — Gretchen Rubin_
+> “Happiness doesn’t always make us feel happy. Living up to our values, challenging ourselves, facing our mistakes, depriving ourselves… these aims make our lives happier, but they don’t always make us feel happy in the moment.” — Gretchen Rubin
 
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: Dispel your narratives
 created: 2024-11-18T09:18:12
-modified: 2025-12-28T18:44:10
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Wisdom accepts that all things have two sides.” — Carl Jung_
+> “Wisdom accepts that all things have two sides.” — Carl Jung
 
-> _I never ask if “I like it” or “I don’t like it.” I think “this is what it is” or “this is what it isn’t.” — Richard Feynman_
+> I never ask if “I like it” or “I don’t like it.” I think “this is what it is” or “this is what it isn’t.” — Richard Feynman
 
-> _“You never know what will be the consequence of the misfortune; or, you never know what will be the consequences of good fortune.” — Alan Watts_
+> “You never know what will be the consequence of the misfortune; or, you never know what will be the consequences of good fortune.” — Alan Watts
 
 ---
 
@@ -30,7 +30,7 @@ The wisest among us allow events to exist without applying a narrative layer. Th
 
 ---
 
-> _“Looking at beauty in the world, is the first step of purifying the mind.” — Amit Ray_
+> “Looking at beauty in the world, is the first step of purifying the mind.” — Amit Ray
 
 Finding the beauty in the thing that already exists without needing to alter it is the next step.
 

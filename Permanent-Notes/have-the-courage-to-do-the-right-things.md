@@ -1,18 +1,18 @@
 ---
 title: Have the courage to do the right things
 created: 2024-12-08T00:37:07
-modified: 2026-01-25T16:14:19
+modified: 2026-02-05T07:51:24
 ---
 
-> _“The opposite of love is not hate, it’s indifference. The opposite of art is not ugliness, it’s indifference. The opposite of faith is not heresy, it’s indifference. And the opposite of life is not death, it’s indifference.” — Elie Wiesel_
+> “The opposite of love is not hate, it’s indifference. The opposite of art is not ugliness, it’s indifference. The opposite of faith is not heresy, it’s indifference. And the opposite of life is not death, it’s indifference.” — Elie Wiesel
 
-> _“There is only one good, knowledge, and one evil, ignorance.” — Socrates_
+> “There is only one good, knowledge, and one evil, ignorance.” — Socrates
 
-> _“There may be times when we are powerless to prevent injustice, but there must never be a time when we fail to protest.” — Elie Wiesel_
+> “There may be times when we are powerless to prevent injustice, but there must never be a time when we fail to protest.” — Elie Wiesel
 
-> _“Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.” — William Faulkner_
+> “Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.” — William Faulkner
 
-> _“Being polite is withholding feedback to make someone feel good today. Being kind is being candid about how they can get better tomorrow” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
+> “Being polite is withholding feedback to make someone feel good today. Being kind is being candid about how they can get better tomorrow” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)
 
 ---
 

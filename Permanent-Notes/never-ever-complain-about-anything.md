@@ -1,14 +1,14 @@
 ---
 title: Never ever complain about anything
 created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Everything that happens is either endurable or not. If it’s endurable, then endure it. Stop complaining. If it’s unendurable … then stop complaining. Your destruction will mean its end as well. Just remember: you can endure anything your mind can make endurable, by treating it as in your interest to do so. In your interest, or in your nature.” — Marcus Aurelius_
+> “Everything that happens is either endurable or not. If it’s endurable, then endure it. Stop complaining. If it’s unendurable … then stop complaining. Your destruction will mean its end as well. Just remember: you can endure anything your mind can make endurable, by treating it as in your interest to do so. In your interest, or in your nature.” — Marcus Aurelius
 
 > _“He who blames others has a long way to go on his journey. He who blames himself is halfway there. He who blames no one has arrived.”_（「怨人者途遠，責己者行半，無戾者已至，此之謂也。」—《左傳 》）
 
-> _“I have a rule: no complaining about a situation unless you’re prepared to do something to make it better. If you see a problem and you don’t come to the table with a potential solution, I don’t want to hear your whining about how bad it is. It couldn’t be that bad if it hasn’t motivated you to try to fix it.” — Arnold Schwarzenegger, [Be Useful: Seven Tools for Life](https://www.goodreads.com/work/quotes/146509961)_
+> “I have a rule: no complaining about a situation unless you’re prepared to do something to make it better. If you see a problem and you don’t come to the table with a potential solution, I don’t want to hear your whining about how bad it is. It couldn’t be that bad if it hasn’t motivated you to try to fix it.” — Arnold Schwarzenegger, [Be Useful: Seven Tools for Life](https://www.goodreads.com/work/quotes/146509961)
 
 ---
 
@@ -18,7 +18,7 @@ modified: 2026-01-05T17:15:47
 
 The person who has the most to do with what happens to you is you. Whatever it is, it’s your fault. Take the extreme ownership. (扛全責/負起所有責任) Nobody owes you anything at all. Develop a no-excuses mindset.
 
-> _“Excuses are the rocks where our dreams are crushed.” — Tim Fargo_
+> “Excuses are the rocks where our dreams are crushed.” — Tim Fargo
 
 * When something goes wrong, own it, fix it, and prevent it from happening again.
 * Never make excuses. Excuses don’t get results.

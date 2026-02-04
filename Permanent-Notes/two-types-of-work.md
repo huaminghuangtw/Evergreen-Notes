@@ -1,16 +1,16 @@
 ---
 title: Two Types of Work
 created: 2024-12-12T21:39:10
-modified: 2025-12-14T20:04:21
+modified: 2026-02-05T07:51:24
 ---
 
-> _[More generally, tasks that require little concentration seem to be best done in batches if possible, while tasks that require a lot of concentration seem to be best done individually, with as few distractions as one can manage.](https://terrytao.wordpress.com/2008/08/07/on-time-management/)_
+> [More generally, tasks that require little concentration seem to be best done in batches if possible, while tasks that require a lot of concentration seem to be best done individually, with as few distractions as one can manage.](https://terrytao.wordpress.com/2008/08/07/on-time-management/)
 
 ---
 
 # Type I: Reflective Work
 
-> _“Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skills and are hard to replicate.” — [@newportDeepWorkRules2016]_
+> “Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skills and are hard to replicate.” — [@newportDeepWorkRules2016]
 
 * ≈ [deep work](deep-work.md) ≈ real work ≈ high-value work ≈ [heavy work](https://www.workingtheorys.com/p/make-something-heavy)
 * Things we can to do to _progress_ our life
@@ -19,7 +19,7 @@ modified: 2025-12-14T20:04:21
 
 # Type II: Reactive Work
 
-> _“Non cognitively demanding logistical-style tasks often performed while distracted. These efforts tend to not create much new value in the world and are easy to replicate.” — [@newportDeepWorkRules2016]_
+> “Non cognitively demanding logistical-style tasks often performed while distracted. These efforts tend to not create much new value in the world and are easy to replicate.” — [@newportDeepWorkRules2016]
 
 * ≈ shallow work ≈ fake/pseudo work ≈ low-value work ≈ light work
 * Things we have to do to _maintain_ our life (i.e., status quo)

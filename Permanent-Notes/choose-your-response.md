@@ -1,18 +1,18 @@
 ---
 title: Choose your response
 created: 2025-01-23T10:40:57
-modified: 2026-01-26T11:13:25
+modified: 2026-02-05T07:51:24
 ---
 
-> _“How we decide to respond to our fears, that is the person we become.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+> “How we decide to respond to our fears, that is the person we become.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)
 
-> _“It is the set of the sails, not the direction of the wind that determines which way we will go.” — Jim Rohn_
+> “It is the set of the sails, not the direction of the wind that determines which way we will go.” — Jim Rohn
 
 > _“Between (triggering) stimulus and (emotional) response there is a space (gap). In that space is our power to choose our response. In our response lies our growth and our freedom.” — Viktor E. Frankl_ [^1]
 
-> _“When things go wrong, don’t go with them.” — Elvis Presley_
+> “When things go wrong, don’t go with them.” — Elvis Presley
 
-> _“How people treat you is their [karma](life-is-cyclic.md); how you react is yours.” — Dr. Wayne Dyer_
+> “How people treat you is their [karma](life-is-cyclic.md); how you react is yours.” — Dr. Wayne Dyer
 
 > _“If we are all going to be destroyed by an atomic bomb, let that bomb when it comes find us doing sensible and human things-praying, working, teaching, reading, listening to music, bathing the children, playing tennis, chatting to our friends over a pint and a game of darts—not huddled together like frightened sheep and thinking about bombs. They may break our bodies (a microbe can do that) but they need not dominate our minds.” — C.S. Lewis_ [^2]
 
@@ -26,7 +26,7 @@ modified: 2026-01-26T11:13:25
 
 ---
 
-> _“You may not control all the events that happen to you, but you can decide not to be reduced by them.” — Maya Angelou_
+> “You may not control all the events that happen to you, but you can decide not to be reduced by them.” — Maya Angelou
 
 * It’s not what happens to us that shapes our lives, but how we _choose to_ respond.
 * You can’t control the behavior of others, but you can always control how you respond to it.

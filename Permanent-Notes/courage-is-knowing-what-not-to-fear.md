@@ -1,38 +1,38 @@
 ---
 title: Courage is knowing what not to fear
 created: 2025-04-11T19:02:45
-modified: 2026-01-25T16:14:19
+modified: 2026-02-05T07:51:24
 ---
 
-> _[“Success is not final, failure is not fatal: it is the courage to continue that counts.” — Winston Churchill](https://www.youtube.com/watch?v=uuxMZL6ieWM)_
+> [“Success is not final, failure is not fatal: it is the courage to continue that counts.” — Winston Churchill](https://www.youtube.com/watch?v=uuxMZL6ieWM)
 
-> _“Courage is simply doing whatever is needed in pursuit of the vision.” — [@sengeFifthDisciplineArt2006]_
+> “Courage is simply doing whatever is needed in pursuit of the vision.” — [@sengeFifthDisciplineArt2006]
 
-> _“Courage is resistance to fear, mastery of fear - not absence of fear.” — Mark Twain_
+> “Courage is resistance to fear, mastery of fear - not absence of fear.” — Mark Twain
 
-> _“Courage is not the absence of fear, but rather the assessment that something else is more important than fear.” — Franklin D. Roosevelt_
+> “Courage is not the absence of fear, but rather the assessment that something else is more important than fear.” — Franklin D. Roosevelt
 
-> _[“Courage is feeling fear, not getting rid of fear, and taking action in the face of fear.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7913240-courage-is-feeling-fear-not-getting-rid-of-fear-and)_
+> [“Courage is feeling fear, not getting rid of fear, and taking action in the face of fear.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7913240-courage-is-feeling-fear-not-getting-rid-of-fear-and)
 
-> _“Life shrinks or expands in proportion to one’s courage.” — Anaïs Nin_
+> “Life shrinks or expands in proportion to one’s courage.” — Anaïs Nin
 
-> _“The only courage that matters is the kind that gets you from one moment to the next.” — Mignon McLaughlin_
+> “The only courage that matters is the kind that gets you from one moment to the next.” — Mignon McLaughlin
 
-> _[“You cannot swim for new horizons until you have courage to lose sight of the shore.” — William Faulkner](https://www.goodreads.com/quotes/132400-you-cannot-swim-for-new-horizons-until-you-have-courage)_
+> [“You cannot swim for new horizons until you have courage to lose sight of the shore.” — William Faulkner](https://www.goodreads.com/quotes/132400-you-cannot-swim-for-new-horizons-until-you-have-courage)
 
-> _[“Courage is not simply one of the virtues but the form of every virtue at the testing point, which means at the point of highest reality.” — C.S. Lewis, The Screwtape Letters](https://www.goodreads.com/quotes/37169-courage-is-not-simply-one-of-the-virtues-but-the)_
+> [“Courage is not simply one of the virtues but the form of every virtue at the testing point, which means at the point of highest reality.” — C.S. Lewis, The Screwtape Letters](https://www.goodreads.com/quotes/37169-courage-is-not-simply-one-of-the-virtues-but-the)
 
-> _[“Are you paralyzed with fear? That’s a good sign. Fear is good. Like self-doubt, fear is an indicator. Fear tells us what we have to do. Remember one rule of thumb: the more scared we are of a work or calling, the more sure we can be that we have to do it. The amateur believes he must first overcome his fear; then he can do his work. The professional knows that fear can never be overcome.” — Steven Pressfield, The War of Art](https://www.goodreads.com/work/quotes/722104)_
+> [“Are you paralyzed with fear? That’s a good sign. Fear is good. Like self-doubt, fear is an indicator. Fear tells us what we have to do. Remember one rule of thumb: the more scared we are of a work or calling, the more sure we can be that we have to do it. The amateur believes he must first overcome his fear; then he can do his work. The professional knows that fear can never be overcome.” — Steven Pressfield, The War of Art](https://www.goodreads.com/work/quotes/722104)
 
-> _“If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution. Timidity is dangerous: Better to enter with boldness. Any mistakes you commit through audacity are easily corrected with more audacity. Everyone admires the bold; no one honors the timid.” — Robert Greene, [The 48 Laws of Power](https://www.goodreads.com/work/quotes/1297604)_
+> “If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution. Timidity is dangerous: Better to enter with boldness. Any mistakes you commit through audacity are easily corrected with more audacity. Everyone admires the bold; no one honors the timid.” — Robert Greene, [The 48 Laws of Power](https://www.goodreads.com/work/quotes/1297604)
 
 > _“A coward dies a thousand times before his death; but the valiant taste of death but once.” — Julius Caesar_ [^1]
 
-> _“Bravery does not mean the absence of fear. Bravery is learning to continue forward even when you’re terrified.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+> “Bravery does not mean the absence of fear. Bravery is learning to continue forward even when you’re terrified.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)
 
-> _“Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day whispering, ‘I will try again tomorrow.’” — Mary Anne Radmacher_
+> “Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day whispering, ‘I will try again tomorrow.’” — Mary Anne Radmacher
 
-> _“When do I know I’m Spider-Man? You won’t. That’s all it is, Miles. A leap of faith.” — Peter Parker, [Spider-Man: Into the Spider-Verse](https://www.imdb.com/title/tt4633694/) (2018 film)_
+> “When do I know I’m Spider-Man? You won’t. That’s all it is, Miles. A leap of faith.” — Peter Parker, [Spider-Man: Into the Spider-Verse](https://www.imdb.com/title/tt4633694/) (2018 film)
 
 ---
 
@@ -46,7 +46,7 @@ Courage isn’t courageous because it works out. Courage is courageous because y
 
 因無所懼，而生其心。
 
-> _“Veni nec recedam”_
+> “Veni nec recedam”
 >
 > 我來此，我不退卻。
 

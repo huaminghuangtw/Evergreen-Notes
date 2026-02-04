@@ -1,7 +1,7 @@
 ---
 title: Healthy Eating Habits
 created: 2024-11-18T09:16:50
-modified: 2026-01-25T16:14:19
+modified: 2026-02-05T07:51:24
 ---
 
 Eating Better
@@ -76,7 +76,7 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 
 [@jorgensonAlmanackNavalRavikant2021]
 
-> _“There are a number [of things] on the physical side. We have diets we are not evolved to eat. A correct diet should probably look closer to a paleo diet, mostly eating vegetables with a small amount of meat and berries.”_
+> “There are a number [of things] on the physical side. We have diets we are not evolved to eat. A correct diet should probably look closer to a paleo diet, mostly eating vegetables with a small amount of meat and berries.”
 
 ---
 

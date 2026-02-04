@@ -1,16 +1,16 @@
 ---
 title: The ability to bounce back quickly is one of the most important life skills
 created: 2025-12-21T06:09:03
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
 #Newsletter
 
-> _[“Legends aren’t defined by their success, they’re defined by how they bounce back from their failures.” — Chris Bosh’s Speech at the 2021 Basketball Hall of Fame Enshrinement](https://www.youtube.com/shorts/Hkd-7zUxQaA)_
+> [“Legends aren’t defined by their success, they’re defined by how they bounce back from their failures.” — Chris Bosh’s Speech at the 2021 Basketball Hall of Fame Enshrinement](https://www.youtube.com/shorts/Hkd-7zUxQaA)
 
-> _“Jumping from failure to failure with undiminished enthusiasm is the big secret to success.” — Savas Dimopoulos_
+> “Jumping from failure to failure with undiminished enthusiasm is the big secret to success.” — Savas Dimopoulos
 
-> _“If you get on the wrong train, get off at the nearest station. The longer it takes you to get off, the more expensive the return trip will be.” — Japanese proverb_
+> “If you get on the wrong train, get off at the nearest station. The longer it takes you to get off, the more expensive the return trip will be.” — Japanese proverb
 
 ---
 

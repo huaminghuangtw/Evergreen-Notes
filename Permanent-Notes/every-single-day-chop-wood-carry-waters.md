@@ -1,30 +1,30 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2026-02-02T09:34:33
+modified: 2026-02-05T07:51:24
 ---
 
-> _[“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)_
+> [“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)
 
-> _“There are no quick fixes. But, by taking action just a little bit every day, you will build up a powerful reservoir of confidence, self-esteem, and discipline.” — Scott Allan_
+> “There are no quick fixes. But, by taking action just a little bit every day, you will build up a powerful reservoir of confidence, self-esteem, and discipline.” — Scott Allan
 
-> _“It does not matter how slowly you go as long as you do not stop.” — Confucius_
+> “It does not matter how slowly you go as long as you do not stop.” — Confucius
 
 [@gogginsCantHurtMe2018]
 
-> _“Our culture has become hooked on the quick-fix, the life hack, efficiency. Everyone is on the hunt for that simple action algorithm that nets maximum profit with the least amount of effort. There’s no denying this attitude may get you some of the trappings of success, if you’re lucky, but it will not lead to a calloused mind or self-mastery. If you want to master the mind and remove your governor, you’ll have to become addicted to hard work. Because passion and obsession, even talent, are only useful tools if you have the work ethic to back them up.”_
+> “Our culture has become hooked on the quick-fix, the life hack, efficiency. Everyone is on the hunt for that simple action algorithm that nets maximum profit with the least amount of effort. There’s no denying this attitude may get you some of the trappings of success, if you’re lucky, but it will not lead to a calloused mind or self-mastery. If you want to master the mind and remove your governor, you’ll have to become addicted to hard work. Because passion and obsession, even talent, are only useful tools if you have the work ethic to back them up.”
 
 [@leeBeWaterMy2020]
 
 > _“I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times” — Shannon Lee_ [^1] [^2]
 
-> _“Dreams are built on discipline; discipline is built on habits; habits are built on training. And training takes place in every single second and every situation of your life.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+> “Dreams are built on discipline; discipline is built on habits; habits are built on training. And training takes place in every single second and every situation of your life.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)
 
 > _“Don’t stop. Don’t even think about stopping until you get there, and don’t give much thought to where ‘there’ is. Whatever comes, just don’t stop.” — Phil Knight_---
 
-> _“Every day of our lives, we are on the verge of making those slight changes that would make all the difference.” — Mignon McLaughlin_
+> “Every day of our lives, we are on the verge of making those slight changes that would make all the difference.” — Mignon McLaughlin
 
-> _“Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.” — Robert Greene_
+> “Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.” — Robert Greene
 
 ---
 
@@ -58,25 +58,25 @@ There is a Zen Buddhist saying: “What do you do before enlightenment? _Chop wo
 
 ---
 
-> _“Life is like riding a bicycle, to keep balance you must keep moving.” — Albert Einstein_
+> “Life is like riding a bicycle, to keep balance you must keep moving.” — Albert Einstein
 
-> _“If you can’t fly, run. If you can’t run, walk. If you can’t walk, crawl, but by all means, keep moving.” — Martin Luther King, Jr._
+> “If you can’t fly, run. If you can’t run, walk. If you can’t walk, crawl, but by all means, keep moving.” — Martin Luther King, Jr.
 
-> _[“What’s done is done. What’s gone is gone. One of life’s lessons is always moving on. It’s okay to look back to see how far you’ve come but keep moving forward.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7711460-what-s-done-is-done-what-s-gone-is-gone-one-of)_
+> [“What’s done is done. What’s gone is gone. One of life’s lessons is always moving on. It’s okay to look back to see how far you’ve come but keep moving forward.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7711460-what-s-done-is-done-what-s-gone-is-gone-one-of)
 
 # 邊開火邊移動（[Fire & Movement](https://en.wikipedia.org/wiki/Fire_and_movement)）
 
-> _[“You move towards the enemy while firing your weapon. The firing forces him to keep his head down so he can’t fire at you. The motion allows you to conquer territory and get closer to your enemy, where your shots are much more likely to hit their target. If you’re not moving, the enemy gets to decide what happens, which is not a good thing. If you’re not firing, the enemy will fire at you, pinning you down.” — Joel Spolsky](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/)_
+> [“You move towards the enemy while firing your weapon. The firing forces him to keep his head down so he can’t fire at you. The motion allows you to conquer territory and get closer to your enemy, where your shots are much more likely to hit their target. If you’re not moving, the enemy gets to decide what happens, which is not a good thing. If you’re not firing, the enemy will fire at you, pinning you down.” — Joel Spolsky](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/)
 
 ---
 
 [最無聊的練習](deliberate-practice.md)，沉澱出最扎實的基本功
 
-> _“No tree, it is said, can grow to heaven unless its roots reach down to hell.” — Carl Jung_
+> “No tree, it is said, can grow to heaven unless its roots reach down to hell.” — Carl Jung
 
-> _“When the root is strong, the fruit is sweet.” — Bob Marley_
+> “When the root is strong, the fruit is sweet.” — Bob Marley
 
-> _「先為不可勝，以待敵之可勝」—《孫子兵法》_
+> 「先為不可勝，以待敵之可勝」—《孫子兵法》
 
 * [蹲馬步](slow-down-to-speed-up.md) — [持續地把每件瑣 (碎的小) 事循序漸進、按部就班地做好才是成功的關鍵。](https://youtu.be/mZPN9W-jPm4)
 * 一步一步來，有一才有二
@@ -115,7 +115,7 @@ The practice solidifies.
 
 # The “Consistently Good Rather Than Occasionally Great” Principle
 
-> _“Long-term consistency trumps short-term intensity.” — Bruce Lee_
+> “Long-term consistency trumps short-term intensity.” — Bruce Lee
 
 * Don’t aim to be consistently great; aim to be great at being _consistent_.
 * Mastery follows consistent/constant work.
@@ -151,7 +151,7 @@ Doing a thing once is nothing special. You’re only a legend if you can do it b
 
 EVERYDAY is easier than SOMEDAY. [^3] Embrace the daily mundane activities / ordinary actions. Find the lifelong rhythm.
 
-> _“It’s easier to hold your principles 100 percent of the time than it is to hold them 98 percent of the time.” — Clayton M. Christensen, [How Will You Measure Your Life?](https://www.goodreads.com/work/quotes/18907551)_
+> “It’s easier to hold your principles 100 percent of the time than it is to hold them 98 percent of the time.” — Clayton M. Christensen, [How Will You Measure Your Life?](https://www.goodreads.com/work/quotes/18907551)
 
 * It’s easier to _keep up_ than to _catch up_.
 * It’s easier to stay _motivated_ when you have _momentums_.
@@ -178,7 +178,7 @@ EVERYDAY is easier than SOMEDAY. [^3] Embrace the daily mundane activities / ord
 
 ---
 
-> _“Eighty percent of success is showing up.” — Woody Allen_
+> “Eighty percent of success is showing up.” — Woody Allen
 
 On your bad days, you have a choice to make:
 

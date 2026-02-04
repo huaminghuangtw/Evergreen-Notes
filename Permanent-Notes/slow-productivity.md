@@ -1,7 +1,7 @@
 ---
 title: Slow Productivity
 created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:26
+modified: 2026-02-05T07:51:24
 ---
 
 Requires:
@@ -20,7 +20,7 @@ Source: <https://tim.blog/2022/02/04/cal-newport-transcript/>
 >
 > When we have way too much on our plate, more than we can easily imagine how it’s going to get done, it makes us really unhappy because we’re short circuiting a cognitive drive here, and we get sort of anxious and overwhelmed, but it doesn’t feel good.
 >
-> _[So we can’t treat humans like we would a computer processor, where in a computer processor, you want to pipeline as many instructions as possible that are sitting there so that not a single cycle is wasted, because you just want to make sure that you always have something to do. But for the human brain, that huge pipeline of things that are waiting to be done actually makes the brain unhappy.](you-can-achieve-anything-if-you-focus-on-one-thing-at-a-time.md)_
+> [So we can’t treat humans like we would a computer processor, where in a computer processor, you want to pipeline as many instructions as possible that are sitting there so that not a single cycle is wasted, because you just want to make sure that you always have something to do. But for the human brain, that huge pipeline of things that are waiting to be done actually makes the brain unhappy.](you-can-achieve-anything-if-you-focus-on-one-thing-at-a-time.md)
 >
 > So our solution to this type of overload — we have too much on our plate, in work and in our life admin as well. Our solution has been to use _Fast Productivity_, so fast productivity or tactics and systems for increasing the amount of the things you finish on the scale of days and weeks. So how do I get more stuff — this is what all productivity software is about, lower friction, easier access to information, take out seven steps in the process of getting this meeting scheduled. We want to maximize the number of things we can execute on the scale of days and weeks.
 >

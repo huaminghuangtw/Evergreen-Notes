@@ -1,18 +1,18 @@
 ---
 title: Perfectionism
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“You don’t have to be great to start, but you have to start to be great.” — Zig Ziglar_
+> “You don’t have to be great to start, but you have to start to be great.” — Zig Ziglar
 
-> _“It’s not the note you play that’s the wrong note—it’s the note you play afterwards that makes it right or wrong.” — Miles Davis_
+> “It’s not the note you play that’s the wrong note—it’s the note you play afterwards that makes it right or wrong.” — Miles Davis
 
 [@ferriss4hourWorkweekEscape2011]
 
-> _“Conditions are never perfect. ‘Someday”’ is a disease that will take your dreams to the grave with you. Pro and con lists are just as bad. If it’s important to you and you want to do it ‘eventually,’ just do it and correct course along the way.” — Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
+> “Conditions are never perfect. ‘Someday”’ is a disease that will take your dreams to the grave with you. Pro and con lists are just as bad. If it’s important to you and you want to do it ‘eventually,’ just do it and correct course along the way.” — Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)
 
-> _“Don’t let perfection become procrastination. Do it now.” — Danielle LaPorte_
+> “Don’t let perfection become procrastination. Do it now.” — Danielle LaPorte
 
 ---
 

@@ -1,16 +1,16 @@
 ---
 title: Emotion Control
 created: 2024-11-18T09:18:12
-modified: 2026-02-01T17:44:38
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Emotional sickness is avoiding reality at any cost. Emotional health is facing reality at any cost.” — [M. Scott Peck](https://quotefancy.com/m-scott-peck-quotes)_
+> “Emotional sickness is avoiding reality at any cost. Emotional health is facing reality at any cost.” — [M. Scott Peck](https://quotefancy.com/m-scott-peck-quotes)
 
-> _[“Emotions can override any level of intelligence.” — Morgan Housel](https://collabfund.com/blog/little-rules-about-big-things/)_
+> [“Emotions can override any level of intelligence.” — Morgan Housel](https://collabfund.com/blog/little-rules-about-big-things/)
 
-> _“Temperament is more important than IQ. You need reasonable intelligence, but you absolutely have to have the right temperament. Otherwise, something will snap you.” — Warren Buffett_
+> “Temperament is more important than IQ. You need reasonable intelligence, but you absolutely have to have the right temperament. Otherwise, something will snap you.” — Warren Buffett
 
-> _“Conflict cannot survive without your participation.” — Wayne Dyer_
+> “Conflict cannot survive without your participation.” — Wayne Dyer
 
 ---
 
@@ -88,19 +88,19 @@ The thing that prevents you from seeing what’s actually happening are your emo
 
 ---
 
-> _“Think of life like a play, and it will ease your mind when you’re challenged or when someone stands in your way. Told yourself they were playing a role. **Every story needs a villain.** So why should you waste energy being upset at the villains in your story? Instead, you could use that energy as the fuel to beat them.” — Arnold Schwarzenegger_
+> “Think of life like a play, and it will ease your mind when you’re challenged or when someone stands in your way. Told yourself they were playing a role. **Every story needs a villain.** So why should you waste energy being upset at the villains in your story? Instead, you could use that energy as the fuel to beat them.” — Arnold Schwarzenegger
 
-> _“Never wrestle with a pig in the mud because you’ll both get dirty and the pig likes it”. — George Bernard Shaw_
+> “Never wrestle with a pig in the mud because you’ll both get dirty and the pig likes it”. — George Bernard Shaw
 
-> _“You cannot control the behavior of others, but you can always choose how you respond to it.” — Roy T. Bennett_
+> “You cannot control the behavior of others, but you can always choose how you respond to it.” — Roy T. Bennett
 
-> _“It is difficult to free fools from the chains they revere.” — Voltaire_
+> “It is difficult to free fools from the chains they revere.” — Voltaire
 
-> _“Talk sense to a fool and he calls you foolish.” — Euripides_
+> “Talk sense to a fool and he calls you foolish.” — Euripides
 
-> _“Never argue with a fool, because from a distance, people can’t tell who’s who.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)_
+> “Never argue with a fool, because from a distance, people can’t tell who’s who.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)
 
-> _“I’m at the stage in life where I stay out of arguments. Even if you say 1+1=5, you’re right. Have fun.” — Keanu Reeves_
+> “I’m at the stage in life where I stay out of arguments. Even if you say 1+1=5, you’re right. Have fun.” — Keanu Reeves
 
 * 不要和白痴吵架
 

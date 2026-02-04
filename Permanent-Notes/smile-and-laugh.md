@@ -1,14 +1,14 @@
 ---
 title: Smile & Laugh
 created: 2024-11-18T09:18:12
-modified: 2026-01-22T13:56:33
+modified: 2026-02-05T07:51:24
 ---
 
-> _“A smile is a curve that sets everything straight.” — Phyllis Diller_
+> “A smile is a curve that sets everything straight.” — Phyllis Diller
 
-> _“A hut full of laughter is richer than a palace full of sadness.” — Zen Proverb_
+> “A hut full of laughter is richer than a palace full of sadness.” — Zen Proverb
 
-> _“Laughter is the shortest distance between two people.” — Victor Borge_
+> “Laughter is the shortest distance between two people.” — Victor Borge
 
 ---
 

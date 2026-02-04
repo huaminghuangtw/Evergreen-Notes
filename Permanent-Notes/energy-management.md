@@ -1,14 +1,14 @@
 ---
 title: Energy Management
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:19
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Energy is eternal delight.” — William Blake_
+> “Energy is eternal delight.” — William Blake
 
-> _[“Your energy is currency. Spend it well. Invest it wisely. Use it Intentionally, consistently, and by your own design.” — Adrienne Bosh](https://x.com/MrsAdrienneBosh/status/988908563232796672)_
+> [“Your energy is currency. Spend it well. Invest it wisely. Use it Intentionally, consistently, and by your own design.” — Adrienne Bosh](https://x.com/MrsAdrienneBosh/status/988908563232796672)
 
-> _“Whatever excites you, go do it. Whatever drains you, stop doing it.” — Derek Sivers_
+> “Whatever excites you, go do it. Whatever drains you, stop doing it.” — Derek Sivers
 
 ---
 
@@ -54,7 +54,7 @@ There’s no such thing as working too hard. There’s just being under rested. 
 
 ---
 
-> _[My ability to do any serious mathematics fluctuates greatly from day to day; sometimes I can think hard on a problem for an hour, other times I feel ready to type up the full details of a sketch that I or my coauthors already wrote, and other times I only feel qualified to respond to email and do errands, or just to take a walk or even a nap. I find it very helpful to organise my time to match this fluctuation: for instance, if I have a free afternoon, and feel inspired to do so, I might close my office door, shut off the internet, and begin typing on a languishing paper; or if not, I go and work on a week’s worth of email, referee a paper, write a blog article, or whatever else seems suited to my current levels of energy and enthusiasm.](https://terrytao.wordpress.com/2008/08/07/on-time-management/)_
+> [My ability to do any serious mathematics fluctuates greatly from day to day; sometimes I can think hard on a problem for an hour, other times I feel ready to type up the full details of a sketch that I or my coauthors already wrote, and other times I only feel qualified to respond to email and do errands, or just to take a walk or even a nap. I find it very helpful to organise my time to match this fluctuation: for instance, if I have a free afternoon, and feel inspired to do so, I might close my office door, shut off the internet, and begin typing on a languishing paper; or if not, I go and work on a week’s worth of email, referee a paper, write a blog article, or whatever else seems suited to my current levels of energy and enthusiasm.](https://terrytao.wordpress.com/2008/08/07/on-time-management/)
 
 ---
 

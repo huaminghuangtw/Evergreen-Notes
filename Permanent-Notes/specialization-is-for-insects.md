@@ -1,18 +1,18 @@
 ---
 title: Specialization is for insects
 created: 2025-01-23T10:40:57
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“At some level, all humans are broad. We’re all multivariate/multifaceted, but we get summarized in pithy ways in our lives.” — Naval Ravikant_
+> “At some level, all humans are broad. We’re all multivariate/multifaceted, but we get summarized in pithy ways in our lives.” — Naval Ravikant
 
-> _[“Exploration is how you discover what works. Persistence is how you make the most of what already works.” — James Clear](https://jamesclear.com/3-2-1/september-12-2024)_
+> [“Exploration is how you discover what works. Persistence is how you make the most of what already works.” — James Clear](https://jamesclear.com/3-2-1/september-12-2024)
 
-> _“A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.” — Robert A. Heinlein_
+> “A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.” — Robert A. Heinlein
 
-> _“Try to learn something about everything and everything about something.” — Thomas Huxley_
+> “Try to learn something about everything and everything about something.” — Thomas Huxley
 
-> _[“Someone with B+ intelligence in several fields likely has a better grasp of how the world works than someone with A+ intelligence in one field.” — Morgen Housel](https://collabfund.com/blog/different-kinds-of-smart)_
+> [“Someone with B+ intelligence in several fields likely has a better grasp of how the world works than someone with A+ intelligence in one field.” — Morgen Housel](https://collabfund.com/blog/different-kinds-of-smart)
 
 ---
 

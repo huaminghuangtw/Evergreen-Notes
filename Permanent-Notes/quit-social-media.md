@@ -1,18 +1,18 @@
 ---
 title: Quit social media
 created: 2024-11-18T09:18:12
-modified: 2026-01-06T15:24:12
+modified: 2026-02-05T07:51:24
 ---
 
 [@haidtAnxiousGenerationHow2024]
 
-> _“This is the great irony of social media: the more you immerse yourself in it, the more lonely and depressed you become.” _
+> “This is the great irony of social media: the more you immerse yourself in it, the more lonely and depressed you become.” 
 
-> _“The phone-based life makes it difficult for people to be fully present with others when they are with others, and to sit silently with themselves when they are alone.” _
+> “The phone-based life makes it difficult for people to be fully present with others when they are with others, and to sit silently with themselves when they are alone.” 
 
-> _“There are only two industries that refer to their customers as “users”: the illegal drug trade and tech companies. Both thrive by creating addicts and profiting from the addiction.” — [The Social Dilemma (2020 film)](https://www.imdb.com/title/tt11464826/)_
+> “There are only two industries that refer to their customers as “users”: the illegal drug trade and tech companies. Both thrive by creating addicts and profiting from the addiction.” — [The Social Dilemma (2020 film)](https://www.imdb.com/title/tt11464826/)
 
-> _“Social media should be used as a platform to share your efforts (show your work) with the world, not as a place to mindlessly spend your time. The key is realizing that the flow needs to go from the real world into the digital space, not the other way around. Those who understand this will be the ones who succeed in life, almost guaranteed, barring some accident or injury. It’s that simple.” — Andrew Huberman_
+> “Social media should be used as a platform to share your efforts (show your work) with the world, not as a place to mindlessly spend your time. The key is realizing that the flow needs to go from the real world into the digital space, not the other way around. Those who understand this will be the ones who succeed in life, almost guaranteed, barring some accident or injury. It’s that simple.” — Andrew Huberman
 
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: Longevity
 created: 2025-02-15T23:15:29
-modified: 2026-01-09T07:47:03
+modified: 2026-02-05T07:51:24
 ---
 
-> _“The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety.” — Sathya Sai Baba_
+> “The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety.” — Sathya Sai Baba
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: The Arrival Fallacy
 created: 2025-01-23T10:40:57
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Arriving someplace more desirable at some future time is an illusion. This is it.” — Jon Kabat-Zinn_
+> “Arriving someplace more desirable at some future time is an illusion. This is it.” — Jon Kabat-Zinn
 
-> _“The feeling ‘I’ll be happy when X happens’ will never bring you anything but discontentment. […] Consider a sailor trying to reach the horizon. It is unreachable. If the sailor sees the horizon as the point he must reach to achieve happiness, he is destined to experience eternal frustration.” — Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life](https://www.goodreads.com/work/quotes/326331)_
+> “The feeling ‘I’ll be happy when X happens’ will never bring you anything but discontentment. […] Consider a sailor trying to reach the horizon. It is unreachable. If the sailor sees the horizon as the point he must reach to achieve happiness, he is destined to experience eternal frustration.” — Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life](https://www.goodreads.com/work/quotes/326331)
 
 ---
 

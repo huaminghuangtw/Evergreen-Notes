@@ -1,10 +1,10 @@
 ---
 title: The Compounding Effect
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Compounding is the 8th wonder of the world.” — Albert Einstein_
+> “Compounding is the 8th wonder of the world.” — Albert Einstein
 
 ---
 
@@ -38,9 +38,9 @@ A rolling snowball gathers more snow. [^1]
 
 # Negative Compounding
 
-> _“How did you go bankrupt? Two ways. Gradually, then suddenly.” — Ernest Hemingway_
+> “How did you go bankrupt? Two ways. Gradually, then suddenly.” — Ernest Hemingway
 
-> _“Powerful avalanches begin with small shifts.” — Pamela McFarland Walsh_
+> “Powerful avalanches begin with small shifts.” — Pamela McFarland Walsh
 
 ---
 
@@ -68,9 +68,9 @@ leads to a [Vicious Cycle (良性循環)](https://www.google.com/search?q=Viciou
 
 10 - 1 = 0: 即使做對十件事，只要其中一件事做錯，一切就歸零，避免犯錯比什麼都重要!!!
 
-> _Bad things happen dramatically. Good things happen gradually, and don’t feel like “news”._
+> Bad things happen dramatically. Good things happen gradually, and don’t feel like “news”.
 
-> _[“Success is largely the failures you avoid. Health is the injuries you don’t sustain. Wealth is the purchases you don’t make. Happiness is the objects you don’t desire. Peace of mind is the arguments you don’t engage. Avoid the bad to protect the good.” — James Clear](https://jamesclear.com/3-2-1/march-27-2025)_
+> [“Success is largely the failures you avoid. Health is the injuries you don’t sustain. Wealth is the purchases you don’t make. Happiness is the objects you don’t desire. Peace of mind is the arguments you don’t engage. Avoid the bad to protect the good.” — James Clear](https://jamesclear.com/3-2-1/march-27-2025)
 
 1. A good night’s sleep doesn’t guarantee a productive day, getting only two hours is enough to derail your entire day.
 2. Eating healthy all week doesn’t guarantee perfect health, but one case of food poisoning can ruin days.
@@ -99,7 +99,7 @@ The gradual acceptance of negative change, because it happens in such small incr
 
 ## How To Avoid Compound Mistake?
 
-> _“A clever person solves a problem. A wise person avoids it.” — Albert Einstein_
+> “A clever person solves a problem. A wise person avoids it.” — Albert Einstein
 
 1. Create Space
 2. Evaluate the New Situation
@@ -121,11 +121,11 @@ The gradual acceptance of negative change, because it happens in such small incr
 
 ## James Clear
 
-> _[“Success is largely the failures you avoid. Health is the injuries you don’t sustain. Wealth is the purchases you don’t make. Happiness is the objects you don’t desire. Peace of mind is the arguments you don’t engage. Avoid the bad to protect the good.”](https://jamesclear.com/3-2-1/march-27-2025)_
+> [“Success is largely the failures you avoid. Health is the injuries you don’t sustain. Wealth is the purchases you don’t make. Happiness is the objects you don’t desire. Peace of mind is the arguments you don’t engage. Avoid the bad to protect the good.”](https://jamesclear.com/3-2-1/march-27-2025)
 
 ## Charlie Munger
 
-> _“All I want to know is where I’m going to die, so I’ll never go there.”_
+> “All I want to know is where I’m going to die, so I’ll never go there.”
 
 > _“It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.”_ [^3] [^4]
 
@@ -133,7 +133,7 @@ The gradual acceptance of negative change, because it happens in such small incr
 
 ---
 
-> _「不要想著贏、要想不能輸。」— 電影《KANO》_
+> 「不要想著贏、要想不能輸。」— 電影《KANO》
 
 不輸才是贏，少輸也是贏。
 

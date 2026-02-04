@@ -1,22 +1,22 @@
 ---
 title: Leaders are readers
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Man is what he reads.” — Joseph Brodsky_
+> “Man is what he reads.” — Joseph Brodsky
 
-> _“I am a part of everything that I have read.” — Theodore Roosevelt_
+> “I am a part of everything that I have read.” — Theodore Roosevelt
 
-> _“The man who does not read good books has no advantage over the man who cannot read them.” — Mark Twain_
+> “The man who does not read good books has no advantage over the man who cannot read them.” — Mark Twain
 
-> _“One should not read like a dog obeying its master, but like an eagle hunting its prey.” — Dee Hock_
+> “One should not read like a dog obeying its master, but like an eagle hunting its prey.” — Dee Hock
 
-> _“Fools read fast. Geniuses reread.” — Maxime Lagace_
+> “Fools read fast. Geniuses reread.” — Maxime Lagace
 
-> _“Reading should be a pleasure, not a chore.” — Joan Rivers_
+> “Reading should be a pleasure, not a chore.” — Joan Rivers
 
-> _“Books are the mirrors of the soul.” — Virginia Woolf_
+> “Books are the mirrors of the soul.” — Virginia Woolf
 
 ---
 

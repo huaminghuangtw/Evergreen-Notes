@@ -1,10 +1,10 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence_
+> “Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence
 
 ---
 
@@ -14,15 +14,15 @@ modified: 2026-01-25T16:14:18
 
 > _Tails drive everything — When we pay special attention to a role model’s successes we overlook that their gains came from a small percent of their actions. That makes our own failures, losses, and setbacks feel like we’re doing something wrong. But it’s possible we are wrong, or just sort of right, just as often as the masters are. They may have been more right when they were right, but they could have been wrong just as often as you._ [^3]
 
-> _“It’s not whether you’re right or wrong that’s important,” George Soros once said, “but how much money you make when you’re right and how much you lose when you’re wrong.” You can be wrong half the time and still make a fortune._
+> “It’s not whether you’re right or wrong that’s important,” George Soros once said, “but how much money you make when you’re right and how much you lose when you’re wrong.” You can be wrong half the time and still make a fortune.
 
 > _Man in the Car Paradox — It’s a subtle recognition that people generally aspire to be respected and admired by others, and using money to buy fancy things may bring less of it than you imagine. If respect and admiration are your goal, be careful how you seek it. **Humility, kindness, and empathy will bring you more respect than horsepower ever will.**_ [^4]
 
 Reasonable \> Rational
 
-> _Do not aim to be **coldly rational** when making financial decisions. Aim to just be **pretty reasonable**. Reasonable is more realistic and you have a better chance of sticking with it for the long run, which is what matters most when managing money._
+> Do not aim to be **coldly rational** when making financial decisions. Aim to just be **pretty reasonable**. Reasonable is more realistic and you have a better chance of sticking with it for the long run, which is what matters most when managing money.
 >
-> _Academic finance is devoted to finding the mathematically optimal investment strategies. My own theory is that, in the real world, **people do not want the mathematically optimal strategy. They want the strategy that maximizes for how well they sleep at night.**_
+> Academic finance is devoted to finding the mathematically optimal investment strategies. My own theory is that, in the real world, **people do not want the mathematically optimal strategy. They want the strategy that maximizes for how well they sleep at night.**
 
 ---
 
@@ -43,7 +43,7 @@ Reasonable \> Rational
 
 # [Enough is enough](embrace-the-beauty-of-enoughness.md)
 
-> _“Savings can be created by spending less. You can spend less if you desire less. And you will desire less if you care less about what others think of you.” — Morgan Housel_
+> “Savings can be created by spending less. You can spend less if you desire less. And you will desire less if you care less about what others think of you.” — Morgan Housel
 
 * [True wealth is found not in attaining more, but in discovering enough.](https://x.com/SahilBloom/status/1571500995326185475)
 * Financial freedom is a feeling, not a reality.
@@ -126,11 +126,11 @@ Reasonable \> Rational
 
 # On Spending Money
 
-> _“Spend your money on the things money can buy. Spend your time on the things money can’t buy.” — Haruki Murakami_
+> “Spend your money on the things money can buy. Spend your time on the things money can’t buy.” — Haruki Murakami
 
-> _“Too many people spend money they haven’t earned (can’t afford), to buy things they don’t want (need), to impress people that they don’t like (care).” — Will Rogers_
+> “Too many people spend money they haven’t earned (can’t afford), to buy things they don’t want (need), to impress people that they don’t like (care).” — Will Rogers
 
-> _“If you buy things you do not need, soon you will have to sell things you need.” — Warren Buffett_
+> “If you buy things you do not need, soon you will have to sell things you need.” — Warren Buffett
 
 * 我發現，把錢花在那些很快就消失/一下子就消耗掉/轉瞬即逝的東西上，會讓自己有種受騙的感覺。
 * [Consider spending money as a failure of imagination; a failure to solve problems by smarter means.](https://www.getrichslowly.org/early-retirement-extreme/)

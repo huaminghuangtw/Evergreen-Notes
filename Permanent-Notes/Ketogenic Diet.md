@@ -1,7 +1,7 @@
 ---
 title: Ketogenic Diet
 created: 2024-11-18T09:16:50
-modified: 2025-08-29T08:30:46
+modified: 2026-02-05T07:51:24
 ---
 
 酮體 (Ketone Bodies) / 生酮飲食 (Ketogenic Diet): involves significantly decreasing your intake of carbs / 酮症 (Ketosis): a metabolic state in which your body uses fat as its primary source of energy / 生酮作用 (Ketogenesis): 指脂肪酸分解生成酮體
@@ -12,7 +12,7 @@ It’s important to take/get extra/more _**salt**_ in ketogenic diet.
 
 Eat more fat
 
-> _“Our cells, organs, and brains are all made of fat and need high-quality fat to function optimally. Fat is also the basis for the lining of your nerves, called myelin, which allows electricity to flow efficiently…When you eat enough of the right fats without excess carbs, your body learns to efficiently burn fat for fuel and to form healthy cell membranes.” — Dave Asprey_
+> “Our cells, organs, and brains are all made of fat and need high-quality fat to function optimally. Fat is also the basis for the lining of your nerves, called myelin, which allows electricity to flow efficiently…When you eat enough of the right fats without excess carbs, your body learns to efficiently burn fat for fuel and to form healthy cell membranes.” — Dave Asprey
 
 ---
 

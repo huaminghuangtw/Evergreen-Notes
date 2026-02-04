@@ -1,32 +1,32 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _[“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)_
+> [“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)
 
-> _“Resilience is not what happens to you. It’s how you [react to, respond to](choose-your-response.md), and recover from what happens to you.” — Jeffrey Gitomer_
+> “Resilience is not what happens to you. It’s how you [react to, respond to](choose-your-response.md), and recover from what happens to you.” — Jeffrey Gitomer
 
-> _“The struggle you’re in today is developing the strength you need for tomorrow.” — Robert Tew_
+> “The struggle you’re in today is developing the strength you need for tomorrow.” — Robert Tew
 
-> _“The obstacle is the way.” — Marcus Aurelius_
+> “The obstacle is the way.” — Marcus Aurelius
 
-> _“Obstacles are things a person sees when he takes his eyes off his goal.” — E. Joseph Cossman_
+> “Obstacles are things a person sees when he takes his eyes off his goal.” — E. Joseph Cossman
 
 > _“There can be no lotus flower without the mud.” — Thích Nhất Hạnh, No Mud, No Lotus_ [^1]
 
-> _[“Remember diamonds are created under pressure so hold on, it will be your time to shine soon.” — Sope Agbelusi](https://www.goodreads.com/quotes/7900485-remember-diamonds-are-created-under-pressure-so-hold-on-it)_
+> [“Remember diamonds are created under pressure so hold on, it will be your time to shine soon.” — Sope Agbelusi](https://www.goodreads.com/quotes/7900485-remember-diamonds-are-created-under-pressure-so-hold-on-it)
 
-> _[“I have not failed. I’ve just found 10,000 ways that won’t work.” — Thomas Edison](https://www.goodreads.com/quotes/8287-i-have-not-failed-i-ve-just-found-10-000-ways-that)_
+> [“I have not failed. I’ve just found 10,000 ways that won’t work.” — Thomas Edison](https://www.goodreads.com/quotes/8287-i-have-not-failed-i-ve-just-found-10-000-ways-that)
 
-> _“There is a saying in Tibetan, ‘Tragedy should be utilized as a source of strength.’ No matter what sort of difficulties, how painful experience is, if we lose our hope, that’s our real disaster.” — Dalai Lama XIV_
+> “There is a saying in Tibetan, ‘Tragedy should be utilized as a source of strength.’ No matter what sort of difficulties, how painful experience is, if we lose our hope, that’s our real disaster.” — Dalai Lama XIV
 
-> _“Our greatest glory is not in never failing, but in rising up every time we [fail](failing-forward-turns-setbacks-into-stepping-stones.md).” — Ralph Waldo Emerson_
+> “Our greatest glory is not in never failing, but in rising up every time we [fail](failing-forward-turns-setbacks-into-stepping-stones.md).” — Ralph Waldo Emerson
 
-> _“Making progress isn’t always about moving forward. Sometimes it’s about bouncing back. Progress is not only reflected in the peaks you reach-it’s also visible in the valleys you cross. Resilience is a form of growth.” — Adam Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
+> “Making progress isn’t always about moving forward. Sometimes it’s about bouncing back. Progress is not only reflected in the peaks you reach-it’s also visible in the valleys you cross. Resilience is a form of growth.” — Adam Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)
 
-> _“Always seek out the seed of triumph in every adversity.” — Og Mandino_
+> “Always seek out the seed of triumph in every adversity.” — Og Mandino
 
 ---
 

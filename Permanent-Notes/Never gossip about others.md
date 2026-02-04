@@ -1,12 +1,12 @@
 ---
 title: Never gossip about others
 created: 2025-02-20T10:08:47
-modified: 2025-12-23T17:29:52
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Great minds discuss ideas; average minds discuss events; small minds discuss people.” — Eleanor Roosevelt_
+> “Great minds discuss ideas; average minds discuss events; small minds discuss people.” — Eleanor Roosevelt
 
-> _“When you judge another, you do not define them, you define yourself.” — Dr. Wayne Dyer_
+> “When you judge another, you do not define them, you define yourself.” — Dr. Wayne Dyer
 
 ---
 

@@ -1,30 +1,30 @@
 ---
 title: The absence of desire is true happiness
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _「有求皆苦，無求即樂」— 達摩祖師《二入四行觀》_
+> 「有求皆苦，無求即樂」— 達摩祖師《二入四行觀》
 
-> _“Don’t want anything. Then you get everything.” — Seungsahn_
+> “Don’t want anything. Then you get everything.” — Seungsahn
 
-> _“Having the fewest wants, I am nearest to the gods.” — Socrates_
+> “Having the fewest wants, I am nearest to the gods.” — Socrates
 
-> _[“Not wanting something is as good as having it.” — Naval Ravikant](https://www.youtube.com/watch?v=KyfUysrNaco&t=33s)_
+> [“Not wanting something is as good as having it.” — Naval Ravikant](https://www.youtube.com/watch?v=KyfUysrNaco&t=33s)
 
-> _“Wanting always interrupts being.” — Yung Pueblo_
+> “Wanting always interrupts being.” — Yung Pueblo
 
-> _“Desire is a contract that you make with yourself to be unhappy until you get what you want.” — Naval Ravikant_
+> “Desire is a contract that you make with yourself to be unhappy until you get what you want.” — Naval Ravikant
 
-> _“Desire makes slaves out of kings, while patience makes kings out of slaves.” — Imam Al-Ghazali_
+> “Desire makes slaves out of kings, while patience makes kings out of slaves.” — Imam Al-Ghazali
 
-> _“Freedom is secured not by the fulfilling of one’s desires, but by the removal of desire.” — Epictetus_
+> “Freedom is secured not by the fulfilling of one’s desires, but by the removal of desire.” — Epictetus
 
-> _“The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.” — Dan Millman_
+> “The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.” — Dan Millman
 
 [@mansonSubtleArtNot2016]
 
-> _[“The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one’s negative experience is itself a positive experience. — Mark Manson, The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/work/quotes/48297245-the-subtle-art-of-not-giving-a-f-ck-a-counterintuitive-approach-to-livi)_
+> [“The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one’s negative experience is itself a positive experience. — Mark Manson, The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/work/quotes/48297245-the-subtle-art-of-not-giving-a-f-ck-a-counterintuitive-approach-to-livi)
 
 ---
 
@@ -48,9 +48,9 @@ Keep your mind aware and desire asleep.
 
 ---
 
-> _“Anything you cannot relinquish when it has outlived its usefulness possesses you.” — Peace Pilgrim_
+> “Anything you cannot relinquish when it has outlived its usefulness possesses you.” — Peace Pilgrim
 
-> _“You can’t lose what you never had, you cant keep what’s not yours, and you can’t hold on to something that doesn’t want to stay.” — Damon Suede, [Bad Idea](https://www.goodreads.com/work/quotes/26163619)_
+> “You can’t lose what you never had, you cant keep what’s not yours, and you can’t hold on to something that doesn’t want to stay.” — Damon Suede, [Bad Idea](https://www.goodreads.com/work/quotes/26163619)
 
 You only lose what you cling to.
 

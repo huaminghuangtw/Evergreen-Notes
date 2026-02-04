@@ -1,12 +1,12 @@
 ---
 title: Acceptance and Commitment Therapy
 created: 2025-01-23T18:40:57
-modified: 2025-09-03T07:10:50
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Emotion arises at the place where mind & body meet. It is the body’s reaction to mind.” — Eckhart Tolle_
+> “Emotion arises at the place where mind & body meet. It is the body’s reaction to mind.” — Eckhart Tolle
 
-> _“We as a culture seem to be dedicated to the idea that ‘negative’ human emotions need to be fixed, managed, or changed—not experienced as part of a whole life. We are treating our own lives as problems to be solved as if we can sort through our experiences for the ones we like and throw out the rest.” — Steven C. Hayes_
+> “We as a culture seem to be dedicated to the idea that ‘negative’ human emotions need to be fixed, managed, or changed—not experienced as part of a whole life. We are treating our own lives as problems to be solved as if we can sort through our experiences for the ones we like and throw out the rest.” — Steven C. Hayes
 
 ---
 

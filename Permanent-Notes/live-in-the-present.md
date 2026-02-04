@@ -1,48 +1,48 @@
 ---
 title: Live in the present
 created: 2024-11-18T09:18:12
-modified: 2026-01-16T14:52:37
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why we call it the present” — Eleanor Roosevelt_
+> “Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why we call it the present” — Eleanor Roosevelt
 
-> _“You pile up enough tomorrows, and you’ll find you are left with nothing but a lot of empty yesterdays.” — Meredith Willson, The Music Man_
+> “You pile up enough tomorrows, and you’ll find you are left with nothing but a lot of empty yesterdays.” — Meredith Willson, The Music Man
 
-> _“Forget yesterday - it has already forgotten you. Don’t sweat tomorrow - you haven’t even met. Instead, open your eyes and your heart to a truly precious gift - today.” — Steve Maraboli_
+> “Forget yesterday - it has already forgotten you. Don’t sweat tomorrow - you haven’t even met. Instead, open your eyes and your heart to a truly precious gift - today.” — Steve Maraboli
 
 > _“If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.” — Roy T. Bennett_ [^1]
 
-> _[“I think and think and think, I‘ve thought myself out of happiness one million times, but never once into it.” — Jonathan Safran Foer](https://www.goodreads.com/quotes/12278-i-think-and-think-and-think-i-ve-thought-myself-out)_
+> [“I think and think and think, I‘ve thought myself out of happiness one million times, but never once into it.” — Jonathan Safran Foer](https://www.goodreads.com/quotes/12278-i-think-and-think-and-think-i-ve-thought-myself-out)
 
-> _“People sometimes fail to live because they are always preparing to live.” — Alan Watts_
+> “People sometimes fail to live because they are always preparing to live.” — Alan Watts
 
-> _“The past is a place of reference, not a place of residence; the past is a place of learning, not a place of living.” — Roy T. Bennett_
+> “The past is a place of reference, not a place of residence; the past is a place of learning, not a place of living.” — Roy T. Bennett
 
-> _“Today is the most important day of our lives.” — Thich Nhat Hanh_
+> “Today is the most important day of our lives.” — Thich Nhat Hanh
 
-> _“The present is a split second in eternity.” — Marcus Aurelius_
+> “The present is a split second in eternity.” — Marcus Aurelius
 
-> _“Sometimes you will never know the value of a moment, until it becomes a memory.” — Dr. Seuss_
+> “Sometimes you will never know the value of a moment, until it becomes a memory.” — Dr. Seuss
 
-> _“Life exists only at this very moment, and in this moment it is infinite and eternal. For the present moment is infinitely small; before we can measure it, it has gone, and yet it persists forever.” — Alan Watts_
+> “Life exists only at this very moment, and in this moment it is infinite and eternal. For the present moment is infinitely small; before we can measure it, it has gone, and yet it persists forever.” — Alan Watts
 
-> _“The gods envy us. They envy us because we’re [mortal](death.md), because any moment may be our last. Everything is more beautiful because we’re doomed. You will never be lovelier than you are now. We will never be here again.” — Brad Pitt_
+> “The gods envy us. They envy us because we’re [mortal](death.md), because any moment may be our last. Everything is more beautiful because we’re doomed. You will never be lovelier than you are now. We will never be here again.” — Brad Pitt
 
-> _“We are always living in expectation of better things, while at the same time we often repent and long to have the past back again.We look upon the present as something to be put up with while it lasts, and serving only as the way towards our goal. Hence most people, if they glance back when they come to the end of life, will find that all along they have been living **ad interim** :[^2] they will be surprised to find that the very thing they disregarded and let slip by unenjoyed was just their life-that is to say, it was the very thing in the expectation of which they lived. Of how many a man may it not be said that hope made a fool of him until he danced into the arms of death!” — Arthur Schopenhauer_
+> “We are always living in expectation of better things, while at the same time we often repent and long to have the past back again.We look upon the present as something to be put up with while it lasts, and serving only as the way towards our goal. Hence most people, if they glance back when they come to the end of life, will find that all along they have been living **ad interim** :[^2] they will be surprised to find that the very thing they disregarded and let slip by unenjoyed was just their life-that is to say, it was the very thing in the expectation of which they lived. Of how many a man may it not be said that hope made a fool of him until he danced into the arms of death!” — Arthur Schopenhauer
 
-> _“Don’t count the days. Make the days count.” — Muhammad Ali_
+> “Don’t count the days. Make the days count.” — Muhammad Ali
 
-> _[Genieße den Augenblick - denn Heute ist der erste Tag vom Rest deines Lebens!](http://www.godic.net/home/dailysentence/4056ec51-2133-4b30-8cca-8f9e279b3e45)_
+> [Genieße den Augenblick - denn Heute ist der erste Tag vom Rest deines Lebens!](http://www.godic.net/home/dailysentence/4056ec51-2133-4b30-8cca-8f9e279b3e45)
 >
 > 享受當下，因為今天是剩下的生命中的第一天！[^3]
 
-> _“Think of yourself in a concert hall listening to the strains of the sweetest music when you suddenly remember that you forgot to lock your car. You are anxious about the car, you cannot walk out of the hall and you cannot enjoy the music. There you have a perfect image of life as it is lived by most human beings.” — Anthony de Mello_
+> “Think of yourself in a concert hall listening to the strains of the sweetest music when you suddenly remember that you forgot to lock your car. You are anxious about the car, you cannot walk out of the hall and you cannot enjoy the music. There you have a perfect image of life as it is lived by most human beings.” — Anthony de Mello
 
-> _“Realize deeply that the present moment is all you ever have.” — Eckhart Tolle_
+> “Realize deeply that the present moment is all you ever have.” — Eckhart Tolle
 
-> _[“I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is.” — Alan Watts](https://www.goodreads.com/quotes/172061-i-have-realized-that-the-past-and-future-are-real)_
+> [“I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is.” — Alan Watts](https://www.goodreads.com/quotes/172061-i-have-realized-that-the-past-and-future-are-real)
 
-> _“Life isn’t how many breaths you take, but it’s the moments that take your breath away.” — Will Smith_
+> “Life isn’t how many breaths you take, but it’s the moments that take your breath away.” — Will Smith
 
 ---
 
@@ -66,7 +66,7 @@ Here & Now
 
 ---
 
-> _“How we spend our days is, of course, how we spend our lives.” — Annie Dillard, [The Writing Life](https://www.goodreads.com/work/quotes/516929)_
+> “How we spend our days is, of course, how we spend our lives.” — Annie Dillard, [The Writing Life](https://www.goodreads.com/work/quotes/516929)
 
 Life’s just a bunch of todays.
 
@@ -89,12 +89,12 @@ Be [intentional](intentional-living.md) and live in the present moment. Don’t 
 
 Song lyrics from [*Secret O' Life*](https://open.spotify.com/track/2dBOatuBZV3zYngZLAEbrv) by [James Taylor](https://www.youtube.com/channel/UCrbbXRLgMFYYCHPpregTcyQ)
 
-> _The secret of life is enjoying the passage of time_
-> _Any fool can do it_
-> _There ain’t nothing to it_
-> _Nobody knows how we got to the top of the hill_
-> _But since we’re on our way down_
-> _We might as well enjoy the ride_
+> The secret of life is enjoying the passage of time
+> Any fool can do it
+> There ain’t nothing to it
+> Nobody knows how we got to the top of the hill
+> But since we’re on our way down
+> We might as well enjoy the ride
 
 ---
 

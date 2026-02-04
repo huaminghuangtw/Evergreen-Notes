@@ -1,16 +1,16 @@
 ---
 title: Eat the biggest frog first thing in the morning
 created: 2024-12-04T17:55:24
-modified: 2025-12-16T13:51:32
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Do one thing every day that scares you.” — Eleanor Roosevelt_
+> “Do one thing every day that scares you.” — Eleanor Roosevelt
 
-> _“Do what you dream of doing even while you’re afraid.” — Arianna Huffington_
+> “Do what you dream of doing even while you’re afraid.” — Arianna Huffington
 
-> _“If it’s your job to eat a frog, it’s best to do it first thing in the morning. And if it’s your job to eat two frogs, it’s best to eat the biggest one first.”_
+> “If it’s your job to eat a frog, it’s best to do it first thing in the morning. And if it’s your job to eat two frogs, it’s best to eat the biggest one first.”
 
-> _“The key is not to [prioritize](Prioritization.md) what’s on your schedule, but to schedule your priorities.” — Stephen Covey_
+> “The key is not to [prioritize](Prioritization.md) what’s on your schedule, but to schedule your priorities.” — Stephen Covey
 
 > _[“If you don’t prioritize, everything seems urgent and important. If you define the single most important task for each day, almost nothing seems urgent or important. Oftentimes, it’s just a matter of letting (fires burn/) small little bad things happen (e.g., return a phone call late and apologize, pay a small late fee, lose an unreasonable customer, etc.) to get the big important things done. The answer to overwhelm is not spinning more plates—or doing more—it’s defining the few things that can really fundamentally change your business and life.” — Tim Ferriss](https://x.com/tferriss/status/1674772152589996034)_ [^1]
 
@@ -53,11 +53,11 @@ First things first. Do the most important thing [^2] first, not the most urgent 
 
 ---
 
-> _[“I finally decided I was going to give the best hour of the day to improving my own mind, and then the world could buy the rest of the time.” — Charlie Munger](https://buffett.cnbc.com/video/2007/05/05/afternoon-session---2007-berkshire-hathaway-annual-meeting.html)_
+> [“I finally decided I was going to give the best hour of the day to improving my own mind, and then the world could buy the rest of the time.” — Charlie Munger](https://buffett.cnbc.com/video/2007/05/05/afternoon-session---2007-berkshire-hathaway-annual-meeting.html)
 >
 > 把一天中最好的時段留給自己，然後世界可以買走我剩下的時間。
 
-> _[“Your dreams demand your best hours—and nothing less.” — Anu Atluru](https://substack.com/home/post/p-156930899)_
+> [“Your dreams demand your best hours—and nothing less.” — Anu Atluru](https://substack.com/home/post/p-156930899)
 
 * **Sacred Morning Free Time**, where you can take advantage of the tranquility of the quiet morning
 * **Quite/Dark Hours**

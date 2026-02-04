@@ -1,10 +1,10 @@
 ---
 title: Addition by subtraction
 created: 2025-10-12T16:17:30
-modified: 2026-01-25T16:14:19
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Legos encourage endless adding, especially when you have a dad who supports your habit. In Jenga (樂高), the rules promote balance. Jenga forces us to subtract first, requiring that we pull out a block from one of the lower levels before we add to the top level. Sure, Lego’s adding approach has been good for business; but so has Jenga’s mandate to subtract first. It was the game’s novel subtracting rules that Leslie Scott copyrighted, to the tune of one hundred million copies sold.” — Leidy Klotz, [Subtract: The Untapped Science of Less](https://www.goodreads.com/work/quotes/79888731)_
+> “Legos encourage endless adding, especially when you have a dad who supports your habit. In Jenga (樂高), the rules promote balance. Jenga forces us to subtract first, requiring that we pull out a block from one of the lower levels before we add to the top level. Sure, Lego’s adding approach has been good for business; but so has Jenga’s mandate to subtract first. It was the game’s novel subtracting rules that Leslie Scott copyrighted, to the tune of one hundred million copies sold.” — Leidy Klotz, [Subtract: The Untapped Science of Less](https://www.goodreads.com/work/quotes/79888731)
 
 ---
 

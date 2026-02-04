@@ -1,18 +1,18 @@
 ---
 title: Luck
 created: 2024-11-18T09:18:12
-modified: 2026-01-20T05:07:08
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Diligence is the mother of good luck.” — Benjamin Franklin_
+> “Diligence is the mother of good luck.” — Benjamin Franklin
 
-> _“Luck is what happens when [preparation](planning-and-preparation-help-maximize-your-productivity.md) meets opportunity.” — Seneca_
+> “Luck is what happens when [preparation](planning-and-preparation-help-maximize-your-productivity.md) meets opportunity.” — Seneca
 
-> _[“People are always claiming that success is a matter of luck, but as Pasteur pointed out, “Luck favors the prepared mind.” […] Many times a discussion with a person who has just done something important will produce a description of how they were led, almost step by step, to the result. It is usually based on things they had done, or intensely thought about, years ago. You succeed because you have prepared yourself with the necessary background long ago, without, of course, knowing then that it would prove to be a necessary step to success.” — Richard Hamming](https://www.mccurley.org/advice/hamming_advice.html)_
+> [“People are always claiming that success is a matter of luck, but as Pasteur pointed out, “Luck favors the prepared mind.” […] Many times a discussion with a person who has just done something important will produce a description of how they were led, almost step by step, to the result. It is usually based on things they had done, or intensely thought about, years ago. You succeed because you have prepared yourself with the necessary background long ago, without, of course, knowing then that it would prove to be a necessary step to success.” — Richard Hamming](https://www.mccurley.org/advice/hamming_advice.html)
 
-> _“Luck is a dividend of sweat. The more you sweat, the luckier you get.” — Ray Kroc_
+> “Luck is a dividend of sweat. The more you sweat, the luckier you get.” — Ray Kroc
 
-> _“Luck has nothing to do with it, because I have spent many, many hours, countless hours, on the court working for my one moment in time, not knowing when it would come.” — Serena William_
+> “Luck has nothing to do with it, because I have spent many, many hours, countless hours, on the court working for my one moment in time, not knowing when it would come.” — Serena William
 
 > _「Even if you don’t catch the Apple before it hits the ground, so long as you’re the first one to pick it up. (你要儘量靠近果樹，即使來不及接住掉落的蘋果，也要當第一個撿起來的人。)」— Jensen Huang, NVIDIA’s CEO_ [^1] [^2]
 

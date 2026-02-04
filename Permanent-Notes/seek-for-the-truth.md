@@ -1,26 +1,26 @@
 ---
 title: Seek for the truth
 created: 2024-11-18T09:18:12
-modified: 2026-01-04T15:32:02
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Facts are the enemy of truth.” — Miguel de Cervantes_
+> “Facts are the enemy of truth.” — Miguel de Cervantes
 
-> _“There’s a world of difference between truth and facts. Facts can obscure the truth.” — Maya Angelou_
+> “There’s a world of difference between truth and facts. Facts can obscure the truth.” — Maya Angelou
 
-> _“The great advantage about telling the truth is that nobody ever believes it.” — Dorothy L. Sayers_
+> “The great advantage about telling the truth is that nobody ever believes it.” — Dorothy L. Sayers
 
-> _[“’The truth.' Dumbledore sighed. ’It is a beautiful and terrible thing, and should therefore be treated with great caution.'” — J.K. Rowling, Harry Potter and the Sorcerer’s Stone](https://www.goodreads.com/quotes/29276-the-truth-dumbledore-sighed-it-is-a-beautiful-and-terrible)_
+> [“’The truth.' Dumbledore sighed. ’It is a beautiful and terrible thing, and should therefore be treated with great caution.'” — J.K. Rowling, Harry Potter and the Sorcerer’s Stone](https://www.goodreads.com/quotes/29276-the-truth-dumbledore-sighed-it-is-a-beautiful-and-terrible)
 
-> _[“A lie can travel half way around the world while the truth is putting on its shoes.” — Mark Twain](https://www.goodreads.com/quotes/76-a-lie-can-travel-half-way-around-the-world-while)_
+> [“A lie can travel half way around the world while the truth is putting on its shoes.” — Mark Twain](https://www.goodreads.com/quotes/76-a-lie-can-travel-half-way-around-the-world-while)
 
-> _“Wrong does not cease to be wrong because the majority share in it.” — Leo Tolstoy_
+> “Wrong does not cease to be wrong because the majority share in it.” — Leo Tolstoy
 
 > _[“Truth-seekers take feedback from nature (planes have to fly), free markets (customers have to buy), or competition (militaries have to win). Consensus-seekers take feedback from people (actors want fans, academics want honors, politicians want votes, journalists want status).” — Naval Ravikant](https://x.com/naval/status/1856965245690081637)_ [^1]
 
-> _[“The opposite of a correct statement is a false statement. But the opposite of a profound truth may well be another profound truth.” — Niels Bohr](https://www.goodreads.com/quotes/941-the-opposite-of-a-correct-statement-is-a-false-statement)_
+> [“The opposite of a correct statement is a false statement. But the opposite of a profound truth may well be another profound truth.” — Niels Bohr](https://www.goodreads.com/quotes/941-the-opposite-of-a-correct-statement-is-a-false-statement)
 
-> _“The least deviation from truth will be multiplied later.” — Aristotle_
+> “The least deviation from truth will be multiplied later.” — Aristotle
 
 > _“We are only as blind as we want to be.” — Maya Angelou_ [^2] [^3]
 

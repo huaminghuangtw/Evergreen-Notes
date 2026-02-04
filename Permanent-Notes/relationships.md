@@ -1,20 +1,20 @@
 ---
 title: Relationships
 created: 2025-03-12T02:41:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin_
+> “The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin
 
-> _“You don’t earn loyalty in a day. You earn loyalty day-by-day.” — Jeffrey Gitomer_
+> “You don’t earn loyalty in a day. You earn loyalty day-by-day.” — Jeffrey Gitomer
 
-> _“Relationships are mysterious. We doubt the positive qualities in others, seldom the negative. You will say to your partner: do you really love me? Are you sure you love me? You will ask this a dozen times and drive the person nuts. But you never ask: are you really mad at me? Are you sure you’re angry? When someone is angry, you don’t doubt it for a moment. Yet the reverse should be true. We should doubt the negative in life, and have faith in the positive.” — Christopher Pike, Remember Me_
+> “Relationships are mysterious. We doubt the positive qualities in others, seldom the negative. You will say to your partner: do you really love me? Are you sure you love me? You will ask this a dozen times and drive the person nuts. But you never ask: are you really mad at me? Are you sure you’re angry? When someone is angry, you don’t doubt it for a moment. Yet the reverse should be true. We should doubt the negative in life, and have faith in the positive.” — Christopher Pike, Remember Me
 
-> _[“We have to recognize that there cannot be relationships unless there is commitment, unless there is loyalty, unless there is love, patience, persistence.” — Cornel West, Breaking Bread: Insurgent Black Intellectual Life](https://www.goodreads.com/quotes/234703-we-have-to-recognise-that-there-cannot-be-relationships-unless)_
+> [“We have to recognize that there cannot be relationships unless there is commitment, unless there is loyalty, unless there is love, patience, persistence.” — Cornel West, Breaking Bread: Insurgent Black Intellectual Life](https://www.goodreads.com/quotes/234703-we-have-to-recognise-that-there-cannot-be-relationships-unless)
 
-> _“The best relationships are a balance of connection and freedom.” — Esther Perel_
+> “The best relationships are a balance of connection and freedom.” — Esther Perel
 
-> _“Understand that friends come and go, but with a precious few you should hold on. Work hard to bridge the gaps in geography and lifestyle, because the older you get, the more you need the people who knew you when you were young.” — Mary Schmich_
+> “Understand that friends come and go, but with a precious few you should hold on. Work hard to bridge the gaps in geography and lifestyle, because the older you get, the more you need the people who knew you when you were young.” — Mary Schmich
 
 ---
 
@@ -161,7 +161,7 @@ While small talk (= idle talk = chitchat) has its place ,[^3] real bonding/conve
 
 # Shared Struggle
 
-> _“Trouble shared is trouble halved.” — Lee Iacocca_
+> “Trouble shared is trouble halved.” — Lee Iacocca
 
 * builds unbreakable bonds that transcend time and distance.
 * releases oxytocin, a chemical that creates feelings of love and connection.
@@ -170,7 +170,7 @@ True connection often come from overcoming challenges together.
 
 True bonds are often forged through adversity.
 
-> _“Shared joy is a double joy; shared sorrow is half sorrow.” — Swedish Proverb_
+> “Shared joy is a double joy; shared sorrow is half sorrow.” — Swedish Proverb
 
 * When one person shares good news with another, both people are happy.
 * When one person shares sad news with another, the act of sharing takes some of the sadness away.

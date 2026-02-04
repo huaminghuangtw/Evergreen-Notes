@@ -1,10 +1,10 @@
 ---
 title: Advice
 created: 2024-11-18T09:16:50
-modified: 2026-01-25T16:14:19
+modified: 2026-02-05T07:51:24
 ---
 
-> _“The thing I’ve learned over the years about advice is that no one can accurately predict the future, but we all think we can. So advice at its best is one person’s limited perspective of the infinite possibilities before you. People’s advice is based on their fears, their experiences, their prejudices, and at the end of the day, their advice is just that: it’s theirs, not yours. When people give you advice, they’re basing it on what they would do, what they can perceive, on what they think you can do. But the bottom line is, while yes, it is true that we are all subject to a series of universal laws, patterns, tides, and currents—all of which are somewhat predictable—you are the first time you’ve ever happened. YOU and NOW are a unique occurrence, of which you are the most reliable measure of all the possibilities.” — Will Smith_
+> “The thing I’ve learned over the years about advice is that no one can accurately predict the future, but we all think we can. So advice at its best is one person’s limited perspective of the infinite possibilities before you. People’s advice is based on their fears, their experiences, their prejudices, and at the end of the day, their advice is just that: it’s theirs, not yours. When people give you advice, they’re basing it on what they would do, what they can perceive, on what they think you can do. But the bottom line is, while yes, it is true that we are all subject to a series of universal laws, patterns, tides, and currents—all of which are somewhat predictable—you are the first time you’ve ever happened. YOU and NOW are a unique occurrence, of which you are the most reliable measure of all the possibilities.” — Will Smith
 
 ---
 
@@ -14,9 +14,9 @@ modified: 2026-01-25T16:14:19
 
 ---
 
-> _“To advise is not to compel.” — Anton Chekhov_
+> “To advise is not to compel.” — Anton Chekhov
 
-> _“There is a difference between giving directions and giving direction.” — Simon Sinek_
+> “There is a difference between giving directions and giving direction.” — Simon Sinek
 
 ---
 
@@ -38,7 +38,7 @@ Start and end all of your advice with a [disclaimer](https://quarter--mile.com/D
 
 # On Receiving/Taking Advice
 
-> _“Instead of seeking feedback, you’re better off asking for advice. Feedback tends to focus on how well you did last time. Advice shifts attention to how you can do better next time.” — Adam Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
+> “Instead of seeking feedback, you’re better off asking for advice. Feedback tends to focus on how well you did last time. Advice shifts attention to how you can do better next time.” — Adam Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)
 
 **TL; DR** When receiving advice, focus on the general, not the specific.
 

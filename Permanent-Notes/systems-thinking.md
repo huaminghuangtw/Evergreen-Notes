@@ -1,12 +1,12 @@
 ---
 title: Systems Thinking
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“The whole is greater than the sum of its parts.” — Aristotle_
+> “The whole is greater than the sum of its parts.” — Aristotle
 
-> _“Thinking in Systems emphasizes finding the goals of the system. As Meadows put it, we discover these goals by asking, “What is the system trying to achieve?” — Leidy Klotz, [Subtract: The Untapped Science of Less](https://www.goodreads.com/work/quotes/79888731)_
+> “Thinking in Systems emphasizes finding the goals of the system. As Meadows put it, we discover these goals by asking, “What is the system trying to achieve?” — Leidy Klotz, [Subtract: The Untapped Science of Less](https://www.goodreads.com/work/quotes/79888731)
 
 ---
 

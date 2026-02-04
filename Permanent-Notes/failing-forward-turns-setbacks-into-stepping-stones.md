@@ -1,20 +1,20 @@
 ---
 title: Failing forward turns setbacks into stepping stones
 created: 2024-11-18T09:18:12
-modified: 2026-01-31T14:16:38
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Opportunity often comes disguised in the form of misfortune or temporary defeat.” — Napoleon Hill_
+> “Opportunity often comes disguised in the form of misfortune or temporary defeat.” — Napoleon Hill
 
-> _“I’ve missed more than 9,000 shots in my career. I’ve lost almost 300 games. Twenty-six times I’ve been trusted to take the game-winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.” — Michael Jordan_
+> “I’ve missed more than 9,000 shots in my career. I’ve lost almost 300 games. Twenty-six times I’ve been trusted to take the game-winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.” — Michael Jordan
 
 > _“Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.” — Samuel Beckett_ [^1]
 
-> _“Failure is simply the opportunity to begin again, this time more intelligently.” — Henry Ford_
+> “Failure is simply the opportunity to begin again, this time more intelligently.” — Henry Ford
 
-> _[“Failure is to be expected, not avoided. Failure is feedback, not judgment.” — Alex Hormozi](https://www.linkedin.com/posts/alexhormozi_10-truths-i-live-by-1-skills-stack-on-activity-7057390440928432128-SgO9/)_
+> [“Failure is to be expected, not avoided. Failure is feedback, not judgment.” — Alex Hormozi](https://www.linkedin.com/posts/alexhormozi_10-truths-i-live-by-1-skills-stack-on-activity-7057390440928432128-SgO9/)
 
-> _“In school we learn that mistakes are bad, and we are punished for making them. Yet, if you look at the way humans are designed to learn, we learn by making mistakes. We learn to walk by falling down. If we never fell down, we would never walk.” — [@kiyosakiRichDadPoor2002]_
+> “In school we learn that mistakes are bad, and we are punished for making them. Yet, if you look at the way humans are designed to learn, we learn by making mistakes. We learn to walk by falling down. If we never fell down, we would never walk.” — [@kiyosakiRichDadPoor2002]
 
 ---
 
@@ -28,21 +28,21 @@ You don’t have to get it right the first time. Just fail faster.
 | :-: |
 | <sub>Source: [Liz Fosslien](https://www.fosslien.com/images#/liz-fosslien-success-and-failure)</sub> |
 
-> _“One fails forward toward success.” — Charles Kettering_
+> “One fails forward toward success.” — Charles Kettering
 
-> _“Failure is the highway to success.” — Og Mandino_
+> “Failure is the highway to success.” — Og Mandino
 
-> _“Failure is success if we learn from it.” — Malcolm Forbes_
+> “Failure is success if we learn from it.” — Malcolm Forbes
 
-> _“Failure is the condiment that gives success its flavor.” — Truman Capote_
+> “Failure is the condiment that gives success its flavor.” — Truman Capote
 
-> _“Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.” — Dale Carnegie_
+> “Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.” — Dale Carnegie
 
-> _“You must expect failure as part of your journey of success, failure and success go hand in hand, you cannot have one without the other.” — Richard Parkes Cordock_
+> “You must expect failure as part of your journey of success, failure and success go hand in hand, you cannot have one without the other.” — Richard Parkes Cordock
 
-> _“When you double your rate of failure you double your rate of success.” — James Swanwick_
+> “When you double your rate of failure you double your rate of success.” — James Swanwick
 
-> _[“Legends aren’t defined by their success, they’re defined by how they bounce back from their failures.” — Chris Bosh](https://www.youtube.com/shorts/Hkd-7zUxQaA)_
+> [“Legends aren’t defined by their success, they’re defined by how they bounce back from their failures.” — Chris Bosh](https://www.youtube.com/shorts/Hkd-7zUxQaA)
 
 * Failure is not the opposite of success, it’s part of success. Failure is success in progress.
 * Success comes from turning _setbacks_ into _comebacks_.

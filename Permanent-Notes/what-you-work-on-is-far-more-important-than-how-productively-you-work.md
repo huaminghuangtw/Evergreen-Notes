@@ -1,32 +1,32 @@
 ---
 title: What you work on is far more important than how productively you work
 created: 2025-02-04T06:34:16
-modified: 2026-01-26T10:47:50
+modified: 2026-02-05T07:51:24
 ---
 
-> _“It is not enough that we do our best; sometimes we must do what is required/necessary.” — Winston Churchill_
+> “It is not enough that we do our best; sometimes we must do what is required/necessary.” — Winston Churchill
 
-> _“If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster.” — Stephen R. Covey_
+> “If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster.” — Stephen R. Covey
 
 > _“What you do is more important than how you do everything else, and doing something unimportant well does not make it important.” — Tim Ferriss_ [^1]
 
-> _[“The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work.” — Paul Graham](https://paulgraham.com/selfindulgence.html)_
+> [“The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work.” — Paul Graham](https://paulgraham.com/selfindulgence.html)
 
 [@rubinBetterMasteringHabits2015]
 
-> _“The biggest waste of time is to do well something that we need not do at all.” — Gretchen Rubin_
+> “The biggest waste of time is to do well something that we need not do at all.” — Gretchen Rubin
 
-> _“We all want progress, but if you’re on the wrong road, progress means doing an about-turn and walking back to the right road; in that case, the man who turns back soonest is the most progressive.” — C.S. Lewis_
+> “We all want progress, but if you’re on the wrong road, progress means doing an about-turn and walking back to the right road; in that case, the man who turns back soonest is the most progressive.” — C.S. Lewis
 
-> _“We like to view the world as linear, which is, I’m gonna put in 8 hours of work, I’m gonna get back 8 hours of output, right? It doesn’t work that way. Guy running the corner grocery store is working just as hard or harder than you and me. How much output is he getting? **What you do, who you do it with, and how you do it, are way more important than how hard you work.** Outputs are non-linear based on the **quality** of the work that you put in.” — Naval Ravikant_
+> “We like to view the world as linear, which is, I’m gonna put in 8 hours of work, I’m gonna get back 8 hours of output, right? It doesn’t work that way. Guy running the corner grocery store is working just as hard or harder than you and me. How much output is he getting? **What you do, who you do it with, and how you do it, are way more important than how hard you work.** Outputs are non-linear based on the **quality** of the work that you put in.” — Naval Ravikant
 
 ---
 
 # What you do is infinitely more important than how (hard) you do it.
 
-> _[“It doesn’t matter how fast you move if it’s in a worthless direction. **Picking the right thing to work on** is the most important element of productivity and usually almost ignored. Productivity in the wrong direction isn’t worth anything at all. Think more about what to work on.” — Sam Altman](https://blog.samaltman.com/productivity)_
+> [“It doesn’t matter how fast you move if it’s in a worthless direction. **Picking the right thing to work on** is the most important element of productivity and usually almost ignored. Productivity in the wrong direction isn’t worth anything at all. Think more about what to work on.” — Sam Altman](https://blog.samaltman.com/productivity)
 
-> _[“It is much more important to work on the right thing than it is to work many hours. Most people waste most of their time on stuff that doesn’t matter.” — Sam Altman](https://blog.samaltman.com/how-to-be-successful)_
+> [“It is much more important to work on the right thing than it is to work many hours. Most people waste most of their time on stuff that doesn’t matter.” — Sam Altman](https://blog.samaltman.com/how-to-be-successful)
 
 ---
 

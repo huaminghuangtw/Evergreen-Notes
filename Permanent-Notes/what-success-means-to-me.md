@@ -1,40 +1,40 @@
 ---
 title: What Success Means To Me
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“The road to success is always under construction.” — Steve Harvey_
+> “The road to success is always under construction.” — Steve Harvey
 
-> _[“Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable. And you’re the only one that will know that.” — John Wooden](https://www.youtube.com/watch?v=JWQIxuNGdvQ&t=95s)_
+> [“Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable. And you’re the only one that will know that.” — John Wooden](https://www.youtube.com/watch?v=JWQIxuNGdvQ&t=95s)
 
-> _“Success is not how high you have climbed, but how you make a positive difference to the world.” — Roy T. Bennett_
+> “Success is not how high you have climbed, but how you make a positive difference to the world.” — Roy T. Bennett
 
-> _“To laugh often and much: To win the respect of intelligent people and the affection of children, to earn the appreciation of honest critics and endure the betrayal of false friends; to appreciate beauty, to find the best in others, to leave the world a bit better whether by a healthy child, a garden patch, or a redeemed social condition; to know even one life has breathed easier because you lived. This is to have succeeded.” — Ralph Waldo Emerson_
+> “To laugh often and much: To win the respect of intelligent people and the affection of children, to earn the appreciation of honest critics and endure the betrayal of false friends; to appreciate beauty, to find the best in others, to leave the world a bit better whether by a healthy child, a garden patch, or a redeemed social condition; to know even one life has breathed easier because you lived. This is to have succeeded.” — Ralph Waldo Emerson
 
-> _“To live content with small means. To seek elegance rather than luxury, and refinement rather than fashion. To be worthy not respectable, and wealthy not rich. To study hard, think quietly, talk gently, act frankly, to listen to stars, birds, babes, and sages with open heart, to bear all cheerfully, do all bravely, await occasions, hurry never. In a word, to let the spiritual, unbidden and unconscious, grow up through the common. This is to be my symphony.” — William Ellery Channing_
+> “To live content with small means. To seek elegance rather than luxury, and refinement rather than fashion. To be worthy not respectable, and wealthy not rich. To study hard, think quietly, talk gently, act frankly, to listen to stars, birds, babes, and sages with open heart, to bear all cheerfully, do all bravely, await occasions, hurry never. In a word, to let the spiritual, unbidden and unconscious, grow up through the common. This is to be my symphony.” — William Ellery Channing
 
-> _[“Success is having everything you need and doing everything you want. It is not doing everything you need to have everything you want.” — Jacob Lund Fisker](https://earlyretirementextreme.com/manifesto.html)_
+> [“Success is having everything you need and doing everything you want. It is not doing everything you need to have everything you want.” — Jacob Lund Fisker](https://earlyretirementextreme.com/manifesto.html)
 
-> _[“Extreme success is not going to make you happy. In fact, success amplifies who you already are and how you already feel.” — Mark Manson](https://www.youtube.com/watch?v=_ZJpU43NA0c&t=10m49s)_
+> [“Extreme success is not going to make you happy. In fact, success amplifies who you already are and how you already feel.” — Mark Manson](https://www.youtube.com/watch?v=_ZJpU43NA0c&t=10m49s)
 
-> _[“Success in life is not for those who run fast, but for those who keep running and always on the move.” — Bangambiki Habyarimana, Pearls Of Eternity](https://www.goodreads.com/quotes/7890685-success-in-life-is-not-for-those-who-run-fast)_
+> [“Success in life is not for those who run fast, but for those who keep running and always on the move.” — Bangambiki Habyarimana, Pearls Of Eternity](https://www.goodreads.com/quotes/7890685-success-in-life-is-not-for-those-who-run-fast)
 
-> _“Success is being excited to go to work and being excited to come home.” — Will Ahmed_
+> “Success is being excited to go to work and being excited to come home.” — Will Ahmed
 
-> _[“He has achieved success who has worked well, laughed often, and loved much.” — Elbert Hubbard](https://www.brainyquote.com/quotes/elbert_hubbard_103488)_
+> [“He has achieved success who has worked well, laughed often, and loved much.” — Elbert Hubbard](https://www.brainyquote.com/quotes/elbert_hubbard_103488)
 
-> _[“Real success is success with self. It’s not in having things, but in having mastery, having victory over self.” — Anwar Sadat](https://www.azquotes.com/quote/856603)_
+> [“Real success is success with self. It’s not in having things, but in having mastery, having victory over self.” — Anwar Sadat](https://www.azquotes.com/quote/856603)
 
-> _[“The ultimate success metric is whether you get what you want out of life. But that’s harder than it sounds because it’s easy to try to copy someone who wants something you don’t.” — Morgan Housel](https://collabfund.com/blog/your-way-is-the-only-way/)_
+> [“The ultimate success metric is whether you get what you want out of life. But that’s harder than it sounds because it’s easy to try to copy someone who wants something you don’t.” — Morgan Housel](https://collabfund.com/blog/your-way-is-the-only-way/)
 
-> _“Redefine success. The most meaningful form of performance is progress. The ultimate mark of potential is not the height of the peak you’ve reached, but the distance you’ve traveled—and helped others travel.” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)_
+> “Redefine success. The most meaningful form of performance is progress. The ultimate mark of potential is not the height of the peak you’ve reached, but the distance you’ve traveled—and helped others travel.” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)
 
-> _“Success isn’t about how your life looks to others. It’s about how it feels to you.” — Michelle Obama_
+> “Success isn’t about how your life looks to others. It’s about how it feels to you.” — Michelle Obama
 
-> _[“The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.” — Vince Lombardi](https://www.goodreads.com/quotes/93874-the-difference-between-a-successful-person-and-others-is-not)_
+> [“The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.” — Vince Lombardi](https://www.goodreads.com/quotes/93874-the-difference-between-a-successful-person-and-others-is-not)
 
-> _“Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.” — Tony Robbins_
+> “Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.” — Tony Robbins
 
 ---
 
@@ -54,7 +54,7 @@ modified: 2026-01-25T16:14:18
 
 The most important thing in life is _not having_ what you want, but _knowing_ what you want—figuring it out is everything!
 
-> _[“The only true test of intelligence is if you get what you want out of life.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)_
+> [“The only true test of intelligence is if you get what you want out of life.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)
 
 # 知行合一
 
@@ -65,7 +65,7 @@ The most important thing in life is _not having_ what you want, but _knowing_ wh
 
 [Life is a game of awareness and action: Awareness to understand something’s importance and action to execute on that importance.](https://www.sahilbloom.com/newsletter/11-uncommon-lessons-from-uncommon-minds)
 
-> _“I think in terms of the day’s resolutions, not the years’.” — Henry Moore_
+> “I think in terms of the day’s resolutions, not the years’.” — Henry Moore
 
 1. Define you [VALUES](why-we-exist.md) (\& ditch unrealistic big goals)
 2. Focus on today’s [ACTIONS](cultivate-a-strong-bias-towards-action.md) (instead of a 5, 10, 15-year plan) that will compound positively towards the future you desire.
@@ -80,7 +80,7 @@ The most important thing in life is _not having_ what you want, but _knowing_ wh
 
 # EIOFS = Early Indicator of Future Success
 
-> _[“Don’t worry about future success. Worry about early indicators of future success.” — Jensen Huang](https://www.youtube.com/watch?v=BbTZ_7pZDB0)_
+> [“Don’t worry about future success. Worry about early indicators of future success.” — Jensen Huang](https://www.youtube.com/watch?v=BbTZ_7pZDB0)
 
 ---
 

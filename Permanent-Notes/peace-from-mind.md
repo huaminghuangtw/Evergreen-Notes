@@ -1,18 +1,18 @@
 ---
 title: Peace from mind
 created: 2024-12-03T22:26:07
-modified: 2026-01-14T15:16:36
+modified: 2026-02-05T07:51:24
 ---
 
-> _“The resting place of the mind is the heart. The only thing the mind hears all day is clanging bells and noise and argument, and all it wants is quietude. The only place the mind will ever find peace is inside the silence of the heart. That’s where you need to go.” — Elizabeth Gilbert_
+> “The resting place of the mind is the heart. The only thing the mind hears all day is clanging bells and noise and argument, and all it wants is quietude. The only place the mind will ever find peace is inside the silence of the heart. That’s where you need to go.” — Elizabeth Gilbert
 
-> _“Don’t let the behavior of others destroy your inner peace.” — Dalai Lama_
+> “Don’t let the behavior of others destroy your inner peace.” — Dalai Lama
 
-> _“I’m here to tell you that the path to peace is right there, when you want to get away.” — Pema Chodron_
+> “I’m here to tell you that the path to peace is right there, when you want to get away.” — Pema Chodron
 
-> _“When you find peace within yourself, you find a quiet joy that makes you happy to be alive.” — Peace Pilgrim_
+> “When you find peace within yourself, you find a quiet joy that makes you happy to be alive.” — Peace Pilgrim
 
-> _“Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.” — Ronald Reagan_
+> “Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.” — Ronald Reagan
 
 ---
 

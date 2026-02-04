@@ -1,28 +1,28 @@
 ---
 title: True education begins where school ends
 created: 2025-01-23T18:40:57
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“School is one thing. Education is another. The two don’t always overlap. Whether you’re in school or not, it’s always your job to get yourself an education.” — Austin Kleon_
+> “School is one thing. Education is another. The two don’t always overlap. Whether you’re in school or not, it’s always your job to get yourself an education.” — Austin Kleon
 
-> _“Education is what remains after one has forgotten everything he learned in school.” — Albert Einstein_
+> “Education is what remains after one has forgotten everything he learned in school.” — Albert Einstein
 
-> _“Education is not the learning of facts, but the training of the mind to think.” — Albert Einstein_
+> “Education is not the learning of facts, but the training of the mind to think.” — Albert Einstein
 
-> _“Education is the kindling of a flame, not the filling of a vessel.” — Socrates_
+> “Education is the kindling of a flame, not the filling of a vessel.” — Socrates
 
-> _“The most important thing we learn at school is the fact that the most important things can’t be learned at school.” — Haruki Murakami, [What I Talk About When I Talk About Running](https://www.goodreads.com/work/quotes/2475030)_
+> “The most important thing we learn at school is the fact that the most important things can’t be learned at school.” — Haruki Murakami, [What I Talk About When I Talk About Running](https://www.goodreads.com/work/quotes/2475030)
 
-> _“When you stop learning you start dying.” — Albert Einstein_
+> “When you stop learning you start dying.” — Albert Einstein
 
-> _「畢業是站在制度性學習的終點、自主性學習的起點。」— 龍應台_
+> 「畢業是站在制度性學習的終點、自主性學習的起點。」— 龍應台
 
-> _“Live to learn and you’ll really learn to live.” — John C. Maxwell_
+> “Live to learn and you’ll really learn to live.” — John C. Maxwell
 
-> _“Live as if you were to die tomorrow. Learn as if you were to live forever.” — Mahatma Gandhi_
+> “Live as if you were to die tomorrow. Learn as if you were to live forever.” — Mahatma Gandhi
 
-> _[“I have never let my schooling interfere with my education.” — Mark Twain](https://www.goodreads.com/quotes/1427-i-have-never-let-my-schooling-interfere-with-my-education)_
+> [“I have never let my schooling interfere with my education.” — Mark Twain](https://www.goodreads.com/quotes/1427-i-have-never-let-my-schooling-interfere-with-my-education)
 
 ---
 
@@ -50,13 +50,13 @@ School lays the foundation, but true education starts when you step beyond the c
 
 讀書若不思考，只會讓你自以為知道很多；讀書並深思，才會讓你清楚自己所知有限。
 
-> _[“The only true wisdom is in knowing you know nothing.” — Socrates](https://www.goodreads.com/quotes/9431-the-only-true-wisdom-is-in-knowing-you-know-nothing)_
+> [“The only true wisdom is in knowing you know nothing.” — Socrates](https://www.goodreads.com/quotes/9431-the-only-true-wisdom-is-in-knowing-you-know-nothing)
 
 > _“Real knowledge is to know the extent of one’s ignorance.” [^1] — Confucius_ [^2] [^3]
 
-> _“The fool who knows he is a fool is that much wiser. The fool who thinks himself wise is a fool indeed.” — Buddhism_
+> “The fool who knows he is a fool is that much wiser. The fool who thinks himself wise is a fool indeed.” — Buddhism
 
-> _“We are all born ignorant, but one must work hard to remain stupid.” — Benjamin Franklin_
+> “We are all born ignorant, but one must work hard to remain stupid.” — Benjamin Franklin
 
 * The more you know, the more you realize you don’t know.
 * The more I learn, the less I feel I know.

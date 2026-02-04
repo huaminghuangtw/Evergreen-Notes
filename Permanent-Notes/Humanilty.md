@@ -1,10 +1,10 @@
 ---
 title: Humanilty
 created: 2024-11-18T09:18:12
-modified: 2025-10-17T06:28:19
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Man differs from other animals in one very important respect, and that is that he has some desires which are, so to speak, infinite, which can never be fully gratified, and which would keep him restless even in Paradise.” — Bertrand Russell_
+> “Man differs from other animals in one very important respect, and that is that he has some desires which are, so to speak, infinite, which can never be fully gratified, and which would keep him restless even in Paradise.” — Bertrand Russell
 
 > _“If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.” — Mark Twain_ [^1]
 

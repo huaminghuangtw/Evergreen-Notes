@@ -1,22 +1,22 @@
 ---
 title: You are the average of the five people you associate with most
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“You are the average of the five people you spend the most time with.” — Jim Rohn_
+> “You are the average of the five people you spend the most time with.” — Jim Rohn
 
-> _“If you are wondering who your people are, they are the ones who make your heart feel seen and your nervous system feel calm.” — Yung Pueblo_
+> “If you are wondering who your people are, they are the ones who make your heart feel seen and your nervous system feel calm.” — Yung Pueblo
 
-> _“The closer you want to get to me, the better your values have to be” — Navel Ravikant_
+> “The closer you want to get to me, the better your values have to be” — Navel Ravikant
 
-> _“If you hang out with chickens, you’re going to cluck and if you hang out with eagles, you’re going to fly.” — Steve Maraboli_
+> “If you hang out with chickens, you’re going to cluck and if you hang out with eagles, you’re going to fly.” — Steve Maraboli
 
 > _[“Everyone you meet is a part of your journey, but not all of them are meant to stay in your life. Some people are just passing through to bring you gifts; either they’re blessings or lessons.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7929987-everyone-you-meet-is-a-part-of-your-journey-but)_ [^1]
 
 > _[“Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.” — Steve Maraboli](https://www.goodreads.com/quotes/525097-letting-go-means-to-come-to-the-realization-that-some)_ [^2]
 
-> _“Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.” — W. Clement Stone_
+> “Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.” — W. Clement Stone
 
 ---
 
@@ -80,7 +80,7 @@ Surround yourself with people…
 
 # 醃黃瓜理論
 
-> _“When you gaze long into an abyss, the abyss also gazes into you.” — Friedrich Nietzsche, Beyond Good and Evil_
+> “When you gaze long into an abyss, the abyss also gazes into you.” — Friedrich Nietzsche, Beyond Good and Evil
 >
 > 「當你凝視深淵時，深淵也在凝視著你。」— 尼采《善惡的彼岸》
 

@@ -1,12 +1,12 @@
 ---
 title: Stress & Anxiety
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-05T07:51:24
 ---
 
-> _“Stress happens when the mind resists what is.” — Dan Millman_
+> “Stress happens when the mind resists what is.” — Dan Millman
 
-> _“Stress is caused by being ‘here’ but wanting to be ‘there.’” — Eckhart Tolle_
+> “Stress is caused by being ‘here’ but wanting to be ‘there.’” — Eckhart Tolle
 
 ---
 
