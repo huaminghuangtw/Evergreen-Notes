@@ -1,7 +1,7 @@
 ---
 title: Slow down to speed up
 created: 2024-12-05T09:05:25
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T10:41:53
 ---
 
 [@ferriss4hourWorkweekEscape2011]
@@ -11,6 +11,8 @@ modified: 2026-02-05T07:51:24
 > “Rushing had become so much of a habit that I was amazed at the amount of concentration it took to work slowly on purpose.” — Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)
 
 > “The paradox of slowness is that you will find you accomplish the task more quickly and with less effort because you are not wasting energy. Try it and you will see.” — Thomas M. Sterner, [The Practicing Mind: Bringing Discipline and Focus into Your Life](https://www.goodreads.com/work/quotes/326331)
+
+> “This world can overwhelm. But if you slow down, and sit under a tree long enough, it’ll tell you everything. And if you forget who you are, draw something. Or go walk alone. Nature remembers you.” — Robert Redford
 
 ---
 
@@ -115,5 +117,5 @@ Once you’ve done that, that’s when you can go fast.
 
 [A man who is a master of patience is master of everything else](a-man-who-is-a-master-of-patience-is-master-of-everything-else.md)
 
-[^1]: 柔中帶剛 (Strength in softness)
+[^1]: 柔中帶剛、柔中帶韌 (Strength in softness)
 [^2]: 「[Be Water，My Friend !](https://www.goodreads.com/work/quotes/74693436-be-water-my-friend-the-true-teachings-of-bruce-lee)」，意思是武者不被形式所拘，要像水一樣流動，既柔軟又剛強堅韌；既能適應萬物，又能匯聚為強大的力量。當水被某種障礙物擋住時，它會平靜等待，卻又伺機而動；一旦移開障礙物，就會立刻奔流過去，毫不遲疑。 所以，李小龍說，面對競爭與阻礙，「水，永遠都是放鬆卻做好準備的。」
