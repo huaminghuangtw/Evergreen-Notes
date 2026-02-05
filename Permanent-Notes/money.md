@@ -1,7 +1,7 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:22
 ---
 
 > “Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence
@@ -12,11 +12,11 @@ modified: 2026-02-05T07:51:24
 
 > _People do some crazy things with money. But no one is crazy. […] Everyone has their own unique experience with how the world works. And what you’ve experienced is more compelling than what you learn second-hand. So all of us—you, me, everyone—go through life anchored to a set of views about how money works that vary wildly from person to person. What seems crazy to you might make sense to me. […] We all make decisions based on our own unique experiences that seem to make sense to us in a given moment._ [^1] [^2]
 
-> _Tails drive everything — When we pay special attention to a role model’s successes we overlook that their gains came from a small percent of their actions. That makes our own failures, losses, and setbacks feel like we’re doing something wrong. But it’s possible we are wrong, or just sort of right, just as often as the masters are. They may have been more right when they were right, but they could have been wrong just as often as you._ [^3]
+> Tails drive everything — When we pay special attention to a role model’s successes we overlook that their gains came from a small percent of their actions. That makes our own failures, losses, and setbacks feel like we’re doing something wrong. But it’s possible we are wrong, or just sort of right, just as often as the masters are. They may have been more right when they were right, but they could have been wrong just as often as you. [^3]
 
 > “It’s not whether you’re right or wrong that’s important,” George Soros once said, “but how much money you make when you’re right and how much you lose when you’re wrong.” You can be wrong half the time and still make a fortune.
 
-> _Man in the Car Paradox — It’s a subtle recognition that people generally aspire to be respected and admired by others, and using money to buy fancy things may bring less of it than you imagine. If respect and admiration are your goal, be careful how you seek it. **Humility, kindness, and empathy will bring you more respect than horsepower ever will.**_ [^4]
+> Man in the Car Paradox — It’s a subtle recognition that people generally aspire to be respected and admired by others, and using money to buy fancy things may bring less of it than you imagine. If respect and admiration are your goal, be careful how you seek it. **Humility, kindness, and empathy will bring you more respect than horsepower ever will.** [^4]
 
 Reasonable \> Rational
 

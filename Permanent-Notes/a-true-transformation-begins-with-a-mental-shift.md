@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:22
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
@@ -54,7 +54,7 @@ modified: 2026-02-05T07:51:24
 
 > “We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.” — Gabor Mate
 
-> _“People are not disturbed by things, but by the views they take of them.” — Epictetus_ [^1]
+> “People are not disturbed by things, but by the views they take of them.” — Epictetus [^1]
 
 > “There are no [mistakes](mistake.md). They are happy accidents.” — Bob Ross
 

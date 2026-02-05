@@ -1,7 +1,7 @@
 ---
 title: Be ready to change your mind completely at any given time
 created: 2024-12-04T15:59:39
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:23
 ---
 
 > [“Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won’t come in.” — Alan Alda](https://www.goodreads.com/quotes/667214-your-assumptions-are-your-windows-on-the-world-scrub-them)
@@ -12,7 +12,7 @@ modified: 2026-02-05T07:51:24
 
 > [“The more an idea is tied to your identity, the more you will ignore evidence it is false. People seem to have no trouble finding reasons to ignore the merits of ideas they dislike. To continue to grow and learn, you must be willing to update, expand, and edit your identity. In many ways, growth is unlearning.” — James Clear](https://jamesclear.com/3-2-1/november-14-2024)
 
-> _“The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.” — F. Scott Fitzgerald_ [^1]
+> “The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.” — F. Scott Fitzgerald [^1]
 
 > “Beware of false knowledge, it is more dangerous than ignorance.” — George Bernard Shaw
 

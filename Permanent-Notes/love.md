@@ -1,7 +1,7 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:23
 ---
 
 > “Love is the absence of judgment.” — Dalai Lama
@@ -40,7 +40,7 @@ modified: 2026-02-05T07:51:24
 
 > “The most important aspect of love is not in giving or the receiving: it’s in the being.” — Ram Dass
 
-> _“When you love someone, you have to offer that person the best you have. The best thing we can offer another person is our true presence (full attention).” — Thích Nhất Hạnh_ [^1]
+> “When you love someone, you have to offer that person the best you have. The best thing we can offer another person is our true presence (full attention).” — Thích Nhất Hạnh [^1]
 
 > “It’s enough for me to be sure that you and I exist at this moment.” — Gabriel García Márquez
 

@@ -1,7 +1,7 @@
 ---
 title: The Compounding Effect
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:23
 ---
 
 > “Compounding is the 8th wonder of the world.” — Albert Einstein
@@ -129,7 +129,7 @@ The gradual acceptance of negative change, because it happens in such small incr
 
 > _“It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.”_ [^3] [^4]
 
-> _“I just try to avoid being stupid. I have a way of handling a lot of problems—I put them in what I call my ‘too hard pile,’ and just leave them there. I’m not trying to succeed in my too hard pile.”_ [^5]
+> “I just try to avoid being stupid. I have a way of handling a lot of problems—I put them in what I call my ‘too hard pile,’ and just leave them there. I’m not trying to succeed in my too hard pile.” [^5]
 
 ---
 

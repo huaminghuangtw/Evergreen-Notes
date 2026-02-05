@@ -1,7 +1,7 @@
 ---
 title: How to live a life
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:22
 ---
 
 > “As long as you live, keep learning how to live.” — Seneca
@@ -12,7 +12,7 @@ modified: 2026-02-05T07:51:24
 
 > “Life is a balance of holding on and letting go.” — Rumi
 
-> _“There are two ways to live: you can live as if nothing is a miracle; you can live as if everything is a miracle.” — Albert Einstein_ [^1]
+> “There are two ways to live: you can live as if nothing is a miracle; you can live as if everything is a miracle.” — Albert Einstein [^1]
 
 > “There is no magic pill or shortcuts in life. The only shortcut is doing something the right way the first time so that you don’t waste any time on the shortcuts.” — Arnold Schwarzenegger
 

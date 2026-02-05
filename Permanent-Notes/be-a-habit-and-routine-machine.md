@@ -1,7 +1,7 @@
 ---
 title: Be a habit and routine machine
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:17:27
 ---
 
 > “Outer order contributes to inner calm.” — Gretchen Rubin
@@ -22,7 +22,9 @@ modified: 2026-02-05T07:51:24
 
 > “Habits and practice are very interrelated. What we practice will become a habit.” — Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)
 
-> _“Only habits of order are formed can we advance to really interesting fields of action — and consequently accumulate grain on grain of willful choice like a very miser — never forgetting how one link dropped undoes an indefinite number. **The more of the details of our daily life we can hand over to the effortless custody of automatism, the more our higher powers of mind will be set free for their own proper work.** There is no more miserable human being than one in whom nothing is habitual but indecision, and for whom the lighting of every cigar, the drinking of every cup, the time of rising and going to bed every day, and the beginning of every bit of work are subjects of express volitional deliberation. Full half the time of such a man goes to the deciding or regretting of matters which ought to be so ingrained in him as practically not to exist for his consciousness at all. If there be such daily duties not yet ingrained in any one of my hearers, let him begin this very hour to set the matter right.” — excepts from [Daily Rituals](http://www.amazon.com/gp/product/0307273601) by Mason Currey_ [^1]
+> “Only habits of order are formed can we advance to really interesting fields of action — and consequently accumulate grain on grain of willful choice like a very miser — never forgetting how one link dropped undoes an indefinite number. **The more of the details of our daily life we can hand over to the effortless custody of automatism, the more our higher powers of mind will be set free for their own proper work.** There is no more miserable human being than one in whom nothing is habitual but indecision, and for whom the lighting of every cigar, the drinking of every cup, the time of rising and going to bed every day, and the beginning of every bit of work are subjects of express volitional deliberation. Full half the time of such a man goes to the deciding or regretting of matters which ought to be so ingrained in him as practically not to exist for his consciousness at all. If there be such daily duties not yet ingrained in any one of my hearers, let him begin this very hour to set the matter right.” — excepts from [Daily Rituals](http://www.amazon.com/gp/product/0307273601) by Mason Currey [^1]
+
+> “It’s not what we do once in a while that shapes our lives. It’s what we do consistently.” — Tony Robbins
 
 ---
 

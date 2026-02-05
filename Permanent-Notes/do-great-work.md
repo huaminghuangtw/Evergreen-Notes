@@ -1,12 +1,12 @@
 ---
 title: Do great work
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:22
 ---
 
 > “To be great is to be misunderstood.” — Ralph Waldo Emerson
 
-> _“The only way to do great work is to love what you do.” — Steve Jobs_ [^1]
+> “The only way to do great work is to love what you do.” — Steve Jobs [^1]
 
 > “Quality is more important than quantity. One home run is better than two doubles.” — Steve Jobs
 

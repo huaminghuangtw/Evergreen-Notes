@@ -1,7 +1,7 @@
 ---
 title: Intentional Living
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:23
 ---
 
 > [“Your goal in life is to be able to say on the day before you die that you have fully become yourself.” — Kevin Kelly](https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/)
@@ -10,7 +10,7 @@ modified: 2026-02-05T07:51:24
 
 > [“If you’re not busy being born, you’re busy dying.” — Bob Dylan](https://www.bobdylan.com/songs/its-alright-ma-im-only-bleeding/)
 
-> _“The whole future lies in uncertainty: live immediately.” — Seneca_ [^1]
+> “The whole future lies in uncertainty: live immediately.” — Seneca [^1]
 
 > “You could leave life right now, let that determine what you do and say.” — Marcus Aurelius
 

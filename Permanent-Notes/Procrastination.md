@@ -1,7 +1,7 @@
 ---
 title: Procrastination
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:22
 ---
 
 > “To begin, begin.” — William Wordsworth
@@ -115,7 +115,7 @@ You don’t find motivation to start; you need to start to find motivation. Moti
 
 > When people procrastinate, there’s usually a good reason.
 
-> _It’s really helpful to respond to a person’s ineffective behavior with **curiosity** rather than **judgment**._ [^4]
+> It’s really helpful to respond to a person’s ineffective behavior with **curiosity** rather than **judgment**. [^4]
 
 > If a person’s behavior doesn’t make sense to you, it is because you are missing a part of their context.
 

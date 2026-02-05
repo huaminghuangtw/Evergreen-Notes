@@ -1,7 +1,7 @@
 ---
 title: Perfectionism
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:23
 ---
 
 > “You don’t have to be great to start, but you have to start to be great.” — Zig Ziglar
@@ -66,7 +66,7 @@ Imperfect [action](cultivate-a-strong-bias-towards-action.md) trumps visualized 
 
 # 專注於「完成」而非「完美」
 
-> _“Premature optimization is the root of all evil.” — Donald Knuth_ [^2]
+> “Premature optimization is the root of all evil.” — Donald Knuth [^2]
 
 Done is better than perfect. — First make it work. Then optimize (pretty, efficient, documented). Don’t over-engineer. Never start to scale/optimize things too early. Use [feedback](feedback.md) for fast iterations. _**It’s okay to be wrong.**_
 

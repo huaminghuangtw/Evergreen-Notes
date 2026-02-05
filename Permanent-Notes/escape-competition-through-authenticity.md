@@ -1,14 +1,14 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:22
 ---
 
 > “Everything popular is wrong.” — Oscar Wilde
 
 > “To escape from the world means that one’s mind is not concerned with the opinions of the world.” — Dogen
 
-> _“Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win. The wise warrior avoids the battle.” — Sun Tzu_ [^1]
+> “Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win. The wise warrior avoids the battle.” — Sun Tzu [^1]
 
 > “Whenever you find yourself on the side of the majority, it is time to pause and reflect.” — Mark Twain
 
@@ -26,7 +26,7 @@ modified: 2026-02-05T07:51:24
 
 > “All I can do is be me, whoever that is.” — Bob Dylan
 
-> _[“No one will ever be as good at being you than you are. No one can compete with you on being you.” — Naval Ravikant](https://x.com/naval/status/797865441783709696)_ [^2]
+> [“No one will ever be as good at being you than you are. No one can compete with you on being you.” — Naval Ravikant](https://x.com/naval/status/797865441783709696) [^2]
 
 > [”The more neatly you fit into society, the less free you actually are.” — Naval Ravikant](https://x.com/naval/status/1319054238362730496)
 

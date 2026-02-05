@@ -1,7 +1,7 @@
 ---
 title: Courage is knowing what not to fear
 created: 2025-04-11T19:02:45
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:22
 ---
 
 > [“Success is not final, failure is not fatal: it is the courage to continue that counts.” — Winston Churchill](https://www.youtube.com/watch?v=uuxMZL6ieWM)
@@ -26,7 +26,7 @@ modified: 2026-02-05T07:51:24
 
 > “If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution. Timidity is dangerous: Better to enter with boldness. Any mistakes you commit through audacity are easily corrected with more audacity. Everyone admires the bold; no one honors the timid.” — Robert Greene, [The 48 Laws of Power](https://www.goodreads.com/work/quotes/1297604)
 
-> _“A coward dies a thousand times before his death; but the valiant taste of death but once.” — Julius Caesar_ [^1]
+> “A coward dies a thousand times before his death; but the valiant taste of death but once.” — Julius Caesar [^1]
 
 > “Bravery does not mean the absence of fear. Bravery is learning to continue forward even when you’re terrified.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)
 

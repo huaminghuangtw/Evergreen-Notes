@@ -1,7 +1,7 @@
 ---
 title: Anger
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:23
 ---
 
 > “Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.” — Mark Twain
@@ -16,11 +16,11 @@ modified: 2026-02-05T07:51:24
 
 > “Any person capable of angering you becomes your master. They can anger you only when you permit yourself to be disturbed by them.” — Epictetus
 
-> _“Holding onto anger is like drinking poison and expecting the other person to die.” — Buddha_ [^1]
+> “Holding onto anger is like drinking poison and expecting the other person to die.” — Buddha [^1]
 
 > “A man is about as big as the things that make him angry.” — Winston Churchill
 
-> _“He who angers you conquers you.” — Elizabeth Kenny_ [^2]
+> “He who angers you conquers you.” — Elizabeth Kenny [^2]
 
 > “A quick temper will make a fool of you soon enough.” — Bruce Lee
 
