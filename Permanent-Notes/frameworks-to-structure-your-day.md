@@ -1,7 +1,7 @@
 ---
 title: Frameworks to structure your day
 created: 2025-01-23T18:40:57
-modified: 2026-02-05T07:51:24
+modified: 2026-02-06T07:40:08
 ---
 
 > [Live life by design, not default.](https://fs.blog/david-foster-wallace-this-is-water/) Make each day your masterpiece. How you spend your days is how you spend your life.
@@ -14,11 +14,11 @@ modified: 2026-02-05T07:51:24
 
 	> 生活是全職，工作是兼職。
 
-	> _[“Look for a way of life, not goals. Identify how you want to live, not what you want to achieve. Within that lifestyle, see what you can do to make a living.” — Hunter S. Thompson](https://www.notion.so/beca85a66c624275b80ffb4faae2b44c)_
+	> [“Look for a way of life, not goals. Identify how you want to live, not what you want to achieve. Within that lifestyle, see what you can do to make a living.” — Hunter S. Thompson](https://www.notion.so/beca85a66c624275b80ffb4faae2b44c)
 
-	> _“Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.” — Celestine Chua_
+	> “Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.” — Celestine Chua
 
-	> _“Don’t let making a living prevent you from making a life.” — John Wooden_
+	> “Don’t let making a living prevent you from making a life.” — John Wooden
 
 * [Spend a handful of hours a day going fast. Crush a gym session. Do deep work on a project you care about. Spend the rest of the day going slow. Take walks. Read books. Get a long dinner with friends. Either way, avoid the anxious middle (半調子) where you never truly relax or truly move forward.](https://x.com/charlesmiller_7/status/1897358851776610720)
 	* See also: [Work in sprints, work with your biology](work-in-sprints-work-with-your-biology.md)
@@ -39,19 +39,19 @@ modified: 2026-02-05T07:51:24
 			* **Inject/Introduce planned spontaneity/memories into your days:**
 				* Do not fall into The Retirement Trap
 
-					> _“Remember the motto: ‘Work hard, play hard.’ Regard your personal time as just as important as your work time and give as much attention to planning it as you do to planning your work. What are you working for if you don’t have a personal life?” — [@forsterItTomorrowOther2008]_
+					> “Remember the motto: ‘Work hard, play hard.’ Regard your personal time as just as important as your work time and give as much attention to planning it as you do to planning your work. What are you working for if you don’t have a personal life?” — [@forsterItTomorrowOther2008]
 					* Always put non-work commitments in the calendar FIRST, knowing that work will always have a tendency to fill in the gaps.
 					* Block in time for **holidays** and **trips** _first_, rather than letting the calendar fill up with work-stuff by default
 				* Downtime deserves time management too. The time you PLAN to waste is not a waste of time. The time you ENJOY wasting is not a waste of time.
 			* **Mini adventures:** Set aside a half or full day each month dedicated to exploring a new place or activity (e.g., an evening cooking class).
 
-				> _[“Without new experiences, something inside of us sleeps. The sleeper must awaken.” — Frank Herbert](https://www.goodreads.com/quotes/151154-without-new-experiences-something-inside-of-us-sleeps-the-sleeper)_
+				> [“Without new experiences, something inside of us sleeps. The sleeper must awaken.” — Frank Herbert](https://www.goodreads.com/quotes/151154-without-new-experiences-something-inside-of-us-sleeps-the-sleeper)
 
-				> _[“The very basic core of a man’s living spirit is his passion for adventure. The joy of life comes from our encounters with new experiences, and hence there is no greater joy than to have an endlessly changing horizon, for each day to have a new and different sun.” — Christopher McCandless](https://www.goodreads.com/quotes/452564-the-very-basic-core-of-a-man-s-living-spirit-is)_
+				> [“The very basic core of a man’s living spirit is his passion for adventure. The joy of life comes from our encounters with new experiences, and hence there is no greater joy than to have an endlessly changing horizon, for each day to have a new and different sun.” — Christopher McCandless](https://www.goodreads.com/quotes/452564-the-very-basic-core-of-a-man-s-living-spirit-is)
 
 * The 8/8/8 Rule
 
-	> _“Eight hours labor, eight hours recreation, eight hours rest.” — Robert Owen_
+	> “Eight hours labor, eight hours recreation, eight hours rest.” — Robert Owen
 
 	* Divide each 24-hour day into three equal parts:
 		* 8 hours for Work（八小時工作）

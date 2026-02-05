@@ -1,7 +1,7 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2026-02-05T09:22:23
+modified: 2026-02-06T07:40:08
 ---
 
 > “Love is the absence of judgment.” — Dalai Lama
@@ -93,9 +93,9 @@ Growing in love > Falling in love
 * Who you choose as a partner is the most important decision you’ll ever make in your life.
 * Choose your husband/wife wisely. This is the person that will be with you on your greatest and worst days. Choose a man/woman that will see you for who you are.
 
-	> _[“Don’t spoil me with your lies, love me with your truth.” — T.F. Hodge, From Within I Rise: Spiritual Triumph over Death and Conscious Encounters With the Divine Presence](https://www.goodreads.com/quotes/461259-don-t-spoil-me-with-your-lies-love-me-with-your)_
+	> [“Don’t spoil me with your lies, love me with your truth.” — T.F. Hodge, From Within I Rise: Spiritual Triumph over Death and Conscious Encounters With the Divine Presence](https://www.goodreads.com/quotes/461259-don-t-spoil-me-with-your-lies-love-me-with-your)
 
-	> _“True belonging never asks us to change who we are.” — Brené Brown_
+	> “True belonging never asks us to change who we are.” — Brené Brown
 
 * Don’t marry anyone you can’t _laugh with_ or _dance with_.
 
@@ -199,7 +199,7 @@ Fall deeply. Fail fast. Burn beautifully.
 
 * 「給予對方能夠摧毀自己的力量，但同時相信他們不會這麼做。」
 
-	> _“Love meant jumping off a cliff and trusting that a certain person would be there to catch you at the bottom.” — Jodi Picoult_
+	> “Love meant jumping off a cliff and trusting that a certain person would be there to catch you at the bottom.” — Jodi Picoult
 
 * 「真誠地對待自己與對方；不蹉跎於一段註定會失敗的感情；結束時讓它漂漂亮亮地結束。」
 
@@ -215,7 +215,7 @@ Fall deeply. Fail fast. Burn beautifully.
 	* Marriage only works when both panties are willing to serve the other without any expectation in return.
 2. Mutual understanding
 
-	> _“Understanding is love’s other name.” — Thích Nhất Hạnh_
+	> “Understanding is love’s other name.” — Thích Nhất Hạnh
 
 ---
 

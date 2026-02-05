@@ -1,7 +1,7 @@
 ---
 title: Walk
 created: 2024-11-18T09:16:50
-modified: 2026-02-05T07:51:24
+modified: 2026-02-06T07:16:24
 ---
 
 > “A walk in nature walks the soul back home.” — Mary Davis
@@ -90,6 +90,6 @@ Goal: 8000–10000 steps per day
 
 ---
 
-[Non-Exercise Activity Thermogenesis](Non-Exercise%20Activity%20Thermogenesis.md)
+[Non-Exercise Activity Thermogenesis](nonexercise-activity-thermogenesis.md)
 
 [^1]: 「有界」(bounded, telic) 和「無界」(unbounded, atelic)

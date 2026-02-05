@@ -1,7 +1,7 @@
 ---
 title: Emotion Control
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-06T07:40:08
 ---
 
 > “Emotional sickness is avoiding reality at any cost. Emotional health is facing reality at any cost.” — [M. Scott Peck](https://quotefancy.com/m-scott-peck-quotes)
@@ -104,7 +104,7 @@ The thing that prevents you from seeing what’s actually happening are your emo
 
 * 不要和白痴吵架
 
-	> _“If a lion turned every time small dogs barked at it, it would be the laughing stock of the jungle.” — Matshona Dhliwayo_
+	> “If a lion turned every time small dogs barked at it, it would be the laughing stock of the jungle.” — Matshona Dhliwayo
 
 	* [Dogs do not get tired of barking.](https://www.google.com/search?q=Dogs+do+not+get+tired+of+barking.)
 	* If you argue with a fool, you become one.
@@ -115,7 +115,7 @@ The thing that prevents you from seeing what’s actually happening are your emo
 * 有些人是真心來對話的，有些人是純心來吵架的，分清楚兩者之間的差異！
 * [“Taking Souls (收割靈魂)” by David Goggins](https://www.google.com/search?q=taking+souls+david+goggings)
 
-	> _“Always aspire to act in a way that cancels out someone else’s cruel or stupid behavior.” — Carl Hiaasen_
+	> “Always aspire to act in a way that cancels out someone else’s cruel or stupid behavior.” — Carl Hiaasen
 
 	* 「逆境菩薩」
 	* Love your enemies—not by seeking their approval, but by turning your feelings about them into fuel. Let their doubt drive you. [Be so exceptional at what you do](always-do-your-best-as-possible.md) that they’re forced to respect you, not out of affection, but awe. They don’t need to like you. It’s about earning respect through undeniable excellence, shattering their preconceptions with your relentless work and undeniable results.

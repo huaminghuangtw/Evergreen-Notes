@@ -1,7 +1,7 @@
 ---
 title: Information Overwhelm
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T09:22:23
+modified: 2026-02-06T07:40:08
 ---
 
 > “Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” — T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654) [^1]
@@ -43,7 +43,7 @@ modified: 2026-02-05T09:22:23
 
 		> Ignorance is bliss. (無知便是福。)
 
-		> _“Ignore topics that drain your attention. Unfollow people that drain your energy. Abandon projects that drain your time. Do not keep up with it all. The more selectively ignorant you become, the more broadly knowledgeable you can be.” — James Clear_
+		> “Ignore topics that drain your attention. Unfollow people that drain your energy. Abandon projects that drain your time. Do not keep up with it all. The more selectively ignorant you become, the more broadly knowledgeable you can be.” — James Clear
 
 	* [News Sobriety](News%20Sobriety.md)
 * The Laundry Cycle Mentality
@@ -57,23 +57,23 @@ modified: 2026-02-05T09:22:23
 	* If you decide to consume something:
 		* Consume what you are going to create
 
-			> _“The number of hours I spend consuming should never equal or exceed the number of hours I spend creating.” — Nicolas Cole, The Art and Business of Online Writing_
+			> “The number of hours I spend consuming should never equal or exceed the number of hours I spend creating.” — Nicolas Cole, The Art and Business of Online Writing
 
 			* Mindset Shift: Consumer → Producer
 			* 帶著「輸出」的前提去「輸入」（[Writing Worth Reading](https://fs.blog/reading)）：「當我吸收這些資訊&知識後，我要寫出一篇可以公開發表的筆記（或部落格文章）」
 		* Only consume quality contents that have stood the test of time.
 
-			> _[Hype erodes. Quality persists.](https://x.com/JamesClear/status/1956069352601477465)_
+			> [Hype erodes. Quality persists.](https://x.com/JamesClear/status/1956069352601477465)
 
 			* [The Lindy Library](The%20Lindy%20Effect.md)
 			* [Brain Attic](brain-attic.md)
 		* Read fewer forecasts and more history. Study history to predict the future.
 
-			> _“History never repeats itself. Man always does.” — Voltaire_
+			> “History never repeats itself. Man always does.” — Voltaire
 
-			> _“Learn enough from history to respect one another’s delusions.” — Will Durant_
+			> “Learn enough from history to respect one another’s delusions.” — Will Durant
 
-			> _“Reality will pay you back in equal proportion to your delusion.” — Will Smith_
+			> “Reality will pay you back in equal proportion to your delusion.” — Will Smith
 
 			* It’s all just history repeating itself (Historic Recurrence).
 			* Humans tend to repeat the mistakes humans make.

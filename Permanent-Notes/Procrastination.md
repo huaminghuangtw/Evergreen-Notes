@@ -1,7 +1,7 @@
 ---
 title: Procrastination
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T09:22:22
+modified: 2026-02-06T07:40:08
 ---
 
 > “To begin, begin.” — William Wordsworth
@@ -61,7 +61,7 @@ Inspiration is perishable. Act IMMEDIATELY at the moment of inspiration. Follow 
 * When you find yourself procrastinating, [don’t resist. Instead lean into it.](acceptance-and-commitment-therapy.md) Procrastinate 100%. Try to do absolutely nothing for 5 minutes. Make it your job. You’ll fail. After 5 minutes, you’ll be ready and eager to work.
 * If you tend to procrastinate, remind yourself, “I’m doing this for my future self” or “so my future self won’t have to.”
 
-	> _“The more you see yourself like a stranger, the more likely you are to give your future self the same workload that you would give a stranger, and the more likely you are to put things off to tomorrow—for your future self to do.” — [@baileyProductivityProjectAccomplishing2016]_
+	> “The more you see yourself like a stranger, the more likely you are to give your future self the same workload that you would give a stranger, and the more likely you are to put things off to tomorrow—for your future self to do.” — [@baileyProductivityProjectAccomplishing2016]
 
 * If you’re going to procrastinate, do something you enjoy.
 * **積極拖延 (Active/Positive/Productive/Structured Procrastination)**
@@ -73,7 +73,7 @@ Inspiration is perishable. Act IMMEDIATELY at the moment of inspiration. Follow 
 	2. You can’t do anything else other than X during this one focus session
 * **Skinner’s Law**
 
-	> _“Nature has placed mankind under the governance of two sovereign masters, pain and pleasure.” — Jeremy Bentham_
+	> “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure.” — Jeremy Bentham
 
 	* Human behavior is driven by the _pursuit of pleasure_ and the _avoidance of pain_.
 	* To get yourself to do something while procrastinating, you need to either:
