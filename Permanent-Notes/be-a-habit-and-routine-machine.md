@@ -1,7 +1,7 @@
 ---
 title: Be a habit and routine machine
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T09:17:27
+modified: 2026-02-05T09:25:34
 ---
 
 > “Outer order contributes to inner calm.” — Gretchen Rubin
@@ -62,7 +62,7 @@ More often than not (= usually)
 
 # Types of Habits
 
-## Keystone Habits*
+## Keystone Habits
 
 [@duhiggPowerHabitWhy2014]
 
