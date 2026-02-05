@@ -1,14 +1,14 @@
 ---
 title: What you work on is far more important than how productively you work
 created: 2025-02-04T06:34:16
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:22
 ---
 
 > “It is not enough that we do our best; sometimes we must do what is required/necessary.” — Winston Churchill
 
 > “If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster.” — Stephen R. Covey
 
-> _“What you do is more important than how you do everything else, and doing something unimportant well does not make it important.” — Tim Ferriss_ [^1]
+> “What you do is more important than how you do everything else, and doing something unimportant well does not make it important.” — Tim Ferriss [^1]
 
 > [“The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work.” — Paul Graham](https://paulgraham.com/selfindulgence.html)
 
@@ -40,7 +40,7 @@ modified: 2026-02-05T07:51:24
 
 # Efficiency v.s. Efficacy / Being Efficient vs. Being Effective
 
-> _“The difference between efficiency and effectiveness is the difference between knowledge and wisdom.” — Dr. Russell L. Ackoff_ [^2]
+> “The difference between efficiency and effectiveness is the difference between knowledge and wisdom.” — Dr. Russell L. Ackoff [^2]
 
 * Most people try to be fast, but forget to check if they are doing the right thing. Trying to be efficient without caring about effectiveness is the default mode of the universe.
 * 「效率 (Efficiency)」是把事情做好 (Doing things right)，而「效能 (Effectiveness/Efficacy)」則是做對的事情 (Doing the right things) [^3]

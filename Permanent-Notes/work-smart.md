@@ -1,7 +1,7 @@
 ---
 title: Work smart
 created: 2025-01-23T10:40:57
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:22
 ---
 
 > “You’re more likely to unlock a big leap in performance by trying differently than by trying harder. You might be able to work 10% harder, but a different approach might work 10x better. Remain focused on the core problem, but explore a new line of attack. Persistence is not just about effort, but also strategy. Don’t merely try harder, try differently.” — James Clear
@@ -12,7 +12,7 @@ modified: 2026-02-05T07:51:24
 
 _“The Lizard had the tree in mind when challenging the Dog to a fight.”_
 
-> _“You have to [work hard](https://jamesclear.com/3-2-1/december-26-2024) to discover how to [work smart](work-smart.md). You won’t know the best solutions until you’ve made nearly all the mistakes.” — James Clear_ [^1]
+> “You have to [work hard](https://jamesclear.com/3-2-1/december-26-2024) to discover how to [work smart](work-smart.md). You won’t know the best solutions until you’ve made nearly all the mistakes.” — James Clear [^1]
 
 Often, strategy outweighs sheer effort.
 

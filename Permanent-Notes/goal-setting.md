@@ -1,14 +1,14 @@
 ---
 title: Goal Setting
 created: 2025-01-23T10:40:57
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:23
 ---
 
 > “A goal is not always meant to be reached, it often serves simply as something to aim at.” — Bruce Lee
 
 > “Setting goals is the first step in turning the invisible into the visible.” — Tony Robbins
 
-> _“A goal is a dream with a deadline.” — Napoleon Hill_ [^1]
+> “A goal is a dream with a deadline.” — Napoleon Hill [^1]
 
 ---
 

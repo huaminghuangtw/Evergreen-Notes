@@ -1,10 +1,10 @@
 ---
 title: Storytelling
 created: 2024-11-18T09:18:12
-modified: 2025-12-28T18:44:10
+modified: 2026-02-05T09:22:23
 ---
 
-> _“Human thinking depends on metaphor. We understand new or complex things in relation to things we already know.” — Jonathan Haidt_ [^1]
+> “Human thinking depends on metaphor. We understand new or complex things in relation to things we already know.” — Jonathan Haidt [^1]
 
 ---
 

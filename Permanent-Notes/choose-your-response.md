@@ -1,20 +1,20 @@
 ---
 title: Choose your response
 created: 2025-01-23T10:40:57
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:22
 ---
 
 > “How we decide to respond to our fears, that is the person we become.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)
 
 > “It is the set of the sails, not the direction of the wind that determines which way we will go.” — Jim Rohn
 
-> _“Between (triggering) stimulus and (emotional) response there is a space (gap). In that space is our power to choose our response. In our response lies our growth and our freedom.” — Viktor E. Frankl_ [^1]
+> “Between (triggering) stimulus and (emotional) response there is a space (gap). In that space is our power to choose our response. In our response lies our growth and our freedom.” — Viktor E. Frankl [^1]
 
 > “When things go wrong, don’t go with them.” — Elvis Presley
 
 > “How people treat you is their [karma](life-is-cyclic.md); how you react is yours.” — Dr. Wayne Dyer
 
-> _“If we are all going to be destroyed by an atomic bomb, let that bomb when it comes find us doing sensible and human things-praying, working, teaching, reading, listening to music, bathing the children, playing tennis, chatting to our friends over a pint and a game of darts—not huddled together like frightened sheep and thinking about bombs. They may break our bodies (a microbe can do that) but they need not dominate our minds.” — C.S. Lewis_ [^2]
+> “If we are all going to be destroyed by an atomic bomb, let that bomb when it comes find us doing sensible and human things-praying, working, teaching, reading, listening to music, bathing the children, playing tennis, chatting to our friends over a pint and a game of darts—not huddled together like frightened sheep and thinking about bombs. They may break our bodies (a microbe can do that) but they need not dominate our minds.” — C.S. Lewis [^2]
 
 ---
 

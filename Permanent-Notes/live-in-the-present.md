@@ -1,7 +1,7 @@
 ---
 title: Live in the present
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:22
 ---
 
 > “Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why we call it the present” — Eleanor Roosevelt
@@ -10,7 +10,7 @@ modified: 2026-02-05T07:51:24
 
 > “Forget yesterday - it has already forgotten you. Don’t sweat tomorrow - you haven’t even met. Instead, open your eyes and your heart to a truly precious gift - today.” — Steve Maraboli
 
-> _“If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.” — Roy T. Bennett_ [^1]
+> “If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.” — Roy T. Bennett [^1]
 
 > [“I think and think and think, I‘ve thought myself out of happiness one million times, but never once into it.” — Jonathan Safran Foer](https://www.goodreads.com/quotes/12278-i-think-and-think-and-think-i-ve-thought-myself-out)
 

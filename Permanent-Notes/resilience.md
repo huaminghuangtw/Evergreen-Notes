@@ -1,7 +1,7 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:22
 ---
 
 > [“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)
@@ -14,7 +14,7 @@ modified: 2026-02-05T07:51:24
 
 > “Obstacles are things a person sees when he takes his eyes off his goal.” — E. Joseph Cossman
 
-> _“There can be no lotus flower without the mud.” — Thích Nhất Hạnh, No Mud, No Lotus_ [^1]
+> “There can be no lotus flower without the mud.” — Thích Nhất Hạnh, No Mud, No Lotus [^1]
 
 > [“Remember diamonds are created under pressure so hold on, it will be your time to shine soon.” — Sope Agbelusi](https://www.goodreads.com/quotes/7900485-remember-diamonds-are-created-under-pressure-so-hold-on-it)
 

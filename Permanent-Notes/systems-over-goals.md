@@ -1,10 +1,10 @@
 ---
 title: Systems over goals
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:22
 ---
 
-> _“You don’t rise to the level of your goals. You fall to the level of your systems. Your goal is your desired outcome. Your system is the collection of daily habits that will get you there.” — James Clear_ [^1]
+> “You don’t rise to the level of your goals. You fall to the level of your systems. Your goal is your desired outcome. Your system is the collection of daily habits that will get you there.” — James Clear [^1]
 
 > “A goal is not always meant to be reached, it often serves simply as something to aim at.” — Bruce Lee
 

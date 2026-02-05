@@ -1,7 +1,7 @@
 ---
 title: Journey over destination
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:23
 ---
 
 > “To travel is to be alive, but to get somewhere is to be dead.” — Alan Watts
@@ -80,7 +80,7 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 
 [@hesseSiddharthaIndischeDichtung2021]
 
-> _[“We are not going in circles, we are going upwards. The path is a spiral; we have already climbed many steps.” — Hermann Hesse, Siddhartha](https://www.instagram.com/mounika.studio/p/CmslMjcBEaI/)_ [^2]
+> [“We are not going in circles, we are going upwards. The path is a spiral; we have already climbed many steps.” — Hermann Hesse, Siddhartha](https://www.instagram.com/mounika.studio/p/CmslMjcBEaI/) [^2]
 
 * Trust the process \& Have faith in the process
 

@@ -1,7 +1,7 @@
 ---
 title: Negative Thoughts & Emotions
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:22
 ---
 
 > “You cannot prevent the birds of sorrow from flying over your head, but you can prevent them from building nests in your hair.” — Chinese Proverb
@@ -10,7 +10,7 @@ modified: 2026-02-05T07:51:24
 
 > “When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.” — Henry Ford
 
-> _“Kites rise highest against the wind - not with it.” — Winston Churchill_ [^1]
+> “Kites rise highest against the wind - not with it.” — Winston Churchill [^1]
 
 ---
 

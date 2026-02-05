@@ -1,14 +1,14 @@
 ---
 title: Minimalism
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:19
+modified: 2026-02-05T09:22:23
 ---
 
 [@collinsSimplePathWealth2016]
 
-> _“You own the things you own and they in turn own you.”_ [^1]
+> “You own the things you own and they in turn own you.” [^1]
 
-> _“Shape clay into a vessel; It is the space/emptiness within that makes it useful. Cut doors and windows for a room; It is the holes which make it useful. Therefore benefit comes from what is there; Usefulness from what is not there.” — Laozi_ [^2]
+> $1 $2
 
 ---
 

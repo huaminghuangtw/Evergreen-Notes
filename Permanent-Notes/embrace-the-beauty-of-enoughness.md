@@ -1,14 +1,14 @@
 ---
 title: Embrace the beauty of enoughness
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:22
 ---
 
-> _「真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。」 — 沈芯菱_ [^1]
+> 「真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。」 — 沈芯菱 [^1]
 
 > “Be thankful for what you have; you’ll end up having more. If you concentrate on what you don’t have, you will never, ever have enough.” — Oprah Winfrey
 
-> _“A Gold Medal is a wonderful thing. But if you are not enough without it, you will never be enough with it.” — Irv Blitzer (John Candy) from the movie [Cool Runnings](https://www.imdb.com/title/tt0106611/)_ [^2]
+> “A Gold Medal is a wonderful thing. But if you are not enough without it, you will never be enough with it.” — Irv Blitzer (John Candy) from the movie [Cool Runnings](https://www.imdb.com/title/tt0106611/) [^2]
 
 > “A full belly is of little worth where the mind is starved, and the heart.” — Mark Twain
 

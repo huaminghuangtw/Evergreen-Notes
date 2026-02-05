@@ -1,7 +1,7 @@
 ---
 title: Mastering yourself is superpower
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T09:22:23
 ---
 
 > “Knowing yourself is the beginning of all wisdom.” — Aristotle
@@ -26,7 +26,7 @@ modified: 2026-02-05T07:51:24
 
 > “A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.” — Andrew Carnegie
 
-> _“The degree to which a person can grow is directly proportional to the amount of truth he can accept about himself without running away.” — Leland Val Van De Wall_ [^1]
+> “The degree to which a person can grow is directly proportional to the amount of truth he can accept about himself without running away.” — Leland Val Van De Wall [^1]
 
 > “Until you make the unconscious conscious, it will direct your life and you will call it fate.” — Carl Jung
 
