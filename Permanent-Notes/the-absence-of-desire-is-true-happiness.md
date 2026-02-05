@@ -1,7 +1,7 @@
 ---
 title: The absence of desire is true happiness
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-05T10:49:20
 ---
 
 > 「有求皆苦，無求即樂」— 達摩祖師《二入四行觀》
@@ -53,6 +53,21 @@ Keep your mind aware and desire asleep.
 > “You can’t lose what you never had, you cant keep what’s not yours, and you can’t hold on to something that doesn’t want to stay.” — Damon Suede, [Bad Idea](https://www.goodreads.com/work/quotes/26163619)
 
 You only lose what you cling to.
+
+---
+
+# Low Expectations
+
+> “The first rule of a happy life is low expectations. If you have unrealistic expectations you’re going to be miserable your whole life.” — Charlie Munger
+
+It didn’t matter so much whether things were going well. It mattered whether they were going better than expected.
+
+## [Modified Model by Sahil Bloom](https://www.sahilbloom.com/newsletter/are-low-expectations-the-key-to-life)
+
+> The first rule of a happy life is low expectations for things outside your control and high expectations for things within it. If you have high expectations for the world and no expectations for yourself, you’re going to be miserable your whole life.
+
+* Low expectations for things outside your control.
+* High expectations for things within your control.
 
 ---
 
