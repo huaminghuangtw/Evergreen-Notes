@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2026-02-05T09:22:22
+modified: 2026-02-06T07:40:08
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
@@ -149,7 +149,7 @@ Go laugh in the places you have cried—[change the narrative.](be-careful-how-y
 	* Reactive Living → [Proactive Living](intentional-living.md)
 	* This is the essence of habit one in Stephen R. Covey’s renowned book [@covey7HabitsHighly2013]: **Be Proactive.** Everything starts there.
 
-		> _“But until a person can say deeply and honestly, “I am what I am today because of the choices I made yesterday,” that person cannot say, “I choose otherwise.” — Stephen R. Covey, The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change_
+		> “But until a person can say deeply and honestly, “I am what I am today because of the choices I made yesterday,” that person cannot say, “I choose otherwise.” — Stephen R. Covey, The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 
 * Decision → Experiment
 * Problem → Puzzle

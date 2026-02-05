@@ -1,7 +1,7 @@
 ---
 title: Leaders are readers
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-06T07:40:08
 ---
 
 > “Man is what he reads.” — Joseph Brodsky
@@ -26,9 +26,9 @@ modified: 2026-02-05T07:51:24
 * 「雜食」：It’s important to read unconventional books as well, not just New York Times Best Sellers.
 * 書中自有黃金屋
 
-	> _“There are so many people who have lived﻿ and died before you. You will never have a new problem; you’re not going to ever have a new problem. Somebody wrote the answer down in a book somewhere.” — Will Smith_
+	> “There are so many people who have lived﻿ and died before you. You will never have a new problem; you’re not going to ever have a new problem. Somebody wrote the answer down in a book somewhere.” — Will Smith
 
-	> _[“What really knocks me out is a book that, when you’re all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn’t happen much, though.” — J.D. Salinger, The Catcher in the Rye]([https://www.goodreads.com/quotes/5169-what-really-knocks-me-out-is-a-book-that-when](https://www.goodreads.com/quotes/5169-what-really-knocks-me-out-is-a-book-that-when))_
+	> [“What really knocks me out is a book that, when you’re all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn’t happen much, though.” — J.D. Salinger, The Catcher in the Rye]([https://www.goodreads.com/quotes/5169-what-really-knocks-me-out-is-a-book-that-when](https://www.goodreads.com/quotes/5169-what-really-knocks-me-out-is-a-book-that-when))
 
 	* Keep in mind that whenever you pick up a good book to read, you are taking an extensive journey into the mind of the author — You have immediate access to the greatest minds of the past and present, and can absorb decades of their toiling research and experience in just a matter of hours/days/weeks!
 	* The amount of value you can get from a book is astronomical. You’ve got years, if not decades, of someone’s research compiled down into something that will only take you a few hours to read.

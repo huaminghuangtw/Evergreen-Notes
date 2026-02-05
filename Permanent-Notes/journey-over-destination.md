@@ -1,7 +1,7 @@
 ---
 title: Journey over destination
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T09:22:23
+modified: 2026-02-06T07:40:08
 ---
 
 > “To travel is to be alive, but to get somewhere is to be dead.” — Alan Watts
@@ -84,7 +84,7 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 
 * Trust the process \& Have faith in the process
 
-	> _You were brought into the world to do the work your soul has long prepared for — trust that every step is part of that unfolding._
+	> You were brought into the world to do the work your soul has long prepared for — trust that every step is part of that unfolding.
 
 * Every step happens for a reason, and something even better is on the way.
 * Perceived Progress v.s Actual Progress

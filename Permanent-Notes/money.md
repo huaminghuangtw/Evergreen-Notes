@@ -1,7 +1,7 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2026-02-05T09:22:22
+modified: 2026-02-06T07:40:08
 ---
 
 > “Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence
@@ -33,7 +33,7 @@ Reasonable \> Rational
 	* ~~Money is the only type of wealth.~~ → Sahil Bloom’s _[The Five Types of Wealth](https://www.google.com/search?q=The+Five+Types+of+Wealth)￼_
 * Money is just a piece of paper.
 
-	> _“Think of money as information — it’s just for resource allocation across time and space” — Elon Musk_
+	> “Think of money as information — it’s just for resource allocation across time and space” — Elon Musk
 
 * Don’t think all poverty is due to laziness. Don’t think all wealth is through hard work.
 * Making money is an action. Keeping money is behavior/habit. Growing money is knowledge/skill.
@@ -77,16 +77,16 @@ Reasonable \> Rational
 	* 為了「幸福感」賺錢，不要為了「饋乏感」賺錢。
 * Use money to make more money for you. [^5]
 
-	> _“Rich men use most of their money to get richer. Poor men use most of their money to look richer.” — Mokokoma Mokhonoana_
+	> “Rich men use most of their money to get richer. Poor men use most of their money to look richer.” — Mokokoma Mokhonoana
 
 	[@collinsSimplePathWealth2016]
 
-	> _“Stop thinking about what your money can buy. Start thinking about what your money can earn. And then think about what the money it earns can earn.”_
+	> “Stop thinking about what your money can buy. Start thinking about what your money can earn. And then think about what the money it earns can earn.”
 
 	* The rich get richer. Money begets money.
 * Skills get you to a million, character/charisma takes you to 100 million, and time brings you to a billion.
 
-	> _“The reason you’re not making $10m a year is that you don’t know HOW to make $10m a year. Therefore, that lack of knowledge is costing you $10m a year.” — Alex Hormozi_
+	> “The reason you’re not making $10m a year is that you don’t know HOW to make $10m a year. Therefore, that lack of knowledge is costing you $10m a year.” — Alex Hormozi
 
 * The only way to make a lot of money is to create a lot of value. No value means no money. Money is a lagging indicator of value created, impact, and service. Don’t chase the dollars. Create the value and the money will chase you. [^6]
 * MONEY and TIME is a balancing act. Stop trading/renting time for money, so money can create more time for you.
@@ -117,9 +117,9 @@ Reasonable \> Rational
 
 	[@collinsSimplePathWealth2016]
 
-	> _“There are many things money can buy, but the most valuable of all is freedom. Freedom to do what you want and to work for whom you respect.”_
+	> “There are many things money can buy, but the most valuable of all is freedom. Freedom to do what you want and to work for whom you respect.”
 
-	> _[“What’s the point of having f\*ck you money if you never say f\*ck you?”](https://www.youtube.com/shorts/upfyoQdc_r4)_
+	> [“What’s the point of having f\*ck you money if you never say f\*ck you?”](https://www.youtube.com/shorts/upfyoQdc_r4)
 
 	* 金錢最大的價值是買回/留下「自由」，也就是「選擇權」。
 	* [Wealth](wealth-creation.md) is hidden. Wealth is the money you don’t spend. Wealth is the nice car you don’t buy. Wealth is the big house you don’t purchase. Wealth is the financial assets that haven’t yet been converted into the stuff you see. Wealth is an option not yet taken to buy something later.
@@ -137,7 +137,7 @@ Reasonable \> Rational
 	* [Your need for money is inversely related to your level of skill. Money buys convenience but more importantly, it compensates for lack of skill.](https://earlyretirementextreme.com/why-so-few-succeed.html)
 * [Money can buy happiness_, but in an indirect way._](https://huami.ng/morgan-housel-understand-and-apply-the-psychology-of-money-to-gain-greater-happiness) It’s not money itself that makes you happier. It’s the thing acquired by money that actually makes you happy.
 
-	> _“Those who say that money can’t buy happiness, never had any.” — Samuel L. Jackson_
+	> “Those who say that money can’t buy happiness, never had any.” — Samuel L. Jackson
 
 * Spending can be a representation of how hard you’ve worked and how much stress went into earning your pay check.
 * [“Nothing you will do in your lifetime, realistically, will waste more money than buying a new car. It’s the single worst financial decision millennials will ever make.”](https://www.reddit.com/r/Frugal/comments/9wfs73/selfmade_millionaire_buying_a_new_car_is_the/)
@@ -147,7 +147,7 @@ Reasonable \> Rational
 
 * The best uses of money are those that create one of four things in your life: **Time**, **Experiences**, **Purpose**, or **Health**.
 
-	> _[“I try to keep in mind that there are two ways to use money. One is as a tool to live a better life. The other is as a yardstick of success to measure yourself against other people. The first is quiet and personal, the second is loud and performative. It’s so obvious which leads to a happier life.” — Morgen Housel](https://collabfund.com/blog/quiet-compounding/)_
+	> [“I try to keep in mind that there are two ways to use money. One is as a tool to live a better life. The other is as a yardstick of success to measure yourself against other people. The first is quiet and personal, the second is loud and performative. It’s so obvious which leads to a happier life.” — Morgen Housel](https://collabfund.com/blog/quiet-compounding/)
 
 	* Don’t buy “dumb things” that offer “temporary happiness.” Spend smart on the things that bring you true, long-lasting happiness.
 	* Do not attempt to achieve status, respect, or admiration through material purchases.

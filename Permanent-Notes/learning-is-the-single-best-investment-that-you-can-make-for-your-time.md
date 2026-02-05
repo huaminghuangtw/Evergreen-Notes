@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2026-02-05T07:51:24
+modified: 2026-02-06T07:40:08
 ---
 
 > “Learning never exhausts the mind.” — Leonardo da Vinci
@@ -192,7 +192,7 @@ Always starting from the most basic and simplest level, then adding more complex
 * [刻意練習 (Deliberate Practice)](deliberate-practice.md)
 * 交錯練習 (Interleaving Practice / Interleaved Learning)
 
-	> _“I always work on different manuscripts at the same time. With this method, to work on different things simultaneously, I never encounter any blockages.” — Niklas Luhmann_
+	> “I always work on different manuscripts at the same time. With this method, to work on different things simultaneously, I never encounter any blockages.” — Niklas Luhmann
 	* Mixing up different, unrelated topics or types of problems during a single study session helps the brain to seek/make necessary connections
 	* See also: [The Zeigarnik Effect](the-zeigarnik-effect.md)
 * 主動回憶 (Active Recall)
