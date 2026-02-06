@@ -1,10 +1,10 @@
 ---
 title: Mentorship is dated, build a panel of advisors instead
 created: 2025-01-23T10:40:57
-modified: 2025-12-14T08:54:56
+modified: 2026-02-06T10:43:18
 ---
 
-![](../_attachments/1abb6f103b7cbb0ab268cd7901aa80bb.jpg)
+![](_attachments/1abb6f103b7cbb0ab268cd7901aa80bb.jpg)
 
 # Braintrust (Personal Advisory Board Of Mentors)
 
