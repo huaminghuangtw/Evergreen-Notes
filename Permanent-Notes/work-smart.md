@@ -1,14 +1,14 @@
 ---
 title: Work smart
 created: 2025-01-23T10:40:57
-modified: 2026-02-05T09:22:22
+modified: 2026-02-06T10:43:20
 ---
 
 > “You’re more likely to unlock a big leap in performance by trying differently than by trying harder. You might be able to work 10% harder, but a different approach might work 10x better. Remain focused on the core problem, but explore a new line of attack. Persistence is not just about effort, but also strategy. Don’t merely try harder, try differently.” — James Clear
 
 ---
 
-![](../_attachments/9a3eae8dea307d8ae1c2f4adbde3bef9.png)
+![](_attachments/9a3eae8dea307d8ae1c2f4adbde3bef9.png)
 
 _“The Lizard had the tree in mind when challenging the Dog to a fight.”_
 
