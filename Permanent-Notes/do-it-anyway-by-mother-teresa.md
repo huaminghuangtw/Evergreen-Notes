@@ -1,7 +1,7 @@
 ---
 title: Do It Anyway by Mother Teresa
 created: 2025-11-04T20:33:11
-modified: 2025-11-07T19:39:59
+modified: 2026-02-06T10:43:20
 ---
 
 People are often unreasonable, illogical, and self-centered. **Forgive them anyway.**
@@ -22,4 +22,4 @@ Give the world the best you have, and it may never be enough. **Give the best yo
 
 You see, **in the final analysis it is between you and God; it was never between you and them anyway.**
 
-![](../_attachments/d86e9204d02448bdfc7b575dae17d40f.png)
+![](_attachments/d86e9204d02448bdfc7b575dae17d40f.png)
