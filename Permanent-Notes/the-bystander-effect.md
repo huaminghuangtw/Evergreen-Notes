@@ -1,7 +1,7 @@
 ---
 title: The Bystander Effect
 created: 2025-01-23T10:40:57
-modified: 2026-01-25T16:14:18
+modified: 2026-02-06T10:43:20
 ---
 
 = Bystander Apathy
@@ -25,4 +25,4 @@ Poem: _Everybody Somebody Anybody and Nobody_
 >
 > — Charles R. Swindoll
 
-![](../_attachments/d7ac4881fd9e0c526eb0d3a8eacc0a69.png)
+![](_attachments/d7ac4881fd9e0c526eb0d3a8eacc0a69.png)
