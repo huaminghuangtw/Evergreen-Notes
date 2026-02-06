@@ -1,7 +1,7 @@
 ---
 title: The Cost of Interrupted Work
 created: 2025-11-17T14:00:18
-modified: 2026-02-05T07:51:24
+modified: 2026-02-06T10:43:20
 ---
 
 > [“Productivity depends on being able to juggle a lot of little details in short term memory all at once. Any kind of interruption can cause these details to come crashing down. When you resume work, you can’t remember any of the details (like local variable names you were using, or where you were up to in implementing that search algorithm) and you have to keep looking these things up, which slows you down a lot until you get back up to speed.” — Joel Spolsky](https://www.joelonsoftware.com/2000/04/19/where-do-these-people-get-their-unoriginal-ideas/)
@@ -16,9 +16,9 @@ modified: 2026-02-05T07:51:24
 | :-: |
 | <sub>[Source](https://x.com/FerraroRoberto/status/1628991179575504896)</sub> |
 
-![](../_attachments/d0c80df590f2aca5835478eeff947ff1.png)
+![](_attachments/d0c80df590f2aca5835478eeff947ff1.png)
 
-![](../_attachments/f1c590ea6270da0b5c903f9809e4da19.png)
+![](_attachments/f1c590ea6270da0b5c903f9809e4da19.png)
 
 ---
 
