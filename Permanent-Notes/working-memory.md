@@ -1,7 +1,7 @@
 ---
 title: Working Memory
 created: 2025-01-23T18:40:57
-modified: 2026-01-06T15:24:12
+modified: 2026-02-06T10:43:20
 ---
 
 Working memory is one’s ability to keep specific information for immediate use, like a little sticky note in the brain.
@@ -10,7 +10,7 @@ Working memory is one’s ability to keep specific information for immediate use
 
 Working memory is a special category of memory differing from long-term and short-term memory. Unlike long-term memory, which stores information for future recall, working memory _intentionally discards information once it’s no longer needed_.
 
-![](../_attachments/e4be6cf80d23557245ee04f643bba5f1.png)
+![](_attachments/e4be6cf80d23557245ee04f643bba5f1.png)
 
 | Memory Type           | Analogy                    | Characteristics                                                                                                              |
 | --------------------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
