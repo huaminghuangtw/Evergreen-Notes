@@ -1,7 +1,7 @@
 ---
 title: Deliberate Practice
 created: 2025-01-23T10:40:57
-modified: 2026-02-05T09:22:22
+modified: 2026-02-06T10:43:20
 ---
 
 > “Practice does not make perfect. Perfect practice makes perfect.” — Vince Lombardi [^1]
@@ -62,7 +62,7 @@ Similar to the concept of Progressive Overload in Strength Training — “Reps,
 **Zone of Proximal Development (ZPD)**
 * developed by psychologist Lev Vygotsky
 * is the range where the learner is able to perform, but only with support from a teacher or a peer with more knowledge or expertise (a “more knowledgeable other”)
-![](../_attachments/42440623020bda3397d4c177a788d70a.png)
+![](_attachments/42440623020bda3397d4c177a788d70a.png)
 
 [^1]: A legendary American football coach
 [^2]: The phrase “on the edge of their ability” refers to someone operating at the boundary of their current skills, knowledge, or capacity/competence. It describes a sweet spot where a person is challenged to the fullest extent of what they are capable of achieving, often fostering growth and improvement through effort and practice.
