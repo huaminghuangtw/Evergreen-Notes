@@ -1,7 +1,7 @@
 ---
 title: Frameworks to structure your day
 created: 2025-01-23T18:40:57
-modified: 2026-02-06T07:40:08
+modified: 2026-02-06T10:43:20
 ---
 
 > [Live life by design, not default.](https://fs.blog/david-foster-wallace-this-is-water/) Make each day your masterpiece. How you spend your days is how you spend your life.
@@ -28,7 +28,7 @@ modified: 2026-02-06T07:40:08
 	* [The Power Half-Hour](the-power-half-hour.md)
 		* Breaking your day into “_snackable_” 30-minute chunks/bites
 	* Try thinking about your time in a day in terms of _Kairos_, not _Chronos_.
-		![](../_attachments/b1c977f4afcd7fdc61cd94ab1bd35745.png)
+		![](_attachments/b1c977f4afcd7fdc61cd94ab1bd35745.png)
 		* **Chronos** = sequential, quantitative time
 			* Chronos belongs in the realm of clocks. Chronos marks linear time or duration. Chronos is years, months, days, hours.
 		* **Kairos** = fluctuating, qualitative time
