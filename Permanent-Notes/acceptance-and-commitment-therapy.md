@@ -1,7 +1,7 @@
 ---
 title: Acceptance and Commitment Therapy
 created: 2025-01-23T18:40:57
-modified: 2026-02-05T07:51:24
+modified: 2026-02-06T10:43:18
 ---
 
 > “Emotion arises at the place where mind & body meet. It is the body’s reaction to mind.” — Eckhart Tolle
@@ -10,9 +10,9 @@ modified: 2026-02-05T07:51:24
 
 ---
 
-![](../_attachments/ac5f1418b2d07a0b6be7fe26aa168d0a.jpg)
+![](_attachments/ac5f1418b2d07a0b6be7fe26aa168d0a.jpg)
 
-| ![](../_attachments/ffe0655b0c04e86559c597a895309bcb.png) |
+| ![](_attachments/ffe0655b0c04e86559c597a895309bcb.png) |
 | :---: |
 | <sub> [體現認知 (Embodied Cognition)](https://www.google.com/search?q=Embodied+Cognition) — 我們的身體狀態與心智狀態密切相關，彼此相互影響 ([Source](https://integralsomaticpsychology.com/science-embodied-cognition-and-enactive-emotion-implications-for-improving-outcomes-in-all-therapies/))</sub> |
 
