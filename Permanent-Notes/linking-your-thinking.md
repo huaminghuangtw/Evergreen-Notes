@@ -1,7 +1,7 @@
 ---
 title: Linking Your Thinking
 created: 2025-01-23T18:40:57
-modified: 2026-02-05T07:51:24
+modified: 2026-02-06T10:43:19
 ---
 
 > “Neurons that fire together wire together” — Hebb’s Rule
@@ -46,13 +46,13 @@ A phenomenon whereby information is better remembered if it is generated from on
 * The 3 Powers of Triangulation
 	* You can use what you know to make sense of stuff.
 		* Use two known points, to better understand a third point.
-			![](../_attachments/7d1deedf96f9e1308ebcddb33221d6c3.png)
+			![](_attachments/7d1deedf96f9e1308ebcddb33221d6c3.png)
 	* You can use what you know to remember old stuff.
 		* Use two known points, to remember a forgotten third point.
-			![](../_attachments/11ce048aded84135c7dfe14fa160f9db.png)
+			![](_attachments/11ce048aded84135c7dfe14fa160f9db.png)
 	* You can use what you know to create new stuff.
 		* Use two known points to imagine a third point.
-			![](../_attachments/f1c3d7c342c725ec9ef725645ceb5bf9.png)
+			![](_attachments/f1c3d7c342c725ec9ef725645ceb5bf9.png)
 
 ---
 
