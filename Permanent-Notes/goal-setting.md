@@ -1,7 +1,7 @@
 ---
 title: Goal Setting
 created: 2025-01-23T10:40:57
-modified: 2026-02-05T09:22:23
+modified: 2026-02-06T10:43:19
 ---
 
 > “A goal is not always meant to be reached, it often serves simply as something to aim at.” — Bruce Lee
@@ -80,11 +80,11 @@ aka [The Open Window 64 Chart = OW64](https://www.goalpillars.com/) ([曼陀羅�
 
 「曼陀羅（Mandala）」一詞源自梵文 मण्डल，意為 「圓」、「圓環」、「神聖的中心」。它是一種古老的宇宙象徵圖譜，廣泛存在於印度教、佛教、藏傳佛教、道教、基督教、原住民文化等多種傳統之中。
 
-![](../_attachments/8f3ec786ad68fd8e0f54a13688ff8be9.JPG)
+![](_attachments/8f3ec786ad68fd8e0f54a13688ff8be9.jpg)
 
-![](../_attachments/6f4c2aa5fa18b1a5d243d85423c9ebd6.png)
+![](_attachments/6f4c2aa5fa18b1a5d243d85423c9ebd6.png)
 
-![](../_attachments/986f32407054d1d07ad29fa02571d9b2.png)
+![](_attachments/986f32407054d1d07ad29fa02571d9b2.png)
 
 1. Choose one clear, meaningful long-term goal and a deadline.
 2. Break that main goal into 8 subgoals that cover different areas needed to achieve it.
@@ -120,9 +120,9 @@ Rather than shutting areas down completely, you adjust them like “dials”. At
 
 The key in life is to find the balance, and balance isn’t about perfection. Pour your energy into all spokes (areas) of your life wheel_, even if only a little._ Neglecting one for too long might give you a bumpy ride, but giving them all some love will help you to cruise smoothly toward your goals. This dynamic approach helps you maintain harmony, where all areas of your life work together.
 
-![](../_attachments/f3a9f4c4007bda7d81cc2c54610a0513.png)
+![](_attachments/f3a9f4c4007bda7d81cc2c54610a0513.png)
 
-![](../_attachments/57790b385fc436204b85b8237f88d827.png)
+![](_attachments/57790b385fc436204b85b8237f88d827.png)
 
 ---
 
