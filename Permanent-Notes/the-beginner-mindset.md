@@ -1,7 +1,7 @@
 ---
 title: The Beginner Mindset
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-06T10:43:20
 ---
 
 > “It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” — Mark Twain
@@ -38,7 +38,7 @@ It’s perfectly reasonable.
 
 # [The Rumsfeld Matrix](https://www.google.com/search?q=The+Rumsfeld+Matrix) [^1] — [Unknown Unknowns](https://sketchplanations.com/unknown-unknowns)
 
-![](../_attachments/e300bc82a87ca2a8f84e93eda4f15178.png)
+![](_attachments/e300bc82a87ca2a8f84e93eda4f15178.png)
 
 我們所不知道的事情，遠遠超過我們所知道的事情。所以，永遠都要預設自己一無所知。
 
