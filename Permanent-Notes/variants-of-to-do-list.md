@@ -1,17 +1,17 @@
 ---
 title: Variants of to-do list
 created: 2025-01-23T10:40:57
-modified: 2026-02-05T07:51:24
+modified: 2026-02-06T10:43:18
 ---
 
 **Could-Do List → Should-Do List → Must-Do list
-![](../_attachments/03b72c8602f12f209e5c9cd6acef74f7.png)**
+![](_attachments/03b72c8602f12f209e5c9cd6acef74f7.png)**
 
 ---
 
 # To-Do List → To-Start List
 
-![](../_attachments/031b6000cd744ccd49e3953b8f90de97.png)
+![](_attachments/031b6000cd744ccd49e3953b8f90de97.png)
 
 * Write the newsletter → Write the first sentence of the newsletter
 * Go for a run → Put on running shoes
