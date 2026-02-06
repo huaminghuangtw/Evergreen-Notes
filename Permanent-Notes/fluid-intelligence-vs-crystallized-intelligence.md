@@ -1,10 +1,10 @@
 ---
 title: Fluid Intelligence & Crystallized Intelligence
 created: 2025-01-27T14:52:44
-modified: 2025-11-02T05:46:33
+modified: 2026-02-06T10:43:20
 ---
 
-![](../_attachments/91220db8072cb9879c79d2a95812fbfe.jpg)
+![](_attachments/91220db8072cb9879c79d2a95812fbfe.jpg)
 
 * The theory of Fluid vs. Crystallized Intelligence was developed by psychologist Raymond Cattell in the 1970s. [@brooksStrengthStrengthFinding2022]
 * 年輕時依賴流體智力，隨著年齡增長逐漸發揮晶體智力。
