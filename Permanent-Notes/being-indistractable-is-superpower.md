@@ -1,7 +1,7 @@
 ---
 title: Being indistractable is superpower
 created: 2025-01-23T18:40:57
-modified: 2026-01-05T17:15:47
+modified: 2026-02-06T10:43:20
 ---
 
 Being indistractable is about doing what you say you’re going to do.
@@ -20,7 +20,7 @@ Depression is often the result of trying to change what we can’t and dwelling 
 
 The opposite of distraction is not _[focus (專注力/聚焦力)](focus-is-about-saying-no.md)_, but _traction_. The difference between traction and distraction is “intent”. Don’t confuse distraction with diversion. [^1]
 
-![](../_attachments/eb635082fa4a9821a9dc886b5219d2f7.jpeg)
+![](_attachments/eb635082fa4a9821a9dc886b5219d2f7.jpeg)
 
 ---
 
