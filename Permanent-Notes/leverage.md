@@ -1,7 +1,7 @@
 ---
 title: Leverage
 created: 2025-01-23T10:40:57
-modified: 2026-02-05T07:51:24
+modified: 2026-02-06T10:43:20
 ---
 
 > “Give me a place to stand, and a lever long enough, and I will move the world.” — Archimedes
@@ -55,7 +55,7 @@ Focus on better use of your best weapons instead of constant repair.
 
 Example: Any [system](systems-thinking.md)
 
-![](../_attachments/892a43eb93bd11e6921b8c2e3e2301b8.png)
+![](_attachments/892a43eb93bd11e6921b8c2e3e2301b8.png)
 
 [Theory of Constraints](theory-of-constraints.md)
 
