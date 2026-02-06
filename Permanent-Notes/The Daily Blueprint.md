@@ -1,44 +1,40 @@
 ---
 title: The Daily Blueprint
 created: 2024-11-18T09:16:50
-modified: 2026-01-25T16:14:19
+modified: 2026-02-06T09:17:49
 ---
 
-<mark>My Daily Habits/Routines/Rituals</mark>
+# 起床儀式（Early Morning Routine）
 
-> What do you do before enlightenment? _Chop wood, carry water_. What do you do after enlightenment? _Chop wood, carry water_.
+* Thought-dumping \& Brainstorming ideas with Paper and Pen (紙筆⾃由書寫)
+	* 醒來後睜開眼，不馬上起身，繼續躺在床上，深呼吸，準備迎接醞釀一整晚的淺意識，這時，我會用紙筆開始寫下：
+		* 就寢和起床時間
+		* 任何靈感
+		* 一整天的行程（尤其是最重要的任務）（Visualize/Plan the Day）
+	* 這個過程花費約 15–20 分鐘，我會確認所有浮現於腦中的想法都騰寫在紙上後，才會離開床鋪
+* 帶著空空的腦袋去刷牙、洗臉
+* 喝一大杯常溫水，約 500 毫升（Take an inner shower）
+* 按下熱水壺，利用等待燒水的時間，在瑜珈墊上拉筋 Full-body Stretch
+* Open the curtains and window to get fresh air and sunlight
+* 帶著熱水去書桌前
+* Meditation
+	* 若天已亮：出去散步
+	* 若天未亮：坐在書桌
 
-# 🟨 Early Morning Routine
+# Midday Routine
 
-* 📊 Write Down Wakeup Time \& Measure Resting Heart Rate \& Weigh Myself
-* 🛏 Morning Glory: Make Your Bed
-* 🚰 Drink a tall glass of water (500 ml) → Take an inner shower
-* 🪟☀️ Open the curtains and window to get fresh air and sunlight
-* 🪞✋🏼 **The High-Five Habit:** Begin each morning with a smile and a high-five to yourself in the mirror [^1] [^2]
-* 🤸 Daily Flexibility/Mobility Work: Full-body Stretch (Top-down) + Dead Hang
-* 💪 RTO (Rings Turned Out) Push-ups (15 reps)
-
-	¹ meaning your palms are facing forward
-
-* 🍵 Brew a cup of tea and let it sit for 3-5 minutes
-* ✍ Thought-dumping \& Brainstorming ideas with Paper and Pen (紙筆⾃由書寫)
-* 🧘🚶 (Walking) Meditation \& Breathwork + Visualize/Plan the Day (Take Stock of the Day) for Groundedness
-* 🍹 Morning Cocktail (AG1 + LMNT Electrolytes)
 * 🚿 Cold Shower/Plunge
-
-# 🟨 Midday Routine
-
-* 🚶‍♂️ Post-Lunch Walk
+* 🚶‍♂️ Post-Lunch Walk 15 min
 * 😴 NSDR (Non-Sleep Deep Rest)
 
-# 🟨 Shutdown Routine
+# Work Shutdown Ritual
 
 * 💻 Tidy up digital workspace
 * 🔴 Power off laptop
 * 🍀 Close laptop lid
 * 🧹 Clean up desk
 
-# 🟨 Evening Unwind Routine
+# Evening Unwind Routine
 
 * 🌜 Dim the overhead artificial light → Use red light
 * 🎹 Listen to Classical Piano Music
@@ -51,7 +47,7 @@ modified: 2026-01-25T16:14:19
 * 📚 Read (Kindle or Physical Books)
 * 😌 Relax on an exercise mat
 
-# 🟨 Sleep/Bedtime Routine
+# Sleep/Bedtime Routine
 
 * 🙃 Invert Off The Bed
 * 🥽 Wear A Sleep Mask
@@ -61,5 +57,8 @@ modified: 2026-01-25T16:14:19
 * 🫁 The 4-7-8 Breathing Technique
 * 🧠 Subconscious Mind Exercise — upon closing your eyes, give your mind an overnight task and don’t try to solve it then, e.g., “How might I make an extra $1k each month?”, and brainstorm on this question first thing in the morning before any input.
 
-[^1]: **The Maui Habit:** Kickstart your day with an uplifting statement like, “_Today is going to be a great day._” This small shift can transform your mindset and perspective!
-[^2]: Or: [“Accountability Mirror (問責鏡子)” by David Goggins](https://www.google.com/search?q=accountability+mirror+david+goggins)
+---
+
+See also: [Be a habit and routine machine](be-a-habit-and-routine-machine.md)
+
+
