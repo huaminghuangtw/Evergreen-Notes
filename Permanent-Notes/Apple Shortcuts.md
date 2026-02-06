@@ -1,7 +1,7 @@
 ---
 title: Apple Shortcuts
 created: 2024-11-18T10:16:50
-modified: 2026-02-02T08:22:16
+modified: 2026-02-06T10:43:20
 ---
 
 [比較]
@@ -78,10 +78,10 @@ Actions
 
 **“Get Weather Forecast” (↔ “Get Current Weather”)**
 * **Hourly:** Retrieves results for the next 24 hours in a list of 25 items—the first represents the current conditions, followed by the forecasts for the next 24 hours.
-	![](../_attachments/2118d91a37cb7dc5a696bd6b15147dce.png)
+	![](_attachments/2118d91a37cb7dc5a696bd6b15147dce.png)
 
 * **Daily:** Retrieves results for the next 10 days in a list of 10 items.
-	![](../_attachments/fe643d04ef2efb1bd50d7426f62665b8.png)
+	![](_attachments/fe643d04ef2efb1bd50d7426f62665b8.png)
 
 ---
 
