@@ -1,7 +1,7 @@
 ---
 title: Life is shorter than you think
 created: 2025-01-23T10:40:57
-modified: 2026-02-05T07:51:24
+modified: 2026-02-06T10:43:20
 ---
 
 > “No matter how many times you do something, there will come a day when you do it for the last time.” — Sam Harris
@@ -16,7 +16,7 @@ modified: 2026-02-05T07:51:24
 
 ---
 
-![](../_attachments/431a9ae5fbeca277ab567c5839bb28eb.png)
+![](_attachments/431a9ae5fbeca277ab567c5839bb28eb.png)
 
 ---
 
