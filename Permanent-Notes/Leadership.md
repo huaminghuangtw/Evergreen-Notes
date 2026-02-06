@@ -1,7 +1,7 @@
 ---
 title: Leadership
 created: 2025-01-23T10:40:57
-modified: 2026-02-05T09:22:22
+modified: 2026-02-06T10:43:19
 ---
 
 > “To lead people, walk beside them.” — Lao Tzu
@@ -55,7 +55,7 @@ When you find yourself in a situation where everyone looks at each other, it’s
 # 幹活/工作 v.s 使命/夢想 の 寓言故事
 
 * 砌磚工人 ([The Three Bricklayers Story](https://sketchplanations.com/the-three-bricklayers))
-	![](../_attachments/5cf0f716caabb0cc924e875773c27193.jpg)
+	![](_attachments/5cf0f716caabb0cc924e875773c27193.jpg)
 * 造船工人
 	* If you want to build a ship, don’t drum up the men to gather wood, divide the work and give orders. Instead, teach/inspire them to yearn for the vast and endless sea. Audacious ideas motivate people.
 	* You should not build something just for the sake of building. You should build something because it will help you to fulfill a dream, in this case, going to sea.
