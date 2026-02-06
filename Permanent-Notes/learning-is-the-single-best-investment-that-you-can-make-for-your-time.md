@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2026-02-06T07:40:08
+modified: 2026-02-06T10:43:19
 ---
 
 > “Learning never exhausts the mind.” — Leonardo da Vinci
@@ -83,7 +83,7 @@ _[Ultralearning](https://www.scotthyoung.com/blog/ultralearning/)_ by Scott Youn
 
 # [Four Stages of Competence](https://sketchplanations.com/stages-of-competence-framework)
 
-![](../_attachments/6703e4a54443e5507718458802383a45.png)
+![](_attachments/6703e4a54443e5507718458802383a45.png)
 
 ---
 
@@ -209,8 +209,8 @@ Always starting from the most basic and simplest level, then adding more complex
 	* Putting information into your brain = good for learning
 	* Retrieving information from your brain = better for learning
 * 間隔重複 (Spaced Repetition) = The Leitner System
-	![5ad8890a032c025bbc7a8da6c0099b98](../_attachments/5ad8890a032c025bbc7a8da6c0099b98.png)
-	![b9d7275799468ded22af60b66e32db7f](../_attachments/b9d7275799468ded22af60b66e32db7f.png)
+	![5ad8890a032c025bbc7a8da6c0099b98](_attachments/5ad8890a032c025bbc7a8da6c0099b98.png)
+	![b9d7275799468ded22af60b66e32db7f](_attachments/b9d7275799468ded22af60b66e32db7f.png)
 	* Space out your learning
 		* Spending 30 minutes a day, five days a week, is far more effective than cramming 2.5 hours into just one day, once a week.
 		* Same hours; different outcomes.
