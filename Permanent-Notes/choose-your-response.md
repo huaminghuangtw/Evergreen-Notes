@@ -1,7 +1,7 @@
 ---
 title: Choose your response
 created: 2025-01-23T10:40:57
-modified: 2026-02-05T09:22:22
+modified: 2026-02-06T10:43:18
 ---
 
 > “How we decide to respond to our fears, that is the person we become.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)
@@ -18,11 +18,11 @@ modified: 2026-02-05T09:22:22
 
 ---
 
-![](../_attachments/33fabea8972383bcb4bbeea50437f690.png)
+![](_attachments/33fabea8972383bcb4bbeea50437f690.png)
 
 ---
 
-![](../_attachments/2b3a6c702b5b01cf12507cc029630bf3.jpg)
+![](_attachments/2b3a6c702b5b01cf12507cc029630bf3.jpg)
 
 ---
 
