@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2026-02-06T07:40:08
+modified: 2026-02-06T10:43:20
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
@@ -60,7 +60,7 @@ modified: 2026-02-06T07:40:08
 
 ---
 
-![](../_attachments/ac5f1418b2d07a0b6be7fe26aa168d0a.jpg)
+![](_attachments/ac5f1418b2d07a0b6be7fe26aa168d0a.jpg)
 
 ---
 
