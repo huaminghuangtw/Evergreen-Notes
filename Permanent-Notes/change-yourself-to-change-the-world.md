@@ -1,7 +1,7 @@
 ---
 title: Change yourself to change the world
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T09:22:22
+modified: 2026-02-06T10:43:20
 ---
 
 > “Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi
@@ -95,7 +95,7 @@ Your house is a metaphor for YOU. Unless you are perfect, 99% of the time the so
 
 # You Should Spend More Time In Your _Circle Of Influence_ And Less Time In Your _Circle Of Concern_.
 
-![](../_attachments/399f5eabbf33dfe8f8505b21847b81d5.png)
+![](_attachments/399f5eabbf33dfe8f8505b21847b81d5.png)
 
 * Based on these two circles, **reactive** people will think more about the **circle of concern** while **proactive** people focus more on the **circle of influence**.
 * Your Circle of Concern (關注圈) is all the things you worry about and that influence you but that you have no control over: Federal Government, climate change, etc.
