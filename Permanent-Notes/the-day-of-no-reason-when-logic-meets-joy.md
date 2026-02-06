@@ -1,7 +1,7 @@
 ---
 title: "The Day of No Reason: When Logic Meets Joy"
 created: 2025-12-15T15:32:39
-modified: 2026-02-05T07:51:24
+modified: 2026-02-06T10:43:20
 ---
 
 > “Don’t underestimate the value of doing nothing, of just going along, listening to all the things you can’t hear, and not bothering.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)
@@ -12,7 +12,7 @@ modified: 2026-02-05T07:51:24
 
 ---
 
-![](../_attachments/c9257a85882e36fd0382be51f7500a5f.png)
+![](_attachments/c9257a85882e36fd0382be51f7500a5f.png)
 
 #TODO Link to Newsletter #12 section
 
