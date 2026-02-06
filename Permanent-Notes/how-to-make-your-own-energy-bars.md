@@ -1,7 +1,7 @@
 ---
 title: How to Make Your Own Energy Bars
 created: 2025-05-03T05:29:44
-modified: 2025-12-28T18:44:10
+modified: 2026-02-06T10:43:20
 ---
 
 ≈ Energy/Power Balls
@@ -54,9 +54,9 @@ modified: 2025-12-28T18:44:10
 
 # Date Brownies
 
-![](../_attachments/b74743c04a34ffa65622ade1865f09ce.png)
+![](_attachments/b74743c04a34ffa65622ade1865f09ce.png)
 
-![](../_attachments/eb87e876c73bda14d6d8c861492820fd.png)
+![](_attachments/eb87e876c73bda14d6d8c861492820fd.png)
 
 ## Ingredients
 
