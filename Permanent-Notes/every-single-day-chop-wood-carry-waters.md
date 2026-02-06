@@ -1,7 +1,7 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-06T10:43:20
 ---
 
 > [“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)
@@ -28,7 +28,7 @@ modified: 2026-02-05T07:51:24
 
 ---
 
-| ![](../_attachments/7250564ec2d06c4dedc8ef32672fbc90.jpg) |
+| ![](_attachments/7250564ec2d06c4dedc8ef32672fbc90.jpg) |
 | :-: |
 | <sub>Source: _The Psychology of Money_ by Morgan Housel</sub> |
 
@@ -156,7 +156,7 @@ EVERYDAY is easier than SOMEDAY. [^3] Embrace the daily mundane activities / ord
 * It’s easier to _keep up_ than to _catch up_.
 * It’s easier to stay _motivated_ when you have _momentums_.
 
-![](../_attachments/ae4c5ced67ee74bc5197f513c2d957f4.png)
+![](_attachments/ae4c5ced67ee74bc5197f513c2d957f4.png)
 
 ---
 
