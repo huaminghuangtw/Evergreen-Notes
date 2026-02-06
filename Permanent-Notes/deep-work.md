@@ -1,7 +1,7 @@
 ---
 title: Deep Work
 created: 2025-01-23T10:40:57
-modified: 2026-02-05T07:51:24
+modified: 2026-02-06T10:43:20
 ---
 
 > “If a large diamond is cut up into pieces, it immediately loses its value as a whole; or if an army is scattered or divided into small bodies, it loses all its power; and in the same way a great intellect has no more power than an ordinary one as soon as it is interrupted, disturbed, distracted, or diverted.” — Arthur Schopenhauer
@@ -20,7 +20,7 @@ Deep work generates deeper satisfaction (aka., “passion”) for your work.
 
 # The Four Philosophies of Deep Work
 
-![](../_attachments/4005729945b276f74416de474597d5e9.png)
+![](_attachments/4005729945b276f74416de474597d5e9.png)
 
 ---
 
