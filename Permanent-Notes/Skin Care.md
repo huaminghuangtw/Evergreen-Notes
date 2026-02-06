@@ -1,7 +1,7 @@
 ---
 title: Skin Care
 created: 2025-01-23T10:40:57
-modified: 2026-01-21T14:36:21
+modified: 2026-02-06T10:43:19
 ---
 
 # 如何擁有「水煮蛋肌」?
@@ -15,9 +15,9 @@ modified: 2026-01-21T14:36:21
 * 臉部黃金酸鹼值 (pH 值) = 5.5
 	* 所以絕對不能用鹼性的「肥皂」洗臉，會造成「過度清潔」而破壞皮脂膜
 * 「粉刺」和「痘痘」都是從「皮脂腺分泌的皮層油脂堵塞毛囊」發展而來的
-	![](../_attachments/c503fbb6fec7183237fdcd3fa0a13a64.png)
+	![](_attachments/c503fbb6fec7183237fdcd3fa0a13a64.png)
 * 關於「閉鎖性 (內包) 粉刺」
-	 ![](../_attachments/f1d0af257ff4b79917fccae6c86b3f37.png)
+	 ![](_attachments/f1d0af257ff4b79917fccae6c86b3f37.png)
 	 * 因為它沒有開口，必須比平常更用力才能擠出來，這時通常已經擠到「發炎」了，後續還有可能因為細菌「感染」而轉變成痘痘，進而形成痘疤，非常得不償失!
 	* 清除關鍵：「**去除表面的角質堆積**」
 		 * 當毛孔有了開口後，粉刺就有自體/動浮出來的機會 (粉刺是一種代謝廢物，身體也不會再把它們吸收回去)
@@ -81,7 +81,7 @@ modified: 2026-01-21T14:36:21
 * Apply the cream into your skin using _small_, _upward_, _circular_ motions
 	* Never drag _downward_ on your skin!
 	* Why? As you age, gravity pulls your skin downward, causing sagging and wrinkles
-		![](../_attachments/6b7dced24dcd98dfa34670b2181fe361.png)
+		![](_attachments/6b7dced24dcd98dfa34670b2181fe361.png)
 
 # No-goes (NG 動作)
 
