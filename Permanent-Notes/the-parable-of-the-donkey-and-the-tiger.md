@@ -1,10 +1,10 @@
 ---
 title: The Parable of the Donkey and the Tiger
 created: 2025-12-16T09:32:37
-modified: 2025-12-17T19:07:30
+modified: 2026-02-06T10:43:20
 ---
 
-![](../_attachments/fcc1929f8c6044ff48bfbf8d5419907c.png)
+![](_attachments/fcc1929f8c6044ff48bfbf8d5419907c.png)
 
 > One day, a Donkey and a Tiger got into an argument over the color of the grass.
 > ​
