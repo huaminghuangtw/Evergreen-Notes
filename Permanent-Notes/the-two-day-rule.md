@@ -1,12 +1,12 @@
 ---
 title: The Two-Day Rule
 created: 2025-12-25T07:35:29
-modified: 2025-12-29T07:45:10
+modified: 2026-02-06T10:43:18
 ---
 
-![](../_attachments/3c8feaa5b5177879bf5a07e276913749.png)
+![](_attachments/3c8feaa5b5177879bf5a07e276913749.png)
 
-![](../_attachments/ea37e9ac03d4cde587d3a8999e49c4bc.png)
+![](_attachments/ea37e9ac03d4cde587d3a8999e49c4bc.png)
 
 ---
 
