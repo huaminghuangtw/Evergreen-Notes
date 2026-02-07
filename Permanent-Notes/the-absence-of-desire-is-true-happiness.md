@@ -1,7 +1,7 @@
 ---
 title: The absence of desire is true happiness
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T10:49:20
+modified: 2026-02-06T16:17:05
 ---
 
 > 「有求皆苦，無求即樂」— 達摩祖師《二入四行觀》
@@ -57,6 +57,8 @@ You only lose what you cling to.
 ---
 
 # Low Expectations
+
+> 「生而不有，為而不恃，功成而不居。」— 老子《道德經》
 
 > “The first rule of a happy life is low expectations. If you have unrealistic expectations you’re going to be miserable your whole life.” — Charlie Munger
 
