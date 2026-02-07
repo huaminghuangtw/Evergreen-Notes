@@ -1,12 +1,14 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-06T16:19:19
 ---
 
 > “Difficulties strengthen the mind, as labor does the body.” — Seneca
 
-> “A smooth sea never made a skilled sailor. (一片風平浪靜的海洋無法造就一名偉大的舵手)” — Franklin D. Roosevelt
+> “A smooth sea never made a skilled sailor.” — Franklin D. Roosevelt
+> 
+> 一片風平浪靜的海洋無法造就一名偉大的舵手
 
 > “One day, in retrospect, the years of struggle will strike you as the most beautiful.” — Sigmund Freud
 
@@ -29,6 +31,8 @@ modified: 2026-02-05T07:51:24
 > “We must all suffer from one of two [pains](pain-is-inevitable-suffering-is-optional.md): the pain of [discipline](discipline-equals-freedom.md) or the pain of regret. The difference is [discipline](discipline-equals-freedom.md) weighs ounces while regret weighs tons.” — Jim Rohn
 
 > “Who you are is defined by what you’re willing to struggle for.” — Mark Manson
+
+> “Never to suffer would never to have been blessed.” — Edgar Allan Poe
 
 ---
 
