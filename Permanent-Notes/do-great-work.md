@@ -1,10 +1,12 @@
 ---
 title: Do great work
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T09:22:22
+modified: 2026-02-06T16:18:16
 ---
 
 > “To be great is to be misunderstood.” — Ralph Waldo Emerson
+
+> “To accomplish great things, we must not only act, but also dream, not only plan, but also believe.” — Anatole France
 
 > “The only way to do great work is to love what you do.” — Steve Jobs [^1]
 
