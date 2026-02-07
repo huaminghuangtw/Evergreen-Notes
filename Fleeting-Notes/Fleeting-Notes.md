@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2026-01-23T05:30:25
+modified: 2026-02-07T07:25:16
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -69,3 +69,8 @@ When the interviewer pressed him, asking whether there were players who don’t,
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
 
 <https://www.reddit.com/r/creativecoding/comments/kl2wla/the_gestalt_effect/>
+
+
+---
+
+“How people treat you is their karma; how you react is yours.” — Wayne Dyer
