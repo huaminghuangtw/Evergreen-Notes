@@ -1,10 +1,10 @@
 ---
 title: Decision Fatigue
 created: 2025-01-23T10:40:57
-modified: 2026-02-06T10:43:20
+modified: 2026-02-07T16:30:10
 ---
 
-![71dacbcf34b15b9c99d1ae5471fe8e56](_attachments/71dacbcf34b15b9c99d1ae5471fe8e56.png)
+![](_attachments/71dacbcf34b15b9c99d1ae5471fe8e56.png)
 
 Paradox of Choice
 
