@@ -1,7 +1,7 @@
 ---
 title: Information Overwhelm
 created: 2024-11-18T09:18:12
-modified: 2026-02-06T07:40:08
+modified: 2026-02-08T06:11:04
 ---
 
 > “Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” — T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654) [^1]
@@ -65,7 +65,7 @@ modified: 2026-02-06T07:40:08
 
 			> [Hype erodes. Quality persists.](https://x.com/JamesClear/status/1956069352601477465)
 
-			* [The Lindy Library](The%20Lindy%20Effect.md)
+			* [The Lindy Library](the-lindy-effect.md)
 			* [Brain Attic](brain-attic.md)
 		* Read fewer forecasts and more history. Study history to predict the future.
 
