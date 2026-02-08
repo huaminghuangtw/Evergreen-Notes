@@ -1,7 +1,7 @@
 ---
 title: What Success Means To Me
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-08T08:22:53
 ---
 
 > “The road to success is always under construction.” — Steve Harvey
@@ -58,7 +58,7 @@ The most important thing in life is _not having_ what you want, but _knowing_ wh
 
 # 知行合一
 
-1. 想：知道自己想要/不想要什麼、定義自己的平衡/甜蜜點 [^3]
+1. 想：知道自己想要/不想要什麼、定義自己的平衡/甜蜜點 [^3] [^4]
 2. 做：有能力真正地得到/避免自己想要/不想要 の 東西、想辦法站在上面，死都不要下來
 
 ---
@@ -110,3 +110,4 @@ If you love what you’re doing, then you’ve already succeeded.
 [^1]: is the exclusive group/circle to which people are drown to and want to belong throughout their lives.
 [^2]: [If you define success on the basis of comparison to others, you will never feel successful. _The only way to feel successful is to create your own definition of success, rather than consenting to one that was handed to you._](https://www.sahilbloom.com/newsletter/13-harsh-truths-about-success-nobody-told-you)
 [^3]: The most important thing in life is _not having_ what you want, but _knowing_ what you want—figuring it out is everything!
+[^4]: If you don’t know what you want, how are you going to know when you get it?
