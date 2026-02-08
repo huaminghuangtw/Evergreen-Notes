@@ -1,12 +1,16 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T09:22:22
+modified: 2026-02-07T17:19:20
 ---
+
+> “Begin anywhere.” — John Cage
 
 > “Start before you’re ready. Don’t prepare. Begin. Don’t think. Act.” — Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)
 
 > “Start where you are. Use what you have. Do what you can.” — Arthur Ashe
+
+> “Paths are made by walking.” — Franz Kafka
 
 > “As you start to walk on the way, the way appears.” — Rumi
 
