@@ -1,7 +1,7 @@
 ---
 title: Leaders are readers
 created: 2024-11-18T09:18:12
-modified: 2026-02-06T07:40:08
+modified: 2026-02-08T06:11:04
 ---
 
 > “Man is what he reads.” — Joseph Brodsky
@@ -68,7 +68,7 @@ modified: 2026-02-06T07:40:08
 	* If a book comes highly recommended or starts strong, read it cover to cover. Some chapters may drag, but you won’t know their value until you’ve made it through. Don’t skip the ending—many authors save their best ideas for the final pages.
 * Read the classics that stand the test of time. Do not read books in the same year that they are published.（時間是考驗一本書能否傳世不朽的試金石）
 	* Have a “The Reading Razor (Quality Filter for Books)” — 永遠都有讀不完的新書，所以要慎選 (After all, not all books are equal)
-		* Use “[The Lindy Effect](The%20Lindy%20Effect.md)” as a guide in selecting what to read: books that have been around for ten years will be around for ten more; books that have been around for two millennia should be around for quite a bit of time, and so forth.
+		* Use “[The Lindy Effect](the-lindy-effect.md)” as a guide in selecting what to read: books that have been around for ten years will be around for ten more; books that have been around for two millennia should be around for quite a bit of time, and so forth.
 		* [Quake Books](https://ryanholiday.net/quake-reading/): Books that have…
 			* had the most profound impact on me
 			* changed me at a deep level
