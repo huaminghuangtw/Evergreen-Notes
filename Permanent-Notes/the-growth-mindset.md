@@ -1,7 +1,7 @@
 ---
 title: The Growth Mindset
 created: 2024-11-18T09:18:12
-modified: 2026-02-08T08:19:48
+modified: 2026-02-09T10:47:03
 ---
 
 > [“It’s the disease of thinking that a really great idea is 90% of the work, and if you just tell all these other people “here’s this great idea” then of course they can go off and make it happen. And the problem with that is that there is just a tremendous amount of craftsmanship in between a great idea and a great product. And as you evolve that great idea it changes and grows. It never comes out like it starts because you learn a lot more as you get in the subtleties of it. And you also find there’s tremendous trade-offs that you have to make. There are just certain things you can’t make electrons do. There are certain things you can’t make plastic do or glass do. Or factories do, or robots do. And as you get in to all these things, designing a product is keeping 5000 things in your brain, these concepts. And fitting them all together and kind of continuing to push to fit them together in new and different ways to get what you want. And every day you discover something new that is a new problem or a new opportunity to fit these things together a little differently. It’s that process that is the magic.” — Steve Jobs](https://www.youtube.com/watch?v=sm1msysj5lw)
@@ -13,6 +13,8 @@ modified: 2026-02-08T08:19:48
 > “Each problem that I solved became a rule which served afterwards to solve other problems.” — René Descartes
 
 > “Dude, suckin’ at something is the first step to being sorta good at something.” — Jake, “Adventure Time”
+
+> “If you focus on what you left behind, then how can you see what lies ahead?” — Chef Gusteau, Ratatouille
 
 ---
 
