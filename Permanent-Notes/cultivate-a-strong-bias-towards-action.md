@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-11T09:47:22
 ---
 
 > “To be is to do.” — Immanuel Kant
@@ -15,6 +15,8 @@ modified: 2026-02-05T07:51:24
 > “You miss 100% of the shots you don’t take.” — [Michael Scott](https://www.google.com/search?q=Michael%20Scott)
 
 > “Knowing is not enough, we must apply. Willing is not enough, we must do.” — Johann Wolfgang von Goethe
+
+> “Not everyone who chased the zebra caught it, but he who caught it, chased it.” — African proverb
 
 > “The actions of men are the best interpreters of their thoughts.” — James Joyce
 
