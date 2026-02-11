@@ -1,7 +1,7 @@
 ---
 title: Failing forward turns setbacks into stepping stones
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T09:22:22
+modified: 2026-02-11T09:49:09
 ---
 
 > “Opportunity often comes disguised in the form of misfortune or temporary defeat.” — Napoleon Hill
@@ -85,7 +85,7 @@ You don’t have to get it right the first time. Just fail faster.
 > ​
 > As the farmer had continued to shovel dirt into the well, the clever donkey used the dirt to get closer to its escape.
 
-Life will inevitably throw dirt your way—challenges, setbacks, and all kinds of troubles and struggles. The key to rising above it is to shake off that dirt and use it as a stepping stone. Every obstacle we face can be transformed into an opportunity to climb higher. Even when you find yourself in the deepest well, remember this: _Shake it off, and take a step up._ Never give up. With determination and [resilience](resilience.md), you can turn every challenge into a path forward.
+Life will inevitably throw dirt your way—challenges, setbacks, and all kinds of troubles and struggles. The key to rising above it is to shake off that dirt and use it as a stepping stone/cornerstone. Every obstacle we face can be transformed into an opportunity to climb higher. Even when you find yourself in the deepest well, remember this: _Shake it off, and take a step up._ Never give up. With determination and [resilience](resilience.md), you can turn every challenge into a path forward.
 
 ---
 
