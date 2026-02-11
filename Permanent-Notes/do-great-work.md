@@ -1,14 +1,14 @@
 ---
 title: Do great work
 created: 2024-11-18T09:18:12
-modified: 2026-02-06T16:18:16
+modified: 2026-02-11T09:48:42
 ---
 
 > “To be great is to be misunderstood.” — Ralph Waldo Emerson
 
 > “To accomplish great things, we must not only act, but also dream, not only plan, but also believe.” — Anatole France
 
-> “The only way to do great work is to love what you do.” — Steve Jobs [^1]
+> “The only way to do great work is to love what you do.” — Steve Jobs [^1] [^4]
 
 > “Quality is more important than quantity. One home run is better than two doubles.” — Steve Jobs
 
@@ -92,3 +92,4 @@ If it’s worth doing, it’s worth doing very well.
 [^1]: _“Work is love made visible.” — Kahlil Gibran_
 [^2]: 美國數學家，圖靈獎得主，「漢明碼」的發明人。 1946 至 1976 年在貝爾實驗室 (Bell Telephone Laboratory) 工作，1956 年參與了 IBM 650 的程式設計語言發展工作。 它是美國電腦協會 (ACM) 的創立人之一，曾任該組織的主席。
 [^3]: [Another great one](https://www.youtube.com/watch?v=a1zDuOPkMSw) [by Richard Hamming](https://www.essra.org.cn/view-1000-3224.aspx): [“You and Your Research”](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+[^4]: *“Doing what you love is the cornerstone of having abundance in your life.” — Wayne Dyer*
