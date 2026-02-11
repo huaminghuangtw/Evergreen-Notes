@@ -1,7 +1,7 @@
 ---
 title: Two Types of Work
 created: 2024-12-12T21:39:10
-modified: 2026-02-05T07:51:24
+modified: 2026-02-11T07:20:10
 ---
 
 > [More generally, tasks that require little concentration seem to be best done in batches if possible, while tasks that require a lot of concentration seem to be best done individually, with as few distractions as one can manage.](https://terrytao.wordpress.com/2008/08/07/on-time-management/)
@@ -23,7 +23,7 @@ modified: 2026-02-05T07:51:24
 
 * ≈ shallow work ≈ fake/pseudo work ≈ low-value work ≈ light work
 * Things we have to do to _maintain_ our life (i.e., status quo)
-* e.g., administrative, logistical, and maintenance tasks, [checking messages&emails](Batching%20Emails%20and%20Text%20Messages.md), household chores, meal preparation, etc. [^1]
+* e.g., administrative, logistical, and maintenance tasks, [checking messages&emails](batching-emails-and-text-messages.md), household chores, meal preparation, etc. [^1]
 * Better done in “[multi-tasking (多工)](temptation-bundling.md)” mode [^2] [^3]
 
 ---
