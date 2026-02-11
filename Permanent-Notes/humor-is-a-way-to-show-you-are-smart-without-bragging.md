@@ -1,13 +1,13 @@
 ---
 title: Humor is a way to show you are smart without bragging
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+modified: 2026-02-11T14:16:48
 ---
 
 # Principles
 
 * Being funny is one of the ultimate weapons a person can have in human society. It might even compete with being really good-looking.
-* 幽默 ≠ 搞笑
+* 詼諧幽默 ≠ 搞笑
 * 元素
 	* 反差感（正反邏輯）
 	* 優越感（[「自貶」、「自嘲」、「自我揭短」](vulnerability.md)）
