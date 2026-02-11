@@ -1,7 +1,7 @@
 ---
 title: Mixing the Pareto Principle and the Parkinson’S Law
 created: 2025-10-30T07:08:36
-modified: 2026-01-05T17:15:47
+modified: 2026-02-11T07:20:10
 ---
 
 Time Ferriss’s two-step synergistic approach:
@@ -19,7 +19,7 @@ The combination of these two principles yields a powerful feedback loop for prod
 
 # Putting the combined principles into practice
 
-1. **Go on a [“Low-Information Diet.”](Low%20Information%20Diet.md)** Systematically reduce your consumption of unimportant, time-consuming information like [news](News%20Sobriety.md), [social media](quit-social-media.md), and [emails](Batching%20Emails%20and%20Text%20Messages.md) that do not directly relate to your most critical tasks.
+1. **Go on a [“Low-Information Diet.”](Low%20Information%20Diet.md)** Systematically reduce your consumption of unimportant, time-consuming information like [news](News%20Sobriety.md), [social media](quit-social-media.md), and [emails](batching-emails-and-text-messages.md) that do not directly relate to your most critical tasks.
 2. **Establish a [“Most Important Task” (MIT)](eat-the-biggest-frog-first-thing-in-the-morning.md) list.** At the beginning of each day, identify and write down the two or three tasks that are absolutely vital to complete. Focus on these first.
 3. **[Time-box](time-blocking.md) your high-value tasks.** Assign a specific, and shorter-than-you-think, time block for each of your MITs. This creates an imminent deadline that forces focus and efficiency.
 4. **Master the [“Art of Refusal.”](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md)** Learn to [say no](focus-is-about-saying-no.md) to requests and activities that do not fall into your high-impact 20%. Protecting your limited time is essential for this method to work.
