@@ -1,7 +1,7 @@
 ---
 title: Judgment is the most important skill in an age of infinite leverage
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T09:22:23
+modified: 2026-02-12T21:10:11
 ---
 
 > “Good judgment comes from experience, and a lot of experience comes from bad judgment.” — Rita Mae Brown / Will Rogers
@@ -14,7 +14,7 @@ modified: 2026-02-05T09:22:23
 
 > “I don’t think my taste in aesthetics is that much different than a lot of other people’s. The difference is that I just get to be really stubborn about making things as good as we all know they can be. That’s the only difference.
 >
-> _…your [taste] gets more refined as you make mistakes. I’ve had a chance to make a lot of mistakes…But the real big thing is: if you’re going to make something, it doesn’t take any more energy—and rarely does it take more money—to make it really great. All it takes is a little more time. Not that much more. And a willingness to do so, a willingness to persevere until it’s really great.” — Steve Jobs (via _[Make Something Wonderful](https://stevejobsarchive.com/book)_)_LAR_LINK_PLACEHOLDER}:
+> …your [taste] gets more refined as you make mistakes. I’ve had a chance to make a lot of mistakes…But the real big thing is: if you’re going to make something, it doesn’t take any more energy—and rarely does it take more money—to make it really great. All it takes is a little more time. Not that much more. And a willingness to do so, a willingness to persevere until it’s really great.” — Steve Jobs (via _[Make Something Wonderful](https://stevejobsarchive.com/book)
 
 > “At first it seems that we need only know the diverse sources of our pleasures in order to acquire taste, and that once we had read what philosophy tells us on this subject, we would have good taste and could boldly judge works of art. But natural taste is not the same as theoretical knowledge. It consists in the rapid and subtle application of the very rules which we do not know.” — [Voltaire](https://quod.lib.umich.edu/d/did/did2222.0000.168/--taste)
 

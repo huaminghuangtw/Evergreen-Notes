@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
 created: 2024-11-18T09:18:12
-modified: 2026-02-11T09:47:22
+modified: 2026-02-12T21:08:41
 ---
 
 > “To be is to do.” — Immanuel Kant
@@ -30,7 +30,7 @@ modified: 2026-02-11T09:47:22
 
 [@pressfieldWarArtBreak2003]
 
-> _“The professional has learned that success, like happiness, comes as a by-product of work. The professional concentrates on the work and [allows rewards to come or not come](not-caring-lets-us-perform-better.md), whatever they like.” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_ [^1] [^2]
+> “The professional has learned that success, like happiness, comes as a by-product of work. The professional concentrates on the work and [allows rewards to come or not come](not-caring-lets-us-perform-better.md), whatever they like.” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104) [^1] [^2]
 
 [@gogginsCantHurtMe2018]
 
@@ -44,7 +44,7 @@ modified: 2026-02-11T09:47:22
 
 > [“Action isn’t just the effect of motivation, but also the cause of it.” — Mark Manson](https://www.goodreads.com/quotes/11945271-action-isn-t-just-the-effect-of-motivation-it-s-also-the)
 
-> _[“You do not write your life with words. You write it with actions. What you think is not important. It is only important what you do.” — Patrick Ness, A Monster Calls](https://www.goodreads.com/quotes/394528-you-do-not-write-your-life-with-words-you-write-it)_ [^3] [^4]
+> [“You do not write your life with words. You write it with actions. What you think is not important. It is only important what you do.” — Patrick Ness, A Monster Calls](https://www.goodreads.com/quotes/394528-you-do-not-write-your-life-with-words-you-write-it) [^3] [^4]
 
 ---
 

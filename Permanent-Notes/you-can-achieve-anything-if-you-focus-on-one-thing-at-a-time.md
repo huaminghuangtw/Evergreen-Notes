@@ -1,7 +1,7 @@
 ---
 title: You can achieve anything if you focus on one thing at a time
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-12T20:55:15
 ---
 
 > [“The only way to gain enough efficiency to complete The Art of Computer Programming is to operate in batch mode, concentrating intensively and uninterruptedly on one subject at a time, rather than swapping a number of topics in and out of my head.” — Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/retd.html)
@@ -14,9 +14,9 @@ Do one thing and do it extremely well.
 
 ---
 
-Multitasking (多工) is a myth. Focus on completing one task at a time _in series/sequence_; avoid multi-task _in parallel_.[^1]
+**Multitasking (多工)** is a myth. Focus on completing one task at a time _in series/sequence_; avoid multi-task _in parallel_.[^1]
 
-Unitasking (單工): Do one thing at a time, and do it extremely well.
+**Unitasking (單工)**: Do one thing at a time, and do it extremely well.
 
 ---
 
@@ -68,10 +68,22 @@ In The Happiness Hypothesis, New York University psychologist Jonathan Haidt des
 >
 > Do what you are doing. = Do well whatever you do. = Concentrate on the task at hand.
 
-* When you eat, eat.
+* When you walk, walk. When you eat, eat.
 * Use lunch time for lunch.
 * [When drinking tea, just drink tea.](https://sketchplanations.com/when-drinking-tea-just-drink-tea)
 * [If you want to live a quiet life, live a quiet life.](https://thequietlife.net/p/if-you-want-to-live-a-quiet-life)
+
+---
+
+兩位禪宗學生談起各自的老師。
+
+其中一位很驕傲地說：「我的老師超厲害，他能用三劍把樹上的蘋果削下來，還能在蘋果落地前把它切成四塊；他射箭時，先一箭射中靶心，再用第二支箭把第一支箭從中劈開。」
+
+另一位學生聽完，點點頭說：「那真的很了不起。不過，我的老師才是真正厲害的人。」
+
+「他有什麼特別的本事？」第一位學生問。
+
+他說：「走路時，只是走路；坐著時，只是坐著；吃飯時，只是吃飯。」
 
 ---
 

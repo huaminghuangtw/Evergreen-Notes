@@ -1,7 +1,7 @@
 ---
 title: How to live a life
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T09:22:22
+modified: 2026-02-12T20:44:13
 ---
 
 > “As long as you live, keep learning how to live.” — Seneca
@@ -36,11 +36,17 @@ modified: 2026-02-05T09:22:22
 
 > 「人生不是戰場，不必追求勝利，也沒有勝利可追求，更重要的其實是經歷。」 — 張曼娟
 
-> _“Decide what you would like your obituary to say, and live the life to deserve it.” — [Warren Buffet in his final letter to Berkshire Hathaway shareholders](https://www.berkshirehathaway.com/news/nov1025.pdf)
+> “Decide what you would like your obituary to say, and live the life to deserve it.” — [Warren Buffet in his final letter to Berkshire Hathaway shareholders](https://www.berkshirehathaway.com/news/nov1025.pdf)
 
 > “Life isn’t about waiting for the storm to pass. It’s about learning to dance in the rain.” — Vivian Greene
 >
 > 生活不是等待風暴過去，而是學會在雨中跳舞。
+
+> “In the end, these things matter most:
+> How well did you love?
+> How fully did you live?
+> How deeply did you let go?”
+> — Jack Kornfield
 
 ---
 

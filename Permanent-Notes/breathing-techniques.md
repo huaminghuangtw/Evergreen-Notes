@@ -1,7 +1,7 @@
 ---
 title: Breathing Techniques
 created: 2025-10-08T05:07:10
-modified: 2026-01-25T16:14:19
+modified: 2026-02-12T16:37:32
 ---
 
 It’s this thing we do [20,000 times per day](#1), but we never really stop to consider how we’re actually doing it—or whether we could be doing it better.
@@ -21,9 +21,15 @@ So, a typical adult breathes roughly **23,000 times per day**.
 * Breath Counting
 	* 默念：1, 2, 3, …
 	* 默念：in, out, in, out, …
-	* 默念：“Breathe in, my mind clears”, “Breathe out, my body relaxes”
-		* Breathe in, and close your eyes. Breathe out, and smile.
-	* 默念：“Relaxation flows in”, “Stress flows out”
+	* 默念：
+		* “Breathe in, my mind clears”
+		* “Breathe out, my body relaxes”
+	* 默念：
+		* “Relaxation flows in”
+		* “Stress flows out”
+	* 默念：
+		* “I receive the suffering of others and transform it into peace and joy.”
+		* “I send peace and joy to all beings, without exception.”
 * Breath Control ([Diaphragmatic/Belly/Abdominal Breathing](https://www.medicalnewstoday.com/articles/diaphragmatic-breathing) 腹式呼吸)
 	* Normal breathing is relatively _shallow_ and does not use the full capacity of the lungs.
 	* Diaphragmatic breathing is a _deep_ breathing exercise that fully engages the diaphragm and increases the efficiency of the lungs.

@@ -1,14 +1,14 @@
 ---
 title: Minimalism
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T09:22:23
+modified: 2026-02-11T21:04:12
 ---
 
 [@collinsSimplePathWealth2016]
 
 > “You own the things you own and they in turn own you.” [^1]
 
-> $1 $2
+> “Shape clay into a vessel; It is the space/emptiness within that makes it useful. Cut doors and windows for a room; > It is the holes which make it useful. Therefore benefit comes from what is there; Usefulness from what is not there.” — Laozi [^2]
 
 ---
 
@@ -47,7 +47,10 @@ Always eliminate first, then accumulate.
 
 ---
 
-[The Simplicity Audit](notion://www.notion.so/The-Simplicity-Audit-166618161adb46c39169eb3d0a435f91?pvs=4)
+# Types
+
+1. Functional Minimalism
+2. Aesthetic Minimalism
 
 ---
 
@@ -61,6 +64,10 @@ Always eliminate first, then accumulate.
 ---
 
 [Simple is beautiful](simple-is-beautiful.md)
+
+---
+
+[The Simplicity Audit](the-simplicity-audit.md)
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Do hard things
 created: 2024-11-18T09:18:12
-modified: 2026-02-06T16:19:19
+modified: 2026-02-12T21:08:47
 ---
 
 > “Difficulties strengthen the mind, as labor does the body.” — Seneca
@@ -109,7 +109,7 @@ When we embrace _|voluntary struggles_, we’re better equipped/prepared for the
 
 > “If you have 2 choices to make and they’re relatively equal (50-50), take the path that is more difficult and painful in the short term.” — Naval Ravikant
 
-> _“Easy choices, hard life. [^1] Hard choices, easy life.” — Jerzy Gregorek_ [^2] [^3]
+> “Easy choices, hard life. [^1] Hard choices, easy life.” — Jerzy Gregorek [^2] [^3]
 
 > “The costs of your good [habits](be-a-habit-and-routine-machine.md) are in the present. The costs of your bad [habits](be-a-habit-and-routine-machine.md) are in the future.” — James Clear
 

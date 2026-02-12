@@ -1,7 +1,7 @@
 ---
 title: Push your limits
 created: 2025-01-23T10:40:57
-modified: 2026-02-05T09:22:22
+modified: 2026-02-12T13:42:54
 ---
 
 > “Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot
@@ -18,7 +18,7 @@ modified: 2026-02-05T09:22:22
 
 [@hillThinkGrowRich2021]
 
-> “Don’t do what you can do. Try what you can’t do.” — William Faulkner
+> “Don’t do what you can do. Try what you can’t do.” — William Faulkner [^3]
 
 > “Never say never because limits, like [fears](fear.md), are often just an illusion.” — Michael Jordan
 
@@ -196,3 +196,4 @@ As you move outside of your comfort zone, what was once the unknown and frighten
 
 [^1]: 最盲目的服從乃是奴隸們所僅存的唯一美德。
 [^2]: 3Ps: Personal, Pervasive, Permanent
+[^3]: *“You must do the things you think you cannot do.” — Eleanor Roosevelt*
