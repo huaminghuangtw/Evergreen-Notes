@@ -1,7 +1,7 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2026-02-07T17:19:20
+modified: 2026-02-11T20:52:25
 ---
 
 > “Begin anywhere.” — John Cage
@@ -76,7 +76,7 @@ By the time I hit my second or third workout, I start wanting to exercise more. 
 
 ---
 
-# Ready isn’t a feeling, it’s a decision.
+# Stop waiting to feel ready. Ready is not a feeling. It’s a decision.
 
 Don’t wait until everything is perfectly prepared or until you feel completely “ready” — because if you do, you might **never start**. You’ll get trapped in a loop of “_I need experience to start, but I need to start to get experience._”
 

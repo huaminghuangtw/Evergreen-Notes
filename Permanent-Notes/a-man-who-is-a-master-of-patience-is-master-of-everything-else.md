@@ -1,7 +1,7 @@
 ---
 title: A man who is a master of patience is master of everything else
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-12T21:07:46
 ---
 
 > [“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)
@@ -103,7 +103,7 @@ Patience builds foundations that last. Patience builds what shortcuts destroy. P
 
 > A lot of change is undramatic growth, transformation, or decay, or rather its timescale means the drama might not be perceptible to the impatient.
 
-> _Describing the slowness of change is often confused with acceptance of the status quo. It’s really the opposite_: an argument that the status quo must be changed, and it will take [steadfast](https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/steadfast) commitment to see the job through. It’s not accepting defeat; it’s accepting the terms of possible victory.
+> Describing the slowness of change is often confused with acceptance of the status quo. It’s really the _opposite_: an argument that the status quo must be changed, and it will take [steadfast](https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/steadfast) commitment to see the job through. It’s not accepting defeat; it’s accepting the terms of possible victory.
 
 ---
 

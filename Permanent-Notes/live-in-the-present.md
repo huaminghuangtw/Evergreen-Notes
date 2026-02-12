@@ -1,12 +1,12 @@
 ---
 title: Live in the present
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T09:22:22
+modified: 2026-02-12T17:37:46
 ---
 
 > “Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why we call it the present” — Eleanor Roosevelt
 
-> “You pile up enough tomorrows, and you’ll find you are left with nothing but a lot of empty yesterdays.” — Meredith Willson, The Music Man
+> “You pile up enough to morrows, and you’ll find you are left with nothing but a lot of empty yesterdays.” — Meredith Willson, The Music Man
 
 > “Forget yesterday - it has already forgotten you. Don’t sweat tomorrow - you haven’t even met. Instead, open your eyes and your heart to a truly precious gift - today.” — Steve Maraboli
 

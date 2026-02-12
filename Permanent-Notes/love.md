@@ -1,14 +1,14 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2026-02-06T07:40:08
+modified: 2026-02-12T21:10:24
 ---
 
 > “Love is the absence of judgment.” — Dalai Lama
 
 > “Love is the energy of life.” — Robert Browning
 
-> _“Love does not cause suffering: what causes it is the sense of ownership, which is love’s opposite_.” — Antoine de Saint-Exupéry
+> “Love does not cause suffering: what causes it is the sense of ownership, which is love’s opposite_.” — Antoine de Saint-Exupéry
 
 > “Love is the only way to grasp another human being in the innermost core of his personality.” — Viktor Frankl
 
