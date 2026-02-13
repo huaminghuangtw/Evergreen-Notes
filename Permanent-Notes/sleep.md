@@ -1,7 +1,7 @@
 ---
 title: Sleep
 created: 2024-11-18T09:18:12
-modified: 2026-01-26T07:14:19
+modified: 2026-02-13T08:48:19
 ---
 
 [Matt Walker: Sleep is your superpower \| TED Talk](https://www.ted.com/talks/matt_walker_sleep_is_your_superpower/)
@@ -24,7 +24,7 @@ Sleep is the best legal performance enhancing drug / magic pill on the planet.
 
 Sleep is the most effective workout recovery tool.
 
-sleep is the absolute foundation of your mental health, your physical health and your performance in all endeavors. So if there’s one area of your life to really focus on and try and optimize if your goal is to be happier and more productive and just have a better life over all, i can confidently say that Sleep is really the thing to optimise.
+sleep is the absolute foundation of your mental health, your physical health and your performance in all endeavors. So if there’s one area of your life to really focus on and try and optimize if your goal is to be happier and more productive and just have a better life over all, I can confidently say that Sleep is really the thing to optimize.
 
 Sleep deprivation makes hard things feel impossible. High quality sleep makes seemingly impossible things doable.
 
