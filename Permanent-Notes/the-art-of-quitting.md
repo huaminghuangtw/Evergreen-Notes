@@ -1,7 +1,7 @@
 ---
 title: The Art of Quitting
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-15T07:28:45
 ---
 
 > “I am as proud of what we don’t do as I am of what we do.” — Steve Jobs
@@ -14,7 +14,7 @@ modified: 2026-02-05T07:51:24
 
 > “Being able to quit things that don’t work is integral to being a winner.” — Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)
 
-> “With renunciation life begins.” — Amelia Barr 
+> “With renunciation life begins.” — Amelia Barr
 
 > [“Strategic retreat, sacrifice, deciding what to give up is at the core, the very core of success.” — Jensen Huang, NVIDIA’s CEO](https://www.youtube.com/watch?v=oi89u6q0_AY&t=19m57s)
 
@@ -46,7 +46,7 @@ The skill is knowing the difference.
 
 ---
 
-Your capacity to [say ’No'](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md) determines your capacity to say ‘Yes’ to greater things.
+Your capacity to [say ‘No’](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md) determines your capacity to say ‘Yes’ to greater things.
 
 ---
 
