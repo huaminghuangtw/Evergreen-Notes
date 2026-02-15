@@ -1,7 +1,7 @@
 ---
 title: If it isn’t fuck yes, then it’s clear no thank you
 created: 2024-11-18T09:16:49
-modified: 2026-02-05T09:22:22
+modified: 2026-02-15T07:27:54
 ---
 
 **TL; DR** Default to NO.
@@ -15,6 +15,8 @@ modified: 2026-02-05T09:22:22
 > “We need to learn the slow ‘yes’ and the quick ‘no.’” — Tom Friel, the former CEO of Heidrick & Struggles
 
 > “Half of the troubles of this life can be traced to saying yes too quickly and not saying no soon enough.” — Josh Billings
+
+> “Your capacity to say ‘No’ determines your capacity to say ‘Yes’ to greater things.” — E. Stanley Jones
 
 ---
 
