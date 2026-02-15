@@ -1,7 +1,7 @@
 ---
 title: The Beginner Mindset
 created: 2024-11-18T09:18:12
-modified: 2026-02-06T10:43:20
+modified: 2026-02-15T08:42:15
 ---
 
 > “It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” — Mark Twain
@@ -53,6 +53,10 @@ Every expert started out as a beginner. Embrace the embarrassment of feeling lik
 ---
 
 歸零 = 回歸初心 ([Shoshin](https://www.google.com/search?q=Shoshin))
+
+---
+
+赤子之心：如同初生嬰兒般純真、善良、無邪的心地。
 
 ---
 
