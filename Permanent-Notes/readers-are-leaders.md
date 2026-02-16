@@ -1,7 +1,7 @@
 ---
 title: Leaders are readers
 created: 2024-11-18T09:18:12
-modified: 2026-02-08T06:11:04
+modified: 2026-02-16T05:47:24
 ---
 
 > “Man is what he reads.” — Joseph Brodsky
@@ -11,8 +11,6 @@ modified: 2026-02-08T06:11:04
 > “The man who does not read good books has no advantage over the man who cannot read them.” — Mark Twain
 
 > “One should not read like a dog obeying its master, but like an eagle hunting its prey.” — Dee Hock
-
-> “Fools read fast. Geniuses reread.” — Maxime Lagace
 
 > “Reading should be a pleasure, not a chore.” — Joan Rivers
 
@@ -76,6 +74,9 @@ modified: 2026-02-08T06:11:04
 			* opened up my mind to something new
 			* given me many [’aha!' moments](the-eureka-effect.md)
 	* Reread/Revisit your favorite books annually (or at different points in the lifetime)
+
+		> “Fools read fast. Geniuses reread.” — Maxime Lagace
+
 		* Reading one book deeply is more impressive than reading 100 books quickly.
 		* Savor the important stuff as you will find more resonance or pick up new ideas by seeing things from different perspectives: focus on points that resonate with you.
 		* The great thing about a powerful piece of writing is that you’ll never read it the same way twice. As you grow older, your contexts change, and what you get out of the piece changes too. A book you read at 35 is not the same as when you read it at 25.
