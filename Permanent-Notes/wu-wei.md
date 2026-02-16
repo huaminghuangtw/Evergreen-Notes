@@ -1,7 +1,7 @@
 ---
 title: Wu Wei
 created: 2024-12-05T23:47:15
-modified: 2026-02-05T07:51:24
+modified: 2026-02-16T08:07:20
 ---
 
 > “Nature never hurries, yet everything is accomplished.” — Lao Tzu
@@ -32,6 +32,10 @@ modified: 2026-02-05T07:51:24
 ---
 
 Doing nothing can be surprisingly [productive](Productivity.md). I’ve experienced Wu Wei in my life when I’ve chosen not to immediately act on something, or simply do nothing and embrace laziness.
+
+---
+
+萬物都有個「相對性」，自然也有一個「順序」。若能順應這個自然運作的原理，與其共存，你就不需要再多做什麼，因為自然是經過長時間才形成的東西，早就達成一個「平衡」的狀態。
 
 ---
 
