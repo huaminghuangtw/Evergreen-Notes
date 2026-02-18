@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2026-02-08T06:10:29
+modified: 2026-02-18T10:16:26
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -73,3 +73,8 @@ When the interviewer pressed him, asking whether there were players who don’t,
 ---
 
 “How people treat you is their karma; how you react is yours.” — Wayne Dyer
+
+
+---
+
+大腦是人體最耗能的器官，雖然僅佔總體重約 2%，卻消耗總能量的 20%
