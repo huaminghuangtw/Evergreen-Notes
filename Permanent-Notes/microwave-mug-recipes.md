@@ -1,7 +1,7 @@
 ---
 title: Microwave Mug Recipes
 created: 2024-11-18T09:16:50
-modified: 2025-12-16T16:24:34
+modified: 2026-02-18T08:49:57
 ---
 
 that require little cleanup
@@ -14,7 +14,7 @@ that require little cleanup
 * [Microwave Steak - Microwave Master Chef](https://microwavemasterchef.com/recipes/microwave-steak/)
 * Mug Egg (<https://health.tvbs.com.tw/amp/nutrition/328375>)
 	* Omelette
-		* 必備: 奶油 + 鮮奶 + 起士
+		* 必備：奶油 + 鮮奶 + 起士
 	* Poach Eggs
 		* Make sure the water you drop the egg in is hot (one minute cook time). If you use cold water, the egg yolk often explodes before 1 minute in the microwave. This is because the microwave cooks from the inside out.
 		* Adding about a tbs of vinegar helps keep the egg white intact.
