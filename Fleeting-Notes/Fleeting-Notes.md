@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2026-02-18T10:16:26
+modified: 2026-02-19T08:13:45
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -73,7 +73,6 @@ When the interviewer pressed him, asking whether there were players who don’t,
 ---
 
 “How people treat you is their karma; how you react is yours.” — Wayne Dyer
-
 
 ---
 
