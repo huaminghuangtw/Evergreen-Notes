@@ -1,14 +1,17 @@
 ---
 title: Skin Care
 created: 2025-01-23T10:40:57
-modified: 2026-02-06T10:43:19
+modified: 2026-02-20T17:42:41
 ---
 
 # 如何擁有「水煮蛋肌」?
 
-1. Sleep: 充足的睡眠
-2. Nutrition: 均衡的飲食 (& 大量白開水) → 蛋奶類是大忌！
-3. Exercise: 規律的運動
+1. **Sleep**: 充足的睡眠
+
+	> The best skin care is [sleep](sleep.md).
+
+2. **Nutrition**: 均衡的飲食 (& 大量白開水) → 蛋奶類是大忌！
+3. **Exercise**: 規律的運動
 
 # Background Knowledge
 
