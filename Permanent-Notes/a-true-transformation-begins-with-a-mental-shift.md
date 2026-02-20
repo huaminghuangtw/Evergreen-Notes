@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2026-02-06T10:43:20
+modified: 2026-02-20T17:43:29
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
@@ -85,6 +85,8 @@ It’s not the load that breaks you down, it’s the way you carry it.
 You can figure out how to configure your **default state** to be _slightly amused_ rather than _slightly annoyed_ you pretty much enter God Mode.
 
 ---
+
+> “Our greatest weapon against stress is our ability to choose one thought over another.” — William James
 
 The ability to choose one thought over another is superpower—one shift in our thoughts can completely change how we feel.
 
