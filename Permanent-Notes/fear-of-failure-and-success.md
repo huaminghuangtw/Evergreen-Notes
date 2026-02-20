@@ -1,7 +1,7 @@
 ---
 title: Fear of Failure and Success
 created: 2024-12-14T08:25:33
-modified: 2026-02-05T09:22:22
+modified: 2026-02-20T08:43:38
 ---
 
 > “In order to succeed, your desire for success should be greater than your fear of failure.” — Bill Cosby
@@ -14,8 +14,8 @@ modified: 2026-02-05T09:22:22
 
 # Two Types of Fear
 
-* <u>The Fear of Failure</u>: The fear that you will go after something and it won’t work out. That everyone will know that you failed. That you will know that you failed.
-* <u>The Fear of Success</u>: The fear that you will accomplish everything you set out to achieve and never be able to live up to it again. The fear that everything will work out and you won’t be deserving of that end. That you won’t be ready for what comes from it.
+* **The Fear of Failure**: The fear that you will go after something and it won’t work out. That everyone will know that you failed. That you will know that you failed.
+* **The Fear of Success**: The fear that you will accomplish everything you set out to achieve and never be able to live up to it again. The fear that everything will work out and you won’t be deserving of that end. That you won’t be ready for what comes from it.
 
 ---
 

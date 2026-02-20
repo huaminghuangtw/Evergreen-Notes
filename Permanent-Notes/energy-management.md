@@ -1,7 +1,7 @@
 ---
 title: Energy Management
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-20T08:43:38
 ---
 
 > “Energy is eternal delight.” — William Blake
@@ -60,8 +60,8 @@ There’s no such thing as working too hard. There’s just being under rested. 
 
 # [“The Energy Investment Portfolio” by Ali Abdaal](https://aliabdaal.com/newsletter/the-energy-investment-portfolio/)
 
-* <u>Dream Investments</u>: Things that you want to do at some point, but probably not right now; can be as long as you like.
-* <u>Active Investments</u>: Things that you want to work on right now (e.g., this week); should be limited (~5) based on how much time and energy you’ve got to invest in them.
+* **Dream Investments**: Things that you want to do at some point, but probably not right now; can be as long as you like.
+* **Active Investments**: Things that you want to work on right now (e.g., this week); should be limited (~5) based on how much time and energy you’ve got to invest in them.
 
 ---
 

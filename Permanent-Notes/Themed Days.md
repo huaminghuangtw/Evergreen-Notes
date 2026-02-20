@@ -1,7 +1,7 @@
 ---
 title: Themed Days
 created: 2025-02-27T09:27:47
-modified: 2026-02-05T07:51:24
+modified: 2026-02-20T08:43:38
 ---
 
 > [“The way I found that works for me is I theme my days. On Monday, at both companies, I focus on management and running the company. Tuesday is focused on product. Wednesday is focused on marketing and communications and growth. Thursday is focused on developers and partnerships. Friday is focused on the company and the culture and recruiting. Saturday I take off, I hike. Sunday is reflection, feedback, strategy, and getting ready for the week.” — Jack Dorsey](https://www.forbes.com/sites/kevinkruse/2015/10/12/jack-dorsey-productivity-secret/#3212986c136a)
@@ -34,7 +34,7 @@ A [goal](goal-setting.md) asks _“What do I want?”_, but a theme asks _“Who
 		3. 運動按摩（身）- 21.~22.
 2. **Monday** - Clarity \& Alignment
 	* 對接日
-		* <u>和團隊開會溝通討論。</u>
+		* **和團隊開會溝通討論。**
 	* 斷食日（36 小時）
 		* 只喝「黑咖啡」和「白開水」
 		* 週日晚餐～週二早餐
@@ -47,7 +47,7 @@ A [goal](goal-setting.md) asks _“What do I want?”_, but a theme asks _“Who
 	* 播客（Podcast）日
 		* 著重於「社交深度」
 6. **Friday** - Finishing Strong
-	* <u> 和團隊確認進度和需要的幫助。</u>
+	* ** 和團隊確認進度和需要的幫助。**
 7. **Saturday** - Creative Output
 	* 創意發想日
 		* 畫畫

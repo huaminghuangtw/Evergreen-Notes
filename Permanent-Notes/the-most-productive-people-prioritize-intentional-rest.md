@@ -1,7 +1,7 @@
 ---
 title: The most productive people prioritize intentional rest
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-20T08:43:38
 ---
 
 > “Rest until you feel like playing, then play until you feel like resting.” — Martha Beck
@@ -133,9 +133,9 @@ The best way to rest is all about _feeling calm_. Or rather, CALM. Find an activ
 	* Supporting Study [@lepperUnderminingChildrensIntrinsic1973]
 		* In 1973, Stanford psychology researcher Dr. Mark Lepper conducted a field experiment with preschool children to test the “overjustification” hypothesis.
 		* Children who initially showed intrinsic interest in drawing were divided into three groups: ￼ ￼
-			1. <u>Expected Reward</u>: Children were told they would receive a reward for drawing.
-			2. <u>Unexpected Reward</u>: Children received a reward after drawing, without prior notice.
-			3. <u>No Reward</u>: Children engaged in drawing without any mention of a reward.
+			1. **Expected Reward**: Children were told they would receive a reward for drawing.
+			2. **Unexpected Reward**: Children received a reward after drawing, without prior notice.
+			3. **No Reward**: Children engaged in drawing without any mention of a reward.
 		* Two weeks later, researchers observed the children’s free-choice drawing activity. The findings revealed that children in the **expected reward** group showed significantly less interest in drawing compared to the other groups. This suggests that the anticipation of a reward can undermine intrinsic motivation.
 		* This study underscores the importance of engaging in CALM activities for the sheer enjoyment they provide. Introducing external incentives can shift the focus from intrinsic satisfaction to extrinsic outcomes, potentially diminishing the original joy derived from the activity.
 	* Three strategies for escaping The Passion Paradox:

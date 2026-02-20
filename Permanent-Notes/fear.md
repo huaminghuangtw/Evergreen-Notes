@@ -1,7 +1,7 @@
 ---
 title: Fear
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-19T21:18:07
 ---
 
 > “Danger is real, fear is a choice” — Will Smith
@@ -63,6 +63,7 @@ If we’re controlled by fear, we’re in the mode of ignorance.
 		* “_Will it matter in ten minutes? In ten weeks? In ten years?_”
 	3. Reduce the fear
 		* The Batman Effect: self-distancing, thinking yourself as a separate entity (someone other than yourself)
+		![](_attachments/2026_02_19_20_52_59.jpg)
 * Replace fear of the unknown with [curiosity](stay-curious.md)
 
 ---

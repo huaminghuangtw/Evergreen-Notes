@@ -1,10 +1,10 @@
 ---
 title: Whey Protein
 created: 2026-01-22T07:16:02
-modified: 2026-01-22T07:16:06
+modified: 2026-02-20T08:43:38
 ---
 
-酪蛋白 (Casein) 是牛奶的<u>不溶性</u>成分；乳清蛋白 (Whey Protein) 是牛奶的<u>可溶性</u>成分
+酪蛋白 (Casein) 是牛奶的**不溶性**成分；乳清蛋白 (Whey Protein) 是牛奶的**可溶性**成分
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: You are the average of the five people you associate with most
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T09:22:22
+modified: 2026-02-20T08:43:38
 ---
 
 > “You are the average of the five people you spend the most time with.” — Jim Rohn
@@ -54,9 +54,9 @@ A person is either _holding you back_ (like boat anchors) or _pushing/driving yo
 
 Three types of people in your life (by Tyler Perry):
 
-* <u>Leaves</u>: These are the people that are only around from time to time (every now and then) when the weather is good. They blow around as the winds change. They provide shade during the summer, but as soon as winter comes, they fall off the tree and disappear.
-* <u>Branches</u>: These are the people who are more present and stable than the leaves, but they aren’t permanent. They look strong, but if you try to stand on them or pull yourself up from them, they may break under your weight.
-* <u>Roots</u>: These are the people who are permanent. They are deep and wide. They are there in the summer and the winter, they are unperturbed by the changing seasons. The leaves and branches may come and go, but the roots are there forever.
+* **Leaves**: These are the people that are only around from time to time (every now and then) when the weather is good. They blow around as the winds change. They provide shade during the summer, but as soon as winter comes, they fall off the tree and disappear.
+* **Branches**: These are the people who are more present and stable than the leaves, but they aren’t permanent. They look strong, but if you try to stand on them or pull yourself up from them, they may break under your weight.
+* **Roots**: These are the people who are permanent. They are deep and wide. They are there in the summer and the winter, they are unperturbed by the changing seasons. The leaves and branches may come and go, but the roots are there forever.
 
 ---
 
