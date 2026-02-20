@@ -1,7 +1,7 @@
 ---
 title: Journaling
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-20T08:43:38
 ---
 
 > “Create an environment where you’re free to express what you’re afraid to express.” — Rick Rubin
@@ -12,9 +12,9 @@ Why? While [life is short](Life%20is%20shorter%20than%20you%20think.md), it’s 
 
 * 比起模糊的記憶，模糊的紀錄總是比較好。
 * 留下生命的軌/足跡，把每個時刻的自己快照（Snapshot）起來，相信「未來的自己」一定會很感激「現在的自己」有留下紀錄（幸好當初有寫），就像是「現在的我」很感謝「過往的我」都有回顧覆盤的習慣一樣。[^1]
-	* <u>Mental Time Travel</u>: Imagine yourself in the past and consider yourself in the present.
+	* **Mental Time Travel**: Imagine yourself in the past and consider yourself in the present.
 		* Make decisions that your 10-year-old self would be proud of.
-	* <u>Reverse Mental Time Travel</u>: Imagine yourself in the future and consider yourself in the present.
+	* **Reverse Mental Time Travel**: Imagine yourself in the future and consider yourself in the present.
 		* Make decisions that your 80-year-old self would be proud of.
 
 ---

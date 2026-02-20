@@ -1,7 +1,7 @@
 ---
 title: Deliberate Heat Cold Exposure
 created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:19
+modified: 2026-02-20T08:43:38
 ---
 
 # Heat Exposure
@@ -9,7 +9,7 @@ modified: 2026-01-25T16:14:19
 * ≈ Thermotherapy
 * Formats
 	* Warm shower/baths
-		* 泡澡本身就是一種溫和的排毒方式。因<u>皮膚是人體最大的排毒器官</u>，透過熱水開啟毛孔，讓身體在短時間內大量出汗，不僅有助於「袪濕、化痰」，還能將累積在皮下的酸性廢物排出，使肌膚更加健康有彈性。
+		* 泡澡本身就是一種溫和的排毒方式。因**皮膚是人體最大的排毒器官**，透過熱水開啟毛孔，讓身體在短時間內大量出汗，不僅有助於「袪濕、化痰」，還能將累積在皮下的酸性廢物排出，使肌膚更加健康有彈性。
 	* [Sauna](sauna.md)
 * _Decrease_ Core Body Temperature (CBT)
 * ~57 mins per week

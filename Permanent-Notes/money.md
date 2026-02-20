@@ -1,7 +1,7 @@
 ---
 title: Money
 created: 2024-11-18T10:16:50
-modified: 2026-02-12T21:11:24
+modified: 2026-02-20T08:43:38
 ---
 
 > “Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence
@@ -167,9 +167,9 @@ Reasonable \> Rational
 
 * **Eliminate Before Accumulate**: Use the “One in, One out” rule/policy when buy things
 * 3 Levels
-	1. <u>Beginner</u>: If you can’t afford it twice, don’t buy it.
-	2. <u>Advanced</u>: If it’s more than 10% of your income don’t buy it.
-	3. <u>Pro</u>: If it’s not making you more money, only buy it if your assets can pay for it.
+	1. **Beginner**: If you can’t afford it twice, don’t buy it.
+	2. **Advanced**: If it’s more than 10% of your income don’t buy it.
+	3. **Pro**: If it’s not making you more money, only buy it if your assets can pay for it.
 * [Tip generously whenever you’re able to. Be frugal with yourself and generous with others. Generosity creates significantly more happiness than consumption. It compounds. As a side benefit, when you tip generously, people go out of their way to help you, which always makes your life easier in the long run.](https://www.sahilbloom.com/newsletter/26-money-rules-for-2026)
 
 ---

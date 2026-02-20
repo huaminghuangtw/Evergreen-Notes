@@ -1,7 +1,7 @@
 ---
 title: Not caring lets us perform better
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-20T08:43:38
 ---
 
 > “If you aim at nothing, you will hit it every time.” — Zig Ziglar
@@ -12,8 +12,8 @@ modified: 2026-02-05T07:51:24
 
 [@gallweyInnerGameTennis2015]
 
-* <u>Self 1</u>: the explicit, thinking part that tries to catch the ball.
-* <u>Self 2</u>: the implicit, non-thinking part that actually catches the ball.
+* **Self 1**: the explicit, thinking part that tries to catch the ball.
+* **Self 2**: the implicit, non-thinking part that actually catches the ball.
 
 The more Self 1 cares about achieving a goal, the more it interferes with the natural functioning of Self 2. _This is why, counterintuitively, the less you care about something, the more easily, effortlessly and effectively it can be achieved._
 
