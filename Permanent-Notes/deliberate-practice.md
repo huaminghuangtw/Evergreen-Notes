@@ -1,7 +1,7 @@
 ---
 title: Deliberate Practice
 created: 2025-01-23T10:40:57
-modified: 2026-02-06T10:43:20
+modified: 2026-02-21T08:02:07
 ---
 
 > “Practice does not make perfect. Perfect practice makes perfect.” — Vince Lombardi [^1]
@@ -37,7 +37,7 @@ Similar to the concept of Progressive Overload in Strength Training — “Reps,
 3. ⭐️ 選擇勉強可完成的挑戰 ([Challenging Limits](push-your-limits.md))
 	* Working on tasks or problems that are _neither too easy (which might lead to boredom) nor impossibly hard (which might cause frustration), but rather difficult enough to stretch your abilities_
 	* Taking on challenges that are _manageable enough that you win most of the time, but meaningful enough that you improve as well_
-	* The common narrative is that kids learn faster than adults, but if you observe any toddler, they spend a large portion of the day attempting things that are _on the edge of their ability_ .[^2] The key is to enjoy hanging out on the edge. That is, you find it interesting to attempt things _one step beyond where you are right now_.
+	* The common narrative is that kids learn faster than adults, but if you observe any toddler, they spend a large portion of the day attempting things that are _on the edge of their ability_ [^2]. The key is to enjoy hanging out on the edge. That is, you find it interesting to attempt things _one step beyond where you are right now_.
 	* Examples:
 		* A student solving math problems slightly above their comfort level.
 		* An athlete attempting a personal best in a challenging competition.
