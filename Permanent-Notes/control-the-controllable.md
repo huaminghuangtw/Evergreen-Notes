@@ -1,7 +1,7 @@
 ---
 title: Control the controllable
 created: 2024-11-18T09:16:49
-modified: 2026-02-05T07:51:24
+modified: 2026-02-23T10:16:26
 ---
 
 > “The more we value things outside our control, the less control we have.” — Epictetus
@@ -18,7 +18,7 @@ modified: 2026-02-05T07:51:24
 
 ---
 
-課題分離
+課題分離：區分出「[事實](seek-for-the-truth.md)」與「觀點」
 
 ---
 
