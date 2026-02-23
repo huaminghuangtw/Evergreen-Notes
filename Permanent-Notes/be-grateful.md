@@ -1,7 +1,7 @@
 ---
 title: Be Grateful
 created: 2025-12-11T06:45:36
-modified: 2026-02-05T07:51:24
+modified: 2026-02-23T17:44:14
 ---
 
 #Newsletter
@@ -11,6 +11,8 @@ modified: 2026-02-05T07:51:24
 > “Feeling gratitude and not expressing it is like wrapping a present and not giving it.” — William Arthur Ward
 
 > “The more grateful I am, the more beauty I see.” — Mary Davis
+
+> “The struggle ends when the gratitude begins.” — Neale Donald Walsch
 
 ---
 
