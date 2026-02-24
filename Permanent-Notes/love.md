@@ -1,7 +1,7 @@
 ---
 title: Love
 created: 2024-11-18T09:16:50
-modified: 2026-02-12T21:10:24
+modified: 2026-02-24T09:29:58
 ---
 
 > “Love is the absence of judgment.” — Dalai Lama
@@ -13,6 +13,8 @@ modified: 2026-02-12T21:10:24
 > “Love is the only way to grasp another human being in the innermost core of his personality.” — Viktor Frankl
 
 > “Love is taking a few steps backward maybe even more… to give way to the happiness of the person you love.” — Winnie-the-Pooh
+
+> [“Love takes up where knowledge leaves off.” — Thomas Aquinas](https://www.brainyquote.com/quotes/thomas_aquinas_131967)
 
 > “Some people care too much. I think it’s called love.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)
 
