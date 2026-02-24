@@ -1,7 +1,7 @@
 ---
 title: Communication
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-24T10:02:26
 ---
 
 > “The single biggest problem in communication is the illusion that it has taken place.” — George Bernard Shaw
@@ -130,6 +130,12 @@ When you think you’ve communicated plenty, you almost certainly haven’t.
 Different team members might interpret the shared information in different ways or have different levels of context or understanding.
 
 Over-communication means deliberately going beyond the minimum you think is necessary, and consequently ending up sharing exactly the right amount.
+
+---
+
+# The Five Ws
+
+Always tell people _who_ is going to do _what_, _where_, _when_, and _why_.
 
 ---
 
