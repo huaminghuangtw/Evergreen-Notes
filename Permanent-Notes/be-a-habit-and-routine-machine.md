@@ -1,7 +1,7 @@
 ---
 title: Be a habit and routine machine
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T09:25:34
+modified: 2026-02-25T13:18:57
 ---
 
 > “Outer order contributes to inner calm.” — Gretchen Rubin
@@ -35,6 +35,8 @@ Routines are habits layered on top of each other.
 Your habits are the _silent architects_ of your life. How you spend your days is how you spend your life.
 
 ---
+
+> “On average, it takes more than 2 months before a new behavior becomes automatic — 66 days to be exact.” — James Clear
 
 Repeating a particular motion sixty times a day over twenty-one days will form a new habit.
 
