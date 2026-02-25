@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2026-02-24T10:17:24
+modified: 2026-02-25T09:23:50
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -78,27 +78,28 @@ When the interviewer pressed him, asking whether there were players who don’t,
 
 大腦是人體最耗能的器官，雖然僅佔總體重約 2%，卻消耗總能量的 20%
 
-
 ---
 
 Antifragile: Things That Gain From Disorder, author Nassim Taleb offered a sharp rebuke of the human tendency to gather more information at all costs (emphasis mine):
-“Data is now plentiful thanks to connectivity; and the share of spuriousness in the data increases as one gets more immersed into it. A not well discussed property of data: it is toxic in large quantities—even in moderate quantities...
-​
-The more frequently you look at data, the more noise you are disproportionally likely to get (rather than the valuable part called the signal); hence the higher the noise to signal ratio...”
 
+“Data is now plentiful thanks to connectivity; and the share of spuriousness in the data increases as one gets more immersed into it. A not well discussed property of data: it is toxic in large quantities—even in moderate quantities…
+
+The more frequently you look at data, the more noise you are disproportionally likely to get (rather than the valuable part called the signal); hence the higher the noise to signal ratio…”
 
 ---
 
 Noise Bottleneck:
-“This is hard to accept in the age of the internet. It has been very hard for me to explain that the more data you get, the less you know what’s going on...”
 
+“This is hard to accept in the age of the internet. It has been very hard for me to explain that the more data you get, the less you know what’s going on…”
 
 ---
 
-[Augustine's Divided Will: We sabotage our own goals not because we're weak, but because we genuinely want contradictory things at the same time. The conflict isn't a flaw to fix. It's what being human feels like.](https://plato.stanford.edu/entries/augustine/)
+[Augustine’s Divided Will: We sabotage our own goals not because we’re weak, but because we genuinely want contradictory things at the same time. The conflict isn’t a flaw to fix. It’s what being human feels like.](https://plato.stanford.edu/entries/augustine/)
 
 [Is willpower like a battery that can run out? The popular theory of ego depletion says yes.
+
 However, a major replication with 23 labs and over 2,000 participants failed to reproduce the effect.](https://journals.sagepub.com/doi/10.1177/1745691616652873)
 
 We have multiple conflicting desires pulling us in different directions simultaneously.
+
 We want to exercise and stay comfortable. Be productive and relax.
