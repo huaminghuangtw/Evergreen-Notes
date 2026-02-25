@@ -1,7 +1,7 @@
 ---
 title: Communication
 created: 2024-11-18T09:18:12
-modified: 2026-02-24T10:02:26
+modified: 2026-02-25T13:25:04
 ---
 
 > “The single biggest problem in communication is the illusion that it has taken place.” — George Bernard Shaw
