@@ -1,7 +1,7 @@
 ---
 title: A friend to all is a friend to none
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-25T10:17:21
 ---
 
 > “A true friend never gets in your way unless you happen to be going down.” — Arnold H. Glasow
@@ -40,9 +40,14 @@ Be the someone else’s friend who is always there—in good times and bad. Be t
 
 ---
 
-**No friends > Bad friends**
+# No friends > Bad friends
+
 * Do not fear having no friends. Fear having bad friends.
 * [寧缺勿/毋濫](https://www.google.com/search?q=%E5%AF%A7%E7%BC%BA%E5%8B%BF%E6%BF%AB)
+
+---
+
+Keeping friendships > Making friends
 
 ---
 
