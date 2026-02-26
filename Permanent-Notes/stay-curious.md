@@ -1,7 +1,7 @@
 ---
 title: Stay curious
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-26T08:28:44
 ---
 
 > “The cure for boredom is curiosity. There is no cure for curiosity.” — Dorothy Parker
@@ -25,6 +25,8 @@ modified: 2026-02-05T07:51:24
 > “Develop an interest in life as you see it; the people, things, literature, music - the world is so rich, simply throbbing with rich treasures, beautiful souls, and interesting people. Forget yourself.” — Henry Miller
 
 > “Empty your cup so that it may be filled; become devoid to gain totality.” — Bruce Lee
+
+> “When you’re curious, you find lots of interesting things to do.” — Walt Disney
 
 ---
 
