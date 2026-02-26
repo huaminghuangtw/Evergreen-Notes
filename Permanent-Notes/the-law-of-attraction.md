@@ -1,7 +1,7 @@
 ---
 title: The Law of Attraction
 created: 2025-10-26T15:33:23
-modified: 2026-02-05T07:51:24
+modified: 2026-02-26T19:39:44
 ---
 
 > “What you seek is seeking you.” — Rumi
@@ -15,6 +15,8 @@ modified: 2026-02-05T07:51:24
 = 吸引力法則 ≈ [The Frequency Illusion](https://sketchplanations.com/the-frequency-illusion) = [Baader–Meinhof phenomenon](https://www.google.com/search?q=Baader%E2%80%93Meinhof+phenomenon) =[Selective Attention](https://www.google.com/search?q=Selective+Attention)
 
 ---
+
+# 向宇宙下訂單
 
 [@byrneSecret2006]
 
