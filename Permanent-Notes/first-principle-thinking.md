@@ -1,7 +1,7 @@
 ---
 title: First-Principle Thinking
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-26T09:10:49
 ---
 
 > “There comes a point where we need to stop just pulling people out of the river. We need to go upstream and find out why they’re falling in.” — Desmond Tutu
@@ -33,6 +33,10 @@ Optimize the function. Ignore the form.
 ---
 
 Fundamental Truth（底層邏輯）
+
+---
+
+一理通，萬理徹。
 
 ---
 
