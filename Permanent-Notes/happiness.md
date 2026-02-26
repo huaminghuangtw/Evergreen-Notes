@@ -1,7 +1,7 @@
 ---
 title: Happiness
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-26T09:07:33
 ---
 
 > “Happiness is a state where nothing is missing.” — Naval Ravikant
@@ -184,6 +184,10 @@ Simple story on “Happiness is found through service of others.”
 > 我的二姊最像媽媽，我問起她關於幸福的感覺，她燦爛的笑起來說:「我常常感到幸福。看到窗外綠意盎然，感到腸光曬在身上，有體力爬山，兒子弄一桌飯菜，替我鋪好被單，衣服洗好被曬起來，看一本好書，聽一場講道，親友們的問候和體貼，和家人聊天或回憶。」
 >
 > 幸福就是這樣隨手可得的。每個人每天每時每刻都有可能體驗到幸福，除非你是一個非常頑強又自以爲是的人，把幸福當成是不能回收的垃圾，隨手丟棄，讓垃圾筒裡堆滿了你丟棄的幸福，兀自嘆息。
+
+---
+
+讓自己快樂是智慧，讓別人快樂是慈悲。
 
 [^1]: [Dr. Paul Conti presented that the most salient 2 variables associated with mental health are **agency** and **gratitude**.](https://www.youtube.com/watch?v=tLRCS48Ens4&t=11m15s)
 [^2]: Satisfaction = What you have - What you want. [Lowering desires/expectations](the-absence-of-desire-is-true-happiness.md) can increase satisfaction.
