@@ -1,7 +1,7 @@
 ---
 title: Everything in life has an opportunity cost
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-02-27T20:31:35
 ---
 
 > “The real price of everything, what everything really costs to the man who wants to acquire it, is the toil and trouble of acquiring it.” — Adam Smith, The Wealth of Nations
@@ -11,6 +11,10 @@ modified: 2026-02-05T07:51:24
 ---
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Opportunity_cost), opportunity cost is the value of the choice of the best alternative cost while making a decision.
+
+---
+
+有得就有失
 
 ---
 
