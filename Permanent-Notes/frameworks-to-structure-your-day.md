@@ -1,7 +1,7 @@
 ---
 title: Frameworks to structure your day
 created: 2025-01-23T18:40:57
-modified: 2026-02-20T08:43:38
+modified: 2026-02-27T09:12:33
 ---
 
 > [Live life by design, not default.](https://fs.blog/david-foster-wallace-this-is-water/) Make each day your masterpiece. How you spend your days is how you spend your life.
@@ -95,9 +95,9 @@ modified: 2026-02-20T08:43:38
 	* 1 hour before bed — No more screen time (turn off all phones, TVs and computers).
 	* 0 — The number of times you will hit the snooze button in the morning.
 * 3Es
-	* In the morning, **execute** your priorities
-	* In the afternoon, **exercise** your body
-	* In the evening, **educate** your brain
+	* In the morning, execute your priorities
+	* In the afternoon, exercise your body
+	* In the evening, educate your brain
 * 3Rs for unwind routine
 	* Review
 	* Read (Light/Pleasure Reading)
