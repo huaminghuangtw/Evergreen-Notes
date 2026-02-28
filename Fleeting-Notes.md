@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2026-02-26T07:57:51
+modified: 2026-02-28T07:55:46
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -96,9 +96,7 @@ Noise Bottleneck:
 
 [Augustine’s Divided Will: We sabotage our own goals not because we’re weak, but because we genuinely want contradictory things at the same time. The conflict isn’t a flaw to fix. It’s what being human feels like.](https://plato.stanford.edu/entries/augustine/)
 
-[Is willpower like a battery that can run out? The popular theory of ego depletion says yes.
-
-However, a major replication with 23 labs and over 2,000 participants failed to reproduce the effect.](<https://journals.sagepub.com/doi/10.1177/1745691616652873>)
+[Is willpower like a battery that can run out? The popular theory of ego depletion says yes. However, a major replication with 23 labs and over 2,000 participants failed to reproduce the effect.](https://journals.sagepub.com/doi/10.1177/1745691616652873)
 
 We have multiple conflicting desires pulling us in different directions simultaneously.
 
