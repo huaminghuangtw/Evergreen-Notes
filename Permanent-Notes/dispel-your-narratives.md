@@ -1,14 +1,16 @@
 ---
 title: Dispel your narratives
 created: 2024-11-18T09:18:12
-modified: 2026-02-15T08:51:23
+modified: 2026-02-28T11:21:41
 ---
 
 > “Wisdom accepts that all things have two sides.” — Carl Jung
 
-> I never ask if “I like it” or “I don’t like it.” I think “this is what it is” or “this is what it isn’t.” — Richard Feynman
+> “I never ask if “I like it” or “I don’t like it.” I think “this is what it is” or “this is what it isn’t.” — Richard Feynman
 
 > “You never know what will be the consequence of the misfortune; or, you never know what will be the consequences of good fortune.” — Alan Watts
+
+> [“Reality is neutral. Reality has no judgments. To a tree, there is no concept of right or wrong, good or bad.” — Naval Ravikant](https://youtu.be/3qHkcs3kG44&t=1h56m55s)
 
 ---
 
