@@ -1,7 +1,7 @@
 ---
 title: Failing forward turns setbacks into stepping stones
 created: 2024-11-18T09:18:12
-modified: 2026-02-11T09:49:09
+modified: 2026-02-28T21:37:39
 ---
 
 > “Opportunity often comes disguised in the form of misfortune or temporary defeat.” — Napoleon Hill
@@ -46,6 +46,7 @@ You don’t have to get it right the first time. Just fail faster.
 
 * Failure is not the opposite of success, it’s part of success. Failure is success in progress.
 * Success comes from turning _setbacks_ into _comebacks_.
+* 失敗是成功的近義詞。成功的反義詞不是失敗，而是 [平庸](the-fight-against-normalcy.md)。
 
 ---
 
