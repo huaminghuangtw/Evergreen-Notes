@@ -1,7 +1,7 @@
 ---
 title: Have the courage to do the right things
 created: 2024-12-08T00:37:07
-modified: 2026-02-16T06:28:39
+modified: 2026-03-01T16:19:55
 ---
 
 > “The opposite of love is not hate, it’s indifference. The opposite of art is not ugliness, it’s indifference. The opposite of faith is not heresy, it’s indifference. And the opposite of life is not death, it’s indifference.” — Elie Wiesel
@@ -46,7 +46,7 @@ Even if we can’t fix everything, we should always speak up and tell others whe
 
 ---
 
-[The Drowning Child in the Pond](the-drowning-child-in-the-pond.md)
+[The Drowning Child in the Pond](https://huami.ng/2026/2/6/enoughness-17/#3)
 
 ---
 
