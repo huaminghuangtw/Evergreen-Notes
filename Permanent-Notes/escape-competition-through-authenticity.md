@@ -1,7 +1,7 @@
 ---
 title: Escape competition through authenticity
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T09:22:22
+modified: 2026-02-28T21:36:35
 ---
 
 > “Everything popular is wrong.” — Oscar Wilde
@@ -31,25 +31,6 @@ modified: 2026-02-05T09:22:22
 > [”The more neatly you fit into society, the less free you actually are.” — Naval Ravikant](https://x.com/naval/status/1319054238362730496)
 
 > [“Every human is non-fungible at the DNA level. It’s society, shame and conditioning that chips away at individuality.” — George Mack](https://x.com/george__mack/status/1731285742410752077)
-
----
-
-# The Fight Against Normalcy
-
-> “Normal is the average of deviance.” — Rita Mae Brown
-
-> “If you are always trying to be normal you will never know how amazing you can be.” — Maya Angelou
-
-> “Do not conform to the pattern of this world, but be transformed by the renewing of your mind.” — Romans 12:2
-
-> “You can’t be normal and expect abnormal returns.” — Jeffrey Pfeffer
-
-> “Extreme people get extreme results.” — Sam Altman
-
-* Maintaining your uniqueness in a world that pulls you to blend in, is the only way to realize your full potential and live a fulfilled, texture-rich existence.
-* It comes with a risk, but the rewards are abundant. It may come with a steep cost in the short-term, but the long-term rewards are worth it.
-
-[Always do your best as possible](always-do-your-best-as-possible.md)
 
 ---
 
@@ -100,6 +81,10 @@ Find a thing that’s so you, that doing it is just a natural extension of you b
 ---
 
 [Be primarily internally driven](be-primarily-internally-driven-with-intrinsic-motivation.md)
+
+---
+
+[The Fight Against Normalcy](the-fight-against-normalcy.md)
 
 ---
 
