@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2026-02-20T08:35:56
+modified: 2026-02-28T21:26:58
 ---
 
 > “Learning never exhausts the mind.” — Leonardo da Vinci
@@ -78,12 +78,6 @@ _[Ultralearning](https://www.scotthyoung.com/blog/ultralearning/)_ by Scott Youn
 ---
 
 # [Human Sponges](human-sponges.md)
-
----
-
-# [Four Stages of Competence](https://sketchplanations.com/stages-of-competence-framework)
-
-![](_attachments/6703e4a54443e5507718458802383a45.png)
 
 ---
 
@@ -235,6 +229,10 @@ Always starting from the most basic and simplest level, then adding more complex
 	* **Pro Tip:** Pause longer after key points to allow the “Gap Effects” to happen
 * Avoid phone immediately after a study session to offset forgetting
 * A good night of [restorative](https://dictionary.cambridge.org/dictionary/english/restorative) [sleep](sleep.md) BEFORE and AFTER [^3] studying/learning is crucial for get the best out of your studying/learning efforts. [^4] → _“If you don’t snooze, you lose.”_ [^5]
+
+---
+
+[The Hierarchy of Competence](the-hierarchy-of-competence.md)
 
 ---
 
