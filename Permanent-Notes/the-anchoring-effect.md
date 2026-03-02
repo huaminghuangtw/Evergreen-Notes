@@ -1,7 +1,7 @@
 ---
 title: The Anchoring Effect
 created: 2025-10-03T06:50:26
-modified: 2026-02-20T07:14:37
+modified: 2026-03-02T07:46:26
 ---
 
 [The anchoring effect](https://sketchplanations.com/anchoring) is a cognitive bias where people rely too heavily on the first piece of information (the “anchor”) when [making decisions](decision-making.md).
@@ -17,7 +17,7 @@ Once an anchor is set, subsequent judgments are made by adjusting away from that
 # Related Concepts
 
 * Adjustment Heuristic
-* [[The Framing Effect]] #TODO Homepage get all wikilinks?
+* The Framing Effect
 
 # References
 
