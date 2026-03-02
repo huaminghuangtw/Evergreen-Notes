@@ -1,7 +1,7 @@
 ---
 title: Be ready to change your mind completely at any given time
 created: 2024-12-04T15:59:39
-modified: 2026-02-12T21:08:10
+modified: 2026-03-02T06:57:44
 ---
 
 > [“Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won’t come in.” — Alan Alda](https://www.goodreads.com/quotes/667214-your-assumptions-are-your-windows-on-the-world-scrub-them)
@@ -48,10 +48,6 @@ Nev­er for­get that, no mat­ter how cer­tain, you might be wrong. The only b
 
 ---
 
-[The Cookie Thief](the-cookie-thief.md)
-
----
-
 [Reflect & Review](reflect-and-review.md)
 
 ---
@@ -61,6 +57,10 @@ Nev­er for­get that, no mat­ter how cer­tain, you might be wrong. The only b
 ---
 
 [Maslow’s Hammer](maslows-hammer.md)
+
+---
+
+[The Cookie Thief](https://huami.ng/the-cookie-thief)
 
 [^1]: This is called “[Integrative Complexity](https://psychology.iresearchnet.com/social-psychology/decision-making/integrative-complexity/)” in Psychology
 [^2]: To remain “stupid” means refusing to learn, refusing to think, or deliberately avoiding knowledge and growth.
