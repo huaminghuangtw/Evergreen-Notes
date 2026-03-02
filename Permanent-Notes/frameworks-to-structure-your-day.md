@@ -1,7 +1,7 @@
 ---
 title: Frameworks to structure your day
 created: 2025-01-23T18:40:57
-modified: 2026-02-27T09:12:33
+modified: 2026-03-02T20:54:08
 ---
 
 > [Live life by design, not default.](https://fs.blog/david-foster-wallace-this-is-water/) Make each day your masterpiece. How you spend your days is how you spend your life.
@@ -69,6 +69,7 @@ modified: 2026-02-27T09:12:33
 				* Soul
 				* Service
 				* Smile
+* Daily dose of _sweat_, _sunlight_ and _silence_ (or _solitude_ or _stillness_) will solve 99% of your (mental) problems.
 * The 4 Quarters Rule [^1]
 	* Reframe each day as 4 quarters:
 		* **Quarter 1 (Morning)**
@@ -99,7 +100,7 @@ modified: 2026-02-27T09:12:33
 	* In the afternoon, exercise your body
 	* In the evening, educate your brain
 * 3Rs for unwind routine
-	* Review
+	* [Reflect & Review](reflect-and-review.md) [^2]
 	* Read (Light/Pleasure Reading)
 	* Relax
 * 3Ds
@@ -114,3 +115,4 @@ modified: 2026-02-27T09:12:33
 [Always start and end the day right](always-start-and-end-the-day-right.md)
 
 [^1]: _“Instead of feeling that you’ve blown the day and thinking, “I’ll get back on track tomorrow,” try thinking of each day as a set of four quarters: morning, midday, afternoon, evening. If you blow one quarter, you get back on track for the next quarter. Fail small, not big.” — Gretchen Rubin, Better Than Before_ [@rubinBetterMasteringHabits2015]
+[^2]: 每日自省吾身
