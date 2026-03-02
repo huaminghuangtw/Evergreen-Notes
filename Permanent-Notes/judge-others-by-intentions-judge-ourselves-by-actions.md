@@ -1,7 +1,7 @@
 ---
 title: Judge others by intentions, judge ourselves by actions
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T09:22:22
+modified: 2026-03-02T06:57:58
 ---
 
 > “We judge ourselves by our intentions and others by their behavior.” — Stephen Covey [^1]
@@ -59,6 +59,6 @@ modified: 2026-02-05T09:22:22
 
 ---
 
-[The Cookie Thief](the-cookie-thief.md)
+[The Cookie Thief](https://huami.ng/the-cookie-thief)
 
 [^1]: Use the other way round for ourselves!
