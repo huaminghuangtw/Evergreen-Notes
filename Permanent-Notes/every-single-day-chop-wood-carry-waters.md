@@ -1,7 +1,7 @@
 ---
 title: Every single day, chop wood, carry waters
 created: 2024-11-18T09:18:12
-modified: 2026-02-12T21:09:15
+modified: 2026-03-03T09:00:25
 ---
 
 > [“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)
@@ -25,6 +25,8 @@ modified: 2026-02-12T21:09:15
 > “Every day of our lives, we are on the verge of making those slight changes that would make all the difference.” — Mignon McLaughlin
 
 > “Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.” — Robert Greene
+
+> “Be not afraid of growing slowly; be afraid only of standing still.” — Chinese Proverb [^3]
 
 ---
 
@@ -149,7 +151,7 @@ Doing a thing once is nothing special. You’re only a legend if you can do it b
 
 ---
 
-EVERYDAY is easier than SOMEDAY. [^3] Embrace the daily mundane activities / ordinary actions. Find the lifelong rhythm.
+EVERYDAY is easier than SOMEDAY. [^4] Embrace the daily mundane activities / ordinary actions. Find the lifelong rhythm.
 
 > “It’s easier to hold your principles 100 percent of the time than it is to hold them 98 percent of the time.” — Clayton M. Christensen, [How Will You Measure Your Life?](https://www.goodreads.com/work/quotes/18907551)
 
@@ -221,4 +223,5 @@ There’s a magic in showing up on your bad days. The choice is yours. Choose wi
 
 [^1]: 我不怕練一萬種拳的人，但我怕一種拳練一萬次的人。
 [^2]: The only dangerous competitors are the hyper-focused ones.
-[^3]: Every day (_identity_) is easier than most days (_negotiation_).
+[^3]: 做該做的事，該發生的事就會發生。
+[^4]: Every day (_identity_) is easier than most days (_negotiation_).
