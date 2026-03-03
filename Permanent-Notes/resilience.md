@@ -1,20 +1,20 @@
 ---
 title: Resilience
 created: 2024-11-18T09:04:18
-modified: 2026-02-05T09:22:22
+modified: 2026-03-03T08:31:15
 ---
 
 > [“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)
 
 > “Resilience is not what happens to you. It’s how you [react to, respond to](choose-your-response.md), and recover from what happens to you.” — Jeffrey Gitomer
 
-> “The struggle you’re in today is developing the strength you need for tomorrow.” — Robert Tew
+> “The struggle you’re in today is developing the strength you need for tomorrow.” — Robert Tew [^1]
 
 > “The obstacle is the way.” — Marcus Aurelius
 
 > “Obstacles are things a person sees when he takes his eyes off his goal.” — E. Joseph Cossman
 
-> “There can be no lotus flower without the mud.” — Thích Nhất Hạnh, No Mud, No Lotus [^1]
+> “There can be no lotus flower without the mud.” — Thích Nhất Hạnh, No Mud, No Lotus [^2]
 
 > [“Remember diamonds are created under pressure so hold on, it will be your time to shine soon.” — Sope Agbelusi](https://www.goodreads.com/quotes/7900485-remember-diamonds-are-created-under-pressure-so-hold-on-it)
 
@@ -90,4 +90,5 @@ Resistance, obstacles, and roadblocks lead to growth. “A gem cannot be polishe
 
 [The Let-Them Theory](the-let-them-theory.md)
 
-[^1]: _“As a lotus flower is born in water, grows in water, and rises out of water to stand above it unsoiled. So I, born and raised in the world, having overcome the world, live unsoiled by the world.” — Buddha_
+[^1]: _“Strength does not come from winning. Your struggles develop your strengths.” — Arnold Schwarzenegger_
+[^2]: _“As a lotus flower is born in water, grows in water, and rises out of water to stand above it unsoiled. So I, born and raised in the world, having overcome the world, live unsoiled by the world.” — Buddha_
