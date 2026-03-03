@@ -1,7 +1,7 @@
 ---
 title: The Art of Quitting
 created: 2024-11-18T09:18:12
-modified: 2026-02-15T07:28:45
+modified: 2026-03-03T07:32:35
 ---
 
 > “I am as proud of what we don’t do as I am of what we do.” — Steve Jobs
@@ -156,6 +156,6 @@ Instead of _“Should I quit?”_, ask: _“If I wasn’t already in this, would
 
 ---
 
-[Loss Aversion](Loss%20Aversion.md)
+[loss-aversion](loss-aversion.md)
 
 [^1]: See charts [here](https://www.linkedin.com/posts/stevenbartlett-123_how-to-know-when-to-quit-something-activity-7235220853292957697-uC4F)
