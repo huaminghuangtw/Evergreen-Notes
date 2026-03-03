@@ -1,7 +1,7 @@
 ---
 title: Not caring lets us perform better
 created: 2024-11-18T09:18:12
-modified: 2026-02-20T08:43:38
+modified: 2026-03-03T08:43:24
 ---
 
 > “If you aim at nothing, you will hit it every time.” — Zig Ziglar
@@ -28,7 +28,7 @@ In this frame, the ideal combination to minimize or remove self-interference is 
 
 ---
 
-佛系 🧘🏽
+佛系（Zen）🧘🏽 [^1]
 
 ---
 
@@ -60,3 +60,5 @@ In this frame, the ideal combination to minimize or remove self-interference is 
 ---
 
 [The absence of desire is true happiness](the-absence-of-desire-is-true-happiness.md)
+
+[^1]: Zen is a state of calm attentiveness in which one’s actions are guided by intuition rather than by conscious effort.
