@@ -1,7 +1,7 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2026-02-20T17:43:29
+modified: 2026-03-04T19:27:36
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
@@ -57,6 +57,8 @@ modified: 2026-02-20T17:43:29
 > “People are not disturbed by things, but by the views they take of them.” — Epictetus [^1]
 
 > “There are no [mistakes](mistake.md). They are happy accidents.” — Bob Ross
+
+> “We can complain that rosebushes have thorns, or rejoice that thorns have roses.” — Alphonse Karr
 
 ---
 
@@ -219,3 +221,7 @@ If you’re 37, don’t regret not waking up at 18 again. Instead, imagine you�
 ---
 
 [The Law of Attraction](the-law-of-attraction.md)
+
+---
+
+[Optimism](optimism.md)
