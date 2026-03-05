@@ -1,7 +1,7 @@
 ---
 title: Burnout
 created: 2024-11-18T09:18:12
-modified: 2025-10-27T08:09:18
+modified: 2026-03-05T07:28:44
 ---
 
 = 過勞
@@ -21,9 +21,9 @@ You may feel overwhelmed, unmotivated, and unable to keep up, no matter how hard
 
 According to the [World Health Organization (WHO)](https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases), burn-out is a syndrome conceptualized as resulting from chronic workplace stress that has not been successfully managed. It is characterized by three dimensions:
 
-* feelings of energy depletion or exhaustion;
-* increased mental distance from one’s job, or feelings of negativism or cynicism related to one’s job; and
-* reduced professional efficacy.
+1. feelings of energy depletion or exhaustion;
+2. increased mental distance from one’s job, or feelings of negativism or cynicism related to one’s job; and
+3. reduced professional efficacy.
 
 ---
 
@@ -50,11 +50,16 @@ According to the [World Health Organization (WHO)](https://www.who.int/news/item
 [@abdaalFeelGoodProductivityHow2024]
 
 1. Overexertion Burnout
-	* This burnout comes from doing **too much for too long** [^1] without adequate rest or recovery.
+
+	> This burnout comes from doing **too much for too long** [^1] without adequate rest or recovery.
+
 2. Depletion Burnout
-	* This burnout arises from **doing work that constantly drains your energy**, even if the workload itself isn’t overwhelming.
+
+	> This burnout arises from **doing work that constantly drains your energy**, even if the workload itself isn’t overwhelming.
+
 3. Misalignment Burnout
-	* This occurs when your work is **out of sync with your values, goals, or identity**.
+
+	> This occurs when your work is **out of sync with your values, goals, or identity**.
 
 ---
 
@@ -66,7 +71,14 @@ Hemingway advised against pushing to exhaustion. Leaving energy in reserve helps
 
 ---
 
-[Energy Management](energy-management.md)
+# Actionable Strategies for Prevention & Recovery
+
+* **[Prioritize intentional rest:](the-most-productive-people-prioritize-intentional-rest.md)** Rest is not a reward, but a prerequisite for sustainable productivity.
+* **Set boundaries:** Learn to [say no](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md), and protect your [time](time-is-the-most-valuable-asset.md) and [energy](energy-management.md).
+* **Align work with values:** Burnout often signals misalignment. Reconnect with your sense of [purpose and meaning](why-we-exist.md).
+* **Alternate intensity and recovery:** The most productive people [work in focused sprints, then fully rest](work-in-sprints-work-with-your-biology.md). Avoid the “marathon pace” trap—switch between [deep work](deep-work.md), [rest](the-most-productive-people-prioritize-intentional-rest.md), and play.
+* **Sleep is non-negotiable:** Treat [sleep](sleep.md) as the foundation of all performance, not something to sacrifice.
+* **[Redefine success:](what-success-means-to-me.md)** Focus on sustainability, not just achievement.
 
 ---
 
