@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2026-02-28T07:55:46
+modified: 2026-03-05T10:16:55
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -40,7 +40,9 @@ Source: Paraphrased from the Tao Te Ching. The original translation reads closer
 
 ---
 
-it’s almost impossible to beat someone who genuinely enjoys the work itself.
+It’s hard to compete with someone who is just there to have fun.
+
+It’s almost impossible to beat someone who genuinely enjoys the work itself.
 
 And when you find that thing—that game you genuinely enjoy—I’ll say the same thing I said about Tim:
 
@@ -49,6 +51,8 @@ Good luck to anyone trying to compete with you.
 [Never try to compete against someone who is obsessed (like Kobe Bryant)](https://youtu.be/tqiMvVIwu1g)
 
 樂在其中/走火入魔的人 \>\>\> 認真勤奮努力的人
+
+Bring Joy = Ultimate Competitive Advantage.
 
 ---
 
