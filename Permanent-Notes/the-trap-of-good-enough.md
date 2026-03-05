@@ -1,7 +1,7 @@
 ---
 title: The Trap of Good Enough
 created: 2025-12-14T08:56:00
-modified: 2026-02-05T07:51:24
+modified: 2026-03-05T07:31:06
 ---
 
 > “Nothing is so painful to the human mind as a great and sudden change.” — Mary Shelley, Frankenstein (科學怪人)
@@ -49,5 +49,9 @@ Nothing changes if nothing changes. If you change nothing, nothing will change.
 Change requires death: The death of old beliefs, old habits, old environments.
 
 Reinvention has a cost of entry. Pay it with pride.
+
+---
+
+[The dose makes the poison](https://www.google.com/search?q=The+dose+makes+the+poison). Some things are beneficial in small amounts but become harmful in excess—such as free time, intensity, and stress. The key is to find the optimal dose, which is unique to you and will evolve through different seasons of your life.
 
 [^1]: 放棄，其實比堅持更難；因為放棄需要理由。
