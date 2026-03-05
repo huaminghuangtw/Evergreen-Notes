@@ -1,7 +1,7 @@
 ---
 title: Perfectionism
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T09:22:23
+modified: 2026-03-05T10:03:23
 ---
 
 > “You don’t have to be great to start, but you have to start to be great.” — Zig Ziglar
@@ -69,6 +69,12 @@ Imperfect [action](cultivate-a-strong-bias-towards-action.md) trumps visualized 
 > “Premature optimization is the root of all evil.” — Donald Knuth [^2]
 
 Done is better than perfect. — First make it work. Then optimize (pretty, efficient, documented). Don’t over-engineer. Never start to scale/optimize things too early. Use [feedback](feedback.md) for fast iterations. _**It’s okay to be wrong.**_
+
+---
+
+# [Double meaning of Release](https://chengweihu.com/io/double-meaning-of-release/)
+
+> [“Regarding sharing creative work, the word “release” carries a double meaning. It signifies that the work is made available to the public and that the author is liberated from the pursuit of perfection.” — Derek Sivers](https://tim.blog/2023/04/21/derek-sivers/)
 
 ---
 
