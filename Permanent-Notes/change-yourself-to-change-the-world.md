@@ -1,7 +1,7 @@
 ---
 title: Change yourself to change the world
 created: 2024-11-18T09:18:12
-modified: 2026-02-06T10:43:20
+modified: 2026-03-05T17:52:33
 ---
 
 > “Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi
@@ -53,6 +53,8 @@ Before changing yourself, you need to [knowing yourself](mastering-yourself-is-s
 > “You take your life in your own hands, and what happens? A terrible thing, no one to blame.” — Erica Jong
 
 > “It’s your road, and yours alone, others may walk it with you, but no one can walk it for you.” — Rumi
+
+> “The best day of your life is the one on which you decide your life is your own. No apologies or excuses. No one to lean on, rely on, or blame. The gift is yours. It is an amazing journey. And you alone are responsible for the quality of it. This is the day your life really begins.” — Bob Moawad
 
 [Your entire life will change the day you realize that everything is on you. No one is coming to save you. No one will fix your problems. No one can act on your behalf. No one will change your mindsets. No one will hand you the things you want in life. It’s the acceptance that you have to hunt if you want to eat. It’s all on you.](https://x.com/SahilBloom/status/1855607589578453496)
 
