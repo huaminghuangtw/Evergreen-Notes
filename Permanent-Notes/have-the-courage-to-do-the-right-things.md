@@ -1,7 +1,7 @@
 ---
 title: Have the courage to do the right things
 created: 2024-12-08T00:37:07
-modified: 2026-03-01T16:19:55
+modified: 2026-03-05T09:12:44
 ---
 
 > “The opposite of love is not hate, it’s indifference. The opposite of art is not ugliness, it’s indifference. The opposite of faith is not heresy, it’s indifference. And the opposite of life is not death, it’s indifference.” — Elie Wiesel
@@ -15,6 +15,8 @@ modified: 2026-03-01T16:19:55
 > “Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.” — William Faulkner
 
 > “Being polite is withholding feedback to make someone feel good today. Being kind is being candid about how they can get better tomorrow” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)
+
+> “Indifference and neglect often do much more damage than outright dislike.” — Albus Dumbledore (written by J.K. Rowling), [Harry Potter and the Order of the Phoenix](https://www.goodreads.com/work/quotes/2809203)
 
 ---
 
