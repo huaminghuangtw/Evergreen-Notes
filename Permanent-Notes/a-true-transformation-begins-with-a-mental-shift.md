@@ -1,12 +1,14 @@
 ---
 title: A true transformation begins with a mental shift
 created: 2025-01-23T10:40:57
-modified: 2026-03-04T19:27:36
+modified: 2026-03-05T09:11:16
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
 
 ---
+
+> “If you can change your mind, you can change your life.” — William James
 
 > “My destination is no longer a place, rather a new way of seeing.” — Marcel Proust
 
