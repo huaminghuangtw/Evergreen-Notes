@@ -1,7 +1,7 @@
 ---
 title: Always start small
 created: 2025-03-05T05:32:10
-modified: 2026-02-28T17:22:57
+modified: 2026-03-06T11:06:01
 ---
 
 > “It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith
@@ -54,7 +54,9 @@ If you spend 100 hours a year in any discipline (which is only 18 minutes a day)
 
 # Small Things Become Big Things
 
-[For Want of a Nail](https://huami.ng/for-want-of-a-nail)
+* [For Want of a Nail](https://huami.ng/for-want-of-a-nail)
+* 涓滴成河（Kleinvieh macht auch Mist.）
+* 積少成多
 
 ---
 
