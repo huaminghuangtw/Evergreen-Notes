@@ -1,7 +1,7 @@
 ---
 title: True education begins where school ends
 created: 2025-01-23T18:40:57
-modified: 2026-02-12T21:14:00
+modified: 2026-03-06T09:11:35
 ---
 
 > “School is one thing. Education is another. The two don’t always overlap. Whether you’re in school or not, it’s always your job to get yourself an education.” — Austin Kleon
@@ -49,6 +49,8 @@ School lays the foundation, but true education starts when you step beyond the c
 # 當知道的越多，就會發現不知道的也越多
 
 讀書若不思考，只會讓你自以為知道很多；讀書並深思，才會讓你清楚自己所知有限。
+
+> “The wisest mind has something yet to learn.” — George Santayana
 
 > [“The only true wisdom is in knowing you know nothing.” — Socrates](https://www.goodreads.com/quotes/9431-the-only-true-wisdom-is-in-knowing-you-know-nothing)
 
