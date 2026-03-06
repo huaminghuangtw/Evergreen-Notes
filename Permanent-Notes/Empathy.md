@@ -1,7 +1,7 @@
 ---
 title: Empathy
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-03-06T10:54:06
 ---
 
 > “I do not ask the wounded person how he feels, I myself become the wounded person.” — Walt Whitman
@@ -11,6 +11,8 @@ modified: 2026-02-05T07:51:24
 > [“People have boldness to criticize but not to sensitize.” — Amit Kalantri](https://www.goodreads.com/quotes/1134221-people-have-boldness-to-criticize-but-not-to-sensitize)
 
 > “When you show deep empathy toward others, their defensive energy goes down, and positive energy replaces it.” — Stephen Covey
+
+> “Perhaps one did not want to be loved so much as to be understood.” — George Orwell
 
 ---
 
