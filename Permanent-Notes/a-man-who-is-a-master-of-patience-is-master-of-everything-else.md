@@ -1,7 +1,7 @@
 ---
 title: A man who is a master of patience is master of everything else
 created: 2024-11-18T09:18:12
-modified: 2026-03-02T07:45:18
+modified: 2026-03-07T14:20:18
 ---
 
 > [“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)
@@ -49,6 +49,10 @@ modified: 2026-03-02T07:45:18
 ---
 
 One moment of patience may ward off great disaster. One moment of impatience may ruin a whole life.
+
+---
+
+Gentle persistence guides us toward our destination in [its own timeline](everyone-is-on-their-own-timeline.md).
 
 ---
 
