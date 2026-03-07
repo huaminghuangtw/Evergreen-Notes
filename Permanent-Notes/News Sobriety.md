@@ -1,7 +1,7 @@
 ---
 title: News Sobriety
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-03-07T14:38:29
 ---
 
 > “If you don’t read the newspaper, you’re uninformed. If you read the newspaper, you’re misinformed.” — Mark Twain
@@ -39,3 +39,13 @@ Want to know more about the world? Turn off the news and go spend time in it.
 * Sandbox the article from your worldview until you’ve:
 	* Seen primary sources
 	* Spoken to 3 domain experts
+
+---
+
+[@robertsonNegativityDrivesOnline2023]
+
+> For a headline of average length, each additional negative word increased the click-through rate by 2.3%.
+
+# The Negativity Doom Loop
+
+![](_attachments/Pasted%20image%2020260307143828.png)
