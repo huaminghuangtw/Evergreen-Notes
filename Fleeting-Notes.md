@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2026-03-05T10:16:55
+modified: 2026-03-07T09:59:08
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -105,3 +105,27 @@ Noise Bottleneck:
 We have multiple conflicting desires pulling us in different directions simultaneously.
 
 We want to exercise and stay comfortable. Be productive and relax.
+
+
+---
+
+In the 19th century, a German mathematician named Carl Jacobi developed an interesting insight:
+Many hard math problems become easier to solve when you flip them around and work backwards.
+He famously preached to his students, “Man muss immer umkehren.”
+Translation: Invert, always invert.
+
+Via Negativa. The negative path. The path of removal.
+
+Do not be an ostrich.
+
+Bayesian Thinking, a structured approach to updating beliefs
+
+
+---
+
+庖丁解牛
+
+
+---
+
+帶病延年
