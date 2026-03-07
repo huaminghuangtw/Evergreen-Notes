@@ -1,14 +1,14 @@
 ---
 title: Quit social media
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-03-07T14:25:05
 ---
 
 [@haidtAnxiousGenerationHow2024]
 
-> “This is the great irony of social media: the more you immerse yourself in it, the more lonely and depressed you become.” 
+> “This is the great irony of social media: the more you immerse yourself in it, the more lonely and depressed you become.”
 
-> “The phone-based life makes it difficult for people to be fully present with others when they are with others, and to sit silently with themselves when they are alone.” 
+> “The phone-based life makes it difficult for people to be fully present with others when they are with others, and to sit silently with themselves when they are alone.”
 
 > “There are only two industries that refer to their customers as “users”: the illegal drug trade and tech companies. Both thrive by creating addicts and profiting from the addiction.” — [The Social Dilemma (2020 film)](https://www.imdb.com/title/tt11464826/)
 
@@ -107,14 +107,14 @@ Fast Digital Consumption
 
 # The Paradox of Connectedness/Social Media
 
-* More connected, less connected.
-	* Smartphones and digital distractions have amplified this issue. We can be in the same room with others physically, but still feel completely disconnected.
+* Smartphones and digital distractions have amplified this issue. We can be in the same room with others physically, but still feel completely disconnected.
 * Social media has created more connectedness than ever before—a constant [dopamine drip](Dopamine.md).
-* We have more connectedness, but we feel less connected to those around us.
+* We have more connectedness, but we feel less connected to those right in front of us.
 * Social media is as addictive as drugs [^3] designed to make you wish you were somewhere else, doing something else, with someone else.
-* We all need to put down the phone and spend time connecting with people in person/real life.
+* We all need to put down the phone and spend time connecting with people in person/real life. Disconnect to reconnect.
 * “NutraSweet” Connection
-	* Social media mimics real socializing, but it’s just a cheap imitation—like “[NutraSweet](https://www.google.com/search?q=NutraSweet) (甜味劑)” for the brain, tricking you into thinking you’re getting what you need, only to leave you feeling empty.
+
+	> Social media mimics real socializing, but it’s just a cheap imitation—like “[NutraSweet](https://www.google.com/search?q=NutraSweet) (甜味劑)” for the brain, tricking you into thinking you’re getting what you need, only to leave you feeling empty.
 
 ---
 
