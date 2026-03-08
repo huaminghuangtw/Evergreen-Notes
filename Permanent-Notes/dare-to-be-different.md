@@ -1,7 +1,7 @@
 ---
 title: Dare to be different
 created: 2025-11-24T06:51:20
-modified: 2026-02-05T09:22:22
+modified: 2026-03-08T10:01:16
 ---
 
 > “Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.” — Robert Frost, The Road Not Taken (1916)
@@ -11,6 +11,8 @@ modified: 2026-02-05T09:22:22
 > “Never dull your shine for somebody else.” — Tyra Banks
 
 > “If the path before you is clear, you’re probably on someone else’s.” — Joseph Campbell
+
+> “Do not seek to follow in the footsteps of others, instead, seek what they sought.” — Matsuo Basho
 
 > “If stars needed the sky’s permission to shine, the universe would be a very dark place.” — Matshona Dhliwayo
 
