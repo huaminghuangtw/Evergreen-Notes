@@ -1,7 +1,7 @@
 ---
 title: Be Grateful
 created: 2025-12-11T06:45:36
-modified: 2026-02-23T17:44:14
+modified: 2026-03-08T09:57:02
 ---
 
 #Newsletter
@@ -13,6 +13,8 @@ modified: 2026-02-23T17:44:14
 > “The more grateful I am, the more beauty I see.” — Mary Davis
 
 > “The struggle ends when the gratitude begins.” — Neale Donald Walsch
+
+> _“He who is carried on another’s back does not appreciate how far off the town is.” — African Proverbs_
 
 ---
 
