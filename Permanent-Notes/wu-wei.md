@@ -1,7 +1,7 @@
 ---
 title: Wu Wei
 created: 2024-12-05T23:47:15
-modified: 2026-02-16T08:07:20
+modified: 2026-03-08T09:30:10
 ---
 
 > “Nature never hurries, yet everything is accomplished.” — Lao Tzu
@@ -40,6 +40,10 @@ Doing nothing can be surprisingly [productive](Productivity.md). I’ve experien
 ---
 
 [Why do some animals spend so much time just doing nothing?](https://www.reddit.com/r/explainlikeimfive/comments/kecv94/eli5_why_do_some_animals_like_spiders_or_lizards/)
+
+---
+
+[Mr. Donothing](https://mrdonothing.com/about.html)
 
 ---
 
