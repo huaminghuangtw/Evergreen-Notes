@@ -1,17 +1,7 @@
 ---
 title: The Streetlight Effect
 created: 2025-04-06T08:08:53
-modified: 2025-10-27T08:27:32
----
-
-The tendency to look for answers where it’s easiest, rather than where they’re most likely to be found.
-
-The illusion that truth lies under the brightest light, not in the shadows where it may truly dwell.
-
-A cognitive bias driving us to search for solutions in the most accessible places, rather than in those where the truth actually lies.
-
-Like searching for lost keys under a streetlight—not because they’re there, but because the light is better.
-
+modified: 2026-03-08T07:34:40
 ---
 
 > A drunk man is searching for his lost keys under a streetlight. A cop walks by and asks what he’s doing.
@@ -22,9 +12,28 @@ Like searching for lost keys under a streetlight—not because they’re there, 
 > ​
 > “No, but this is where the light is.”
 
----
+The Streetlight Effect, also known as the “drunkard’s search,” describes our tendency to look for answers where it’s easiest, rather than where they’re most likely to be found.
 
-References
+The term comes from the classic anecdote of a drunk searching for his keys under a streetlight, not because he lost them there, but because the light is better.
+
+# Examples
+
+* **Scientific Research:** Researchers may focus on questions that are easier to study or measure, rather than those that are most important or relevant.
+* **Business Analytics:** Companies often analyze data that is readily available, ignoring harder-to-measure but potentially more valuable information.
+* **Personal Life:** When facing a problem, we may focus on solutions that are familiar or convenient, rather than those that require more effort or discomfort.
+
+# How to Avoid the Streetlight Effect
+
+* Be aware of your own biases and question whether you are searching in the most relevant places.
+* Seek out information or perspectives that are less obvious or harder to obtain.
+* Encourage [Be ready to change your mind completely at any given time](be-ready-to-change-your-mind-completely-at-any-given-time.md) and challenge assumptions within teams or groups.
+* Design research and problem-solving processes that deliberately look beyond the “well-lit” areas.
+
+## Related Concepts
+
+* **Availability Heuristic:** Judging the likelihood of events based on how easily examples come to mind.
+
+# References
 
 * <https://www.sahilbloom.com/newsletter/the-streetlight-effect>
 * <https://sketchplanations.com/looking-under-the-lamppost>
