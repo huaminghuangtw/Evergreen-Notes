@@ -1,7 +1,7 @@
 ---
 title: Walk
 created: 2024-11-18T09:16:50
-modified: 2026-02-06T10:43:20
+modified: 2026-03-07T17:59:17
 ---
 
 > “A walk in nature walks the soul back home.” — Mary Davis
@@ -17,6 +17,7 @@ modified: 2026-02-06T10:43:20
 ![](_attachments/316d587a5c95f54ea7a4f86fbb986d63.png)
 
 ![](_attachments/19d8ef9fa9213552e887aee3e54540ec.jpeg)
+
 ---
 
 **[Solvitur Ambulando: It Is Solved By Walking](https://sketchplanations.com/solvitur-ambulando)**
