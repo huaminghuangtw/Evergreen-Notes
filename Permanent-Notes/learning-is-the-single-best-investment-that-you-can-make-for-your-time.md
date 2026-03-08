@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2026-02-28T21:26:58
+modified: 2026-03-07T17:42:47
 ---
 
 > “Learning never exhausts the mind.” — Leonardo da Vinci
@@ -95,7 +95,7 @@ _[Ultralearning](https://www.scotthyoung.com/blog/ultralearning/)_ by Scott Youn
 * One learns best through hands-on practice (through projects)
 * [No one learns new things faster than someone who needs to apply the knowledge right now; so if you want to learn fast, commit to something ASAP that requires it.](https://x.com/anuatluru/status/1741281104953278748)
 * 專題式學習 [Project-Based Learning (PBL)](https://www.google.com/search?q=Project-Based+Learning+(PBL))
-* Book Smart (實務派) > Street Smart (理論派)
+* Street Smart (街頭智慧，實務派，用以致學) > Book Smart (讀書智慧，理論派，學以致用)
 
 ---
 
