@@ -1,6 +1,6 @@
 ---
 created: 2025-03-12T01:41:12
-modified: 2026-03-08T07:30:44
+modified: 2026-03-09T08:04:05
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -129,3 +129,8 @@ Bayesian Thinking, a structured approach to updating beliefs
 ---
 
 帶病延年
+
+
+---
+
+懶螞蟻效應（Lazy Ant Effect）
