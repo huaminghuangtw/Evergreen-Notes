@@ -1,7 +1,7 @@
 ---
 title: Why we exist?
 created: 2024-11-18T09:18:12
-modified: 2026-02-12T21:11:58
+modified: 2026-03-09T17:43:00
 ---
 
 > [“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)
@@ -132,7 +132,11 @@ Successful people don’t have a career, they have a mission. Most of them are t
 
 ---
 
+# Outlive
+
 > The sad part is, that I will probably end up loving you without you for much longer than I loved you when I knew you. Some people might find that strange. But the truth of it is that the amount of love you feel for someone and the impact they have on you as a person, is in no way relative to the amount of time you have known them.” — Ranata Suzuki
+
+> [“The dead can survive as part of the lives of those that still live.” — Kenzaburō Ōe, Hiroshima Notes](http://goodreads.com/quotes/463370-the-dead-can-survive-as-part-of-the-lives-of)
 
 > [“To live in hearts we leave behind is not to die.” — Thomas Campbell](https://www.goodreads.com/quotes/8204-to-live-in-hearts-we-leave-behind-is-not-to)
 
