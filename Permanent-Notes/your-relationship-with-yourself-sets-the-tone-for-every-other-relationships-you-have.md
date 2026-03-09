@@ -1,14 +1,14 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T09:22:22
+modified: 2026-03-09T10:26:42
 ---
 
 > “Your relationship with yourself sets the tone for every other relationship you have.” — Robert Holden
 
 > “How you love yourself is how you teach others to love you.” — Rupo Kaur
 
-> “The outer world is a reflection of the inner world. [^1] Other people’s perception of you is a reflection of them; your response to them is an awareness of you.” — Roy T. Bennett [^2]
+> “The outer world is a reflection of the inner world. [^1] Other people’s perception of you is a reflection of them [^2]; your response to them is an awareness of you.” — Roy T. Bennett [^3]
 
 > “Anytime we can listen to true self and give the care it requires, we do it not only for ourselves, but for the many others whose lives we touch.” — Parker Palmer
 
@@ -16,7 +16,7 @@ modified: 2026-02-05T09:22:22
 
 > “If you find it hard to take good care of yourself, care for yourself like a toddler: Don’t let yourself get too hungry, too tired, or too uncomfortable; too bored, too lonely, or too overwhelmed.” — Gretchen Rubin
 
-> “You are not one person, but three: The one you think you are; The one others think you are; The one you really are.” — Sathya Sai Baba [^3]
+> “You are not one person, but three: The one you think you are; The one others think you are; The one you really are.” — Sathya Sai Baba [^4]
 
 > “If I am not good to myself, how can I expect anyone else to be good to me?” — Maya Angelou
 
@@ -99,5 +99,6 @@ Learn to laugh at yourself. The more you can laugh at yourself, the happier you�
 [Dare to be different](dare-to-be-different.md)
 
 [^1]: The way the world treats you is a reflection of the way you treat yourself.
-[^2]: _“How people treat you is their karma; how you react is yours.” — Dr. Wayne Dyer_
-[^3]: _“Sometimes you have to lose all you have to find out who you truly are.” — Roy T. Bennett_
+[^2]: _“People do not seem to realize that their opinion of the world is also a confession of character.” — Ralph Waldo Emerson_
+[^3]: _“How people treat you is their karma; how you react is yours.” — Dr. Wayne Dyer_
+[^4]: _“Sometimes you have to lose all you have to find out who you truly are.” — Roy T. Bennett_
