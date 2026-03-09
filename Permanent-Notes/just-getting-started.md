@@ -1,7 +1,7 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2026-03-01T10:39:29
+modified: 2026-03-09T17:28:45
 ---
 
 > “Begin anywhere.” — John Cage
@@ -111,6 +111,8 @@ See also: [The Goal-Gradient Effect](https://sketchplanations.com/goal-gradient-
 ---
 
 # 萬事起頭難
+
+➞ 所以 [起頭要簡單](always-start-small.md)。
 
 > “Begin now to be what you will be hereafter.” — St. Jerome
 
