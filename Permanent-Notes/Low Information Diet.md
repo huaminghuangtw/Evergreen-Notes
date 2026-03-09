@@ -1,7 +1,7 @@
 ---
 title: Low Information Diet
 created: 2024-11-18T09:18:12
-modified: 2026-03-07T14:39:13
+modified: 2026-03-09T10:13:20
 ---
 
 > “The art of not reading is a very important one. It consists in not taking an interest in whatever may be engaging the attention of the general public at any particular time. When some political or ecclesiastical pamphlet, or novel, or poem is making a great commotion, you should remember that he who writes for fools always finds a large public. A precondition for reading good books is not reading bad ones: for life is short.” — Arthur Schopenhauer
@@ -20,7 +20,7 @@ Cull Your [Social Media](quit-social-media.md) Feed
 
 ---
 
-![](_attachments/Pasted%20image%2020260307143912.png)
+![](_attachments/366764c9d696e9e4db5fa83321ddd869.png)
 
 [The quality of your thoughts is determined by the quality of your reading. Spend more time thinking about the inputs.](https://jamesclear.com/3-2-1/march-6-2025)
 
