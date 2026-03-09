@@ -1,7 +1,7 @@
 ---
 title: News Sobriety
 created: 2024-11-18T09:18:12
-modified: 2026-03-07T14:38:29
+modified: 2026-03-09T10:13:21
 ---
 
 > “If you don’t read the newspaper, you’re uninformed. If you read the newspaper, you’re misinformed.” — Mark Twain
@@ -48,4 +48,4 @@ Want to know more about the world? Turn off the news and go spend time in it.
 
 # The Negativity Doom Loop
 
-![](_attachments/Pasted%20image%2020260307143828.png)
+![](_attachments/a81f2e1b47ec847676a23f23786c35fd.png)
