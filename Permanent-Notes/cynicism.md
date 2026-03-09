@@ -1,10 +1,10 @@
 ---
 title: Cynicism
 created: 2024-12-11T15:09:03
-modified: 2026-02-05T07:51:24
+modified: 2026-03-09T08:21:53
 ---
 
-= 犬儒主義 = 憤世忌俗
+= 犬儒主義 = 憤世忌俗 = 厭世
 
 Rooted in a belief that the world or people are inherently flawed or corrupt.
 
