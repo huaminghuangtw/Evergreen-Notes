@@ -1,7 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+modified: 2026-03-10T09:21:54
 ---
 
 > “Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes
@@ -167,6 +167,10 @@ Dr. Peter Attia (Author of Outlive) [shared a method on the Modern Wisdom podcas
 
 1. Notice when you’re about to speak to yourself negatively.
 2. Rather than engaging with it, pull out your phone and record a voice memo of what you would say to a friend if they had just made the same mistake as you.
+
+---
+
+[Disneyland’s Theatrical Vocabulary](disneylands-theatrical-vocabulary.md)
 
 ---
 
