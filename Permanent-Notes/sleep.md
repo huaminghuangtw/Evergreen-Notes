@@ -1,7 +1,7 @@
 ---
 title: Sleep
 created: 2024-11-18T09:18:12
-modified: 2026-02-13T08:48:19
+modified: 2026-03-10T10:33:29
 ---
 
 [Matt Walker: Sleep is your superpower \| TED Talk](https://www.ted.com/talks/matt_walker_sleep_is_your_superpower/)
@@ -84,7 +84,9 @@ Sleep Hygiene (The 10/3/2/1 Rule)
 
 Wakefulness is low level brain damage. Sleepiness offers a reparatory function. You make the best use of time not by sleeping less, but awaking less.
 
-膠淋巴系統 (The Glymphatic System)
+# 膠淋巴系統
+
+> 在深層睡眠的時候，大腦裡有一套系統叫做類淋巴系統（或是膠狀淋巴系統，glymphatic system），這個系統就像一條夜間清潔水道，讓腦脊髓液慢慢流進腦組織，再把神經細胞產生的代謝物帶走。
 
 * 俗稱「龍骨水」，是大腦的排毒系統
 * 只在「深睡期」產生
