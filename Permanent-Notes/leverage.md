@@ -1,7 +1,7 @@
 ---
 title: Leverage
 created: 2025-01-23T10:40:57
-modified: 2026-02-06T10:43:20
+modified: 2026-03-10T21:11:33
 ---
 
 > “Give me a place to stand, and a lever long enough, and I will move the world.” — Archimedes
@@ -29,6 +29,8 @@ modified: 2026-02-06T10:43:20
 # 💡 Guiding Principle
 
 ## 1. In The Internal (i.e., personal) World, Focus On The Strengths (unfair advantages), Not Weaknesses
+
+> 「揚長須即時，補短永不遲。」— 馬大元醫師
 
 > “Success is achieved by developing our strengths, not by eliminating our weaknesses.” — Marilyn vos Savant
 
