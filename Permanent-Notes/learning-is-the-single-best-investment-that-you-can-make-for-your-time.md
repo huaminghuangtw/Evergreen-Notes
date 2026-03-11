@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-01-23T10:40:57
-modified: 2026-03-07T17:42:47
+modified: 2026-03-11T18:58:26
 ---
 
 > “Learning never exhausts the mind.” — Leonardo da Vinci
@@ -89,6 +89,8 @@ _[Ultralearning](https://www.scotthyoung.com/blog/ultralearning/)_ by Scott Youn
 ---
 
 # Learning by Doing
+
+做中學，錯中學。
 
 > [“Acquiring knowledge is easy, the hard part is knowing what to apply and when. That’s why all true learning is “on the job.” Life is lived in the arena.” — Naval Ravikant](https://x.com/naval/status/1930058059172458665)
 
