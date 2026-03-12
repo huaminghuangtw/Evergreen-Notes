@@ -1,7 +1,7 @@
 ---
 title: Change yourself to change the world
 created: 2024-11-18T09:18:12
-modified: 2026-03-05T17:52:33
+modified: 2026-03-12T08:20:18
 ---
 
 > “Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi
@@ -25,6 +25,12 @@ Self-[leadership](leadership.md): Be an agent in your own rescue.
 ---
 
 Before changing yourself, you need to [knowing yourself](mastering-yourself-is-superpower.md) first.
+
+---
+
+# 修身、齊家、治國、平１天下
+
+> 「古之欲明明德於天下者，先治其國。欲治其國者，先齊其家。欲齊其家者，先修其身。欲修其身者，先正其心。」—《禮記 · 大學》
 
 ---
 
