@@ -1,7 +1,7 @@
 ---
 title: Just getting started
 created: 2024-11-18T09:18:12
-modified: 2026-03-09T17:28:45
+modified: 2026-03-11T20:35:36
 ---
 
 > “Begin anywhere.” — John Cage
@@ -35,6 +35,10 @@ modified: 2026-03-09T17:28:45
 > “The best time to plant a tree was 20 years ago. The second best time is now.”
 
 種一棵樹最好的時間點是十年前，其次就是 [現在](live-in-the-present.md)。
+
+---
+
+賽馬不猜馬
 
 ---
 
