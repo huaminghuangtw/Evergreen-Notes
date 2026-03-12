@@ -1,7 +1,7 @@
 ---
 title: The Fight Against Normalcy
 created: 2026-02-28T21:36:35
-modified: 2026-02-28T21:36:35
+modified: 2026-03-11T20:38:46
 ---
 
 > “Normal is the average of deviance.” — Rita Mae Brown
@@ -14,7 +14,13 @@ modified: 2026-02-28T21:36:35
 
 > “Extreme people get extreme results.” — Sam Altman
 
+> “No great mind has ever existed without a touch of madness.” — Aristotle
+
+---
+
 * Maintaining your uniqueness in a world that pulls you to blend in, is the only way to realize your full potential and live a fulfilled, texture-rich existence.
 * It comes with a risk, but the rewards are abundant. It may come with a steep cost in the short-term, but the long-term rewards are worth it.
+
+---
 
 [Always do your best as possible](always-do-your-best-as-possible.md)
