@@ -1,7 +1,7 @@
 ---
 title: Assets & Liabilities
-created: 2025-03-12T01:41:12
-modified: 2025-11-02T05:46:16
+created: 2025-08-29T08:08:00
+modified: 2026-03-13T09:03:58
 ---
 
 |                 | **Asset (資產)** | **Liability (負債)** |
