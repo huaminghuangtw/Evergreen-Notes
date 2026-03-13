@@ -1,7 +1,7 @@
 ---
 title: Why we exist?
-created: 2024-11-18T09:18:12
-modified: 2026-03-11T10:23:25
+created: 2025-10-09T12:10:00
+modified: 2026-03-13T11:03:63
 ---
 
 > [“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)
@@ -67,6 +67,8 @@ The purpose of life is a life of purpose.
 = Life’s Highest Calling = Life Purpose/Mission/Meaning/Aspirations = Core Values/Philosophies/Principles = Life Truth North / North Star = Dharma = [ikigai](ikigai.md) = plan de vida = 人生使命 = 個人天職/命
 
 ---
+
+> “The more one forgets himself—by giving himself to a cause to serve or another person to love—the more human he is and the more he actualizes himself. What is called ‘self-actualization’ is not an attainable aim at all, for the simple reason that the more one would strive for it, the more he would miss it. In other words, self-actualization is possible only as a side-effect of self-transcendence.” — Viktor E. Frankl
 
 Self-actualization → Self-transcendence (**going beyond the self**—seeking connection with something greater, such as service to others, nature, art, or the divine)
 
