@@ -133,3 +133,8 @@ Bayesian Thinking, a structured approach to updating beliefs
 ---
 
 懶螞蟻效應（Lazy Ant Effect）
+
+
+---
+
+「俄羅斯方塊效應」(Tetris Effect)
