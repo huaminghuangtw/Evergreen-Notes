@@ -1,7 +1,7 @@
 ---
 title: The Compounding Effect
-created: 2024-11-18T09:18:12
-modified: 2026-02-12T21:13:48
+created: 2025-09-29T08:09:00
+modified: 2026-03-13T08:03:33
 ---
 
 > “Compounding is the 8th wonder of the world.” — Albert Einstein
@@ -118,10 +118,6 @@ The gradual acceptance of negative change, because it happens in such small incr
 > Premise: If a frog is suddenly put into a pot of boiling water, it will instinctively jump out to avoid being killed and save itself from impending death. But if a frog is placed in warm water that is slowly brought to a boil, it may not notice the creeping, subtle change in temperature until it is too late.
 
 > Life Analogy: The most dangerous habits, behaviors, and beliefs are the ones you slip into slowly, day after day, without ever realizing the damage they are doing to your life. We think that catastrophic outcomes can be avoided by simply avoiding significant mistakes, when in reality, catastrophic outcomes are often simply the macro result of thousands of micro mistakes. Minimizing stupidity will get you far in life.
-
-## James Clear
-
-> [“Success is largely the failures you avoid. Health is the injuries you don’t sustain. Wealth is the purchases you don’t make. Happiness is the objects you don’t desire. Peace of mind is the arguments you don’t engage. Avoid the bad to protect the good.”](https://jamesclear.com/3-2-1/march-27-2025)
 
 ## Charlie Munger
 
