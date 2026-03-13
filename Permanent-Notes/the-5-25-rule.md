@@ -1,7 +1,7 @@
 ---
 title: The 5-25 Rule
-created: 2024-11-18T09:16:49
-modified: 2026-02-05T07:51:24
+created: 2025-09-04T04:09:00
+modified: 2026-03-13T20:03:16
 ---
 
 > “The difference between successful people and very successful people is that very successful people say no to almost everything.” — Warren Buffett

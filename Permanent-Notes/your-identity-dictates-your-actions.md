@@ -1,7 +1,7 @@
 ---
 title: Your identity dictates your actions
-created: 2025-03-12T01:41:12
-modified: 2026-02-06T10:43:20
+created: 2025-10-18T07:10:00
+modified: 2026-03-13T20:03:26
 ---
 
 > We are what we believe we are.” — C.S. Lewis

@@ -1,7 +1,7 @@
 ---
 title: Be Grateful
-created: 2025-12-11T06:45:36
-modified: 2026-03-08T09:57:02
+created: 2025-12-11T06:12:00
+modified: 2026-03-13T20:03:65
 ---
 
 #Newsletter
@@ -33,7 +33,7 @@ Be thankful for / Appreciate more tiny/small things/(aesthetic) beauty around yo
 
 ---
 
-Author [Kurt Vonnegut](https://www.google.com/search?q=Kurt+Vonnegut) in [1998 commencement speech](https://www.youtube.com/watch?v=Rr11hM6CLeo&t=8m38s) at [Rice University](https://versailles1.tripod.com/rice.html):
+Author [Kurt Vonnegut](https://www.google.com/search?q=Kurt+Vonnegut) in [1998 commencement speech](https://youtu.be/Rr11hM6CLeo?t=8m38s) at [Rice University](https://versailles1.tripod.com/rice.html):
 
 > One thing which Uncle Alex found objectionable about human beings was that they seldom took time out to notice when they were happy. He himself did his best to acknowledge it when times were sweet. We could be drinking lemonade in the shade of an apple tree in the summertime, and he would interrupt the conversation to say, **“If this isn’t nice, what is?”**
 >

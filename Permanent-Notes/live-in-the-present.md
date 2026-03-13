@@ -1,7 +1,7 @@
 ---
 title: Live in the present
-created: 2024-11-18T09:18:12
-modified: 2026-02-12T17:37:46
+created: 2025-10-16T20:10:00
+modified: 2026-03-13T20:03:98
 ---
 
 > “Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why we call it the present” — Eleanor Roosevelt
@@ -121,7 +121,7 @@ We often treat the present as a _vehicle for something else_, failing to see tha
 
 ---
 
-[Any moment when you’re not in that moment, you are dead to that moment. The time you enjoy wasting is not a waste of time. The true waste of time is a time that you are not present for.](https://www.youtube.com/watch?v=KyfUysrNaco&t=5111s)
+[Any moment when you’re not in that moment, you are dead to that moment. The time you enjoy wasting is not a waste of time. The true waste of time is a time that you are not present for.](https://youtu.be/KyfUysrNaco?t=5111s)
 
 ---
 

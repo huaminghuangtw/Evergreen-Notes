@@ -1,7 +1,7 @@
 ---
 title: Burnout
-created: 2024-11-18T09:18:12
-modified: 2026-03-05T07:28:44
+created: 2025-10-14T04:10:00
+modified: 2026-03-13T20:03:59
 ---
 
 = 過勞

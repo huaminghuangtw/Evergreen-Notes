@@ -1,7 +1,7 @@
 ---
 title: The Power Half-Hour
-created: 2024-11-18T09:18:12
-modified: 2025-11-20T18:10:26
+created: 2025-09-05T03:09:00
+modified: 2026-03-13T20:03:73
 ---
 
 Breaking your day into “snackable” 30-minute chunks/bites could help boost [productivity](Productivity.md)

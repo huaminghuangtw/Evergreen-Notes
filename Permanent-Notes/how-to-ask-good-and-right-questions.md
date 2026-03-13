@@ -1,7 +1,7 @@
 ---
 title: How to ask good and right questions
-created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+created: 2025-09-28T14:09:00
+modified: 2026-03-13T20:03:26
 ---
 
 > [“One who knows all the answers has not been asked all the questions.” — Confucius](https://www.goodreads.com/quotes/26930-he-who-knows-all-the-answers-has-not-been-asked)

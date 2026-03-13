@@ -1,7 +1,7 @@
 ---
 title: The Winner-Take-All Effects
-created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+created: 2025-08-31T05:08:00
+modified: 2026-03-13T20:03:82
 ---
 
 > “Any decision that involves using a limited / the same resource like ([energy](energy-management.md), [attention](attention.md), )[time](time-is-the-most-valuable-asset.md) or [money](money.md) will naturally result in a winner-take-all situation.” — James Clear

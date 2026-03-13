@@ -1,7 +1,7 @@
 ---
 title: Communication
-created: 2024-11-18T09:18:12
-modified: 2026-02-25T13:25:04
+created: 2025-10-11T07:10:00
+modified: 2026-03-13T20:03:42
 ---
 
 > “The single biggest problem in communication is the illusion that it has taken place.” — George Bernard Shaw
@@ -51,7 +51,7 @@ State the facts and tell the truth. Speak with [integrity](integrity.md)—say e
 
 # Be radically candid
 
-[How to Lead With Radical Candor \| Kim Scott \| TED](https://www.youtube.com/watch?v=vmxHUiiHgNk)
+[How to Lead With Radical Candor \| Kim Scott \| TED](https://youtu.be/vmxHUiiHgNk)
 
 * Praise specifically. Criticize generally.
 * Praise in public. Criticize in private.
@@ -87,14 +87,14 @@ _“I’m giving you these comments because I have very high expectations, and I
 
 # The Tip Framework
 
-To ensure clear communication, incorporate these three elements at the start of your message \[[02:26](https://www.youtube.com/watch?v=rpFmRq5KeJs&t=146)]:
+To ensure clear communication, incorporate these three elements at the start of your message \[[02:26](https://youtu.be/rpFmRq5KeJs?t=146)]:
 
-1. **Topic:** Clearly state the subject of the conversation \[[02:37](https://www.youtube.com/watch?v=rpFmRq5KeJs&t=157)].
-	* Example: Start with a clear and specific topic sentence, such as “I’d like to talk about July sales figures” \[[04:40](https://www.youtube.com/watch?v=rpFmRq5KeJs&t=280)].
-2. **Intent:** Explain what you want the other person to do with the information \[[05:10](https://www.youtube.com/watch?v=rpFmRq5KeJs&t=310)].
-	* Example: Clearly state your intent, whether it’s to ask a question, get a decision, or simply vent \[[07:33](https://www.youtube.com/watch?v=rpFmRq5KeJs&t=453)].
-3. **Point:** Summarize the most important information \[[08:19](https://www.youtube.com/watch?v=rpFmRq5KeJs&t=499)].
-	* Example: Deliver the most important information upfront, like “Our project launch is going to be delayed by a month” \[[09:47](https://www.youtube.com/watch?v=rpFmRq5KeJs&t=587)].
+1. **Topic:** Clearly state the subject of the conversation \[[02:37](https://youtu.be/rpFmRq5KeJs?t=157)].
+	* Example: Start with a clear and specific topic sentence, such as “I’d like to talk about July sales figures” \[[04:40](https://youtu.be/rpFmRq5KeJs?t=280)].
+2. **Intent:** Explain what you want the other person to do with the information \[[05:10](https://youtu.be/rpFmRq5KeJs?t=310)].
+	* Example: Clearly state your intent, whether it’s to ask a question, get a decision, or simply vent \[[07:33](https://youtu.be/rpFmRq5KeJs?t=453)].
+3. **Point:** Summarize the most important information \[[08:19](https://youtu.be/rpFmRq5KeJs?t=499)].
+	* Example: Deliver the most important information upfront, like “Our project launch is going to be delayed by a month” \[[09:47](https://youtu.be/rpFmRq5KeJs?t=587)].
 
 ---
 
@@ -107,13 +107,13 @@ We often jump into “Mr. Fix It” mode, eager to [offer advice](advice.md) and
 The next time a friend, partner, or family member comes to you with a problem, resist the urge to immediately offer advice. Instead, take a moment and ask a simple question to clarify what they truly need. You can frame it as:
 
 * _“Do you want to be helped, heard, or hugged?”_
-	* [The 3H (Helped, Heard, or Hugged) Method](https://www.youtube.com/watch?v=lg48Bi9DA54&t=3m40s)
+	* [The 3H (Helped, Heard, or Hugged) Method](https://youtu.be/lg48Bi9DA54?t=3m40s)
 		1. **Practical**: _What is this really about?_ → You offer help.
 		2. **Emotional**: _How do we feel?_ → You simply [listen](active-listening.md).
 		3. **Social**: _Who are we?_ → You reciprocate [vulnerability](vulnerability.md).
 * _“Do you want empathy or do you want a solution?”_
 
-	> Source: [Lisa Feldman Barrett: Balancing the Brain Budget \[The Knowledge Project Ep. #92\]](https://www.youtube.com/watch?v=jORaNMIGiok&t=48m1s)
+	> Source: [Lisa Feldman Barrett: Balancing the Brain Budget \[The Knowledge Project Ep. #92\]](https://youtu.be/jORaNMIGiok?t=48m1s)
 
 This simple step can prevent misunderstandings and show that you’re there for them in the way they need you to be. People want to feel understood, and sometimes the best support you can offer is just your presence and a listening ear.
 

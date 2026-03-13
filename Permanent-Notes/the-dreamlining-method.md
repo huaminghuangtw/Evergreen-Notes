@@ -1,7 +1,7 @@
 ---
 title: The Dreamlining Method
-created: 2024-11-18T09:16:50
-modified: 2026-01-21T05:40:53
+created: 2025-07-18T10:07:00
+modified: 2026-03-13T20:03:35
 ---
 
 1. What do you want to see?

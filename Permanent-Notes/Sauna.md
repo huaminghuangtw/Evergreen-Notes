@@ -1,7 +1,7 @@
 ---
 title: Sauna
-created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+created: 2025-08-29T08:08:00
+modified: 2026-03-13T20:03:84
 ---
 
 #TODO

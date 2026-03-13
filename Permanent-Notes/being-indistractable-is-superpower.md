@@ -1,7 +1,7 @@
 ---
 title: Being indistractable is superpower
-created: 2025-01-23T18:40:57
-modified: 2026-02-06T10:43:20
+created: 2025-10-18T06:10:00
+modified: 2026-03-13T20:03:75
 ---
 
 Being indistractable is about doing what you say you’re going to do.
@@ -38,7 +38,7 @@ Distraction isn’t a character flaw—it’s an [impulse control](emotion-contr
 
 # How To Manage Distractions From Internal Triggers?
 
-* **[The 10-Minute Rule](https://www.youtube.com/watch?v=aumdC20YI4s)**
+* **[The 10-Minute Rule](https://youtu.be/aumdC20YI4s)**
 	* The 10-minute rule says that we can give into any temptation or distraction for 10 minutes.
 	* When I feel the urge to check my phone, I tell myself it’s okay—but not right now. Instead, I wait for just ten minutes. This approach is known as **_“surfing the urge”_** in behavioral psychology. The idea is not to immediately give in to the impulse, but also not to outright deny it. By [delaying](delayed-gratification.md) the action (and 轉移/分散注意力!), you’ll often find that after those ten minutes, the urge has significantly diminished or disappeared entirely.
 	* Why it works?

@@ -1,7 +1,7 @@
 ---
 title: URL_Schemes
-created: 2024-11-18T10:16:50
-modified: 2026-01-13T10:08:30
+created: 2025-08-29T08:08:00
+modified: 2026-03-13T20:03:22
 ---
 
 URL Schemes (= [Deep Linking](https://en.wikipedia.org/wiki/Deep_linking) = [x-callback-url](https://x-callback-url.com/)) is a hyperlink that links to a specific, generally searchable or indexed, piece of web content on a website (e.g., “http://example.com/path/page”), rather than the website’s home page (e.g., “[http://example.com](http://example.com/)”)
@@ -25,7 +25,7 @@ URLs are structured as follows:
 		* with text as input: `shortcuts://run-shortcut?name=Shortcut%20Name&input=Hi%20There`
 * [Apple Reminders](https://www.reddit.com/r/shortcuts/comments/bc5h9a/reminders_url_scheme/)
 
-	```
+	```text
 	x-apple-reminderkit://REMCDReminder/{UUID of Reminder}
 	```
 

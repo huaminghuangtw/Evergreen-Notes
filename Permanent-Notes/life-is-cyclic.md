@@ -1,7 +1,7 @@
 ---
 title: Life is cyclic
-created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+created: 2025-08-29T08:08:00
+modified: 2026-03-13T20:03:92
 ---
 
 > “Life is like a wheel. Sooner or later, it always comes around to where you started again.” — Stephen King
@@ -30,7 +30,7 @@ modified: 2026-02-05T07:51:24
 
 ---
 
-[Life is a rollercoaster. Just gotta ride it.](https://www.youtube.com/watch?v=MpBTTlXzuGY) Enjoy the ride!
+[Life is a rollercoaster. Just gotta ride it.](https://youtu.be/MpBTTlXzuGY) Enjoy the ride!
 
 ---
 

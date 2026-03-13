@@ -1,7 +1,7 @@
 ---
 title: The Eureka Effect
-created: 2024-11-18T09:18:12
-modified: 2026-01-07T06:47:41
+created: 2025-07-18T10:07:00
+modified: 2026-03-13T20:03:45
 ---
 
 = The Aha! Moment

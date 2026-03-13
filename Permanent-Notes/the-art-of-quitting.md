@@ -1,7 +1,7 @@
 ---
 title: The Art of Quitting
 created: 2025-10-01T12:10:00
-modified: 2026-03-13T11:03:27
+modified: 2026-03-13T20:03:26
 ---
 
 > “I am as proud of what we don’t do as I am of what we do.” — Steve Jobs
@@ -16,7 +16,7 @@ modified: 2026-03-13T11:03:27
 
 > “With renunciation life begins.” — Amelia Barr
 
-> [“Strategic retreat, sacrifice, deciding what to give up is at the core, the very core of success.” — Jensen Huang, NVIDIA’s CEO](https://www.youtube.com/watch?v=oi89u6q0_AY&t=19m57s)
+> [“Strategic retreat, sacrifice, deciding what to give up is at the core, the very core of success.” — Jensen Huang, NVIDIA’s CEO](https://youtu.be/oi89u6q0_AY?t=19m57s)
 
 > “When people quit on time, it will usually feel like they are quitting too early, because it will be long before they experience the choice as a close call.” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)
 
@@ -80,7 +80,7 @@ Embrace the rare [ability to start over](https://www.youtube.com/shorts/H7dxy-CW
 
 ---
 
-# [“The Quitting Framework” By Steven Bartlett](https://www.youtube.com/watch?v=W2x46AYxh8E) [^1]
+# [“The Quitting Framework” By Steven Bartlett](https://youtu.be/W2x46AYxh8E) [^1]
 
 * Why are you thinking about quitting something?
 	* It is hard

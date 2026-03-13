@@ -1,7 +1,7 @@
 ---
 title: Sprezzatura
-created: 2025-08-25T05:56:44
-modified: 2026-03-05T17:50:37
+created: 2025-08-25T05:08:00
+modified: 2026-03-13T20:03:05
 ---
 
 = Earned Effortlessness = Studied Carelessness

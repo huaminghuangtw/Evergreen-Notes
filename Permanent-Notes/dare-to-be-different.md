@@ -1,7 +1,7 @@
 ---
 title: Dare to be different
-created: 2025-11-24T06:51:20
-modified: 2026-03-08T10:01:16
+created: 2025-11-24T07:11:00
+modified: 2026-03-13T20:03:25
 ---
 
 > “Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.” — Robert Frost, The Road Not Taken (1916)
@@ -32,13 +32,13 @@ modified: 2026-03-08T10:01:16
 
 ---
 
-用力地把自己活成一道光，因爲你不知道，誰會藉著你的光，走出了黑暗。做自己的太陽，就能當別人的光；讓自己發光，就能照亮別人。[如果你心中有願望，請看著天上的星星，對自己許願。](https://www.youtube.com/watch?v=_ziTd2w06xk&t=18m39s)
+用力地把自己活成一道光，因爲你不知道，誰會藉著你的光，走出了黑暗。做自己的太陽，就能當別人的光；讓自己發光，就能照亮別人。[如果你心中有願望，請看著天上的星星，對自己許願。](https://youtu.be/_ziTd2w06xk?t=18m39s)
 
 > [“The mind once enlightened cannot again become dark.” — Thomas Paine, A Letter Addressed to the Abbe Raynal on the Affairs of North America](https://www.goodreads.com/quotes/101600-the-mind-once-enlightened-cannot-again-become-dark)
 
 > [“There are two ways of spreading light: to be the candle or the mirror that reflects it.” — Edith Wharton](https://www.brainyquote.com/quotes/edith_wharton_100511)
 
-> “We could beat the stars, falling from the sky. Shining how we want, brighter than the sun.” — Colbie Caillat, [Brighter Than the Sun](https://www.youtube.com/watch?v=KU5o6M7S5nQ)
+> “We could beat the stars, falling from the sky. Shining how we want, brighter than the sun.” — Colbie Caillat, [Brighter Than the Sun](https://youtu.be/KU5o6M7S5nQ)
 
 > “Try to be a rainbow in someone’s cloud.” — Maya Angelou
 

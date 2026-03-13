@@ -1,7 +1,7 @@
 ---
 title: Simple is beautiful
-created: 2025-02-21T16:42:30
-modified: 2026-02-05T09:22:23
+created: 2025-10-12T16:10:00
+modified: 2026-03-13T20:03:91
 ---
 
 > ”Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.” — Steve Jobs
@@ -31,7 +31,7 @@ modified: 2026-02-05T09:22:23
 # Simplexity
 
 * Complex is easy. Simple is hard.
-* [Simplicity is not simple. Simple is not easy.](https://www.youtube.com/watch?v=SxdOUGdseq4)
+* [Simplicity is not simple. Simple is not easy.](https://youtu.be/SxdOUGdseq4)
 * It’s easy to complicate things. It’s hard to simplify things. Simplicity requires ruthlessness.
 * It takes much longer to simplify than it does to complicate. Simplicity really is the ultimate form of sophistication.
 

@@ -1,7 +1,7 @@
 ---
 title: Luck
-created: 2024-11-18T09:18:12
-modified: 2026-02-12T21:11:09
+created: 2025-09-30T17:09:00
+modified: 2026-03-13T20:03:13
 ---
 
 > “Diligence is the mother of good luck.” — Benjamin Franklin
@@ -15,7 +15,7 @@ modified: 2026-02-12T21:11:09
 > “Luck has nothing to do with it, because I have spent many, many hours, countless hours, on the court working for my one moment in time, not knowing when it would come.” — Serena William
 
 > “Even if you don’t catch the Apple before it hits the ground, so long as you’re the first one to pick it up.” — Jensen Huang, NVIDIA’s CEO [^1] [^2]
-> 
+>
 > 你要儘量靠近果樹，即使來不及接住掉落的蘋果，也要當第一個撿起來的人。
 
 ---

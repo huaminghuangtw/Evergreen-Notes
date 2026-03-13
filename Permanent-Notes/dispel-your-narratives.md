@@ -1,7 +1,7 @@
 ---
 title: Dispel your narratives
-created: 2024-11-18T09:18:12
-modified: 2026-02-28T11:21:41
+created: 2025-08-31T13:08:00
+modified: 2026-03-13T20:03:73
 ---
 
 > “Wisdom accepts that all things have two sides.” — Carl Jung
@@ -10,7 +10,7 @@ modified: 2026-02-28T11:21:41
 
 > “You never know what will be the consequence of the misfortune; or, you never know what will be the consequences of good fortune.” — Alan Watts
 
-> [“Reality is neutral. Reality has no judgments. To a tree, there is no concept of right or wrong, good or bad.” — Naval Ravikant](https://youtu.be/3qHkcs3kG44&t=1h56m55s)
+> [“Reality is neutral. Reality has no judgments. To a tree, there is no concept of right or wrong, good or bad.” — Naval Ravikant](https://youtu.be/3qHkcs3kG44?t=1h56m55s)
 
 ---
 

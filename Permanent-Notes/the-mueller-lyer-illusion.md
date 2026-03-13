@@ -1,7 +1,7 @@
 ---
 title: The Mueller-Lyer Illusion
-created: 2025-01-23T10:40:57
-modified: 2026-02-06T10:43:20
+created: 2026-01-12T05:01:00
+modified: 2026-03-13T20:03:66
 ---
 
 = Cognitive Illusion

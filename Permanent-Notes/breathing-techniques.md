@@ -1,7 +1,7 @@
 ---
 title: Breathing Techniques
 created: 2025-10-08T05:07:10
-modified: 2026-02-12T16:37:32
+modified: 2026-03-13T20:03:81
 ---
 
 It’s this thing we do [20,000 times per day](#1), but we never really stop to consider how we’re actually doing it—or whether we could be doing it better.
@@ -98,7 +98,7 @@ So, a typical adult breathes roughly **23,000 times per day**.
 
 ---
 
-# 冰人呼吸法 [Wim Hof](https://www.wimhofmethod.com) [Breathing Method](https://www.youtube.com/watch?v=nzCaZQqAs9I) [^1]
+# 冰人呼吸法 [Wim Hof](https://www.wimhofmethod.com) [Breathing Method](https://youtu.be/nzCaZQqAs9I) [^1]
 
 ## ① 進行 30～40 次強力深呼吸（Cyclic Hyperventilation）
 

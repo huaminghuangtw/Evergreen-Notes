@@ -1,7 +1,7 @@
 ---
 title: Everyone is on their own timeline
-created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+created: 2025-10-13T18:10:00
+modified: 2026-03-13T20:03:77
 ---
 
 > “One’s own dharma performed imperfectly is better than another’s dharma well performed…It is better to strive in one’s own dharma than to succeed in the dharma of another.” — Bhagavad Gita
@@ -45,7 +45,7 @@ It’s okay to be lost sometimes, but [never compare your timeline to other peop
 
 [Life is neither a race, nor a competition.](escape-competition-through-authenticity.md) There are no rules to life. Not everything in life has to come together at the exact same time. There is no such thing as “too late” or “falling behind” when it comes to life. You might be [too scared](fear.md), but you are never too late.
 
-Each planet has its own orbit agenda. We spin through life at our own pace—no two paths are exactly the same. [Everyone is on their own clock.](https://www.youtube.com/watch?v=vvJmGY0XK_0&ab_channel=SulimanAlsmairat)
+Each planet has its own orbit agenda. We spin through life at our own pace—no two paths are exactly the same. [Everyone is on their own clock.](https://youtu.be/vvJmGY0XK_0)
 
 ---
 

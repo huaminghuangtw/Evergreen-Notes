@@ -1,7 +1,7 @@
 ---
 title: Push your limits
-created: 2025-01-23T10:40:57
-modified: 2026-02-12T13:42:54
+created: 2025-10-10T17:10:00
+modified: 2026-03-13T20:03:63
 ---
 
 > “Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot
@@ -18,7 +18,7 @@ modified: 2026-02-12T13:42:54
 
 [@hillThinkGrowRich2021]
 
-> “Don’t do what you can do. Try what you can’t do.” — William Faulkner [^3]
+> “Don’t do what you can do. Try what you can’t do.” — William Faulkner [^1]
 
 > “Never say never because limits, like [fears](fear.md), are often just an illusion.” — Michael Jordan
 
@@ -32,7 +32,7 @@ modified: 2026-02-12T13:42:54
 
 > [The people who are crazy enough to think they can change the world are the ones that do.” — Steve Jobs](https://www.goodreads.com/quotes/9859550-the-people-who-are-crazy-enough-to-think-they-can)
 
-> Stop allowing your mind to be a slave, to be jerked about by selfish impulses, to kick against fate and the present, and to mistrust the future. — [@markaurelMeditations2006] [^1]
+> Stop allowing your mind to be a slave, to be jerked about by selfish impulses, to kick against fate and the present, and to mistrust the future. — [@markaurelMeditations2006] [^2]
 
 > “Live and act within the limit of your knowledge and keep expanding it to the limit of your life.” — Ayn Rand
 
@@ -76,7 +76,7 @@ Self-imposed limits, Self-limiting beliefs/stories, Self-sabotaging behaviors, e
 
 # Examples
 
-1. 習得性無助（Learned Helplessness）[^2] 的狗
+1. 習得性無助（Learned Helplessness）[^3] 的狗
 2. 綁在木樁的小象
 
 > While walking through an elephant camp, a woman noticed that the elephants were only being secured by a small rope around one ankle.
@@ -93,7 +93,7 @@ Self-imposed limits, Self-limiting beliefs/stories, Self-sabotaging behaviors, e
 
 [@gogginsCantHurtMe2018]
 
-> “Denial is the ultimate comfort zone.” 
+> “Denial is the ultimate comfort zone.”
 
 > “In any given moment we have two options: to step forward into growth or to step back into safety.” — Abraham Maslow
 
@@ -194,6 +194,6 @@ As you move outside of your comfort zone, what was once the unknown and frighten
 
 [The Swing by Robert Louis Stevenson](the-swing-by-robert-louis-stevenson.md)
 
-[^1]: 最盲目的服從乃是奴隸們所僅存的唯一美德。
-[^2]: 3Ps: Personal, Pervasive, Permanent
-[^3]: *“You must do the things you think you cannot do.” — Eleanor Roosevelt*
+[^1]: _“You must do the things you think you cannot do.” — Eleanor Roosevelt_
+[^2]: 最盲目的服從乃是奴隸們所僅存的唯一美德。
+[^3]: 3Ps: Personal, Pervasive, Permanent

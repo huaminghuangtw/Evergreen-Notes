@@ -1,7 +1,7 @@
 ---
 title: Humor is a way to show you are smart without bragging
-created: 2024-11-18T09:18:12
-modified: 2026-02-11T14:16:48
+created: 2025-12-31T05:12:00
+modified: 2026-03-13T20:03:35
 ---
 
 # Principles
@@ -15,7 +15,7 @@ modified: 2026-02-11T14:16:48
 
 # Implementations
 
-[Infinite Chocolate Bar Trick](https://www.youtube.com/watch?v=z7tRr49qZfo)
+[Infinite Chocolate Bar Trick](https://youtu.be/z7tRr49qZfo)
 
 ---
 

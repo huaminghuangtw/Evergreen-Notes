@@ -1,7 +1,7 @@
 ---
 title: Pasta
-created: 2024-11-18T09:16:50
-modified: 2025-11-03T06:10:35
+created: 2025-07-16T21:07:00
+modified: 2026-03-13T20:03:99
 ---
 
 Variants of spaghetti pasta:

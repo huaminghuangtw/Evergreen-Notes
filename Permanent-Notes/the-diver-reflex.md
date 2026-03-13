@@ -1,7 +1,7 @@
 ---
 title: The Diver Reflex
-created: 2024-11-18T09:18:12
-modified: 2025-11-27T05:57:24
+created: 2025-08-29T08:08:00
+modified: 2026-03-13T20:03:34
 ---
 
 **TL; DR** [A physiological response in mammals that reduces heart rate, conserves oxygen, and redirects blood to vital organs when submerged in water, especially cold water.](https://en.wikipedia.org/wiki/Diving_reflex)

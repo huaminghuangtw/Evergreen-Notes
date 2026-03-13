@@ -1,7 +1,7 @@
 ---
 title: Dr. Rhonda Patrick’s Smoothie
-created: 2025-11-18T05:54:20
-modified: 2026-03-02T07:45:02
+created: 2025-11-18T06:11:00
+modified: 2026-03-13T20:03:89
 ---
 
 [Dr. Rhonda Patrick](https://www.google.com/search?q=Dr.+Rhonda+Patrick)’s (@[foundmyfitness](https://www.foundmyfitness.com/)) smoothie recipe for peak focus and performance:
@@ -13,7 +13,7 @@ modified: 2026-03-02T07:45:02
 5. **Hydrolyzed Collagen** (水解膠原蛋白) Powder - Improves skin elasticity
 6. **Moringa [^2] Powder** - Zinc, iron, magnesium
 
-See also: _[Rhonda Patrick’s Smoothie Recipe (and why she stopped adding bananas) - YouTube](https://www.youtube.com/watch?v=EpOTf7pWq70)_
+See also: _[Rhonda Patrick’s Smoothie Recipe (and why she stopped adding bananas) - YouTube](https://youtu.be/EpOTf7pWq70)_
 
 ---
 

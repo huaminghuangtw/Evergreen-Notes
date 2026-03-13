@@ -1,7 +1,7 @@
 ---
 title: Human Sponges
-created: 2025-12-15T15:46:39
-modified: 2025-12-15T17:00:49
+created: 2025-12-15T17:12:00
+modified: 2026-03-13T20:03:34
 ---
 
 [@grantHiddenPotentialScience2023]
@@ -9,7 +9,7 @@ modified: 2025-12-15T17:00:49
 1. How do you acquire information?
 2. How do you filter information?
 
-```
+```text
                              Growth
                                 ▲
                                 │

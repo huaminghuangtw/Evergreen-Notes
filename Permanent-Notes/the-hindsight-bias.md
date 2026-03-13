@@ -1,7 +1,7 @@
 ---
 title: The Hindsight Bias
-created: 2025-02-12T02:27:45
-modified: 2026-01-16T05:37:49
+created: 2025-07-18T10:07:00
+modified: 2026-03-13T20:03:54
 ---
 
 = 後見之明偏見 = 事後諸葛

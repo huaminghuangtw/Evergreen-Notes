@@ -1,7 +1,7 @@
 ---
 title: Learning is the single best investment that you can make for your time
 created: 2025-10-18T08:10:00
-modified: 2026-03-13T09:03:88
+modified: 2026-03-13T20:03:87
 ---
 
 > “Learning never exhausts the mind.” — Leonardo da Vinci
@@ -125,7 +125,7 @@ Always starting from the most basic and simplest level, then adding more complex
 
 ---
 
-# [How to learn anything?](https://www.youtube.com/watch?v=5MgBikgcWnY)
+# [How to learn anything?](https://youtu.be/5MgBikgcWnY)
 
 1. Deconstruct the skill—decide exactly what you want to be able to do when you’re done (i.e., with the end in mind), and then look into the skill and break it down into smaller pieces.
 2. Learn enough to self-correct—[learn just enough that you can actually practice and self-correct](cultivate-a-strong-bias-towards-action.md) or self-edit as you practice. Use only 3-5 resources rather than something like 20 → It’s just a form of procrastination.
@@ -198,7 +198,7 @@ Always starting from the most basic and simplest level, then adding more complex
 		3. **Repeatedly (not just once, ideally 2-3 times)** testing yourself on those questions
 			* Interval Quizzes
 	* **[Active (self-)testing is far better than passive re-reading or re-exposure to the material.](https://en.wikipedia.org/wiki/Forward_testing_effect) Test yourself ASAP with open-ended, short-answer, minimal-prompt questions after the FIRST exposure, to prevent forgetting and consolidate information.**
-		* [When you take a test on the material you just learned, you potentially improve the amount of retention by about 50%.](https://www.youtube.com/watch?v=ddq8JIMhz7c&t=4301s&ab_channel=AndrewHuberman)
+		* [When you take a test on the material you just learned, you potentially improve the amount of retention by about 50%.](https://youtu.be/ddq8JIMhz7c?t=4301s)
 		* Error-Based Learning: Make sure to compare your answer to the accurate answer, and focus on understanding why you got questions wrong, as this helps to identify knowledge gaps and makes the correct information more memorable.
 		* View (self-)testing as a learning tool to build knowledge / enhance comprehension, not just to evaluate it.
 * Retrieval Practice
@@ -247,5 +247,5 @@ Always starting from the most basic and simplest level, then adding more complex
 [^1]: 圖像、故事、位置空間 ([羅馬房間方位記憶法 = 宮殿記憶法](https://en.wikipedia.org/wiki/Method_of_loci))
 [^2]: [The Learning Pit](https://sketchplanations.com/the-learning-pit)
 [^3]: Especially the first night after learning something important to you, in order to maximize your chances of retaining the information. Without getting enough hours of quality sleep, you lose much of the chance to consolidate (“save”) the new information in your memory.
-[^4]: [After a good night’s sleep, you’re 20-30% better in terms of skilled performance than where you were at the end of the practice session the day before.](https://www.youtube.com/watch?v=pwaWilO_Pig&t=32m37s)
-[^5]: [Neuroplasticity is TRIGGERED by deep focus, but neuroplasticity OCCURS during deep rest and sleep.](https://www.youtube.com/watch?v=SwQhKFMxmDY&t=37m14s)
+[^4]: [After a good night’s sleep, you’re 20-30% better in terms of skilled performance than where you were at the end of the practice session the day before.](https://youtu.be/pwaWilO_Pig?t=32m37s)
+[^5]: [Neuroplasticity is TRIGGERED by deep focus, but neuroplasticity OCCURS during deep rest and sleep.](https://youtu.be/SwQhKFMxmDY?t=37m14s)

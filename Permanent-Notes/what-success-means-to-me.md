@@ -1,12 +1,12 @@
 ---
 title: What Success Means To Me
-created: 2024-11-18T09:18:12
-modified: 2026-03-05T07:25:38
+created: 2025-10-18T07:10:00
+modified: 2026-03-13T20:03:02
 ---
 
 > “The road to success is always under construction.” — Steve Harvey
 
-> [“Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable. And you’re the only one that will know that.” — John Wooden](https://www.youtube.com/watch?v=JWQIxuNGdvQ&t=95s)
+> [“Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable. And you’re the only one that will know that.” — John Wooden](https://youtu.be/JWQIxuNGdvQ?t=95s)
 
 > “Success is not how high you have climbed, but how you make a positive difference to the world.” — Roy T. Bennett
 
@@ -16,7 +16,7 @@ modified: 2026-03-05T07:25:38
 
 > [“Success is having everything you need and doing everything you want. It is not doing everything you need to have everything you want.” — Jacob Lund Fisker](https://earlyretirementextreme.com/manifesto.html)
 
-> [“Extreme success is not going to make you happy. In fact, success amplifies who you already are and how you already feel.” — Mark Manson](https://www.youtube.com/watch?v=_ZJpU43NA0c&t=10m49s)
+> [“Extreme success is not going to make you happy. In fact, success amplifies who you already are and how you already feel.” — Mark Manson](https://youtu.be/_ZJpU43NA0c?t=10m49s)
 
 > [“Success in life is not for those who run fast, but for those who keep running and always on the move.” — Bangambiki Habyarimana, Pearls Of Eternity](https://www.goodreads.com/quotes/7890685-success-in-life-is-not-for-those-who-run-fast)
 
@@ -80,7 +80,7 @@ The most important thing in life is _not having_ what you want, but _knowing_ wh
 
 # EIOFS = Early Indicator of Future Success
 
-> [“Don’t worry about future success. Worry about early indicators of future success.” — Jensen Huang](https://www.youtube.com/watch?v=BbTZ_7pZDB0)
+> [“Don’t worry about future success. Worry about early indicators of future success.” — Jensen Huang](https://youtu.be/BbTZ_7pZDB0)
 
 ---
 

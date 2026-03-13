@@ -1,7 +1,7 @@
 ---
 title: News Sobriety
-created: 2024-11-18T09:18:12
-modified: 2026-03-09T10:13:21
+created: 2025-10-15T14:10:00
+modified: 2026-03-13T20:03:97
 ---
 
 > “If you don’t read the newspaper, you’re uninformed. If you read the newspaper, you’re misinformed.” — Mark Twain

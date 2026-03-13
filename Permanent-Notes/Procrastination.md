@@ -1,7 +1,7 @@
 ---
 title: Procrastination
-created: 2024-11-18T09:18:12
-modified: 2026-02-06T07:40:08
+created: 2025-10-16T05:10:00
+modified: 2026-03-13T20:03:55
 ---
 
 > “To begin, begin.” — William Wordsworth
@@ -93,9 +93,9 @@ Inspiration is perishable. Act IMMEDIATELY at the moment of inspiration. Follow 
 * Observe the sensation, [write it down](implementation-intentions.md), and ask yourself: “_What am I trying to escape from?_”
 * [將其分割成一個個細小、可控、明確、具體的階段性任務](the-growth-mindset.md) [^2]
 	1. [Break complex, overwhelming tasks into small, manageable chunks.](https://youtu.be/TQMbvJNRpLE) [^3]
-		* E.g., [breaking down a complex image into simple gray squares](https://www.youtube.com/watch?v=TQMbvJNRpLE&t=10)
+		* E.g., [breaking down a complex image into simple gray squares](https://youtu.be/TQMbvJNRpLE?t=10)
 	2. Start on the first one.
-		* E.g., [one pixel at a time](https://www.youtube.com/watch?v=TQMbvJNRpLE&t=10)
+		* E.g., [one pixel at a time](https://youtu.be/TQMbvJNRpLE?t=10)
 * 遠離/移除讓你分心的事物，利用環境的信號來減少拖延
 	* You’re not lazy, you’re dopamine-depleted.
 

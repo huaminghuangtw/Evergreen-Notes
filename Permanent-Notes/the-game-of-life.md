@@ -1,7 +1,7 @@
 ---
 title: The Game of Life
-created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+created: 2025-10-17T06:10:00
+modified: 2026-03-13T20:03:50
 ---
 
 > [The reason to play the game is to be free of it.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)
@@ -79,13 +79,13 @@ _Why? Because they make you sound interesting._
 
 When asked about how he rose from undrafted nobody to this level of stardom, he said that [self-awareness](mastering-yourself-is-superpower.md) was the key:
 
-> “[A big reason guys get stuck in the League is because they don’t realize the position they’re trying out for. <mark>It’s like going to a job interview thinking you’re going to be the CFO of the company and they’re looking for someone to clean the bathrooms.</mark> […] It’s a self-awareness of understanding what you’re good at, what teams need, and trying to do that.](https://www.youtube.com/watch?v=rulLByF38TE)”
+> “[A big reason guys get stuck in the League is because they don’t realize the position they’re trying out for. <mark>It’s like going to a job interview thinking you’re going to be the CFO of the company and they’re looking for someone to clean the bathrooms.</mark> […] It’s a self-awareness of understanding what you’re good at, what teams need, and trying to do that.](https://youtu.be/rulLByF38TE)”
 
 ### 2
 
 [NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit](https://youtu.be/cEg8cOx7UZk)
 
-> [One of my great advantages is that I have very low expectations, and I mean that. <mark>Most Stanford graduates have very high expectations, and you deserve high expectations because you come from a great school, you were very successful, you are on top of you class. Obviously, you were able to pay for tuition, and you’re graduating from one of the finest institutions on the planet. You are surrounded by other kids that are just incredible. You naturally have very high expectations. [However,] people with very high expectations have very low resilience. And unfortunately, resilience matters in success.</mark> I don’t know how to teach it to you, except [to say], “I hope suffering happens to you.” I was fortunate that I grew up with parents who provided conditions for us to be successful on the one hand, but there were [also] plenty of opportunities for setbacks and suffering. To this day, I use the phrase “pain and suffering” inside our company with great glee, and I mean that [in a happy way], because you want to train and refine the character of your company. You want greatness out of them, and greatness is not intelligence as you know; <mark>greatness comes from character, and character isn’t formed out of smart people, it’s formed out of people who suffered.</mark> So, if I could wish upon you—I don’t know how to do it—but for all of you Stanford students, I wish upon you ample doses of pain and suffering.](https://www.youtube.com/watch?v=cEg8cOx7UZk&t=36m10s)
+> [One of my great advantages is that I have very low expectations, and I mean that. <mark>Most Stanford graduates have very high expectations, and you deserve high expectations because you come from a great school, you were very successful, you are on top of you class. Obviously, you were able to pay for tuition, and you’re graduating from one of the finest institutions on the planet. You are surrounded by other kids that are just incredible. You naturally have very high expectations. [However,] people with very high expectations have very low resilience. And unfortunately, resilience matters in success.</mark> I don’t know how to teach it to you, except [to say], “I hope suffering happens to you.” I was fortunate that I grew up with parents who provided conditions for us to be successful on the one hand, but there were [also] plenty of opportunities for setbacks and suffering. To this day, I use the phrase “pain and suffering” inside our company with great glee, and I mean that [in a happy way], because you want to train and refine the character of your company. You want greatness out of them, and greatness is not intelligence as you know; <mark>greatness comes from character, and character isn’t formed out of smart people, it’s formed out of people who suffered.</mark> So, if I could wish upon you—I don’t know how to do it—but for all of you Stanford students, I wish upon you ample doses of pain and suffering.](https://youtu.be/cEg8cOx7UZk?t=36m10s)
 
 ---
 
@@ -122,5 +122,5 @@ When asked about how he rose from undrafted nobody to this level of stardom, he 
 [Everything in life has an opportunity cost](everything-in-life-has-an-opportunity-cost.md)
 
 [^1]: [Race to the bottom](https://www.google.com/search?q=Race+to+the+bottom)
-[^2]: [Unlike wealth game, status game is inherently combative and driven by competition.](https://www.youtube.com/watch?v=KyfUysrNaco&t=943s) [In the wealth game, more people are winning overall. But in the status game, there are essentially more losers.](https://www.youtube.com/watch?v=KyfUysrNaco&t=10444s)
+[^2]: [Unlike wealth game, status game is inherently combative and driven by competition.](https://youtu.be/KyfUysrNaco?t=943s) [In the wealth game, more people are winning overall. But in the status game, there are essentially more losers.](https://youtu.be/KyfUysrNaco?t=10444s)
 [^3]: 把餅做大

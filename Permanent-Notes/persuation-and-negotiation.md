@@ -1,7 +1,7 @@
 ---
 title: Persuation & Negotiation
-created: 2024-11-18T09:18:12
-modified: 2026-02-27T19:32:34
+created: 2025-07-18T10:07:00
+modified: 2026-03-13T20:03:66
 ---
 
 Principled Negotiation = Interest-Based Negotiation = Win-Win Negotiation

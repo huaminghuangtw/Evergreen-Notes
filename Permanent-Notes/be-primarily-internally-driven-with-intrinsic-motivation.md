@@ -1,7 +1,7 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
-created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+created: 2025-10-18T17:10:00
+modified: 2026-03-13T20:03:70
 ---
 
 > “Glory is fleeting, but obscurity is forever.” — Napoleon Bonaparte
@@ -68,11 +68,11 @@ Focus on the [Inner Scorecard](https://fs.blog/the-inner-scorecard), not the ext
 
 ---
 
-# [David Brooks - Résumé Virtues \& Eulogy Virtues](https://www.youtube.com/watch?v=MlLWTeApqIM)
+# [David Brooks - Résumé Virtues \& Eulogy Virtues](https://youtu.be/MlLWTeApqIM)
 
 > So I’ve been thinking about the difference between the résumé virtues and the eulogy virtues. The résumé virtues are the ones you put on your résumé, which are the skills you bring to the marketplace. The eulogy virtues are the ones that get mentioned in the eulogy, which are deeper: who are you, in your depth, what is the nature of your relationships, are you bold, loving, dependable, consistency? And most of us, including me, would say that the eulogy virtues are the more important of the virtues. But at least in my case, are they the ones that I think about the most? And the answer is no.
 
-* [【TFT 】「你要追求你的履歷表，還是你的墓誌銘？」](https://www.youtube.com/watch?v=SBDWLvTRmP0)
+* [【TFT 】「你要追求你的履歷表，還是你的墓誌銘？」](https://youtu.be/SBDWLvTRmP0)
 * [王文華：要寫出精彩的「履歷表」，先擬一篇動人的「墓誌銘」](https://www.cheers.com.tw/article/article.action)
 * [你的人生追求的是履歷還是墓誌銘？](https://ubrand.udn.com/ubrand/story/123662/3676861)
 * [改你的履歷表前，不妨先想想你的墓誌銘。](https://mr6.cc/2009/01/09/%E6%94%B9%E4%BD%A0%E7%9A%84%E5%B1%A5%E6%AD%B7%E8%A1%A8%E5%89%8D%EF%BC%8C%E4%B8%8D%E5%A6%A8%E5%85%88%E6%83%B3%E6%83%B3%E4%BD%A0%E7%9A%84%E5%A2%93%E8%AA%8C%E9%8A%98/)
@@ -93,7 +93,7 @@ The Two Side of Our Natures, which are at war with each other. We happen to live
 
 ---
 
-In a [scene](https://www.youtube.com/watch?v=-Do1ALVm9qk&t=1m16s) from the television series _[Yellowstone](https://www.imdb.com/title/tt4236770/)_, Travis gives Jimmy a piece of hard-earned advice drawn from years on the rodeo circuit:
+In a [scene](https://youtu.be/-Do1ALVm9qk?t=1m16s) from the television series _[Yellowstone](https://www.imdb.com/title/tt4236770/)_, Travis gives Jimmy a piece of hard-earned advice drawn from years on the rodeo circuit:
 
 > Travis: So why do you do it?
 >

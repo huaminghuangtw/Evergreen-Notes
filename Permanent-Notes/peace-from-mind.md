@@ -1,7 +1,7 @@
 ---
 title: Peace from mind
-created: 2024-12-03T22:26:07
-modified: 2026-02-05T07:51:24
+created: 2025-10-03T08:10:00
+modified: 2026-03-13T20:03:46
 ---
 
 > “The resting place of the mind is the heart. The only thing the mind hears all day is clanging bells and noise and argument, and all it wants is quietude. The only place the mind will ever find peace is inside the silence of the heart. That’s where you need to go.” — Elizabeth Gilbert

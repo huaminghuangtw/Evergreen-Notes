@@ -1,7 +1,7 @@
 ---
 title: The Beginner Mindset
-created: 2024-11-18T09:18:12
-modified: 2026-02-15T08:42:15
+created: 2025-08-29T08:08:00
+modified: 2026-03-13T20:03:29
 ---
 
 > “It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” — Mark Twain

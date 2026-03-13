@@ -1,7 +1,7 @@
 ---
 title: A little bit of slope makes up for a lot of y-intercept
-created: 2025-10-28T06:49:25
-modified: 2025-12-30T14:49:38
+created: 2025-10-28T07:10:00
+modified: 2026-03-13T20:03:31
 ---
 
 # Slope/Rate > Position
@@ -28,4 +28,4 @@ Full script: _[slope v.s starting](https://gist.github.com/gtallen1187/e83ed02ea
 
 # Trajectory > Position
 
-[It’s more important to be on an upward trajectory than to be at a high position.](https://www.youtube.com/watch?v=KyfUysrNaco&t=1171s)
+[It’s more important to be on an upward trajectory than to be at a high position.](https://youtu.be/KyfUysrNaco?t=1171s)

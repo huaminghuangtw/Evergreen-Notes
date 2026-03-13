@@ -1,7 +1,7 @@
 ---
 title: Delayed Gratification
-created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+created: 2025-10-12T16:10:00
+modified: 2026-03-13T20:03:27
 ---
 
 > “It is by going down into the abyss that we recover the treasures of life. Where you stumble, there lies your treasure.” — Joseph Campbell

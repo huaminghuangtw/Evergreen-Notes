@@ -1,7 +1,7 @@
 ---
 title: Happiness
-created: 2024-11-18T09:18:12
-modified: 2026-02-26T09:07:33
+created: 2025-08-29T08:08:00
+modified: 2026-03-13T20:03:45
 ---
 
 > “Happiness is a state where nothing is missing.” — Naval Ravikant
@@ -189,6 +189,6 @@ Simple story on “Happiness is found through service of others.”
 
 讓自己快樂是智慧，讓別人快樂是慈悲。
 
-[^1]: [Dr. Paul Conti presented that the most salient 2 variables associated with mental health are **agency** and **gratitude**.](https://www.youtube.com/watch?v=tLRCS48Ens4&t=11m15s)
+[^1]: [Dr. Paul Conti presented that the most salient 2 variables associated with mental health are **agency** and **gratitude**.](https://youtu.be/tLRCS48Ens4?t=11m15s)
 [^2]: Satisfaction = What you have - What you want. [Lowering desires/expectations](the-absence-of-desire-is-true-happiness.md) can increase satisfaction.
 [^3]: [How to Instantly Feel Better?](https://sketchplanations.com/how-to-instantly-feel-better)

@@ -1,7 +1,7 @@
 ---
 title: Feedback Loop
-created: 2024-12-04T07:20:41
-modified: 2026-02-05T07:51:24
+created: 2025-08-10T14:08:00
+modified: 2026-03-13T20:03:91
 ---
 
 > “The more you feed me, the more I feed you.” — Feedback Loop

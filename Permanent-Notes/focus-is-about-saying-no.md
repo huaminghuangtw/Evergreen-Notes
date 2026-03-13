@@ -1,14 +1,14 @@
 ---
 title: Focus is about saying no
-created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+created: 2025-10-01T08:10:00
+modified: 2026-03-13T20:03:03
 ---
 
 > “If you chase two rabbits, you catch none.” — Confucius
 
 > “He who chases two hares catches neither.” — Desiderius Erasmus
 
-> [“Focus is about saying no.” — Steve Jobs](https://www.youtube.com/watch?v=H8eP99neOVs)
+> [“Focus is about saying no.” — Steve Jobs](https://youtu.be/H8eP99neOVs)
 
 > [“People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.” — Steve Jobs](https://www.goodreads.com/quotes/629613-people-think-focus-means-saying-yes-to-the-thing-you-ve)
 

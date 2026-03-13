@@ -1,7 +1,7 @@
 ---
 title: Cultivate a strong bias towards action
-created: 2024-11-18T09:18:12
-modified: 2026-02-12T21:08:41
+created: 2025-10-18T08:10:00
+modified: 2026-03-13T20:03:10
 ---
 
 > “To be is to do.” — Immanuel Kant
@@ -221,7 +221,7 @@ There is no later, because later you’ll be [dead](death.md).
 
 ---
 
-> “It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.” — [“The Man In The Arena” speech given by Theodore Roosevelt on April 23, 1910, in Paris, France](https://www.youtube.com/watch?v=A311CnTjfos)
+> “It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.” — [“The Man In The Arena” speech given by Theodore Roosevelt on April 23, 1910, in Paris, France](https://youtu.be/A311CnTjfos)
 
 The line — from Theodore Roosevelt’s famous 1910 speech “[Citizenship in a Republic](https://en.wikipedia.org/wiki/Citizenship_in_a_Republic)” (often called “The Man in the Arena” speech) — captures a timeless idea about courage, effort, and authenticity.
 

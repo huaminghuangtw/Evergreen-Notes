@@ -1,7 +1,7 @@
 ---
 title: How to say NO with grace and style
-created: 2025-10-07T04:57:09
-modified: 2025-11-14T05:33:10
+created: 2025-10-07T05:10:00
+modified: 2026-03-13T20:03:34
 ---
 
 # General Principle

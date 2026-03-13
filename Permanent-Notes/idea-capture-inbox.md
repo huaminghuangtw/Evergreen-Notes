@@ -1,7 +1,7 @@
 ---
 title: Idea Capture Inbox
-created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+created: 2025-08-29T08:08:00
+modified: 2026-03-13T20:03:36
 ---
 
 > Every composer knows the anguish and despair occasioned by forgetting ideas which one had no time to write down. — Hector Berlioz
@@ -42,7 +42,7 @@ modified: 2026-02-05T07:51:24
 
 ---
 
-# [Brainstorm/Insight Notebook by Tim Ferriss](https://www.youtube.com/watch?v=UFdR8w_R1HA)１
+# [Brainstorm/Insight Notebook by Tim Ferriss](https://youtu.be/UFdR8w_R1HA)１
 
 * For thought-dumping (interesting goals and ideas)
 * Multiple passes and constantly ask what did I think was important or cool through different times, so you’re not just spewing onto the page and then forgetting it
