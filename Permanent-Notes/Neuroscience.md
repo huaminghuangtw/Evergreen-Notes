@@ -1,7 +1,7 @@
 ---
 title: Neuroscience
-created: 2024-11-18T09:18:12
-modified: 2026-02-06T10:43:20
+created: 2025-10-18T06:10:00
+modified: 2026-03-13T13:03:93
 ---
 
 The brain is a monkey brain with a supercomputer on top.
@@ -9,7 +9,8 @@ The brain is a monkey brain with a supercomputer on top.
 ---
 
 * 前額葉皮 (Prefrontal Cortex, PFC) is critical for contextual processing
-* 神經可塑性 ([Neuroplasticity](neuroplasticity.md))
+* 神經可塑性（[Neuroplasticity](neuroplasticity.md)）
+* 神經再生性（Neurogenesis）
 * Neurocircuit
 * 迷走神經 (Vague nerve)
 * 腺苷 (Adenosine): Drowsiness/Sleepiness
