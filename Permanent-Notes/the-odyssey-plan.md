@@ -1,7 +1,7 @@
 ---
 title: The Odyssey Plan
-created: 2025-08-29T08:30:45
-modified: 2026-01-30T20:36:50
+created: 2025-08-29T08:08:00
+modified: 2026-03-13T20:03:67
 ---
 
 1. **The Current Path**: Write out, in detail, what your life would look like 5 years from now, if you follow your current path.

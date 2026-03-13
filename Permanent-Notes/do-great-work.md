@@ -1,14 +1,14 @@
 ---
 title: Do great work
-created: 2024-11-18T09:18:12
-modified: 2026-02-11T09:48:42
+created: 2025-10-12T08:10:00
+modified: 2026-03-13T20:03:51
 ---
 
 > “To be great is to be misunderstood.” — Ralph Waldo Emerson
 
 > “To accomplish great things, we must not only act, but also dream, not only plan, but also believe.” — Anatole France
 
-> “The only way to do great work is to love what you do.” — Steve Jobs [^1] [^4]
+> “The only way to do great work is to love what you do.” — Steve Jobs [^1] [^2]
 
 > “Quality is more important than quantity. One home run is better than two doubles.” — Steve Jobs
 
@@ -34,7 +34,7 @@ modified: 2026-02-11T09:48:42
 
 ---
 
- _[“A Stroke of Genius: Striving for Greatness in All You Do” by Richard Hamming](https://www.mccurley.org/advice/hamming_advice.html)_ [^2] [^3]
+ _[“A Stroke of Genius: Striving for Greatness in All You Do” by Richard Hamming](https://www.mccurley.org/advice/hamming_advice.html)_ [^3] [^4]
 
 > If you are to do important work then you must work on the right problem at the right time and in the right way. Without any one of the three, you may do good work but you will almost certainly miss real greatness. […] The first person to produce definitive results generally gets all the credit. Those who come in second are soon forgotten. Thus working on the problem at the right time is essential. […] Hard work is a trait that most great scientists have. Edison said that genius was 99% perspiration and 1% inspiration. Newton said that if others would work as hard as he did then they would get similar results. Hard work is necessary but it is not sufficient. Most people do not work as hard as they easily could. However, many who do work hard — work on the wrong problem, at the wrong time, in the wrong way, and have very little to show for it.
 
@@ -90,6 +90,6 @@ If it’s worth doing, it’s worth doing very well.
 [The Hofstadter’s Law](the-hofstadters-law.md)
 
 [^1]: _“Work is love made visible.” — Kahlil Gibran_
-[^2]: 美國數學家，圖靈獎得主，「漢明碼」的發明人。 1946 至 1976 年在貝爾實驗室 (Bell Telephone Laboratory) 工作，1956 年參與了 IBM 650 的程式設計語言發展工作。 它是美國電腦協會 (ACM) 的創立人之一，曾任該組織的主席。
-[^3]: [Another great one](https://www.youtube.com/watch?v=a1zDuOPkMSw) [by Richard Hamming](https://www.essra.org.cn/view-1000-3224.aspx): [“You and Your Research”](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
-[^4]: *“Doing what you love is the cornerstone of having abundance in your life.” — Wayne Dyer*
+[^2]: _“Doing what you love is the cornerstone of having abundance in your life.” — Wayne Dyer_
+[^3]: 美國數學家，圖靈獎得主，「漢明碼」的發明人。 1946 至 1976 年在貝爾實驗室 (Bell Telephone Laboratory) 工作，1956 年參與了 IBM 650 的程式設計語言發展工作。 它是美國電腦協會 (ACM) 的創立人之一，曾任該組織的主席。
+[^4]: [Another great one](https://youtu.be/a1zDuOPkMSw) [by Richard Hamming](https://www.essra.org.cn/view-1000-3224.aspx): [“You and Your Research”](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)

@@ -1,7 +1,7 @@
 ---
 title: The Chinese Farmer Parable
-created: 2025-11-15T05:49:39
-modified: 2025-11-19T21:00:06
+created: 2025-11-15T05:11:00
+modified: 2026-03-13T20:03:30
 ---
 
 #Blog

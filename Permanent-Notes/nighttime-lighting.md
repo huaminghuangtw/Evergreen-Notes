@@ -1,7 +1,7 @@
 ---
 title: Nighttime Lighting
-created: 2024-11-18T09:18:12
-modified: 2026-02-01T17:44:38
+created: 2025-08-22T05:08:00
+modified: 2026-03-13T20:03:38
 ---
 
 Turn off overhead lights; use lamps or softer lighting and dim the computer screen.

@@ -1,7 +1,7 @@
 ---
 title: Chronotype
-created: 2025-07-01T10:43:51
-modified: 2026-01-25T16:14:19
+created: 2025-08-29T08:08:00
+modified: 2026-03-13T20:03:78
 ---
 
 # 🕰️ What is Chronotype?

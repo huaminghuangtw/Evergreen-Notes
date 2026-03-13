@@ -1,7 +1,7 @@
 ---
 title: The most productive people prioritize intentional rest
-created: 2024-11-18T09:18:12
-modified: 2026-02-20T08:43:38
+created: 2025-10-14T18:10:00
+modified: 2026-03-13T20:03:65
 ---
 
 > “Rest until you feel like playing, then play until you feel like resting.” — Martha Beck

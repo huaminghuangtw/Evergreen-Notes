@@ -1,7 +1,7 @@
 ---
 title: The Law of Attraction
-created: 2025-10-26T15:33:23
-modified: 2026-02-26T19:39:44
+created: 2025-10-26T15:10:00
+modified: 2026-03-13T20:03:69
 ---
 
 > “What you seek is seeking you.” — Rumi

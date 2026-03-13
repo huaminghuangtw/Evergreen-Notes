@@ -1,7 +1,7 @@
 ---
 title: Intentional Living
-created: 2024-11-18T09:18:12
-modified: 2026-02-05T09:22:23
+created: 2025-10-10T06:10:00
+modified: 2026-03-13T20:03:50
 ---
 
 > [“Your goal in life is to be able to say on the day before you die that you have fully become yourself.” — Kevin Kelly](https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/)
@@ -56,7 +56,7 @@ I don’t fear [death](death.md), I fear not living fully.
 
 > “In the end, it’s not the years in your life that count. It’s the life in your years.” — Abraham Lincoln
 
-> [“Life is not the amount of breaths you take, it’s the moments that take your breath away.”](https://www.youtube.com/watch?v=fCpdGZbmkJ8) — [Hitch (2005 film)](https://www.imdb.com/title/tt0386588/)
+> [“Life is not the amount of breaths you take, it’s the moments that take your breath away.”](https://youtu.be/fCpdGZbmkJ8) — [Hitch (2005 film)](https://www.imdb.com/title/tt0386588/)
 
 > “The quality, not the longevity, of one’s life is what is important.” — Martin Luther King, Jr.
 

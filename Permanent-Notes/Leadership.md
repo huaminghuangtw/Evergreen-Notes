@@ -1,7 +1,7 @@
 ---
 title: Leadership
-created: 2025-01-23T10:40:57
-modified: 2026-02-06T10:43:19
+created: 2025-10-05T16:10:00
+modified: 2026-03-13T20:03:76
 ---
 
 > “To lead people, walk beside them.” — Lao Tzu
@@ -66,7 +66,7 @@ When you find yourself in a situation where everyone looks at each other, it’s
 
 ---
 
-# [The CORE Principle by Sir David Brailsford, used in British cycling team (TeamGB) and Team Sky](https://www.youtube.com/watch?v=THNBIQenywc)
+# [The CORE Principle by Sir David Brailsford, used in British cycling team (TeamGB) and Team Sky](https://youtu.be/THNBIQenywc)
 
 1. Commitment
 2. Ownership

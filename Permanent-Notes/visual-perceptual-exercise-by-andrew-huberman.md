@@ -1,7 +1,7 @@
 ---
 title: Visual Perceptual Exercise by Andrew Huberman
-created: 2024-11-18T09:18:12
-modified: 2026-01-25T16:14:18
+created: 2025-09-29T15:09:00
+modified: 2026-03-13T20:03:03
 ---
 
 = Space-Time Bridging (時空橋樑) = Shift between different time domains [^1]
@@ -37,4 +37,4 @@ By focusing on a specific spot, you activate brain circuitry that releases neuro
 
 [Visualization](visualization.md)
 
-[^1]: <https://www.youtube.com/watch?v=eC9fiJBdMG0&t=1982s>
+[^1]: <https://youtu.be/eC9fiJBdMG0?t=1982s>

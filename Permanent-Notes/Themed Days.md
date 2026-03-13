@@ -1,7 +1,7 @@
 ---
 title: Themed Days
-created: 2025-02-27T09:27:47
-modified: 2026-02-20T08:43:38
+created: 2025-09-28T15:09:00
+modified: 2026-03-13T20:03:21
 ---
 
 > [“The way I found that works for me is I theme my days. On Monday, at both companies, I focus on management and running the company. Tuesday is focused on product. Wednesday is focused on marketing and communications and growth. Thursday is focused on developers and partnerships. Friday is focused on the company and the culture and recruiting. Saturday I take off, I hike. Sunday is reflection, feedback, strategy, and getting ready for the week.” — Jack Dorsey](https://www.forbes.com/sites/kevinkruse/2015/10/12/jack-dorsey-productivity-secret/#3212986c136a)

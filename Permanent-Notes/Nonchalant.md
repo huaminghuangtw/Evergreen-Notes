@@ -1,7 +1,7 @@
 ---
 title: Nonchalant
-created: 2025-12-06T05:39:28
-modified: 2025-12-06T05:39:28
+created: 2025-12-06T05:12:00
+modified: 2026-03-13T20:03:98
 ---
 
 [Behaving in a calm manner, often in a way that suggests you are not interested or do not care.](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/nonchalant)

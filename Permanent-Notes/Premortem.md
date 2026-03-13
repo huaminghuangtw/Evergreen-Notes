@@ -1,7 +1,7 @@
 ---
 title: Premortem
-created: 2025-09-27T06:43:21
-modified: 2025-11-09T08:18:12
+created: 2025-10-07T14:10:00
+modified: 2026-03-13T20:03:52
 ---
 
 = 事前驗屍

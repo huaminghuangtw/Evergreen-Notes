@@ -1,7 +1,7 @@
 ---
 title: Lazy Cooking Tips
-created: 2024-11-18T09:16:50
-modified: 2026-01-05T17:19:54
+created: 2026-01-02T15:01:00
+modified: 2026-03-13T20:03:75
 ---
 
 # Types of salt for different purposes
@@ -48,11 +48,11 @@ modified: 2026-01-05T17:19:54
 
 # Techniques
 
-* [Using suction cup wrapping for storage](https://www.youtube.com/watch?v=H_erG7HSK0A&t=1738s)
+* [Using suction cup wrapping for storage](https://youtu.be/H_erG7HSK0A?t=1738s)
 * Preventing sauce skins by placing a piece of plastic wrap directly on top such that it suctions to the liquid
-* [Microplane citrus zesting technique](https://www.youtube.com/watch?v=H_erG7HSK0A&t=298s)
+* [Microplane citrus zesting technique](https://youtu.be/H_erG7HSK0A?t=298s)
 * Paper towel slicing technique for even cuts of chives
-* [Cutting peppers/tomatoes/oranges/etc. around core](https://www.youtube.com/watch?v=H_erG7HSK0A&t=419s)
+* [Cutting peppers/tomatoes/oranges/etc. around core](https://youtu.be/H_erG7HSK0A?t=419s)
 
 # Tricks/Hacks
 
@@ -64,7 +64,7 @@ modified: 2026-01-05T17:19:54
 * Fix oversalted soup by adding potatoes or a tablespoon of rice
 * Use dry towel to handle hot items
 * Saving herbs by drying with kitchen twine
-* [Soak garlic cloves in warm water for 2 minutes before peeling them](https://www.youtube.com/watch?v=H_erG7HSK0A&t=105s)
+* [Soak garlic cloves in warm water for 2 minutes before peeling them](https://youtu.be/H_erG7HSK0A?t=105s)
 * Whenever peeling something, always put a piece of parchment paper (or tray 托盤) underneath for easier cleaning later
 * Flicking water onto onions to prevent crying
 * Soak sliced raw onion in cold water for 30 seconds - 1 minute
@@ -78,4 +78,4 @@ modified: 2026-01-05T17:19:54
 
 ---
 
-[100 Food Hacks I Learned In Restaurants - YouTube](https://www.youtube.com/watch?v=H_erG7HSK0A&pp=ygUnMTAwIEZvb2QgSGFja3MgSSBMZWFybmVkIEluIFJlc3RhdXJhbnRz)
+[100 Food Hacks I Learned In Restaurants - YouTube](https://youtu.be/H_erG7HSK0A)

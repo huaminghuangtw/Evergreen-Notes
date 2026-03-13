@@ -1,7 +1,7 @@
 ---
 title: Do not use your willpower unless you absolutely have to
-created: 2024-11-18T09:18:12
-modified: 2026-02-19T08:28:52
+created: 2025-10-01T05:10:00
+modified: 2026-03-13T20:03:52
 ---
 
 > [“I only do what is easy. I only write when I immediately know how to do it, if I falter for a moment, I put the matter aside and do something else.” — Niklas Luhmann](https://www.soenkeahrens.de/en/takesmartnotes)
@@ -30,6 +30,6 @@ Try to use _the least amount_ of willpower for self-control or [self-discipline]
 
 ---
 
-Don’t rely solely on willpower to push through toward distant goals. Don’t just grit your teeth. If an activity doesn’t provide some [immediate gratification](instant-gratification.md), it’s hard to stay committed. 
+Don’t rely solely on willpower to push through toward distant goals. Don’t just grit your teeth. If an activity doesn’t provide some [immediate gratification](instant-gratification.md), it’s hard to stay committed.
 
 Instead, try [bundling](temptation-bundling.md) your goals with enjoyable activities. Turning goal pursuit into something pleasurable is one of the most effective ways to make meaningful progress—and [enjoy the journey](journey-over-destination.md) along the way.

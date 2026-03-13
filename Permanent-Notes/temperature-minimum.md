@@ -1,7 +1,7 @@
 ---
 title: Temperature minimum
-created: 2024-11-18T09:18:12
-modified: 2026-01-27T06:58:17
+created: 2025-08-22T06:08:00
+modified: 2026-03-13T20:03:15
 ---
 
 Your temperature minimum, the point in your daily cycle when your temperature is lowest, tends to fall/occur 90 minutes to 2 hours **before** your average waking time.

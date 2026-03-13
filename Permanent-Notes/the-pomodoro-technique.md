@@ -1,7 +1,7 @@
 ---
 title: The Pomodoro Technique
-created: 2024-11-18T09:18:12
-modified: 2026-02-05T06:49:06
+created: 2025-08-29T08:08:00
+modified: 2026-03-13T20:03:72
 ---
 
 The [original technique](https://www.pomodorotechnique.com/) has six steps:
@@ -15,7 +15,7 @@ The [original technique](https://www.pomodorotechnique.com/) has six steps:
 
 ---
 
-After completing a task within a Pomodoro session, utilize any remaining time to briefly review and reflect on what you’ve done. [^2] Use this opportunity to make small improvements, reinforce what you’ve learned, and document key insights until the timer signals the end of the Pomodoro. 
+After completing a task within a Pomodoro session, utilize any remaining time to briefly review and reflect on what you’ve done. [^2] Use this opportunity to make small improvements, reinforce what you’ve learned, and document key insights until the timer signals the end of the Pomodoro.
 
 Additionally, to transit smoothly into future sessions, take this time to glance over your list of upcoming tasks for the next Pomodoro sessions, update them if necessary.
 

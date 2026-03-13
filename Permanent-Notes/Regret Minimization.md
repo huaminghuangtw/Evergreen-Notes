@@ -1,7 +1,7 @@
 ---
 title: Regret Minimization
-created: 2024-11-18T09:16:50
-modified: 2026-01-05T17:15:47
+created: 2026-01-04T11:01:00
+modified: 2026-03-13T20:03:07
 ---
 
 Sit down with a journal or piece of paper and sketch it out:

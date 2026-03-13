@@ -1,12 +1,12 @@
 ---
 title: The Lindy Effect
-created: 2024-11-18T09:18:12
-modified: 2026-02-08T06:17:50
+created: 2025-08-29T08:08:00
+modified: 2026-03-13T20:03:57
 ---
 
 The Lindy Effect is a concept that suggests the future life expectancy of non-perishable things is proportional to their current age. In other words, the longer something has existed, the more likely it is to continue existing.
 
-Unlike living organisms, the Lindy Effect applies to things that do not have a natural lifespan, such as cultural artifacts, knowledge, and technologies. 
+Unlike living organisms, the Lindy Effect applies to things that do not have a natural lifespan, such as cultural artifacts, knowledge, and technologies.
 
 For example, a book that has been read for 100 years is likely to be read for another 100 years, while a new book may disappear quickly. The Lindy Effect helps explain why classics persist and why new inventions or ideas face a high risk of extinction.
 

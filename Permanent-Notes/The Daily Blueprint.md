@@ -1,7 +1,7 @@
 ---
 title: The Daily Blueprint
-created: 2024-11-18T09:16:50
-modified: 2026-02-06T09:17:49
+created: 2025-08-29T08:08:00
+modified: 2026-03-13T20:03:18
 ---
 
 # 起床儀式（Early Morning Routine）
@@ -60,5 +60,3 @@ modified: 2026-02-06T09:17:49
 ---
 
 See also: [Be a habit and routine machine](be-a-habit-and-routine-machine.md)
-
-

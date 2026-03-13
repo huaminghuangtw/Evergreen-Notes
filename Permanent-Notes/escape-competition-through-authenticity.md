@@ -1,7 +1,7 @@
 ---
 title: Escape competition through authenticity
-created: 2024-11-18T09:18:12
-modified: 2026-03-07T14:16:27
+created: 2025-10-11T08:10:00
+modified: 2026-03-13T20:03:88
 ---
 
 > “Everything popular is wrong.” — Oscar Wilde
@@ -14,7 +14,7 @@ modified: 2026-03-07T14:16:27
 
 > “The eyes of others our prisons; their thoughts our cages.” — Virginia Woolf
 
-> “If you want to be successful in life, simply watch what most people would do in a given situation, and then [do the total opposite](https://www.youtube.com/watch?v=1Y_6fZGSOQI)—nine times out of ten, you’ll receive greater rewards.” — Earl Nightingale
+> “If you want to be successful in life, simply watch what most people would do in a given situation, and then [do the total opposite](https://youtu.be/1Y_6fZGSOQI)—nine times out of ten, you’ll receive greater rewards.” — Earl Nightingale
 
 > “The world wants you to be typical — in a thousand ways, it pulls at you. Don’t let it happen. You have to pay a price for your distinctiveness, and it’s worth it.” — Jeff Bezos
 

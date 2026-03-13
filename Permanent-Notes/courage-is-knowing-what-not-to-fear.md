@@ -1,10 +1,10 @@
 ---
 title: Courage is knowing what not to fear
 created: 2025-04-11T19:02:45
-modified: 2026-02-09T10:48:20
+modified: 2026-03-13T20:03:01
 ---
 
-> [“Success is not final, failure is not fatal: it is the courage to continue that counts.” — Winston Churchill](https://www.youtube.com/watch?v=uuxMZL6ieWM)
+> [“Success is not final, failure is not fatal: it is the courage to continue that counts.” — Winston Churchill](https://youtu.be/uuxMZL6ieWM)
 
 > “Courage is simply doing whatever is needed in pursuit of the vision.” — [@sengeFifthDisciplineArt2006]
 
@@ -32,7 +32,7 @@ modified: 2026-02-09T10:48:20
 
 > “Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day whispering, ‘I will try again tomorrow.’” — Mary Anne Radmacher
 
-> “[When do I know I’m Spider-Man? You won’t. That’s all it is, Miles. A leap of faith.](https://www.youtube.com/watch?v=yoS74R-qKIY)” — Peter Parker, [Spider-Man: Into the Spider-Verse](https://www.imdb.com/title/tt4633694/) (2018 film)
+> “[When do I know I’m Spider-Man? You won’t. That’s all it is, Miles. A leap of faith.](https://youtu.be/yoS74R-qKIY)” — Peter Parker, [Spider-Man: Into the Spider-Verse](https://www.imdb.com/title/tt4633694/) (2018 film)
 
 ---
 

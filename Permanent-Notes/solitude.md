@@ -1,7 +1,7 @@
 ---
 title: Solitude
-created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+created: 2025-10-18T05:10:00
+modified: 2026-03-13T20:03:96
 ---
 
 > “Solitude gives birth to the original in us.” — Thomas Mann
@@ -22,13 +22,13 @@ To shine in the light, you have to embrace the boredom in the dark.
 
 There are many elements of [living a good life](how-to-live-a-life.md), but the first and most foundational is to [love yourself](self-compassion.md) and enjoy spending time with yourself.
 
-[Go do things on your own / Take yourself on dates](https://www.youtube.com/watch?v=k7X7sZzSXYs) so you learn to trust your mind and view it as a welcome companion. If someone declared, “Tomorrow you must spend the day alone” the hope is that you would reply, “That sounds like a good day!”
+[Go do things on your own / Take yourself on dates](https://youtu.be/k7X7sZzSXYs) so you learn to trust your mind and view it as a welcome companion. If someone declared, “Tomorrow you must spend the day alone” the hope is that you would reply, “That sounds like a good day!”
 
 The person who is at ease within finds every other space larger and more enjoyable. [^1]
 
 ---
 
-[Enjoy yourself, it’s later than you think. Enjoy yourself, while you’re still in the pink. The years go by, as quickly as a wink.](https://www.youtube.com/watch?v=nFxjnUPRwx4)
+[Enjoy yourself, it’s later than you think. Enjoy yourself, while you’re still in the pink. The years go by, as quickly as a wink.](https://youtu.be/nFxjnUPRwx4)
 
 ---
 

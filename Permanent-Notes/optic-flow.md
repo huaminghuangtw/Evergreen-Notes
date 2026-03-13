@@ -1,7 +1,7 @@
 ---
 title: Optic Flow
-created: 2024-11-18T09:18:12
-modified: 2026-02-27T08:15:13
+created: 2025-10-22T05:10:00
+modified: 2026-03-13T20:03:47
 ---
 
 Optic flow is how things seem to move in our view when we or our surroundings are in motion. As we move, the images on our eyes change, helping us sense speed, direction, and space.

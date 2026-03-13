@@ -1,7 +1,7 @@
 ---
 title: Ketogenic Diet
-created: 2024-11-18T09:16:50
-modified: 2026-02-05T07:51:24
+created: 2025-08-29T08:08:00
+modified: 2026-03-13T20:03:93
 ---
 
 酮體 (Ketone Bodies) / 生酮飲食 (Ketogenic Diet): involves significantly decreasing your intake of carbs / 酮症 (Ketosis): a metabolic state in which your body uses fat as its primary source of energy / 生酮作用 (Ketogenesis): 指脂肪酸分解生成酮體

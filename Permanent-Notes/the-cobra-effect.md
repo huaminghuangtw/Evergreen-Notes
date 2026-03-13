@@ -1,7 +1,7 @@
 ---
 title: The Cobra Effect
-created: 2024-11-18T09:18:12
-modified: 2026-01-05T17:15:47
+created: 2025-11-20T18:11:00
+modified: 2026-03-13T20:03:30
 ---
 
 = 眼鏡蛇效應

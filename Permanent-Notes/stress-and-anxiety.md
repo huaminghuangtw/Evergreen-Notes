@@ -1,7 +1,7 @@
 ---
 title: Stress & Anxiety
-created: 2024-11-18T09:18:12
-modified: 2026-02-05T07:51:24
+created: 2025-10-19T06:10:00
+modified: 2026-03-13T20:03:08
 ---
 
 > “Stress happens when the mind resists what is.” — Dan Millman
@@ -71,7 +71,7 @@ Ask yourself: “_Will this crisis really matter one year from now?_”
 
 ---
 
-# [3Q Filters Test by Jon Acuff](https://www.youtube.com/watch?v=9UqWaSR0miQ&t=38m41s)
+# [3Q Filters Test by Jon Acuff](https://youtu.be/9UqWaSR0miQ?t=38m41s)
 
 If you want to curb stress, you need to curate your thoughts. When you identify a “broken soundtrack” (repetitive [negative thought](negative-thoughts-and-emotions.md)), you should run it through these three questions:
 

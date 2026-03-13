@@ -1,7 +1,7 @@
 ---
 title: Addiction is not about pleasure, it’s about escape
 created: 2025-10-16T05:07:41
-modified: 2026-01-25T16:14:19
+modified: 2026-03-13T20:03:40
 ---
 
 # The Rat Park Experiment

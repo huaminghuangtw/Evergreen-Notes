@@ -1,7 +1,7 @@
 ---
 title: Life is shorter than you think
-created: 2025-01-23T10:40:57
-modified: 2026-02-06T10:43:20
+created: 2025-10-15T06:10:00
+modified: 2026-03-13T20:03:94
 ---
 
 > “No matter how many times you do something, there will come a day when you do it for the last time.” — Sam Harris
@@ -40,7 +40,7 @@ Accept the impermanence of everything in our lives.
 
 ---
 
-[The Insignificance of Human Existence](https://www.youtube.com/watch?v=wupToqz1e2g)
+[The Insignificance of Human Existence](https://youtu.be/wupToqz1e2g)
 
 > The universe is vast and humans are insignificant in comparison.
 > Our existence is fleeting and our actions have limited impact.

@@ -1,7 +1,7 @@
 ---
 title: Relationships
-created: 2025-03-12T02:41:12
-modified: 2026-02-05T07:51:24
+created: 2025-10-16T05:10:00
+modified: 2026-03-13T20:03:72
 ---
 
 > “The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin

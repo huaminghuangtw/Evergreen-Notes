@@ -1,7 +1,7 @@
 ---
 title: Maslow’s Hammer
-created: 2025-10-12T16:15:08
-modified: 2026-02-05T07:51:24
+created: 2025-10-12T16:10:00
+modified: 2026-03-13T20:03:13
 ---
 
 > “If the only tool you have is a hammer, it is tempting to treat everything as if it were a nail.” — Abraham Maslow

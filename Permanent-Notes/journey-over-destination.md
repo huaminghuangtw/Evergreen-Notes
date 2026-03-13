@@ -1,7 +1,7 @@
 ---
 title: Journey over destination
-created: 2024-11-18T09:18:12
-modified: 2026-02-06T10:43:19
+created: 2025-10-14T05:10:00
+modified: 2026-03-13T20:03:59
 ---
 
 > “To travel is to be alive, but to get somewhere is to be dead.” — Alan Watts
@@ -14,7 +14,7 @@ modified: 2026-02-06T10:43:19
 
 > “God will not look you over for medals, degrees or diplomas but for scars.” — Elbert Hubbard
 
-> [“You have to enjoy your journey, the journey is all that there is.” — Naval Ravikant](http://www.youtube.com/watch?v=KyfUysrNaco&t=453)
+> [“You have to enjoy your journey, the journey is all that there is.” — Naval Ravikant](https://youtu.be/KyfUysrNaco?t=453)
 
 > [“The end of a melody is not its goal: but nonetheless, had the melody not reached its end it would not have reached its goal either. A parable.” — Friedrich Nietzsche](https://www.goodreads.com/quotes/7368-the-end-of-a-melody-is-not-its-goal-but)
 

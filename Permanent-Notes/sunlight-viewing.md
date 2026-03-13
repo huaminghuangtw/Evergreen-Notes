@@ -1,7 +1,7 @@
 ---
 title: Sunlight Viewing
-created: 2024-11-18T09:18:12
-modified: 2025-11-11T17:29:44
+created: 2025-08-29T08:08:00
+modified: 2026-03-13T20:03:09
 ---
 
 # View Morning Sunlight

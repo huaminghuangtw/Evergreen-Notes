@@ -1,14 +1,14 @@
 ---
 title: Temptation Bundling
-created: 2024-12-16T23:33:02
-modified: 2025-11-21T03:34:57
+created: 2025-10-17T06:10:00
+modified: 2026-03-13T20:03:16
 ---
 
 by Katherine Milkman [@milkmanHoldingHungerGames2014] [@kirgiosTeachingTemptationBundling2020]
 
 ≈ [Multichannel Multitasking by Nir Eyal](https://www.nirandfar.com/multitask-the-right-way/)
 
-≈ [Mutimodality Mutitasking by Ali Abdaal](https://www.youtube.com/watch?v=W2afI0n8pUk&t=17m33s)
+≈ [Mutimodality Mutitasking by Ali Abdaal](https://youtu.be/W2afI0n8pUk?t=17m33s)
 
 ---
 

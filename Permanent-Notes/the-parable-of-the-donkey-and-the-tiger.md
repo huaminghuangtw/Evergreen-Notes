@@ -1,7 +1,7 @@
 ---
 title: The Parable of the Donkey and the Tiger
-created: 2025-12-16T09:32:37
-modified: 2026-02-06T10:43:20
+created: 2026-01-05T17:01:00
+modified: 2026-03-13T20:03:68
 ---
 
 ![](_attachments/fcc1929f8c6044ff48bfbf8d5419907c.png)

@@ -1,7 +1,7 @@
 ---
 title: Trust your gut
-created: 2025-01-01T16:32:50
-modified: 2026-02-05T07:51:24
+created: 2025-10-15T12:10:00
+modified: 2026-03-13T20:03:91
 ---
 
 > “Intuition is the whisper of the soul.” — Jidda Krishnamurti
@@ -24,7 +24,7 @@ How many times have you allowed your head to convince you that something made se
 
 Or, how many times have you allowed your head to convince you that something didn’t make sense, even when your gut told you it did?
 
-[The gut is the ultimate decision-maker; the head just rationalizes it after the fact. For any important decision, wait until your gut answers with conviction.](https://www.youtube.com/watch?v=KyfUysrNaco&t=5443s)
+[The gut is the ultimate decision-maker; the head just rationalizes it after the fact. For any important decision, wait until your gut answers with conviction.](https://youtu.be/KyfUysrNaco?t=5443s)
 
 Never let your head outsmart your gut.
 
@@ -88,7 +88,7 @@ The most common interpretation of the story is that we should trust in our intui
 
 ---
 
-[In an interview at Duke University’s Fuqua School of Business, Apple CEO Tim Cook talks about how intuition led him to Apple and how intuition develops over time.](https://www.youtube.com/watch?v=c6X9-br--jM)
+[In an interview at Duke University’s Fuqua School of Business, Apple CEO Tim Cook talks about how intuition led him to Apple and how intuition develops over time.](https://youtu.be/c6X9-br--jM)
 
 > I don’t think that you’re born with a gut. I think the gut matures and gets better and better over time. And the struggle that most people have I think, is learning to listen to it and figuring out how to access it in some way.
 

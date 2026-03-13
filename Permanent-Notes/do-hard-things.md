@@ -1,13 +1,13 @@
 ---
 title: Do hard things
-created: 2024-11-18T09:18:12
-modified: 2026-02-12T21:08:47
+created: 2025-10-18T06:10:00
+modified: 2026-03-13T20:03:47
 ---
 
 > “Difficulties strengthen the mind, as labor does the body.” — Seneca
 
 > “A smooth sea never made a skilled sailor.” — Franklin D. Roosevelt
-> 
+>
 > 一片風平浪靜的海洋無法造就一名偉大的舵手
 
 > “One day, in retrospect, the years of struggle will strike you as the most beautiful.” — Sigmund Freud

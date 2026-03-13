@@ -1,7 +1,7 @@
 ---
 title: The Simplicity Audit
-created: 2024-11-18T09:16:50
-modified: 2026-02-16T04:03:19
+created: 2025-09-25T06:09:00
+modified: 2026-03-13T20:03:74
 ---
 
 # 4 key environments of life

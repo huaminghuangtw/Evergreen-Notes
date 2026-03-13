@@ -1,7 +1,7 @@
 ---
 title: Death
-created: 2024-11-18T09:18:12
-modified: 2026-03-09T17:42:19
+created: 2025-10-15T12:10:00
+modified: 2026-03-13T20:03:38
 ---
 
 > “The free man thinks of death, least of all things.” — Benedict Spinoza
@@ -66,7 +66,7 @@ Death is the ultimate equalizer. We may look different, live in different places
 
 ---
 
-# 最大化快樂/體驗，[最小化後悔/遺憾](https://www.youtube.com/watch?v=jwG_qR6XmDQ) [^1]
+# 最大化快樂/體驗，[最小化後悔/遺憾](https://youtu.be/jwG_qR6XmDQ) [^1]
 
 > “We don’t beat the reaper by living longer, but by living well, and living fully — for the reaper will come for all of us. The question is: what do we do between the time we’re born and the time he shows up. Because when he shows up, it’s too late to do all the things that you always wanted to get around to. It is not the things we do in life that we regret on our deathbed. It is the things we do not.” — Randy Pausch
 
@@ -167,4 +167,4 @@ Remarks: Through history, people have gone back into their own pasts, sometime t
 [^1]: **The Regret Minimization Framework:** The goal is to minimize the number of _regrets_, _[remorse (懊悔; 悔恨; 自責)](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%B9%81%E4%BD%93/remorse)_, and “_acts of omission (the act of not including something or someone that should have been included)_” in life.
 [^2]: None of them is “_I wish I had earned more money._”
 [^3]: [20 years from now, the only people who will remember that you worked late are your kids](https://www.reddit.com/r/antiwork/comments/12uz90c/psa_20_years_from_now_the_only_people_who_will/)
-[^4]: [We’re all headed towards certain death](https://www.youtube.com/watch?v=zWH_9VRWn8Y&feature=youtu.be&t=49s). Why stop trying?
+[^4]: [We’re all headed towards certain death](https://youtu.be/zWH_9VRWn8Y?t=49s). Why stop trying?

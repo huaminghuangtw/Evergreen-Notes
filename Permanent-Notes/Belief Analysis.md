@@ -1,7 +1,7 @@
 ---
 title: Belief Analysis
-created: 2024-11-18T09:16:50
-modified: 2026-02-14T07:34:40
+created: 2025-08-29T08:08:00
+modified: 2026-03-13T20:03:78
 ---
 
 1. Ask yourself: is it really true? Like, is it _really_ true? Have you really got incontrovertible evidence to support this? Could there be no other way of interpreting the data other than the belief?

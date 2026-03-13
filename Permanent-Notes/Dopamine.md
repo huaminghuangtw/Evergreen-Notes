@@ -1,7 +1,7 @@
 ---
 title: Dopamine
-created: 2024-11-18T09:18:12
-modified: 2026-02-06T10:43:20
+created: 2025-10-12T16:10:00
+modified: 2026-03-13T20:03:83
 ---
 
 > “Persons with severe addictions are among those contemporary prophets that we ignore to our own demise, for they show us who we truly are. (重度成癮者是當代的預言家，不把他們當一回事，沒有好下場的是我們，因為他們反映的正是我們真實的面貌)” — Kent Dunnington

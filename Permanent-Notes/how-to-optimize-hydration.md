@@ -1,10 +1,10 @@
 ---
 title: How to optimize hydration
-created: 2024-11-18T09:16:50
-modified: 2026-01-25T16:14:18
+created: 2025-07-18T10:07:00
+modified: 2026-03-13T20:03:34
 ---
 
-When exercising, follow the [Galpin Equation](https://www.youtube.com/watch?v=q37ARYnRDGc&t=2989s) as a guideline for the amount of **additional** fluid you should consume
+When exercising, follow the [Galpin Equation](https://youtu.be/q37ARYnRDGc?t=2989s) as a guideline for the amount of **additional** fluid you should consume
 
 # The Galpin Equation
 
@@ -15,7 +15,7 @@ When exercising, follow the [Galpin Equation](https://www.youtube.com/watch?v=q3
 
 ---
 
-[How to Optimize Your Water Quality & Intake for Health | Huberman Lab](https://www.youtube.com/watch?v=at37Y8rKDlA)
+[How to Optimize Your Water Quality & Intake for Health | Huberman Lab](https://youtu.be/at37Y8rKDlA)
 
 ---
 

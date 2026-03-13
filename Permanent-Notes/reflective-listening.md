@@ -1,7 +1,7 @@
 ---
 title: Reflective Listening
-created: 2026-03-10T09:30:12
-modified: 2026-03-10T09:30:18
+created: 2026-03-10T09:03:00
+modified: 2026-03-13T20:03:68
 ---
 
 1. <mark>Listen without interrupting</mark>

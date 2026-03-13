@@ -1,7 +1,7 @@
 ---
 title: Public Speaking
-created: 2025-01-23T10:40:57
-modified: 2026-02-06T10:43:19
+created: 2025-10-12T16:10:00
+modified: 2026-03-13T20:03:07
 ---
 
 ![](_attachments/6c8f79badba8703f7e8f9c978dca4d9c.webp)

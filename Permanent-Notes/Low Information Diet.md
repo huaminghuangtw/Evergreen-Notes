@@ -1,7 +1,7 @@
 ---
 title: Low Information Diet
-created: 2024-11-18T09:18:12
-modified: 2026-03-09T10:13:20
+created: 2025-08-29T08:08:00
+modified: 2026-03-13T20:03:96
 ---
 
 > “The art of not reading is a very important one. It consists in not taking an interest in whatever may be engaging the attention of the general public at any particular time. When some political or ecclesiastical pamphlet, or novel, or poem is making a great commotion, you should remember that he who writes for fools always finds a large public. A precondition for reading good books is not reading bad ones: for life is short.” — Arthur Schopenhauer

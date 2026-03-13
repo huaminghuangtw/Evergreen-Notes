@@ -1,7 +1,7 @@
 ---
 title: Embrace the beauty of enoughness
-created: 2024-11-18T09:18:12
-modified: 2026-02-28T18:03:00
+created: 2025-10-10T17:10:00
+modified: 2026-03-13T20:03:67
 ---
 
 > 「真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。」 — 沈芯菱 [^1]
@@ -99,7 +99,7 @@ Moderation/Harmony is key. Enough is enough.
 
 ---
 
-Don’t let the pursuit of more stop you from enjoying what you already have. Don’t let your possessions possess you. [Don’t the things you own end up owing you.](https://www.youtube.com/watch?v=zp-eEVkKh60)
+Don’t let the pursuit of more stop you from enjoying what you already have. Don’t let your possessions possess you. [Don’t the things you own end up owing you.](https://youtu.be/zp-eEVkKh60)
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Why we exist?
 created: 2025-10-09T12:10:00
-modified: 2026-03-13T11:03:63
+modified: 2026-03-13T20:03:38
 ---
 
 > [“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)
@@ -74,7 +74,7 @@ Self-actualization → Self-transcendence (**going beyond the self**—seeking c
 
 ---
 
-[工作的台語翻成中文的意思是「空缺」，提醒我們：這個社會中都有那個專屬於我們的位置，只是需要我們去發現、發掘。](https://www.youtube.com/watch?v=_ziTd2w06xk&t=13m40s)
+[工作的台語翻成中文的意思是「空缺」，提醒我們：這個社會中都有那個專屬於我們的位置，只是需要我們去發現、發掘。](https://youtu.be/_ziTd2w06xk?t=13m40s)
 
 ---
 
@@ -194,4 +194,4 @@ Maslow’s [Hierarchy/Pyramid of Needs](https://en.wikipedia.org/wiki/Maslow%27s
 
 [Everyone is on their own timeline](everyone-is-on-their-own-timeline.md)
 
-[^1]: _[“God, kids or mission, pick at least one. Preferably all three. It’s very liberating.” — Naval Ravikant](https://www.youtube.com/watch?v=KyfUysrNaco&t=4473s)_
+[^1]: _[“God, kids or mission, pick at least one. Preferably all three. It’s very liberating.” — Naval Ravikant](https://youtu.be/KyfUysrNaco?t=4473s)_

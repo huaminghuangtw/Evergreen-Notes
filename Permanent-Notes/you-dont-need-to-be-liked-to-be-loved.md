@@ -1,7 +1,7 @@
 ---
 title: You don’t need to be liked to be loved
-created: 2025-10-18T16:54:28
-modified: 2026-02-05T07:51:24
+created: 2025-10-18T16:10:00
+modified: 2026-03-13T20:03:24
 ---
 
 > “When you say yes to others, make sure you are not saying no to yourself.” — Paulo Coelho

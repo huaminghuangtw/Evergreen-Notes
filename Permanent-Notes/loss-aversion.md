@@ -1,7 +1,7 @@
 ---
 title: Loss Aversion
-created: 2025-09-27T07:58:06
-modified: 2026-02-05T07:51:24
+created: 2025-09-29T07:09:00
+modified: 2026-03-13T20:03:39
 ---
 
 > “In large part, we are what we do, and our identity is closely connected with whatever we’re focused on, including our careers, relationships, projects, and hobbies. When we quit any of those things, we have to deal with the prospect of quitting part of our identity. And that is painful.” — Annie Duke, [Quit: The Power of Knowing When to Walk Away](https://www.goodreads.com/work/quotes/94759454)

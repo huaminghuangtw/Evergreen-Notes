@@ -1,7 +1,7 @@
 ---
 title: Always start and end the day right
-created: 2025-01-23T10:40:57
-modified: 2026-02-06T10:43:20
+created: 2025-10-18T06:10:00
+modified: 2026-03-13T20:03:19
 ---
 
 > “Every morning in Africa, a gazelle wakes up, it knows it must outrun the fastest lion or it will be killed. Every morning in Africa, a lion wakes up. It knows it must run faster than the slowest gazelle, or it will starve. It doesn’t matter whether you’re the lion or a gazelle-when the sun comes up, you’d better be running.” — Christopher McDougall
@@ -111,7 +111,7 @@ The key to a productive morning is preparation the night before. Your [to-do lis
 A little [planning, preparation](planning-and-preparation-help-maximize-your-productivity.md), and visualization is a small nightly habit that pays major dividends.
 
 1. Spend 10–15 minutes writing down and setting up everything for the top 2-3 priority tasks _the night before (at the end of your workday)_, in order to remove the friction for getting started on [the ONE THING](eat-the-biggest-frog-first-thing-in-the-morning.md) for _the next morning_. By making your to-do list the night before, you can wake up and get right to work immediately without thinking too much. _Morning is for [action](cultivate-a-strong-bias-towards-action.md), not [decision-making](decision-making.md)._ [Decision fatigue](decision-fatigue.md) will stop you from getting into the flow state as you’ll have to decide what to do rather than diving in head first.
-2. At the end of your day, conclude your conscious thinking on the [Most Important Question (MIQ)](https://mindfulambition.net/most-important-question-journal/)—_a highest-order question, hat, if answered, would create the biggest positive impact in your life_—and hand it over to your unconscious mind to process overnight. Let go, rest, and avoid stressing about it. Then, revisit the MIQ before exposing yourself to new inputs **[before exposing yourself to any new inputs](https://www.youtube.com/watch?v=wAnDWfEIwoE&t=2h56m30s)** in the morning. [^5]
+2. At the end of your day, conclude your conscious thinking on the [Most Important Question (MIQ)](https://mindfulambition.net/most-important-question-journal/)—_a highest-order question, hat, if answered, would create the biggest positive impact in your life_—and hand it over to your unconscious mind to process overnight. Let go, rest, and avoid stressing about it. Then, revisit the MIQ before exposing yourself to new inputs **[before exposing yourself to any new inputs](https://youtu.be/wAnDWfEIwoE?t=2h56m30s)** in the morning. [^5]
 
 ---
 
@@ -121,4 +121,4 @@ A little [planning, preparation](planning-and-preparation-help-maximize-your-pro
 [^2]: **The Maui Habit:** Kickstart your day with an uplifting statement like, “_Today is going to be a great day._” This small shift can transform your mindset and perspective!
 [^3]: Or: [“Accountability Mirror (問責鏡子)” by David Goggins](https://www.google.com/search?q=accountability+mirror+david+goggins)
 [^4]: <https://www.hubermanlab.com/episode/maximizing-productivity-physical-and-mental-health-with-daily-tools>
-[^5]: I learned this mental tool from Joshua Waitzkin: [Source 1.](https://www.youtube.com/watch?v=wAnDWfEIwoE&t=1h19m16s) [Source 2.](https://www.youtube.com/FEOjCUkjG0k?t=2m56s)
+[^5]: I learned this mental tool from Joshua Waitzkin: [Source 1.](https://youtu.be/wAnDWfEIwoE?t=1h19m16s) [Source 2.](https://youtu.be/FEOjCUkjG0k?t=2m56s)

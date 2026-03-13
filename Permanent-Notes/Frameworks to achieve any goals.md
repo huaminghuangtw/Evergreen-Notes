@@ -1,7 +1,7 @@
 ---
 title: Frameworks to achieve any goals
-created: 2024-11-18T09:18:12
-modified: 2026-01-06T18:13:19
+created: 2025-09-05T03:09:00
+modified: 2026-03-13T20:03:88
 ---
 
 # 💡 Core Concept
@@ -25,7 +25,7 @@ modified: 2026-01-06T18:13:19
 
 ---
 
-# [The 90/90/1 Rule — Robin Sharma](https://www.youtube.com/watch?v=rdc9p71hygs)
+# [The 90/90/1 Rule — Robin Sharma](https://youtu.be/rdc9p71hygs)
 
 * Dedicate the first 90 minutes of your day to the most valuable/needle-moving project for 90 days straight.
 * No internet connection. No distractions. No interruptions. No excuses.

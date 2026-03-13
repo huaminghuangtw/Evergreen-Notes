@@ -1,7 +1,7 @@
 ---
 title: The Solomon Paradox
-created: 2026-03-01T16:17:02
-modified: 2026-03-01T16:17:06
+created: 2026-03-01T16:03:00
+modified: 2026-03-13T20:03:95
 ---
 
 One’s ability to reason more sensibly about someone else’s problems than one’s own

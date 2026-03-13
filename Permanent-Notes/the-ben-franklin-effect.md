@@ -1,7 +1,7 @@
 ---
 title: The Ben Franklin Effect
-created: 2025-12-02T06:18:06
-modified: 2025-12-02T06:27:43
+created: 2026-01-05T17:01:00
+modified: 2026-03-13T20:03:27
 ---
 
 If you’re trying to create a relationship, or even turn an enemy into a friend, you might consider what small favor you can _request_, rather than what you can _give_.

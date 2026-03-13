@@ -1,7 +1,7 @@
 ---
 title: Optimism
-created: 2025-01-23T10:40:57
-modified: 2026-02-06T10:43:20
+created: 2025-09-03T07:09:00
+modified: 2026-03-13T20:03:41
 ---
 
 > “Turn your face to the sun, as flowers know how to do.” — Ming-Dao Deng
@@ -10,7 +10,7 @@ modified: 2026-02-06T10:43:20
 
 > “It is better to light a single candle than to curse the darkness.” — Eleanor Roosevelt
 
-> “We should be optimistic not because we believe that our problems are smaller than we thought. We should be optimistic because we believe that our capacity to solve problems is greater than we thought.” — from TED Talk “[The Future Will Be Shaped by Optimists](https://www.youtube.com/watch?v=FrqBWQ-mVEc)” by Kevin Kelly
+> “We should be optimistic not because we believe that our problems are smaller than we thought. We should be optimistic because we believe that our capacity to solve problems is greater than we thought.” — from TED Talk “[The Future Will Be Shaped by Optimists](https://youtu.be/FrqBWQ-mVEc)” by Kevin Kelly
 
 > “[Cynacism](cynicism.md) is easy. Mimicry is easy. Optimistic contrarians are the rarest breed.” — Naval Ravikant
 

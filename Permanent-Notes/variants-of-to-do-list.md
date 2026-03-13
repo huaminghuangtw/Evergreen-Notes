@@ -1,7 +1,7 @@
 ---
 title: Variants of to-do list
-created: 2025-01-23T10:40:57
-modified: 2026-02-20T08:43:38
+created: 2025-08-29T08:08:00
+modified: 2026-03-13T20:03:94
 ---
 
 **Could-Do List → Should-Do List → Must-Do list

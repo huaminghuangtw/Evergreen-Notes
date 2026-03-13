@@ -1,7 +1,7 @@
 ---
 title: Humanilty
-created: 2024-11-18T09:18:12
-modified: 2026-02-05T09:22:22
+created: 2025-10-17T06:10:00
+modified: 2026-03-13T20:03:92
 ---
 
 > “Man differs from other animals in one very important respect, and that is that he has some desires which are, so to speak, infinite, which can never be fully gratified, and which would keep him restless even in Paradise.” — Bertrand Russell

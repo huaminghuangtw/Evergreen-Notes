@@ -1,7 +1,7 @@
 ---
 title: Leaders are readers
-created: 2024-11-18T09:18:12
-modified: 2026-02-16T05:47:24
+created: 2025-10-15T15:10:00
+modified: 2026-03-13T20:03:79
 ---
 
 > “Man is what he reads.” — Joseph Brodsky
@@ -102,7 +102,7 @@ modified: 2026-02-16T05:47:24
 	* Meaning “reading in portions”
 	* Instead of a linear reading of articles one at a time, the method works by keeping a large reading list of electronic articles or books (often dozens or hundreds of them) and reading parts of several articles simultaneously in each session
 	* Similar to “Syntopical/Comparative Reading by Mortimer Adler, the synthesis of a certain idea/concept/topic drawn from multiple sources.”
-* [Speed Reading (速讀)](https://www.youtube.com/watch?v=BaBpcDMQNts)
+* [Speed Reading (速讀)](https://youtu.be/BaBpcDMQNts)
 	* Unit: words-per-minute (wpm)
 	* Inefficiencies (to be voided/minimized)
 		* Fixation

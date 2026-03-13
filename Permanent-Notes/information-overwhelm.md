@@ -1,7 +1,7 @@
 ---
 title: Information Overwhelm
-created: 2024-11-18T09:18:12
-modified: 2026-02-24T10:05:53
+created: 2025-10-16T04:10:00
+modified: 2026-03-13T20:03:72
 ---
 
 > “Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?” — T.S. Eliot, [The Waste Land and Other Poems](https://www.goodreads.com/work/quotes/15306654) [^1]

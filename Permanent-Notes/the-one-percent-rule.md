@@ -1,7 +1,7 @@
 ---
 title: The One Percent Rule
 created: 2025-10-27T08:04:09
-modified: 2025-12-06T14:00:19
+modified: 2026-03-13T20:03:67
 ---
 
 $1.00^{365} = 1.00$ v.s $1.01^{365} = 37.8$
@@ -14,7 +14,7 @@ $1.00^{365} = 1.00$ v.s $1.01^{365} = 37.8$
 
 ---
 
-# [“Marginal Gains” by Sir David Brailsford](https://www.youtube.com/watch?v=THNBIQenywc)
+# [“Marginal Gains” by Sir David Brailsford](https://youtu.be/THNBIQenywc)
 
 > Pay attention to every little detail, and then trying to improve it by 1%, will have massive [compound](the-compounding-effect.md) benefits when added together in the long run.
 

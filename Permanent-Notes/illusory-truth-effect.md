@@ -1,7 +1,7 @@
 ---
 title: Illusory Truth Effect
-created: 2025-11-13T05:23:43
-modified: 2025-11-13T05:23:43
+created: 2025-11-13T05:11:00
+modified: 2026-03-13T20:03:38
 ---
 
 It’s the tendency to believe false information after consistent, repeated exposures.

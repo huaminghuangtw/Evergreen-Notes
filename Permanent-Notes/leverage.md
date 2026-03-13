@@ -1,7 +1,7 @@
 ---
 title: Leverage
-created: 2025-01-23T10:40:57
-modified: 2026-03-10T21:11:33
+created: 2025-08-29T08:08:00
+modified: 2026-03-13T20:03:05
 ---
 
 > “Give me a place to stand, and a lever long enough, and I will move the world.” — Archimedes

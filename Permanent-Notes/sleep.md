@@ -1,7 +1,7 @@
 ---
 title: Sleep
-created: 2024-11-18T09:18:12
-modified: 2026-03-10T10:33:29
+created: 2025-10-15T15:10:00
+modified: 2026-03-13T20:03:05
 ---
 
 [Matt Walker: Sleep is your superpower \| TED Talk](https://www.ted.com/talks/matt_walker_sleep_is_your_superpower/)
@@ -28,9 +28,9 @@ sleep is the absolute foundation of your mental health, your physical health and
 
 Sleep deprivation makes hard things feel impossible. High quality sleep makes seemingly impossible things doable.
 
-["Short sleep equals a short life."](https://www.youtube.com/watch?v=pwaWilO_Pig&t=3505s)
+["Short sleep equals a short life."](https://youtu.be/pwaWilO_Pig?t=3505s)
 
-["Short sleep predicts all cause mortality."](https://www.youtube.com/watch?v=pwaWilO_Pig&t=3505s)
+["Short sleep predicts all cause mortality."](https://youtu.be/pwaWilO_Pig?t=3505s)
 
 # Actionable Tips
 
