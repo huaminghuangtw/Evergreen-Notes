@@ -1,8 +1,10 @@
 ---
 title: Self-compassion
-created: 2025-01-23T10:40:57
-modified: 2026-03-05T20:33:42
+created: 2025-10-14T04:10:00
+modified: 2026-03-13T10:03:90
 ---
+
+> “The man who renounces himself, comes to himself.” — Ralph Waldo Emerson
 
 > “A moment of self-compassion can change your entire day. A string of such moments can change the course of your life.” — Christopher Germer
 
