@@ -1,6 +1,6 @@
 ---
 title: A friend to all is a friend to none
-modified: 2026-03-13
+modified: 2026-03-14
 ---
 
 > “A true friend never gets in your way unless you happen to be going down.” — Arnold H. Glasow
