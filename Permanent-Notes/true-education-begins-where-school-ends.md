@@ -1,6 +1,6 @@
 ---
 title: True education begins where school ends
-modified: 2026-03-13
+modified: 2026-03-14
 ---
 
 > “School is one thing. Education is another. The two don’t always overlap. Whether you’re in school or not, it’s always your job to get yourself an education.” — Austin Kleon
@@ -54,6 +54,8 @@ School lays the foundation, but true education starts when you step beyond the c
 > [“The only true wisdom is in knowing you know nothing.” — Socrates](https://www.goodreads.com/quotes/9431-the-only-true-wisdom-is-in-knowing-you-know-nothing)
 
 > “Real knowledge is to know the extent of one’s ignorance.” [^1] — Confucius [^2] [^3]
+
+> “He who knows best knows how little he knows.” — Thomas Jefferson
 
 > “The fool who knows he is a fool is that much wiser. The fool who thinks himself wise is a fool indeed.” — Buddhism
 
