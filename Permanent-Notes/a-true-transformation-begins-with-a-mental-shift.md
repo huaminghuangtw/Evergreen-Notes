@@ -1,6 +1,6 @@
 ---
 title: A true transformation begins with a mental shift
-modified: 2026-03-13
+modified: 2026-03-14
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
@@ -14,6 +14,8 @@ modified: 2026-03-13
 > “We don’t see things as they are, we see them as we are.” — Anaïs Nin
 
 > “We see what we believe rather than what we see.” — Alan Watts
+
+> “What we see depends mainly on what we look for.” — John Lubbock
 
 > [“It isn’t what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.” — Dale Carnegie, How to Win Friends & Influence People]([https://www.goodreads.com/quotes/9292-it-isn-t-what-you-have-or-who-you-are-or](https://www.goodreads.com/quotes/9292-it-isn-t-what-you-have-or-who-you-are-or))
 
