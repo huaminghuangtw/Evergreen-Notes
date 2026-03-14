@@ -1,7 +1,6 @@
 ---
 title: Every single day, chop wood, carry waters
-created: 2025-10-18T06:10:00
-modified: 2026-03-13T20:03:84
+modified: 2026-03-13
 ---
 
 > [“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)

@@ -1,7 +1,6 @@
 ---
 title: Back Pain
-created: 2025-10-27T08:10:00
-modified: 2026-03-13T20:03:60
+modified: 2026-03-13
 ---
 
 駝背 (Thoracic Kyphosis)

@@ -1,7 +1,6 @@
 ---
 title: The Sedona Method
-created: 2025-11-19T21:11:00
-modified: 2026-03-13T20:03:73
+modified: 2026-03-13
 ---
 
 = 瑟多納釋放法

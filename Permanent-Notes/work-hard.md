@@ -1,7 +1,6 @@
 ---
 title: Work hard
-created: 2025-10-07T16:10:00
-modified: 2026-03-13T20:03:09
+modified: 2026-03-13
 ---
 
 > “Without ambition one starts nothing. Without work one finishes nothing. The prize will not be sent to you. You have to win it.” — Ralph Waldo Emerson

@@ -1,7 +1,6 @@
 ---
 title: Note Taking
-created: 2025-09-22T17:09:00
-modified: 2026-03-13T20:03:39
+modified: 2026-03-13
 ---
 
 > “Every intellectual endeavor starts with a note.” — Sönke Ahrens

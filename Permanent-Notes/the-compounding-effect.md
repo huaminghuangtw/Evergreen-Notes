@@ -1,7 +1,6 @@
 ---
 title: The Compounding Effect
-created: 2025-09-29T08:09:00
-modified: 2026-03-13T08:03:33
+modified: 2026-03-13
 ---
 
 > “Compounding is the 8th wonder of the world.” — Albert Einstein

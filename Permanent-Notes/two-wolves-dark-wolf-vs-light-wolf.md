@@ -1,7 +1,6 @@
 ---
 title: "Two Wolves: Dark Wolf & Light Wolf"
-created: 2025-12-03T06:12:00
-modified: 2026-03-13T20:03:92
+modified: 2026-03-13
 ---
 
 A grandfather takes his grandson on a walk to share his wisdom for life.

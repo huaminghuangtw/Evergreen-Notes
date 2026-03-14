@@ -1,7 +1,6 @@
 ---
 title: Fluid Intelligence & Crystallized Intelligence
-created: 2025-08-29T08:08:00
-modified: 2026-03-13T20:03:99
+modified: 2026-03-13
 ---
 
 ![](_attachments/91220db8072cb9879c79d2a95812fbfe.jpg)

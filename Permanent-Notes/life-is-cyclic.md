@@ -1,7 +1,6 @@
 ---
 title: Life is cyclic
-created: 2025-08-29T08:08:00
-modified: 2026-03-13T20:03:92
+modified: 2026-03-13
 ---
 
 > “Life is like a wheel. Sooner or later, it always comes around to where you started again.” — Stephen King

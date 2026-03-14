@@ -1,7 +1,6 @@
 ---
 title: Jordan Peterson’s 12 Rules for Life
-created: 2025-11-28T07:11:00
-modified: 2026-03-13T20:03:51
+modified: 2026-03-13
 ---
 
 1. “Stand up straight with your shoulders back.”

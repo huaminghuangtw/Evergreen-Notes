@@ -1,7 +1,6 @@
 ---
 title: When in doubt, zoom out
-created: 2025-10-14T04:10:00
-modified: 2026-03-13T20:03:04
+modified: 2026-03-13
 ---
 
 退一步海闊天空。

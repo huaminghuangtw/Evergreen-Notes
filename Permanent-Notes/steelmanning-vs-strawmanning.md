@@ -1,7 +1,6 @@
 ---
 title: Steelmanning & Strawmanning
-created: 2025-11-03T13:11:00
-modified: 2026-03-13T20:03:75
+modified: 2026-03-13
 ---
 
 Why You Should Build Strong Arguments for Ideas You Disagree With

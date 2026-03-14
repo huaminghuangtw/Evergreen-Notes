@@ -1,7 +1,6 @@
 ---
 title: Tea
-created: 2025-07-16T21:07:00
-modified: 2026-03-13T20:03:14
+modified: 2026-03-13
 ---
 
 # 茶氨酸 (L-Theanine)

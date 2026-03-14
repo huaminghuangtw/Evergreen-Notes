@@ -1,7 +1,6 @@
 ---
 title: Alcohol
-created: 2025-08-11T16:08:00
-modified: 2026-03-13T20:03:45
+modified: 2026-03-13
 ---
 
 dehydrates you.

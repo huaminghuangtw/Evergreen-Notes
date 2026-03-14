@@ -1,7 +1,6 @@
 ---
 title: The Tunnel Effect
-created: 2025-07-28T07:07:00
-modified: 2026-03-13T20:03:81
+modified: 2026-03-13
 ---
 
 = [隧道/管窺效應](https://en.wikipedia.org/wiki/Tunnel_effect) = 隧道視野（Tunnel Vision）

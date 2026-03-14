@@ -1,7 +1,6 @@
 ---
 title: The Matthew Effect
-created: 2025-07-18T10:07:00
-modified: 2026-03-13T20:03:58
+modified: 2026-03-13
 ---
 
 = 馬太效應

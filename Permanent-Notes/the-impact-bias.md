@@ -1,7 +1,6 @@
 ---
 title: The Impact Bias
-created: 2025-11-19T05:11:00
-modified: 2026-03-13T20:03:55
+modified: 2026-03-13
 ---
 
 We overestimate:

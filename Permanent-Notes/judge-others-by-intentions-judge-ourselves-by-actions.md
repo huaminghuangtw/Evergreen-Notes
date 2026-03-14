@@ -1,7 +1,6 @@
 ---
 title: Judge others by intentions, judge ourselves by actions
-created: 2025-10-11T07:10:00
-modified: 2026-03-13T20:03:00
+modified: 2026-03-13
 ---
 
 > “We judge ourselves by our intentions and others by their behavior.” — Stephen Covey [^1]

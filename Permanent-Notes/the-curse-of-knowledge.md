@@ -1,7 +1,6 @@
 ---
 title: The Curse of Knowledge
-created: 2026-03-13T09:03:00
-modified: 2026-03-13T09:03:20
+modified: 2026-03-13
 ---
 
 # What is the Curse of Knowledge?

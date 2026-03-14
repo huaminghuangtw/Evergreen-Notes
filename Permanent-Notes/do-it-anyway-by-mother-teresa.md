@@ -1,7 +1,6 @@
 ---
 title: Do It Anyway by Mother Teresa
-created: 2025-11-04T20:11:00
-modified: 2026-03-13T20:03:51
+modified: 2026-03-13
 ---
 
 People are often unreasonable, illogical, and self-centered. **Forgive them anyway.**

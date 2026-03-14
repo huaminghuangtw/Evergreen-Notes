@@ -1,7 +1,6 @@
 ---
 title: Helping others makes us feel good
-created: 2025-12-02T07:12:00
-modified: 2026-03-13T20:03:24
+modified: 2026-03-13
 ---
 
 > “Nothing makes one feel so strong as a call for help.” — Pope Paul VI

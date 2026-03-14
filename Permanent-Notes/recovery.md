@@ -1,7 +1,6 @@
 ---
 title: recovery
-created: 2025-07-16T21:07:00
-modified: 2026-03-13T20:03:66
+modified: 2026-03-13
 ---
 
 # 延遲性肌肉痠痛

@@ -1,7 +1,6 @@
 ---
 title: Criticism
-created: 2025-08-29T08:08:00
-modified: 2026-03-13T20:03:01
+modified: 2026-03-13
 ---
 
 —_“To avoid criticism, do nothing, say nothing, be nothing.” — Elbert Hubbard_

@@ -1,7 +1,6 @@
 ---
 title: Decision Fatigue
-created: 2025-08-31T05:08:00
-modified: 2026-03-13T20:03:17
+modified: 2026-03-13
 ---
 
 ![](_attachments/71dacbcf34b15b9c99d1ae5471fe8e56.png)

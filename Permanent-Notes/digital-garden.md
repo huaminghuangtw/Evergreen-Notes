@@ -1,7 +1,6 @@
 ---
 title: Digital Garden
-created: 2025-08-29T08:08:00
-modified: 2026-03-13T20:03:33
+modified: 2026-03-13
 ---
 
 **From “writing articles/posts in a traditional blogging sense” to “planting a digital garden”**

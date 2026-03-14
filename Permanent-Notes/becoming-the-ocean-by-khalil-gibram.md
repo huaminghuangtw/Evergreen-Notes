@@ -1,7 +1,6 @@
 ---
 title: Becoming the Ocean by Khalil Gibram
-created: 2025-12-30T08:12:00
-modified: 2026-03-13T20:03:70
+modified: 2026-03-13
 ---
 
 > It is said that before entering the sea,

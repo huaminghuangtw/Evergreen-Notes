@@ -1,7 +1,6 @@
 ---
 title: Reflect & Review
-created: 2025-10-05T16:10:00
-modified: 2026-03-13T20:03:80
+modified: 2026-03-13
 ---
 
 > “Without reflection, we go blindly on our way, creating more unintended consequences, and failing to achieve anything useful.” — Margaret J. Wheatley

@@ -1,7 +1,6 @@
 ---
 title: Human Sponges
-created: 2025-12-15T17:12:00
-modified: 2026-03-13T20:03:34
+modified: 2026-03-13
 ---
 
 [@grantHiddenPotentialScience2023]

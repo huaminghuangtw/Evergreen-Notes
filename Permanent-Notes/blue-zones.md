@@ -1,7 +1,6 @@
 ---
 title: Blue Zones
-created: 2025-11-28T08:11:00
-modified: 2026-03-13T20:03:76
+modified: 2026-03-13
 ---
 
 [@buettnerBlueZonesLessons2016]

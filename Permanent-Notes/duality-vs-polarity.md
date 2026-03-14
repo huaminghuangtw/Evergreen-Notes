@@ -1,7 +1,6 @@
 ---
 title: Duality & Polarity
-created: 2025-11-02T05:11:00
-modified: 2026-03-13T20:03:53
+modified: 2026-03-13
 ---
 
 # Duality (二重性)

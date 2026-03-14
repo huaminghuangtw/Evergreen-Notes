@@ -1,7 +1,6 @@
 ---
 title: What Success Means To Me
-created: 2025-10-18T07:10:00
-modified: 2026-03-13T20:03:02
+modified: 2026-03-13
 ---
 
 > “The road to success is always under construction.” — Steve Harvey

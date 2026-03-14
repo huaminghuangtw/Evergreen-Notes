@@ -1,7 +1,6 @@
 ---
 title: Work in sprints, work with your biology
-created: 2025-10-14T04:10:00
-modified: 2026-03-13T20:03:14
+modified: 2026-03-13
 ---
 
 > “If you want to operate at maximum [productivity](Productivity.md), efficiency, and creativity, you’re going to work on things that you’re excited about at the moment you’re excited about them and accept nothing less. It is better to [sit on your butt and do nothing](boredom-promotes-creativity.md) than it is to work on things that you are not excited about.” — Naval Ravikant [^1] [^2]

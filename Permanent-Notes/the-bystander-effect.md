@@ -1,7 +1,6 @@
 ---
 title: The Bystander Effect
-created: 2025-10-17T06:10:00
-modified: 2026-03-13T20:03:27
+modified: 2026-03-13
 ---
 
 = Bystander Apathy

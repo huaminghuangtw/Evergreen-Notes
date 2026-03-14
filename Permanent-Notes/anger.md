@@ -1,7 +1,6 @@
 ---
 title: Anger
-created: 2025-09-03T06:09:00
-modified: 2026-03-13T20:03:64
+modified: 2026-03-13
 ---
 
 > “Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.” — Mark Twain

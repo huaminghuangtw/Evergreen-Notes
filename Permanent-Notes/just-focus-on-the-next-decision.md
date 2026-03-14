@@ -1,7 +1,6 @@
 ---
 title: Just focus on the next decision
-created: 2025-09-25T16:09:00
-modified: 2026-03-13T20:03:62
+modified: 2026-03-13
 ---
 
 > [“You are always just one good decision away from being in a better place tomorrow — just focus on the next decision.” — Sahil Bloom](https://www.sahilbloom.com/newsletter/information-action-gap-one-decision-away-more)

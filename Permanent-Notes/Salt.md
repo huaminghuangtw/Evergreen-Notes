@@ -1,7 +1,6 @@
 ---
 title: Salt
-created: 2025-07-16T21:07:00
-modified: 2026-03-13T20:03:08
+modified: 2026-03-13
 ---
 
 Salt Tablet 鹽錠

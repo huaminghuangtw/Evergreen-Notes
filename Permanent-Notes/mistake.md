@@ -1,7 +1,6 @@
 ---
 title: A mistake repeated more than once is a decision
-created: 2025-08-29T08:08:00
-modified: 2026-03-13T20:03:22
+modified: 2026-03-13
 ---
 
 > “A man who has committed a mistake and doesn’t correct it, is committing another mistake.” — Confucius

@@ -1,7 +1,6 @@
 ---
 title: Ben Franklin’s Thirteen Virtues
-created: 2025-11-15T08:11:00
-modified: 2026-03-13T20:03:75
+modified: 2026-03-13
 ---
 
 #Blog

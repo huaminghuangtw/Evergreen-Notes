@@ -1,7 +1,6 @@
 ---
 title: The Lollapalooza Effect
-created: 2026-01-11T07:01:00
-modified: 2026-03-13T20:03:57
+modified: 2026-03-13
 ---
 
 by Charlie Munger

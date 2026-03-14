@@ -1,7 +1,6 @@
 ---
 title: Two Types of Passion
-created: 2025-10-24T06:03:26
-modified: 2026-03-13T20:03:04
+modified: 2026-03-13
 ---
 
 by Robert Vallerand

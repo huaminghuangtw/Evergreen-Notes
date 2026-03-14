@@ -1,7 +1,6 @@
 ---
 title: Sleep
-created: 2025-10-15T15:10:00
-modified: 2026-03-13T20:03:05
+modified: 2026-03-13
 ---
 
 [Matt Walker: Sleep is your superpower \| TED Talk](https://www.ted.com/talks/matt_walker_sleep_is_your_superpower/)

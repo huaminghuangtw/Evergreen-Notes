@@ -1,7 +1,6 @@
 ---
 title: Always start with end in mind
-created: 2025-09-26T05:09:00
-modified: 2026-03-13T20:03:56
+modified: 2026-03-13
 ---
 
 > “It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement(/accomplishment).” — Isocrates

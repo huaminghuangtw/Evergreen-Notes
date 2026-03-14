@@ -1,7 +1,6 @@
 ---
 title: Healthy Eating Habits
-created: 2025-10-11T06:10:00
-modified: 2026-03-13T20:03:23
+modified: 2026-03-13
 ---
 
 Eating Better

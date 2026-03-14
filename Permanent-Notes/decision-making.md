@@ -1,7 +1,6 @@
 ---
 title: Decision Making
-created: 2025-10-12T16:10:00
-modified: 2026-03-13T20:03:23
+modified: 2026-03-13
 ---
 
 > “The decisions of our past are the architects of our present.” — Dan Brown

@@ -1,7 +1,6 @@
 ---
 title: From Binary Thinking to Full-Spectrum Thinking
-created: 2025-11-15T16:11:00
-modified: 2026-03-13T20:03:03
+modified: 2026-03-13
 ---
 
 > “Categories move us toward certainty, but away from clarity.” — Bob Johansen

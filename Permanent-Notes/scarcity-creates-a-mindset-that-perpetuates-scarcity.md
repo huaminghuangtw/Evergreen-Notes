@@ -1,7 +1,6 @@
 ---
 title: Scarcity creates a mindset that perpetuates scarcity
-created: 2025-09-04T04:09:00
-modified: 2026-03-13T20:03:21
+modified: 2026-03-13
 ---
 
 [@mullainathanScarcityWhyHaving2013]

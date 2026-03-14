@@ -1,7 +1,6 @@
 ---
 title: An Ideal Day In Life
-created: 2025-08-29T08:08:00
-modified: 2026-03-13T20:03:69
+modified: 2026-03-13
 ---
 
 Let’s say you woke up 10 years from now and were living your ideal life in the future.

@@ -1,7 +1,6 @@
 ---
 title: The past is more unpredictable than the future
-created: 2025-11-05T06:11:00
-modified: 2026-03-13T20:03:70
+modified: 2026-03-13
 ---
 
 Why? **Because meaning and understanding of the past are always changing — while the future, though uncertain / hasn’t happened yet, at least unfolds in one direction.**

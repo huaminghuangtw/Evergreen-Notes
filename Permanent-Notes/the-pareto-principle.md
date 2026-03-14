@@ -1,7 +1,6 @@
 ---
 title: The Pareto Principle
-created: 2025-09-04T05:09:00
-modified: 2026-03-13T08:03:44
+modified: 2026-03-13
 ---
 
 # What is the Pareto Principle?

@@ -1,7 +1,6 @@
 ---
 title: We don’t get a lot of things to really care about
-created: 2025-11-16T08:11:00
-modified: 2026-03-13T20:03:98
+modified: 2026-03-13
 ---
 
 In [this scene](https://youtu.be/MDPeLlMR2D4) of the 2021 movie _[Pig](https://www.imdb.com/title/tt11003218/)_, the main character, Rob (played by Nicolas Cage), confronts Chef Field (Derek), who runs an upscale, modern restaurant.

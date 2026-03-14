@@ -1,7 +1,6 @@
 ---
 title: Evergreen Notes
-created: 2025-10-15T05:10:00
-modified: 2026-03-13T20:03:72
+modified: 2026-03-13
 ---
 
 [卡片盒筆記法 (Zettelkasten, Slip Box) by 德國社會學家 Niklas Luhmann](https://youtu.be/qRSCKSPMuDc?t=37m30s)

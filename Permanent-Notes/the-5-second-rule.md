@@ -1,7 +1,6 @@
 ---
 title: The 5 Second Rule
-created: 2026-02-19T08:02:00
-modified: 2026-03-13T20:03:17
+modified: 2026-03-13
 ---
 
 [popularized](https://www.melrobbins.com/book/the-5-second-rule/) by [Mel Robbins](https://www.google.com/search?q=Mel+Robbins).

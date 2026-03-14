@@ -1,7 +1,6 @@
 ---
 title: Smile & Laugh
-created: 2025-08-22T05:08:00
-modified: 2026-03-13T20:03:95
+modified: 2026-03-13
 ---
 
 > “A smile is a curve that sets everything straight.” — Phyllis Diller

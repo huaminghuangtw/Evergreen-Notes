@@ -1,7 +1,6 @@
 ---
 title: Judgment is the most important skill in an age of infinite leverage
-created: 2025-08-10T14:08:00
-modified: 2026-03-13T20:03:61
+modified: 2026-03-13
 ---
 
 > “Good judgment comes from experience, and a lot of experience comes from bad judgment.” — Rita Mae Brown / Will Rogers

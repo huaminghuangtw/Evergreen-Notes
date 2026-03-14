@@ -1,7 +1,6 @@
 ---
 title: Comparison is the thief of joy
-created: 2025-09-03T06:09:00
-modified: 2026-03-13T20:03:98
+modified: 2026-03-13
 ---
 
 > ”Don’t bother just to be better than your contemporaries or predecessors. Try to be better than yourself.” — William Faulkner

@@ -1,7 +1,6 @@
 ---
 title: Eat the biggest frog first thing in the morning
-created: 2025-10-17T06:10:00
-modified: 2026-03-13T20:03:55
+modified: 2026-03-13
 ---
 
 > “Do one thing every day that scares you.” — Eleanor Roosevelt

@@ -1,7 +1,6 @@
 ---
 title: Death
-created: 2025-10-15T12:10:00
-modified: 2026-03-13T20:03:38
+modified: 2026-03-13
 ---
 
 > “The free man thinks of death, least of all things.” — Benedict Spinoza

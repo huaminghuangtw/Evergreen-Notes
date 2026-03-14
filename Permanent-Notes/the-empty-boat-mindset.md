@@ -1,7 +1,6 @@
 ---
 title: The Empty Boat Mindset
-created: 2025-12-25T08:12:00
-modified: 2026-03-13T20:03:45
+modified: 2026-03-13
 ---
 
 > A monk goes out on a boat in a small lake to meditate. After a few hours of uninterrupted silence, he suddenly feels the jarring impact of another boat bumping into his.

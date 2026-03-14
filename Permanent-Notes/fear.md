@@ -1,7 +1,6 @@
 ---
 title: Fear
-created: 2025-09-21T06:09:00
-modified: 2026-03-13T20:03:02
+modified: 2026-03-13
 ---
 
 > “Danger is real, fear is a choice” — Will Smith

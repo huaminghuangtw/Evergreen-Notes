@@ -1,7 +1,6 @@
 ---
 title: The Streetlight Effect
-created: 2025-04-06T08:08:53
-modified: 2026-03-13T20:03:91
+modified: 2026-03-13
 ---
 
 > A drunk man is searching for his lost keys under a streetlight. A cop walks by and asks what he’s doing.

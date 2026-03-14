@@ -1,7 +1,6 @@
 ---
 title: Humor is a way to show you are smart without bragging
-created: 2025-12-31T05:12:00
-modified: 2026-03-13T20:03:35
+modified: 2026-03-13
 ---
 
 # Principles

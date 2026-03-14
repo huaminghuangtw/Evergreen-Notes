@@ -1,7 +1,6 @@
 ---
 title: Satir Transformational Systemic Therapy (STST)
-created: 2025-07-18T10:07:00
-modified: 2026-03-13T20:03:82
+modified: 2026-03-13
 ---
 
 Satir Model = 薩提爾模式 = 薩提爾的對話練習 = 薩提爾冰山理論 (Iceberg Theory)

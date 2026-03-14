@@ -1,7 +1,6 @@
 ---
 title: The Game of Life
-created: 2025-10-17T06:10:00
-modified: 2026-03-13T20:03:50
+modified: 2026-03-13
 ---
 
 > [The reason to play the game is to be free of it.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)

@@ -1,7 +1,6 @@
 ---
 title: Busyness
-created: 2025-10-07T14:10:00
-modified: 2026-03-13T20:03:84
+modified: 2026-03-13
 ---
 
 > “Beware the barrenness of a busy life.” — Socrates

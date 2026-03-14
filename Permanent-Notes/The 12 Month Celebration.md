@@ -1,7 +1,6 @@
 ---
 title: The 12 Month Celebration
-created: 2025-08-29T08:08:00
-modified: 2026-03-13T20:03:17
+modified: 2026-03-13
 ---
 
 1. Rate yourself out of 10 in each of the following areas:

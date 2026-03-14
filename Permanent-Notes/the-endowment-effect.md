@@ -1,7 +1,6 @@
 ---
 title: The Endowment Effect
-created: 2025-10-10T06:10:00
-modified: 2026-03-13T20:03:56
+modified: 2026-03-13
 ---
 
 = 擁有偏誤

@@ -1,7 +1,6 @@
 ---
 title: Rational Emotive Behavior Therapy
-created: 2026-02-14T07:02:00
-modified: 2026-03-13T20:03:64
+modified: 2026-03-13
 ---
 
 # The ABC Model
