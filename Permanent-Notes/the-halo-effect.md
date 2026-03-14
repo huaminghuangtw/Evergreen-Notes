@@ -1,7 +1,6 @@
 ---
 title: The Halo Effect
-created: 2025-10-11T07:10:00
-modified: 2026-03-13T20:03:53
+modified: 2026-03-13
 ---
 
 = 光環效應 = 光暈效應 = 月暈效應

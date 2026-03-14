@@ -1,7 +1,6 @@
 ---
 title: Focus is about saying no
-created: 2025-10-01T08:10:00
-modified: 2026-03-13T20:03:03
+modified: 2026-03-13
 ---
 
 > “If you chase two rabbits, you catch none.” — Confucius

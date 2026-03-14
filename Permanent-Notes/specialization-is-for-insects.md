@@ -1,7 +1,6 @@
 ---
 title: Specialization is for insects
-created: 2025-10-16T04:10:00
-modified: 2026-03-13T20:03:98
+modified: 2026-03-13
 ---
 
 > “At some level, all humans are broad. We’re all multivariate/multifaceted, but we get summarized in pithy ways in our lives.” — Naval Ravikant

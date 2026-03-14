@@ -1,7 +1,6 @@
 ---
 title: Starting from scratch isn’t failure, it’s the beginning of something new
-created: 2025-10-28T07:06:19
-modified: 2026-03-13T20:03:01
+modified: 2026-03-13
 ---
 
 > “Starting from scratch isn’t failure; it’s the beginning of something new.”

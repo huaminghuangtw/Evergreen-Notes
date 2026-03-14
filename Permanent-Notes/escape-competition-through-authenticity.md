@@ -1,7 +1,6 @@
 ---
 title: Escape competition through authenticity
-created: 2025-10-11T08:10:00
-modified: 2026-03-13T20:03:88
+modified: 2026-03-13
 ---
 
 > “Everything popular is wrong.” — Oscar Wilde

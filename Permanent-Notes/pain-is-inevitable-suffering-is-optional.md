@@ -1,7 +1,6 @@
 ---
 title: Pain Is Inevitable. Suffering Is Optional.
-created: 2025-12-19T05:12:00
-modified: 2026-03-13T20:03:44
+modified: 2026-03-13
 ---
 
 > [“The trick is not minding that it hurts.”](https://youtu.be/TvQViPBAvPk) — [Lawrence of Arabia (1962 film)](https://www.imdb.com/title/tt0056172/)

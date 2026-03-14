@@ -1,7 +1,6 @@
 ---
 title: Saturated & Unsaturated Fats
-created: 2025-12-14T07:12:00
-modified: 2026-03-13T20:03:83
+modified: 2026-03-13
 ---
 
 【比較】

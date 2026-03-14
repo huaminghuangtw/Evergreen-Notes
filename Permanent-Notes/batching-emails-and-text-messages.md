@@ -1,7 +1,6 @@
 ---
 title: Batching Emails and Text Messages
-created: 2025-08-29T08:08:00
-modified: 2026-03-13T20:03:61
+modified: 2026-03-13
 ---
 
 # Advantages

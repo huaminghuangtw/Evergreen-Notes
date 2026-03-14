@@ -1,7 +1,6 @@
 ---
 title: Miswanting
-created: 2025-07-16T21:07:00
-modified: 2026-03-13T20:03:23
+modified: 2026-03-13
 ---
 
 is a concept from behavioral psychology that…

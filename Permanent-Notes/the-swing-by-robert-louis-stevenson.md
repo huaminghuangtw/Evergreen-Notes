@@ -1,7 +1,6 @@
 ---
 title: The Swing by Robert Louis Stevenson
-created: 2025-11-28T17:11:00
-modified: 2026-03-13T20:03:79
+modified: 2026-03-13
 ---
 
 How do you like to go up in a swing,

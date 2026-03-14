@@ -1,7 +1,6 @@
 ---
 title: Mouth Taping
-created: 2025-11-12T06:11:00
-modified: 2026-03-13T20:03:33
+modified: 2026-03-13
 ---
 
 #Newsletter

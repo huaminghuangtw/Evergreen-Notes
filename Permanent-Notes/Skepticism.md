@@ -1,7 +1,6 @@
 ---
 title: Skepticism
-created: 2025-08-29T08:08:00
-modified: 2026-03-13T20:03:08
+modified: 2026-03-13
 ---
 
 = radical doubt = 懷疑論

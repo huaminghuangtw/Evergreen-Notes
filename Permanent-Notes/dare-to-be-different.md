@@ -1,7 +1,6 @@
 ---
 title: Dare to be different
-created: 2025-11-24T07:11:00
-modified: 2026-03-13T20:03:25
+modified: 2026-03-13
 ---
 
 > “Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.” — Robert Frost, The Road Not Taken (1916)

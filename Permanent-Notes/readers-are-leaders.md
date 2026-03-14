@@ -1,7 +1,6 @@
 ---
 title: Leaders are readers
-created: 2025-10-15T15:10:00
-modified: 2026-03-13T20:03:79
+modified: 2026-03-13
 ---
 
 > “Man is what he reads.” — Joseph Brodsky

@@ -1,7 +1,6 @@
 ---
 title: Instant Gratification
-created: 2025-10-18T06:10:00
-modified: 2026-03-13T20:03:46
+modified: 2026-03-13
 ---
 
 = Immediate Gratification = Cheap Dopamine → Slow Dopamine

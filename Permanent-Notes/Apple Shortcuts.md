@@ -1,7 +1,6 @@
 ---
 title: Apple Shortcuts
-created: 2025-09-27T17:09:00
-modified: 2026-03-13T20:03:77
+modified: 2026-03-13
 ---
 
 [比較]

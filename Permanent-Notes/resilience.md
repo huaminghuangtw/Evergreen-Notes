@@ -1,7 +1,6 @@
 ---
 title: Resilience
-created: 2024-11-18T09:04:18
-modified: 2026-03-13T20:03:00
+modified: 2026-03-13
 ---
 
 > [“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)

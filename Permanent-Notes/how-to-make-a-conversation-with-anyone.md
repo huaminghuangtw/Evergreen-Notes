@@ -1,7 +1,6 @@
 ---
 title: How to make a conversation with anyone
-created: 2025-07-28T07:07:00
-modified: 2026-03-13T20:03:29
+modified: 2026-03-13
 ---
 
 # [7 Ways to Make a Conversation With Anyone | Malavika Varadan](https://youtu.be/F4Zu5ZZAG7I)

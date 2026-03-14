@@ -1,7 +1,6 @@
 ---
 title: Incentives
-created: 2025-08-29T08:08:00
-modified: 2026-03-13T20:03:39
+modified: 2026-03-13
 ---
 
 > “Show me the incentive, and I’ll show you the outcome.” — Charlie Munger

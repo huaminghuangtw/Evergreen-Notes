@@ -1,7 +1,6 @@
 ---
 title: Skin Care
-created: 2025-08-29T08:08:00
-modified: 2026-03-13T20:03:14
+modified: 2026-03-13
 ---
 
 # 如何擁有「水煮蛋肌」?

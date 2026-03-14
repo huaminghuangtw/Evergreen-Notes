@@ -1,7 +1,6 @@
 ---
 title: A Letter to My Body
-created: 2026-01-05T17:01:00
-modified: 2026-03-13T20:03:30
+modified: 2026-03-13
 ---
 
 > Dear body, thank you.

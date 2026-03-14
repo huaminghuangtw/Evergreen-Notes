@@ -1,7 +1,6 @@
 ---
 title: If it isn’t fuck yes, then it’s clear no thank you
-created: 2025-10-18T17:10:00
-modified: 2026-03-13T20:03:38
+modified: 2026-03-13
 ---
 
 **TL; DR** Default to NO.

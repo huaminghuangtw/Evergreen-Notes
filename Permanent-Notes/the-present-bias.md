@@ -1,7 +1,6 @@
 ---
 title: The Present Bias
-created: 2025-10-07T14:10:00
-modified: 2026-03-13T20:03:88
+modified: 2026-03-13
 ---
 
 > “The future is always beginning now.” — Mark Strand

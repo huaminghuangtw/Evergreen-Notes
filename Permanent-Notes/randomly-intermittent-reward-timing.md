@@ -1,7 +1,6 @@
 ---
 title: Randomly Intermittent Reward Timing
-created: 2025-08-29T08:08:00
-modified: 2026-03-13T20:03:64
+modified: 2026-03-13
 ---
 
 [Randomly Intermittent Reward Timing](https://www.google.com/search?q=Randomly+Intermittent+Reward+Timing) is a powerful psychological tool. When rewards are given unpredictably, the behavior that led to the reward is reinforced more strongly than if the reward is given every time.

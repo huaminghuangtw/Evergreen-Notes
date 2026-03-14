@@ -1,7 +1,6 @@
 ---
 title: Grip Dynamometer
-created: 2025-11-12T16:04:25
-modified: 2026-03-13T20:03:09
+modified: 2026-03-13
 ---
 
 = [握力計](https://youtu.be/KurzStE46vk?t=13m49s)

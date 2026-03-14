@@ -1,7 +1,6 @@
 ---
 title: The OODA Loop Framework
-created: 2025-07-18T10:07:00
-modified: 2026-03-13T20:03:68
+modified: 2026-03-13
 ---
 
 The OODA Loop is a decision-making framework developed by military strategist John Boyd.

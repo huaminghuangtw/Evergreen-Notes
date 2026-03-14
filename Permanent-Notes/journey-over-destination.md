@@ -1,7 +1,6 @@
 ---
 title: Journey over destination
-created: 2025-10-14T05:10:00
-modified: 2026-03-13T20:03:59
+modified: 2026-03-13
 ---
 
 > “To travel is to be alive, but to get somewhere is to be dead.” — Alan Watts

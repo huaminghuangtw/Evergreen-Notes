@@ -1,7 +1,6 @@
 ---
 title: How to live a life
-created: 2025-10-16T20:10:00
-modified: 2026-03-13T20:03:33
+modified: 2026-03-13
 ---
 
 > “As long as you live, keep learning how to live.” — Seneca

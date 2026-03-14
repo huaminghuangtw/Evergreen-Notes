@@ -1,7 +1,6 @@
 ---
 title: Limbic Friction
-created: 2025-10-02T03:10:00
-modified: 2026-03-13T20:03:93
+modified: 2026-03-13
 ---
 
 # What is Limbic Friction?

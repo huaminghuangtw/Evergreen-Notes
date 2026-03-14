@@ -1,7 +1,6 @@
 ---
 title: Implementation Intentions
-created: 2025-10-01T05:10:00
-modified: 2026-03-13T20:03:39
+modified: 2026-03-13
 ---
 
 Implementation Intentions are a powerful self-regulation strategy that involves planning _when_, _where_, and _how_ you will act toward a specific goal or habit. By deciding in advance the exact circumstances under which you will perform a behavior, you make it much more likely that you’ll follow through—even when motivation is low or distractions arise.

@@ -1,7 +1,6 @@
 ---
 title: Don’t chase, attract
-created: 2025-12-24T13:12:00
-modified: 2026-03-13T20:03:51
+modified: 2026-03-13
 ---
 
 > “When you let go of the outcome and stop chasing your desires, What you desire starts chasing you.” — Dr. Wayne Dyer

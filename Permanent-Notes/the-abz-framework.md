@@ -1,7 +1,6 @@
 ---
 title: The ABZ Framework
-created: 2025-10-07T14:10:00
-modified: 2026-03-13T20:03:19
+modified: 2026-03-13
 ---
 
 [by Shaan Puri](https://x.com/ShaanVP/status/1347252471291207681)

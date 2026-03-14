@@ -1,7 +1,6 @@
 ---
 title: Functional Illiteracy
-created: 2025-08-29T08:08:00
-modified: 2026-03-13T20:03:89
+modified: 2026-03-13
 ---
 
 [聯合國教科文組織](https://www.unesco.org/en/literacy) [^1] 重新定義新世紀的文盲標準可分為三類：

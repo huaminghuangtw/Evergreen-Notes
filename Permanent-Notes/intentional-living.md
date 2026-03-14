@@ -1,7 +1,6 @@
 ---
 title: Intentional Living
-created: 2025-10-10T06:10:00
-modified: 2026-03-13T20:03:50
+modified: 2026-03-13
 ---
 
 > [“Your goal in life is to be able to say on the day before you die that you have fully become yourself.” — Kevin Kelly](https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/)

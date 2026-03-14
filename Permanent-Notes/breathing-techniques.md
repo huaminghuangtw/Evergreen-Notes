@@ -1,7 +1,6 @@
 ---
 title: Breathing Techniques
-created: 2025-10-08T05:07:10
-modified: 2026-03-13T20:03:81
+modified: 2026-03-13
 ---
 
 It’s this thing we do [20,000 times per day](#1), but we never really stop to consider how we’re actually doing it—or whether we could be doing it better.

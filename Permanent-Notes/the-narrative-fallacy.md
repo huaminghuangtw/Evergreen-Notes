@@ -1,7 +1,6 @@
 ---
 title: The Narrative Fallacy
-created: 2025-10-19T06:10:00
-modified: 2026-03-13T20:03:66
+modified: 2026-03-13
 ---
 
 coined by Nassim Nicholas Taleb

@@ -1,7 +1,6 @@
 ---
 title: How to Fuel in Endurance Sports
-created: 2025-08-10T14:08:00
-modified: 2026-03-13T20:03:27
+modified: 2026-03-13
 ---
 
 Put [maltodextrin (glucose) powder](maltodextrin.md) in a long effervescent tablet tube

@@ -1,7 +1,6 @@
 ---
 title: Everyone is on their own timeline
-created: 2025-10-13T18:10:00
-modified: 2026-03-13T20:03:77
+modified: 2026-03-13
 ---
 
 > “One’s own dharma performed imperfectly is better than another’s dharma well performed…It is better to strive in one’s own dharma than to succeed in the dharma of another.” — Bhagavad Gita

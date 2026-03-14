@@ -1,7 +1,6 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
-created: 2025-10-18T17:10:00
-modified: 2026-03-13T20:03:70
+modified: 2026-03-13
 ---
 
 > “Glory is fleeting, but obscurity is forever.” — Napoleon Bonaparte

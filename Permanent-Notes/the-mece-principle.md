@@ -1,7 +1,6 @@
 ---
 title: The MECE Principle
-created: 2025-10-05T11:10:00
-modified: 2026-03-13T20:03:59
+modified: 2026-03-13
 ---
 
 [@mintoMintoPyramidPrinciple2007]

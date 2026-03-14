@@ -1,7 +1,6 @@
 ---
 title: Slackness
-created: 2025-08-26T05:08:00
-modified: 2026-03-13T20:03:92
+modified: 2026-03-13
 ---
 
 **[Slackness (鬆弛；懈怠；不積極) - the absence of a binding constraint](https://thezvi.wordpress.com/2017/09/30/slack/)**

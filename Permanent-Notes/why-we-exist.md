@@ -1,7 +1,6 @@
 ---
 title: Why we exist?
-created: 2025-10-09T12:10:00
-modified: 2026-03-13T20:03:38
+modified: 2026-03-13
 ---
 
 > [“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)

@@ -1,7 +1,6 @@
 ---
 title: Cognitive Defusion
-created: 2025-12-06T06:12:00
-modified: 2026-03-13T20:03:92
+modified: 2026-03-13
 ---
 
 認知脫鉤

@@ -1,7 +1,6 @@
 ---
 title: Microwave Mug Recipes
-created: 2025-09-22T11:09:00
-modified: 2026-03-13T20:03:21
+modified: 2026-03-13
 ---
 
 that require little cleanup

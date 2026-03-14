@@ -1,7 +1,6 @@
 ---
 title: Have the courage to do the right things
-created: 2025-10-05T15:10:00
-modified: 2026-03-13T20:03:12
+modified: 2026-03-13
 ---
 
 > “The opposite of love is not hate, it’s indifference. The opposite of art is not ugliness, it’s indifference. The opposite of faith is not heresy, it’s indifference. And the opposite of life is not death, it’s indifference.” — Elie Wiesel

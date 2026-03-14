@@ -1,7 +1,6 @@
 ---
 title: Visualization
-created: 2025-10-07T14:10:00
-modified: 2026-03-13T20:03:95
+modified: 2026-03-13
 ---
 
 > “Everything you can imagine is real.” — Pablo Picasso

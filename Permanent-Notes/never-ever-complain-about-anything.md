@@ -1,7 +1,6 @@
 ---
 title: Never ever complain about anything
-created: 2025-10-11T20:10:00
-modified: 2026-03-13T20:03:36
+modified: 2026-03-13
 ---
 
 > “Everything that happens is either endurable or not. If it’s endurable, then endure it. Stop complaining. If it’s unendurable … then stop complaining. Your destruction will mean its end as well. Just remember: you can endure anything your mind can make endurable, by treating it as in your interest to do so. In your interest, or in your nature.” — Marcus Aurelius

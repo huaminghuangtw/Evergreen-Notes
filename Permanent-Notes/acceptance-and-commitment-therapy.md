@@ -1,7 +1,6 @@
 ---
 title: Acceptance and Commitment Therapy
-created: 2025-09-03T07:09:00
-modified: 2026-03-13T20:03:37
+modified: 2026-03-13
 ---
 
 > “Emotion arises at the place where mind & body meet. It is the body’s reaction to mind.” — Eckhart Tolle

@@ -1,7 +1,6 @@
 ---
 title: What you work on is far more important than how productively you work
-created: 2025-09-05T04:09:00
-modified: 2026-03-13T20:03:31
+modified: 2026-03-13
 ---
 
 > “It is not enough that we do our best; sometimes we must do what is required/necessary.” — Winston Churchill

@@ -1,7 +1,6 @@
 ---
 title: Push your limits
-created: 2025-10-10T17:10:00
-modified: 2026-03-13T20:03:63
+modified: 2026-03-13
 ---
 
 > “Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot

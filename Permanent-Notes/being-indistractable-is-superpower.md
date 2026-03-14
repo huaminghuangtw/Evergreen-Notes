@@ -1,7 +1,6 @@
 ---
 title: Being indistractable is superpower
-created: 2025-10-18T06:10:00
-modified: 2026-03-13T20:03:75
+modified: 2026-03-13
 ---
 
 Being indistractable is about doing what you say you’re going to do.

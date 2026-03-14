@@ -1,7 +1,6 @@
 ---
 title: Temptation Bundling
-created: 2025-10-17T06:10:00
-modified: 2026-03-13T20:03:16
+modified: 2026-03-13
 ---
 
 by Katherine Milkman [@milkmanHoldingHungerGames2014] [@kirgiosTeachingTemptationBundling2020]

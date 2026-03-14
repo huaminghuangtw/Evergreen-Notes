@@ -1,7 +1,6 @@
 ---
 title: Optimizing your workspace
-created: 2025-10-19T06:10:00
-modified: 2026-03-13T20:03:99
+modified: 2026-03-13
 ---
 
 * Keep the room in warm temperature.

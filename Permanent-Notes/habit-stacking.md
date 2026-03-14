@@ -1,7 +1,6 @@
 ---
 title: Habit Stacking
-created: 2025-10-01T05:10:00
-modified: 2026-03-13T20:03:11
+modified: 2026-03-13
 ---
 
 is a special form of [Implementation Intentions](implementation-intentions.md). Rather than pairing a new habit with a particular time and location, you pair it with an old, current habit (the “anchor” [@foggTinyHabitsSmall2020]).

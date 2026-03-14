@@ -1,7 +1,6 @@
 ---
 title: Lipoprotein
-created: 2025-12-14T07:08:54
-modified: 2026-03-13T20:03:95
+modified: 2026-03-13
 ---
 
 # What are Lipoproteins?

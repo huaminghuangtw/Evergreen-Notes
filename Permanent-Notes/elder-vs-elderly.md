@@ -1,7 +1,6 @@
 ---
 title: Elder & Elderly
-created: 2025-11-11T06:11:00
-modified: 2026-03-13T20:03:56
+modified: 2026-03-13
 ---
 
 # Elder

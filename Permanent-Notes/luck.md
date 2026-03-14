@@ -1,7 +1,6 @@
 ---
 title: Luck
-created: 2025-09-30T17:09:00
-modified: 2026-03-13T20:03:13
+modified: 2026-03-13
 ---
 
 > “Diligence is the mother of good luck.” — Benjamin Franklin

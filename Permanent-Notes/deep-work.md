@@ -1,7 +1,6 @@
 ---
 title: Deep Work
-created: 2025-10-17T06:10:00
-modified: 2026-03-13T20:03:26
+modified: 2026-03-13
 ---
 
 > “If a large diamond is cut up into pieces, it immediately loses its value as a whole; or if an army is scattered or divided into small bodies, it loses all its power; and in the same way a great intellect has no more power than an ordinary one as soon as it is interrupted, disturbed, distracted, or diverted.” — Arthur Schopenhauer

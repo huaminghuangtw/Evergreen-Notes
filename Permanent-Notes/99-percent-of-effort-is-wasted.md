@@ -1,7 +1,6 @@
 ---
 title: 99% of effort is wasted
-created: 2025-12-03T05:12:00
-modified: 2026-03-13T20:03:68
+modified: 2026-03-13
 ---
 
 [@jorgensonAlmanackNavalRavikant2021]

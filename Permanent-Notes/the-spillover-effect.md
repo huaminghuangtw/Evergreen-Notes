@@ -1,7 +1,6 @@
 ---
 title: The Spillover Effect
-created: 2025-12-30T09:12:00
-modified: 2026-03-13T20:03:76
+modified: 2026-03-13
 ---
 
 > “Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.” — Colin Powell

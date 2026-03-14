@@ -1,7 +1,6 @@
 ---
 title: wander
-created: 2025-07-16T21:07:00
-modified: 2026-03-13T20:03:97
+modified: 2026-03-13
 ---
 
 > “Not all those who wander are lost.” — J.R.R. Tolkien

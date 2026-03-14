@@ -1,7 +1,6 @@
 ---
 title: Always start and end the day right
-created: 2025-10-18T06:10:00
-modified: 2026-03-13T20:03:19
+modified: 2026-03-13
 ---
 
 > “Every morning in Africa, a gazelle wakes up, it knows it must outrun the fastest lion or it will be killed. Every morning in Africa, a lion wakes up. It knows it must run faster than the slowest gazelle, or it will starve. It doesn’t matter whether you’re the lion or a gazelle-when the sun comes up, you’d better be running.” — Christopher McDougall

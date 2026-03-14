@@ -1,7 +1,6 @@
 ---
 title: The Let-Them Theory
-created: 2025-08-29T08:08:00
-modified: 2026-03-13T20:03:57
+modified: 2026-03-13
 ---
 
 by Mel Robbins
