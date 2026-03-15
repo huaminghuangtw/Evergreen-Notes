@@ -1,6 +1,6 @@
 ---
 title: Low Information Diet
-modified: 2026-03-13
+modified: 2026-03-15
 ---
 
 > “The art of not reading is a very important one. It consists in not taking an interest in whatever may be engaging the attention of the general public at any particular time. When some political or ecclesiastical pamphlet, or novel, or poem is making a great commotion, you should remember that he who writes for fools always finds a large public. A precondition for reading good books is not reading bad ones: for life is short.” — Arthur Schopenhauer
@@ -10,6 +10,8 @@ modified: 2026-03-13
 **TL; DR** Consume less, but consume _intelligently_.
 
 ---
+
+> _[“Media silence creates a vacuum, which your own thoughts expand to fill.” — Derek Sivers](https://sive.rs/off23)_
 
 (Social) Media Fast
 
