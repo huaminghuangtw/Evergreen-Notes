@@ -25,24 +25,24 @@ A [goal](goal-setting.md) asks _“What do I want?”_, but a theme asks _“Who
 
 > [我如何在 2025 年讓工作效率和幸福感翻倍？｜電扶梯走左邊 with Jacky](https://www.leftsideescalator.com/p/2025-81f)
 
-1. **Sunday** - Rest \& Reflect
+1. **Sunday** - Rest & Reflect
 	* 休息反思日
 	* ⭐️ 神聖組合：18:00 晚餐後，各花一小時在：[^1]
 		1. 打坐冥想（靈）- 19.~20.
 		2. 一週回顧（心）- 20.~21.
 		3. 運動按摩（身）- 21.~22.
-2. **Monday** - Clarity \& Alignment
+2. **Monday** - Clarity & Alignment
 	* 對接日
 		* **和團隊開會溝通討論。**
 	* 斷食日（36 小時）
 		* 只喝「黑咖啡」和「白開水」
 		* 週日晚餐～週二早餐
-3. **Tuesday** - Discipline \& Execute
+3. **Tuesday** - Discipline & Execute
 	* 深度工作日
-4. **Wednesday** - Social \& Connect
+4. **Wednesday** - Social & Connect
 	* 咖啡廳日：「歡迎大家打斷我」
 		* 著重於「社交廣度」
-5. **Thursday** - Deep \& Personal
+5. **Thursday** - Deep & Personal
 	* 播客（Podcast）日
 		* 著重於「社交深度」
 6. **Friday** - Finishing Strong
