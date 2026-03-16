@@ -14,9 +14,9 @@ modified: 2026-03-13
 		* 加入浴鹽 (Epsom Salt) [^1] + 茶樹精油 (Tea Tree Oil) [^2]
 		* Prefer traditional sauna instead of infrared sauna, due to the heat range they can reach
 			* According to Andrew Huberman, the optimal temperature for sauna therapy is 80-87 degree Celsius
-	* Do 2-3 rounds of 冷熱交替的三溫暖 (hot → quick cold shower \& warm foot bath → cooldown)
+	* Do 2-3 rounds of 冷熱交替的三溫暖 (hot → quick cold shower & warm foot bath → cooldown)
 		* Hot: 5-20 mins
-		* Take a quick cold shower \& warm foot bath (+ drink a glass of water) between sauna sessions
+		* Take a quick cold shower & warm foot bath (+ drink a glass of water) between sauna sessions
 		* Cooldown: 10-15 mins (in fresh air, sit still)
 * Before the sauna
 	* Shower and DRY OFF COMPLETELY, because dry skin sweats/perspires faster than moist
