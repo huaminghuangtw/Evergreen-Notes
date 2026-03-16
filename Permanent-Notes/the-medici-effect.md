@@ -7,7 +7,7 @@ Increased [creativity](creativity-is-just-connecting-things.md) and [innovation]
 
 ---
 
-Breakthrough ideas are most often born at the intersection of disciplines \& cultures / when we bring concepts from one field into a new, unfamiliar territory.
+Breakthrough ideas are most often born at the intersection of disciplines & cultures / when we bring concepts from one field into a new, unfamiliar territory.
 
 ---
 
