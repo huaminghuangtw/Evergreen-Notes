@@ -173,7 +173,7 @@ Always starting from the most basic and simplest level, then adding more complex
 
 ---
 
-# Methods \& Tools
+# Methods & Tools
 
 > Principle: Instead of focusing solely on acquiring knowledge, prioritize strategies that help _retain information_ and _offset the natural tendencies of forgetting_ that occur with any new material we just learned.
 
