@@ -7,7 +7,7 @@ modified: 2026-03-13
 
 > “The dangerous man is the one who has only one idea, because then he’ll fight and die for it. The way real science goes is that you come up with lots of ideas, and most of them will be wrong.” — Francis Crick
 
-> “If a plant only gets sunlight, it’s very harmful. It needs darkness too…In the darkness, it converts oxygen into carbon dioxide. We are like that too. We need periods of doing \& periods of non-doing.” — Robert Pirsig
+> “If a plant only gets sunlight, it’s very harmful. It needs darkness too…In the darkness, it converts oxygen into carbon dioxide. We are like that too. We need periods of doing & periods of non-doing.” — Robert Pirsig
 
 ---
 
