@@ -19,7 +19,7 @@ modified: 2026-03-13
 
 ---
 
-# The “Open List” and The “Closed List” (“集中” \& “分散” 原則)
+# The “Open List” and The “Closed List” (“集中” & “分散” 原則)
 
 1. Dump all the tasks you need to do to the “Open List”
 2. Transfer some tasks from the “Open List” to the “Closed List,” which has a maximum of ten entries — it’s a way to stay focused on what truly matters.
