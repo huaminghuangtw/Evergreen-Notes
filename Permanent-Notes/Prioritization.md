@@ -72,7 +72,7 @@ Look for opportunities where it won’t kill you if it goes poorly, but you’d 
 	* 5 small tasks that are relatively easy to complete and often quicker
 * The 1-2-3 Rule
 	* 1 Most Important Task
-	* 2 Important \& Urgent Tasks
+	* 2 Important & Urgent Tasks
 	* 3 Maintenance Tasks
 
 ---
