@@ -23,7 +23,7 @@ Worldwide Standard
 
 ---
 
-Blockbuster \& Mastery Mindset
+Blockbuster & Mastery Mindset
 
 ---
 
