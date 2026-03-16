@@ -5,7 +5,7 @@ modified: 2026-03-13
 
 # Goals
 
-* Longevity (expand the life span) \& Reverse/Slow Down/Anti Aging
+* Longevity (expand the life span) & Reverse/Slow Down/Anti Aging
 * Lower blood sugar
 * Reduce inflammation
 * Increase insulin sensitivity
