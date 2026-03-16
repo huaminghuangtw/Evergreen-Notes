@@ -26,7 +26,7 @@ modified: 2026-03-13
 * When faced with a difficult decision, ask yourself what your [80-year-old self](death.md) would want you to do.
 * Anytime you feel a high activation state of any kind of positive/negative emotions or internal arousal, you should pause/stop and reflect, because what’s happening is it’s revealing to you something very important.
 	* By reflecting on these states, we can uncover important lessons and insights that can inform our future decisions and actions.
-	* If you don’t stop to think about why I’m so upset or why I’m so happy, you’re gonna miss an important lesson. (similar to Alchemy 煉金術 \& Avocados [^4])
+	* If you don’t stop to think about why I’m so upset or why I’m so happy, you’re gonna miss an important lesson. (similar to Alchemy 煉金術 & Avocados [^4])
 * **The Secretary Problem (The 37 Percent Rule) 撿石子理論**
 	* It implies that the optimal win probability is always at least 1/e (e is Napier’s Constant or Euler’s Number), and that the latter holds even in a much greater generality.
 		* 最佳觀察期為整條路段長度的 1/e ~ 0.36788 (略大於 1/3)
@@ -142,7 +142,7 @@ Razors
 	* You can determine a lot about a person by observing their habitual actions and characteristics.
 	* When someone tells you who they are, believe them the first time.
 * [The Hanlon’s Razor](the-hanlons-razor.md)
-* The Hitchens’ Razor \& Newton’s Flaming Laser Sword
+* The Hitchens’ Razor & Newton’s Flaming Laser Sword
 	* Anything asserted without evidence can be dismissed without evidence.
 	* If something cannot be settled by reasonable experiment or observation, it’s not worth debating.
 * The Bragging Razor
