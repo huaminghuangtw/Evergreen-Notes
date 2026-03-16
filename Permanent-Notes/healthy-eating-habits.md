@@ -7,7 +7,7 @@ Eating Better
 
 Your gut is your second brain.
 
-# 現代人的飲食習慣問題: 吃太好 \& 吃太多 (百病叢生的主因)
+# 現代人的飲食習慣問題: 吃太好 & 吃太多 (百病叢生的主因)
 
 > 「吃」所造成的問題遠多於「不吃」所造成的問題。
 
@@ -89,7 +89,7 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 * Kuchisabishii (口寂しい): When you’re not hungry, but you eat because your mouth is lonely.
 * Avoid eating (or drinking) your feelings.
 * Stop eating food as drugs. Food is literally just there to fuel your brain and body. Nothing else. Nothing more.
-* Food = Fuel: Eat for energy \& vitality, not taste/entertainment.
+* Food = Fuel: Eat for energy & vitality, not taste/entertainment.
 * 「為吃而活」vs.「為活而吃」→ 你比較偏向哪種態度呢? 你認為美食在人生當中應該佔據多重要的位置?
 - [ ] If you think you want a snack, drink a glass of water first.
 - [ ] Eat protein with every single meal to increase satiety and build muscle. → 1-1.2g/pound or 2.2g/kg of bodyweight per day.
@@ -100,8 +100,8 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 	* Create an environment where it’s hard to eat junk & easy to eat nutritious foods. (眼不見為淨)
 - [ ] Eat Less Often
 - [ ] Do not eat 4 hours before sleep
-* First meal 1 - 2 hrs upon waking (low-carbs \& high-protein)
-* Last meal 3 - 5 hrs before sleeping (low-protein \& high-carbs)
+* First meal 1 - 2 hrs upon waking (low-carbs & high-protein)
+* Last meal 3 - 5 hrs before sleeping (low-protein & high-carbs)
 	* Your body follows what is called a “diurnal rhythm”. This means that the body is awake during the day and as the sun goes down it prepares for sleep.
 	* Digestion takes a ton of energy so making your body digest right before it’s time to sleep can wreck your natural rhythms.
 	* This is why we should stop eating at least 3 to 5 hours before going to bed. Be okay with going to bed a bit hungry.
@@ -192,7 +192,7 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 - [ ] Batch meal prepping once a week
 * Batch cooking for a week’s worth of “grab and go” meals
 * Eat the same meals for the entire week
-- [ ] About Fat \& Oil
+- [ ] About Fat & Oil
 * 高溫烹調: 選擇飽和脂肪酸比例高的奶油、豬/牛油 (動物性脂肪，要注意飼養方式，牧草飼養為佳)、椰子油、酪梨油
 * 低溫涼拌: 橄欖油
 	* Avoid anything under 10 euro/L since it’s unlikely to be decent
@@ -219,7 +219,7 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 	3. 最後才吃碳水化合物/澱粉
 
 	> 就這麼簡單的一個動作，能讓飯後血糖波動降低七成！
-	> This regulates your blood sugar \& insulin levels
+	> This regulates your blood sugar & insulin levels
 
 - [ ] 吃飯前喝 (稀釋) 醋，並使用「玻璃/不銹鋼吸管」，以免長期下來腐蝕牙齒
 	- [ ] 巴薩米克醋 (Balsamic Vinegar / Aceto Balsamico)
