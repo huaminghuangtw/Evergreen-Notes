@@ -1,6 +1,6 @@
 ---
 title: Adaptability
-modified: 2026-03-13
+modified: 2026-03-16
 ---
 
 > “It is not the strongest of the species that survives, nor the most intelligent. It is the one most adaptable to change; but the species that survives is the one that is able best to adapt and adjust to the changing environment in which it finds itself.” — Charles Darwin [^1]
@@ -25,7 +25,7 @@ modified: 2026-03-13
 
 ---
 
-Adaptability (\& Flexibility) is the single most powerful trait in life—the ability and willingness to pivot quickly and follow new information or evidence.
+Adaptability (& Flexibility) is the single most powerful trait in life—the ability and willingness to pivot quickly and follow new information or evidence.
 
 ---
 
@@ -46,6 +46,8 @@ You’ll only go as far as your ability to absorb life’s punches and pivot (�
 > “There is nothing permanent except change.” — Heraclitus
 
 > “Nothing endures but change.” — Heraclitus
+
+Fear uncertainty and you fear life. To fear the unknown is to fear life itself. Life without unpredictability isn’t life, not for human beings.
 
 ---
 
