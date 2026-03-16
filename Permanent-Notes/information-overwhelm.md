@@ -80,7 +80,7 @@ modified: 2026-03-13
 			* Humans tend to repeat the mistakes humans make.
 	* Remember: _Information_ and _knowledge_ are two different things!
 		* 「資訊」並不代表「知識」 — 文化評論家南方朔
-		* 「批判 \& 獨立思考」的能力至關重要
+		* 「批判 & 獨立思考」的能力至關重要
 
 [^1]: 智慧是知識的恰當運用。
 [^2]: 但要小心「無知的樂觀（dumb ignorant）」。
