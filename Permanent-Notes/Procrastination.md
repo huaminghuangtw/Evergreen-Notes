@@ -124,7 +124,7 @@ You don’t find motivation to start; you need to start to find motivation. Moti
 
 > If a person can’t get out of bed, something is making them exhausted. If a student isn’t writing papers, there’s some aspect of the assignment that they can’t do without help. If an employee misses deadlines constantly, something is making organization and deadline-meeting difficult. Even if a person is actively choosing to self-sabotage, there’s a reason for it — some fear they’re working through, some need not being met, a lack of self-esteem being expressed.
 
-[^1]: _“Excitement is the more practical synonym for happiness, and it is precisely what you should strive to chase. It is the cure-all.” \& “The question you should be asking isn’t, “What do I want?” or “What are my goals?” but “What would excite me?” \& “The opposite of love is indifference, and the opposite of happiness is boredom.” — Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
+[^1]: _“Excitement is the more practical synonym for happiness, and it is precisely what you should strive to chase. It is the cure-all.” & “The question you should be asking isn’t, “What do I want?” or “What are my goals?” but “What would excite me?” & “The opposite of love is indifference, and the opposite of happiness is boredom.” — Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)_
 [^2]: When scared by the size of a task you’re going to do, always focus on making the **entry barrier (i.e., the very first step)** smaller.
 [^3]: Define the **Minimal Enjoyable Action (MEA).** Harness the power of **[Small Wins](always-start-small.md)**.
 [^4]: All human behaviors make sense with _enough_ information.
