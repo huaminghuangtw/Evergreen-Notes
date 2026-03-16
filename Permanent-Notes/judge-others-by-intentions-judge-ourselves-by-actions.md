@@ -28,7 +28,7 @@ modified: 2026-03-13
 	3. Your co-worker was late to an important meeting, you might be inclined to form a judgment of his/her character based on this one action alone (e.g., _he/she is late because he’s selfish_). It’s possible, however, that his/her behavior is due to several external, rather than internal, factors (e.g., _family emergency or traffic jam_), which caused him/her to run behind schedule.
 * Remember: forming impressions / making judgments of a person’s character based on limited information can have long-lasting effects.
 * How to avoid it?
-	* Become more emotionally \& socially intelligent
+	* Become more emotionally & socially intelligent
 		* This involves practicing [self-awareness](mastering-yourself-is-superpower.md) , [empathy](empathy.md), self-regulation
 	* Be grateful
 		* This will help balance out your perspective, and can help you view someone as a whole person / see the whole picture, instead of through pieces of limited information.
