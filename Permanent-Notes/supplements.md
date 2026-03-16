@@ -21,7 +21,7 @@ Supplement to Microspike Dopamine
 	* Dosage: 500mg
 * Metformin
 	* Dosage: 800mg at night
-* Vitamin D3 \& K2
+* Vitamin D3 & K2
 * Omega-3 Fish Oil
 	* Taken nightly
 * Alpha Lipoic Acid + Coenzyme Q10 = Statins
