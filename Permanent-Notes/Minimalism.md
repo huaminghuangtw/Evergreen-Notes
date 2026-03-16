@@ -35,7 +35,7 @@ Let’s declutter/downsize/simplify!
 
 ---
 
-What is absolutely necessary \& Get rid of everything I don’t need
+What is absolutely necessary & Get rid of everything I don’t need
 
 * To renounce all but the essentials!
 * Have no excess stuff.
