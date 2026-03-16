@@ -42,7 +42,7 @@ Many people call themselves “generalists” as a way to avoid specializing, bu
 # Polymath
 
 * Renaissance Man
-* A person with wide-ranging, multi-disciplinary knowledge \& skills
+* A person with wide-ranging, multi-disciplinary knowledge & skills
 * 博學多聞的通才
 
 ---
