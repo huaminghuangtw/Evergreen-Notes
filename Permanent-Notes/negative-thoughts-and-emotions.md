@@ -24,7 +24,7 @@ modified: 2026-03-13
 * 不安 (Discomfort)
 * 自我懷疑 (Self-doubt)
 * 悲觀 (Pessimism)
-* 失望、沮喪 (Depression \& Frustration)
+* 失望、沮喪 (Depression & Frustration)
 * 羨慕 (Envy)
 * 忌妒 (Jealous)
 * 炫耀
