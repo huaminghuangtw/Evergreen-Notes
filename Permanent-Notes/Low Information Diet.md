@@ -15,7 +15,7 @@ modified: 2026-03-15
 
 (Social) Media Fast
 
-Your diet isn’t just about what you eat (the food you put into your body), but also what you read, watch, listen to (the information you take in), as well as who you follow on social platforms \& the friends you hang around. Your digital environment shapes your thinking just as much (if not more) than your physical environment.
+Your diet isn’t just about what you eat (the food you put into your body), but also what you read, watch, listen to (the information you take in), as well as who you follow on social platforms & the friends you hang around. Your digital environment shapes your thinking just as much (if not more) than your physical environment.
 
 Cull Your [Social Media](quit-social-media.md) Feed
 
