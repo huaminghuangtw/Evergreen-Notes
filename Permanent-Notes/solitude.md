@@ -1,13 +1,13 @@
 ---
 title: Solitude
-modified: 2026-03-13
+modified: 2026-03-16
 ---
 
 > “Solitude gives birth to the original in us.” — Thomas Mann
 
 > “To live alone, one must be either a beast or a god, says Aristotle. Leaving out the third case: one must be both — a philosopher.” — Nietzsche
 
-> [“Remember: the time you feel lonely is the time you most need to be by yourself. Life’s cruelest irony.” — Douglas Coupland, Shampoo Planet](https://www.goodreads.com/quotes/7143-remember-the-time-you-feel-lonely-is-the-time-you)
+> [“Remember: the time you feel lonely is the time you most need to be by yourself. Life’s cruelest irony.” — Douglas Coupland, Shampoo Planet](https://www.goodreads.com/quotes/7143-remember-the-time-you-feel-lonely-is-the-time-you) [^1]
 
 ---
 
@@ -23,7 +23,7 @@ There are many elements of [living a good life](how-to-live-a-life.md), but the 
 
 [Go do things on your own / Take yourself on dates](https://youtu.be/k7X7sZzSXYs) so you learn to trust your mind and view it as a welcome companion. If someone declared, “Tomorrow you must spend the day alone” the hope is that you would reply, “That sounds like a good day!”
 
-The person who is at ease within finds every other space larger and more enjoyable. [^1]
+The person who is at ease within finds every other space larger and more enjoyable. [^2]
 
 ---
 
@@ -33,4 +33,5 @@ The person who is at ease within finds every other space larger and more enjoyab
 
 [Lonely is a freedom that breathe easy and weightless and lonely is healing if you make it.](https://youtu.be/k7X7sZzSXYs?t=159)
 
-[^1]: Source: <https://jamesclear.com/3-2-1/july-24-2025>
+[^1]: _“Within you is a stillness and a sanctuary to which you can retreat at any time and be yourself.” — Hermann Hesse_
+[^2]: Source: <https://jamesclear.com/3-2-1/july-24-2025>
