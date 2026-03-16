@@ -41,7 +41,7 @@ Temptation is an ever-present failure trigger.
 
 ---
 
-# Pro Tips \& Personal Rules
+# Pro Tips & Personal Rules
 
 * [Make it a personal rule to never watch TV on your own—“It has to be a social activity, otherwise I’m not going to do it.”](https://aliabdaal.com/newsletter/my-rule-for-watching-tv/)
 * [Only enjoy desserts or sweets when sharing them with others—no indulging alone.](https://chengweihu.com/rules/)
