@@ -43,8 +43,8 @@ that require little cleanup
 	* 完成後放在冰箱隔天再吃比較好吃!
 * How to froth milk in the microwave?
 	* Pour milk into a jar
-	* Put on lid \& shake for 15-30 seconds
-	* Take off lid \& put in microwave for 30-60 seconds
+	* Put on lid & shake for 15-30 seconds
+	* Take off lid & put in microwave for 30-60 seconds
 * How to cook (fluffy) rice in the microwave?
 	* Rice : Water = 1 : 3
 		* 不可超過容器的一半高度，因為米飯會膨脹
