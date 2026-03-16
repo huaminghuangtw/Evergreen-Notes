@@ -33,7 +33,7 @@ Productivity
 
 ---
 
-Fill your day with hope and face it with joy. Do bold things with a pleasant and friendly demeanor. Enjoyment is time\& energy efficiency. When you’re enjoying yourself, productivity takes care of itself. When work feels like play, the world becomes your playground. 😊
+Fill your day with hope and face it with joy. Do bold things with a pleasant and friendly demeanor. Enjoyment is time & energy efficiency. When you’re enjoying yourself, productivity takes care of itself. When work feels like play, the world becomes your playground. 😊
 
 ---
 
