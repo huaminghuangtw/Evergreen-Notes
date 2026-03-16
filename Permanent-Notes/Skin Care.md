@@ -140,7 +140,7 @@ modified: 2026-03-13
 5. ⭐ Sunscreen
 	* You should wear sunscreen every single day of the year, no matter what the weather is like, because when you are outside, you are constantly exposed to UV radiation
 		* Even when it’s cloudy/overcast days, UV rays can still penetrate through the clouds
-		* 防止 Photoaging \& Skin cancer
+		* 防止 Photoaging & Skin cancer
 		* “Truck Driver Face”: the result of sun damage after years and massive hours behind the wheel driving a truck
 		* The easiest way is to sneak our sunscreen into the products we already wear every day (SPF moisturizers)
 	* Apply sunscreen when going out for long time. Do reapply every 3-4 hours or depending on the level of sun exposure.
