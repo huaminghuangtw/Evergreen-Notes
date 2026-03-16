@@ -28,7 +28,7 @@ HCs = Habits of Mind and Foundational Concepts in [Minerva University](https://w
 They are…
 
 * to your brain as apps are to your smartphone
-* thinking tools in our mental toolbox, guiding our thoughts and behaviors \& driving our responses to everything we experience
+* thinking tools in our mental toolbox, guiding our thoughts and behaviors & driving our responses to everything we experience
 * shortcuts for reasoning
 * frameworks that give people a mental representation (心智表徵) of how the world works
 
@@ -36,7 +36,7 @@ They are…
 
 * helps us to see the underlying patterns (脈絡) in every area of life
 * helps us to spot the signal in the noise
-* helps us to identify the blind spots in our thinking and thus think better (critically \& creatively \& connectively)
+* helps us to identify the blind spots in our thinking and thus think better (critically & creatively & connectively)
 * helps us to view the world from different lens/eyes/perspectives, to make sense of the world
 
 # Examples
