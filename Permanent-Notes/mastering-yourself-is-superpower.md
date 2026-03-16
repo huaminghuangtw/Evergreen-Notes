@@ -73,7 +73,7 @@ modified: 2026-03-13
 * “_The universal law of being successful and happy at the same time means finding the balance._”
 * _“There are 2 mistakes along the way to Mastery: Not starting it, and not going all the way.”_
 * 5 Hindrances
-	1. [Sensual desire](instant-gratification.md) (pleasures \& distractions)
+	1. [Sensual desire](instant-gratification.md) (pleasures & distractions)
 		* from the five gates of the body:
 			* Seeing
 			* Hearing
