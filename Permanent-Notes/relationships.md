@@ -254,5 +254,5 @@ Judge a man by his questions rather than his answers.
 [Communication](communication.md)
 
 [^1]: [Passive-Aggressive Behavior](https://www.google.com/search?q=Passive-Aggressive+Behavior) (被動攻擊行為)
-[^2]: [The Grant \& Glueck Study](https://www.adultdevelopmentstudy.org/grantandglueckstudy) is one of the world’s longest studies on human development \& adult life ([Harvard Study of Adult Development](https://www.adultdevelopmentstudy.org/)), conducted by researchers at Harvard University.
+[^2]: [The Grant & Glueck Study](https://www.adultdevelopmentstudy.org/grantandglueckstudy) is one of the world’s longest studies on human development & adult life ([Harvard Study of Adult Development](https://www.adultdevelopmentstudy.org/)), conducted by researchers at Harvard University.
 [^3]: While deep conversations are valuable, it’s also important to recognize that small talk can serve as a social lubricant. The key is to avoid getting stuck in perpetual triviality.
