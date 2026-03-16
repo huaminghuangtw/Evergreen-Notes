@@ -66,7 +66,7 @@ The most important thing in life is _not having_ what you want, but _knowing_ wh
 
 > “I think in terms of the day’s resolutions, not the years’.” — Henry Moore
 
-1. Define you [VALUES](why-we-exist.md) (\& ditch unrealistic big goals)
+1. Define you [VALUES](why-we-exist.md) (& ditch unrealistic big goals)
 2. Focus on today’s [ACTIONS](cultivate-a-strong-bias-towards-action.md) (instead of a 5, 10, 15-year plan) that will compound positively towards the future you desire.
 
 	> You won’t change your life _in a day_, but if you change your days, you’ll eventually change your life. You don’t plan your future. You plan your actions _today_, and those actions create your future. Planning your future can quickly spiral into procrastination in disguise. Focus on the actions in the present and let the future take care of itself.
