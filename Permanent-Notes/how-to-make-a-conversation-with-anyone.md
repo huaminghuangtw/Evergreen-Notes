@@ -44,7 +44,7 @@ Active constructive responses, which involve genuine engagement and building on 
 	* **Conversation as Reading a Book:**: Saying “yes” or “uh-huh” or “hmm” to signal listening and encourage continued energy from the speaker.
 	* **Sounds**: Changing facial expressions to react physically to the story being told.
 	* **Facial Expressions**: Forward lean posture towards the speaker signals engagement and positive energy. Never turn away or sideways, as it signals you are trying to leave a conversation and immediately hurts the energy of a moment.
-* Principle 3: Repeat \& Follow
+* Principle 3: Repeat & Follow
 	* Repeating key points back to the speaker in your own words and following on with an additional insight, story, or doorknob.
 	* Deliberately mirror their words by echoing the last one to three key terms they used; this simple gesture signals attentiveness and gently invites them to continue.
 * Principle 4: Make Situational Eye Contact
