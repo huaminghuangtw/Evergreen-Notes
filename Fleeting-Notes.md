@@ -21,7 +21,7 @@ Source: Paraphrased from the Tao Te Ching. The original translation reads closer
 	- [ ] Inverted row (Smith machine/dig stand)
 	- [ ] Sand Bag - Swing to Press
 	- [ ] Sand Bag - Overboard Toss
-	- [ ] Sand Bag - Pick \& Press with sand bag
+	- [ ] Sand Bag - Pick & Press with sand bag
 	- [ ] Sand Bag - Reverse Lunge with Rotation
 	- [ ] Sand Bag - Rotational Swing
 	- [ ] Dips
