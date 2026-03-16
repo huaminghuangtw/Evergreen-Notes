@@ -5,7 +5,7 @@ modified: 2026-03-13
 
 # 起床儀式（Early Morning Routine）
 
-* Thought-dumping \& Brainstorming ideas with Paper and Pen (紙筆⾃由書寫)
+* Thought-dumping & Brainstorming ideas with Paper and Pen (紙筆⾃由書寫)
 	* 醒來後睜開眼，不馬上起身，繼續躺在床上，深呼吸，準備迎接醞釀一整晚的淺意識，這時，我會用紙筆開始寫下：
 		* 就寢和起床時間
 		* 任何靈感
@@ -39,10 +39,10 @@ modified: 2026-03-13
 * 🎹 Listen to Classical Piano Music
 * 📝 Journaling (覆盤/盤點) (Daily Review/Reflection) → Close Open Loops
 * 💊 Take Magnesium (500 mg)
-* 📋 Plan \& prepare for tomorrow
+* 📋 Plan & prepare for tomorrow
 	* 👕 Lay out clothes for the next day
 	* 🎒 Prepare essentials for backpack
-	* 📃✏️ Put an A4 paper \& pen on the bedside table (for brain dump upon waking)
+	* 📃✏️ Put an A4 paper & pen on the bedside table (for brain dump upon waking)
 * 📚 Read (Kindle or Physical Books)
 * 😌 Relax on an exercise mat
 
