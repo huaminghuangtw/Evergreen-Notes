@@ -11,7 +11,7 @@ modified: 2026-03-13
 
 > “Every man has two lives, and the second starts when he realizes he has just one. (未知生，焉知死)” — Confucius
 
-> [“A man who dares to waste one hour of time has not discovered the value of life.” — Charles Darwin, The Life \& Letters of Charles Darwin](https://www.goodreads.com/quotes/34852-a-man-who-dares-to-waste-one-hour-of-time)
+> [“A man who dares to waste one hour of time has not discovered the value of life.” — Charles Darwin, The Life & Letters of Charles Darwin](https://www.goodreads.com/quotes/34852-a-man-who-dares-to-waste-one-hour-of-time)
 
 ---
 
