@@ -10,7 +10,7 @@ modified: 2026-03-13
 
 Actions
 
-* “Reveal Action” \& “Quick Look”
+* “Reveal Action” & “Quick Look”
 * “Take Screenshot” + “Extract Text from Image” (for OCR)
 * Get Dictionary Value → Options: “Value”, “All Keys”, “All Values”
 	* Often: “Choose from List” + “All Keys”
