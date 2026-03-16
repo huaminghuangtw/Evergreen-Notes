@@ -45,7 +45,7 @@ Fundamental Truth（底層邏輯）
 	* Why?
 	* Agile Coaches
 * Tactics
-	* What? \& How?
+	* What? & How?
 	* Play Stealers
 
 ---
