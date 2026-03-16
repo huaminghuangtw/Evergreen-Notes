@@ -33,7 +33,7 @@ modified: 2026-03-13
 	* Alphabetical/Hierarchical Categorization (主題式)
 		* The classic mistake is to organize them into ever more specific topics and subtopics. This makes it look less complex, but quickly becomes overwhelming.
 		* The more notes pile up, the smaller and narrower the subtopics become, limiting your ability to see meaningful connections between them. With this approach, the greater one’s collection of notes, the less accessible and useful they become.
-	* Organize notes by index (索引編號) \& context (脈絡/前後文/因果關係) in which it will be used, instead of topics/subtopics.
+	* Organize notes by index (索引編號) & context (脈絡/前後文/因果關係) in which it will be used, instead of topics/subtopics.
 		* In other words, instead of filing things away according to _where they came from_, you file them according to _where they’re going_.
 		* Connect any given note to as many different potentially relevant **contexts** as possible.
 * This is the essential difference between organizing like a librarian and organizing like a writer.
