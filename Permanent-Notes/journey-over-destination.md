@@ -81,7 +81,7 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 
 > [“We are not going in circles, we are going upwards. The path is a spiral; we have already climbed many steps.” — Hermann Hesse, Siddhartha](https://www.instagram.com/mounika.studio/p/CmslMjcBEaI/) [^2]
 
-* Trust the process \& Have faith in the process
+* Trust the process & Have faith in the process
 
 	> You were brought into the world to do the work your soul has long prepared for — trust that every step is part of that unfolding.
 
