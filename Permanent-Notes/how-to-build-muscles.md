@@ -18,7 +18,7 @@ Taper, Deload, Junk Volume
 # Routines
 
 * 10 分鐘熱身 (飛輪車，非健身車)
-* ⭐️ For **squats** \& **deadlifts**, lift heavier weights with low reps (4-6) per set, resting 3-5 mins between sets, 10-12 sets per gym session, 2 gym sessions per week
+* ⭐️ For **squats** & **deadlifts**, lift heavier weights with low reps (4-6) per set, resting 3-5 mins between sets, 10-12 sets per gym session, 2 gym sessions per week
 	* Squats
 	* Deadlifts
 		* Start with the bar over your mid-foot
@@ -37,7 +37,7 @@ Taper, Deload, Junk Volume
 * 組間休息時間
 	* Drink electrolytes
 	* Perform dead hangs
-* Do kettlebell swings \& face-pulls after EVERY workout
+* Do kettlebell swings & face-pulls after EVERY workout
 
 ---
 
