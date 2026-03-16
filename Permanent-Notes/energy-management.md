@@ -29,7 +29,7 @@ There’s no such thing as working too hard. There’s just being under rested. 
 
 ---
 
-# Willpower Is Not A Limited Resource \& Ego-depletion Is A Myth
+# Willpower Is Not A Limited Resource & Ego-depletion Is A Myth
 
 * After a particularly grueling day, I’d sit on the couch and veg for hours, doing my version of “[Netflix and chill](https://en.wikipedia.org/wiki/Netflix_and_chill),” which meant keeping company with a pint of ice cream. Even though I knew that eating ice cream and sitting for a long time were probably bad ideas, I told myself that relaxation was my well-deserved reward for working so hard.
 * Psychological researchers have a name for this phenomenon: it’s called “[Ego Depletion](https://www.nirandfar.com/ego-depletion/).” The theory is that ~~willpower is connected to a limited reserve of mental energy, and once you run out of that energy, you’re more likely to lose self-control.~~
