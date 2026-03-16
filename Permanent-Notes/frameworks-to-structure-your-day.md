@@ -78,7 +78,7 @@ modified: 2026-03-13
 		* **Quarter 3 (Afternoon)**
 			* Meetings, admin tasks, etc.
 		* **Quarter 4 (Evening)**
-			* Quality time with family \& friends, self-care, evening routine, etc.
+			* Quality time with family & friends, self-care, evening routine, etc.
 	* 💡 _Life happens. Sometimes we’re on top of the world, other times the world is on top of us. No day is perfect. If you screw up one quarter, just get back on track for / reset to execute the next one. Each quarter is a new opportunity to reset, take control, and refocus your energy. **Keep the mistake contained in that quarter, so that you don’t lose / write off the entire day, but only that quarter.** Lamenting over an interrupted routine won’t get you anything worth having. Be like the “bend but don’t break” willow tree—even when the storm comes, the willow is tough enough to bend with the blows and not break beneath them. Simple metaphor. Bend don’t break. Roll with life chaos/punches. Enjoy the ride. Be ready to [adapt](adaptability.md), often._
 * Distribute brainpower in a _descending_ order across the day
 * The formula to become a superhuman
