@@ -7,7 +7,7 @@ modified: 2026-03-13
 
 ---
 
-The Monkeys \& Pedestals mental model by Annie Duke
+The Monkeys & Pedestals mental model by Annie Duke
 
 ---
 
