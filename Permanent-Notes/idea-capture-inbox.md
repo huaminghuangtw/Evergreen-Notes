@@ -27,7 +27,7 @@ modified: 2026-03-13
 
 # How?
 
-* In 📥 \& Out 📤 Paper Tray
+* In 📥 & Out 📤 Paper Tray
 * Quick Note
 	* Informal sketch (by giving barely enough details to allow you to readily reconstruct the whole thing later on, don’t care about the format)
 	* Only write down “keywords”, not “sentences”
