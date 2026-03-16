@@ -7,7 +7,7 @@ modified: 2026-03-13
 * Ensure good ventilation for fresh air circulation.
 * Natural light is crucial for maintaining energy levels and improving mood. Position your desk near windows to take advantage of the sunlight throughout the day.
 * **Incorporate Greenery:** [Adding plants to your workspace](https://www.labnol.org/home/best-indoor-plants-for-clean-air/10654) can improve air quality and create a calming atmosphere. Choose low-maintenance plants such as _succulents_ or _pothos_ that thrive indoors with minimal care.
-* Standing \& sitting up straight while looking at a screen (or book) that is elevated to **slightly above eye level** will generate maximal levels of alertness.
+* Standing & sitting up straight while looking at a screen (or book) that is elevated to **slightly above eye level** will generate maximal levels of alertness.
 * **The Cathedral Effect** [@meyers-levyInfluenceCeilingHeight2007]
 	* High versus low ceiling can prime the concepts of freedom versus confinement, respectively.
 	* Working in **high** ceiling spaces elicits abstract thoughts and [creative ideation](creativity-is-just-connecting-things.md), whereas working in **low** ceiling spaces promotes concrete and detail-oriented work.
