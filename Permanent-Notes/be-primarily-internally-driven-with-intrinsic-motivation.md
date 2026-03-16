@@ -1,6 +1,6 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
-modified: 2026-03-13
+modified: 2026-03-16
 ---
 
 > “Glory is fleeting, but obscurity is forever.” — Napoleon Bonaparte
@@ -52,7 +52,7 @@ Focus on the [Inner Scorecard](https://fs.blog/the-inner-scorecard), not the ext
 
 ---
 
-# Autotelic Personality \& Exotelic Personality
+# Autotelic Personality & Exotelic Personality
 
 * Autotelic people (成長心態) [enjoy the journey](journey-over-destination.md) as they work toward a goal.
 * Exotelic people (定型心態) only care about reaching the goal, no matter what.
@@ -67,7 +67,7 @@ Focus on the [Inner Scorecard](https://fs.blog/the-inner-scorecard), not the ext
 
 ---
 
-# [David Brooks - Résumé Virtues \& Eulogy Virtues](https://youtu.be/MlLWTeApqIM)
+# [David Brooks - Résumé Virtues & Eulogy Virtues](https://youtu.be/MlLWTeApqIM)
 
 > So I’ve been thinking about the difference between the résumé virtues and the eulogy virtues. The résumé virtues are the ones you put on your résumé, which are the skills you bring to the marketplace. The eulogy virtues are the ones that get mentioned in the eulogy, which are deeper: who are you, in your depth, what is the nature of your relationships, are you bold, loving, dependable, consistency? And most of us, including me, would say that the eulogy virtues are the more important of the virtues. But at least in my case, are they the ones that I think about the most? And the answer is no.
 
@@ -135,6 +135,10 @@ In a [scene](https://youtu.be/-Do1ALVm9qk?t=1m16s) from the television series _[
 ---
 
 [Why we exist?](why-we-exist.md)
+
+---
+
+[The Motivation Triangle](the-motivation-triangle.md)
 
 [^1]: 皆為身外之物
 [^2]: Pride is the enemy of learning.
