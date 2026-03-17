@@ -1,6 +1,6 @@
 ---
 title: Push your limits
-modified: 2026-03-13
+modified: 2026-03-17
 ---
 
 > “Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot
@@ -39,7 +39,7 @@ modified: 2026-03-13
 
 > “They are born, then put in a box; they go home to live in a box; they study by ticking boxes; they go to what is called ‘work’ in a box, where they sit in their cubicle box; they drive to the grocery store in a box to buy food in a box; they go to the gym in a box to sit in a box; they talk about thinking ‘outside the box’; and when they die they are put in a box. All boxes, Euclidean, geometrically smooth boxes.” — [@talebBedProcrustesPhilosophical2016]
 
-> [“Sometimes it takes a heartbreak to shake us awake & help us see we are worth so much more than we’re settling for.” — Mandy Hale, The Single Woman–Life, Love, and a Dash of Sass: Embracing Singleness with Confidence](https://www.goodreads.com/quotes/862014-sometimes-it-takes-a-heartbreak-to-shake-us-awake)
+> [“Sometimes it takes a heartbreak to shake us awake & help us see we are worth so much more than we’re settling for.” — Mandy Hale, The Single Woman—Life, Love, and a Dash of Sass: Embracing Singleness with Confidence](https://www.goodreads.com/quotes/862014-sometimes-it-takes-a-heartbreak-to-shake-us-awake)
 
 > [“Believe in your infinite potential. Your only limitations are those you set upon yourself.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7721794-believe-in-your-infinite-potential-your-only-limitations-are-those)
 
@@ -70,6 +70,8 @@ modified: 2026-03-13
 > “You are confined only by the walls you build yourself.” — Andrew Murphy
 
 ---
+
+> [“Whenever I hear anyone arguing for slavery, I feel a strong impulse to see it tried on him personally.” — Abraham Lincoln](http://goodreads.com/quotes/39563-whenever-i-hear-anyone-arguing-for-slavery-i-feel-a)
 
 Self-imposed limits, Self-limiting beliefs/stories, Self-sabotaging behaviors, etc.
 
