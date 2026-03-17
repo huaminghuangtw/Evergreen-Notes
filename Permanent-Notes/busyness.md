@@ -1,6 +1,6 @@
 ---
 title: Busyness
-modified: 2026-03-13
+modified: 2026-03-17
 ---
 
 > “Beware the barrenness of a busy life.” — Socrates
@@ -37,12 +37,16 @@ modified: 2026-03-13
 
 # Don’t confuse being _busy_ with being _[productive](Productivity.md)_.
 
-* [Being busy is a form of laziness–lazy thinking and indiscriminate action.](https://tim.blog/2013/11/03/productivity-hacks/)
+* [Being busy is a form of laziness—lazy thinking and indiscriminate action.](https://tim.blog/2013/11/03/productivity-hacks/)
 * [Being busy is most often used as a guise for avoiding the few critically important but uncomfortable actions.](https://tim.blog/2013/11/03/productivity-hacks/)
 
 ---
 
 The most invisible form of wasted time is doing a good job on an unimportant task.
+
+---
+
+Rule: [Boredom](boredom-promotes-creativity.md) > Busyness
 
 ---
 
