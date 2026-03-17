@@ -1,6 +1,6 @@
 ---
 title: Adaptability
-modified: 2026-03-16
+modified: 2026-03-17
 ---
 
 > “It is not the strongest of the species that survives, nor the most intelligent. It is the one most adaptable to change; but the species that survives is the one that is able best to adapt and adjust to the changing environment in which it finds itself.” — Charles Darwin [^1]
@@ -22,6 +22,8 @@ modified: 2026-03-16
 > “The capacity to adjust and improvise is arguably the single most critical human ability.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)
 
 > “Until you change how you get things done, you’ll never know what works best.” — Roy T. Bennett
+
+> 「易窮則變，變則通，通則久。」— 《易經．繫辭下》[^3]
 
 ---
 
@@ -72,3 +74,4 @@ Fear uncertainty and you fear life. To fear the unknown is to fear life itself. 
 
 [^1]: _[In the struggle for survival, the fittest win out at the expense of their rivals because they succeed in adapting themselves best to their environment.](https://www.darwinproject.ac.uk/people/about-darwin/six-things-darwin-never-said/evolution-misquotation)_
 [^2]: _[In theory, consistency is about being disciplined, determined, and unwavering. In practice, consistency is about being adaptable. Don’t have much time? Scale it down. Don’t have much energy? Do the easy version. Find different ways to show up depending on the circumstances. Let your habits change shape to meet the demands of the day. Adaptability is the way of consistency.](https://jamesclear.com/3-2-1/january-23-2025)_
+[^3]: 指事物發展到極限或陷入困境（窮）時，就必須求變化（變）；經過變化後，就能突破障礙，使事物通達順暢（通）；能夠通達順暢，才能保持長久的發展（久）。
