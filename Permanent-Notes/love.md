@@ -1,6 +1,6 @@
 ---
 title: Love
-modified: 2026-03-13
+modified: 2026-03-17
 ---
 
 > “Love is the absence of judgment.” — Dalai Lama
@@ -157,6 +157,8 @@ Find a partner who believes in you more than you believe in yourself.
 * A great romantic relationship is not only finding the person you have fun with, but also finding the person you want to be bored with. The beauty of long-term relationships is often hidden in boring, ordinary moments.
 
 ---
+
+# Choosing a good mother for your kids is more important than choosing a beautiful wife for yourself.
 
 > 如果你渴望組成一個家庭，尋找那位真心想成為「丈夫/妻子」和「父親/母親」的人，而不是只想擁有「老婆/老公」和「孩子」的人。
 
