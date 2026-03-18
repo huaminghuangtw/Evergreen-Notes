@@ -1,5 +1,5 @@
 ---
-modified: 2026-03-17
+modified: 2026-03-18
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -123,16 +123,16 @@ Bayesian Thinking, a structured approach to updating beliefs
 
 ---
 
-庖丁解牛
-
----
-
-帶病延年
-
----
-
 懶螞蟻效應（Lazy Ant Effect）
 
 ---
 
 「俄羅斯方塊效應」(Tetris Effect)
+
+---
+
+當你在表達時，別人對你的觀感有 55% 來自外在形象和肢體語言，38% 來自聲音語調，內容本身只佔 7%
+
+---
+
+被拋擲性 (Thrownness)
