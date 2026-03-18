@@ -1,6 +1,6 @@
 ---
 title: Perfectionism
-modified: 2026-03-13
+modified: 2026-03-18
 ---
 
 > “You don’t have to be great to start, but you have to start to be great.” — Zig Ziglar
@@ -35,6 +35,10 @@ Perfectionism is a [double-edged sword (雙面刃)](duality-vs-polarity.md). On 
 [Kintsugi](https://www.google.com/search?q=Kintsugi)—the Japanese practice of repairing broken pottery with gold, rendering a new piece that is more exquisite than it was before the break.
 
 Your flaws attract the right people you want to be around and filter out those who don’t belong.
+
+> 「修真養性，服食導引，卻病延年，沖舉可俟。」—《東周列國志》第 87 回
+
+> 比丘常帶三分病，是助道因緣。
 
 ---
 
