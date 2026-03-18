@@ -1,6 +1,6 @@
 ---
 title: Wu Wei
-modified: 2026-03-12
+modified: 2026-03-18
 ---
 
 > “Nature never hurries, yet everything is accomplished.” — Lao Tzu
@@ -35,6 +35,12 @@ Doing nothing can be surprisingly [productive](Productivity.md). I’ve experien
 ---
 
 萬物都有個「相對性」，自然也有一個「順序」。若能順應這個自然運作的原理，與其共存，你就不需要再多做什麼，因為自然是經過長時間才形成的東西，早就達成一個「平衡」的狀態。
+
+---
+
+# 庖丁解牛
+
+出自《莊子·養生主》，講述一位名「丁」的廚師為梁惠王宰牛，技術達到出神入化的境界。其核心在於「依乎天理」、「因其固然」，順應牛體自然的筋骨縫隙運刀，故能遊刃有餘。此喻指對事物規律瞭解透澈，做事能得心應手，運用自如。
 
 ---
 
