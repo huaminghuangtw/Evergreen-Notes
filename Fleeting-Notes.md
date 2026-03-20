@@ -1,5 +1,5 @@
 ---
-modified: 2026-03-18
+modified: 2026-03-20
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -136,3 +136,15 @@ Bayesian Thinking, a structured approach to updating beliefs
 ---
 
 被拋擲性 (Thrownness)
+
+---
+
+Lockheed SR-71 Blackbird
+
+是世界上最快的噴射式載人飛機
+
+由於衛星技術的發展，需冒險深入敵國偵測的任務不多，故此進入八十年代已甚少使用。
+
+---
+
+何首烏
