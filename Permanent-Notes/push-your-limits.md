@@ -1,6 +1,6 @@
 ---
 title: Push your limits
-modified: 2026-03-17
+modified: 2026-03-20
 ---
 
 > “Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot
@@ -31,7 +31,9 @@ modified: 2026-03-17
 
 > [The people who are crazy enough to think they can change the world are the ones that do.” — Steve Jobs](https://www.goodreads.com/quotes/9859550-the-people-who-are-crazy-enough-to-think-they-can)
 
-> Stop allowing your mind to be a slave, to be jerked about by selfish impulses, to kick against fate and the present, and to mistrust the future. — [@markaurelMeditations2006] [^2]
+[@markaurelMeditations2006]
+
+> Stop allowing your mind to be a slave, to be jerked about by selfish impulses, to kick against fate and the present, and to mistrust the future. [^2]
 
 > “Live and act within the limit of your knowledge and keep expanding it to the limit of your life.” — Ayn Rand
 
