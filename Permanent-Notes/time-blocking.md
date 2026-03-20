@@ -7,7 +7,7 @@ modified: 2026-03-19
 
 [Time blocking](https://todoist.com/productivity-methods/time-blocking) (or timeboxing 時間盒子) is a [productivity](Productivity.md) technique where you divide your day into blocks of time, each dedicated to [accomplishing a specific task](you-can-achieve-anything-if-you-focus-on-one-thing-at-a-time.md) or [group of tasks](batching-emails-and-text-messages.md). Instead of working from a [to-do list](variants-of-to-do-list.md), you schedule your work on your calendar, assigning each task a start and end time.
 
-![](_attachments/Pasted%20image%2020260319075623.png)
+![](_attachments/5e836e99f71b19e3dd86c530a02dbb9d.png)
 
 # Why Use Time Blocking?
 
