@@ -1,6 +1,6 @@
 ---
 title: Just getting started
-modified: 2026-03-13
+modified: 2026-03-21
 ---
 
 > “Begin anywhere.” — John Cage
@@ -28,6 +28,8 @@ modified: 2026-03-13
 > “Do not merely think that you are going to become great; think that you are great now. Do not think that you will begin to act in a great way at some future time; begin now. Do not think that you will act in a great way when you reach a different environment; act in a great way where you are now. Do not think that you will begin to act in a great way when you begin to deal with great things; begin to deal in a great way with small things.” — Wallace Wattles, [The Science of Being Great](https://www.goodreads.com/work/quotes/1881171)
 
 > “It’s a job that’s never started that takes the longest to finish.” — J.R.R. Tolkien
+
+> “Whatever you can do, or dream you can, begin it. Boldness has genius, power, and magic in it. Begin it now.” — Johann Wolfgang von Goethe
 
 ---
 
