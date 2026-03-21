@@ -1,6 +1,6 @@
 ---
 title: Journey over destination
-modified: 2026-03-13
+modified: 2026-03-20
 ---
 
 > “To travel is to be alive, but to get somewhere is to be dead.” — Alan Watts
@@ -45,7 +45,7 @@ The climb is always better than the view from the summit.
 
 Real, durable satisfaction, happiness and contentment are found in the anticipation of the achievement, not the achievement itself. It’s the quest. It’s the hunt. It’s the process. It’s the journey.
 
-**Those who love the climb will reach higher than those who only love the view from the summit.**
+**Those who love the climb will reach higher than those who only love the view from the summit.** [^1]
 
 ---
 
@@ -73,13 +73,13 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 
 ---
 
-[The wedding is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice.](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice) [^1] The focus and energy we lavish on events can easily distract us from the journeys we care about.
+[The wedding is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice.](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice) [^2] The focus and energy we lavish on events can easily distract us from the journeys we care about.
 
 ---
 
 [@hesseSiddharthaIndischeDichtung2021]
 
-> [“We are not going in circles, we are going upwards. The path is a spiral; we have already climbed many steps.” — Hermann Hesse, Siddhartha](https://www.instagram.com/mounika.studio/p/CmslMjcBEaI/) [^2]
+> [“We are not going in circles, we are going upwards. The path is a spiral; we have already climbed many steps.” — Hermann Hesse, Siddhartha](https://www.instagram.com/mounika.studio/p/CmslMjcBEaI/) [^3]
 
 * Trust the process & Have faith in the process
 
@@ -170,5 +170,6 @@ Paradox: Although it’s being said that “you got to focus on the journey beca
 
 [The Arrival Fallacy](the-arrival-fallacy.md)
 
-[^1]: Similar analogy: Climate v.s Weather
-[^2]: [The Upward Spiral](https://sketchplanations.com/the-upward-spiral)
+[^1]: If you were suddenly dropped on the top of Mount Everest, you’d quickly lose consciousness and die because your body isn’t acclimatized to the altitude. It’s the climb that prepares you for the summit.
+[^2]: Similar analogy: Climate v.s Weather
+[^3]: [The Upward Spiral](https://sketchplanations.com/the-upward-spiral)
