@@ -1,11 +1,11 @@
 ---
 title: Optimism
-modified: 2026-03-13
+modified: 2026-03-21
 ---
 
-> “Turn your face to the sun, as flowers know how to do.” — Ming-Dao Deng
+> “Turn your face to the sun, as flowers know how to do.” — Ming-Dao Deng [^1]
 
-> “A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.” — Winston Churchill [^1]
+> “A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.” — Winston Churchill [^2]
 
 > “It is better to light a single candle than to curse the darkness.” — Eleanor Roosevelt
 
@@ -61,4 +61,5 @@ A positive mind finds a way it can be done; A negative mind looks for all the wa
 
 [Train yourself not to worry](train-yourself-not-to-worry.md)
 
-[^1]: 樂觀的人看見問題背後的機會，悲觀的人看見機會背後的問題。
+[^1]: _“Turn your face to the sun and the shadows fall behind you.” — Mãori Proverb_
+[^2]: 樂觀的人看見問題背後的機會，悲觀的人看見機會背後的問題。
