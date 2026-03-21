@@ -1,6 +1,6 @@
 ---
 title: Kindness
-modified: 2026-03-13
+modified: 2026-03-20
 ---
 
 > “Kindness is a language which the deaf can hear and the blind can see.” — Mark Twain
@@ -43,6 +43,15 @@ Treating people with deference — whether they’re above you (superior), besid
 ---
 
 善的循環
+
+---
+
+# Unexpected forms of generosity
+
+* Being early can be a form of generosity. You wait, so they don’t have to.
+* Leaving something unsaid can be a form of generosity. You don’t always need the last word.
+* Delivering your work on time can be a form of generosity. You make life easier for everyone downstream.
+* Not taking things personally can be a form of generosity. You give people the space to say things imperfectly.
 
 ---
 
