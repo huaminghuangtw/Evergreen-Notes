@@ -1,6 +1,6 @@
 ---
 title: Frameworks to structure your day
-modified: 2026-03-13
+modified: 2026-03-21
 ---
 
 > [Live life by design, not default.](https://fs.blog/david-foster-wallace-this-is-water/) Make each day your masterpiece. How you spend your days is how you spend your life.
@@ -105,9 +105,9 @@ modified: 2026-03-13
 * 3Ds
 	* 3 deep work sessions per day, with 90 mins each
 * [The Daily Blueprint](https://www.hubermanlab.com/daily-blueprint)
-	* Phase 1: Waking and Early Morning (Hours 1–4)
-	* Phase 2: Midday Through Evening (Hours 5–13)
-	* Phase 3: Bedtime and Sleeping (Hours 14–24)
+	* Phase 1: Waking and Early Morning (Hours 1—4)
+	* Phase 2: Midday Through Evening (Hours 5—13)
+	* Phase 3: Bedtime and Sleeping (Hours 14—24)
 
 ---
 
