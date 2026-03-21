@@ -1,6 +1,6 @@
 ---
 title: Trust your gut
-modified: 2026-03-13
+modified: 2026-03-21
 ---
 
 > “Intuition is the whisper of the soul.” — Jidda Krishnamurti
@@ -101,7 +101,7 @@ The most common interpretation of the story is that we should trust in our intui
 
 Learn to listen to your gut — and start trusting it a little more. In the West, we live in a head-driven culture, one that believes every problem can be explained or reasoned through. Yet we forget that <mark>some of our deepest intelligence doesn’t come from thought at all — it comes from the quiet wisdom embedded in the body</mark>.
 
-Spirituality ,[^3] religion, Buddhism — or any path you follow — will eventually teach you that you are more than just your mind. You are more than your habits, more than your preferences. <mark>Modern humans don’t live enough in their bodies, nor in their awareness. We live mostly in our heads — in an endless internal monologue. But that monologue isn’t truly you; it’s programming absorbed from society and shaped by the environment of your early life.</mark> You’re essentially DNA reacting to early environmental influences, recording both good and bad experiences, then using those memories to prejudge everything that follows. Over time, you rely on those patterns to predict and control the future. As you age, the sum of your accumulated preferences grows immense — and these habitual reactions become runaway freight trains that dictate your moods.
+[Spirituality](spirituality.md) ,[^3] religion, Buddhism — or any path you follow — will eventually teach you that you are more than just your mind. You are more than your habits, more than your preferences. <mark>Modern humans don’t live enough in their bodies, nor in their awareness. We live mostly in our heads — in an endless internal monologue. But that monologue isn’t truly you; it’s programming absorbed from society and shaped by the environment of your early life.</mark> You’re essentially DNA reacting to early environmental influences, recording both good and bad experiences, then using those memories to prejudge everything that follows. Over time, you rely on those patterns to predict and control the future. As you age, the sum of your accumulated preferences grows immense — and these habitual reactions become runaway freight trains that dictate your moods.
 
 [^1]: Side Note: [Steve Jobs began each morning by asking himself, “If today were the last day of my life, would I want to do what I am about to do today?” He believed that “Remembering that I’ll be dead soon is the most important tool I’ve ever encountered to help me make the big choices in life.”](death.md)
 [^2]: At that time, Apple held only as little as 4 percent of the computer market.
