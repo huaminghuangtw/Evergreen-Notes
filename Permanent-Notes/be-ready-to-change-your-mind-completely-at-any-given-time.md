@@ -1,6 +1,6 @@
 ---
 title: Be ready to change your mind completely at any given time
-modified: 2026-03-13
+modified: 2026-03-21
 ---
 
 > [“Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won’t come in.” — Alan Alda](https://www.goodreads.com/quotes/667214-your-assumptions-are-your-windows-on-the-world-scrub-them)
@@ -20,6 +20,8 @@ modified: 2026-03-13
 > “We are all born ignorant, but one must work hard to remain stupid.” — Benjamin Franklin [^2] [^3]
 
 > “Today is the oldest you’ve ever been, and the youngest you’ll ever be again.” — Eleanor Roosevelt
+
+> “In a world full of people who seem to know everything, passionately, based on little (often slanted) information, where certainty is often mistaken for power, what a relief it is to be in the company of someone confident enough to stay unsure.” — George Saunders
 
 ---
 
@@ -60,6 +62,10 @@ Nev­er for­get that, no mat­ter how cer­tain, you might be wrong. The only b
 ---
 
 [The Cookie Thief](https://huami.ng/the-cookie-thief)
+
+---
+
+[The Empty Cup Mentality](the-empty-cup-mentality.md)
 
 [^1]: This is called “[Integrative Complexity](https://psychology.iresearchnet.com/social-psychology/decision-making/integrative-complexity/)” in Psychology
 [^2]: To remain “stupid” means refusing to learn, refusing to think, or deliberately avoiding knowledge and growth.
