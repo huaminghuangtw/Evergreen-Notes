@@ -28,7 +28,7 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 
 新鮮 (原型/全/真) 食物 [^4] 最佳、冷凍/加工食品次之、罐頭食品最差
 
-* Whole Food v.s Non-whole Food (→ chemicals → inflammation in the body → harmful to our lives)
+* Whole Food vs Non-whole Food (→ chemicals → inflammation in the body → harmful to our lives)
 	* 植化素
 	* 膳食纖維
 
@@ -90,7 +90,7 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 * Avoid eating (or drinking) your feelings.
 * Stop eating food as drugs. Food is literally just there to fuel your brain and body. Nothing else. Nothing more.
 * Food = Fuel: Eat for energy & vitality, not taste/entertainment.
-* 「為吃而活」vs.「為活而吃」→ 你比較偏向哪種態度呢? 你認為美食在人生當中應該佔據多重要的位置?
+* 「為吃而活」vs「為活而吃」→ 你比較偏向哪種態度呢? 你認為美食在人生當中應該佔據多重要的位置?
 - [ ] If you think you want a snack, drink a glass of water first.
 - [ ] Eat protein with every single meal to increase satiety and build muscle. → 1-1.2g/pound or 2.2g/kg of bodyweight per day.
 - [ ] Mindful eating (慢食) trick: putting down the cutlery between bites. Chew properly, swallow, then have your next bite. → Instead of focusing on what my next bite will be, I focus on the food I’m chewing → Chewing your food gives your body time to signal when you’ve had enough.
