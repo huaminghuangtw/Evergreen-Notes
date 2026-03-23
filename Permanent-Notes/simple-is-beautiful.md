@@ -42,8 +42,8 @@ modified: 2026-03-13
 
 # Nuance
 
-* Easy vs. Hard → Subjective
-* Simple vs. Complex → Objective
+* Easy vs Hard → Subjective
+* Simple vs Complex → Objective
 
 ---
 
