@@ -27,7 +27,7 @@ modified: 2026-03-17
 
 ---
 
-# [“Being In Motion vs. Taking Action” by James Clear](https://jamesclear.com/taking-action)
+# [“Being In Motion vs Taking Action” by James Clear](https://jamesclear.com/taking-action)
 
 > “Never mistake activity for achievement.” — John Wooden
 
