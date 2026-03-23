@@ -133,7 +133,7 @@ Successful people don’t have a career, they have a mission. Most of them are t
 
 ---
 
-[Elder v.s Elderly](elder-vs-elderly.md)
+[Elder vs Elderly](elder-vs-elderly.md)
 
 ---
 
