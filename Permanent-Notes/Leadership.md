@@ -51,7 +51,7 @@ When you find yourself in a situation where everyone looks at each other, it’s
 
 ---
 
-# 幹活/工作 v.s 使命/夢想 の 寓言故事
+# 幹活/工作 vs 使命/夢想 の 寓言故事
 
 * 砌磚工人 ([The Three Bricklayers Story](https://sketchplanations.com/the-three-bricklayers))
 	![](_attachments/5cf0f716caabb0cc924e875773c27193.jpg)
