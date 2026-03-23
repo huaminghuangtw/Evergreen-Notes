@@ -43,7 +43,7 @@ Avoid “[priority ping-pong](task-switching.md)” — stay committed to one ta
 
 ---
 
-# Automatic System v.s Controlled System
+# Automatic System vs Controlled System
 
 In his book Thinking, Fast and Slow, Nobel-prize-winning psychologist and economist Daniel Kahneman details how our brains have two processing mechanisms: _an older, faster, “automatic” system and a newer, rational, “controlled” system. Kahneman refers to these as System 1 (automatic) and System 2 (controlled)_.
 
