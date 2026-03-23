@@ -13,15 +13,15 @@ Root Cause: Having two conflicting internal [desires](the-absence-of-desire-is-t
 
 # Examples
 
-1. Career vs. Passion
+1. Career vs Passion
 	* Desire 1: You want a stable, well-paying job with benefits.
 	* Desire 2: You want to pursue your passion (e.g., music, art, travel) full time.
 	* Result: You feel stuck, unfulfilled at work, and anxious because you’re ignoring what lights you up — but afraid of the instability if you chase your passion.
-2. Authenticity vs. Acceptance
+2. Authenticity vs Acceptance
 	* Desire 1: You want to express your true self, thoughts, and beliefs.
 	* Desire 2: You want to be liked, accepted, and avoid conflict.
 	* Result: You bottle things up, second-guess yourself, and feel like you’re performing — which creates internal stress.
-3. Change vs. Comfort
+3. Change vs Comfort
 	* Desire 1: You want to grow, try something new, or break out of a rut.
 	* Desire 2: You fear uncertainty and prefer to stay in your comfort zone.
 	* Result: You feel stuck, restless, and anxious — wanting something different but afraid to take the leap.
