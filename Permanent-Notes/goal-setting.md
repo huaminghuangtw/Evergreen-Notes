@@ -153,6 +153,6 @@ The key in life is to find the balance, and balance isn’t about perfection. Po
 [Avoid telling people your goals](avoid-telling-people-your-goals.md)
 
 [^1]: _“Dream in a pragmatic way.” — Aldous Huxley_
-[^2]: v.s Stretch Goals
+[^2]: vs Stretch Goals
 [^3]: 由日本企業家「松村寧雄（Matsumura Yasuo）」提出
 [^4]: Or: DJ 混音器 (DJ Mixer)
