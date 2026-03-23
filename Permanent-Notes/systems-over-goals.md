@@ -27,7 +27,7 @@ Systems allow you to [make a decision](decision-making.md) _one time_ instead of
 
 ---
 
-# Systems v.s Goals
+# Systems vs Goals
 
 * Goals are for people who care about winning once. Systems are for people who care about winning over and over again.
 * When you focus on systems, the goal is no longer the _destination_—it’s simply a byproduct of the _[process](journey-over-destination.md)_, allowing you to keep succeeding even after reaching it.
