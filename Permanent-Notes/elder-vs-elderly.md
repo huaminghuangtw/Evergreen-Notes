@@ -1,6 +1,6 @@
 ---
-title: Elder & Elderly
-modified: 2026-03-13
+title: Elder vs Elderly
+modified: 2026-03-23
 ---
 
 # Elder
