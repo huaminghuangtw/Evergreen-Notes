@@ -3,7 +3,7 @@ title: Plant-based Diet
 modified: 2026-03-13
 ---
 
-Carnivore v.s Vegetarian
+Carnivore vs Vegetarian
 
 ---
 
