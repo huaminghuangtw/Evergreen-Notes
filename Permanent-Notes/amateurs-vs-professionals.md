@@ -1,6 +1,6 @@
 ---
-title: Amateurs v.s Professionals
-modified: 2026-02-09
+title: Amateurs vs Professionals
+modified: 2026-03-23
 ---
 
 |                 Amateurs                  |                 Professionals                 |
