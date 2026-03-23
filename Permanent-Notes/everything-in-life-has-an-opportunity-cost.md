@@ -37,7 +37,7 @@ If you choose to use an hour of your life on one thing—you can’t use that ho
 
 ---
 
-# [“List Price v.s Real Price” by Sahil Bloom](https://www.sahilbloom.com/newsletter/the-real-price-of-success)
+# [“List Price vs Real Price” by Sahil Bloom](https://www.sahilbloom.com/newsletter/the-real-price-of-success)
 
 Three factors:
 
