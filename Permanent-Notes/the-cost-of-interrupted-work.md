@@ -52,7 +52,7 @@ by [Sune Carlson](https://en.wikipedia.org/wiki/Sune_Carlson)
 See also:
 
 * Blog posts
-	* [Maker’s Time v.s Manager’s Time](https://sketchplanations.com/manager-time-maker-time)
+	* [Maker’s Time vs Manager’s Time](https://sketchplanations.com/manager-time-maker-time)
 	* [Developer Flow State and Its Impact on Productivity | Stack Overflow Blog](https://stackoverflow.blog/2018/09/10/developer-flow-state-and-its-impact-on-productivity/)
 	* [Context-switching is the main productivity killer for developers](https://newsletter.techworld-with-milan.com/p/context-switching-is-the-main-productivity)
 	* [Programmer Interrupted: The Real Cost of Interruption and Context Switching](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
