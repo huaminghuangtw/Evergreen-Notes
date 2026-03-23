@@ -110,7 +110,7 @@ One day, I thought, someone out there had to be the happiest person in the world
 
 ---
 
-# Internal v.s External Benchmarks
+# Internal vs External Benchmarks
 
 * Visible metrics → e.g., money
 * Hidden metrics → e.g., time with family, [peace of mind](peace-from-mind.md)
