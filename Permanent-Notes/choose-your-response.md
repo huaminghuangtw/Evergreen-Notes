@@ -84,7 +84,7 @@ The real skill in life _isn’t avoiding pain—it’s refusing to shoot yoursel
 
 ---
 
-[Two Wolves: Dark Wolf & Light Wolf](two-wolves-dark-wolf-vs-light-wolf.md)
+[Two Wolves: Dark Wolf & Light Wolf](two-wolves-dark-wolf-and-light-wolf.md)
 
 ---
 
