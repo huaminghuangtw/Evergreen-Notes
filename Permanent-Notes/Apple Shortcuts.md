@@ -20,7 +20,7 @@ Actions
 * \*Get random items from List
 	* Single: “Get Item from List” → Choose “Random Item”
 	* Multiple: “Filter Files” → Choose “Random” in “Sort by” → Enable “Limit” → Select the number of random items you want to get
-* “Is Charging” v.s “Is Connected to Charger” (Get Battery Status)
+* “Is Charging” vs “Is Connected to Charger” (Get Battery Status)
 	* Former: Is the device gaining battery charge?
 	* Latter: Is the device connected to a charger that at least is slowing down the rate the battery drains?
 		* For Optimized Battery Charging: being connected to a charger but not charging
@@ -60,7 +60,7 @@ Actions
 		* `shortcuts://gallery`
 	* Search the Shortcuts Gallery
 		* `shortcuts://gallery/search?query=[query]`
-* _Run Shortcut_ v.s _URL Scheme_
+* _Run Shortcut_ vs _URL Scheme_
 	* Difference
 		* _URL Scheme_ requires to open the Shortcuts app, while _Run Shortcut_ doesn’t.
 	* Command-line version of `shortcuts://run-shortcut` from Terminal ([Run Shortcuts from the command line](https://sixcolors.com/post/2021/12/run-shortcuts-from-the-mac-command-line/)) [^1]
