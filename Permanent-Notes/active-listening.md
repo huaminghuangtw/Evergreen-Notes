@@ -37,7 +37,7 @@ Share with someone who wants to listen or listen to someone who wants to share.
 
 ---
 
-| “Me vs. You” Positioning | “Us vs. Problem” Positioning |
+| “Me vs You” Positioning | “Us vs Problem” Positioning |
 | :----------------------: | :--------------------------: |
 |     Confrontational      |        Collaborative         |
 |     Waiting to speak     |   Listening to understand    |
