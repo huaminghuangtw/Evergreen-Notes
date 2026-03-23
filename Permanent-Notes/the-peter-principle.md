@@ -22,5 +22,5 @@ Organizations may end up with leaders who are not effective in their roles.
 # Countermeasures
 
 * Provide training, mentorship, and support for newly promoted employees.
-* Use lateral promotions or dual career ladders (e.g., technical vs. managerial tracks).
+* Use lateral promotions or dual career ladders (e.g., technical vs managerial tracks).
 * Regularly review fit, not just performance or tenure.
