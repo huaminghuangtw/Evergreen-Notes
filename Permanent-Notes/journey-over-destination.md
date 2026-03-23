@@ -86,7 +86,7 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 	> You were brought into the world to do the work your soul has long prepared for — trust that every step is part of that unfolding.
 
 * Every step happens for a reason, and something even better is on the way.
-* Perceived Progress v.s Actual Progress
+* Perceived Progress vs Actual Progress
 	* _At first, progress is slow_—so subtle it’s almost invisible. _Then, all at once_, everything changes.
 		* Nothing happens—then everything does.
 		* Slow. Steady. Sudden.
@@ -171,5 +171,5 @@ Paradox: Although it’s being said that “you got to focus on the journey beca
 [The Arrival Fallacy](the-arrival-fallacy.md)
 
 [^1]: If you were suddenly dropped on the top of Mount Everest, you’d quickly lose consciousness and die because your body isn’t acclimatized to the altitude. It’s the climb that prepares you for the summit.
-[^2]: Similar analogy: Climate v.s Weather
+[^2]: Similar analogy: Climate vs Weather
 [^3]: [The Upward Spiral](https://sketchplanations.com/the-upward-spiral)
