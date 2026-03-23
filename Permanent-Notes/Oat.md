@@ -18,4 +18,4 @@ modified: 2026-03-13
 
 | ![](_attachments/a5118a788a3fae38c1eb98c76a1bc0ec.jpeg) |
 | :-: |
-| <sub>kernig 硬的 v.s zart 軟的</sub> |
+| <sub>kernig 硬的 vs zart 軟的</sub> |
