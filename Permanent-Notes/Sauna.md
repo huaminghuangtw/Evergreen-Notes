@@ -35,7 +35,7 @@ modified: 2026-03-13
 	* Eat after one hour
 * Why no clothes? (only “towel” or “robe”)
 	* A swimsuit get in the way of your body/skin properly sweating out impurities. Textiles can bring in bacteria that will grow in hot sauna.
-* Russian Banya (wet-steam) v.s Traditional Steam (dry-steam)
+* Russian Banya (wet-steam) vs Traditional Steam (dry-steam)
 	* Parenie Treatment
 * 德文單字
 	* Dampfbad = Rasulbad
