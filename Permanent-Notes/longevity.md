@@ -7,7 +7,7 @@ modified: 2026-03-13
 
 ---
 
-# 「延長壽命」v.s「延長生命力」
+# 「延長壽命」vs「延長生命力」
 
 * 重點不是能夠活到幾歲，而是能夠「健康地」活到幾歲。
 * Prioritize enhancing _healthspan_, not just extending _lifespan_.
