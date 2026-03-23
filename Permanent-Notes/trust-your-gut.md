@@ -49,7 +49,7 @@ If it doesn’t feel right, it’s not right.
 
 ---
 
-# Hunch v.s Intuition
+# Hunch vs Intuition
 
 A **hunch** can be seen as a quick, focused form of intuition, while **intuition** encompasses a more general sense of understanding or knowing.
 
