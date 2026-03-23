@@ -13,7 +13,7 @@ From his “[Thoughts for the Weekend](https://web.stanford.edu/~ouster/cgi-bin/
 | :-: |
 | <sub>[Source](https://sketchplanations.com/a-little-bit-of-slope-makes-up-for-a-lot-of-y-intercept)</sub> |
 
-Full script: _[slope v.s starting](https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185)_
+Full script: _[slope vs starting](https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185)_
 
 ---
 
