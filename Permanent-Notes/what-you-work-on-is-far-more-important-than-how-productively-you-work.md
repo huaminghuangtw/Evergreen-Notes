@@ -37,7 +37,7 @@ modified: 2026-03-13
 
 ---
 
-# Efficiency v.s. Efficacy / Being Efficient vs. Being Effective
+# Efficiency vs. Efficacy / Being Efficient vs Being Effective
 
 > “The difference between efficiency and effectiveness is the difference between knowledge and wisdom.” — Dr. Russell L. Ackoff [^2]
 
