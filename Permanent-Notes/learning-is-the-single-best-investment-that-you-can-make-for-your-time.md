@@ -1,6 +1,6 @@
 ---
 title: Learning is the single best investment that you can make for your time
-modified: 2026-03-13
+modified: 2026-03-23
 ---
 
 > “Learning never exhausts the mind.” — Leonardo da Vinci
@@ -45,6 +45,10 @@ _[Ultralearning](https://www.scotthyoung.com/blog/ultralearning/)_ by Scott Youn
 1. Reflect on what you have already tried.
 2. Attempt something you have not tried.
 3. Read about what someone else has tried.
+
+---
+
+[Insight Learning vs Latent Learning](insight-learning-vs-latent-learning.md)
 
 ---
 
