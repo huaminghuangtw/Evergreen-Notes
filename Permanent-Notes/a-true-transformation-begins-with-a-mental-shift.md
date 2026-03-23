@@ -107,7 +107,7 @@ A change in worldview will change the world viewed.
 
 我的身體被自己的影子綁架了，完全動彈不得。
 
-## 浪漫的口水 v.s 噁心的口水
+## 浪漫的口水 vs 噁心的口水
 
 1. 戀人，口水是心跳在舌尖跳舞；
 2. 陌生人，口水是細菌在嘴裡開趴。
