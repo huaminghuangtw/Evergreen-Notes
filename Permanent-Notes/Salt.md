@@ -3,7 +3,7 @@ title: Salt
 modified: 2026-03-22
 ---
 
-# Table Salt v.s Sea Salt
+# Table Salt vs Sea Salt
 
 **Table Salt 食鹽；精製鹽**: Highly refined, mostly sodium chloride, often contains added iodine (to prevent iodine deficiency) and anti-caking agents. Fine texture, dissolves quickly.
 
