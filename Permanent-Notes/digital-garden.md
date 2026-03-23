@@ -23,14 +23,14 @@ modified: 2026-03-13
 		* linked through contextual associations (bi-directional linking) to connect notes together. (_while a blog may usually be explored in chronological order_)
 	* not refined or completed yet → always disorganized, rough drafts, WIP (work-in-progress) & is evergreen—digital gardeners keep on editing and updating their notes → can be published as raw, unpolished, incomplete, half-finished/baked/formed thoughts that will incrementally grow, evolve, and build up over time (_while posts/articles/essays in a blog have a strict publication date and quickly start decaying/become outdated as soon as they are published since the author will learn new things_)
 		* less rigid, less performative, and less perfect
-* [The Stream v.s The Garden](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
+* [The Stream vs The Garden](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
 	* The “web as topology” or the “web as space”: Every walk through the garden creates new paths, new meanings, and when we add things to the garden we add them in a way that allows many future, unpredicted relationships
 	* We create the garden as a sort of experience generator—so that the visitors can have unique yet coherent experiences as they find their own paths through the garden.
 	* In the Stream metaphor: You jump in and let it flow past. You feel the force of it hit you as things float by.
 	* In the garden: You walk through, look around it, and follow it to its end.
 	* The Stream replaces topology with serialization—rather than imagine a timeless world of connection and multiple paths, the Stream presents us with a single, time ordered path with our experience (and only our experience) at the center.
 * [Streams (Twitter), Campfires (Blog), and Gardens (Personal Wiki)](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)
-* Write to share&learn v.s Write to teach
+* Write to share&learn vs Write to teach
 	* _“_[_I blog to share and learn. rarely teach. I think the imposed pressure on the latter keeps a lot of blog posts from great people hidden._](https://quip.com/jgBUALiGBjwp)_”_
 * [Long Content](https://gwern.net/about#long-content)
 * “[With blogging, you’re talking to a large audience. With digital gardening, you’re talking to yourself—you focus on what you want to cultivate over time.](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)”
