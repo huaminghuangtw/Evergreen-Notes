@@ -34,7 +34,7 @@ modified: 2026-03-13
 * Drink your calories while training.
 * Don’t drink your calories when not training.
 
-# 6. Macronutrients vs. Micronutrients
+# 6. Macronutrients vs Micronutrients
 
 * Macronutrients drive performance.
 * Micronutrients ensure efficiency.
