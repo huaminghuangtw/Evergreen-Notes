@@ -1,6 +1,6 @@
 ---
-title: Duality & Polarity
-modified: 2026-03-13
+title: Duality vs Polarity
+modified: 2026-03-23
 ---
 
 # Duality (二重性)
@@ -22,7 +22,7 @@ modified: 2026-03-13
 	* Positive and negative charges in electricity
 	* North and south poles of a magnet
 	* Extreme emotions like love and hate
-	* Political or social divides (e.g., liberal vs. conservative)
+	* Political or social divides (e.g., liberal vs conservative)
 	* Hot versus cold
 
 Duality often incorporates polarity by recognizing that opposites are interconnected and necessary for balance. For example, light cannot be understood without darkness (duality), yet brightness and dimness exist on a spectrum (polarity).
