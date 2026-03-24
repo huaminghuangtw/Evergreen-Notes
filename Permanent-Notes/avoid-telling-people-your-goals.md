@@ -1,6 +1,6 @@
 ---
 title: Avoid telling people your goals
-modified: 2026-03-13
+modified: 2026-03-24
 ---
 
 > “If you start by promising what you don’t even have yet, you’ll lose your desire to work towards getting it.” — Paulo Coelho
@@ -39,7 +39,7 @@ Telling someone who doubts you can activate your desire to prove them wrong—th
 
 ---
 
-[It is generally not a good idea to announce that you are working on a well-known problem before you have a feasible plan for solving it, as this can make it harder to gracefully abandon the problem and refocus your attention in more productive directions in the event that the problem is more difficult than anticipated. […] This is also important in grant proposals; saying things like “I would like to solve \<Famous Problem X\>” or “I want to develop or use \<Famous Theory Y\>” does not impress grant reviewers unless there is a coherent plan (e.g. some easier unsolved problems to use as milestones) as well as a proven track record of progress.](https://terrytao.wordpress.com/career-advice/be-flexible/)
+[It is generally not a good idea to announce that you are working on a well-known problem before you have a feasible plan for solving it, as this can make it harder to gracefully abandon the problem and refocus your attention in more productive directions in the event that the problem is more difficult than anticipated. […] This is also important in grant proposals; saying things like “I would like to solve [Famous Problem X]” or “I want to develop or use [Famous Theory Y]” does not impress grant reviewers unless there is a coherent plan (e.g. some easier unsolved problems to use as milestones) as well as a proven track record of progress.](https://terrytao.wordpress.com/career-advice/be-flexible/)
 
 ---
 
