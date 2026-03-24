@@ -76,8 +76,8 @@ Inspiration is perishable. Act IMMEDIATELY at the moment of inspiration. Follow 
 
 	* Human behavior is driven by the _pursuit of pleasure_ and the _avoidance of pain_.
 	* To get yourself to do something while procrastinating, you need to either:
-		1. Make the pain of inaction \> Pain of action
-		2. Make the pleasure of action \> Pleasure of inaction
+		1. Make the pain of inaction  Pain of action
+		2. Make the pleasure of action  Pleasure of inaction
 	* The person with a gun to their head or crack cocaine at the finish line doesn’t need motivation.
 * [The “(10+2) × 5” Method](https://www.reddit.com/r/productivity/s/LGYDi5SCQM)
 	1. Set a timer for 10 minutes. For those 10 minutes, give your task your full, undivided attention. Seriously—it’s just 10 minutes. No “quick research,” no doom-scrolling, no distractions. Just pure focus.
