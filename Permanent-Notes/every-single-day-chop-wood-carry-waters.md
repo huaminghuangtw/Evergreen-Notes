@@ -47,7 +47,7 @@ Persistence can change failure into extraordinary achievement.
 
 ---
 
-專心致志 \>\>\> 聰明才智
+專心致志  聰明才智
 
 ---
 
@@ -120,7 +120,7 @@ The practice solidifies.
 
 * Don’t aim to be consistently great; aim to be great at being _consistent_.
 * Mastery follows consistent/constant work.
-* **Consistency \> Intensity:** Intensity makes a good story. Consistency makes progress.
+* **Consistency  Intensity:** Intensity makes a good story. Consistency makes progress.
 
 ---
 
