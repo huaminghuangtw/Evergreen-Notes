@@ -69,7 +69,7 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 			* Squeeze a lemon over frozen veggies after heating them. The vitamin C in lemon juice can help…
 				1. replenish any lost vitamin C during blanching
 				2. make veggies brighter and fresher tasting
-			* Frozen Fruits \> Ice + Fresh Fruits
+			* Frozen Fruits  Ice + Fresh Fruits
 			* [Placing heavier, frozen items on top of lighter ingredients helps weigh them down and gets the blend moving faster. This can also help prevent the blend from stalling.](https://www.vitamix.com/us/en_us/learn)
 * Paleo(lithic)/Caveman/Stone Age Diet
 
