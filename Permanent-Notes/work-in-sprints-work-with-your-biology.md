@@ -13,7 +13,7 @@ Humans are not machines.
 
 ---
 
-[能量/精力管理](energy-management.md) \> [時間管理](time-management.md)
+[能量/精力管理](energy-management.md)  [時間管理](time-management.md)
 
 Why?
 
