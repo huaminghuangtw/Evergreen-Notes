@@ -1,6 +1,6 @@
 ---
 title: Apple Shortcuts
-modified: 2026-03-13
+modified: 2026-03-24
 ---
 
 [比較]
@@ -117,7 +117,7 @@ What do iCloud Shortcut share links actually link to?
 
 * It’s a link to a point-in-time snapshot at the time you shared it. Any further changes you make will not be reflected in that link.
 * It’s permanent, so make a copy and remove the personal information before sharing.
-* It presumably gets uploaded to the generic iCloud server that doesn’t belong to anyone’s account, along with some metadata. Although it’s still tied to your account (and that’s why you’re able to stop sharing at any time), no one sees the account info from the shortcut. You can check the metadata by inserting `/api/records/` to the iCloud URL → Change the url part from “icloud.com/shortcuts/\<identifier\>” to “icloud.com/shortcuts/api/records/\<identifier\>”, then you could access a dictionary including a download url.
+* It presumably gets uploaded to the generic iCloud server that doesn’t belong to anyone’s account, along with some metadata. Although it’s still tied to your account (and that’s why you’re able to stop sharing at any time), no one sees the account info from the shortcut. You can check the metadata by inserting `/api/records/` to the iCloud URL → Change the url part from `icloud.com/shortcuts/<identifier>` to `icloud.com/shortcuts/api/records/<identifier>`, then you could access a dictionary including a download url.
 
 ---
 
