@@ -1,11 +1,11 @@
 ---
 title: Push your limits
-modified: 2026-03-20
+modified: 2026-03-25
 ---
 
 > “Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot
 
-> “Argue for your limitations and, sure enough, they’re yours.” — Richard Bach
+> “Argue for your limitations, and surely they’re yours.” — Richard Bach
 
 > “It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” — Mark Twain
 
