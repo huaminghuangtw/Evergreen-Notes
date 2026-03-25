@@ -1,6 +1,6 @@
 ---
 title: Live in the present
-modified: 2026-03-13
+modified: 2026-03-25
 ---
 
 > “Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why we call it the present” — Eleanor Roosevelt
@@ -54,6 +54,10 @@ Here & Now
 ---
 
 珍惜現在，活在當下：「除了此時此刻，我們一無所有。」
+
+---
+
+Tomorrow doesn’t exist. Life is just a bunch of todays.
 
 ---
 
