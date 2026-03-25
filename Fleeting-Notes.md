@@ -1,5 +1,5 @@
 ---
-modified: 2026-03-20
+modified: 2026-03-25
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -49,7 +49,7 @@ Good luck to anyone trying to compete with you.
 
 [Never try to compete against someone who is obsessed (like Kobe Bryant)](https://youtu.be/tqiMvVIwu1g)
 
-樂在其中/走火入魔的人  認真勤奮努力的人
+樂在其中/走火入魔的人 認真勤奮努力的人
 
 Bring Joy = Ultimate Competitive Advantage.
 
