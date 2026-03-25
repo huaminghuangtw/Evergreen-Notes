@@ -1,6 +1,6 @@
 ---
 title: Why we exist?
-modified: 2026-03-13
+modified: 2026-03-25
 ---
 
 > [“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)
@@ -110,6 +110,10 @@ Albert Camus argues that seeking a singular meaning of life can hinder truly liv
 > “The best way to overcome the fear of death — so at least it seems to me — is to make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life.” — Bertrand Russell
 
 * ⭐️ Not to find the meaning of life, but to use your life to create things that are meaningful.
+* Meaning is made. The ingredients are all around you, but they’re just that—so stop waiting and choose meaning.
+
+	> “Meaning is not something you stumble across, like the answer to a riddle or the prize in a treasure hunt. Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you, out of your own talent and understanding, out of the things you believe in, out of the things and people you love, out of the values for which you are willing to sacrifice something. The ingredients are there. You are the only one who can put them together into that unique pattern that will be your life. Let it be a life that has dignity and meaning for you. If it does, then the particular balance of success or failure is of less account.” — John W. Gardner, [Personal Renewal](https://www.pbs.org/johngardner/sections/writings_speech_1.html)
+
 * Find something much bigger and more important than you are, and dedicate your life to it. [^1]
 * Fulfillment is found through connection to something greater than the self.
 * The 3 Big Questions
