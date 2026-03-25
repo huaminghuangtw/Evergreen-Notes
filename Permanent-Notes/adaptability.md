@@ -1,6 +1,6 @@
 ---
 title: Adaptability
-modified: 2026-03-17
+modified: 2026-03-25
 ---
 
 > “It is not the strongest of the species that survives, nor the most intelligent. It is the one most adaptable to change; but the species that survives is the one that is able best to adapt and adjust to the changing environment in which it finds itself.” — Charles Darwin [^1]
@@ -11,7 +11,7 @@ modified: 2026-03-17
 
 > “The only thing predictable about life is its unpredictability.” — Remi Ratatouille
 
-> “The measure of intelligence is the ability to change.” — Albert Einstein
+> [“The measure of intelligence is the ability to change.” — Albert Einstein](http://goodreads.com/quotes/85475-the-measure-of-intelligence-is-the-ability-to-change)
 
 > [“Consistency is about being adaptable. Adaptability is the way of consistency.” — James Clear](https://jamesclear.com/quotes/in-theory-consistency-is-about-being-disciplined-determined-and-unwavering) [^2]
 
@@ -24,6 +24,8 @@ modified: 2026-03-17
 > “Until you change how you get things done, you’ll never know what works best.” — Roy T. Bennett
 
 > 「易窮則變，變則通，通則久。」— 《易經．繫辭下》[^3]
+
+> “The art of life is a constant readjustment to our surroundings.” — Kakuzo Okakura
 
 ---
 
