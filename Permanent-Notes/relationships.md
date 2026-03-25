@@ -1,6 +1,6 @@
 ---
 title: Relationships
-modified: 2026-03-13
+modified: 2026-03-25
 ---
 
 > “The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin
@@ -235,7 +235,8 @@ Judge a man by his questions rather than his answers.
 # [The Law of Inverse Charisma](https://www.youtube.com/shorts/09fb3jToKmM)
 
 * by Chris Williamson
-* True charisma is the ability to make others find themselves charismatic
+* True charisma is the ability to make others find themselves charismatic.
+* Charisma is much less about you than how you make others feel about themselves.
 
 ---
 
