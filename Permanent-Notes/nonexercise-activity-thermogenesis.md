@@ -1,6 +1,6 @@
 ---
 title: Non-Exercise Activity Thermogenesis
-modified: 2026-03-13
+modified: 2026-03-25
 ---
 
 NEAT is any exercise that isn’t a planned workout or cardio session.
