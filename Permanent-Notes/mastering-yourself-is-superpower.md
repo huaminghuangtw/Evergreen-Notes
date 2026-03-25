@@ -1,6 +1,6 @@
 ---
 title: Mastering yourself is superpower
-modified: 2026-03-13
+modified: 2026-03-25
 ---
 
 > “Knowing yourself is the beginning of all wisdom.” — Aristotle
@@ -96,9 +96,10 @@ modified: 2026-03-13
 			* _“Why did it come up?”_
 			* _“What is the consequence if I remain in this state?”_
 	4. Non-Identification (無我)
-		* Practice “_I’m not the body, I’m not the mind, I’m not my emotion, I can just see all these 3 aspects about me._” [^4]
+		* Practice “_I’m not the body, I’m not the mind, I’m not my emotion, I can just see all these 3 aspects about me._” [^4] [^5]
 
 [^1]: _“Instead of shaming your emotions, try to understand what they are telling you.” — Lindsay C. Gibson_
 [^2]: _“We lie the loudest when we lie to ourselves.” — Eric Hoffer_
 [^3]: = The discovery of oneself
 [^4]: 我只是一名自己 の 觀察員
+[^5]: Your physical body is just a heap of food you have eaten over time. Your mind is just a heap of impressions you have gathered from the outside. Everything is temporary.
