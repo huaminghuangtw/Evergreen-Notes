@@ -1,6 +1,6 @@
 ---
 title: Kindness
-modified: 2026-03-20
+modified: 2026-03-25
 ---
 
 > “Kindness is a language which the deaf can hear and the blind can see.” — Mark Twain
@@ -9,8 +9,10 @@ modified: 2026-03-20
 
 > [“Kindness is universal. Sometimes being kind allows others to see the goodness in humanity through you. Always be kinder than necessary.” — Germany Kent](https://www.goodreads.com/quotes/8455116-kindness-is-universal-sometimes-being-kind-allows-others-to-see)
 
+> “Kindness begins with the understanding that we all struggle.” — Charles Glassman
+
 > “Treat everyone with politeness and kindness, not because they are nice, but because you are.” — Roy T. Bennett, The Light in the Heart
->
+
 > “Each planet has its own orbit agenda. Think of people close to you as planets. Sometimes it’s nice to just watch them orbit and shine.” — Yoko Ono
 
 > “It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.” — Steve Maraboli
@@ -25,6 +27,10 @@ Sometimes the greatest act of kindness is…
 
 * to pretend you haven’t already heard that story before.
 * to not tell people that they have a sunburn, bug bite, or zit.
+
+---
+
+There is no small act of kindness. Every act of kindness creates a ripple with no logical end. Every compassionate act makes large the world.
 
 ---
 
@@ -52,6 +58,10 @@ Treating people with deference — whether they’re above you (superior), besid
 * Leaving something unsaid can be a form of generosity. You don’t always need the last word.
 * Delivering your work on time can be a form of generosity. You make life easier for everyone downstream.
 * Not taking things personally can be a form of generosity. You give people the space to say things imperfectly.
+
+---
+
+Courtesy and kindness cost nothing, except for the time it takes to shift your attention away from yourself.
 
 ---
 
