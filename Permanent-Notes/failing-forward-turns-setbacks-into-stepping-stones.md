@@ -1,6 +1,6 @@
 ---
 title: Failing forward turns setbacks into stepping stones
-modified: 2026-03-13
+modified: 2026-03-27
 ---
 
 > “Opportunity often comes disguised in the form of misfortune or temporary defeat.” — Napoleon Hill
