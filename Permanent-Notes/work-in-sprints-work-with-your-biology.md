@@ -1,6 +1,6 @@
 ---
 title: Work in sprints, work with your biology
-modified: 2026-03-13
+modified: 2026-03-28
 ---
 
 > “If you want to operate at maximum [productivity](Productivity.md), efficiency, and creativity, you’re going to work on things that you’re excited about at the moment you’re excited about them and accept nothing less. It is better to [sit on your butt and do nothing](boredom-promotes-creativity.md) than it is to work on things that you are not excited about.” — Naval Ravikant [^1] [^2]
@@ -13,7 +13,7 @@ Humans are not machines.
 
 ---
 
-[能量/精力管理](energy-management.md)  [時間管理](time-management.md)
+[能量/精力管理](energy-management.md) [時間管理](time-management.md)
 
 Why?
 
@@ -29,7 +29,7 @@ Why?
 	* Ultradian = “many times a day”
 	* Circadian = “about a day” [^4]
 * is a biological fact that our alertness naturally rises and falls in 90‑minute cycles
-	* Aim for 1–3 × 90-minute intervals per day.
+	* Aim for 1—3 × 90-minute intervals per day.
 		* 4 × 90-minute blocks of focused work per day, while possible, is highly unusual.
 		* Go to a deliberate [defocus](the-most-productive-people-prioritize-intentional-rest.md) for 10-30 minutes after each of 90-minute [deep work](deep-work.md) bout.
 	* [Ultra Focus Odyssey = UFO](https://shosho.tw/blog/super-productivity-system-2024)
@@ -49,10 +49,10 @@ Why?
 
 # Match energy level with tasks
 
-* Phase 1 (0–8 hours after waking up) - **Focused Mode**
+* Phase 1 (0—8 hours after waking up) - **Focused Mode**
 	* optimal for analytic “hard” thinking and [any work that you find particularly challenging](eat-the-biggest-frog-first-thing-in-the-morning.md)
 	* 戰鬥時間 → 登峰造極時刻 ([Deep Work](deep-work.md))
-* Phase 2 (9–16 hours after waking up) - **Diffused Mode**
+* Phase 2 (9—16 hours after waking up) - **Diffused Mode**
 	* optimal for brainstorming and creative work
 	* 戰略時間
 
@@ -94,7 +94,7 @@ Work like a lion. [^5] [^6] [^7] Eat like a snake. Sleep like a baby.
 
 A productivity study conducted by the [Draugiem Group](https://draugiemgroup.com/) using the [DeskTime](https://desktime.com/) time-tracking app suggests that, the optimal work-to-break ratio is **52 minutes of sprinting followed by 17 minutes of utter [relaxation/recuperation](the-most-productive-people-prioritize-intentional-rest.md)**.
 
-According to the research, “_The secret to retaining the highest level of productivity over the span of a workday is not working longer–but working smarter with frequent breaks._” The most productive 10 percent of employees “_make the most of those 52 minutes by working with intense purpose, but then rest up to be ready for the next burst. In other words, they work with purpose. Working with purpose can also be called the ‘100 percent dedication’ theory–the notion that whatever you do, you do it full-on._” [^8] [^9]
+According to the research, “_The secret to retaining the highest level of productivity over the span of a workday is not working longer—but working smarter with frequent breaks._” The most productive 10 percent of employees “_make the most of those 52 minutes by working with intense purpose, but then rest up to be ready for the next burst. In other words, they work with purpose. Working with purpose can also be called the ‘100 percent dedication’ theory—the notion that whatever you do, you do it full-on._” [^8] [^9]
 
 ---
 
