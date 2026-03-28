@@ -1,6 +1,6 @@
 ---
 title: Mixing the Pareto Principle and the Parkinson’S Law
-modified: 2026-03-13
+modified: 2026-03-28
 ---
 
 Time Ferriss’s two-step synergistic approach:
@@ -11,7 +11,7 @@ Time Ferriss’s two-step synergistic approach:
 	* Automate what you can’t eliminate: Delegate or outsource routine, low-return activities to free up your attention for high-impact work.
 2. **Use [Parkinson’s Law](the-parkinsons-law.md) to shorten your work time.** Parkinson’s Law states that work expands to fill the time allotted for its completion. Ferriss exploits this phenomenon by setting tight, strict deadlines for the vital tasks identified in step one. This forces intense focus and prevents you from overcomplicating or [procrastinating](procrastination.md) on important work. For example, a task that might take a week can be completed in a single day under a short, clear deadline.
 
-The combination of these two principles yields a powerful feedback loop for productivity:
+The combination of these two principles yields a powerful [feedback loop](feedback-loop.md) for productivity:
 
 * Limiting tasks to the important (using the 80/20 rule) shortens your work time.
 * Shortening your work time (using Parkinson’s Law) forces you to focus only on important tasks.
