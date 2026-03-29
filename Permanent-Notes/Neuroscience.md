@@ -1,13 +1,13 @@
 ---
 title: Neuroscience
-modified: 2026-03-13
+modified: 2026-03-29
 ---
 
 The brain is a monkey brain with a supercomputer on top.
 
 ---
 
-* 前額葉皮 (Prefrontal Cortex, PFC) is critical for contextual processing
+* 前額葉皮質 (Prefrontal Cortex, PFC) is critical for contextual processing
 * 神經可塑性（[Neuroplasticity](neuroplasticity.md)）
 * 神經再生性（Neurogenesis）
 * Neurocircuit
