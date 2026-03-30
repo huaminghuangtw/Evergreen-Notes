@@ -1,6 +1,6 @@
 ---
 title: Journey over destination
-modified: 2026-03-20
+modified: 2026-03-30
 ---
 
 > “To travel is to be alive, but to get somewhere is to be dead.” — Alan Watts
@@ -87,6 +87,9 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 
 * Every step happens for a reason, and something even better is on the way.
 * Perceived Progress vs Actual Progress
+
+	> “All really great things are happening in slow and ways.” — Leo Tolstoy
+
 	* _At first, progress is slow_—so subtle it’s almost invisible. _Then, all at once_, everything changes.
 		* Nothing happens—then everything does.
 		* Slow. Steady. Sudden.
