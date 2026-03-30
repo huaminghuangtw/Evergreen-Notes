@@ -1,6 +1,6 @@
 ---
 title: Kindness
-modified: 2026-03-25
+modified: 2026-03-30
 ---
 
 > “Kindness is a language which the deaf can hear and the blind can see.” — Mark Twain
@@ -20,6 +20,10 @@ modified: 2026-03-25
 > “Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.” — Ming-Dao Deng
 
 > “The smallest act of kindness is worth more than the greatest intention.” — Khalil Gibran
+
+---
+
+It’s always nice to be nice.
 
 ---
 
