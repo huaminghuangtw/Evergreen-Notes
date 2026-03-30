@@ -115,7 +115,7 @@ When we embrace _|voluntary struggles_, we’re better equipped/prepared for the
 * [Short-term pain](pain-is-inevitable-suffering-is-optional.md) typically creates compounding [long-term gain](delayed-gratification.md).
 * [Short-term cost pays long-term dividend.](everything-in-life-has-an-opportunity-cost.md)
 * Every gain in life comes from [compound interests](the-compounding-effect.md). Almost all mistakes in life come from short-term thinking. The things that _feel good to us_ in the short-term are rarely the things that _are good for us_ in the long-term.
-* [先苦後甘 > 先甘後苦](do-hard-things.md)
+* [先苦後甘 > 先甘後苦](../../..//Evergreen-Notes/Permanent-Notes/do-hard-things.md)
 	* Hard now, easy later.
 	* Always choose _harder right_ over _easier wrong_.
 
