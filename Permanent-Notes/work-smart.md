@@ -11,7 +11,7 @@ modified: 2026-03-13
 
 _“The Lizard had the tree in mind when challenging the Dog to a fight.”_
 
-> “You have to [work hard](https://jamesclear.com/3-2-1/december-26-2024) to discover how to [work smart](work-smart.md). You won’t know the best solutions until you’ve made nearly all the mistakes.” — James Clear [^1]
+> “You have to [work hard](https://jamesclear.com/3-2-1/december-26-2024) to discover how to [work smart](../../..//Evergreen-Notes/Permanent-Notes/work-smart.md). You won’t know the best solutions until you’ve made nearly all the mistakes.” — James Clear [^1]
 
 Often, strategy outweighs sheer effort.
 
