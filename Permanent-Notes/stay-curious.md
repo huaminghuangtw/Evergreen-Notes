@@ -1,6 +1,6 @@
 ---
 title: Stay curious
-modified: 2026-03-13
+modified: 2026-03-31
 ---
 
 > “The cure for boredom is curiosity. There is no cure for curiosity.” — Dorothy Parker
@@ -26,6 +26,10 @@ modified: 2026-03-13
 > “Empty your cup so that it may be filled; become devoid to gain totality.” — Bruce Lee
 
 > “When you’re curious, you find lots of interesting things to do.” — Walt Disney
+
+---
+
+= inquisitive
 
 ---
 
