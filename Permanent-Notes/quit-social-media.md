@@ -1,6 +1,6 @@
 ---
 title: Quit social media
-modified: 2026-03-13
+modified: 2026-03-31
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -24,6 +24,10 @@ modified: 2026-03-13
 ---
 
 [A life without Instagram](https://mariandrew.substack.com/p/a-life-without-instagram)
+
+---
+
+[為什麼我不用社群媒體了？](https://wiwi.blog/blog/why-i-dont-use-social-media)
 
 ---
 
