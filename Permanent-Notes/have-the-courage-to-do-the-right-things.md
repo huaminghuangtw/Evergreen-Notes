@@ -47,7 +47,7 @@ Even if we can’t fix everything, we should always speak up and tell others whe
 
 ---
 
-[The Drowning Child in the Pond](https://huami.ng/2026/2/6/enoughness-17/#3)
+[The Drowning Child in the Pond](https://huam.ing/2026/2/6/enoughness-17/#3)
 
 ---
 
