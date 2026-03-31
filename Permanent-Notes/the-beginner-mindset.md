@@ -1,6 +1,6 @@
 ---
 title: The Beginner Mindset
-modified: 2026-03-21
+modified: 2026-03-31
 ---
 
 > “It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” — Mark Twain
@@ -32,6 +32,10 @@ Admitting that you don’t have all the answers. Normalize the awkwardness of sa
 * “I don’t have enough information to have an opinion on that.”
 
 It’s perfectly reasonable.
+
+---
+
+Some evidence [suggests](https://dx.doi.org/10.2139/ssrn.1308286) that this dramatic **decrease in [curiosity](stay-curious.md)** could be caused by our **increase in knowledge** as we grow up.
 
 ---
 
