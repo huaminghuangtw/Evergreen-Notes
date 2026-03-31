@@ -1,6 +1,6 @@
 ---
 title: Cultivate a strong bias towards action
-modified: 2026-03-13
+modified: 2026-03-31
 ---
 
 > “To be is to do.” — Immanuel Kant
@@ -116,7 +116,7 @@ Remember: [The world is run by people no smarter than you.](https://www.swyx.io/
 
 > “All know the way; few actually walk it.” — Bodhidharma
 
-大部分的人在「知道」和「做到」之間有很大的鴻溝（知易行難）
+知易行難 ➞ 知行合一：大部分的人在「知道」和「做到」之間有很大的鴻溝
 
 [Life is a game of awareness and action: Awareness to understand something’s importance and action to execute on that importance.](https://www.sahilbloom.com/newsletter/11-uncommon-lessons-from-uncommon-minds)
 
