@@ -1,6 +1,6 @@
 ---
 title: Journey over destination
-modified: 2026-03-30
+modified: 2026-03-31
 ---
 
 > “To travel is to be alive, but to get somewhere is to be dead.” — Alan Watts
@@ -26,6 +26,10 @@ modified: 2026-03-30
 ---
 
 人生極致的悲劇是一切皆目標，人生極致的幸福是一切皆過程。
+
+---
+
+The process is everything. The outcome is nothing.
 
 ---
 
