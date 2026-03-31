@@ -1,6 +1,6 @@
 ---
 title: The Story of the Cracked Pot
-modified: 2026-03-13
+modified: 2026-03-30
 ---
 
 > There was an old man who lived in a village in India. Every morning, he would place a long stick across his back, hang a water pot from each end, and walk several miles to the river to get fresh water for his family.
