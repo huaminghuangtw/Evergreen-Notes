@@ -1,6 +1,6 @@
 ---
 title: Be a habit and routine machine
-modified: 2026-03-13
+modified: 2026-03-30
 ---
 
 > “Outer order contributes to inner calm.” — Gretchen Rubin
@@ -32,6 +32,10 @@ Routines are habits layered on top of each other.
 ---
 
 Your habits are the _silent architects_ of your life. How you spend your days is how you spend your life.
+
+---
+
+Most habits are [metastable](https://www.google.com/search?q=metastable).
 
 ---
 
