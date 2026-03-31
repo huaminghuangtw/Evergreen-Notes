@@ -1,6 +1,6 @@
 ---
 title: The Hofstadter’s Law
-modified: 2026-03-13
+modified: 2026-03-31
 ---
 
 In contradiction to [Parkinson’s Law](the-parkinsons-law.md)
@@ -34,6 +34,8 @@ Great work isn’t unlocked by wanting greatness more. It’s unlocked by placin
 The margin between **good** and **great** is narrower than it seems. What begins as a slight edge over the competition [compounds](the-compounding-effect.md) with each additional contest.
 
 ![](https://cdn.prod.website-files.com/66915d91469ad34b8324ab88/695184197510a7e65f0a1f73_email.jpeg)
+
+![](_attachments/a084c9867ae04b23f54b45afcd49e2e2.jpg)
 
 ---
 
