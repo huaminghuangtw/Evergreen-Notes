@@ -27,7 +27,7 @@ It is important to take time to [zoom out/sit back/slow down](slow-down-to-speed
 
 [The bird’s-eye view perspective](systems-thinking.md) on your situation provide a unique vantage point—an ability to see the landscape around you and the bigger picture. (鳥瞰/綜觀全局)
 
-See also: [The Overview Effect](https://en.wikipedia.org/wiki/Overview_effect): [Carl Sagan - Pale Blue Dot](https://huami.ng/pale-blue-dot)
+See also: [The Overview Effect](https://en.wikipedia.org/wiki/Overview_effect): [Carl Sagan - Pale Blue Dot](https://huam.ing/pale-blue-dot)
 
 ---
 
@@ -35,7 +35,7 @@ If you think you have it tough, look around.
 
 ---
 
-# [The Pale Blue Dot](https://huami.ng/pale-blue-dot)
+# [The Pale Blue Dot](https://huam.ing/pale-blue-dot)
 
 > “Everything that we did and built and wrote and thought and discovered will be forgotten.” — The Fault in Our Stars 生命中美好的缺憾 (2014 film)
 
