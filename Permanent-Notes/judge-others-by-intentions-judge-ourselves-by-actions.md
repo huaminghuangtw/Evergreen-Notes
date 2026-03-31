@@ -58,6 +58,6 @@ modified: 2026-03-13
 
 ---
 
-[The Cookie Thief](https://huami.ng/the-cookie-thief)
+[The Cookie Thief](https://huam.ing/the-cookie-thief)
 
 [^1]: Use the other way round for ourselves!
