@@ -45,7 +45,7 @@ Luck = Randomness × Readiness
 
 ---
 
-[_How to engineer luck_ by George Mack](https://huami.ng/how-to-engineer-luck)
+[_How to engineer luck_ by George Mack](https://huam.ing/how-to-engineer-luck)
 
 [^1]: You want to position yourself near/close to opportunities.
 [^2]: “It’s better to be approximately/vaguely right than exactly wrong.”
