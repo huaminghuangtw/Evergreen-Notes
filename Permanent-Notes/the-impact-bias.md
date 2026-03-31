@@ -15,6 +15,6 @@ We think future events will affect us more than they actually do.
 ---
 
 * With **Impact Bias**, we mispredict our _future emotions_.
-* With the **[End of History Illusion](https://huami.ng/the-psychology-of-future-self)**, we mispredict our _future selves_.
+* With the **[End of History Illusion](https://huam.ing/the-psychology-of-future-self)**, we mispredict our _future selves_.
 
 > Both show humans are poor forecasters.
