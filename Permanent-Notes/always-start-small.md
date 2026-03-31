@@ -53,7 +53,7 @@ If you spend 100 hours a year in any discipline (which is only 18 minutes a day)
 
 # Small Things Become Big Things
 
-* [For Want of a Nail](https://huami.ng/for-want-of-a-nail)
+* [For Want of a Nail](https://huam.ing/for-want-of-a-nail)
 * 涓滴成河（Kleinvieh macht auch Mist.）
 * 積少成多
 
