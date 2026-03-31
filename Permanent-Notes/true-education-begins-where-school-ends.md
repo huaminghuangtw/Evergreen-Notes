@@ -76,7 +76,7 @@ School lays the foundation, but true education starts when you step beyond the c
 
 ---
 
-[▍Do Schools Kill Creativity?](https://huami.ng/do-schools-kill-creativity)
+[▍Do Schools Kill Creativity?](https://huam.ing/do-schools-kill-creativity)
 
 ---
 
