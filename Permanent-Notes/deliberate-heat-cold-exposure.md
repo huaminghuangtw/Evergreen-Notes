@@ -51,7 +51,7 @@ Cooling “Glabrous Skin Surfaces” [^3] can…
 
 ---
 
-[The Science & Use of Cold Exposure for Health & Performance](https://huami.ng/the-science-and-use-of-cold-exposure-for-health-and-performance)
+[The Science & Use of Cold Exposure for Health & Performance](https://huam.ing/the-science-and-use-of-cold-exposure-for-health-and-performance)
 
 [^1]: LeBron uses a cryotherapy chamber to replicate the therapeutic effects of an ice bath—reducing inflammation and pain—in significantly less time.
 [^2]: See [The Diver Reflex](the-diver-reflex.md)
