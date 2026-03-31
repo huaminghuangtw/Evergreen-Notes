@@ -61,7 +61,7 @@ Nev­er for­get that, no mat­ter how cer­tain, you might be wrong. The only b
 
 ---
 
-[The Cookie Thief](https://huami.ng/the-cookie-thief)
+[The Cookie Thief](https://huam.ing/the-cookie-thief)
 
 ---
 
