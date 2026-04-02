@@ -1,6 +1,6 @@
 ---
 title: Be Grateful
-modified: 2026-03-13
+modified: 2026-04-02
 ---
 
 #Newsletter
@@ -13,7 +13,9 @@ modified: 2026-03-13
 
 > “The struggle ends when the gratitude begins.” — Neale Donald Walsch
 
-> _“He who is carried on another’s back does not appreciate how far off the town is.” — African Proverbs_
+> “He who is carried on another’s back does not appreciate how far off the town is.” — African Proverbs
+
+> 「即是無論什麼事，得之於人者太多，出之於己者太少。因為需要感謝的人太多了，就感謝天罷。」— 陳之藩《謝天》
 
 ---
 
