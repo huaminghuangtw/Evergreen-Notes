@@ -1,5 +1,5 @@
 ---
-modified: 2026-03-25
+modified: 2026-04-02
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -148,7 +148,6 @@ Lockheed SR-71 Blackbird
 ---
 
 何首烏
-
 
 ---
 
