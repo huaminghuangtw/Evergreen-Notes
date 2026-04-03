@@ -1,6 +1,6 @@
 ---
 title: Sleep
-modified: 2026-03-13
+modified: 2026-04-03
 ---
 
 [Matt Walker: Sleep is your superpower \| TED Talk](https://www.ted.com/talks/matt_walker_sleep_is_your_superpower/)
@@ -65,6 +65,7 @@ You do not have 24 hours in the day. You only have ~16 hours per day being awake
 ---
 
 **Separate bed covers — sleeping the Scandinavian way**
+
 Individual duvets provide the warmest way to sleep, eliminating air gaps and the risk of your partner pulling or hogging the duvet in the middle of the night, ultimately stop nightly battle over the bedsheets.
 
 Add blackout curtains or wear an eye mask to maximize darkness in the bedroom.
@@ -92,9 +93,9 @@ Wakefulness is low level brain damage. Sleepiness offers a reparatory function. 
 
 ## Huberman Sleep Cocktail
 
-* **Magnesium Threonate**: 200–400mg 2–3 hours before sleep
+* **Magnesium Threonate**: 200—400mg 2—3 hours before sleep
 	* Threonate are forms of magnesium that crosses the blood-brain barrier and will assist with sleep instead of absorption by gut
-* **L-Theanine**: 200–400mg
+* **L-Theanine**: 200—400mg
 	* Nootropic but takes the edge off and balances caffeine intake
 * **Glycine**: 2 gram (every 3rd or 4th night)
 * **GABA**: 100 mg (every 3rd or 4th night)
@@ -141,7 +142,7 @@ Eating more fiber and less saturated fat for dinner, to promote serotonin, calm 
 
 sleep arousals (brief awakenings during the night)
 
-slow-wave sleep (SWS) = deep sleep
+慢波睡眠（Slow-Wave Sleep, SWS）＝深層睡眠（Deep Sleep）
 
 ---
 
