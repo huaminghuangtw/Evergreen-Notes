@@ -1,6 +1,6 @@
 ---
 title: Push your limits
-modified: 2026-03-25
+modified: 2026-04-03
 ---
 
 > “Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot
@@ -147,7 +147,7 @@ Your present circumstances don’t determine where you can go; they merely deter
 
 ---
 
-# [The 40% Rule by David Goggins](https://huam.ing/2025/12/26/enoughness-11/#2)
+# [The 40% Rule by David Goggins](https://huam.ing/2026/4/3/enoughness-25/#2)
 
 > “When you think that you are done, you’re only 40% in to what your body’s capable of doing. That’s just the limits that we put on ourselves.”
 
