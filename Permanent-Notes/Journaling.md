@@ -1,6 +1,6 @@
 ---
 title: Journaling
-modified: 2026-03-13
+modified: 2026-04-03
 ---
 
 > “Create an environment where you’re free to express what you’re afraid to express.” — Rick Rubin
@@ -9,7 +9,7 @@ modified: 2026-03-13
 
 Why? While [life is short](Life%20is%20shorter%20than%20you%20think.md), it’s too long for our memories.
 
-* 比起模糊的記憶，模糊的紀錄總是比較好。
+* 記憶是短暫的，記錄才是長遠的。比起模糊的記憶，模糊的紀錄總是比較好。
 * 留下生命的軌/足跡，把每個時刻的自己快照（Snapshot）起來，相信「未來的自己」一定會很感激「現在的自己」有留下紀錄（幸好當初有寫），就像是「現在的我」很感謝「過往的我」都有回顧覆盤的習慣一樣。[^1]
 	* **Mental Time Travel**: Imagine yourself in the past and consider yourself in the present.
 		* Make decisions that your 10-year-old self would be proud of.
@@ -43,7 +43,7 @@ Use daily diary as a place to ask yourself questions, then question your answers
 
 ---
 
-Journalling is a time machine. It freezes your brains thoughts. You realize the value of this when you get to see them 5–10 years later. Your brain usually creates a false narrative of the past. It’s only when you thaw old thoughts out from the freezer do you see what your brain used to look like.
+Journalling is a time machine. It freezes your brains thoughts. You realize the value of this when you get to see them 5—10 years later. Your brain usually creates a false narrative of the past. It’s only when you thaw old thoughts out from the freezer do you see what your brain used to look like.
 
 E.g., feelings, emotions, thoughts, memories, special moments/occasions/events
 
