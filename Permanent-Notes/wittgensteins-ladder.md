@@ -1,9 +1,9 @@
 ---
 title: Wittgenstein’s Ladder
-modified: 2026-03-13
+modified: 2026-04-04
 ---
 
-is a concept from **Ludwig Wittgenstein’s** _Tractatus Logico-Philosophicus_ (1921).
+is a concept from Ludwig Wittgenstein’s _Tractatus Logico-Philosophicus_ (1921).
 
 It refers to the idea that some propositions in philosophy are tools to help us understand **truths about the world**, but once their purpose is served, they should be **discarded**.
 
