@@ -1,6 +1,6 @@
 ---
 title: Money
-modified: 2026-03-13
+modified: 2026-04-04
 ---
 
 > “Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence
@@ -17,7 +17,7 @@ modified: 2026-03-13
 
 > Man in the Car Paradox — It’s a subtle recognition that people generally aspire to be respected and admired by others, and using money to buy fancy things may bring less of it than you imagine. If respect and admiration are your goal, be careful how you seek it. **Humility, kindness, and empathy will bring you more respect than horsepower ever will.** [^4]
 
-Reasonable  Rational
+Reasonable Rational
 
 > Do not aim to be **coldly rational** when making financial decisions. Aim to just be **pretty reasonable**. Reasonable is more realistic and you have a better chance of sticking with it for the long run, which is what matters most when managing money.
 >
@@ -61,6 +61,10 @@ Reasonable  Rational
 			* You manage financial expectations by keeping your lifestyle way below your means.
 			* Your [​Margin of Freedom​](https://www.sahilbloom.com/newsletter/the-trap-of-success-how-to-escape-it) is the buffer you intentionally create between your reality and your expectations.
 			* The less you need, the richer you become — wealth is about flexibility, not luxury.
+			* Being rich is having things. Being wealthy is knowing you don’t need them.
+
+				> “I want it, but I can’t afford it” ➞ “I can afford this and more, but I don’t need it.”
+
 			* [John D. Rockefeller was worth the equivalent of $400 billion, but he never had penicillin, sunscreen, or Advil. For most of his adult life he didn’t have electric lights, air conditioning, or sunglasses. **Everything about wealth is circumstances in the context of expectations.**](https://collabfund.com/blog/little-rules-about-big-things/)
 			* Manage Your Expectations: You can be financially poor, but psychologically rich.
 
@@ -100,7 +104,7 @@ Reasonable  Rational
 		* We all have 24 hours per day.
 		* We are all being paid per hour rate.
 		* We all trade/rent out time for money at some levels.
-* 開源  節流
+* 開源 節流
 	* [Prioritize buying assets consistently over saving excessively.](https://www.goodreads.com/book/show/59046778-just-keep-buying)
 	* Don’t focus on saving (fixed mindset), focus on earning (growth mindset).
 	* Saving has limited downside, earning has unlimited upside.
