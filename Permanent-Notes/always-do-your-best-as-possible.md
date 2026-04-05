@@ -1,6 +1,6 @@
 ---
 title: Always do your best as possible
-modified: 2026-03-13
+modified: 2026-04-05
 ---
 
 > “Inspire yourself to be great. Being good isn’t good enough.” — Gurbaksh Chahal
@@ -61,6 +61,10 @@ Be [fanatic](https://www.merriam-webster.com/dictionary/fanatic) about / Get obs
 ---
 
 Become so good that no one can ignore you.
+
+---
+
+Second place is the first loser.
 
 ---
 
