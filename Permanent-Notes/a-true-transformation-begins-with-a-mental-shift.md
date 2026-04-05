@@ -1,6 +1,6 @@
 ---
 title: A true transformation begins with a mental shift
-modified: 2026-03-14
+modified: 2026-04-05
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
@@ -62,6 +62,8 @@ modified: 2026-03-14
 > “There are no [mistakes](mistake.md). They are happy accidents.” — Bob Ross
 
 > “We can complain that rosebushes have thorns, or rejoice that thorns have roses.” — Alphonse Karr
+
+> “Not having the best situation, but seeing the best in your situation is the key to happiness.” — Marie Forleo
 
 ---
 
