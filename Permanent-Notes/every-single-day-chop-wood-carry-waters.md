@@ -1,6 +1,6 @@
 ---
 title: Every single day, chop wood, carry waters
-modified: 2026-03-13
+modified: 2026-04-06
 ---
 
 > [“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)
@@ -47,7 +47,7 @@ Persistence can change failure into extraordinary achievement.
 
 ---
 
-專心致志  聰明才智
+專心致志 聰明才智
 
 ---
 
@@ -56,6 +56,10 @@ Persistence can change failure into extraordinary achievement.
 ---
 
 There is a Zen Buddhist saying: “What do you do before enlightenment? _Chop wood, carry water_. What do you do after enlightenment? _Chop wood, carry water_.”
+
+---
+
+[If you want to succeed, both in markets and life, the first rule is you have to survive, you have to stay in the game.](https://youtu.be/zV5QUlUlzrk?t=939s)
 
 ---
 
@@ -120,7 +124,7 @@ The practice solidifies.
 
 * Don’t aim to be consistently great; aim to be great at being _consistent_.
 * Mastery follows consistent/constant work.
-* **Consistency  Intensity:** Intensity makes a good story. Consistency makes progress.
+* **Consistency Intensity:** Intensity makes a good story. Consistency makes progress.
 
 ---
 
