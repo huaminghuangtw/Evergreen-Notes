@@ -1,6 +1,6 @@
 ---
 title: The Compounding Effect
-modified: 2026-03-13
+modified: 2026-04-06
 ---
 
 > “Compounding is the 8th wonder of the world.” — Albert Einstein
@@ -120,11 +120,13 @@ The gradual acceptance of negative change, because it happens in such small incr
 
 ## Charlie Munger
 
+Reduce standard stupidities. Avoid idiotic behavior. [^3]
+
 > “All I want to know is where I’m going to die, so I’ll never go there.”
 
-> “It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.” [^3] [^4]
+> “It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.” [^4] [^5]
 
-> “I just try to avoid being stupid. I have a way of handling a lot of problems—I put them in what I call my ‘too hard pile,’ and just leave them there. I’m not trying to succeed in my too hard pile.” [^5]
+> “I just try to avoid being stupid. I have a way of handling a lot of problems—I put them in what I call my ‘too hard pile,’ and just leave them there. I’m not trying to succeed in my too hard pile.” [^6]
 
 ---
 
@@ -134,6 +136,7 @@ The gradual acceptance of negative change, because it happens in such small incr
 
 [^1]: 巴菲特的「滾雪球理論」（The Snowball Theory）：必須找到「一顆夠濕的雪球」與「一條夠長的下坡路」。
 [^2]: aka 善的循環
-[^3]: _“The world is full of obvious things which nobody by any chance ever observes.” — Sherlock Holmes_
-[^4]: _“A genius is the man who can do the average thing when everyone else around him is losing his mind.” — Napoleon_
-[^5]: [Sometimes success is just about avoiding failure and](https://fs.blog/avoid-bad-decisions/) [making bad decisions.](decision-making.md)
+[^3]: It’s very difficult to be smart, but it’s surprisingly easy to be “non-idiotic”.
+[^4]: _“The world is full of obvious things which nobody by any chance ever observes.” — Sherlock Holmes_
+[^5]: _“A genius is the man who can do the average thing when everyone else around him is losing his mind.” — Napoleon_
+[^6]: [Sometimes success is just about avoiding failure and](https://fs.blog/avoid-bad-decisions/) [making bad decisions.](decision-making.md)
