@@ -1,6 +1,6 @@
 ---
 title: Relationships
-modified: 2026-03-25
+modified: 2026-04-06
 ---
 
 > “The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin
@@ -154,7 +154,7 @@ Humans can maintain about 150 stable, meaningful relationships due to cognitive 
 
 ---
 
-While small talk (= idle talk = chitchat) has its place ,[^3] real bonding/conversation happens through sharing _[vulnerability](vulnerability.md)_ or ambition/aspirations.
+While small talk (= idle talk = chitchat) has its place [^3], real bonding/conversation happens through sharing _[vulnerability](vulnerability.md)_ or ambition/aspirations.
 
 ---
 
