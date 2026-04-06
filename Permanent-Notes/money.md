@@ -1,6 +1,6 @@
 ---
 title: Money
-modified: 2026-04-04
+modified: 2026-04-06
 ---
 
 > “Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence
@@ -166,7 +166,7 @@ Reasonable Rational
 	* Often, the more expensive item (“Buy It For Life” ) is more frugal than the cheaper item (“Buy Once, Cry Once”).
 * [The more money you have, the harder it becomes to know how to spend it in a way that will make you happy. And that confusion sets in at fairly low levels of income.](https://collabfund.com/blog/a-few-thoughts-on-spending-money/)
 
-	> The concept of the [Doughnut](https://www.google.com/search?q=Doughnut), as introduced by economist Kate Raworth, illustrates a balance between meeting essential human needs (_the social foundation_) and staying within planetary limits (_the ecological ceiling_). When applied to personal wealth and happiness, the Doughnut highlights a crucial insight: beyond a certain level of income—where basic needs are comfortably met—people enter a more ambiguous space of desire, where _knowing what to want_ becomes far less straightforward than _knowing what to need_. As Luke Burgis points out ,[^7] once survival is secured, people shift from necessity-driven decisions to socially influenced desires, often struggling to determine what will truly bring fulfillment.
+	> The concept of the [Doughnut](https://www.google.com/search?q=Doughnut), as introduced by economist Kate Raworth, illustrates a balance between meeting essential human needs (_the social foundation_) and staying within planetary limits (_the ecological ceiling_). When applied to personal wealth and happiness, the Doughnut highlights a crucial insight: beyond a certain level of income—where basic needs are comfortably met—people enter a more ambiguous space of desire, where _knowing what to want_ becomes far less straightforward than _knowing what to need_. As Luke Burgis points out [^7], once survival is secured, people shift from necessity-driven decisions to socially influenced desires, often struggling to determine what will truly bring fulfillment.
 
 * **Eliminate Before Accumulate**: Use the “One in, One out” rule/policy when buy things
 * 3 Levels
