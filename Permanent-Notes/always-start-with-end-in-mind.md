@@ -1,6 +1,6 @@
 ---
 title: Always start with end in mind
-modified: 2026-03-13
+modified: 2026-04-06
 ---
 
 > “It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement(/accomplishment).” — Isocrates
@@ -19,7 +19,13 @@ modified: 2026-03-13
 
 ---
 
+What is the downside if I am wrong?
+
+---
+
 If you don’t know what you want, how are you going to know when you get it?
+
+> If you don’t know what you want, you end up with a lot you don’t.” — Chuck Palahniuk, Fight Club
 
 ---
 
