@@ -1,6 +1,6 @@
 ---
 title: Reflect & Review
-modified: 2026-03-21
+modified: 2026-04-06
 ---
 
 > “Without reflection, we go blindly on our way, creating more unintended consequences, and failing to achieve anything useful.” — Margaret J. Wheatley
@@ -11,7 +11,7 @@ modified: 2026-03-21
 
 ---
 
-Reflect and review, coupled with the clarity of hindsight ,[^1] enables us to turn past experiences into valuable lessons for future growth.
+Reflect and review, coupled with the clarity of hindsight [^1], enables us to turn past experiences into valuable lessons for future growth.
 
 It’s not a matter of learning new information (小時候)
 
