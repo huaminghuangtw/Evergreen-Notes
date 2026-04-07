@@ -1,6 +1,6 @@
 ---
 title: Choose your response
-modified: 2026-03-13
+modified: 2026-04-06
 ---
 
 > “How we decide to respond to our fears, that is the person we become.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)
@@ -26,6 +26,8 @@ modified: 2026-03-13
 ---
 
 > “You may not control all the events that happen to you, but you can decide not to be reduced by them.” — Maya Angelou
+
+> [“You cannot control what happens to you, but you can control the way you think about all the events. You always have a choice. You can choose to face them with a positive mental attitude.” — Roy T. Bennett, The Light in the Heart](http://goodreads.com/quotes/7857289-you-are-the-master-of-your-attitude-you-cannot-control)
 
 * It’s not what happens to us that shapes our lives, but how we _choose to_ respond.
 * You can’t control the behavior of others, but you can always control how you respond to it.
