@@ -1,6 +1,6 @@
 ---
 title: Why we exist?
-modified: 2026-03-25
+modified: 2026-04-07
 ---
 
 > [“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)
@@ -60,6 +60,8 @@ Both because of and in spite of his awareness of the meaninglessness of life, he
 > “Some goals are not meant to be reached, they give you a direction to strive towards.” — Bruce Lee
 
 > “Purpose and desire can seem similar, but they are very different, sometimes even opposing forces. Desire is personal, narrow, and pointed, and tends toward self-preservation, self-gratification, and short-term gains and pleasures. Purpose is wider, broader, a longer-term vision encompassing the benefit of others—something outside of yourself you’re willing to fight for. There have been many times in my life where I was acting from a place of desire but I’d fully convinced myself that it was purpose. <mark>Desire is what you want; purpose is the flowering of what you are.</mark> Desire tends to weaken over time, whereas purpose strengthens the more you lean into it. Desire can be depleting because it’s insatiable; purpose is empowering—it’s a stronger engine. Purpose has a way of contextualizing life’s unavoidable sufferings and making them meaningful and worthwhile. As Viktor Frankl wrote, “In some ways suffering ceases to be suffering at the moment it finds a meaning, such as the meaning of a sacrifice.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)
+
+> [“The things you do for yourself are gone when you are gone, but the things you do for others remain as your legacy.” — Kalu Ndukwe Kalu](http://goodreads.com/quotes/56602-the-things-you-do-for-yourself-are-gone-when-you)
 
 The purpose of life is a life of purpose.
 
