@@ -1,6 +1,6 @@
 ---
 title: The Spotlight Effect
-modified: 2026-03-13
+modified: 2026-04-07
 ---
 
 > “You have no responsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It’s their mistake, not my failing.” — Richard P. Feynman
@@ -69,6 +69,26 @@ There are two big mistakes in life:
 	 > 「所以呢？那又會怎樣？」→「可能他們只是一笑就忘了。」
 
 5. **重複五次**：每問一次「所以呢？」都會少掉一層焦慮，最後發現其實沒想像中嚴重。
+
+# Climbing the “So What?” Ladder
+
+> I might stumble over my words in my presentation.
+> ​
+> So what?
+> ​
+> People might think I’m unprepared.
+> ​
+> But you are prepared. So what?
+> ​
+> Well, they might think I’m an imposter.
+> ​
+> But you’re credible. So what?
+> ​
+> They might not hire me again.
+> ​
+> There are more opportunities. So what?
+> ​
+> That’s it. Life goes on. Your family still loves you. You’re fine.
 
 ---
 
