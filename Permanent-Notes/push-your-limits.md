@@ -1,6 +1,6 @@
 ---
 title: Push your limits
-modified: 2026-04-03
+modified: 2026-04-07
 ---
 
 > “Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot
@@ -132,6 +132,8 @@ If someone says: “That’s impossible. You should understand it as: “Accordi
 ---
 
 # 跨越心理制約的框架
+
+> “Nothing ever happens like you imagine it will.” — John Green, [Paper Towns](https://www.goodreads.com/work/quotes/3364505)
 
 * Don’t limit your challenges. Challenge your limits.
 * Know your limits but never stop trying to exceed them.
