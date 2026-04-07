@@ -1,6 +1,6 @@
 ---
 title: You are the average of the five people you associate with most
-modified: 2026-03-13
+modified: 2026-04-06
 ---
 
 > “You are the average of the five people you spend the most time with.” — Jim Rohn
@@ -16,6 +16,8 @@ modified: 2026-03-13
 > [“Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.” — Steve Maraboli](https://www.goodreads.com/quotes/525097-letting-go-means-to-come-to-the-realization-that-some) [^2]
 
 > “Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.” — W. Clement Stone
+
+> “Who you spend your time with is probably the most important thing in life.” — William P. Green, [Richer, Wiser, Happier: How the World’s Greatest Investors Win in Markets and Life](https://www.goodreads.com/work/quotes/84736470)
 
 ---
 
