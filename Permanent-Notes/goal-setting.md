@@ -1,6 +1,6 @@
 ---
 title: Goal Setting
-modified: 2026-03-13
+modified: 2026-04-07
 ---
 
 > “A goal is not always meant to be reached, it often serves simply as something to aim at.” — Bruce Lee
@@ -8,6 +8,8 @@ modified: 2026-03-13
 > “Setting goals is the first step in turning the invisible into the visible.” — Tony Robbins
 
 > “A goal is a dream with a deadline.” — Napoleon Hill [^1]
+
+> “A goal should scare you a little, and excite you a lot.” — Joe Vitale
 
 ---
 
