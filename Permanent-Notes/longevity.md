@@ -1,6 +1,6 @@
 ---
 title: Longevity
-modified: 2026-03-13
+modified: 2026-04-08
 ---
 
 > “The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety.” — Sathya Sai Baba
@@ -8,6 +8,8 @@ modified: 2026-03-13
 ---
 
 # 「延長壽命」vs「延長生命力」
+
+> “Health is the greatest wealth; guard it with daily care.” — Virgil
 
 * 重點不是能夠活到幾歲，而是能夠「健康地」活到幾歲。
 * Prioritize enhancing _healthspan_, not just extending _lifespan_.
