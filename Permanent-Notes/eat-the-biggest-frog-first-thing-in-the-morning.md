@@ -1,6 +1,6 @@
 ---
 title: Eat the biggest frog first thing in the morning
-modified: 2026-03-13
+modified: 2026-04-08
 ---
 
 > “Do one thing every day that scares you.” — Eleanor Roosevelt
@@ -27,6 +27,16 @@ First things first. Do the most important thing [^2] first, not the most urgent 
 
 ---
 
+# Every Morning DO Your Highest Priority Work First
+
+> [“I begin each morning by doing my highest priority work first. I have a very clear priority list, and I start from the highest priority work first. Before I even get to work, my day is already a success. I’ve already completed my most important work and can dedicate my day to helping others. And <mark>when people apologize for interrupting me, I always say, ‘I have plenty of time,’ and I do.</mark>” — Jensen Huang, NVIDIA CEO](https://www.youtube.com/shorts/-TWoU18uKAQ)
+
+[@kimNvidiaWayJensen2025]
+
+[Adobe CEO Shantanu Narayen once had a breakfast with Jensen Huang. They had a great conversation about business issues, from innovation and strategy to culture. When Narayen checked his watch, Jensen remarked, “Why are you looking at your watch?” Narayen responded, “Jensen, don’t you have a calendar?” Jensen replied, “What are you doing? I do what I want.” Narayen appreciated the advice. Jensen was telling him to <mark>focus on the most important activity at all times and not be beholden to a schedule.</mark>](https://www.reddit.com/r/nvidia/comments/1gary9w/nvidia_ceo_jensen_huang_on_time_management/)
+
+---
+
 [早上是一天當中最有精力、思路最清晰、心智能量最彙集/最強大的時刻](work-in-sprints-work-with-your-biology.md)，要用來做：
 
 * Things that genuinely matter to you.
@@ -46,8 +56,8 @@ First things first. Do the most important thing [^2] first, not the most urgent 
 	* “_If this were the only thing I accomplished today, would I be satisfied with my day?_”
 	* “_Will moving this forward make all the other TODOs unimportant/irrelevant or easier to do later?_”
 5. Look only at the items you’ve answered “yes” to for at least one of these questions.
-6. Block out at least 2–3 hours to focus on ONE of them for today. Let the rest of the urgent but less important stuff slide. It will still be there tomorrow.
-	* TO BE CLEAR: Block out at least 2–3 HOURS to focus on ONE of them for today. This is ONE BLOCK OF TIME. Cobbling together 10 minutes here and there to add up to 120 minutes does not work.
+6. Block out at least 2—3 hours to focus on ONE of them for today. Let the rest of the urgent but less important stuff slide. It will still be there tomorrow.
+	* TO BE CLEAR: Block out at least 2—3 HOURS to focus on ONE of them for today. This is ONE BLOCK OF TIME. Cobbling together 10 minutes here and there to add up to 120 minutes does not work.
 7. If you get [distracted](being-indistractable-is-superpower.md) or start [procrastinating](procrastination.md), [don’t freak out and downward spiral; just gently come back to your ONE to-do.](self-compassion.md)
 
 ---
