@@ -1,5 +1,5 @@
 ---
-modified: 2026-04-02
+modified: 2026-04-08
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -153,19 +153,24 @@ Lockheed SR-71 Blackbird
 
 荷蘭病（Dutch Disease）
 
-
 ---
 
 At 55 do you want to be able to carry shopping home a long distance. At 65 do you want the energy and verve to visit a new country and have new experiences.
-At 75 do you want to be able to swim and walk and clean your own home without getting out of breath?
-At 85 do you want to be mentally available to those around you.
-That’s what you’re doing it for, not for today, not to extend life, but to make the years as easy as possible and to have options.
-Optionality in life is the closest thing to happiness.
 
+At 75 do you want to be able to swim and walk and clean your own home without getting out of breath?
+
+At 85 do you want to be mentally available to those around you.
+
+That’s what you’re doing it for, not for today, not to extend life, but to make the years as easy as possible and to have options.
+
+Optionality in life is the closest thing to happiness.
 
 ---
 
 Solo travel pro tip: BRING A BOOK!
+
 Bookcrossings.com. Check it out! I’m not sure if it’s still around, but it’s a clever site/service that makes the world a library. You register a book on the site, and strategically leave it somewhere to ‘send it out to the wild’, as they say. Years ago, I found a book in a mall food court and found a note on the inside cover that said that it wasn’t lost and that it was registered on the site.
-I like to bring books and then leave them in different city's around the world. I found a copy of Christopher Moore's Lamb at an airport in Calgary many years ago. A note inside said read me and leave me in a new spot. I did just that! I love the book so much, that I have purchased a few copies and left them in different countries.
+
+I like to bring books and then leave them in different city’s around the world. I found a copy of Christopher Moore’s Lamb at an airport in Calgary many years ago. A note inside said read me and leave me in a new spot. I did just that! I love the book so much, that I have purchased a few copies and left them in different countries.
+
 Kindle is cheaper(if you accept the adds) but it works well only if you stay in the Amazon ecosystem. With Kobo you can side load multiple different formats, it works with public libraries and it has a better software support
