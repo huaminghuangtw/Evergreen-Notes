@@ -1,6 +1,6 @@
 ---
 title: Communication
-modified: 2026-03-13
+modified: 2026-04-09
 ---
 
 > “The single biggest problem in communication is the illusion that it has taken place.” — George Bernard Shaw
@@ -50,7 +50,7 @@ State the facts and tell the truth. Speak with [integrity](integrity.md)—say e
 
 # Be radically candid
 
-[How to Lead With Radical Candor \| Kim Scott \| TED](https://youtu.be/vmxHUiiHgNk)
+[How to Lead With Radical Candor | Kim Scott | TED](https://youtu.be/vmxHUiiHgNk)
 
 * Praise specifically. Criticize generally.
 * Praise in public. Criticize in private.
