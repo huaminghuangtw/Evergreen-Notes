@@ -1,6 +1,6 @@
 ---
 title: The Trap of Good Enough
-modified: 2026-03-16
+modified: 2026-04-09
 ---
 
 > “Nothing is so painful to the human mind as a great and sudden change.” — Mary Shelley, Frankenstein (科學怪人)
@@ -21,7 +21,7 @@ modified: 2026-03-16
 
 [@gilbertPeculiarLongevityThings2004]
 
-[The “Good Enough” Paradox: A Science-Backed Life Trap \| The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-good-enough-paradox-a-science-backed-life-trap)
+[The “Good Enough” Paradox: A Science-Backed Life Trap | The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-good-enough-paradox-a-science-backed-life-trap)
 
 > The 3/10 job, 3/10 relationship, or 3/10 life forces change. We respond to alleviate the intensely negative experience.
 >
