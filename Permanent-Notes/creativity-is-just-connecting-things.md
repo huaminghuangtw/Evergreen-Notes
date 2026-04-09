@@ -1,6 +1,6 @@
 ---
 title: Creativity is just connecting things
-modified: 2026-03-13
+modified: 2026-04-09
 ---
 
 > “Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. That’s because they were able to connect experiences they’ve had and synthesize new things. And the reason they were able to do that was that they’ve had more experiences or they have thought more about their experiences than other people.” — Steve Jobs
@@ -72,6 +72,7 @@ _This works because it is easier to look at something bad and intuit how to make
 Here’s a [video](https:/youtu.be/gfHEOL-sDy4) of John Mayer showing off the Creativity Faucet in real-time.
 
 **_Remarks_**
+
 * You need 1000 bad ideas to get to 1 good idea.
 * Rule of Thumb: 70% of your work will be mediocre. 20% will suck. 10% will be amazing.
 * [You have to wade through some sewage before you can swim in clear water.](https://youtu.be/SwQhKFMxmDY?t=1h23m47s)
@@ -103,7 +104,7 @@ See also: [Gall’s Law](galls-law.md)
 
 ---
 
-[Here’s how to live: Create. \| Derek Sivers](https://sive.rs/htl23)
+[Here’s how to live: Create. | Derek Sivers](https://sive.rs/htl23)
 
 ---
 
