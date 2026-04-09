@@ -1,6 +1,6 @@
 ---
 title: The past is more unpredictable than the future
-modified: 2026-03-13
+modified: 2026-04-09
 ---
 
 Why? **Because meaning and understanding of the past are always changing — while the future, though uncertain / hasn’t happened yet, at least unfolds in one direction.**
@@ -37,5 +37,5 @@ Someone who experienced the exact same event as you likely remembers it very dif
 
 See also:
 
-* [The Seasons of Your Life \| The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-seasons-of-your-life)
+* [The Seasons of Your Life | The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-seasons-of-your-life)
 * [A Message From the Past (Thoughts on Nostalgia) · Collaborative Fund](https://collabfund.com/blog/a-message-from-the-past-thoughts-on-nostalgia/)
