@@ -1,6 +1,6 @@
 ---
 title: Implementation Intentions
-modified: 2026-03-13
+modified: 2026-04-09
 ---
 
 Implementation Intentions are a powerful self-regulation strategy that involves planning _when_, _where_, and _how_ you will act toward a specific goal or habit. By deciding in advance the exact circumstances under which you will perform a behavior, you make it much more likely that you’ll follow through—even when motivation is low or distractions arise.
@@ -22,13 +22,13 @@ Implementation Intentions are known to help achieve a [goal](goal-setting.md) or
 
 * **Reduces [Decision Fatigue](decision-fatigue.md):** By pre-deciding your actions, you avoid the mental drain of making choices in the moment.
 * **Increases [Consistency](every-single-day-chop-wood-carry-waters.md):** You’re more likely to act because you’ve already mapped out the context and response.
-* **Bridges Intention–Action Gap:** Many people intend to change, but fail to act. Implementation intentions help close this gap.
+* **Bridges Intention—Action Gap:** Many people intend to change, but fail to act. Implementation intentions help close this gap.
 
 ---
 
 Studies show that people who form implementation intentions are significantly more likely to achieve their goals—whether it’s exercising, eating healthier, studying, or quitting smoking. The specificity of the plan is key.
 
-However, no days are perfect. When plans fall apart, it’s great to use the “_if–then_” version of this strategy:
+However, no days are perfect. When plans fall apart, it’s great to use the “_if—then_” version of this strategy:
 
 > If X happens, then I will do Y.
 
@@ -38,7 +38,7 @@ For example:
 * _If_ I haven’t called my mom back by 7pm, _then_ I won’t turn on the TV until I do.
 * _If_ my meeting runs over and I don’t have time to workout this afternoon, _then_ I’ll wake up early tomorrow and run.
 
-The “if–then” strategy gives you a clear plan for overcoming the unexpected stuff, which means it’s less likely that you’ll be swept away by the urgencies of life.
+The “if—then” strategy gives you a clear plan for overcoming the unexpected stuff, which means it’s less likely that you’ll be swept away by the urgencies of life.
 
 You can’t control when little emergencies happen to you, but you don’t have to be a victim of them either.
 
