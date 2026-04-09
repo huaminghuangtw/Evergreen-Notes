@@ -1,6 +1,6 @@
 ---
 title: Wittgenstein’s Ladder
-modified: 2026-04-04
+modified: 2026-04-09
 ---
 
 is a concept from Ludwig Wittgenstein’s _Tractatus Logico-Philosophicus_ (1921).
@@ -21,4 +21,4 @@ Essentially, **Wittgenstein’s Ladder** reminds us that some teachings or theor
 
 ---
 
-See also: [The Paradox of Mastery \| The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-paradox-of-mastery)
+See also: [The Paradox of Mastery | The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-paradox-of-mastery)
