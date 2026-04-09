@@ -1,6 +1,6 @@
 ---
 title: Do hard things
-modified: 2026-03-13
+modified: 2026-04-09
 ---
 
 > “Difficulties strengthen the mind, as labor does the body.” — Seneca
@@ -32,6 +32,8 @@ modified: 2026-03-13
 > “Who you are is defined by what you’re willing to struggle for.” — Mark Manson
 
 > “Never to suffer would never to have been blessed.” — Edgar Allan Poe
+
+> [“Everything worth doing has a hard part. If it didn’t, it would have been done already.” — Seth Godin](https://seths.blog/2019/10/whats-the-hard-part/)
 
 ---
 
@@ -135,7 +137,7 @@ When things get hard, the mental gymnastics start—you start convincing yoursel
 
 References:
 
-* [The Odysseus (奧德賽) Trap: A Clear Path to Lesser Goals \| The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-odysseus-trap-a-clear-path-to-lesser-goals)
+* [The Odysseus (奧德賽) Trap: A Clear Path to Lesser Goals | The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-odysseus-trap-a-clear-path-to-lesser-goals)
 * [Lotus-eaters - Wikipedia](https://en.wikipedia.org/wiki/Lotus-eaters)
 
 ---
