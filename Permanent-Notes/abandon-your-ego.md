@@ -1,6 +1,6 @@
 ---
 title: Abandon your ego
-modified: 2026-04-07
+modified: 2026-04-09
 ---
 
 > “Showing off is the fool’s idea of glory.” — Bruce Lee
@@ -93,4 +93,4 @@ Not thinking less of yourself, but thinking of yourself less.
 
 [The Beginner Mindset](the-beginner-mindset.md)
 
-[^1]: [The Speech That Changed How I See the World \| The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-speech-that-changed-how-i-see-the-world)
+[^1]: [The Speech That Changed How I See the World | The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-speech-that-changed-how-i-see-the-world)
