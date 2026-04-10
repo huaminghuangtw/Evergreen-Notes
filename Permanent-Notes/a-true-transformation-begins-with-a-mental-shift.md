@@ -1,6 +1,6 @@
 ---
 title: A true transformation begins with a mental shift
-modified: 2026-04-05
+modified: 2026-04-10
 ---
 
 **TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
@@ -64,6 +64,8 @@ modified: 2026-04-05
 > “We can complain that rosebushes have thorns, or rejoice that thorns have roses.” — Alphonse Karr
 
 > “Not having the best situation, but seeing the best in your situation is the key to happiness.” — Marie Forleo
+
+> “Nothing is miserable unless you think it so; and on the other hand, nothing brings happiness unless you are content with it.” — Jonathan Haidt, [The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom](https://www.goodreads.com/work/quotes/3587)
 
 ---
 
