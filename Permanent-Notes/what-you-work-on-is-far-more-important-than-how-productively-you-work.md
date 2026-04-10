@@ -1,6 +1,6 @@
 ---
 title: What you work on is far more important than how productively you work
-modified: 2026-03-13
+modified: 2026-04-10
 ---
 
 > “It is not enough that we do our best; sometimes we must do what is required/necessary.” — Winston Churchill
@@ -10,6 +10,8 @@ modified: 2026-03-13
 > “What you do is more important than how you do everything else, and doing something unimportant well does not make it important.” — Tim Ferriss [^1]
 
 > [“The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work.” — Paul Graham](https://paulgraham.com/selfindulgence.html)
+
+> “If you do not know which port you are seeking, no wind is favorable.” — Seneca
 
 [@rubinBetterMasteringHabits2015]
 
@@ -37,7 +39,7 @@ modified: 2026-03-13
 
 ---
 
-# Efficiency vs. Efficacy / Being Efficient vs Being Effective
+# Efficiency vs Efficacy / Being Efficient vs Being Effective
 
 > “The difference between efficiency and effectiveness is the difference between knowledge and wisdom.” — Dr. Russell L. Ackoff [^2]
 
