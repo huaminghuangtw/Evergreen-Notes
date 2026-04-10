@@ -1,6 +1,6 @@
 ---
 title: The Story of the Cracked Pot
-modified: 2026-03-30
+modified: 2026-04-10
 ---
 
 > There was an old man who lived in a village in India. Every morning, he would place a long stick across his back, hang a water pot from each end, and walk several miles to the river to get fresh water for his family.
@@ -21,7 +21,7 @@ modified: 2026-03-30
 >
 > “You see,” the old man said, “I’ve always known you had those cracks, so I planted flower seeds along your side of the path. Each day, your cracks helped me water them. And now, I pick these flowers to share their beauty with the entire village.”
 
-You are the cracked pot. Perfectly imperfect. Remember that.
+You are the cracked pot. Perfectly imperfect. Remember that. [^1]
 
 ---
 
@@ -40,3 +40,5 @@ You are the cracked pot. Perfectly imperfect. Remember that.
 * Remember that [value is not always measured by conventional standards of success](what-success-means-to-me.md).
 
 > “There is a crack in everything, that’s how the light gets in.” — Leonard Cohen
+
+[^1]: You are not perfect, nor should you try to be.
