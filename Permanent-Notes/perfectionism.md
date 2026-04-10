@@ -1,6 +1,6 @@
 ---
 title: Perfectionism
-modified: 2026-03-22
+modified: 2026-04-10
 ---
 
 > “You don’t have to be great to start, but you have to start to be great.” — Zig Ziglar
@@ -36,7 +36,7 @@ Perfectionism is a [double-edged sword (雙面刃)](duality-vs-polarity.md). On 
 
 [Kintsugi](https://www.google.com/search?q=Kintsugi)—the Japanese practice of repairing broken pottery with gold, rendering a new piece that is more exquisite than it was before the break.
 
-Your flaws attract the right people you want to be around and filter out those who don’t belong.
+You are not perfect, nor should you try to be. Your flaws attract the right people you want to be around and filter out those who don’t belong.
 
 > 「修真養性，服食導引，卻病延年，沖舉可俟。」—《東周列國志》第 87 回
 
@@ -44,7 +44,7 @@ Your flaws attract the right people you want to be around and filter out those w
 
 ---
 
-# The Challenges Of Perfectionism
+# The Challenges of Perfectionism
 
 1. **[Fear of Failure:](fear-of-failure-and-success.md)** Perfectionists often avoid taking risks due to the fear of making mistakes or not meeting their own high standards.
 2. **[Procrastination:](procrastination.md)** The pressure to produce perfect work can lead to avoidance behaviors, where individuals [overthink](overthinking.md) and delay starting tasks due to anxiety about their performance.
@@ -69,7 +69,7 @@ Imperfect [action](cultivate-a-strong-bias-towards-action.md) trumps visualized 
 
 ---
 
-# 專注於「完成」而非「完美」
+# 完成 > 完美
 
 > “Premature optimization is the root of all evil.” — Donald Knuth [^2]
 
