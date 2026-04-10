@@ -1,6 +1,6 @@
 ---
 title: Storytelling
-modified: 2026-03-16
+modified: 2026-04-10
 ---
 
 > “Human thinking depends on metaphor. We understand new or complex things in relation to things we already know.” — Jonathan Haidt [^1]
@@ -57,6 +57,17 @@ It’s the music behind the words — the way they play with:
 * **Staccato and rhyme** — adding pulse and pattern.
 
 But above all, **vocal rhythm is the art of purposeful silence**.
+
+---
+
+# Sticky ideas = SUCCESs
+
+* Simple
+* Unexpected
+* Concrete
+* Credible
+* Emotional
+* wrapped in Stories
 
 ---
 
