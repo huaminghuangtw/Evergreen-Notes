@@ -1,6 +1,6 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
-modified: 2026-03-21
+modified: 2026-04-10
 ---
 
 > “Your relationship with yourself sets the tone for every other relationship you have.” — Robert Holden
@@ -80,6 +80,10 @@ Always put yourself first. Self-prioritize yourself. Take care of yourself befor
 ---
 
 # The Ability To Love Yourself Improves Your Ability To Be Loved.
+
+> No one is going to love you until you love yourself.
+
+> 生以悦己，不為他人所困。
 
 * We are unlikely to accept a relationship that is worse than the one we have with ourselves, and thus the person who is happy and comfortable with themselves is in a great position. The person with healthy self-esteem doesn’t have to jump into any relationship because they already have a great one wherever they go.
 * If the time you spend alone is already enjoyable to some degree—that is, if you have a healthy [internal monologue](be-careful-how-you-are-talking-to-yourself.md) and generally feel good about yourself—then you will have a fairly high bar for the type of relationships you’ll enter.
