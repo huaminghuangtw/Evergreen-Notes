@@ -1,6 +1,6 @@
 ---
 title: The Growth Mindset
-modified: 2026-03-13
+modified: 2026-04-10
 ---
 
 > [“It’s the disease of thinking that a really great idea is 90% of the work, and if you just tell all these other people “here’s this great idea” then of course they can go off and make it happen. And the problem with that is that there is just a tremendous amount of craftsmanship in between a great idea and a great product. And as you evolve that great idea it changes and grows. It never comes out like it starts because you learn a lot more as you get in the subtleties of it. And you also find there’s tremendous trade-offs that you have to make. There are just certain things you can’t make electrons do. There are certain things you can’t make plastic do or glass do. Or factories do, or robots do. And as you get in to all these things, designing a product is keeping 5000 things in your brain, these concepts. And fitting them all together and kind of continuing to push to fit them together in new and different ways to get what you want. And every day you discover something new that is a new problem or a new opportunity to fit these things together a little differently. It’s that process that is the magic.” — Steve Jobs](https://youtu.be/sm1msysj5lw)
