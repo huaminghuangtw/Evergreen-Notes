@@ -1,6 +1,6 @@
 ---
 title: Death
-modified: 2026-03-25
+modified: 2026-04-10
 ---
 
 > “The free man thinks of death, least of all things.” — Benedict Spinoza
@@ -56,6 +56,14 @@ Death is the ultimate equalizer. We may look different, live in different places
 ---
 
 死亡其實就像出生一樣，是我們身體自然會經歷的階段，有一套固定的節奏和過程，並沒有想像中那麼可怕。
+
+---
+
+死亡，是人生唯一確定的事。
+
+每個人都會死，沒有人能逃避。學會面對死亡，才真正學會活著。
+
+我們學了很多一輩子用不到的東西，卻沒學面對這件每個人都跑不掉的事。
 
 ---
 
