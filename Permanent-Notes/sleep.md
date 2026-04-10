@@ -23,6 +23,8 @@ Sleep is the best legal performance enhancing drug / magic pill on the planet.
 
 Sleep is the most effective workout recovery tool.
 
+Sleep is a fundamental biological requirement; bypassing it doesn’t create more time, it simply creates a slower, more error-prone version of oneself.
+
 sleep is the absolute foundation of your mental health, your physical health and your performance in all endeavors. So if there’s one area of your life to really focus on and try and optimize if your goal is to be happier and more productive and just have a better life over all, I can confidently say that Sleep is really the thing to optimize.
 
 Sleep deprivation makes hard things feel impossible. High quality sleep makes seemingly impossible things doable.
