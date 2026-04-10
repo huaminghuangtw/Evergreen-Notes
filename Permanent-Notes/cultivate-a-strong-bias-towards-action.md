@@ -1,6 +1,6 @@
 ---
 title: Cultivate a strong bias towards action
-modified: 2026-03-31
+modified: 2026-04-10
 ---
 
 > “To be is to do.” — Immanuel Kant
@@ -92,10 +92,6 @@ Krummes Holz gibt auch gerades Feuer. = Crooked logs also make straight fires.
 
 ---
 
-Pragmatism 實用主義
-
----
-
 When people talk about traveling to the past, they worry about radically changing the present by [doing something small](always-start-small.md), but barely anyone in the present really thinks that they can radically change the future by doing something small.
 
 ---
@@ -119,6 +115,10 @@ Remember: [The world is run by people no smarter than you.](https://www.swyx.io/
 知易行難 ➞ 知行合一：大部分的人在「知道」和「做到」之間有很大的鴻溝
 
 [Life is a game of awareness and action: Awareness to understand something’s importance and action to execute on that importance.](https://www.sahilbloom.com/newsletter/11-uncommon-lessons-from-uncommon-minds)
+
+---
+
+Action doesn’t have to be perfect for it to be right. The most perfect outcomes are often just a byproduct of a large volume of imperfect actions.
 
 ---
 
@@ -260,6 +260,10 @@ Roosevelt’s deeper point is this:
 * Twitter began as a side project within a company called Odeo.
 
 Neither came from waiting for the perfect idea—they were born from action.
+
+---
+
+Pragmatism 實用主義
 
 ---
 
