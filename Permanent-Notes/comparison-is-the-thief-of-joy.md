@@ -1,6 +1,6 @@
 ---
 title: Comparison is the thief of joy
-modified: 2026-04-03
+modified: 2026-04-10
 ---
 
 > ”Don’t bother just to be better than your contemporaries or predecessors. Try to be better than yourself.” — William Faulkner
@@ -80,6 +80,16 @@ To be miserable, compare big things.
 * Net worth
 
 Comparison is the thief of joy when applied broadly, but the teacher of skills when applied narrowly.
+
+---
+
+# The 18-40-60 Rule
+
+There’s a saying I love:
+
+* At 18, you worry about what people think of you.
+* At 40, you stop caring what people think of you.
+* At 60, you realize nobody was thinking about you at all.
 
 ---
 
