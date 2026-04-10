@@ -1,6 +1,6 @@
 ---
 title: Communication
-modified: 2026-04-09
+modified: 2026-04-10
 ---
 
 > “The single biggest problem in communication is the illusion that it has taken place.” — George Bernard Shaw
@@ -71,10 +71,13 @@ As [Neil Strauss](https://www.neilstrauss.com/) said, “_Unspoken expectations 
 
 > [“Timing influences communication. Talk about potential mistakes before they happen and people start looking for ways to prevent them. Talk about actual mistakes after they happen and people start looking for reasons to defend their actions. What do we need to be talking about now, so we can learn the lessons before we need them?” — James Clear](https://jamesclear.com/3-2-1/june-5-2025)
 
-* 3 Steps to avoid “unspoken expectations”
-	1. Start with facts and what you expect, specifically (think “painting done” [^2]).
-	2. Describe why it’s an expectation or concern.
-	3. Ask a question to invite them into the dialogue.
+# 3 Steps to avoid “unspoken expectations”
+
+1. Start with facts and what you expect, specifically (think “painting done” [^2]).
+2. Describe why it’s an expectation or concern.
+3. Ask a question to invite them into the dialogue.
+
+[The Drama Triangle](the-drama-triangle.md)
 
 ---
 
