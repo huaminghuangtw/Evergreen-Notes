@@ -1,6 +1,6 @@
 ---
 title: The Sunk Cost Fallacy
-modified: 2026-03-13
+modified: 2026-04-10
 ---
 
 > “If you get on the wrong train, get off at the nearest station. The longer it takes you to get off, the more expensive the return trip will be.” — Japanese proverb
