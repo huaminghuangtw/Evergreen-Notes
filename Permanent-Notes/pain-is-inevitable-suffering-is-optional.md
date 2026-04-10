@@ -1,6 +1,6 @@
 ---
 title: Pain Is Inevitable. Suffering Is Optional.
-modified: 2026-03-13
+modified: 2026-04-10
 ---
 
 > [“The trick is not minding that it hurts.”](https://youtu.be/TvQViPBAvPk) — [Lawrence of Arabia (1962 film)](https://www.imdb.com/title/tt0056172/)
@@ -18,3 +18,7 @@ modified: 2026-03-13
 > 痛是難免的，苦是甘願的。
 
 Say you’re running and you think, ‘Man, this hurts, I can’t take it anymore. The ‘hurt’ part is an unavoidable reality, but whether or not you can stand anymore is up to the runner himself.
+
+---
+
+[Suffering = Pain × Resistance; To suffer more = To suffer before it is necessary](https://weeklyio.substack.com/p/useful-definitions)
