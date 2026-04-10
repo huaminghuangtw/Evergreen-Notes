@@ -1,6 +1,6 @@
 ---
 title: Money
-modified: 2026-04-06
+modified: 2026-04-10
 ---
 
 > “Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence
@@ -158,6 +158,7 @@ Reasonable Rational
 	* Never buy things based on status/[material desires](the-absence-of-desire-is-true-happiness.md). Instead, buy things that make you healthier, wealthier, or provide you free time. It’s called **Practical Materialism**: Products that make a material difference in the quality of your life.
 		* On the one hand, **spend extravagantly** on things you love (e.g., travel).
 		* On the other hand, **save (cut costs) mercilessly** on things you don’t love (e.g., car).
+	* Luxury = Necessity that begins where necessity ends
 * Spending any amount of money to “save money.”
 	* Look at the ROI of your expenses, not the price tag.
 	* Buying quality is key. If you buy quality the first time, it can last a lifetime.
