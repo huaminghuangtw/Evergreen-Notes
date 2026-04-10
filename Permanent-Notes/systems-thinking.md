@@ -1,6 +1,6 @@
 ---
 title: Systems Thinking
-modified: 2026-03-13
+modified: 2026-04-10
 ---
 
 > “The whole is greater than the sum of its parts.” — Aristotle
@@ -37,6 +37,8 @@ The Hermeneutic Circle describes a cyclical process of understanding where one�
 * Preconceptions: The hermeneutic circle also acknowledges that our interpretations are always influenced by our **prior** knowledge, experiences, and assumptions, which serve as our initial “whole” from which we approach the text. These preconceptions can be challenged and revised as we engage with the text.
 
 ---
+
+[Emergence of complex systems = Sufficient interacting parts + Local autonomy + Negative feedback loops + Limited randomness](https://weeklyio.substack.com/p/useful-definitions)
 
 [Complex Systems Emerge From Iterations On Simple Designs](https://nav.al/iterate) by Naval Ravikant
 
