@@ -1,6 +1,6 @@
 ---
 title: Quit social media
-modified: 2026-03-31
+modified: 2026-04-10
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -9,7 +9,7 @@ modified: 2026-03-31
 
 > “The phone-based life makes it difficult for people to be fully present with others when they are with others, and to sit silently with themselves when they are alone.”
 
-> “There are only two industries that refer to their customers as “users”: the illegal drug trade and tech companies. Both thrive by creating addicts and profiting from the addiction.” — [The Social Dilemma (2020 film)](https://www.imdb.com/title/tt11464826/)
+> “There are only two industries that refer to their customers as ‘users’: the illegal drug trade and tech companies. Both thrive by creating addicts and profiting from the addiction.” — [The Social Dilemma (2020 film)](https://www.imdb.com/title/tt11464826/)
 
 > “Social media should be used as a platform to share your efforts (show your work) with the world, not as a place to mindlessly spend your time. The key is realizing that the flow needs to go from the real world into the digital space, not the other way around. Those who understand this will be the ones who succeed in life, almost guaranteed, barring some accident or injury. It’s that simple.” — Andrew Huberman
 
