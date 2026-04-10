@@ -1,6 +1,6 @@
 ---
 title: Why we exist?
-modified: 2026-04-07
+modified: 2026-04-10
 ---
 
 > [“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)
@@ -177,7 +177,7 @@ The **S.H.A.P.E. Assessment** is a self-discovery tool used primarily in Christi
 
 ---
 
-Maslow’s [Hierarchy/Pyramid of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) / [Pyramid](https://xkcd.com/2988)
+[Maslow’s Hierarchy of Needs](maslows-hierarchy-of-needs.md)
 
 ---
 
