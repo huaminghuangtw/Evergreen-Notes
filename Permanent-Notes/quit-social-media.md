@@ -1,6 +1,6 @@
 ---
 title: Quit social media
-modified: 2026-04-10
+modified: 2026-04-11
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -28,6 +28,10 @@ modified: 2026-04-10
 ---
 
 [為什麼我不用社群媒體了？](https://wiwi.blog/blog/why-i-dont-use-social-media)
+
+---
+
+[為什麼我想停止使用社群媒體？](https://www.wen-lab.tw/no-social-media/)
 
 ---
 
