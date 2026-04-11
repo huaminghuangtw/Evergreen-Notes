@@ -174,3 +174,36 @@ Bookcrossings.com. Check it out! I’m not sure if it’s still around, but it�
 I like to bring books and then leave them in different city’s around the world. I found a copy of Christopher Moore’s Lamb at an airport in Calgary many years ago. A note inside said read me and leave me in a new spot. I did just that! I love the book so much, that I have purchased a few copies and left them in different countries.
 
 Kindle is cheaper(if you accept the adds) but it works well only if you stay in the Amazon ecosystem. With Kobo you can side load multiple different formats, it works with public libraries and it has a better software support
+
+
+---
+
+[APA PsycNet](https://psycnet.apa.org/record/1987-33493-001)
+
+In 1987, a Harvard researcher named Daniel Wegner conducted an experiment where he asked participants to verbalize their stream of consciousness for five minutes, saying whatever came to mind.
+
+Ironic Process Theory, which says that the deliberate attempt to suppress a thought may unintentionally amplify it.
+
+
+---
+
+“Watch your thoughts, they become your words; watch your words, they become your actions; watch your actions, they become your habits; watch your habits, they become your character; watch your character, it becomes your destiny.” — Lao Tzu
+
+
+---
+
+“Your mind will take the shape of what you frequently hold in thought, for the human spirit is colored by such impressions.” — Marcus Aurelius
+
+
+---
+
+Black Coffee Theory that illustrates the trap:
+Imagine you walk you into a coffee shop.
+When it's your turn to order, the barista asks you what you want.
+“I don't know. But I definitely don't want black coffee,” you say.
+The barista looks confused, “Ok...but what do you want?”
+“I'm not sure. All I know is I just really don't want black coffee. I can't stand black coffee. I won't drink black coffee. Anything but black coffee.”
+The barista shrugs, takes your payment, and tells you it'll be a few minutes.
+After handling several other customers, the barista walks over to the drink station to make your coffee, but forgets what you ordered.
+“Hmmm, what was it?” they think to themselves. “I remember they kept saying black coffee. Black coffee...that's right.”
+And after five minutes, you're handed a beautiful, bitter, piping hot cup of exactly what you didn't want.
