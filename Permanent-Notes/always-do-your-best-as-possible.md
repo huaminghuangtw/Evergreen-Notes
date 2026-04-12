@@ -1,6 +1,6 @@
 ---
 title: Always do your best as possible
-modified: 2026-04-05
+modified: 2026-04-11
 ---
 
 > “Inspire yourself to be great. Being good isn’t good enough.” — Gurbaksh Chahal
