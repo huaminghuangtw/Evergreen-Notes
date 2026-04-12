@@ -1,6 +1,6 @@
 ---
 title: Do great work
-modified: 2026-03-13
+modified: 2026-04-11
 ---
 
 > “To be great is to be misunderstood.” — Ralph Waldo Emerson
@@ -30,6 +30,16 @@ modified: 2026-03-13
 [“Here’s how to live: Master something.” by Derek Sivers](https://sive.rs/htl08)
 
 > Pick one thing and spend the rest of your life getting deeper into it. Mastery is the best goal because the rich can’t buy it, the [impatient](a-man-who-is-a-master-of-patience-is-master-of-everything-else.md) can’t rush it, the privileged can’t inherit it, and nobody can steal it. You can only earn it through hard work. Mastery is the ultimate status.
+
+---
+
+[Practice Surface Area](https://www.indiehackers.com/post/practice-surface-area-agxYGi9bL0gd1WYYQZAu) perfectly explains why some people seem to level up constantly, while the rest of us wait for the “right time” to practice.
+
+The difference between being good and being great isn’t talent or formal training—it’s the invisible practice that happens as you live your life. Every idle moment becomes a rep.
+
+Those who reach the absolute pinnacle of their craft share a unique trait: [they’ve dissolved the boundary between “practice” and “life.”](https://www.indiehackers.com/post/lifestyle/the-hidden-training-habits-of-21-world-class-performers-m3AgqjN63WLHJGLrKJPa) They’re not working harder; they’ve just made it impossible to stop working. There’s no “off” time; instead, they channel their curiosity into whatever they’re doing.
+
+Once you see it this way, your “working hours” multiply without burning you out—because you’re no longer [switching contexts](task-switching.md). You become the practice.
 
 ---
 
