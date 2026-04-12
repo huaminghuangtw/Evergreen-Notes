@@ -1,6 +1,6 @@
 ---
 title: Stress & Anxiety
-modified: 2026-03-13
+modified: 2026-04-12
 ---
 
 > “Stress happens when the mind resists what is.” — Dan Millman
@@ -115,7 +115,7 @@ They thrive in the space between thinking and doing. They feed on idleness.
 
 Without action, all you can do is worry.
 
-[Action](cultivate-a-strong-bias-towards-action.md) is the antidote.
+[Action](cultivate-a-strong-bias-towards-action.md) is the antidote. (行動是唯一對抗焦慮的方式。)
 
 When you take action, you starve them of the oxygen they need to survive. / Once you begin, fear shrinks as you start to influence the outcome.
 
