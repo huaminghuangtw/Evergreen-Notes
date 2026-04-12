@@ -1,5 +1,5 @@
 ---
-modified: 2026-04-10
+modified: 2026-04-12
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -175,7 +175,6 @@ I like to bring books and then leave them in different city’s around the world
 
 Kindle is cheaper(if you accept the adds) but it works well only if you stay in the Amazon ecosystem. With Kobo you can side load multiple different formats, it works with public libraries and it has a better software support
 
-
 ---
 
 [APA PsycNet](https://psycnet.apa.org/record/1987-33493-001)
@@ -184,26 +183,32 @@ In 1987, a Harvard researcher named Daniel Wegner conducted an experiment where 
 
 Ironic Process Theory, which says that the deliberate attempt to suppress a thought may unintentionally amplify it.
 
-
 ---
 
 “Watch your thoughts, they become your words; watch your words, they become your actions; watch your actions, they become your habits; watch your habits, they become your character; watch your character, it becomes your destiny.” — Lao Tzu
-
 
 ---
 
 “Your mind will take the shape of what you frequently hold in thought, for the human spirit is colored by such impressions.” — Marcus Aurelius
 
-
 ---
 
 Black Coffee Theory that illustrates the trap:
+
 Imagine you walk you into a coffee shop.
-When it's your turn to order, the barista asks you what you want.
-“I don't know. But I definitely don't want black coffee,” you say.
-The barista looks confused, “Ok...but what do you want?”
-“I'm not sure. All I know is I just really don't want black coffee. I can't stand black coffee. I won't drink black coffee. Anything but black coffee.”
-The barista shrugs, takes your payment, and tells you it'll be a few minutes.
+
+When it’s your turn to order, the barista asks you what you want.
+
+“I don’t know. But I definitely don’t want black coffee,” you say.
+
+The barista looks confused, “Ok…but what do you want?”
+
+“I’m not sure. All I know is I just really don’t want black coffee. I can’t stand black coffee. I won’t drink black coffee. Anything but black coffee.”
+
+The barista shrugs, takes your payment, and tells you it’ll be a few minutes.
+
 After handling several other customers, the barista walks over to the drink station to make your coffee, but forgets what you ordered.
-“Hmmm, what was it?” they think to themselves. “I remember they kept saying black coffee. Black coffee...that's right.”
-And after five minutes, you're handed a beautiful, bitter, piping hot cup of exactly what you didn't want.
+
+“Hmmm, what was it?” they think to themselves. “I remember they kept saying black coffee. Black coffee…that’s right.”
+
+And after five minutes, you’re handed a beautiful, bitter, piping hot cup of exactly what you didn’t want.
