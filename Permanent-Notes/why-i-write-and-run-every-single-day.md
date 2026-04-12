@@ -1,7 +1,9 @@
 ---
 title: Why I write and run every single day
-modified: 2026-03-13
+modified: 2026-04-11
 ---
+
+[Why I Write](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/)
 
 > “Energy is eternal delight.” — William Blake
 
