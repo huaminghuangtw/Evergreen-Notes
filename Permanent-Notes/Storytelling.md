@@ -1,9 +1,13 @@
 ---
 title: Storytelling
-modified: 2026-04-10
+modified: 2026-04-13
 ---
 
 > “Human thinking depends on metaphor. We understand new or complex things in relation to things we already know.” — Jonathan Haidt [^1]
+
+---
+
+The best way to share knowledge is to tell a story.
 
 ---
 
