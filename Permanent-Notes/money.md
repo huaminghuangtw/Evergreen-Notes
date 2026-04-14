@@ -1,6 +1,6 @@
 ---
 title: Money
-modified: 2026-04-10
+modified: 2026-04-14
 ---
 
 > “Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence
@@ -104,7 +104,7 @@ Reasonable Rational
 		* We all have 24 hours per day.
 		* We are all being paid per hour rate.
 		* We all trade/rent out time for money at some levels.
-* 開源 節流
+* 開源節流
 	* [Prioritize buying assets consistently over saving excessively.](https://www.goodreads.com/book/show/59046778-just-keep-buying)
 	* Don’t focus on saving (fixed mindset), focus on earning (growth mindset).
 	* Saving has limited downside, earning has unlimited upside.
