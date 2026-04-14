@@ -1,6 +1,6 @@
 ---
 title: How to use AI effectively
-modified: 2026-04-11
+modified: 2026-04-14
 ---
 
 AI 是想法的放大器/加速器，而不是想法的產生器。
@@ -181,8 +181,8 @@ Basic Invitation Structure: _“Act as a \[ROLE\] perform \[TASK\] in \[FORMAT\]
 		* Drag and drop files, folders, or editor tabs onto the chat prompt.
 		* Add problems, test failures, or terminal output to your chat prompt for scenario-specific context.
 		* Add images or screenshots to your prompt to let Copilot analyze the image.
-	* [Reuse prompts with prompt files](https://code.visualstudio.com/docs/copilot/copilot-customization#_prompt-files-experimental)
-	* [Personalize/Customize Copilot with instruction files](https://code.visualstudio.com/docs/copilot/copilot-customization#_custom-instructions)
+	* [Prompt files](https://code.visualstudio.com/docs/copilot/customization/prompt-files)
+	* [Instruction files](https://code.visualstudio.com/docs/copilot/customization/custom-instructions)
 
 [^1]: Why? They often hallucinate confidently.（一本正經地胡說八道/講幹話、似是而非、包裝得煞有其事）
 [^2]: Even when you copy code from elsewhere, you should always type it out manually. Why? It helps reinforce the syntax and structure in your mind. By physically typing the code, you engage more actively with it, which can lead to better understanding and retention.
