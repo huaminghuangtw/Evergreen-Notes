@@ -1,6 +1,6 @@
 ---
 title: Kindness
-modified: 2026-03-30
+modified: 2026-04-16
 ---
 
 > “Kindness is a language which the deaf can hear and the blind can see.” — Mark Twain
@@ -24,6 +24,10 @@ modified: 2026-03-30
 ---
 
 It’s always nice to be nice.
+
+---
+
+A gentle word turns away storm.
 
 ---
 
