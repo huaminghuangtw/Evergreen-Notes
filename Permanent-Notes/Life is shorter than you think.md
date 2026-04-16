@@ -9,7 +9,9 @@ modified: 2026-04-15
 
 > “There are 100 billion planets in our galaxy and only one, as far as we know, with intelligent life. The fact that you are reading this book is the result of the longest tail you can imagine. That’s something to be happy about.” — [@houselPsychologyMoneyTimeless2020]
 
-> “Every man has two lives, and the second starts when he realizes he has just one. (未知生，焉知死)” — Confucius
+> “Every man has two lives, and the second starts when he realizes he has just one.” — Confucius
+>
+> 未知生，焉知死。
 
 > [“A man who dares to waste one hour of time has not discovered the value of life.” — Charles Darwin, The Life & Letters of Charles Darwin](https://www.goodreads.com/quotes/34852-a-man-who-dares-to-waste-one-hour-of-time)
 
@@ -19,7 +21,7 @@ modified: 2026-04-15
 
 ---
 
-人生如蜉蝣，朝生暮死。
+人生如 [蜉蝣](https://www.google.com/search?q=蜉蝣)，朝生暮死。
 
 ---
 
