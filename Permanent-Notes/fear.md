@@ -1,6 +1,6 @@
 ---
 title: Fear
-modified: 2026-03-13
+modified: 2026-04-16
 ---
 
 > “Danger is real, fear is a choice” — Will Smith
@@ -24,6 +24,8 @@ modified: 2026-03-13
 > “Of all the liars in the world, sometimes the worst are our own fears.” — Rudyard Kipling
 
 > “Let us not pray to be sheltered from dangers but to be fearless when facing them.” — Rabindranath Tagore
+
+> “The greatest mistake you can make in life is to be continually fearing you will make one.” — Elbert Hubbard
 
 ---
 
