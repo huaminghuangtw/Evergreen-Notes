@@ -1,13 +1,13 @@
 ---
 title: Love
-modified: 2026-03-17
+modified: 2026-04-17
 ---
 
 > “Love is the absence of judgment.” — Dalai Lama
 
 > “Love is the energy of life.” — Robert Browning
 
-> “Love does not cause suffering: what causes it is the sense of ownership, which is love’s opposite_.” — Antoine de Saint-Exupéry
+> “Love does not cause suffering: what causes it is the sense of ownership, which is love’s opposite.” — Antoine de Saint-Exupéry
 
 > “Love is the only way to grasp another human being in the innermost core of his personality.” — Viktor Frankl
 
@@ -179,7 +179,7 @@ Find a partner who believes in you more than you believe in yourself.
 
 ---
 
-> “Love does not consist in gazing at each other, but in looking.” — Antoine De Saint-Exupéry
+> “Love does not consist of gazing at each other, but in looking outward together in the same direction.” — Antoine De Saint-Exupéry
 
 * Is this relationship making me fulfilled or just less lonely? If a relationship isn’t creating feelings of fulfillment, it won’t last.
 * Find the people who create your fulfillment, not just reduce your loneliness.
