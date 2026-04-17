@@ -1,6 +1,6 @@
 ---
 title: Wu Wei
-modified: 2026-03-18
+modified: 2026-04-17
 ---
 
 > “Nature never hurries, yet everything is accomplished.” — Lao Tzu
@@ -8,6 +8,12 @@ modified: 2026-03-18
 > 道常無為而無不為。
 
 > “We do so much, we run so quickly, the situation is difficult, and many people say, “Don’t just sit there, do something.” But doing more things may make the situation worse. So you should say, “Don’t just do something, sit there.” Sit there, stop, be yourself first, and begin from there.” — Thích Nhất Hạnh, [Being Peace](https://www.goodreads.com/work/quotes/321908)
+
+> “Don’t underestimate the value of doing nothing, of just going along, listening to all the things you can’t hear, and not bothering.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)
+
+> “People say nothing is impossible, but I do nothing every day.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)
+
+> “Doing nothing often leads to the very best of something.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)
 
 ---
 
