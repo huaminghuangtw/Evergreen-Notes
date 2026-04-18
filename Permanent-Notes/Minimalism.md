@@ -1,13 +1,11 @@
 ---
 title: Minimalism
-modified: 2026-03-13
+modified: 2026-04-18
 ---
 
 [@collinsSimplePathWealth2016]
 
 > “You own the things you own and they in turn own you.” [^1]
-
-> “Shape clay into a vessel; It is the space/emptiness within that makes it useful. Cut doors and windows for a room; > It is the holes which make it useful. Therefore benefit comes from what is there; Usefulness from what is not there.” — Laozi [^2]
 
 ---
 
@@ -73,4 +71,3 @@ Always eliminate first, then accumulate.
 [Addition by subtraction](addition-by-subtraction.md)
 
 [^1]: _[“The things you own end up owning you” — Fight Club (1999 film)](https://youtu.be/zp-eEVkKh60)_
-[^2]: It’s the empty space that makes the room useful.
