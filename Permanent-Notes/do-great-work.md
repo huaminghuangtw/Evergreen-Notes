@@ -1,6 +1,6 @@
 ---
 title: Do great work
-modified: 2026-04-11
+modified: 2026-04-19
 ---
 
 > “To be great is to be misunderstood.” — Ralph Waldo Emerson
@@ -35,15 +35,15 @@ modified: 2026-04-11
 
 [Practice Surface Area](https://www.indiehackers.com/post/practice-surface-area-agxYGi9bL0gd1WYYQZAu) perfectly explains why some people seem to level up constantly, while the rest of us wait for the “right time” to practice.
 
-The difference between being good and being great isn’t talent or formal training—it’s the invisible practice that happens as you live your life. Every idle moment becomes a rep.
+The difference between being good and being great isn’t talent or formal training—it’s the invisible practice that happens as you live your life. Every idle moment becomes a rep. [^3]
 
 Those who reach the absolute pinnacle of their craft share a unique trait: [they’ve dissolved the boundary between “practice” and “life.”](https://www.indiehackers.com/post/lifestyle/the-hidden-training-habits-of-21-world-class-performers-m3AgqjN63WLHJGLrKJPa) They’re not working harder; they’ve just made it impossible to stop working. There’s no “off” time; instead, they channel their curiosity into whatever they’re doing.
 
-Once you see it this way, your “working hours” multiply without burning you out—because you’re no longer [switching contexts](task-switching.md). You become the practice.
+Once you see it this way, your “working hours” multiply without [burning you out](Burnout.md)—because you’re no longer [switching contexts](task-switching.md). You become the practice.
 
 ---
 
- _[“A Stroke of Genius: Striving for Greatness in All You Do” by Richard Hamming](https://www.mccurley.org/advice/hamming_advice.html)_ [^3] [^4]
+ _[“A Stroke of Genius: Striving for Greatness in All You Do” by Richard Hamming](https://www.mccurley.org/advice/hamming_advice.html)_ [^4] [^5]
 
 > If you are to do important work then you must work on the right problem at the right time and in the right way. Without any one of the three, you may do good work but you will almost certainly miss real greatness. […] The first person to produce definitive results generally gets all the credit. Those who come in second are soon forgotten. Thus working on the problem at the right time is essential. […] Hard work is a trait that most great scientists have. Edison said that genius was 99% perspiration and 1% inspiration. Newton said that if others would work as hard as he did then they would get similar results. Hard work is necessary but it is not sufficient. Most people do not work as hard as they easily could. However, many who do work hard — work on the wrong problem, at the wrong time, in the wrong way, and have very little to show for it.
 
@@ -75,7 +75,7 @@ Cultivating infinite devotion with internal drive is the prerequisite for becomi
 
 If it’s worth doing, it’s worth doing very well.
 
----
+—
 
 精進/偉大/專家/頂尖之路是<mark>短時間進步、長時間停滯</mark>的旅程，要學會「享受」[過程](journey-over-destination.md) 中的高原期 (Plateau)
 
@@ -100,5 +100,6 @@ If it’s worth doing, it’s worth doing very well.
 
 [^1]: _“Work is love made visible.” — Kahlil Gibran_
 [^2]: _“Doing what you love is the cornerstone of having abundance in your life.” — Wayne Dyer_
-[^3]: 美國數學家，圖靈獎得主，「漢明碼」的發明人。 1946 至 1976 年在貝爾實驗室 (Bell Telephone Laboratory) 工作，1956 年參與了 IBM 650 的程式設計語言發展工作。 它是美國電腦協會 (ACM) 的創立人之一，曾任該組織的主席。
-[^4]: [Another great one](https://youtu.be/a1zDuOPkMSw) [by Richard Hamming](https://www.essra.org.cn/view-1000-3224.aspx): [“You and Your Research”](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+[^3]: aka [Microproductivity](https://www.google.com/search?q=Microproductivity)
+[^4]: 美國數學家，圖靈獎得主，「漢明碼」的發明人。 1946 至 1976 年在貝爾實驗室 (Bell Telephone Laboratory) 工作，1956 年參與了 IBM 650 的程式設計語言發展工作。 它是美國電腦協會 (ACM) 的創立人之一，曾任該組織的主席。
+[^5]: [Another great one](https://youtu.be/a1zDuOPkMSw) [by Richard Hamming](https://www.essra.org.cn/view-1000-3224.aspx): [“You and Your Research”](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
