@@ -1,6 +1,6 @@
 ---
 title: Live in the present
-modified: 2026-03-25
+modified: 2026-04-20
 ---
 
 > “Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why we call it the present” — Eleanor Roosevelt
@@ -125,6 +125,14 @@ We often treat the present as a _vehicle for something else_, failing to see tha
 ---
 
 [Any moment when you’re not in that moment, you are dead to that moment. The time you enjoy wasting is not a waste of time. The true waste of time is a time that you are not present for.](https://youtu.be/KyfUysrNaco?t=5111s)
+
+---
+
+Give yourself completely to this moment, not as sacrifice, but as trust. What you pour into the present does not vanish; it becomes the quiet architecture of the future.
+
+---
+
+You do not live in the past or the future, only in the fleeting edge of now, and time is not something you can save or store. It simply passes, lived or unlived, so loosen your grip on constant productivity and leave space for the unmeasured and the quiet, because that is where wonder lives, in the small, ordinary moments that are not distractions from life but life itself.
 
 ---
 
