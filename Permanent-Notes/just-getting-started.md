@@ -1,6 +1,6 @@
 ---
 title: Just getting started
-modified: 2026-03-21
+modified: 2026-04-21
 ---
 
 > “Begin anywhere.” — John Cage
