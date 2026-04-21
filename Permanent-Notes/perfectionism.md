@@ -1,6 +1,6 @@
 ---
 title: Perfectionism
-modified: 2026-04-10
+modified: 2026-04-20
 ---
 
 > “You don’t have to be great to start, but you have to start to be great.” — Zig Ziglar
@@ -30,7 +30,7 @@ Perfectionism is a [double-edged sword (雙面刃)](duality-vs-polarity.md). On 
 
 ---
 
-# The Power Of Embracing Imperfection
+# The Power of Embracing Imperfection
 
 > “Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.” — Bob Marley
 
@@ -41,6 +41,8 @@ You are not perfect, nor should you try to be. Your flaws attract the right peop
 > 「修真養性，服食導引，卻病延年，沖舉可俟。」—《東周列國志》第 87 回
 
 > 比丘常帶三分病，是助道因緣。
+
+[The Catfish Effect](the-catfish-effect.md)
 
 ---
 
