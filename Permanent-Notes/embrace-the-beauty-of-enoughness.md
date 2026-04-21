@@ -1,6 +1,6 @@
 ---
 title: Embrace the beauty of enoughness
-modified: 2026-03-13
+modified: 2026-04-21
 ---
 
 > 「真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。」 — 沈芯菱 [^1]
@@ -22,6 +22,8 @@ modified: 2026-03-13
 > “Those who are not satisfied with a little, are satisfied with nothing.” — Epicurus
 
 > “Many people were increasingly of the opinion that they’d all made a big mistake in coming down from the trees in the first place. And some said that even the trees had been a bad move, and that no one should ever have left the oceans to begin with.” — The Hitchhiker’s Guide to the Galaxy by Douglas Adams
+
+> “The fact that you’re alive is a miracle. Just stay alive, that would be enough.” — Hamilton (2015 muscial)
 
 ---
 
