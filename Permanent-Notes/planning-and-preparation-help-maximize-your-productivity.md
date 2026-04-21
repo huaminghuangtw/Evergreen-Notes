@@ -1,6 +1,6 @@
 ---
 title: Planning and preparation help maximize your productivity
-modified: 2026-03-13
+modified: 2026-04-21
 ---
 
 > [“The antidote to impulsiveness is forethought.” — Nir Eyal](https://youtu.be/VVez_sI1zTU)
@@ -40,6 +40,8 @@ The ultimate form of preparation is not planning for a specific scenario, but [a
 Planning and [doing](cultivate-a-strong-bias-towards-action.md) are two different modes of operation. **Separate planning from doing.** [^1] Spend some time on _[task value/priority evaluation/assessment](Prioritization.md)_ before any commitments/effort. It’s worth it. [^2]
 
 ---
+
+Keep in mind: planning, strategizing, and organizing often get in the way of [doing](cultivate-a-strong-bias-towards-action.md).
 
 ❗️Be aware of [the difference between “being in motion” and “taking action”](https://jamesclear.com/taking-action) [^3]
 
