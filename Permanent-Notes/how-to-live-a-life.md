@@ -1,6 +1,6 @@
 ---
 title: How to live a life
-modified: 2026-04-10
+modified: 2026-04-21
 ---
 
 > “As long as you live, keep learning how to live.” — Seneca
@@ -46,6 +46,8 @@ modified: 2026-04-10
 > How fully did you live?
 > How deeply did you let go?”
 > — Jack Kornfield
+
+> “Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!” — Sathya Sai Baba
 
 ---
 
