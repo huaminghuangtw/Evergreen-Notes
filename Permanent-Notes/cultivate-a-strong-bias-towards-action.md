@@ -1,12 +1,14 @@
 ---
 title: Cultivate a strong bias towards action
-modified: 2026-04-10
+modified: 2026-04-21
 ---
 
 > “To be is to do.” — Immanuel Kant
 
 > “Nothing will work unless you do.” — Maya Angelou
 
+> “The way to get started is to quit talking and begin doing.” — Walt Disney
+>
 > “It is better to light a single candle than to curse the darkness.” — Eleanor Roosevelt
 
 > “Strategy is a commodity, execution is an art.” — Peter Drucker
