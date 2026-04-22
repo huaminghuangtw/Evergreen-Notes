@@ -1,6 +1,6 @@
 ---
 title: Startups
-modified: 2026-04-18
+modified: 2026-04-22
 ---
 
 * First step: attract great people
@@ -16,6 +16,12 @@ modified: 2026-04-18
 		* As soon as you add a 13th person to the team, suddenly everything breaks, because 12 people can fit around the same table, and 12 people can all basically be managed by the same general manager
 		* As soon as you get to 13, now all of a sudden you need to split up into different teams. You need managers to manage those teams. This causes communication overhead.
 		* Desert Territory: your company is too big to be small and too small to be big in between 12 people and 40 people
+	* [Smaller teams are better](https://nat.org/#:~:text=Smaller%20teams%20are%20better)
+		* Faster decisions, fewer meetings, more fun
+		* No need to chop up work for political reasons
+		* No room for mediocre people (can pay more, too!)
+		* Large-scale engineering projects are more soluble in IQ than they appear
+* Many tech companies are 2-10x overstaffed
 	* Criteria for hiring someone: energy > expertise > money (salary)
 		* Hard skills get you hired. Soft skills get you promoted.
 	* [A much better way to get really effective people](https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185)
