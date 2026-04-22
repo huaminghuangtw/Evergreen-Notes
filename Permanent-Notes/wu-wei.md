@@ -1,6 +1,6 @@
 ---
 title: Wu Wei
-modified: 2026-04-17
+modified: 2026-04-22
 ---
 
 > “Nature never hurries, yet everything is accomplished.” — Lao Tzu
@@ -14,6 +14,8 @@ modified: 2026-04-17
 > “People say nothing is impossible, but I do nothing every day.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)
 
 > “Doing nothing often leads to the very best of something.” — A.A. Milne, [Winnie-the-Pooh](https://www.goodreads.com/work/quotes/1225592)
+
+> [“Better remain silent, better not even think, if you are not prepared to act.” — Annie Besant](https://www.brainyquote.com/quotes/annie_besant_169913)
 
 ---
 
