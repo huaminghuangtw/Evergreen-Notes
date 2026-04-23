@@ -1,13 +1,13 @@
 ---
 title: Live in the present
-modified: 2026-04-20
+modified: 2026-04-23
 ---
 
 > “Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why we call it the present” — Eleanor Roosevelt
 
 > “You pile up enough to morrows, and you’ll find you are left with nothing but a lot of empty yesterdays.” — Meredith Willson, The Music Man
 
-> “Forget yesterday - it has already forgotten you. Don’t sweat tomorrow - you haven’t even met. Instead, open your eyes and your heart to a truly precious gift - today.” — Steve Maraboli
+> [“Forget yesterday - it has already forgotten you. Don’t sweat tomorrow - you haven’t even met. Instead, open your eyes and your heart to a truly precious gift - today.” — Steve Maraboli, Life, the Truth, and Being Free](http://goodreads.com/quotes/318956-forget-yesterday---it-has-already-forgotten-you-don-t-sweat)
 
 > “If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.” — Roy T. Bennett [^1]
 
@@ -149,10 +149,6 @@ You do not live in the past or the future, only in the fleeting edge of now, and
 ---
 
 [Time is the most valuable asset](time-is-the-most-valuable-asset.md)
-
----
-
-[The Day of No Reason: When Logic Meets Joy](the-day-of-no-reason-when-logic-meets-joy.md)
 
 [^1]: Live in the “here and now,” focusing on what we can do today instead of dwelling on the past or worrying about the future.
 [^2]: (adv.) for an intervening or temporary period of time
