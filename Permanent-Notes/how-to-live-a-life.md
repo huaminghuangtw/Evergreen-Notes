@@ -1,11 +1,13 @@
 ---
 title: How to live a life
-modified: 2026-04-21
+modified: 2026-04-23
 ---
 
 > “As long as you live, keep learning how to live.” — Seneca
 
 > “Begin at once to live, and count each separate day as a separate life.” — Seneca
+
+> “Let every dawn of morning be to you as the beginning of life, and every setting sun be to you as its close.” — John Ruskin, [The Two Paths](https://www.goodreads.com/work/quotes/2166737)
 
 > “Life is a question and how we live it is our answer.” — [@kellerOneThingSurprisingly2013]
 
