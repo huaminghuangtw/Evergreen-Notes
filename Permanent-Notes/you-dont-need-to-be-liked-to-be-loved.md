@@ -79,4 +79,4 @@ There is no sure path to success, but the surest path to failure is trying to pl
 
 ---
 
- [We don’t get a lot of things to really care about](we-dont-get-a-lot-of-things-to-really-care-about.md)
+ [We don’t get a lot of things to really care about](../../Brainfoodie/posts/we-dont-get-a-lot-of-things-to-really-care-about.md)
