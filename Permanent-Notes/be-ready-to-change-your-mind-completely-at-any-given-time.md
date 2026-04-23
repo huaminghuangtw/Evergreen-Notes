@@ -1,6 +1,6 @@
 ---
 title: Be ready to change your mind completely at any given time
-modified: 2026-03-21
+modified: 2026-04-23
 ---
 
 > [“Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won’t come in.” — Alan Alda](https://www.goodreads.com/quotes/667214-your-assumptions-are-your-windows-on-the-world-scrub-them)
