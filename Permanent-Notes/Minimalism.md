@@ -1,7 +1,9 @@
 ---
 title: Minimalism
-modified: 2026-04-18
+modified: 2026-04-23
 ---
+
+> “The ability to simplify means to eliminate the unnecessary so that the necessary may speak.” — Hans Hofmann
 
 [@collinsSimplePathWealth2016]
 
