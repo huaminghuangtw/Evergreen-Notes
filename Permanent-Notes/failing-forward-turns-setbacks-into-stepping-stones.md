@@ -1,7 +1,9 @@
 ---
 title: Failing forward turns setbacks into stepping stones
-modified: 2026-03-27
+modified: 2026-04-23
 ---
+
+> “A stumble may prevent a fall.” — Gretchen Rubin
 
 > “Opportunity often comes disguised in the form of misfortune or temporary defeat.” — Napoleon Hill
 
