@@ -1,6 +1,6 @@
 ---
 title: Work hard
-modified: 2026-03-13
+modified: 2026-04-23
 ---
 
 > “Without ambition one starts nothing. Without work one finishes nothing. The prize will not be sent to you. You have to win it.” — Ralph Waldo Emerson
@@ -16,6 +16,10 @@ modified: 2026-03-13
 ---
 
 [You can get to the top-10% by either working hard OR smart, but you can only reach the top-1% by working hard AND smart.](https://blog.samaltman.com/how-to-be-successful)
+
+---
+
+[Working hard isn’t just about attitude. Working hard and trying your best every time is a skill that can be trained and practiced.](https://youtu.be/L_l9-bpvW5c?t=2939s)
 
 ---
 
