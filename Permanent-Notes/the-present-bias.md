@@ -1,11 +1,11 @@
 ---
 title: The Present Bias
-modified: 2026-03-13
+modified: 2026-04-24
 ---
 
 > “The future is always beginning now.” — Mark Strand
 
-> “Most people overestimate what they can do in one year and underestimate what they can do in ten years.” — Bill Gates
+> “Most people overestimate what they can do in one year and underestimate what they can do in ten years.” — Bill Gates [^1]
 
 ---
 
@@ -13,7 +13,7 @@ modified: 2026-03-13
 
 ---
 
-**Present Bias** refers to the cognitive tendency for people to give stronger weight to immediate rewards over future ones, even when the future benefits are larger. [^1]
+**Present Bias** refers to the cognitive tendency for people to give stronger weight to immediate rewards over future ones, even when the future benefits are larger. [^2]
 
 This bias explains why we might [procrastinate](procrastination.md), overeat, or under-save for retirement — the _now_ feels more important than the _later_. As the moment of choice arrives, our preferences often shift, a phenomenon known as **[time inconsistency](https://www.google.com/search?q=time+inconsistency)**.
 
@@ -33,7 +33,7 @@ This can lead to [impatience](a-man-who-is-a-master-of-patience-is-master-of-eve
 
 # Related Concepts
 
-* [Time Inconsistency](https://en.wikipedia.org/wiki/Time_inconsistency) 時間不一制性 [^2]
+* [Time Inconsistency](https://en.wikipedia.org/wiki/Time_inconsistency) 時間不一制性 [^3]
 * [Hyperbolic Discounting](https://en.wikipedia.org/wiki/Hyperbolic_discounting) 雙曲貼現
 
 ---
@@ -46,5 +46,6 @@ This can lead to [impatience](a-man-who-is-a-master-of-patience-is-master-of-eve
 * **Make Future Consequences Salient**: Visualize or simulate the future impact of your choices.
 * **Break Big Goals into Small Steps**: Immediate wins help bridge the gap between now and later.
 
-[^1]: The tendency to overvalue the present, often at the expense of the future.
-[^2]: 又稱「動態不一致性（Dynamic Inconsistency）」
+[^1]: _“We tend to overestimate what we can do in a day and underestimate what we can achieve in a decade. Miraculous things can be accomplished if you give it 10 years.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)_
+[^2]: The tendency to overvalue the present, often at the expense of the future.
+[^3]: 又稱「動態不一致性（Dynamic Inconsistency）」
