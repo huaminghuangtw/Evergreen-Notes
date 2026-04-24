@@ -1,7 +1,9 @@
 ---
 title: Life is chaotic
-modified: 2026-03-13
+modified: 2026-04-24
 ---
+
+> “A vacation + a disaster = an adventure.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
 
 > “Everyone has a plan until they get punched in the mouth.” — Mike Tyson
 
