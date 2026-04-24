@@ -1,6 +1,6 @@
 ---
 title: Feedback
-modified: 2026-04-06
+modified: 2026-04-24
 ---
 
 # On Giving Feedback
@@ -73,6 +73,10 @@ Instead of using the “criticism sandwich (criticize twice, praise once)” met
 	> Example: “…which made it harder for her to finish/share her points/ideas and slowed the discussion.”
 
 # On Receiving Feedback
+
+> “If you ask for someone’s feedback, you’ll get a critic. But if instead you ask for advice, you’ll get a partner.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
+
+---
 
 When people hesitate to give you honest feedback, ask for a score from 0—10, instead of asking, “_What do you think?_”—which invites ambiguity. You’ll rarely get a perfect 10, and this makes it easy to follow up with, “_What would make this closer to a 10?_” Better questions lead to better feedback—and faster growth.
 
