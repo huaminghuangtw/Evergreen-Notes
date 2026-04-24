@@ -1,6 +1,6 @@
 ---
 title: Optimism
-modified: 2026-04-07
+modified: 2026-04-24
 ---
 
 > “Turn your face to the sun, as flowers know how to do.” — Ming-Dao Deng [^1]
@@ -12,6 +12,8 @@ modified: 2026-04-07
 > “It is better to light a single candle than to curse the darkness.” — Eleanor Roosevelt
 
 > “We should be optimistic not because we believe that our problems are smaller than we thought. We should be optimistic because we believe that our capacity to solve problems is greater than we thought.” — from TED Talk “[The Future Will Be Shaped by Optimists](https://youtu.be/FrqBWQ-mVEc)” by Kevin Kelly
+
+> “Embrace pronoia which is the opposite of paranoia. Choose to believe that the entire universe is conspiring behind your back to make you a success.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
 
 > “[Cynacism](cynicism.md) is easy. Mimicry is easy. Optimistic contrarians are the rarest breed.” — Naval Ravikant
 
