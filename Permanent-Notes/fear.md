@@ -1,6 +1,6 @@
 ---
 title: Fear
-modified: 2026-04-16
+modified: 2026-04-24
 ---
 
 > “Danger is real, fear is a choice” — Will Smith
@@ -26,6 +26,8 @@ modified: 2026-04-16
 > “Let us not pray to be sheltered from dangers but to be fearless when facing them.” — Rabindranath Tagore
 
 > “The greatest mistake you can make in life is to be continually fearing you will make one.” — Elbert Hubbard
+
+> “Fear is fueled by a lack of imagination. The antidote to fear is not bravery; it looks more like imagination.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
 
 ---
 
