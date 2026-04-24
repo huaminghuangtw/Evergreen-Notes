@@ -1,6 +1,6 @@
 ---
 title: Escape competition through authenticity
-modified: 2026-03-13
+modified: 2026-04-24
 ---
 
 > “Everything popular is wrong.” — Oscar Wilde
@@ -76,6 +76,16 @@ Find a thing that’s so you, that doing it is just a natural extension of you b
 > 「無用之用，方為大用。」— 莊子
 
 人注定要成功。每個人都很獨特，天生就具備與眾不同的能力與特質。成功來自於 [發現真正的自己](mastering-yourself-is-superpower.md)，開發自己尚未開發的潛能。而發揮潛能，靠得不是忍受每天的磨練，而是把每天的磨練轉變成日常快樂的泉源（「刻意玩樂 Deliberate Play」）。
+
+---
+
+| ![](_attachments/2a6b167ee0a15d96f90a14eb215e2f17.jpg) |
+| :-: |
+| <sub>[Source](https://www.lizandmollie.com/)</sub> |
+
+> “Don’t measure your life with someone else’s ruler.” — Kevin Kelly
+
+> “You don’t have to live your life the way other people expect you to.” — Chris Guillebeau
 
 ---
 
