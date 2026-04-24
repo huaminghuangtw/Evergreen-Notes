@@ -1,6 +1,6 @@
 ---
 title: Speak less, listen more
-modified: 2026-03-13
+modified: 2026-04-24
 ---
 
 > [“Shallow rivers are noisy. Deep lakes are silent.” — Derek Sivers](https://sive.rs/h)
@@ -10,6 +10,8 @@ modified: 2026-03-13
 > “We assume that the more arguments we give, the better our case. In reality, our weakest arguments dilute the strongest. Generally, you’ll only be as convincing as your worst point, so instead of making as many arguments as you can, make only the best.” — Gurwinder Bhogal
 
 > [“Those who know do not speak. Those who speak do not know.” — Lao Tsu, Tao Teh Ching](https://www.goodreads.com/quotes/9187-those-who-know-do-not-speak-those-who-speak-do)
+
+> “Even if you don’t say anything if you listen carefully people will consider you a great conversationalist.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
 
 ---
 
