@@ -1,9 +1,10 @@
 ---
 title: Variants of to-do list
-modified: 2026-03-13
+modified: 2026-04-24
 ---
 
 **Could-Do List → Should-Do List → Must-Do list
+
 ![](_attachments/03b72c8602f12f209e5c9cd6acef74f7.png)**
 
 ---
@@ -45,7 +46,9 @@ modified: 2026-03-13
 
 ---
 
-# [The "Done List"](https://www.oliverburkeman.com/donelist)
+# [The Done List](https://www.oliverburkeman.com/donelist)
+
+> “When you are anxious because of your to-do list take comfort in your have-done list.” — Kevin Kelly
 
 * Why?
 	* Many people seem to feel as if they start off each morning in a kind of “Productivity Debt”, which they must struggle to pay off through the day, in hopes of reaching a zero balance by the time evening comes.
