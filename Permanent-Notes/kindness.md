@@ -23,7 +23,7 @@ modified: 2026-04-21
 
 ---
 
-![](_attachments/2026_04_21_13_30_38.jpg)
+![](_attachments/be22893548ce91c4bc192d6fe7147372.jpg)
 
 ---
 
