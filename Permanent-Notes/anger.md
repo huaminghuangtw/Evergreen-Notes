@@ -1,6 +1,6 @@
 ---
 title: Anger
-modified: 2026-03-13
+modified: 2026-04-24
 ---
 
 > “Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.” — Mark Twain
@@ -24,6 +24,8 @@ modified: 2026-03-13
 > “A quick temper will make a fool of you soon enough.” — Bruce Lee
 
 > The strongest among you is the one who controls his anger.
+
+> “Anger is not the proper response to anger. When you see someone angry you are seeing their pain. Compassion is the proper response to anger.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
 
 ---
 
