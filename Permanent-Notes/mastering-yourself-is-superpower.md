@@ -1,6 +1,6 @@
 ---
 title: Mastering yourself is superpower
-modified: 2026-03-25
+modified: 2026-04-24
 ---
 
 > “Knowing yourself is the beginning of all wisdom.” — Aristotle
@@ -28,6 +28,8 @@ modified: 2026-03-25
 > “The degree to which a person can grow is directly proportional to the amount of truth he can accept about himself without running away.” — Leland Val Van De Wall [^1]
 
 > “Until you make the unconscious conscious, it will direct your life and you will call it fate.” — Carl Jung
+
+> “A great way to understand yourself is to seriously reflect on everything you find irritating in others.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
 
 ---
 
