@@ -1,6 +1,6 @@
 ---
 title: Slow down to speed up
-modified: 2026-03-13
+modified: 2026-04-24
 ---
 
 [@ferriss4hourWorkweekEscape2011]
@@ -12,6 +12,8 @@ modified: 2026-03-13
 > “The paradox of slowness is that you will find you accomplish the task more quickly and with less effort because you are not wasting energy. Try it and you will see.” — Thomas M. Sterner, [The Practicing Mind: Bringing Discipline and Focus into Your Life](https://www.goodreads.com/work/quotes/326331)
 
 > “This world can overwhelm. But if you slow down, and sit under a tree long enough, it’ll tell you everything. And if you forget who you are, draw something. Or go walk alone. Nature remembers you.” — Robert Redford
+
+> “Don’t be in haste. When you are in a hurry you are more easily conned or manipulated.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
 
 ---
 
