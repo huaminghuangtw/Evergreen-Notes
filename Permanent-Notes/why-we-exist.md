@@ -1,6 +1,6 @@
 ---
 title: Why we exist?
-modified: 2026-04-10
+modified: 2026-04-24
 ---
 
 > [“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)
@@ -156,6 +156,8 @@ Successful people don’t have a career, they have a mission. Most of them are t
 > “(It’s true that) none of us will get to live forever(, but) none of the people who die are gone. They’re with us every day. I once heard a pastor at a church say that they’re like ships sailing out of the harbor. Yes, at some point, as they get past the horizon, we can’t see them anymore. But that doesn’t mean they’re gone. I don’t think we ever lose the people who pass away. They stay with us every day, in our memories, but also in the way they shaped our lives.” — Arnold Schwarzenegger
 
 > “No one is finally dead until the ripples they cause in the world die away, until the clock wound up winds down, until the wine she made has finished its ferment, until the crop they planted is harvested. The span of someone’s life is only the core of their actual existence.” — Terry Pratchett, Reaper Man
+
+> “Before you are old, attend as many funerals as you can bear and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
 
 The great use of life is to spend it for something that outlasts it. To be remembered by people is to live forever.
 
