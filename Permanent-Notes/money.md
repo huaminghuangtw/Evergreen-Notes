@@ -1,6 +1,6 @@
 ---
 title: Money
-modified: 2026-04-14
+modified: 2026-04-24
 ---
 
 > “Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence
@@ -65,8 +65,12 @@ Reasonable Rational
 
 				> “I want it, but I can’t afford it” ➞ “I can afford this and more, but I don’t need it.”
 
-			* [John D. Rockefeller was worth the equivalent of $400 billion, but he never had penicillin, sunscreen, or Advil. For most of his adult life he didn’t have electric lights, air conditioning, or sunglasses. **Everything about wealth is circumstances in the context of expectations.**](https://collabfund.com/blog/little-rules-about-big-things/)
 			* Manage Your Expectations: You can be financially poor, but psychologically rich.
+			* 《[致富心態](https://www.google.com/search?q=致富心態)》（The Psychology of Money）的作者 [Morgan Housel](https://www.google.com/search?q=Morgan+Housel) [曾舉過一個例子](https://collabfund.com/blog/little-rules-about-big-things/#:~:text=John%20D.%20Rockefeller%20was%20worth%20the%20equivalent%20of%20%24400%20billion%2C%20but%20he%20never%20had%20penicillin%2C%20sunscreen%2C%20or%20Advil.%20For%20most%20of%20his%20adult%20life%20he%20didn%E2%80%99t%20have%20electric%20lights%2C%20air%20conditioning%2C%20or%20sunglasses.%20Everything%20about%20wealth%20is%20circumstances%20in%20the%20context%20of%20expectations.)：
+
+> [約翰 · 洛克斐勒](https://www.google.com/search?q=John+D.+Rockefeller) 的財富相當於四千億美元，但他一生中從未擁有過青黴素、防曬乳或止痛藥。在他大部分成年時期，沒有電燈、空調或太陽眼鏡。財富的感受，取決於所處的時代背景與期望。
+>
+> John D. Rockefeller was worth the equivalent of $400 billion, but he never had penicillin, sunscreen, or Advil. For most of his adult life he didn’t have electric lights, air conditioning, or sunglasses. Everything about wealth is circumstances in the context of expectations.
 
 # On Making Money
 
