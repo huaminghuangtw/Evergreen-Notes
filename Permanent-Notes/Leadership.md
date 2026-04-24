@@ -1,9 +1,11 @@
 ---
 title: Leadership
-modified: 2026-03-13
+modified: 2026-04-24
 ---
 
 > “To lead people, walk beside them.” — Lao Tzu
+
+> “You lead by letting others know what you expect of them, which may exceed what they themselves expect. Provide them a reputation that they can step up to.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
 
 > [“The way to help someone is not to critique what makes them smaller, but to encourage what makes them larger.” — James Clear](https://jamesclear.com/3-2-1/march-20-2025) [^1]
 
