@@ -1,6 +1,6 @@
 ---
 title: Be a habit and routine machine
-modified: 2026-03-30
+modified: 2026-04-24
 ---
 
 > “Outer order contributes to inner calm.” — Gretchen Rubin
@@ -13,7 +13,11 @@ modified: 2026-03-30
 
 > “Habits are the compound interest of self-improvement. The same way that money multiplies through compound interest.” — James Clear
 
+> “The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
+
 > “People do not decide their futures, they decide their habits and their habits decide their futures.” — F. Matthias Alexander
+
+> “Habit is far more dependable than inspiration. Make progress by making habits. Don’t focus on getting into shape. Focus on becoming the kind of person who never misses a workout.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
 
 [@curreyDailyRitualsHow2013]
 
