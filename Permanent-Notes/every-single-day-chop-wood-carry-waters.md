@@ -1,6 +1,6 @@
 ---
 title: Every single day, chop wood, carry waters
-modified: 2026-04-06
+modified: 2026-04-24
 ---
 
 > [“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)
@@ -184,6 +184,8 @@ EVERYDAY is easier than SOMEDAY. [^4] Embrace the daily mundane activities / ord
 ---
 
 > “Eighty percent of success is showing up.” — Woody Allen
+
+> “Keep showing up. 99% of success is just showing up. In fact, most success is just persistence.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
 
 On your bad days, you have a choice to make:
 
