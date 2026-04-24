@@ -1,6 +1,6 @@
 ---
 title: Train yourself not to worry
-modified: 2026-03-13
+modified: 2026-04-24
 ---
 
 > “Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.” — Benjamin Franklin
@@ -10,6 +10,8 @@ modified: 2026-03-13
 > [“Take all the energy you spend on 1) worrying about the past 2) worrying about the future 3) worrying about what others think 4) worrying about if you might fail, and channel that energy into one useful action within your control.” — James Clear](https://jamesclear.com/3-2-1/march-27-2025)
 
 > [“No amount of regretting can change the past, and no amount of worrying can change the future.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7553698-no-amount-of-regretting-can-change-the-past-and-no)
+
+> “A good question to ask yourself today is “What might I be wrong about?” This is the only worry worth having.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
 
 ---
 
