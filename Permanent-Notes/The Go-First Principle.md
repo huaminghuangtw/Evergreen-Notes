@@ -1,11 +1,13 @@
 ---
 title: The Go-First Principle
-modified: 2026-03-13
+modified: 2026-04-24
 ---
 
 > “I always say that I’ll go first. That means if I’m checking out at the store, I’ll say hello first. If I’m coming across somebody and make eye contact, I’ll smile first. \[I wish\] people would experiment with that in their life a little bit. Be first, because — not all times, but most times — it comes in your favor.” — Olympic champion [Gabby Reece](https://www.google.com/search?q=Gabby+Reece)
 
 > [“People are friendly, but you have to go first.” — Ali Abdaal](https://aliabdaal.com/newsletter/the-go-first-rule/)
+
+> “Everyone is shy. Other people are waiting for you to introduce yourself to them; they are waiting for you to send them an email; they are waiting for you to ask them on a date. Go ahead.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
 
 ---
 
