@@ -1,6 +1,6 @@
 ---
 title: Negative Space
-modified: 2026-04-18
+modified: 2026-04-24
 ---
 
 = 負空間
@@ -17,7 +17,7 @@ Negative space refers to the empty or unmarked areas that surround and define th
 
 常見於：painting, photography, and graphic design
 
-Absence is not a void to be filled, but a presence that highlight the subject
+Absence is not a void to be filled, but a presence that highlight the subject.
 
 ---
 
