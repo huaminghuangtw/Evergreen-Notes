@@ -1,6 +1,6 @@
 ---
 title: Never lose faith and hope
-modified: 2026-04-10
+modified: 2026-04-26
 ---
 
 > “Without faith, it is impossible for you to become great.” — Wallace D. Wattles, [The Science of Being Great](https://www.goodreads.com/work/quotes/1881171)
@@ -61,7 +61,7 @@ Faith is to believe what you do not see; the reward of this faith is to see what
 
 > [“You can’t know, you can only believe - or not.” — C.S. Lewis](https://www.goodreads.com/quotes/81797-you-can-t-know-you-can-only-believe---or-not)
 
-> “Believe and you’re halfway there.” — Harry S. Truman
+> “Believe you can and you’re halfway there” — Theodore Roosevelt
 
 > “By believing passionately in something that still does not exist, we create it.” — Franz Kafka
 
