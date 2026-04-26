@@ -197,7 +197,7 @@ As you move outside of your comfort zone, what was once the unknown and frighten
 
 ---
 
-[The Swing by Robert Louis Stevenson](the-swing-by-robert-louis-stevenson.md)
+[The Swing by Robert Louis Stevenson](../../Brainfoodie/posts/the-swing.md)
 
 [^1]: _“You must do the things you think you cannot do.” — Eleanor Roosevelt_
 [^2]: 最盲目的服從乃是奴隸們所僅存的唯一美德。
