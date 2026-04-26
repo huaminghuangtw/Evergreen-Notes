@@ -1,6 +1,6 @@
 ---
 title: Life is shorter than you think
-modified: 2026-04-24
+modified: 2026-04-26
 ---
 
 > “No matter how many times you do something, there will come a day when you do it for the last time.” — Sam Harris
@@ -16,6 +16,8 @@ modified: 2026-04-24
 > [“A man who dares to waste one hour of time has not discovered the value of life.” — Charles Darwin, The Life & Letters of Charles Darwin](https://www.goodreads.com/quotes/34852-a-man-who-dares-to-waste-one-hour-of-time)
 
 > “Your time and space are limited. Remove, give away, throw out anything that no longer gives you joy in order to make room for those that do.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
+
+> [“Life moves pretty fast. If you don’t stop and look around once in a while, you could miss it.” — Ferris Bueller’s Day Off (1986 film)](https://youtu.be/vsYBtfQ3QDo)
 
 ---
 
