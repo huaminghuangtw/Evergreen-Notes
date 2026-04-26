@@ -1,6 +1,6 @@
 ---
 title: Focus is about saying no
-modified: 2026-03-13
+modified: 2026-04-26
 ---
 
 > “If you chase two rabbits, you catch none.” — Confucius
@@ -46,6 +46,10 @@ It’s better to have one bird in your hand than a thousand in the woods.
 ---
 
 You’d rather have one sharp knife than 1,000 dull ones.
+
+---
+
+The problem with keeping your options open is that every option requires energy to hold. And a shelf full of maybes is often heavier than a hand holding one yes. Put something down.
 
 ---
 
