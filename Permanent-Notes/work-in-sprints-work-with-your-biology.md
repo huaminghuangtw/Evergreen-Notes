@@ -1,11 +1,13 @@
 ---
 title: Work in sprints, work with your biology
-modified: 2026-03-28
+modified: 2026-04-26
 ---
 
 > “If you want to operate at maximum [productivity](Productivity.md), efficiency, and creativity, you’re going to work on things that you’re excited about at the moment you’re excited about them and accept nothing less. It is better to [sit on your butt and do nothing](boredom-promotes-creativity.md) than it is to work on things that you are not excited about.” — Naval Ravikant [^1] [^2]
 
 > “The right way to work is like a lion. You don’t — you and I are not like cows. We’re not meant to graze all day, right? We’re meant to hunt like lions. So, as a modern knowledge worker, an intellectual athlete, you want to function like an athlete. This means you train hard, then you sprint, then you rest, then you reassess. You get your feedback loop, you train some more, then you sprint again, then you rest, then you reassess. This idea that you’re going to have linear output just by cranking every day at the same amount of time sitting — that’s machines. Machines should be working 9 to 5. Humans are not meant to work 9 to 5.” — Naval Ravikant
+
+> “Perseverance is not a long race; it is many short races one after another.” — Walter Elliott
 
 ---
 
