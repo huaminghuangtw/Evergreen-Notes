@@ -1,6 +1,6 @@
 ---
 title: A man who is a master of patience is master of everything else
-modified: 2026-03-25
+modified: 2026-04-27
 ---
 
 > [“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)
@@ -18,6 +18,8 @@ modified: 2026-03-25
 > 「天才是耐心的極致。」— 米開朗基羅
 
 > “Patience is also a form of action.” — Auguste Rodin [^1]
+
+> [“Patience is not the ability to wait. Patience is to be calm no matter what happens, constantly take action to turn it to positive growth opportunities, and have faith to believe that it will all work out in the end while you are waiting.” — Roy T. Bennett, The Light in the Heart](http://goodreads.com/quotes/7917802-patience-is-not-the-ability-to-wait-patience-is-not)
 
 ---
 
