@@ -1,6 +1,6 @@
 ---
 title: Learning is the single best investment that you can make for your time
-modified: 2026-03-23
+modified: 2026-04-27
 ---
 
 > “Learning never exhausts the mind.” — Leonardo da Vinci
@@ -171,6 +171,14 @@ Always starting from the most basic and simplest level, then adding more complex
 
 ---
 
+The most effective way to use AI for learning is to transition from viewing it as an **Oracle** (a source of immediate answers) to a **Socratic Tutor** (a guide for intellectual struggle).
+
+True learning requires “[[desirable difficulty]]”—the cognitive effort involved in retrieval and synthesis. When AI provides instant solutions, it creates an “illusion of competence,” where the learner mistakes _shallow processing_ for _deep understanding_.
+
+**Prompting for a summary is consumption; prompting for a quiz is production.**
+
+---
+
 > “Although listening is often more fun, reading improves comprehension and recall. Whereas listening promotes intuitive thinking, reading activates more analytical processing. It’s true in English and Chinese—people display better logical reasoning when the same trivia questions, riddles, and puzzles are written rather than spoken. With print, you naturally slow down at the start of a paragraph to process the core idea and use paragraph breaks and headers to chunk information.” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)
 
 [閱讀文字對於批判性思考和記憶更好，而聆聽則更適合沉浸式的體驗和情感的連結。因此，如果你想理解並記住資訊，最好用眼睛閱讀；另一方面，如果你想進入故事情節並與主角產生共鳴，可以用耳朵聆聽。](https://okapi.books.com.tw/article/18086)
@@ -194,7 +202,7 @@ Always starting from the most basic and simplest level, then adding more complex
 	> “I always work on different manuscripts at the same time. With this method, to work on different things simultaneously, I never encounter any blockages.” — Niklas Luhmann
 	* Mixing up different, unrelated topics or types of problems during a single study session helps the brain to seek/make necessary connections
 	* See also: [The Zeigarnik Effect](the-zeigarnik-effect.md)
-* 主動回憶 (Active Recall)
+* 主動回憶 (Active Recall) [^3]
 	* More effective than passive memorization
 		1. Taking a topic you wish to learn
 		2. Creating questions based on that topic
@@ -233,7 +241,7 @@ Always starting from the most basic and simplest level, then adding more complex
 * ⭐️ Take several brief breaks (with each 5-30 seconds) during study / in the act of consuming/absorbing material, and reflect on the material to reinforce memory
 	* **Pro Tip:** Pause longer after key points to allow the “Gap Effects” to happen
 * Avoid phone immediately after a study session to offset forgetting
-* A good night of [restorative](https://dictionary.cambridge.org/dictionary/english/restorative) [sleep](sleep.md) BEFORE and AFTER [^3] studying/learning is crucial for get the best out of your studying/learning efforts. [^4] → _“If you don’t snooze, you lose.”_ [^5]
+* A good night of [restorative](https://dictionary.cambridge.org/dictionary/english/restorative) [sleep](sleep.md) BEFORE and AFTER [^4] studying/learning is crucial for get the best out of your studying/learning efforts. [^5] → _“If you don’t snooze, you lose.”_ [^6]
 
 ---
 
@@ -249,6 +257,7 @@ Always starting from the most basic and simplest level, then adding more complex
 
 [^1]: 圖像、故事、位置空間 ([羅馬房間方位記憶法 = 宮殿記憶法](https://en.wikipedia.org/wiki/Method_of_loci))
 [^2]: [The Learning Pit](https://sketchplanations.com/the-learning-pit)
-[^3]: Especially the first night after learning something important to you, in order to maximize your chances of retaining the information. Without getting enough hours of quality sleep, you lose much of the chance to consolidate (“save”) the new information in your memory.
-[^4]: [After a good night’s sleep, you’re 20-30% better in terms of skilled performance than where you were at the end of the practice session the day before.](https://youtu.be/pwaWilO_Pig?t=32m37s)
-[^5]: [Neuroplasticity is TRIGGERED by deep focus, but neuroplasticity OCCURS during deep rest and sleep.](https://youtu.be/SwQhKFMxmDY?t=37m14s)
+[^3]: vs Passive Recognition
+[^4]: Especially the first night after learning something important to you, in order to maximize your chances of retaining the information. Without getting enough hours of quality sleep, you lose much of the chance to consolidate (“save”) the new information in your memory.
+[^5]: [After a good night’s sleep, you’re 20-30% better in terms of skilled performance than where you were at the end of the practice session the day before.](https://youtu.be/pwaWilO_Pig?t=32m37s)
+[^6]: [Neuroplasticity is TRIGGERED by deep focus, but neuroplasticity OCCURS during deep rest and sleep.](https://youtu.be/SwQhKFMxmDY?t=37m14s)
