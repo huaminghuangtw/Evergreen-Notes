@@ -1,6 +1,6 @@
 ---
 title: Fear
-modified: 2026-04-24
+modified: 2026-04-27
 ---
 
 > “Danger is real, fear is a choice” — Will Smith
@@ -20,6 +20,8 @@ modified: 2026-04-24
 > “If you approach the mountain in fear, it will look bigger than it appears.” — Tene Edwards
 
 > “We grow fearless when we do the things we fear.” — Robin Sharma
+
+> “You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face. You must do the thing which you think you cannot do.” — Eleanor Roosevelt
 
 > “Of all the liars in the world, sometimes the worst are our own fears.” — Rudyard Kipling
 
