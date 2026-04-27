@@ -1,6 +1,6 @@
 ---
 title: Be ready to change your mind completely at any given time
-modified: 2026-04-23
+modified: 2026-04-27
 ---
 
 > [“Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won’t come in.” — Alan Alda](https://www.goodreads.com/quotes/667214-your-assumptions-are-your-windows-on-the-world-scrub-them)
@@ -22,6 +22,8 @@ modified: 2026-04-23
 > “Today is the oldest you’ve ever been, and the youngest you’ll ever be again.” — Eleanor Roosevelt
 
 > “In a world full of people who seem to know everything, passionately, based on little (often slanted) information, where certainty is often mistaken for power, what a relief it is to be in the company of someone confident enough to stay unsure.” — George Saunders
+
+> “I can’t understand why people are frightened of new ideas. I’m frightened of the old ones.” — John Cage
 
 ---
 
