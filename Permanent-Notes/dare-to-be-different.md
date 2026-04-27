@@ -1,6 +1,6 @@
 ---
 title: Dare to be different
-modified: 2026-03-13
+modified: 2026-04-27
 ---
 
 > “Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.” — Robert Frost, The Road Not Taken (1916)
@@ -28,6 +28,8 @@ modified: 2026-03-13
 > “Too many people overvalue what they are not and undervalue what they are.” — Malcolm S. Forbes
 
 > “To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.” — Deepak Chopra
+
+> “Nothing that results in human progress is achieved with unanimous consent.” — Christopher Columbus
 
 ---
 
