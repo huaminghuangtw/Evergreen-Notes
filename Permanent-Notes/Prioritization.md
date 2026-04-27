@@ -1,6 +1,6 @@
 ---
 title: Prioritization
-modified: 2026-03-13
+modified: 2026-04-27
 ---
 
 > “The whole point of getting things done is knowing what to leave undone.” — Oswald Chambers
@@ -10,8 +10,6 @@ modified: 2026-03-13
 > “You can do anything, but not everything.” — David Allen
 
 > “The main thing is to keep the main thing the main thing.” — Stephen Covey
-
-> “What is important is seldom urgent and what is urgent is seldom important.” — Dwight D. Eisenhower
 
 > “Clarity about what matters provides clarity about what does not.” — [@newportDeepWorkRules2016]
 
@@ -74,6 +72,10 @@ Look for opportunities where it won’t kill you if it goes poorly, but you’d 
 	* 1 Most Important Task
 	* 2 Important & Urgent Tasks
 	* 3 Maintenance Tasks
+
+---
+
+[The Eisenhower Matrix](the-eisenhower-matrix.md)
 
 ---
 
