@@ -1,6 +1,6 @@
 ---
 title: Fame
-modified: 2026-03-13
+modified: 2026-04-28
 ---
 
 > “Uneasy lies the head that wears a crown.” — William Shakespeare
@@ -19,7 +19,11 @@ Don’t volunteer information. Don’t tell people more than they need to know. 
 
 ---
 
-Travel and tell no one. Live a true love story and tell no one. Live happily and tell no one. — People ruin beautiful things.
+You must learn to enjoy life without needing an audience to see that you are enjoying life.
+
+Travel and tell no one. Live a true love story and tell no one. Live happily and tell no one.
+
+People ruin beautiful things.
 
 ---
 
