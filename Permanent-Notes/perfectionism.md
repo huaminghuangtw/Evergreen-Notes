@@ -1,6 +1,6 @@
 ---
 title: Perfectionism
-modified: 2026-04-20
+modified: 2026-04-28
 ---
 
 > “You don’t have to be great to start, but you have to start to be great.” — Zig Ziglar
@@ -12,6 +12,8 @@ modified: 2026-04-20
 > “Conditions are never perfect. ‘Someday”’ is a disease that will take your dreams to the grave with you. Pro and con lists are just as bad. If it’s important to you and you want to do it ‘eventually,’ just do it and correct course along the way.” — Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)
 
 > “Don’t let perfection become procrastination. Do it now.” — Danielle LaPorte
+
+> [“Perfection is not attainable, but if we chase perfection we can catch excellence.” — Vince Lombardi](http://brainyquote.com/quotes/vince_lombardi_385070)
 
 ---
 
