@@ -1,6 +1,6 @@
 ---
 title: Adaptability
-modified: 2026-03-25
+modified: 2026-04-28
 ---
 
 > “It is not the strongest of the species that survives, nor the most intelligent. It is the one most adaptable to change; but the species that survives is the one that is able best to adapt and adjust to the changing environment in which it finds itself.” — Charles Darwin [^1]
@@ -26,6 +26,8 @@ modified: 2026-03-25
 > 「易窮則變，變則通，通則久。」— 《易經．繫辭下》[^3]
 
 > “The art of life is a constant readjustment to our surroundings.” — Kakuzo Okakura
+
+> “It’s easy in the world to live after the world’s opinion; it’s easy in solitude to live after our own; but great people keep with the sweet independence of solitude in the midst of a crowd.” — Ralph Waldo Emerson
 
 ---
 
