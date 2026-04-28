@@ -105,9 +105,9 @@ modified: 2026-03-21
 * 3Ds
 	* 3 deep work sessions per day, with 90 mins each
 * [The Daily Blueprint](https://www.hubermanlab.com/daily-blueprint)
-	* Phase 1: Waking and Early Morning (Hours 1—4)
-	* Phase 2: Midday Through Evening (Hours 5—13)
-	* Phase 3: Bedtime and Sleeping (Hours 14—24)
+	* Phase 1: Waking and Early Morning (Hours 1–4)
+	* Phase 2: Midday Through Evening (Hours 5–13)
+	* Phase 3: Bedtime and Sleeping (Hours 14–24)
 
 ---
 
