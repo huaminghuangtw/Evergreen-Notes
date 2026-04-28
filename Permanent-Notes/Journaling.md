@@ -43,7 +43,7 @@ Use daily diary as a place to ask yourself questions, then question your answers
 
 ---
 
-Journalling is a time machine. It freezes your brains thoughts. You realize the value of this when you get to see them 5—10 years later. Your brain usually creates a false narrative of the past. It’s only when you thaw old thoughts out from the freezer do you see what your brain used to look like.
+Journalling is a time machine. It freezes your brains thoughts. You realize the value of this when you get to see them 5–10 years later. Your brain usually creates a false narrative of the past. It’s only when you thaw old thoughts out from the freezer do you see what your brain used to look like.
 
 E.g., feelings, emotions, thoughts, memories, special moments/occasions/events
 
