@@ -31,7 +31,7 @@ Why?
 	* Ultradian = “many times a day”
 	* Circadian = “about a day” [^4]
 * is a biological fact that our alertness naturally rises and falls in 90‑minute cycles
-	* Aim for 1—3 × 90-minute intervals per day.
+	* Aim for 1–3 × 90-minute intervals per day.
 		* 4 × 90-minute blocks of focused work per day, while possible, is highly unusual.
 		* Go to a deliberate [defocus](the-most-productive-people-prioritize-intentional-rest.md) for 10-30 minutes after each of 90-minute [deep work](deep-work.md) bout.
 	* [Ultra Focus Odyssey = UFO](https://shosho.tw/blog/super-productivity-system-2024)
@@ -51,10 +51,10 @@ Why?
 
 # Match energy level with tasks
 
-* Phase 1 (0—8 hours after waking up) - **Focused Mode**
+* Phase 1 (0–8 hours after waking up) - **Focused Mode**
 	* optimal for analytic “hard” thinking and [any work that you find particularly challenging](eat-the-biggest-frog-first-thing-in-the-morning.md)
 	* 戰鬥時間 → 登峰造極時刻 ([Deep Work](deep-work.md))
-* Phase 2 (9—16 hours after waking up) - **Diffused Mode**
+* Phase 2 (9–16 hours after waking up) - **Diffused Mode**
 	* optimal for brainstorming and creative work
 	* 戰略時間
 
