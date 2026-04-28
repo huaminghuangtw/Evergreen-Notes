@@ -56,8 +56,8 @@ First things first. Do the most important thing [^2] first, not the most urgent 
 	* “_If this were the only thing I accomplished today, would I be satisfied with my day?_”
 	* “_Will moving this forward make all the other TODOs unimportant/irrelevant or easier to do later?_”
 5. Look only at the items you’ve answered “yes” to for at least one of these questions.
-6. Block out at least 2—3 hours to focus on ONE of them for today. Let the rest of the urgent but less important stuff slide. It will still be there tomorrow.
-	* TO BE CLEAR: Block out at least 2—3 HOURS to focus on ONE of them for today. This is ONE BLOCK OF TIME. Cobbling together 10 minutes here and there to add up to 120 minutes does not work.
+6. Block out at least 2–3 hours to focus on ONE of them for today. Let the rest of the urgent but less important stuff slide. It will still be there tomorrow.
+	* TO BE CLEAR: Block out at least 2–3 HOURS to focus on ONE of them for today. This is ONE BLOCK OF TIME. Cobbling together 10 minutes here and there to add up to 120 minutes does not work.
 7. If you get [distracted](being-indistractable-is-superpower.md) or start [procrastinating](procrastination.md), [don’t freak out and downward spiral; just gently come back to your ONE to-do.](self-compassion.md)
 
 ---
