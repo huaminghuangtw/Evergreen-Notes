@@ -212,3 +212,48 @@ After handling several other customers, the barista walks over to the drink stat
 “Hmmm, what was it?” they think to themselves. “I remember they kept saying black coffee. Black coffee…that’s right.”
 
 And after five minutes, you’re handed a beautiful, bitter, piping hot cup of exactly what you didn’t want.
+
+
+---
+
+[The power of streaks](https://sketchplanations.com/the-power-of-streaks)
+
+
+---
+
+2026-04-14
+
+最重要的不是何時買，而是持續買等待「最佳買點」通常會錯過更多上漲機會
+即使在市場高點買入，長期來看仍然能獲利
+
+“Mixed bag” 的中文常翻譯為「大雜燴」、「好壞參半」、「各式各樣的混合體」或「魚龍混雜」。這是一個慣用語，用來形容某種事物、人或經歷中，同時包含了好與壞、優與劣，或完全不同種類的元素。
+
+YMMV 是「Your Mileage May Vary」的縮寫，字面意思是「你的行駛里程可能會有所不同」，常用於網路用語，意指「見仁見智」、「因人而異」或「個人的經驗/結果可能與我不同」。它被當作一種免責聲明，表達分享的觀點僅供參考。
+
+「口絡（ㄌㄨㄛˋ）」（kǒu luò）主要指套在動物嘴上的籠套或罩子，用來防止動物咬人或亂吃東西（類似 muzzle）。
+
+
+---
+
+2026-04-17
+
+[和過去的自己說再見](https://huam.ing/2025/12/11/goodbye-past-me/)
+
+How can I change my outlook by changing my perspective? Start by zooming out: ask, “Will this matter in five years?” This shifts focus from immediate stress to long-term growth.,Next, reframe your language: replace “I have to” with “I get to.” This turns obligations into opportunities.,Finally, adopt an “observer” mindset: instead of reacting emotionally, ask what a situation can teach you.,Perspective is the lens you choose. If you change the lens from “What is going wrong?” to “What is this teaching me?”, your entire outlook shifts from victimhood to agency.
+
+It's not a race.
+You are not ahead. You are not behind. You are here.
+Enjoy it and make the most of it.
+
+Warren Buffett encourages us not to cling to our losing efforts or chase what isn't working and instead focus on the next best action:
+“You don't have to make it back the way that you lost it.”
+Source: 1994 Berkshire Hathaway shareholder letter
+
+Bill Walsh, winner of three Super Bowls, reminds us that standards come first and results follow:
+“Champions behave like champions before they're champions; they have a winning standard of performance before they are winners.”
+Source: The Score Takes Care of Itself
+
+
+---
+
+[The Real Price of Success | The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-real-price-of-success)
