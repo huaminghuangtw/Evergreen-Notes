@@ -1,6 +1,6 @@
 ---
 title: Deliberate Practice
-modified: 2026-04-27
+modified: 2026-04-28
 ---
 
 > “Practice does not make perfect. Perfect practice makes perfect.” — Vince Lombardi [^1]
@@ -60,9 +60,10 @@ Similar to the concept of Progressive Overload in Strength Training — “Reps,
 
 # Zone of Proximal Development (ZPD)
 
-* developed by psychologist Lev Vygotsky
-* is the range where the learner is able to perform, but only with support from a teacher or a peer with more knowledge or expertise (a “more knowledgeable other”)
+* developed by psychologist Lev Vygotsky.
+* is the range where the learner is able to perform, but only with support from a teacher or a peer with more knowledge or expertise (a “more knowledgeable other”).
 * is the “sweet spot” between too easy (boredom) and too hard (frustration).
+* Choosing “just out of reach” material that is impossible alone but manageable with an AI tutor.
 
 ![](_attachments/42440623020bda3397d4c177a788d70a.png)
 
