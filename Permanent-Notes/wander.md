@@ -21,7 +21,7 @@ Wandering is a deliberate permission to be aimless — to follow curiosity inste
 
 * Walk without a destination: take a different street or turn at the next corner.
 * Read sideways: follow citations, footnotes, and tangents instead of only main body.
-* Micro-wanders: give yourself 20—60 minutes a day to explore a single odd curiosity with no output requirement.
+* Micro-wanders: give yourself 20–60 minutes a day to explore a single odd curiosity with no output requirement.
 * Create friction for plans: remove your navigation app for a short walk, or bring only one notecard and a pen.
 * Keep a ‘‘wander log’’: capture one surprising observation or idea after each session.
 
