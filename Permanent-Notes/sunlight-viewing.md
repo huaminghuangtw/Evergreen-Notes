@@ -5,7 +5,7 @@ modified: 2026-04-06
 
 # View Morning Sunlight
 
-* Get outside within 30—60 minutes of waking up to expose your eyes to direct sunlight (自然光). [^1] [^2] [^3]
+* Get outside within 30–60 minutes of waking up to expose your eyes to direct sunlight (自然光). [^1] [^2] [^3]
 	* This typically requires about 10-15 minutes of sunlight on a sunny day, while cloudy days may require 20 minutes or more. [^4]
 	* Feel free to use the time outside to exercise (jump rope), walk, eat a light breakfast or journal in the sunlight.
 	* If you wake before sunrise, turn on bright artificial lights until the sun rises. Once it rises, get outside if possible. [^5]
@@ -30,6 +30,6 @@ modified: 2026-04-06
 [^1]: Leave the house for a morning walk/getting natural sunlight in the eyes/retinas as soon as possible after waking
 [^2]: Trying to do this through a windshield or window won’t work; too many of the relevant wavelengths are filtered out.
 [^3]: Contacts and eyeglasses (even those with UV protection) are fine to wear. However, don’t use sunglasses or blue blockers during sunlight-viewing.
-[^4]: The particular wavelengths of the sun still come through to trigger positive effects, even if there is cloud cover on overcast days, but you’ll need to increase the time outside to at least 15—20 minutes.
+[^4]: The particular wavelengths of the sun still come through to trigger positive effects, even if there is cloud cover on overcast days, but you’ll need to increase the time outside to at least 15–20 minutes.
 [^5]: If it’s dark when you wake up or if the weather prevents you from going outside, flip on as many bright indoor artificial lights as possible — then get outside as soon as the sun is out.
 [^6]: a second “anchor point” in our brain’s circadian clock.
