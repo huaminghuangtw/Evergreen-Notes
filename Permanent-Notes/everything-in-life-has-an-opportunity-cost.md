@@ -1,11 +1,13 @@
 ---
 title: Everything in life has an opportunity cost
-modified: 2026-03-13
+modified: 2026-04-28
 ---
 
 > “The real price of everything, what everything really costs to the man who wants to acquire it, is the toil and trouble of acquiring it.” — Adam Smith, The Wealth of Nations
 
 > “All the things which cause complaint or dread are like the taxes of life—things from which, my dear Lucilius, you should never hope for exemption or seek escape.” — Seneca
+
+> “All intelligent people should think primarily in terms of opportunity cost. When deciding whether to do something, compare it with the best opportunity you have.” — Charlie Munger
 
 ---
 
