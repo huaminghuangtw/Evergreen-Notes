@@ -1,6 +1,6 @@
 ---
 title: Learning is the single best investment that you can make for your time
-modified: 2026-04-27
+modified: 2026-04-28
 ---
 
 > “Learning never exhausts the mind.” — Leonardo da Vinci
@@ -133,8 +133,8 @@ Always starting from the most basic and simplest level, then adding more complex
 1. Deconstruct the skill—decide exactly what you want to be able to do when you’re done (i.e., with the end in mind), and then look into the skill and break it down into smaller pieces.
 2. Learn enough to self-correct—[learn just enough that you can actually practice and self-correct](cultivate-a-strong-bias-towards-action.md) or self-edit as you practice. Use only 3-5 resources rather than something like 20 → It’s just a form of procrastination.
 	* The Learning Habit Loop
-		1. Only read and consume content until you know what you need to do.
-		2. Then, stop reading and consuming content until what you know you need to do is done.
+		1. Only read until you know what you need to do.
+		2. Then, stop reading until what you know you need to do is done.
 	* _“Do the best you can until you know better. Then when you know better, do better.” — Maya Angelou_
 3. Remove barriers to practice—remove the distractions that are keeping you from practicing.
 4. Practice for at least 20 hours—by pre-committing to practicing whatever it is that you want to do for at least 20 hours, you will be able to overcome initial frustration barrier and stick with the practice long enough to actually reap the rewards.
@@ -215,7 +215,7 @@ True learning requires “[[desirable difficulty]]”—the cognitive effort inv
 * Retrieval Practice
 	* Putting information into your brain = good for learning
 	* Retrieving information from your brain = better for learning
-* 間隔重複 (Spaced Repetition) = The Leitner System
+* 間隔重複 ([Spaced Repetition](https://gwern.net/spaced-repetition)) = The Leitner System
 	![](_attachments/5ad8890a032c025bbc7a8da6c0099b98.png)
 	![](_attachments/b9d7275799468ded22af60b66e32db7f.png)
 	* Space out your learning
@@ -257,7 +257,7 @@ True learning requires “[[desirable difficulty]]”—the cognitive effort inv
 
 [^1]: 圖像、故事、位置空間 ([羅馬房間方位記憶法 = 宮殿記憶法](https://en.wikipedia.org/wiki/Method_of_loci))
 [^2]: [The Learning Pit](https://sketchplanations.com/the-learning-pit)
-[^3]: vs Passive Recognition
+[^3]: vs Passive Recognition/Review
 [^4]: Especially the first night after learning something important to you, in order to maximize your chances of retaining the information. Without getting enough hours of quality sleep, you lose much of the chance to consolidate (“save”) the new information in your memory.
 [^5]: [After a good night’s sleep, you’re 20-30% better in terms of skilled performance than where you were at the end of the practice session the day before.](https://youtu.be/pwaWilO_Pig?t=32m37s)
 [^6]: [Neuroplasticity is TRIGGERED by deep focus, but neuroplasticity OCCURS during deep rest and sleep.](https://youtu.be/SwQhKFMxmDY?t=37m14s)
