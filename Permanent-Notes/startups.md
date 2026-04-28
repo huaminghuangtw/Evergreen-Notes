@@ -138,9 +138,9 @@ modified: 2026-04-22
 		* Agenda
 		* Pre-meeting preparation
 	* No simple meetings such as answering questions, status checks, or conveying information in the morning, allowing the team to work, uninterrupted, on the most important things
-		* Schedule them at 3 (2—4) PM in the afternoon instead
+		* Schedule them at 3 (2–4) PM in the afternoon instead
 		* Schedule difficult meetings that require important decisions in the morning
-	* I find most meetings are best scheduled for 15—20 minutes, or 2 hours. The default of 1 hour is usually wrong, and leads to a lot of wasted time.
+	* I find most meetings are best scheduled for 15–20 minutes, or 2 hours. The default of 1 hour is usually wrong, and leads to a lot of wasted time.
 * Gos
 	* Shorten meeting length
 		* 30 → 25, 60 → 50
@@ -157,8 +157,8 @@ modified: 2026-04-22
 	* Asynchronous meeting with pre-recorded video using tools like Loom
 	* Friday Forum: celebrate wins of the week
 	* Schedule only the following two, non-negotiable, mandatory team gatherings EVERY WEEK
-		* Iteration Planning Meeting (IPM), Monday 9:00—0:00
-		* Weekly Retrospective, Friday 16:00—17:00
+		* Iteration Planning Meeting (IPM), Monday 9:00–0:00
+		* Weekly Retrospective, Friday 16:00–17:00
 	* CEO 信箱 (private one-on-one)
 	* [Visual Meetings](https://davidsibbet.com/visual-meetings-book/)
 	* Ensure that all meetings are highly targeted. Broad meeting mandates with scattered agendas should be avoided if possible. Clear, narrow purpose and action items are a must.
