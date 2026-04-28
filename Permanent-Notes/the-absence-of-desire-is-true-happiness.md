@@ -1,6 +1,6 @@
 ---
 title: The absence of desire is true happiness
-modified: 2026-04-24
+modified: 2026-04-28
 ---
 
 > 「有求皆苦，無求即樂」— 達摩祖師《二入四行觀》
@@ -44,6 +44,10 @@ Materialism
 ---
 
 Keep your mind aware and desire asleep.
+
+---
+
+Our desire to be _everything_ is often the very thing that keeps us from becoming _anything_ at all.
 
 ---
 
