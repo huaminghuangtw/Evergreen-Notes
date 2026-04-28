@@ -1,6 +1,6 @@
 ---
 title: Do great work
-modified: 2026-04-19
+modified: 2026-04-28
 ---
 
 > “To be great is to be misunderstood.” — Ralph Waldo Emerson
@@ -20,6 +20,8 @@ modified: 2026-04-19
 > “Being realistic is the most common path to mediocrity.” — Will Smith
 
 > “Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.” — Robert Greene
+
+> “To make something good, just do it. To make something great, just redo it, redo it, redo it. The secret to making fine things is in remaking them.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
 
 ---
 
