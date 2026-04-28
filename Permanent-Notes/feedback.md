@@ -78,7 +78,7 @@ Instead of using the “criticism sandwich (criticize twice, praise once)” met
 
 ---
 
-When people hesitate to give you honest feedback, ask for a score from 0—10, instead of asking, “_What do you think?_”—which invites ambiguity. You’ll rarely get a perfect 10, and this makes it easy to follow up with, “_What would make this closer to a 10?_” Better questions lead to better feedback—and faster growth.
+When people hesitate to give you honest feedback, ask for a score from 0–10, instead of asking, “_What do you think?_”—which invites ambiguity. You’ll rarely get a perfect 10, and this makes it easy to follow up with, “_What would make this closer to a 10?_” Better questions lead to better feedback—and faster growth.
 
 ---
 
