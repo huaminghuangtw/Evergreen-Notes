@@ -95,9 +95,9 @@ Wakefulness is low level brain damage. Sleepiness offers a reparatory function. 
 
 ## Huberman Sleep Cocktail
 
-* **Magnesium Threonate**: 200—400mg 2—3 hours before sleep
+* **Magnesium Threonate**: 200–400mg 2–3 hours before sleep
 	* Threonate are forms of magnesium that crosses the blood-brain barrier and will assist with sleep instead of absorption by gut
-* **L-Theanine**: 200—400mg
+* **L-Theanine**: 200–400mg
 	* Nootropic but takes the edge off and balances caffeine intake
 * **Glycine**: 2 gram (every 3rd or 4th night)
 * **GABA**: 100 mg (every 3rd or 4th night)
