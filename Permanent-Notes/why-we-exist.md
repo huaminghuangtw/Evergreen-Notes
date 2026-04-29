@@ -1,6 +1,6 @@
 ---
 title: Why we exist?
-modified: 2026-04-24
+modified: 2026-04-29
 ---
 
 > [“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)
@@ -135,7 +135,7 @@ Albert Camus argues that seeking a singular meaning of life can hinder truly liv
 
 ---
 
-Successful people don’t have a career, they have a mission. Most of them are terrible procrastinators and find it almost impossible to make themselves do anything they’re not genuinely interested in.
+The most extraordinary people in the world today don’t have a career. They have a mission. They are terrible [procrastinators](procrastination.md) and find it almost impossible to make themselves do anything they’re not genuinely interested in.
 
 ---
 
