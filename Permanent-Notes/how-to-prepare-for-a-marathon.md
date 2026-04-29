@@ -1,26 +1,27 @@
 ---
 title: How to Prepare for a Marathon?
-modified: 2026-04-28
+modified: 2026-04-29
 ---
 
 > [“The work is behind the scene. Competition is the easy part.” — Usain Bolt](https://youtu.be/LEIxpcYukqc?t=113s) [^1]
 
 ---
 
-* 「跑量」才是馬拉松訓練中最關鍵的元素！
-
-	> Any training technique is second order to the weekly volume.
+# Principles
 
 * Train smarter, not harder. Start cautiously, finish strong.
 * 專心訓練、放心比賽、用心生活
 * 練習時斤斤計較，比賽時忘掉所有
-* Take easy days easy. Take hard days hard.
+* Take easy days easy. Take hard days hard. Don’t race your workouts.
 	* If you want to run faster, run slower.
 
 		> Rather than “run slow to run fast,” the better principle is: if you want to get faster, run more [^2] — and to run more without overdoing it, you have to run slower.
 
 	* Most people run their easy days too hard and their hard days too easy.
 	* Run your easy runs easier so you can run your hard runs harder. If you find yourself wanting to run your easy runs harder, you probably aren’t doing your hard runs hard enough. And easy days are rest days if you do them easy enough.
+
+---
+
 * If you run your recovery/easy days properly, you can continue training without any full rest days. However, it’s important to build up gradually, and I recommend including a **de-load week** every third or fourth week, depending on how you feel at the end of a week.
 	1. Reduce Weekly Mileage: Cut your total running distance by 20–40% compared to your peak training weeks.
 	2. Lower Intensity: Avoid hard workouts (e.g., intervals, tempo runs). Focus on easy-paced runs.
@@ -28,7 +29,7 @@ modified: 2026-04-28
 	4. Prioritize Recovery: Get extra sleep, hydrate well, and pay attention to nutrition.
 	5. Listen to Your Body: If you still feel fatigued, don’t hesitate to reduce volume further or add cross-training/an extra rest day.
  * There’s a biomechanical reason to schedule a de-load week every 3–4 weeks: **bone healing**. After you increase your training load, your bones temporarily become weaker as old, damaged tissue is broken down to make space for new growth. It takes a few weeks for new bone cells to rebuild and strengthen the tissue. Around the 3–4 week mark, there’s a window where your bones are actually weaker than when you started—resorption has occurred, but new bone formation isn’t complete yet. A de-load week helps reduce injury risk during this vulnerable period.
-	![](_attachments/Pasted%20image%2020260428150946.png)
+	![](_attachments/e3488af2ec07bb92f5e19733de36c3e2.png)
 * Think of your body like a **sponge**. Every session and every week adds a bit of water to the sponge—that’s your training load. Eventually, the sponge becomes saturated and can’t take on any more water. A de-load week is like squeezing out some water so the sponge can absorb more again. This reset allows you to continue making progress without risking burnout or injury.
 * The fitness level of a human body in training can be broken down into four periods: initial fitness, training, recovery, and supercompensation. During the initial fitness period, the target of the training has a base level of fitness. Upon entering the training period, the target’s level of fitness decreases. After the training period, the body enters the recovery period, during which the level of fitness increases back to the initial fitness level.
 
@@ -43,7 +44,7 @@ modified: 2026-04-28
 * 跑步前做「登階跳」: (1) 跳的時候，下面那隻腳不發力 (2) 雙手幫忙擺臂，帶動身體的重心轉換 → 抓準發力的時間點，讓跑步動作更有效率、更協調
 * Shin Training
 
-	![](_attachments/Untitled.jpeg)
+	![](_attachments/ba5ec240a449e9d464b0e1b2a8132942.jpeg)
 
 * [跑步該如何呼吸？（波爾效應）](https://www.garmin.com/zh-TW/blog/running/breath-qa/)
 * 跑步經濟性（Running Economy）
@@ -52,6 +53,10 @@ modified: 2026-04-28
 	* 垂直振幅
 		* [Patrick Smyth 平均 8.1cm](https://uiantraininglog.blogspot.com/2018/06/blog-post.html)
 		* I think vertical ratio is the better metric. It’s vertical oscillation normalized with the stride length. Basically, a low vertical ratio number indicates a small cost for a large benefit. The lower the vertical ratio, the more efficient your running. Meaning that you’re not bouncing excessively and the additional energy is going into forward motion.
+* 「跑量」才是馬拉松訓練中最關鍵的元素！
+
+	> Any training technique is second order to the weekly volume.
+
 * Marathon Training Methods
 	* Hansons
 	* Pfitz’s 18/55
@@ -59,6 +64,15 @@ modified: 2026-04-28
 
 	> Pfitz tends to utilize a more ‘classic’ periodization protocol (extending duration, then running faster) while Hansons are a closer to a ‘reverse’ periodization protocol (starting with faster running and extending duration). Either way is good, it’s mostly about what you can tolerate and what will lead to the most consistent running.
 
+* <https://www.reddit.com/r/AdvancedRunning/wiki/workoutoftheweek/>
+* The Fartlek Workout
+	* In Swedish, “fartlek” means “speed play.”
+	* The core idea is to incorporate interval training in a flexible, unstructured way.
+	* As you run, pick random **landmarks** and vary your speed between them—run faster when you feel strong, slow down when you need to recover. Repeat this process throughout your run. This creates a workout with varying paces and distances.
+	* 【比較】
+		* In interval training, the brain tells the body what to do. You consciously manage your pace, rest, and effort, following a structured plan.
+		* In fartlek sessions, the body tells the brain what to do. Instead of sticking to a rigid structure, you let your body guide the workout. You speed up or slow down based on your energy, the terrain, or even your mood.
+		* In short: interval training is about mental discipline and control, while fartlek running is about body awareness and responsiveness. Both approaches develop different aspects of the runner’s mind-body connection.
 * [亞索 800（Yasso 800s）](https://www.google.com/search?q=Yasso+800) 是一種經典的馬拉松訓練與預測方法，由 Bart Yasso 發明。核心內容是進行 10 趟 800 公尺的快速間歇跑，休息時間與快跑時間相同（例如：800m 跑 3 分 30 秒，休息 3 分 30 秒）。其理論認為，若能順利完成 10 趟，800 公尺的時間（分：秒）便對應馬拉松的完賽時間（時：分），如 3 分 30 秒對應 3 小時 30 分的潛力。
 	* 前 50 公尺刻意放慢，後 200 公尺加速。
 * [Pose（關鍵姿勢）、Fall（收腿, 向前落下）、Pull（推蹬, 向上拉提）](https://posemethod.com/running/)
@@ -92,12 +106,13 @@ modified: 2026-04-28
 	* 馬拉松的關鍵在於不被周遭的人影響，專注在自己的節奏上，並且耐心等待。
 * 最高強的跑法是讓身體「下意識自然地律動」，要練習跑步時不思考跑步，從而達至最省力的情況。
 * 能夠毫不妥協完成練習並站在起跑線上，本身就已經是一種勝利、很有成就感的事了。
+* Kipchoge trains in the Kenyan Highlands of Kaptagat, at an altitude of 2,500 meters above sea level. Training at high altitude makes every workout more demanding—your heart rate and breathing quicken as your body adapts to the thinner air. Over time, you produce more red blood cells, which boosts your body’s ability to carry oxygen. This adaptation gives your muscles a natural advantage when you race at lower altitudes.
 * 兩大原則：
 	* 訓練不足 > 訓練過度
 	* 如果表現越來越差，肯定是過度訓練。
 * RPE (= Rate of Perceived Exertion) should be the primary measure—everything produced by your watch is secondary feedback.
 * Pacing Strategies
-	* 全程保持差不多的配速是最理想的，最後還有力再衝（負分段）。
+	* 緩緩加速（負分段）是最理想的，或至少全程保持一樣的配速。
 
 		> 前面有多囂張，後面就有多落魄。
 
@@ -117,9 +132,9 @@ modified: 2026-04-28
 
 # How to Measure Your Max HR
 
-> is almost totally unaffected by training.
+> is almost unaffected by training, but primarily determined by genetics and age.
 
-> Use a high-quality chest strap heart rate monitor for best results. Wrist-based watches are not reliable for rapid heart rate changes.
+> Use a high-quality chest strap or [armband](https://coros.com/heart-rate-monitor) heart rate monitor (HRM) for best results. Wrist-based optical sensors are not reliable for rapid heart rate changes.
 
 ## 1. Field Test (Most Accurate)
 
