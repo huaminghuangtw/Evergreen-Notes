@@ -1,6 +1,6 @@
 ---
 title: Be ready to change your mind completely at any given time
-modified: 2026-04-27
+modified: 2026-04-29
 ---
 
 > [“Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won’t come in.” — Alan Alda](https://www.goodreads.com/quotes/667214-your-assumptions-are-your-windows-on-the-world-scrub-them)
@@ -14,8 +14,6 @@ modified: 2026-04-27
 > “The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.” — F. Scott Fitzgerald [^1]
 
 > “Beware of false knowledge, it is more dangerous than ignorance.” — George Bernard Shaw
-
-> “The first principle is that you must not fool yourself—and you are the easiest person to fool.” — Richard P. Feynman
 
 > “We are all born ignorant, but one must work hard to remain stupid.” — Benjamin Franklin [^2] [^3]
 
