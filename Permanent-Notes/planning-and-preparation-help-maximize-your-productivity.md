@@ -1,6 +1,6 @@
 ---
 title: Planning and preparation help maximize your productivity
-modified: 2026-04-21
+modified: 2026-04-29
 ---
 
 > [“The antidote to impulsiveness is forethought.” — Nir Eyal](https://youtu.be/VVez_sI1zTU)
@@ -18,6 +18,8 @@ modified: 2026-04-21
 > “In preparing for battle I have always found that plans are useless, but planning is indispensable.” — Dwight D. Eisenhower
 >
 > 在準備一場戰役的時候，我總是發現計劃是沒有用的，但計劃又是不可或缺的。
+
+> “To win is not important. To be successful is not even important. How to plan and prepare is crucial. When you plan very well and prepare very well, then success can come on the way. Then winning can come on your way.” — Eliud Kipchoge
 
 ---
 
