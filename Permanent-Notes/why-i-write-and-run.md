@@ -1,6 +1,6 @@
 ---
 title: Why I Write and Run
-modified: 2026-04-28
+modified: 2026-04-29
 ---
 
 [Why I Write](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/)
@@ -72,3 +72,5 @@ I **ran** because it suited me—and **writing** because it did too: _introspect
 康德（Immanuel Kant）曾說：「自律即自由。」
 
 當我每天自律地寫作和跑步，我就可以繼續自由地書寫和奔跑！
+
+Running is a religion.
