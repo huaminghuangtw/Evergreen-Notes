@@ -1,6 +1,6 @@
 ---
 title: Mastering yourself is superpower
-modified: 2026-04-24
+modified: 2026-04-29
 ---
 
 > “Knowing yourself is the beginning of all wisdom.” — Aristotle
@@ -44,6 +44,12 @@ modified: 2026-04-24
 ---
 
 [自我反省乍看之下很簡單，但其實極其困難而且急不得，因為人很擅長欺騙自己，又或是在當下會因為各種因素難以接受自己的真實想法。](https://www.parkerchang.life/life/2023-2024) [^2]
+
+> “The first principle is that you must not fool yourself—and you are the easiest person to fool.” — Richard P. Feynman
+
+> “We lie the loudest when we lie to ourselves.” — Eric Hoffer
+
+> “If you want to be successful, you must respect one rule: Never lie to yourself!” — Paulo Coelho
 
 ---
 
@@ -101,7 +107,7 @@ modified: 2026-04-24
 		* Practice “_I’m not the body, I’m not the mind, I’m not my emotion, I can just see all these 3 aspects about me._” [^4] [^5]
 
 [^1]: _“Instead of shaming your emotions, try to understand what they are telling you.” — Lindsay C. Gibson_
-[^2]: _“We lie the loudest when we lie to ourselves.” — Eric Hoffer_
+[^2]: This also points out the importance of being **authentic** and **honest**: _<mark>“The moment you tell somebody something dishonest, you’ve lied to yourself. Then you’ll start believing your own lie, which will disconnect you from reality and take you down the wrong road.” — Almanack of Naval Ravikant</mark>_
 [^3]: = The discovery of oneself
 [^4]: 我只是一名自己 の 觀察員
 [^5]: Your physical body is just a heap of food you have eaten over time. Your mind is just a heap of impressions you have gathered from the outside. Everything is temporary.
