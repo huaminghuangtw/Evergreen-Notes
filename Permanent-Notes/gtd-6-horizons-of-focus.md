@@ -1,6 +1,6 @@
 ---
 title: GTD 6 Horizons of Focus
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 [Picture yourself sitting on a plane.](when-in-doubt-zoom-out.md) At 50.000ft there is nothing but blue sky and an endless horizon. Up here there are no limits.
