@@ -1,6 +1,6 @@
 ---
 title: Jet Leg
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 Eat Like A Local — eating breakfast, lunch and dinner more or less at the same times on the local schedule, _even if you’re not hungry_ — will help you shift to the new time zone.
