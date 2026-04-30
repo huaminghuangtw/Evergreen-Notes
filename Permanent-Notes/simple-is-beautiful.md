@@ -1,6 +1,6 @@
 ---
 title: Simple is beautiful
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 > ”Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.” — Steve Jobs
