@@ -1,6 +1,6 @@
 ---
 title: How to Prepare for a Marathon?
-modified: 2026-04-29
+modified: 2026-04-30
 ---
 
 > [“The work is behind the scene. Competition is the easy part.” — Usain Bolt](https://youtu.be/LEIxpcYukqc?t=113s) [^1]
@@ -19,6 +19,7 @@ modified: 2026-04-29
 
 	* Most people run their easy days too hard and their hard days too easy.
 	* Run your easy runs easier so you can run your hard runs harder. If you find yourself wanting to run your easy runs harder, you probably aren’t doing your hard runs hard enough. And easy days are rest days if you do them easy enough.
+	* See: [Be Aware of the Gray Zone Where Junk Miles Live](be-aware-of-the-gray-zone-where-junk-miles-live.md)
 
 ---
 
@@ -37,7 +38,7 @@ modified: 2026-04-29
 
 	If the next workout takes place during the recovery period, overtraining may occur. If the next workout takes place during the supercompensation period, the body will advance to a higher level of fitness. If the next workout takes place after the supercompensation period, the body will remain at its base level.
 
-	![](_attachments/Pasted%20image%2020260428152236.png "Source: Wikipedia")
+	![](_attachments/a85f2fb643027af6c04409cd046239d6.png "Source: Wikipedia")
 
 * [Wrap up your keys for running](https://sketchplanations.com/wrap-up-your-keys-for-running)
 * 跑步前確實做好熱身動作 (彈性練習): (1) 墊腳尖 (2) 原地踮腳跳 (3) 原地單腳跳 (三下為一拍)
@@ -125,7 +126,7 @@ modified: 2026-04-29
 		* Check your form, not your watch: When your pace starts to slip in the final miles, don’t fixate on the number. Instead, run a quick mental form check: head up and level, shoulders relaxed, arms swinging forward and back (not crossing the body), powerful knee drive, controlled foot strike. Correcting your form when tired is often enough to bring your pace back without trying to consciously force a faster speed.
 		* Count down in minutes, not miles: At mile 24, a mile feels like a long way. Two minutes feels like almost nothing. If you’re running 9-minute pace, mile 25 is 9 minutes away. Mile 26 is 18 minutes away. The finish is roughly 21 minutes away. Breaking the remaining distance into time rather than distance makes an enormous psychological difference in the final stretch. You’ve done hundreds of 9-minute runs in training. You can do three more.
 	* Half marathon checkpoint: At 13.1 miles, check your elapsed time against your calculator’s target. If you’re more than 30 seconds ahead, you’ve been running too fast and need to pull back immediately. If you’re within 30 seconds either way, you’re executing perfectly.
-	* The proper strategy is to target a pace 5 to 10 seconds per mile slower than your goal pace for the first three or four miles. It will feel painfully slow. It’s the right call. Just trust your splits.
+	* The proper strategy is to target a pace 5 to 10 seconds per mile slower than your goal pace for the first three or four miles. It will feel painfully/absurdly slow. It’s the right call. Just trust your splits.
 	* The payoff: Runners who execute a negative split race pass people in the final miles. They don’t get passed. That sensation — moving through a field of people who went out too fast — is one of the best feelings in marathon running.
 * 賽前約一週安排 Big/Hero Day 作為模擬考，然後全休 6 天。
 * 賽前三天開始做肝醣超補，要吃到體重公斤數的「八倍」公克數。
