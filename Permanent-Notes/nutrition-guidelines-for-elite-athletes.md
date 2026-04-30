@@ -1,6 +1,6 @@
 ---
 title: Nutrition Guidelines for Elite Athletes
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 # 1. Match Nutrition to Training Type & Timing
