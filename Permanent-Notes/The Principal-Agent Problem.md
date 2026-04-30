@@ -1,9 +1,9 @@
 ---
 title: The Principal-Agent Problem
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
-* [Principal–agent problem - Wikipedia](https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem)
+* [Principal—agent problem - Wikipedia](https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem)
 	* Principal = Shareholders of the business
 	* Agent = Employees of the business
 * The agents (employees) are acting on behalf of the principles (shareholders).
