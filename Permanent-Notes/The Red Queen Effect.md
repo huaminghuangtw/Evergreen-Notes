@@ -1,6 +1,6 @@
 ---
 title: The Red Queen Effect
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 “_It takes all the running you can do, to keep in the same place. If you want to get somewhere else, you must run at least twice as fast as that!_”
