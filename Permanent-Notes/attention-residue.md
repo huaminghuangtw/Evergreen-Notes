@@ -1,6 +1,6 @@
 ---
 title: Attention Residue
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 In the original paper [@leroyWhyItHard2009], Dr. Leroy defines attention residue as, **“the persistence of cognitive activity about a Task A even though one stopped working on Task A and currently performs a Task B.”**
