@@ -1,6 +1,6 @@
 ---
 title: The Dunning-Kruger Effect
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 > “The scope of people’s ignorance is often invisible to them. This meta-ignorance (or ignorance of ignorance) arises because lack of expertise and knowledge often hides in the realm of the “unknown unknowns” or is disguised by erroneous beliefs and background knowledge that only appear to be sufficient to conclude a right answer.” — David Dunning [^1]
