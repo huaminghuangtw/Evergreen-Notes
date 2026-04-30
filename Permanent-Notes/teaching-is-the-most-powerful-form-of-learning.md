@@ -1,6 +1,6 @@
 ---
 title: Teaching is the most powerful form of learning
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 > “The best teachers are those who show you where to look, but don’t tell you what to see.” — Alexandra K. Trenfor
