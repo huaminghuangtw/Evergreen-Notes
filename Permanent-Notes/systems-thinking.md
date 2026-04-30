@@ -1,6 +1,6 @@
 ---
 title: Systems Thinking
-modified: 2026-04-10
+modified: 2026-04-30
 ---
 
 > “The whole is greater than the sum of its parts.” — Aristotle
@@ -50,9 +50,11 @@ The Hermeneutic Circle describes a cyclical process of understanding where one�
 
 # [More Is Different](https://doi.org/10.1126/science.177.4047.393)
 
-> Emergence: When complexity increases, new rules and patterns appear that are qualitatively different — and often unpredictable — compared to those at simpler levels.
+> Emergence/Salience: When complexity increases, new rules and patterns appear that are qualitatively different — and often unpredictable — compared to those at simpler levels.
 
-In [@andersonMoreDifferentBroken1972], physicist Philip W. Anderson argues that **reductionism** — the idea that all complex systems can be fully understood by studying their smallest parts — is **incomplete**. While understanding fundamental laws (like those of particle physics) is essential, each level of complexity in nature gives rise to entirely new behaviors and principles that cannot be predicted or explained by the lower levels alone.
+In [@andersonMoreDifferentBroken1972], physicist Philip W. Anderson argues that **reductionism** — the idea that all complex systems can be fully understood by studying their smallest parts — is **incomplete**.
+
+While understanding fundamental laws (like those of particle physics) is essential, each level of complexity in nature gives rise to entirely new behaviors and principles that cannot be predicted or explained by the lower levels alone.
 
 Anderson illustrates this with examples from physics:
 
