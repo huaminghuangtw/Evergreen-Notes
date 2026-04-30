@@ -1,6 +1,6 @@
 ---
 title: Healthy Eating Habits
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 Eating Better
@@ -69,7 +69,7 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 			* Squeeze a lemon over frozen veggies after heating them. The vitamin C in lemon juice can help…
 				1. replenish any lost vitamin C during blanching
 				2. make veggies brighter and fresher tasting
-			* Frozen Fruits  Ice + Fresh Fruits
+			* Frozen Fruits Ice + Fresh Fruits
 			* [Placing heavier, frozen items on top of lighter ingredients helps weigh them down and gets the blend moving faster. This can also help prevent the blend from stalling.](https://www.vitamix.com/us/en_us/learn)
 * Paleo(lithic)/Caveman/Stone Age Diet
 
@@ -244,9 +244,9 @@ Eat lower-carb lunch. Eat high-starchy carb dinner.
 
 ---
 
-“**[Limbo–Titrate–Quality](https://www.google.com/search?q=Limbo-Titrate-Quality)**” is a three-part dietary intervention strategy, popularized by the **DIETFITS [^16] study** [@stantonDIETFITSStudyDiet2017], designed to help individuals discover a **sustainable healthy diet** rather than chase specific macronutrient targets. **Limbo** involves temporarily reducing fats or carbohydrates to very low levels (e.g., 20 g/day) during the initial phase. **Titrate** refers to gradually increasing fat or carbohydrate intake to identify a comfortable, maintainable level. **Quality** emphasizes prioritizing **nutrient-dense whole foods** while minimizing processed items, added sugars, and refined grains throughout both phases.
+“**[Limbo—Titrate—Quality](https://www.google.com/search?q=Limbo-Titrate-Quality)**” is a three-part dietary intervention strategy, popularized by the **DIETFITS [^16] study** [@stantonDIETFITSStudyDiet2017], designed to help individuals discover a **sustainable healthy diet** rather than chase specific macronutrient targets. **Limbo** involves temporarily reducing fats or carbohydrates to very low levels (e.g., 20 g/day) during the initial phase. **Titrate** refers to gradually increasing fat or carbohydrate intake to identify a comfortable, maintainable level. **Quality** emphasizes prioritizing **nutrient-dense whole foods** while minimizing processed items, added sugars, and refined grains throughout both phases.
 
-Ultimately, the **Limbo–Titrate–Quality** approach is intended to be a **lifelong, adaptable framework** for healthy eating.
+Ultimately, the **Limbo—Titrate—Quality** approach is intended to be a **lifelong, adaptable framework** for healthy eating.
 
 [^1]: [The Four Horsemen of Chronic Disease - Peter Attia](https://peterattiamd.com/peter-on-the-four-horsemen-of-chronic-disease/)
 [^2]: 如酵素、維生素、礦物質、植化素及膳食纖維等，這些都是維持健康不可或缺的要素。
