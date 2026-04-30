@@ -1,6 +1,6 @@
 ---
 title: Beef
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 草飼 > 穀飼
