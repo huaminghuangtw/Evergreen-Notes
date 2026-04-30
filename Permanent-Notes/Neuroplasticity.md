@@ -1,6 +1,6 @@
 ---
 title: Neuroplasticity
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 > “When we break down neuroplasticity to its most basic form: repetition + attention + intention = lasting change” — Nicole Vignola, [Rewire: Break the Cycle, Alter Your Thoughts and Create Lasting Change](https://www.goodreads.com/work/quotes/169911316)
