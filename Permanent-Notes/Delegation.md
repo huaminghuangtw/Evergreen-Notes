@@ -1,6 +1,6 @@
 ---
 title: Delegation
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 # How to delegate tasks that are hard to do?
