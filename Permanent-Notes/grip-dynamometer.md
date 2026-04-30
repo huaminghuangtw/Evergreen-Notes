@@ -1,6 +1,6 @@
 ---
 title: Grip Dynamometer
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 = [握力計](https://youtu.be/KurzStE46vk?t=13m49s)
