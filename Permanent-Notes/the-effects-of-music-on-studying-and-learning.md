@@ -1,6 +1,6 @@
 ---
 title: The Effects of Music on Studying and Learning
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 Studying in silence or with quiet instrumentals is best. However, _white noise_, _brown noise_, and _[40-Hz binaural beats](https://youtu.be/CQlTmOFM4Qs?t=1h11m34s)_ can enhance focus and cognitive performance. If one chooses to listen to music, it should be **purely instrumental**, e.g., classical music. Music with lyrics can hinder comprehension and learning. [^1]
