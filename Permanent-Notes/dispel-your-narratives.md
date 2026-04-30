@@ -1,6 +1,6 @@
 ---
 title: Dispel your narratives
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 > “Wisdom accepts that all things have two sides.” — Carl Jung
