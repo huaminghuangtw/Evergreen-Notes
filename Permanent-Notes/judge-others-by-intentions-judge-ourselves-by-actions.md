@@ -1,6 +1,6 @@
 ---
 title: Judge others by intentions, judge ourselves by actions
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 > “We judge ourselves by our intentions and others by their behavior.” — Stephen Covey [^1]
@@ -34,7 +34,7 @@ modified: 2026-03-13
 		* This will help balance out your perspective, and can help you view someone as a whole person / see the whole picture, instead of through pieces of limited information.
 		* When you become resentful at someone for a negative “quality” they demonstrate, try to make a list of five positive qualities the person also exhibits.
 * So, take it easy on your fellow people. <mark>You never know their inner thoughts / can’t see inside their thoughts, you can only perceive the result of their actions in the world.</mark>
-* This mindset makes you less stressed, annoyed, reactive, and more compassionate, forgiving–even in your bad days!
+* This mindset makes you less stressed, annoyed, reactive, and more compassionate, forgiving—even in your bad days!
 
 ---
 
