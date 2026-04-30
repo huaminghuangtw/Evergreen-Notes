@@ -1,6 +1,6 @@
 ---
 title: The Fight Against Normalcy
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 > “Normal is the average of deviance.” — Rita Mae Brown
