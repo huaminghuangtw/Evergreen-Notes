@@ -1,6 +1,6 @@
 ---
 title: Why is it so hard to just do the work?
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 [Resistance](https://stevenpressfield.com/home/) is an [internal force](limbic-friction.md) that prevents us from doing the work we’re meant to do. It can be categorized as [fear](fear.md), [procrastination](procrastination.md), [self-doubt](be-careful-how-you-are-talking-to-yourself.md), [self-sabotage](push-your-limits.md), [distraction](being-indistractable-is-superpower.md), arrogance, [perfectionism](perfectionism.md), and rationalization.
@@ -40,6 +40,7 @@ modified: 2026-03-13
 > [What people don’t realize is that mental focus follows visual focus. Now in blind people, it’s slightly different, it follows auditory focus, but in most people, your visual focus as you bring that into really sharp relief, that image of your book and you stare at you’re gonna feel some agitation and your mind’s gonna be jumping all over the place. But if you <mark>wait just a couple minutes, the rest of the world will disappear.</mark> I think this is sort of like the flow state people are looking for. But <mark>remember the gate of entry is one of which you have to wade through some sewage before you can swim in clear water.</mark> That’s the way I always think about it.](https://youtu.be/SwQhKFMxmDY?t=1h23m18s)
 
 **Remarks**
+
 Along with “accepting/embracing the initial mental discomfort/agitation/strain,” [^2] I sometimes say to myself, **“Forget how you feel right now”** when I’m feeling unmotivated, uninterested, or low on energy. That’s the mindset I always return to. I used to set a timer and force myself to stay in the chair, enduring the initial agitation. But over time, I built the endurance to [work for long, uninterrupted hours of stretches](deep-work.md).
 
 ---
