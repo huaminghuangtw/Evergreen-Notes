@@ -1,6 +1,6 @@
 ---
 title: Hope for the best, prepare for the worst
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 > “Do not think there are no crocodiles just because the water is calm.”
