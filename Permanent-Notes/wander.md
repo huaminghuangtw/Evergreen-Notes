@@ -1,6 +1,6 @@
 ---
 title: Wander
-modified: 2026-04-03
+modified: 2026-04-30
 ---
 
 > “Not all those who wander are lost.” — J.R.R. Tolkienx
