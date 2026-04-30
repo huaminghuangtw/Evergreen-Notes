@@ -1,6 +1,6 @@
 ---
 title: Discipline equals freedom
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 > [“Discipline is doing what you hate to do, but nonetheless doing it like you love it.” — Mike Tyson](https://x.com/MikeTyson/status/1051925919710027777)
