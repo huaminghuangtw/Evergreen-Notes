@@ -1,6 +1,6 @@
 ---
 title: Dieter Rams’ Ten Principles of Good Design
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 proposed by [Dieter Rams](https://www.google.com/search?q=Dieter+Rams), a German industrial designer, best known for his work at **Braun**, the consumer electronics company, and for his philosophy of **“less, but better”** in design.
