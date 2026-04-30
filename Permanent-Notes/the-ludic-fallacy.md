@@ -1,6 +1,6 @@
 ---
 title: The Ludic Fallacy
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 [The Ludic Fallacy](https://en.wikipedia.org/wiki/Ludic_fallacy) refers to the misuse of games or simplified models to represent real-life situations, especially when these models ignore the complexity, unpredictability, and unknowns of reality. The term was introduced by Nassim Nicholas Taleb in his book _The Black Swan_.
