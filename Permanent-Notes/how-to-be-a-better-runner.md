@@ -1,6 +1,6 @@
 ---
 title: How to be a better runner
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 Plantar Fasciitis (足底筋膜炎) = 跑者足 (Jogger’s Heel) is the inflammation of the plantar fascia
