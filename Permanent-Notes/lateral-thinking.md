@@ -1,6 +1,6 @@
 ---
 title: Lateral Thinking
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 > “The young man knows the rules, but the old man knows the exceptions.” — Oliver Wendell Holmes, Sr.
