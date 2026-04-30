@@ -1,6 +1,6 @@
 ---
 title: You are the average of the five people you associate with most
-modified: 2026-04-06
+modified: 2026-04-30
 ---
 
 > “You are the average of the five people you spend the most time with.” — Jim Rohn
@@ -18,6 +18,8 @@ modified: 2026-04-06
 > “Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.” — W. Clement Stone
 
 > “Who you spend your time with is probably the most important thing in life.” — William P. Green, [Richer, Wiser, Happier: How the World’s Greatest Investors Win in Markets and Life](https://www.goodreads.com/work/quotes/84736470)
+
+> “The older I get the more I realize it’s not worth being around people that create drama, stress and gossip. It’s much better to surround yourself with people who support you, spread love and want to improve the world around them.” — Lewis Howes
 
 ---
 
