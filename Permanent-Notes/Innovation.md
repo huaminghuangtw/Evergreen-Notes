@@ -1,6 +1,6 @@
 ---
 title: Innovation
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 > “Good ideas are always crazy until they’re not.” — Larry Page
