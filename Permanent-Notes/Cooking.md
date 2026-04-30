@@ -1,6 +1,6 @@
 ---
 title: Cooking
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 > “Roasted carrots, cauliflower, and broccoli—or anything that’s developed sweetness from browning—will always appreciate a squeeze of lemon or touch of vinegar. A little will go a long way.” — _Salt, Fat, Acid, Heat_ by Samin Nosrat
