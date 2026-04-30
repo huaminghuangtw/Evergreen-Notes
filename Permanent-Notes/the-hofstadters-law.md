@@ -1,6 +1,10 @@
 ---
 title: The Hofstadter’s Law
-modified: 2026-03-31
+modified: 2026-04-30
+---
+
+> “A hero is one who knows how to hang on for one minute longer.” — Norwegian proverb
+
 ---
 
 In contradiction to [Parkinson’s Law](the-parkinsons-law.md)
