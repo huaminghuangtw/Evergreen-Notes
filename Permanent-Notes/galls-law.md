@@ -1,6 +1,6 @@
 ---
 title: Gall’s Law
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 A complex system that works is invariably found to have evolved from a simple system that worked.
