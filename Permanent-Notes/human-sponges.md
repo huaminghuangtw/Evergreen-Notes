@@ -1,6 +1,6 @@
 ---
 title: Human Sponges
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 [@grantHiddenPotentialScience2023]
@@ -15,7 +15,7 @@ modified: 2026-03-13
                Clay             │            Sponge
        (Reactive + Growth)      │     (Proactive + Growth)
                                 │
-────────────────────────────────┼────────────────────────────────▶ Filtering Goal                  │
+————————————————————————————————┼————————————————————————————————▶ Filtering Goal                  │
                                 │
                Rubber           │             Teflon
          (Reactive + Ego)       │        (Proactive + Ego)
@@ -23,6 +23,6 @@ modified: 2026-03-13
                                 ▼
                                Ego
 
-              ◀─────── Absorbing Approach ───────▶
+              ◀——————— Absorbing Approach ———————▶
           Reactive                           Proactive
 ```
