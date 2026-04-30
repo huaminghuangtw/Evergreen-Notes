@@ -1,6 +1,6 @@
 ---
 title: Seek for the truth
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 > “Facts are the enemy of truth.” — Miguel de Cervantes
