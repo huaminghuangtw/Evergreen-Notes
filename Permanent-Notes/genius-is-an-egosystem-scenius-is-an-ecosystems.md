@@ -1,6 +1,6 @@
 ---
 title: Genius is an egosystem, scenius is an ecosystems
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 [Scenius](https://austinkleon.com/2017/05/12/scenius/) = A whole scene of people supporting each other, looking at each other’s work, copying from each other, stealing ideas, and contributing ideas.
