@@ -1,6 +1,6 @@
 ---
 title: Self-compassion
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 > “The man who renounces himself, comes to himself.” — Ralph Waldo Emerson
