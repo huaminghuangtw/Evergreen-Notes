@@ -1,6 +1,6 @@
 ---
 title: How to Make Your Own Energy Bars
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 ≈ Energy/Power Balls
