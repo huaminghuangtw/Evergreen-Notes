@@ -1,6 +1,6 @@
 ---
 title: Napping
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 ≈ 午休 ≈ 中場休息 ≈ Midday/Daytime Snoozing/Dozing ≈ [Cat Napping ≈ Power Nap](https://en.wikipedia.org/wiki/Power_nap) ≈ Siesta
