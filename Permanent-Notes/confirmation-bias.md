@@ -1,6 +1,6 @@
 ---
 title: Confirmation Bias
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 Confirmation bias (確認偏誤) is the tendency to search for, interpret, and remember information in a way that confirms our preconceptions.
