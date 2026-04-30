@@ -1,6 +1,6 @@
 ---
 title: Cynicism
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 = 犬儒主義 = 憤世忌俗 = 厭世
