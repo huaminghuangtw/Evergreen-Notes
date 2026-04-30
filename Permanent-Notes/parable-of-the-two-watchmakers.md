@@ -1,6 +1,6 @@
 ---
 title: Parable of the Two Watchmakers
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 The [Parable of the Two Watchmakers](https://en.citizendium.org/wiki/Parable_of_the_two_watchmakers) was introduced by Nobel laureate **Herbert A. Simon** to explain why **hierarchical, modular systems** evolve and survive better than tightly coupled ones. It illustrates how **complex structures are built far more efficiently when broken into stable sub-assemblies.**
