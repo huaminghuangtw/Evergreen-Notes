@@ -1,6 +1,6 @@
 ---
 title: Ikigai
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 [Ikigai](https://www.japan.go.jp/kizuna/2022/03/ikigai_japanese_secret_to_a_joyful_life.html) 是日文概念（生き甲斐），意指「活著的理由」或「人生的意義」，代表讓你每天有動力起床的核心目標。
