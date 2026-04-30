@@ -1,6 +1,6 @@
 ---
 title: Life is a video game
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 > “Think of life like a play, and it will ease your mind when you’re challenged or when someone stands in your way. Told yourself they were playing a role. Every story needs a villain. So why should you waste energy being upset at the villains in your story? Instead, you could use that energy as the fuel to beat them.” — Arnold Schwarzenegger
