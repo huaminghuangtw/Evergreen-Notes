@@ -1,6 +1,6 @@
 ---
 title: Two Types of Work
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 > [More generally, tasks that require little concentration seem to be best done in batches if possible, while tasks that require a lot of concentration seem to be best done individually, with as few distractions as one can manage.](https://terrytao.wordpress.com/2008/08/07/on-time-management/)
