@@ -1,6 +1,6 @@
 ---
 title: Visual Perceptual Exercise by Andrew Huberman
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 = Space-Time Bridging (時空橋樑) = Shift between different time domains [^1]
