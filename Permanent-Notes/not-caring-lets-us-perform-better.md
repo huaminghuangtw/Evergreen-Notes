@@ -1,6 +1,6 @@
 ---
 title: Not caring lets us perform better
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 > “If you aim at nothing, you will hit it every time.” — Zig Ziglar
