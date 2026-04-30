@@ -1,6 +1,6 @@
 ---
 title: Be careful how you are talking to yourself
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 > “Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes
@@ -123,7 +123,7 @@ Legendary UCLA basketball coach [John Wooden](https://www.google.com/search?q=Jo
 8. Promise yourself to give so much time to improving yourself that you have no time to criticize others.
 9. Promise yourself to be too large for worry, too noble for anger, too strong for fear, and too happy to permit trouble to press on you.
 
-– _John Wooden, [Wooden: A Lifetime of Observations and Reflections On and Off the Court](http://amzn.to/1UqKTJ7)_
+— _John Wooden, [Wooden: A Lifetime of Observations and Reflections On and Off the Court](http://amzn.to/1UqKTJ7)_
 
 ---
 
