@@ -1,6 +1,6 @@
 ---
 title: Systems over goals
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 > “You don’t rise to the level of your goals. You fall to the level of your systems. Your goal is your desired outcome. Your system is the collection of daily habits that will get you there.” — James Clear [^1]
@@ -13,6 +13,7 @@ modified: 2026-03-13
 * The power of systems comes from _the cause and effect (i.e., the upstream and downstream)_, which only works when it’s combined and inter-related as an entity.
 
 **Examples**
+
 * The magic of a car is not how its components (engine, doors, tires, seats) work, it’s how the whole car works together within the larger transportation system, i.e., it gets you from point A to point B with a certain speed, comfort level, carrying capacity etc. A car is compared with other systems (bus, train, airplane) by how they each fit into the transportation system.
 * The value of a [note-taking](note-taking.md) system is not just in how individual tools or methods (pen and paper, digital apps, outlining, mind mapping) function in isolation, but in how they collectively enhance your ability to capture, organize, and retrieve information efficiently. The system is evaluated by how it integrates into your broader learning or working process—helping you absorb information, recall it when needed, and connect ideas over time.
 * A productivity system is not simply about the efficiency of individual habits ([The Pomodoro Technique](the-pomodoro-technique.md), Time-blocking, etc.) or tools (To-do lists, Calendars, Reminders, etc.), but about how these elements interact to create a flow that helps you balance tasks, prioritize effectively, and stay focused within the broader context of your personal and professional life.
