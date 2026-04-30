@@ -1,6 +1,6 @@
 ---
 title: Fear of Failure and Success
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 > “In order to succeed, your desire for success should be greater than your fear of failure.” — Bill Cosby
