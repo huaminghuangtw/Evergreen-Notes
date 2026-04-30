@@ -1,6 +1,6 @@
 ---
 title: The Linda Problem
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 The Linda Problem 是由心理學家 Amos Tversky 和 Daniel Kahneman 提出的經典認知偏誤實驗。
