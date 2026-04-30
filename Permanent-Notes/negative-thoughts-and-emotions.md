@@ -1,6 +1,6 @@
 ---
 title: Negative Thoughts & Emotions
-modified: 2026-03-13
+modified: 2026-04-30
 ---
 
 > “You cannot prevent the birds of sorrow from flying over your head, but you can prevent them from building nests in your hair.” — Chinese Proverb
