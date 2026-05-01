@@ -1,7 +1,9 @@
 ---
 title: Minimalism
-modified: 2026-04-23
+modified: 2026-05-01
 ---
+
+> “It is not a daily increase, but a daily decrease. Hack away at the inessentials.” — Bruce Lee
 
 > “The ability to simplify means to eliminate the unnecessary so that the necessary may speak.” — Hans Hofmann
 
