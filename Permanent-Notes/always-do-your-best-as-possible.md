@@ -1,6 +1,6 @@
 ---
 title: Always do your best as possible
-modified: 2026-04-11
+modified: 2026-05-01
 ---
 
 > “Inspire yourself to be great. Being good isn’t good enough.” — Gurbaksh Chahal
@@ -73,6 +73,8 @@ Second place is the first loser.
 Never settle/compromise for the second best. Having a back-up plan (Plan-B), or even considering one, has been shown to hinder performance and reduce motivation to hit your primary goal.
 
 ---
+
+> “Take a simple idea, and take it seriously.” — Charlie Munger
 
 Quality over Quantity. Depth over Width.
 
