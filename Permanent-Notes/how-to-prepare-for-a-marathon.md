@@ -19,7 +19,7 @@ modified: 2026-04-30
 
 	* Most people run their easy days too hard and their hard days too easy.
 	* Run your easy runs easier so you can run your hard runs harder. If you find yourself wanting to run your easy runs harder, you probably aren’t doing your hard runs hard enough. And easy days are rest days if you do them easy enough.
-	* See: [Be Aware of the Gray Zone Where Junk Miles Live](be-aware-of-the-gray-zone-where-junk-miles-live.md)
+	* See: [Be Aware of the Gray Zone Where Junk Miles Live](beware-of-the-gray-zone-where-junk-miles-live.md)
 
 ---
 
