@@ -1,6 +1,10 @@
 ---
 title: The Streetlight Effect
-modified: 2026-04-30
+modified: 2026-05-02
+---
+
+> “Progress is impossible without change, and those who cannot change their minds cannot change anything.” — George Bernard Shaw
+
 ---
 
 > A drunk man is searching for his lost keys under a streetlight. A cop walks by and asks what he’s doing.
