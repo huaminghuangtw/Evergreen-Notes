@@ -58,7 +58,7 @@ Approach everything in life as a _skill_ at which you can increase your competen
 
 # 先求有，再求好
 
-[Get going.](just-getting-started.md) Get good. Get smart.
+[Get going.](just-get-started.md) Get good. Get smart.
 
 * The moment to move from “Get good” to “Get smart”: You never cringe yourself. You are confident with the quality of your work.
 * Strategies only come to the picture at the “Get smart” stage.
