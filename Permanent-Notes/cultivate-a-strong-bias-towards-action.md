@@ -90,7 +90,7 @@ Krummes Holz gibt auch gerades Feuer. = Crooked logs also make straight fires.
 
 ---
 
-[The first minute of action](just-getting-started.md) is worth more than a year of perfect planning.
+[The first minute of action](just-get-started.md) is worth more than a year of perfect planning.
 
 ---
 
@@ -273,7 +273,7 @@ Pragmatism 實用主義
 
 ---
 
-[Just getting started](just-getting-started.md)
+[Just getting started](just-get-started.md)
 
 [^1]: _“The professional learns to recognize envy-driven criticism and to take it for what it is: the supreme compliment. The critic hates most that which he would have done himself if he had had the guts.” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
 [^2]: _“The artist cannot look to others to validate his efforts or his calling. If you don’t believe me, ask Van Gogh, who produced masterpiece after masterpiece and never found a buyer in his whole life.” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
