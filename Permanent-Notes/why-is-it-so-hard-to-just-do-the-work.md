@@ -45,4 +45,4 @@ Along with “accepting/embracing the initial mental discomfort/agitation/strain
 
 ---
 
-**We must first [start working](just-getting-started.md), lean in, and push forward, in order to feel good and motivated.**
+**We must first [start working](just-get-started.md), lean in, and push forward, in order to feel good and motivated.**
