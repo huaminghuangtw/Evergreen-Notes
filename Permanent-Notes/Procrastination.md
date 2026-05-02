@@ -100,7 +100,7 @@ Inspiration is perishable. Act IMMEDIATELY at the moment of inspiration. Follow 
 
 ---
 
-Solving the _problem of procrastination_ is solving the _problem of [getting started](just-getting-started.md) — getting started is the key factor for the other critical idea — _momentum_.
+Solving the _problem of procrastination_ is solving the _problem of [getting started](just-get-started.md) — getting started is the key factor for the other critical idea — _momentum_.
 
 ---
 
