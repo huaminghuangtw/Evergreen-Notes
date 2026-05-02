@@ -1,6 +1,6 @@
 ---
 title: Always start small
-modified: 2026-04-30
+modified: 2026-05-02
 ---
 
 > “It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith
@@ -21,8 +21,6 @@ A [habit](be-a-habit-and-routine-machine.md) must be first _established_ before 
 
 ---
 
-[The One Percent Rule](the-one-percent-rule.md)
-
 ---
 
 # The Rule of One Hundred
@@ -35,6 +33,17 @@ If you spend 100 hours a year in any discipline (which is only 18 minutes a day)
 
 * One doesn’t seem like much, but it’s something real. At zero, you’re still dreaming.
 * Two is twice as good as one, but one is infinitely better than zero.
+
+---
+
+# Start with the 2-minute version of the task you are [procrastinating](procrastination.md)
+
+* If it’s a report: Open the document and type the title.
+* If it’s a workout: Put on your sneakers and stand outside.
+* If it’s an intimidating email: Write the subject line and the greeting.
+* If it’s a messy room: Clear off one small surface.
+
+The 2-minute version isn’t about progress; it’s about breaking the seal of inertia. Shrink the task until the [resistance](why-is-it-so-hard-to-just-do-the-work.md) vanishes.
 
 ---
 
@@ -63,7 +72,7 @@ If you spend 100 hours a year in any discipline (which is only 18 minutes a day)
 
 * If you’re having trouble sticking to a new [habit](be-a-habit-and-routine-machine.md) , try a miniature (2-minute) version until it becomes automatic.
 * Take tiny baby steps. _Do less than you’re capable of, but do it more consistently than you have before._
-* [不靠衝勁](do-not-use-your-willpower-unless-you-absolutely-have-to.md)，靠低門檻 [開始](just-getting-started.md)
+* [不靠衝勁](do-not-use-your-willpower-unless-you-absolutely-have-to.md)，靠低門檻 [開始](just-get-started.md)
 
 ---
 
@@ -83,6 +92,10 @@ Every race starts with one step. Every fortune starts with a small deposit. Ever
 
 * ❌ [失敗](failing-forward-turns-setbacks-into-stepping-stones.md) 為成功之母
 * ✅（微）小成功為成功之母
+
+---
+
+[The One Percent Rule](the-one-percent-rule.md)
 
 ---
 
