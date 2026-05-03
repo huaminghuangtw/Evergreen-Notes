@@ -1,6 +1,6 @@
 ---
 title: Time Blocking
-modified: 2026-04-30
+modified: 2026-05-03
 ---
 
 # What is Time Blocking?
@@ -20,6 +20,9 @@ modified: 2026-04-30
 1. **List your tasks:** [Write down everything you need to do](idea-capture-inbox.md).
 2. **Estimate durations:** Decide how much time each task will take.
 3. **Schedule blocks:** Place each task on your calendar, assigning a specific time slot.
+
+	> 不在行事曆上的事情就是不存在！
+
 4. **Include breaks:** Schedule time for [rest](the-most-productive-people-prioritize-intentional-rest.md) and buffer periods.
 5. **Review and adjust:** At the end of the day, [review](reflect-and-review.md) what worked and adjust future blocks as needed.
 
