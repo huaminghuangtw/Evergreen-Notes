@@ -1,6 +1,6 @@
 ---
 title: Overthinking
-modified: 2026-04-30
+modified: 2026-05-03
 ---
 
 > “Imagination and fiction make up more than three quarters of our real life.” — Simone Weil
