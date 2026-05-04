@@ -1,6 +1,12 @@
 ---
 title: Healthy Eating Habits
-modified: 2026-04-30
+modified: 2026-05-04
+---
+
+> “Let food be thy medicine and medicine be thy food.” — Hippocrates [^1]
+
+> “The food you eat can be either the greatest form of medicine or the slowest form of poison.” — Ann Wigmore
+
 ---
 
 Eating Better
@@ -11,12 +17,12 @@ Your gut is your second brain.
 
 > 「吃」所造成的問題遠多於「不吃」所造成的問題。
 
-* 一方面營養過剩 [^1]
+* 一方面營養過剩 [^2]
 	* 造成體內毒素累積
 	* 高脂肪、高糖分、高鹽分
 	* 最好吃的食物通常是最不健康的食物
-* 一方面營養不足 [^2]
-	* 加工食品和垃圾食物通常會加入無營養價值的人工添加劑，同時剝奪掉其中原有的有益營養成分。[^3]
+* 一方面營養不足 [^3]
+	* 加工食品和垃圾食物通常會加入無營養價值的人工添加劑，同時剝奪掉其中原有的有益營養成分。[^4]
 
 ---
 
@@ -26,7 +32,7 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 * The more food you eat that doesn’t have an ingredient list, the healthier you’ll be
 * Don’t eat anything your great grandmother wouldn’t recognize as food.
 
-新鮮 (原型/全/真) 食物 [^4] 最佳、冷凍/加工食品次之、罐頭食品最差
+新鮮 (原型/全/真) 食物 [^5] 最佳、冷凍/加工食品次之、罐頭食品最差
 
 * Whole Food vs Non-whole Food (→ chemicals → inflammation in the body → harmful to our lives)
 	* 植化素
@@ -37,15 +43,15 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 # Eating Patterns
 
 * 生機飲食 (Raw Food Diet 或 [Living Food Diet](https://www.annwigmore.co/living-foods-lifestyle)) 是一種以未經加工或加熱至特定溫度以上的食物為主的飲食方式 (uncooked and unprocessed)。其基本理念是：食物在加熱過程中會失去許多營養成分，尤其是酶、維生素等，因此保持食物的生機能有助於身體健康。這種飲食方式通常強調：
-	1. **未加熱或低溫烹飪**：避免將食物加熱到攝氏 50 度以上，因為這樣會破壞食物的酶和營養。[^5]
+	1. **未加熱或低溫烹飪**：避免將食物加熱到攝氏 50 度以上，因為這樣會破壞食物的酶和營養。[^6]
 	2. **有機與天然食材**：提倡食用天然、有機、未經加工的當季、當地食物。
 	3. **高纖維和植物基**：生機飲食通常是基於植物的，並且富含纖維和抗氧化劑。
 * 全食物蔬食/植物性飲食 (Whole Food Plant-Based Diet = WFPBD)
-	* ≈ The Mediterranean Diet or The Pescatarian/Pescetarianism Diet [^6]
+	* ≈ The Mediterranean Diet or The Pescatarian/Pescetarianism Diet [^7]
 	* ≠ The Western Diet or Carnivore
 	* [從人類的牙齒也可以看出動植物飲食應有的比例。我們有 32 顆牙，但是跟吃肉有關的只有 4 顆犬齒，4:28，可見上天原來就規畫動物性飲食不該超過 15 %。](https://www.books.com.tw/products/0010786351)
 	* Eat a diverse range of plants + fruits (「均衡飲食」)
-		* 「護心食物」— Bean (豆類) [^7] + Nuts (堅果) [^8] + Seeds (種子)
+		* 「護心食物」— Bean (豆類) [^8] + Nuts (堅果) [^9] + Seeds (種子)
 	* Tips
 		* Build a meal around a salad (Buddha Bowl)
 		* Eat fruit for dessert
@@ -55,9 +61,9 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 			* <https://www.forksoverknives.com/wellness/the-calorie-density-approach-to-nutrition-and-lifelong-weight-management/>
 	* 一天一杯綜合蔬果昔 (Fruit/Green Smoothie)
 		* Variations
-			* [精力湯](https://www.google.com/search?q=%E7%B2%BE%E5%8A%9B%E6%B9%AF) [^9]
+			* [精力湯](https://www.google.com/search?q=%E7%B2%BE%E5%8A%9B%E6%B9%AF) [^10]
 			* [回春水](https://www.google.com/search?q=%E5%9B%9E%E6%98%A5%E6%B0%B4)
-		* 榨蔬果汁 → 全蔬果汁/蜜 [^10]
+		* 榨蔬果汁 → 全蔬果汁/蜜 [^11]
 			* 盡量將蔬果的所有可食用部分 (根、莖、葉) 一起「打碎成泥」，以獲取更完整的營養和平時不易吸收到的微量元素。現代飲食習慣常常將最營養的部分 (如果皮、果核、種子) 去除，只留下「果肉」部分。但其實這些部位富含植化素、維生素和酵素，對健康有益。這樣「連皮帶籽」的飲食方式確實有其科學依據，例如:
 				* 菠菜根含有較多的鐵質和抗氧化物。
 				* 胡蘿蔔皮富含 β- 胡蘿蔔素及其他植化素，削皮會造成營養流失。
@@ -79,7 +85,7 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 
 ---
 
-- [ ] Identify the difference between **hunger (need)** and **craving (want)** [^11]
+- [ ] Identify the difference between **hunger (need)** and **craving (want)** [^12]
 * Apple Test: If you are not hungry enough to eat an apple, you aren’t hungry. The apple could be replaced with other healthy snacks.
 * Water Test: Drink 500ml of water and stay busy for 20 minutes. If you’re still hungry, go eat. If you forgot about it, you were either just bored or dehydrated.
 * I won’t eat anything unless I know I will actually enjoy it.
@@ -120,7 +126,7 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 	* Research the menu in advance to make informed decisions. This prevents poor choices caused by hunger or choice paralysis at the restaurant.
 	* Choose dishes / Order the food with the highest protein content.
 	* Control the portions if healthier options aren’t available. Serve yourself half of what you think you’ll eat, even if it means the plate looks a bit empty.
-- [ ] Eat Light: 吃到飽、吃到撐 → 吃到 [八分飽](https://www.google.com/search?q=%E8%85%B9%E5%85%AB%E5%88%86%E7%9B%AE) [^12]、吃到不會餓
+- [ ] Eat Light: 吃到飽、吃到撐 → 吃到 [八分飽](https://www.google.com/search?q=%E8%85%B9%E5%85%AB%E5%88%86%E7%9B%AE) [^13]、吃到不會餓
 * There is a 20-minute delay between eating and when the brain registers “fullness” / satiety. [@rakhaInsightsConstellatingDrivers2022]
 * Learn how to better manage/control portion size by using your hands (or a kitchen scale)
 	* At least a palm-sized amount of protein (it works best with meat or fish)
@@ -130,7 +136,7 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 		* 煮完放冰箱隔夜，製造抗性澱粉，吸收速度較慢
 	* Roughly one thumb-sized portion of fat (butter, olive oil, nuts, seeds)
 * The Rule of Thirds; 1/3 Carbs + 1/3 Protein + 1/3 Fruit or Vegetable
-* 211 餐盤 [^13]
+* 211 餐盤 [^14]
 	* 2 個拳頭大小: 蔬菜
 	* 1 個拳頭大小: 蛋白質
 	* 1 個拳頭大小: 碳水化合物
@@ -171,7 +177,7 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 - [ ] Food is medicine. (食療)
 	* 長期依賴藥物不僅可能引發嚴重的副作用，甚至可能導致新的疾病，陷入惡性循環。然而，許多疾病其實可以透過正確的飲食來調理與改善，使身體自行恢復平衡，逐步減少對藥物的依賴，最終擺脫「藥罐子」的命運。
 	* 讓食物成為你的藥物，別讓藥物成為你的食物。
-	* _“Let food be thy medicine and medicine be thy food.” — Hippocrates, “Father of Medicine”_ [^14]
+
 - [ ] 1 day of 24+ hrs pure water-only fasting per week for autophagy to occur
 * Eating is a stress on your body; The less often you can eat, the healthier you’ll be.
 * During fasting, the brain not only sends signals that stimulate the organism to eat; when energy levels are low, neurons also trigger the release of the hormone corticosterone, which causes cells in the liver to recycle cellular waste. It could be that this newly discovered mechanism in the brain contributes to the positive effects of fasting.
@@ -248,19 +254,19 @@ Eat lower-carb lunch. Eat high-starchy carb dinner.
 
 Ultimately, the **Limbo—Titrate—Quality** approach is intended to be a **lifelong, adaptable framework** for healthy eating.
 
-[^1]: [The Four Horsemen of Chronic Disease - Peter Attia](https://peterattiamd.com/peter-on-the-four-horsemen-of-chronic-disease/)
-[^2]: 如酵素、維生素、礦物質、植化素及膳食纖維等，這些都是維持健康不可或缺的要素。
-[^3]: [飲食會殺人，餵孩子吃工業化食品，結果就是出現愈來愈多氣喘、過動，或憂鬱傾向的下一代，而癌症、心血管疾病、糖尿病也有越來越年輕化的趨勢。](https://www.books.com.tw/products/0010786351)
-[^4]: 營養密度高、卡路里熱量密度低
-[^5]: 所有活的食物（Living Food）都含有豐富的酵素，但它有一個特點，就是一旦遇到 50 度以上的高溫，酵素就會被破壞並失去活性，無法再幫助分解食物、促進消化吸收，以及參與新陳代謝等生理作用。
-[^6]: Someone who chooses to eat a vegetarian diet, but who also eats fish and other seafood.
-[^7]: Legumes 莢豆 (plants that produce pods with seeds or beans): peas 豌豆、lentils 扁豆、pinto beans 斑豆
-[^8]: 榛果 Hazelnut、腰果 Cashew (Cashewnuss)、杏仁 Mandel、核桃 Walnuss (Walnut)、開心果 Pistazie (Pistachio)、碧根果/長壽果 Pekan、巴西果 Paranuss、花生 Erdnuss、松子 (Pine Nut)
-[^9]: 是一種將多種蔬菜、水果、堅果等食材混合 (包含不易吞嚥的籽皮部分)，經由調理棒或果汁機攪打成滑順濃汁的營養飲品。
-[^10]: Difference: 有無過濾掉果肉或果渣
-[^11]: 口腹之慾
-[^12]: = Hara Hachi Bu = 腹八分目
-[^13]: Variations: 天天 5 蔬果、蔬果 579
-[^14]: “Thy” is an archaic or poetic form of “your,” used in old English, especially in Shakespearean or biblical language.
+[^1]: “Thy” is an archaic or poetic form of “your,” used in old English, especially in Shakespearean or biblical language.
+[^2]: [The Four Horsemen of Chronic Disease - Peter Attia](https://peterattiamd.com/peter-on-the-four-horsemen-of-chronic-disease/)
+[^3]: 如酵素、維生素、礦物質、植化素及膳食纖維等，這些都是維持健康不可或缺的要素。
+[^4]: [飲食會殺人，餵孩子吃工業化食品，結果就是出現愈來愈多氣喘、過動，或憂鬱傾向的下一代，而癌症、心血管疾病、糖尿病也有越來越年輕化的趨勢。](https://www.books.com.tw/products/0010786351)
+[^5]: 營養密度高、卡路里熱量密度低
+[^6]: 所有活的食物（Living Food）都含有豐富的酵素，但它有一個特點，就是一旦遇到 50 度以上的高溫，酵素就會被破壞並失去活性，無法再幫助分解食物、促進消化吸收，以及參與新陳代謝等生理作用。
+[^7]: Someone who chooses to eat a vegetarian diet, but who also eats fish and other seafood.
+[^8]: Legumes 莢豆 (plants that produce pods with seeds or beans): peas 豌豆、lentils 扁豆、pinto beans 斑豆
+[^9]: 榛果 Hazelnut、腰果 Cashew (Cashewnuss)、杏仁 Mandel、核桃 Walnuss (Walnut)、開心果 Pistazie (Pistachio)、碧根果/長壽果 Pekan、巴西果 Paranuss、花生 Erdnuss、松子 (Pine Nut)
+[^10]: 是一種將多種蔬菜、水果、堅果等食材混合 (包含不易吞嚥的籽皮部分)，經由調理棒或果汁機攪打成滑順濃汁的營養飲品。
+[^11]: Difference: 有無過濾掉果肉或果渣
+[^12]: 口腹之慾
+[^13]: = Hara Hachi Bu = 腹八分目
+[^14]: Variations: 天天 5 蔬果、蔬果 579
 [^15]: 酪梨 = 鰐梨 = 牛油果 → 全球公認最好吃、油脂最豐厚的酪梨品種 - Hass (哈斯)
 [^16]: = Diet Intervention Examining The Factors Interacting with Treatment Success
