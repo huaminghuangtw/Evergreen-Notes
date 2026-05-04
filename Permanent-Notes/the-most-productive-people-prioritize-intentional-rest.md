@@ -1,6 +1,6 @@
 ---
 title: The most productive people prioritize intentional rest
-modified: 2026-03-14
+modified: 2026-05-03
 ---
 
 > “Rest until you feel like playing, then play until you feel like resting.” — Martha Beck
@@ -66,7 +66,7 @@ Properly break in your breaks — no sneaky working. Do not trade the last hour 
 
 ---
 
-# The 7 Types of Rest [^2]
+# The 7 Types of Rest
 
 proposed by [Dr. Saundra Dalton-Smith](https://www.drdaltonsmith.com/)
 
