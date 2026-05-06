@@ -1,6 +1,6 @@
 ---
 title: Be ready to change your mind completely at any given time
-modified: 2026-04-29
+modified: 2026-05-06
 ---
 
 > [“Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won’t come in.” — Alan Alda](https://www.goodreads.com/quotes/667214-your-assumptions-are-your-windows-on-the-world-scrub-them)
@@ -66,6 +66,10 @@ Nev­er for­get that, no mat­ter how cer­tain, you might be wrong. The only b
 ---
 
 [The Empty Cup Mentality](the-empty-cup-mentality.md)
+
+---
+
+[The Mueller-Lyer Illusion](the-mueller-lyer-illusion.md)
 
 [^1]: This is called “[Integrative Complexity](https://psychology.iresearchnet.com/social-psychology/decision-making/integrative-complexity/)” in Psychology
 [^2]: To remain “stupid” means refusing to learn, refusing to think, or deliberately avoiding knowledge and growth.
