@@ -1,6 +1,6 @@
 ---
 title: The Beginner Mindset
-modified: 2026-03-31
+modified: 2026-05-06
 ---
 
 > “It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” — Mark Twain
@@ -41,13 +41,15 @@ Some evidence [suggests](https://dx.doi.org/10.2139/ssrn.1308286) that this dram
 
 # [The Rumsfeld Matrix](https://www.google.com/search?q=The+Rumsfeld+Matrix) [^1] — [Unknown Unknowns](https://sketchplanations.com/unknown-unknowns)
 
+> “We are blind to our blindness. We have very little idea of how little we know. We are not designed to know how little we know.” — Daniel Kahneman
+
 ![](_attachments/e300bc82a87ca2a8f84e93eda4f15178.png)
 
 我們所不知道的事情，遠遠超過我們所知道的事情。所以，永遠都要預設自己一無所知。
 
 忽視或無知的代價往往極其高昂。唯有持續保持對新事物的 [好奇心](stay-curious.md)，才能不斷突破固有的「認知邊界」，開拓更廣闊的視野與可能性。
 
-You don’t know what you don’t know, the _unknown unknowns_.
+What you see is not all there is. You don’t know what you don’t know, the _unknown unknowns_.
 
 ---
 
@@ -95,5 +97,9 @@ Naivety (= naiveness = naïveté)
 ---
 
 [The Intellectual Yet Idiot](the-intellectual-yet-idiot.md)
+
+---
+
+[The Mueller-Lyer Illusion](the-mueller-lyer-illusion.md)
 
 [^1]: aka The Awareness—Understanding Matrix
