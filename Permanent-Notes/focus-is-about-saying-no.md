@@ -29,7 +29,7 @@ modified: 2026-04-26
 
 ---
 
-laser/hyper-focus requires ruthless [prioritization](Prioritization.md)
+laser/hyper-focus requires ruthless [prioritization](prioritization.md)
 
 ---
 

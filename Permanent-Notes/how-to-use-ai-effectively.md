@@ -1,6 +1,6 @@
 ---
 title: How to use AI effectively
-modified: 2026-04-14
+modified: 2026-05-07
 ---
 
 AI 是想法的放大器/加速器，而不是想法的產生器。
@@ -30,6 +30,8 @@ A good LLM serves as a great groove-greaser / a productivity catalyst—helping 
 * Bad programmer + AI = Lots of bad code
 * Medium programmer + AI = Lots of medium code
 * Great programmer + AI = Lots of great code
+
+Low-skill developers can produce bad code much faster, while high-skill developers can produce good code even faster.
 
 ---
 

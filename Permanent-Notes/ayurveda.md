@@ -1,6 +1,6 @@
 ---
-title: "Ayurveda"
-modified: 2026-04-07
+title: Ayurveda
+modified: 2026-05-07
 ---
 
 = 阿育吠陀

@@ -7,11 +7,11 @@ modified: 2026-04-30
 
 ---
 
-The nature of human motivation is about [pursuing pleasure](Dopamine.md) and avoiding pain. This is called **Sigmund Freud’s Pleasure Principle**. The pleasure principle is the driving force of seeking [immediate gratification](instant-gratification.md) of all needs, wants, and urges. This is why _time management is pain management_—when we are lonely, we check Facebook; when we’re uncertain, we search on Google.
+The nature of human motivation is about [pursuing pleasure](dopamine.md) and avoiding pain. This is called **Sigmund Freud’s Pleasure Principle**. The pleasure principle is the driving force of seeking [immediate gratification](instant-gratification.md) of all needs, wants, and urges. This is why _time management is pain management_—when we are lonely, we check Facebook; when we’re uncertain, we search on Google.
 
 ---
 
-“I have no time / I need more time” = You don’t [prioritize](Prioritization.md) your time!
+“I have no time / I need more time” = You don’t [prioritize](prioritization.md) your time!
 
 ---
 

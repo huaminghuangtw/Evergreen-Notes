@@ -193,7 +193,7 @@ Don’t let the pursuit of more stop you from enjoying what you already have. Do
 
 ---
 
-[The Parable of the Mexican Fisherman](The%20Parable%20of%20the%20Mexican%20Fisherman.md)
+[the-parable-of-the-mexican-fisherman](the-parable-of-the-mexican-fisherman.md)
 
 [^1]: The richest person isn’t the one who has the most, but the one who need the least.
 [^2]: [The Gold Medal Fallacy](https://www.sahilbloom.com/newsletter/the-gold-medal-fallacy-why-time-flies-more)

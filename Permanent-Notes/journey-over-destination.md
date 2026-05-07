@@ -73,7 +73,7 @@ Achieving [goals](goal-setting.md) is overrated, striving toward them is underra
 
 # Detach Inputs From Outputs
 
-Attach to input/intention. Detach from output/outcomes. Focus on efforts (which generate [dopamine](Dopamine.md)), not outcomes. Forget about outcomes, focus on growth/processes instead. Be [genuinely not care about](not-caring-lets-us-perform-better.md) the outcomes.
+Attach to input/intention. Detach from output/outcomes. Focus on efforts (which generate [dopamine](dopamine.md)), not outcomes. Forget about outcomes, focus on growth/processes instead. Be [genuinely not care about](not-caring-lets-us-perform-better.md) the outcomes.
 
 ---
 

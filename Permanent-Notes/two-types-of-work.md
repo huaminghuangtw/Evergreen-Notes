@@ -30,5 +30,5 @@ modified: 2026-04-30
 It’s crucial to schedule time for both types of work to keep life in order. Think of it like managing a boat: _admin tasks_ are like bailing out water that’s piling up — essential for keeping the boat afloat but not propelling it forward. On the other hand, _focused tasks_ are like rowing, actively moving you toward your goals and desired direction. Neglecting either can lead to problems; too much focus on rowing without managing admin tasks might sink the boat due to neglected responsibilities like taxes or bills. Striking a balance ensures both progress and stability.
 
 [^1]: 日文 [Mendokusai](https://ippoippojapanese.co.uk/blog-word-of-the-week-mendokusai/)：形容不想做一件事，卻又必須去做的情況（annoying, but unavoidable）。
-[^2]: See also: [The Maintenance Day](The%20Maintenance%20Day.md)
+[^2]: See also: [the-maintenance-day](the-maintenance-day.md)
 [^3]: Multitasking isn’t always bad — you just have to make sure the conditions are right.

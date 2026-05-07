@@ -46,7 +46,7 @@ The sea is pure only in its depths.
 
 ---
 
-Silence is more eloquent than [words](Be%20impeccable%20with%20your%20word.md). Silence speaks volumes.
+Silence is more eloquent than [words](be-impeccable-with-your-word.md). Silence speaks volumes.
 
 > “Blessed is the man, who having nothing to say, abstains from giving wordy evidence of the fact.” — George Eliot
 

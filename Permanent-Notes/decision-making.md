@@ -182,7 +182,7 @@ In Alice’s Adventures in Wonderland, there’s a scene in which Alice reaches 
 
 ---
 
-[Mental Models](mental%20models.md)
+[Mental Models](mental-models.md)
 
 ---
 

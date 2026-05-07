@@ -1,6 +1,6 @@
 ---
 title: Relationships
-modified: 2026-04-06
+modified: 2026-05-07
 ---
 
 > “The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin
@@ -107,7 +107,7 @@ Remember: [Life is not a debate—it’s not about winning the argument or being
 
 ---
 
-# [The Go-First Principle](The%20Go-First%20Principle.md)
+# [the-go-first-principle](the-go-first-principle.md)
 
 ---
 

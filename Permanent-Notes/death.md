@@ -160,7 +160,7 @@ Remarks: Through history, people have gone back into their own pasts, sometime t
 
 ---
 
-[Life is shorter than you think](Life%20is%20shorter%20than%20you%20think.md)
+[life-is-shorter-than-you-think](life-is-shorter-than-you-think.md)
 
 ---
 

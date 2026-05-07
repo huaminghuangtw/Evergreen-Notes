@@ -59,7 +59,7 @@ modified: 2026-04-10
 
 > “People are not disturbed by things, but by the views they take of them.” — Epictetus [^1]
 
-> “There are no [mistakes](mistake.md). They are happy accidents.” — Bob Ross
+> “There are no [mistakes](a-mistake-repeated-more-than-once-is-a-decision.md). They are happy accidents.” — Bob Ross
 
 > “We can complain that rosebushes have thorns, or rejoice that thorns have roses.” — Alphonse Karr
 

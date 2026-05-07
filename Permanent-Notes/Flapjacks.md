@@ -1,6 +1,6 @@
 ---
 title: Flapjacks
-modified: 2026-03-18
+modified: 2026-05-07
 ---
 
 = 燕麥甜餅 ≈ Pocket Porridge ≈ Granola [^1]/Oat Bar
@@ -13,7 +13,7 @@ Flapjacks are a classic British treat, popular since the 17th century. They are 
 
 * Brown sugar
 * Golden syrup
-* [Oat](Oat.md)
+* [oat](oat.md)
 * Salt
 
 # Variations & Add-ins

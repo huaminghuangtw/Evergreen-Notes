@@ -49,7 +49,7 @@ Your RAS is influenced by _what you repeatedly expose yourself to._
 * Replace “doomscrolling” with “inspiration scrolling” — seek out examples of what you want to become.
 * Listen to content that reinforces the mindset you’re cultivating.
 
-Your [information diet](Low%20Information%20Diet.md) determines what your brain assumes is relevant.
+Your [information diet](low-information-diet.md) determines what your brain assumes is relevant.
 
 See also: [The Law of Attraction](the-law-of-attraction.md)
 

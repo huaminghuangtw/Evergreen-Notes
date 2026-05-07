@@ -12,7 +12,7 @@ suggests that students who suspend their study to perform _unplanned energizing 
 # The Power of Cliffhangers: Stop When You Know What Comes Next
 
 * In practice, intentionally/strategically leaving certain pieces of your work/tasks/projects at a cliffhanger or an _incomplete/unfinished/unresolved_ point can boost your motivation and engagement when you resume.
-* By leveraging and applying the Zeigarnik Effect, you can optimize [productivity](Productivity.md) and make progress feel more seamless / make it easier to come back and dive into the flow during the next session.
+* By leveraging and applying the Zeigarnik Effect, you can optimize [productivity](productivity.md) and make progress feel more seamless / make it easier to come back and dive into the flow during the next session.
 
 ---
 

@@ -21,7 +21,7 @@ The law is less a pessimistic verdict on quality and more a calibration tool: gi
 # Implications
 
 * **Don’t judge a field by its noise floor.** Critics who dismiss entire genres, disciplines, or communities are usually only seeing the 90%. Dig deeper before concluding.
-* **Filter ruthlessly.** This is the core argument for a [Low Information Diet](Low%20Information%20Diet.md) and [News Sobriety](News%20Sobriety.md) — most content does not add signal.
+* **Filter ruthlessly.** This is the core argument for a [low-information-diet](low-information-diet.md) and [news-sobriety](news-sobriety.md) — most content does not add signal.
 * **Stay humble as a creator.** Most of your own output will be in the 90%. That’s okay. Ship consistently and let the excellent emerge over time.
 
 ---

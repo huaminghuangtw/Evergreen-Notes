@@ -7,7 +7,7 @@ modified: 2026-04-30
 
 ---
 
-Why? While [life is short](Life%20is%20shorter%20than%20you%20think.md), it’s too long for our memories.
+Why? While [life is short](life-is-shorter-than-you-think.md), it’s too long for our memories.
 
 * 記憶是短暫的，記錄才是長遠的。比起模糊的記憶，模糊的紀錄總是比較好。
 * 留下生命的軌/足跡，把每個時刻的自己快照（Snapshot）起來，相信「未來的自己」一定會很感激「現在的自己」有留下紀錄（幸好當初有寫），就像是「現在的我」很感謝「過往的我」都有回顧覆盤的習慣一樣。[^1]

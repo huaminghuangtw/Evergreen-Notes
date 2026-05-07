@@ -3,7 +3,7 @@ title: Daily Oat Meal Bowl
 modified: 2026-04-29
 ---
 
-[Oat](Oat.md) (100g)
+[oat](oat.md) (100g)
 
 # Hot
 

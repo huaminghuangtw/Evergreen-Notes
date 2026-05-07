@@ -13,7 +13,7 @@ modified: 2026-04-22
 
 When you become comfortable with a certain tool, you start applying it everywhere, _even when it doesn’t fit_.
 
-Over-reliance on a single tool can lead to suboptimal solutions and blind spots. It can also stifle [innovation](Innovation.md), as new or better tools and methods are ignored in favor of the familiar.
+Over-reliance on a single tool can lead to suboptimal solutions and blind spots. It can also stifle [innovation-is-about-everyone-agreeing-with-you-later](innovation-is-about-everyone-agreeing-with-you-later.md), as new or better tools and methods are ignored in favor of the familiar.
 
 ---
 

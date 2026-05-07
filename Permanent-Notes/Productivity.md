@@ -19,7 +19,7 @@ Productivity is about…
 
 ---
 
-Productivity is not only a _measure of [efficiency](what-you-work-on-is-far-more-important-than-how-productively-you-work.md)_ and also a _state of mind/attitude_ ([consciously choosing what really matters to](Prioritization.md) [focus on](focus-is-about-saying-no.md))
+Productivity is not only a _measure of [efficiency](what-you-work-on-is-far-more-important-than-how-productively-you-work.md)_ and also a _state of mind/attitude_ ([consciously choosing what really matters to](prioritization.md) [focus on](focus-is-about-saying-no.md))
 
 ---
 

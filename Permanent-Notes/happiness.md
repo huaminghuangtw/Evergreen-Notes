@@ -1,6 +1,6 @@
 ---
 title: Happiness
-modified: 2026-04-30
+modified: 2026-05-07
 ---
 
 > “Happiness is a state where nothing is missing.” — Naval Ravikant
@@ -144,7 +144,7 @@ The ability to think about what is not happening in a moment is a cognitive achi
 	* 「今天我還活著。」
 * Assurance
 	* “It will all be okay.”
-* [祝福](Loving%20Kindness%20Meditation.md)
+* [祝福](loving-kindness-meditation.md)
 * 聽音樂
 * 大掃除/環境整潔
 * Meal preparation

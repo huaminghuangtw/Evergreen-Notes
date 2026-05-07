@@ -43,7 +43,7 @@ modified: 2026-04-30
 
 ---
 
-Simulating [Innovation](Innovation.md) → Disruptive [Innovation](Innovation.md) (by [Clayton Christensen](https://www.google.com/search?q=Clayton+Christensen))
+Simulating [innovation-is-about-everyone-agreeing-with-you-later](innovation-is-about-everyone-agreeing-with-you-later.md) → Disruptive [innovation-is-about-everyone-agreeing-with-you-later](innovation-is-about-everyone-agreeing-with-you-later.md) (by [Clayton Christensen](https://www.google.com/search?q=Clayton+Christensen))
 
 > 破壞式創新/顛覆性想法經常發生於集體盲點
 
@@ -105,7 +105,7 @@ Rather than being trapped, Alexander challenged the fixed assumption—metaphori
 
 ---
 
-[Skepticism](Skepticism.md)
+[skepticism](skepticism.md)
 
 ---
 

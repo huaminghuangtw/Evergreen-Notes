@@ -9,7 +9,7 @@ People are promoted up to the level of peak [_incompetence_](https://sketchplana
 
 Organizations may end up with leaders who are not effective in their roles.
 
-[Productivity](Productivity.md) and morale can suffer when people are not suited to their positions.
+[productivity](productivity.md) and morale can suffer when people are not suited to their positions.
 
 ---
 

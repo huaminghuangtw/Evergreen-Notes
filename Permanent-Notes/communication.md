@@ -1,6 +1,6 @@
 ---
 title: Communication
-modified: 2026-04-10
+modified: 2026-05-07
 ---
 
 > “The single biggest problem in communication is the illusion that it has taken place.” — George Bernard Shaw
@@ -104,7 +104,7 @@ To ensure clear communication, incorporate these three elements at the start of 
 
 > “Too often we look for strategies that will shift people out of negative emotion spaces, but that’s not always possible. During difficult times, sometimes we just need to be there for one another.” — Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)
 
-We often jump into “Mr. Fix It” mode, eager to [offer advice](advice.md) and [solve a problem](Problem%20Solving.md). However, this can create tension because people don’t always want a solution; sometimes, they just want to feel heard and understood. In fact, **most arguments are not really about the argument, so most arguments can’t be won by arguing.**
+We often jump into “Mr. Fix It” mode, eager to [offer advice](advice.md) and [solve a problem](problem-solving.md). However, this can create tension because people don’t always want a solution; sometimes, they just want to feel heard and understood. In fact, **most arguments are not really about the argument, so most arguments can’t be won by arguing.**
 
 The next time a friend, partner, or family member comes to you with a problem, resist the urge to immediately offer advice. Instead, take a moment and ask a simple question to clarify what they truly need. You can frame it as:
 

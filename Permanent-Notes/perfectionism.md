@@ -1,6 +1,6 @@
 ---
 title: Perfectionism
-modified: 2026-04-28
+modified: 2026-05-07
 ---
 
 > “You don’t have to be great to start, but you have to start to be great.” — Zig Ziglar
@@ -52,7 +52,7 @@ You are not perfect, nor should you try to be. Your flaws attract the right peop
 
 1. **[Fear of Failure:](fear-of-failure-and-success.md)** Perfectionists often avoid taking risks due to the fear of making mistakes or not meeting their own high standards.
 2. **[Procrastination:](procrastination.md)** The pressure to produce perfect work can lead to avoidance behaviors, where individuals [overthink](overthinking.md) and delay starting tasks due to anxiety about their performance.
-3. **[Burnout:](Burnout.md)** Constant striving for perfection is exhausting and can lead to physical and mental burnout.
+3. **[Burnout:](burnout.md)** Constant striving for perfection is exhausting and can lead to physical and mental burnout.
 4. **[Low Self-Esteem:](your-relationship-with-yourself-sets-the-tone-for-every-other-relationships-you-have.md)** Perfectionists may tie their self-worth closely to their achievements, leading to feelings of inadequacy when they inevitably fall short.
 
 ---

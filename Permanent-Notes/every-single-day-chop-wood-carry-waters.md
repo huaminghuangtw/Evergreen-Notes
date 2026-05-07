@@ -200,7 +200,7 @@ There’s a magic in showing up on your bad days. The choice is yours. Choose wi
 
 ---
 
-[Frameworks to achieve any goals](Frameworks%20to%20achieve%20any%20goals.md)
+[frameworks-to-achieve-any-goals](frameworks-to-achieve-any-goals.md)
 
 ---
 

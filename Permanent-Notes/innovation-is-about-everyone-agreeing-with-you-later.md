@@ -1,6 +1,6 @@
 ---
-title: Innovation
-modified: 2026-04-30
+title: Innovation is about everyone agreeing with you later
+modified: 2026-05-07
 ---
 
 > “Good ideas are always crazy until they’re not.” — Larry Page

@@ -1,6 +1,6 @@
 ---
 title: Everything in life has an opportunity cost
-modified: 2026-04-28
+modified: 2026-05-07
 ---
 
 > “The real price of everything, what everything really costs to the man who wants to acquire it, is the toil and trouble of acquiring it.” — Adam Smith, The Wealth of Nations
@@ -16,10 +16,6 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Opportunity_cost), opport
 ---
 
 有得就有失
-
----
-
-Every thing in life has a price tag. Are you willing to pay the price?
 
 ---
 
@@ -40,6 +36,8 @@ If you choose to use an hour of your life on one thing—you can’t use that ho
 ---
 
 # [“List Price vs Real Price” by Sahil Bloom](https://www.sahilbloom.com/newsletter/the-real-price-of-success)
+
+**Every thing in life has a price tag. Are you willing to pay the price?**
 
 Three factors:
 

@@ -1,9 +1,9 @@
 ---
 title: Criticism
-modified: 2026-04-30
+modified: 2026-05-07
 ---
 
-—_“To avoid criticism, do nothing, say nothing, be nothing.” — Elbert Hubbard_
+> “To avoid criticism, do nothing, say nothing, be nothing.” — Elbert Hubbard
 
 > “The trouble with most of us is that we’d rather be ruined by praise than saved by criticism.” — Norman Vincent Peale
 

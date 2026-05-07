@@ -39,7 +39,7 @@ The ultimate form of preparation is not planning for a specific scenario, but [a
 
 ---
 
-Planning and [doing](cultivate-a-strong-bias-towards-action.md) are two different modes of operation. **Separate planning from doing.** [^1] Spend some time on _[task value/priority evaluation/assessment](Prioritization.md)_ before any commitments/effort. It’s worth it. [^2]
+Planning and [doing](cultivate-a-strong-bias-towards-action.md) are two different modes of operation. **Separate planning from doing.** [^1] Spend some time on _[task value/priority evaluation/assessment](prioritization.md)_ before any commitments/effort. It’s worth it. [^2]
 
 ---
 

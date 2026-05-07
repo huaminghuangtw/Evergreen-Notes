@@ -1,6 +1,6 @@
 ---
 title: Resilience
-modified: 2026-04-30
+modified: 2026-05-07
 ---
 
 > [“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)
@@ -66,6 +66,10 @@ Forget all the reasons why it won’t work and believe the one reason why it wil
 ---
 
 Resistance, obstacles, and roadblocks lead to growth. “A gem cannot be polished without friction, nor a man perfected without trials.”
+
+---
+
+[Failures](failing-forward-turns-setbacks-into-stepping-stones.md) are the the practice for success. [Mistakes](a-mistake-repeated-more-than-once-is-a-decision.md) are the portals of discovery. Embracing Challenges and Setbacks. Learn from Adversity.
 
 ---
 

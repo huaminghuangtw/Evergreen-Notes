@@ -1,6 +1,6 @@
 ---
 title: Avoid telling people your goals
-modified: 2026-03-24
+modified: 2026-05-07
 ---
 
 > “If you start by promising what you don’t even have yet, you’ll lose your desire to work towards getting it.” — Paulo Coelho
@@ -11,7 +11,7 @@ modified: 2026-03-24
 
 ---
 
-Announcing your goals can undermine/hinder your overall progress. It releases cheap [dopamine](Dopamine.md) and tricks your brain into thinking you’ve already achieved them, which will lower your motivation. Keep your goals to yourself.
+Announcing your goals can undermine/hinder your overall progress. It releases cheap [dopamine](dopamine.md) and tricks your brain into thinking you’ve already achieved them, which will lower your motivation. Keep your goals to yourself.
 
 ---
 

@@ -115,7 +115,7 @@ Fast Digital Consumption
 # The Paradox of Connectedness/Social Media
 
 * Smartphones and digital distractions have amplified this issue. We can be in the same room with others physically, but still feel completely disconnected.
-* Social media has created more connectedness than ever before—a constant [dopamine drip](Dopamine.md).
+* Social media has created more connectedness than ever before—a constant [dopamine drip](dopamine.md).
 * We have more connectedness, but we feel less connected to those right in front of us.
 * Social media is as addictive as drugs [^3] designed to make you wish you were somewhere else, doing something else, with someone else.
 * We all need to put down the phone and spend time connecting with people in person/real life. Disconnect to reconnect.
@@ -166,7 +166,7 @@ If you were to reduce screen time—especially social media—by just one hour p
 
 ---
 
-[News Sobriety](News%20Sobriety.md)
+[news-sobriety](news-sobriety.md)
 
 ---
 
