@@ -27,7 +27,7 @@ modified: 2026-05-07
 
 ![](_attachments/5633e2ff39cb06efd22e09b534270123.jpeg)
 
-![](_attachments/Pasted%20image%2020260507073006.png)
+![](_attachments/8c1597fff8dfedfeb5915303c6e62e59.png)
 
 ---
 
