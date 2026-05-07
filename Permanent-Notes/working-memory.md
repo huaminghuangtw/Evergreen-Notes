@@ -36,7 +36,7 @@ Working memory is closely ties to tied to [attention](attention.md).
 
 ---
 
-Working memory capacity/span correlates to the [dopamine](Dopamine.md) levels in the prefrontal cortex. The relationship between working memory and dopamine follows an _inverted U-shaped function_.
+Working memory capacity/span correlates to the [dopamine](dopamine.md) levels in the prefrontal cortex. The relationship between working memory and dopamine follows an _inverted U-shaped function_.
 
 * Higher dopamine correlates with better working memory, while lower dopamine correlates with lower working memory.
 * Note that increasing dopamine doesn’t always enhance working memory; some individuals with high working memory may experience performance degradation with increased dopamine levels; too much dopamine can reduce working memory span.

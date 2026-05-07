@@ -15,7 +15,7 @@ modified: 2026-04-30
 
 # Take On Less, Accomplish More
 
-# [Talk Less To Be Heard More](Speak%20less,%20listen%20more.md)
+# [Talk Less To Be Heard More](speak-less-listen-more.md)
 
 # Stop Looking To Find More
 

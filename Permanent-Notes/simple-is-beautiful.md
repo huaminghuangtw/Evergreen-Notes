@@ -1,6 +1,6 @@
 ---
 title: Simple is beautiful
-modified: 2026-05-01
+modified: 2026-05-07
 ---
 
 > ”Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.” — Steve Jobs
@@ -43,13 +43,13 @@ modified: 2026-05-01
 
 ---
 
-Simplicity minimizes confusion and indecision.
+Simplicity minimizes confusion and indecision. Simple is better than complex.
 
 ---
 
 # The Kiss Principle
 
-* = Keep It Simple, Stupid
+> = Keep It Simple, Stupid
 
 ---
 

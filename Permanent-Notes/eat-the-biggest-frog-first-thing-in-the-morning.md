@@ -9,7 +9,7 @@ modified: 2026-05-03
 
 > “If it’s your job to eat a frog, it’s best to do it first thing in the morning. And if it’s your job to eat two frogs, it’s best to eat the biggest one first.”
 
-> “The key is not to [prioritize](Prioritization.md) what’s on your schedule, but to schedule your priorities.” — Stephen Covey [^1]
+> “The key is not to [prioritize](prioritization.md) what’s on your schedule, but to schedule your priorities.” — Stephen Covey [^1]
 
 > [“If you don’t prioritize, everything seems urgent and important. If you define the single most important task for each day, almost nothing seems urgent or important. Oftentimes, it’s just a matter of letting (fires burn/) small little bad things happen (e.g., return a phone call late and apologize, pay a small late fee, lose an unreasonable customer, etc.) to get the big important things done. The answer to overwhelm is not spinning more plates—or doing more—it’s defining the few things that can really fundamentally change your business and life.” — Tim Ferriss](https://x.com/tferriss/status/1674772152589996034) [^2]
 

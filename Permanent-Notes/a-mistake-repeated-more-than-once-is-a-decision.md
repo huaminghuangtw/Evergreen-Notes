@@ -1,13 +1,13 @@
 ---
 title: A mistake repeated more than once is a decision
-modified: 2026-04-30
+modified: 2026-05-07
 ---
 
 > “A man who has committed a mistake and doesn’t correct it, is committing another mistake.” — Confucius
 
 > “A mistake repeated more than once is a decision.” — Paulo Coelho
 
-> “If you’re not making mistakes, then you’re not making decisions (and progress).” — Catherine Cook
+> “If you’re not making mistakes, then you’re not making decisions (and progress).” — Catherine Cook [^1]
 
 > “Experience is simply the name we give our mistakes.” — Oscar Wilde
 
@@ -19,7 +19,7 @@ modified: 2026-04-30
 
 > “Never make a permanent mistake to solve a temporary problem.” — Damon Suede, [Bad Idea](https://www.goodreads.com/work/quotes/26163619)
 
-> “Learn from the mistakes of others. You can never live long enough to make them all yourself.” — Groucho Marx [^1]
+> “Learn from the mistakes of others. You can never live long enough to make them all yourself.” — Groucho Marx [^2]
 
 > “More people would learn from their mistakes if they weren’t so busy denying them.” — Harold J. Smith
 
@@ -47,4 +47,5 @@ A [failure](failing-forward-turns-setbacks-into-stepping-stones.md) is not alway
 
 When you make a mistake, recognize it, acknowledge/admit it, learn from it, then let it go (forget it).
 
-[^1]: 「以銅為鏡，可以正衣冠；以史為鏡，可以知興替；以人為鏡，可以明得失」— 唐太宗
+[^1]: _If you have everything under control, you’re not moving fast enough.” — Mario Andretti_
+[^2]: _「以銅為鏡，可以正衣冠；以史為鏡，可以知興替；以人為鏡，可以明得失」— 唐太宗_

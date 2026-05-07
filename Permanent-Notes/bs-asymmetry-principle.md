@@ -35,7 +35,7 @@ It is easier to relate a simple lie than a complex truth.
 
 ---
 
-[Skepticism](Skepticism.md)
+[skepticism](skepticism.md)
 
 ---
 

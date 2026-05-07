@@ -19,7 +19,7 @@ Never press the “Try/Grind Harder” button. Instead, build a sustainable _[sy
 
 ---
 
-[Refuse to feel rushed.](slow-down-to-speed-up.md) This becomes possible by deeply understanding your [priorities](Prioritization.md).
+[Refuse to feel rushed.](slow-down-to-speed-up.md) This becomes possible by deeply understanding your [priorities](prioritization.md).
 
 * 從容不迫
 * 不疾不徐

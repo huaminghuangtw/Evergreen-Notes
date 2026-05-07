@@ -101,7 +101,7 @@ Failure + [Reflection](reflect-and-review.md) + [Another Rep](deliberate-practic
 
 Treat failure like a scientist.
 
-**Each attempt is an experiment. Each [mistake](mistake.md) is a clue.**
+**Each attempt is an experiment. Each [a-mistake-repeated-more-than-once-is-a-decision](a-mistake-repeated-more-than-once-is-a-decision.md) is a clue.**
 
 You’re not failing. You’re refining.
 

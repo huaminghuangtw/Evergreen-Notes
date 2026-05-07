@@ -1,6 +1,6 @@
 ---
 title: If it isn’t fuck yes, then it’s clear no thank you
-modified: 2026-04-30
+modified: 2026-05-07
 ---
 
 **TL; DR** Default to NO.
@@ -45,7 +45,7 @@ Stopping isn’t weakness, it’s wisdom.
 
 * The goal is to achieve more by doing less, and the only way to get more things done is to have fewer things to do. Remember: [The more things you do, the less well you do each of them.](https://www.workingtheorys.com/p/3-hours) The less you have to do, the more time you get to chase randomness and enjoy the things you really want to do.
 * Less is often more—but getting to “less” is the hard part.
-* [Being overwhelmed](Burnout.md) is just as unproductive as doing nothing—and far more unpleasant. [Productivity](Productivity.md) comes from being selective: do less, but focus on what truly matters. [Prioritize](Prioritization.md) the vital few and ignore the rest.
+* [Being overwhelmed](burnout.md) is just as unproductive as doing nothing—and far more unpleasant. [productivity](productivity.md) comes from being selective: do less, but focus on what truly matters. [Prioritize](prioritization.md) the vital few and ignore the rest.
 
 ---
 

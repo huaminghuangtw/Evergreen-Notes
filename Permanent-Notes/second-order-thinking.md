@@ -24,7 +24,7 @@ Many failures, policy mistakes, and unexpected harms arise because people stop a
 2. Ask: **“And then what?”** — repeat at least 2–3 times, tracing plausible consequences.
 3. Map [feedback loops](feedback-loop.md) and incentives: who gains, who loses, how do actors adapt?
 4. Consider timing and reversibility: are effects immediate or delayed? Can they be undone?
-5. Assign rough probabilities and magnitudes — not to be precise, but to [prioritize](Prioritization.md) which ripples matter.
+5. Assign rough probabilities and magnitudes — not to be precise, but to [prioritize](prioritization.md) which ripples matter.
 6. Look for leverage points and unintended consequences [before acting](slow-down-to-speed-up.md).
 
 # Questions

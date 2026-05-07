@@ -45,7 +45,7 @@ modified: 2026-04-10
 
 * Most people try to be fast, but forget to check if they are doing the right thing. Trying to be efficient without caring about effectiveness is the default mode of the universe.
 * 「效率 (Efficiency)」是把事情做好 (Doing things right)，而「效能 (Effectiveness/Efficacy)」則是做對的事情 (Doing the right things) [^3]
-* [Become a strategist.](Prioritization.md) It is much more important to do the right things compared to doing things right.
+* [Become a strategist.](prioritization.md) It is much more important to do the right things compared to doing things right.
 * 許多人習慣談論「效率」，卻較少使用「效能」這個詞，因此常常將兩者混淆。而**所謂的「效率」，其實是建立在「效能」的前提/基礎上討論的** — 唯有確保做對的事情，提升效率才有意義。因此，在談效率時，是假設已經在做對的事情了。
 * 在任何行動之前，我們應該先思考：「這件事是該做的嗎? 」（效能），然後再考慮如何把它做好（效率）。
 * Efficiency is still important, but only if you use it for the right things.

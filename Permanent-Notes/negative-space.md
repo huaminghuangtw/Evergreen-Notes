@@ -29,7 +29,7 @@ Another classic example is the [Rubin vase (魯賓之盃)](https://www.google.co
 
 ---
 
-[Minimalism](Minimalism.md)
+[minimalism](minimalism.md)
 
 ---
 

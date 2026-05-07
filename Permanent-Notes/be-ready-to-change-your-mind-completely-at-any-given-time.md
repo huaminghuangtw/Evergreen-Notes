@@ -37,7 +37,7 @@ Nev­er for­get that, no mat­ter how cer­tain, you might be wrong. The only b
 
 ---
 
-[Skepticism](Skepticism.md)
+[skepticism](skepticism.md)
 
 ---
 

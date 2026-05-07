@@ -5,7 +5,7 @@ modified: 2026-04-30
 
 [by Shaan Puri](https://x.com/ShaanVP/status/1347252471291207681)
 
-is a [mental model](mental%20models.md) to save you from [analysis paralysis](decision-fatigue.md) while starting new projects or achieving your life goals.
+is a [mental model](mental-models.md) to save you from [analysis paralysis](decision-fatigue.md) while starting new projects or achieving your life goals.
 
 ![](_attachments/7e708fde452803ca57beadba7c474768.png)
 

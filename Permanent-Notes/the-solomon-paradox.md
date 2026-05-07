@@ -32,4 +32,4 @@ Why?
 
 ## 2. 切換觀點，練習「自我抽離」
 
-透過「[自我抽離](when-in-doubt-zoom-out.md)」，我們可以嘗試將自己視為第三者，以客觀旁觀者的角度來分析自身問題。這種方式能增強「適應性反思 (adaptive self-reflection)」，避免情緒干擾，提升 [解決問題](Problem%20Solving.md) 的能力。
+透過「[自我抽離](when-in-doubt-zoom-out.md)」，我們可以嘗試將自己視為第三者，以客觀旁觀者的角度來分析自身問題。這種方式能增強「適應性反思 (adaptive self-reflection)」，避免情緒干擾，提升 [解決問題](problem-solving.md) 的能力。

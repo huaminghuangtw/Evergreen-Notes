@@ -20,7 +20,7 @@ The relationship is often illustrated as an inverted U-shaped curve.
 ---
 
 * Understimulated ➞ Boreout
-* Overstimulated ➞ [Burnout](Burnout.md)
+* Overstimulated ➞ [burnout](burnout.md)
 
 # Task Complexity
 

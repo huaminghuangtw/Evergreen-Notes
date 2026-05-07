@@ -38,7 +38,7 @@ modified: 2026-04-22
 
 ---
 
-Doing nothing can be surprisingly [productive](Productivity.md). I’ve experienced Wu Wei in my life when I’ve chosen not to immediately act on something, or simply do nothing and embrace laziness.
+Doing nothing can be surprisingly [productive](productivity.md). I’ve experienced Wu Wei in my life when I’ve chosen not to immediately act on something, or simply do nothing and embrace laziness.
 
 ---
 

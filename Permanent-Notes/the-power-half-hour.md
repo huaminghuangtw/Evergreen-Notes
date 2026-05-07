@@ -22,7 +22,7 @@ This method is similar to [The Pomodoro Technique](the-pomodoro-technique.md), w
 
 ---
 
-Breaking/dividing/compartmentalizing your day into “snackable” 30-minute chunks/bites/segments could help boost [productivity](Productivity.md)
+Breaking/dividing/compartmentalizing your day into “snackable” 30-minute chunks/bites/segments could help boost [productivity](productivity.md)
 
 ---
 

@@ -25,7 +25,7 @@ modified: 2026-04-09
 * Most of us only consume contents created
 	* within the last 24 hours (e.g., news)
 	* recommended by the “For You” algorithm (e.g., YT videos, SM feeds)
-* [Functional Illiteracy](Functional%20Illiteracy.md)
+* [functional-illiteracy](functional-illiteracy.md)
 
 # Solutions
 
@@ -46,13 +46,13 @@ modified: 2026-04-09
 
 		> “Ignore topics that drain your attention. Unfollow people that drain your energy. Abandon projects that drain your time. Do not keep up with it all. The more selectively ignorant you become, the more broadly knowledgeable you can be.” — James Clear
 
-	* [News Sobriety](News%20Sobriety.md)
+	* [news-sobriety](news-sobriety.md)
 * The Laundry Cycle Mentality
 	* Think about the areas of your life where you are placing unnecessary pressure on yourself to have everything in a “completed” state, e.g., to-read pile (Read-It-Later → Never-Read-It).
 	* Perhaps that area is better viewed as a RIVER than as a BUCKET — as a cycle, not a fixed state.
 * Build a [note-taking habit](note-taking.md) and an [idea-capturing system](idea-capture-inbox.md)
 * Consume less. [Reflect/Review](reflect-and-review.md) or [Create/Produce/Make/Build](creativity-is-just-connecting-things.md) More.
-	* Embrace [Low Information Diet](Low%20Information%20Diet.md) to avoid the “[Mental Squeeze Point](https://notes.linkingyourthinking.com/Cards/Mental+Squeeze+Point)”
+	* Embrace [low-information-diet](low-information-diet.md) to avoid the “[Mental Squeeze Point](https://notes.linkingyourthinking.com/Cards/Mental+Squeeze+Point)”
 	* Spend more time _connecting dots (convergent exploiting)_ than you do _collecting them (divergent exploring)_
 	* Strive for a balance between _consuming_ and _digesting_ information—because if you only take in content without truly processing it, you’re likely to forget most of what you encounter.
 	* If you decide to consume something:

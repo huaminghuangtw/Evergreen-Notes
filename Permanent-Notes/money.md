@@ -1,6 +1,6 @@
 ---
 title: Money
-modified: 2026-04-24
+modified: 2026-05-07
 ---
 
 > “Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence
@@ -47,7 +47,7 @@ Reasonable Rational
 * [True wealth is found not in attaining more, but in discovering enough.](https://x.com/SahilBloom/status/1571500995326185475)
 * Financial freedom is a feeling, not a reality.
 * **Marginal Utility:** [Beyond a certain point, having more money will not lead to more security, freedom, and happiness.](https://www.givingwhatwecan.org/blog/can-money-buy-happiness) In fact, these things do not come from more money. They come from knowing when to stop.
-	* See: [The Parable of the Mexican Fisherman](The%20Parable%20of%20the%20Mexican%20Fisherman.md)
+	* See: [the-parable-of-the-mexican-fisherman](the-parable-of-the-mexican-fisherman.md)
 * You’ll never achieve financial freedom when you [play status games](the-game-of-life.md), fall into the consumer trap, and let your ego dictate your spending.
 	* The only way to build wealth is to have a gap between your ego and your income. [Less ego](abandon-your-ego.md), more wealth.
 * False Belief: “_If I become great at making money, you’ll automatically become wealthy._”

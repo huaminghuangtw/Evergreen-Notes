@@ -1,6 +1,6 @@
 ---
 title: True education begins where school ends
-modified: 2026-04-30
+modified: 2026-05-07
 ---
 
 > “School is one thing. Education is another. The two don’t always overlap. Whether you’re in school or not, it’s always your job to get yourself an education.” — Austin Kleon
@@ -26,6 +26,8 @@ modified: 2026-04-30
 ---
 
 ![](_attachments/5633e2ff39cb06efd22e09b534270123.jpeg)
+
+![](_attachments/Pasted%20image%2020260507073006.png)
 
 ---
 

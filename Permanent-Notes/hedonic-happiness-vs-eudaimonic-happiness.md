@@ -5,7 +5,7 @@ modified: 2026-03-23
 
 # Hedonic Happiness
 
-* Achieved through [pleasure, enjoyment, or satisfaction](Dopamine.md)
+* Achieved through [pleasure, enjoyment, or satisfaction](dopamine.md)
 * Associated with the maximization of short-term pleasure
 * The happiness you feel when you seek [instant gratification](instant-gratification.md)
 

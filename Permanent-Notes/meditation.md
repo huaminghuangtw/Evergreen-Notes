@@ -84,6 +84,6 @@ The goal of productive meditation is to take a period in which you’re occupied
 * Vipassana Meditation
 * Refocused Focused Meditation
 * Transcendental Meditation (TM) is a form of silent meditation developed by Maharishi Mahesh Yogi
-* [Loving Kindness Meditation](Loving%20Kindness%20Meditation.md)
+* [loving-kindness-meditation](loving-kindness-meditation.md)
 
 [^1]: = 開悟 = 般若 (> 知識 + 智慧) = 啟迪

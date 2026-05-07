@@ -41,7 +41,7 @@ The difference between being good and being great isn’t talent or formal train
 
 Those who reach the absolute pinnacle of their craft share a unique trait: [they’ve dissolved the boundary between “practice” and “life.”](https://www.indiehackers.com/post/lifestyle/the-hidden-training-habits-of-21-world-class-performers-m3AgqjN63WLHJGLrKJPa) They’re not working harder; they’ve just made it impossible to stop working. There’s no “off” time; instead, they channel their curiosity into whatever they’re doing.
 
-Once you see it this way, your “working hours” multiply without [burning you out](Burnout.md)—because you’re no longer [switching contexts](task-switching.md). You become the practice.
+Once you see it this way, your “working hours” multiply without [burning you out](burnout.md)—because you’re no longer [switching contexts](task-switching.md). You become the practice.
 
 ---
 
