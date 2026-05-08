@@ -1,6 +1,6 @@
 ---
 title: Programming Best Practices
-modified: 2026-05-07
+modified: 2026-05-08
 ---
 
 # Code should be self-commenting
@@ -35,7 +35,7 @@ Always consult official documentation first. Never use tutorials or videos as yo
 
 ---
 
-Setup automatic linters and formatters.
+Setup automatic linters and formatters for consistency.
 
 ---
 
