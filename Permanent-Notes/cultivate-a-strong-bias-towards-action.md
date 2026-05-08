@@ -1,6 +1,6 @@
 ---
 title: Cultivate a strong bias towards action
-modified: 2026-04-21
+modified: 2026-05-08
 ---
 
 > “To be is to do.” — Immanuel Kant
@@ -186,15 +186,8 @@ There is no later, because later you’ll be [dead](death.md).
 	* But be aware of **The Information-Action Gap** (= The time lag between receiving information and acting on that information)
 	* “If information isn’t nurtured with action, it loses its power.”
 * Knowledge is as vital to life as air. Just as no one should be denied the right to breathe, knowledge should be freely accessible to all. Yet, like air that must be inhaled to sustain life, knowledge only becomes truly valuable when it is applied—mere possession is not enough.
-* [Tutorial Hell](https://www.google.com/search?q=Tutorial+Hell) is a state of perpetual [learning](learning-is-the-single-best-investment-that-you-can-make-for-your-time.md), often marked by the consumption of one tutorial after another without putting acquired knowledge into practice.
-	* How to master any skill fast?
-		1. Stop studying
-			* Most people get trapped in _tutorial hel_l and have nothing to show for years of “[learning](learning-is-the-single-best-investment-that-you-can-make-for-your-time.md).”
-		2. Outline a project
-		3. Start building it
-		4. Hit a roadblock
-		5. Research how to overcome it
-		6. Repeat until completed
+
+[Tutorial Hell](tutorial-hell.md)
 
 ---
 
