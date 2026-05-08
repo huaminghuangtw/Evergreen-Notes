@@ -1,6 +1,6 @@
 ---
-title: How to Prepare for a Marathon?
-modified: 2026-04-30
+title: How to prepare for a marathon
+modified: 2026-05-08
 ---
 
 > [“The work is behind the scene. Competition is the easy part.” — Usain Bolt](https://youtu.be/LEIxpcYukqc?t=113s) [^1]
