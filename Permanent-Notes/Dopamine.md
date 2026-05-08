@@ -77,7 +77,7 @@ Feel unmotivated? [Procrastination](procrastination.md)?
 
 Cheap (Fake) Dopamine (associated with [short-term thinking](instant-gratification.md))
 
-* Increases our [dopamine](dopamine.md) baseline levels
+* Increases our [dopamine](../../..//Evergreen-Notes/Permanent-Notes/dopamine.md) baseline levels
 	* Once they drop/return to normal, we crash.
 	* Then we need more dopamine to beat the previous dopamine spike/hit/high.
 * Often associated with _**struggle**_
