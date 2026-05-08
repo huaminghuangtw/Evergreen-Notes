@@ -1,6 +1,6 @@
 ---
 title: Learning is the single best investment that you can make for your time
-modified: 2026-04-28
+modified: 2026-05-08
 ---
 
 > “Learning never exhausts the mind.” — Leonardo da Vinci
@@ -139,6 +139,16 @@ Always starting from the most basic and simplest level, then adding more complex
 3. Remove barriers to practice—remove the distractions that are keeping you from practicing.
 4. Practice for at least 20 hours—by pre-committing to practicing whatever it is that you want to do for at least 20 hours, you will be able to overcome initial frustration barrier and stick with the practice long enough to actually reap the rewards.
 5. The major barrier’s not intellectual, it’s emotional.
+
+---
+
+# How to master any skill fast?
+
+1. Stop studying: Most people get trapped in _[Tutorial Hell](tutorial-hell.md)_ and have nothing to show for years of “learning.”
+2. Start a project
+3. Hit a roadblock
+4. Research how to overcome it
+5. Repeat until completed
 
 ---
 
