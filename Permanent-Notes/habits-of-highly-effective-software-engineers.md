@@ -1,6 +1,6 @@
 ---
 title: Habits of Highly Effective Software Engineers
-modified: 2026-05-07
+modified: 2026-05-08
 ---
 
 # [They invest in good documentation](https://x.com/mojombo/status/1260718505273393153)
@@ -23,11 +23,40 @@ modified: 2026-05-07
 
 Proof of Concept (PoC)
 
+Rather than falling into the [Tutorial Hell](tutorial-hell.md)
+
+Effective engineers don’t just read or watch tutorials—they build. Prototyping is about quickly turning ideas into tangible experiments, even if they’re rough or incomplete. The goal is to validate assumptions, explore feasibility, and learn by doing, not by endlessly planning or consuming content.
+
+**Why prototype?**
+
+* It helps you discover what works and what doesn’t, fast.
+* You get immediate feedback, which guides further development or pivots.
+* It’s a low-risk way to test new technologies, patterns, or product ideas before committing significant resources.
+
+**How to prototype effectively:**
+
+1. **Start small:** Focus on the core idea or the riskiest part. Don’t try to build a full product.
+2. **Set a timebox:** Limit yourself to a few hours or a day. The goal is learning, not perfection.
+3. **Embrace throwaway code:** Don’t worry about code quality or architecture at this stage. Optimize for speed and insight.
+4. **Reflect:** After prototyping, ask: What did I learn? What should I try next? Is this idea worth pursuing further?
+
+**Examples:**
+
+* Building a quick CLI tool to automate a repetitive task.
+* Creating a simple UI mockup to test a new interaction pattern.
+* Integrating with a new API using a minimal script.
+
+Remember: Prototyping is a habit. The more you do it, the faster you’ll learn and the more creative you’ll become as an engineer.
+
 ---
 
 # They are [lifelong learners](true-education-begins-where-school-ends.md)
 
 ⭐️ [“Sharpen the Saw” (i.e., Continuous Learning) is the most important habit for programmers: investing time in acquiring new skills, staying updated on industry trends, and exploring new technologies, etc.](https://dev.to/tentanganak/7-habits-that-programmers-must-have-1dfj)
+
+[Software Engineer === Student](https://www.reddit.com/r/learnprogramming/s/uehu7I1vA7)
+
+> A key trait of a good programmer is the ability to learn new things. While you can never know everything, the ability to rapidly absorb / pick up new concepts and tools from available online resources enables you to stay well-informed and adaptable.
 
 ---
 
