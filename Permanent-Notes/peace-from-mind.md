@@ -41,7 +41,7 @@ The Japanese word [mushin (無心)](https://www.google.com/search?q=mushin) tran
 
 # 內心平靜的指標
 
-#Blog
+#BLOG
 
 1. 情緒穩定：不容易因小事而生氣、焦慮或沮喪，常發出會心和真誠的微笑。
 2. 接受力強：不強烈抗拒現實，也不強迫它一定要發生。
