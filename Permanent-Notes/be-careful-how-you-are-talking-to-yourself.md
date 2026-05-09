@@ -148,7 +148,7 @@ Instead of forgiving ourselves or moving forward, we assign ourselves a kind of 
 
 ---
 
-#Newsletter
+#NEWSLETTER
 
 You ever notice when you take a wrong turn on **Google Maps**, it doesn’t scream at you? **It doesn’t say, you idiot, you failed. It just says recalculating and gives you another route.**
 
