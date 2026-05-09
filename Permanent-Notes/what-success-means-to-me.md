@@ -49,7 +49,7 @@ modified: 2026-03-31
 
 ---
 
-#Newsletter
+#NEWSLETTER
 
 The most important thing in life is _not having_ what you want, but _knowing_ what you want—figuring it out is everything!
 
