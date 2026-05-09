@@ -7,7 +7,7 @@ When exercising, follow the [Galpin Equation](https://youtu.be/q37ARYnRDGc?t=298
 
 # The Galpin Equation
 
-#Newsletter
+#NEWSLETTER
 
 * Body weight (in lbs.) divided by 30 = number of ounces to consume every 15–20 minutes
 * Body weight (in kg.) × 2 = number of mL to consume every 15–20 minutes
