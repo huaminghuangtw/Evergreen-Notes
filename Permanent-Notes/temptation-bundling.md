@@ -1,6 +1,6 @@
 ---
 title: Temptation Bundling
-modified: 2026-04-30
+modified: 2026-05-10
 ---
 
 by Katherine Milkman [@milkmanHoldingHungerGames2014] [@kirgiosTeachingTemptationBundling2020]
@@ -30,7 +30,7 @@ Can be a powerful way to achieve more without exerting much [self-control](disci
 
 # Examples
 
-#Blog
+#BLOG
 
 * **Save your favorite Netflix series** for when you’re ironing, folding laundry, doing dishes, or handling other household chores.
 * **Pair treadmill time with pleasure**: watch a Netflix show or listen to a podcast only while walking.
@@ -40,3 +40,7 @@ Can be a powerful way to achieve more without exerting much [self-control](disci
 * **Transform errands into indulgence**: only get a pedicure while catching up on overdue work emails.
 * **Redefine tough meetings**: treat yourself to dining at your favorite restaurant, but only when meeting with that difficult colleague.
 * **Sneak in fitness**: do bodyweight squats while brushing your teeth.
+
+---
+
+[The Premack Principle](the-premack-principle.md)
