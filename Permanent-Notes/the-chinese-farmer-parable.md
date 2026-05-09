@@ -3,7 +3,7 @@ title: The Chinese Farmer Parable
 modified: 2026-04-30
 ---
 
-#Blog
+#BLOG
 
 > 塞翁失馬，焉知非福。
 
