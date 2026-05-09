@@ -3,7 +3,7 @@ title: The ability to bounce back quickly is one of the most important life skil
 modified: 2026-03-27
 ---
 
-#Newsletter
+#NEWSLETTER
 
 > [“Legends aren’t defined by their success, they’re defined by how they bounce back from their failures.” — Chris Bosh’s Speech at the 2021 Basketball Hall of Fame Enshrinement](https://www.youtube.com/shorts/Hkd-7zUxQaA) [^1]
 
