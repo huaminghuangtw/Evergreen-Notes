@@ -49,7 +49,7 @@ leads to a [Vicious Cycle (良性循環)](https://www.google.com/search?q=Viciou
 
 ---
 
-#Newsletter
+#NEWSLETTER
 
 # Success is rarely the result of one variable, but failure often is.
 
