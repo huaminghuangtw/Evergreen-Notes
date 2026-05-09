@@ -1,6 +1,6 @@
 ---
 title: Systems over goals
-modified: 2026-04-30
+modified: 2026-05-09
 ---
 
 > “You don’t rise to the level of your goals. You fall to the level of your systems. Your goal is your desired outcome. Your system is the collection of daily habits that will get you there.” — James Clear [^1]
@@ -30,7 +30,8 @@ Systems allow you to [make a decision](decision-making.md) _one time_ instead of
 
 # Systems vs Goals
 
-* Goals are for people who care about winning once. Systems are for people who care about winning over and over again.
+> “Goals are for people who care about winning once. Systems are for people who care about winning over and over again.” — James Clear
+
 * When you focus on systems, the goal is no longer the _destination_—it’s simply a byproduct of the _[process](journey-over-destination.md)_, allowing you to keep succeeding even after reaching it.
 * Goals are compasses and good for setting a direction, but systems are best for making progress.
 * These two concepts are not mutually exclusive because a goal alone accomplishes nothing. Ultimately, the system demands more effort, but the goal remains essential to the process—you can’t have one without the other!
