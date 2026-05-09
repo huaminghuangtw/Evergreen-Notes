@@ -3,7 +3,7 @@ title: Ben Franklin’s Thirteen Virtues
 modified: 2026-04-30
 ---
 
-#Blog
+#BLOG
 
 # 富蘭克林 の「13 美德表」
 
