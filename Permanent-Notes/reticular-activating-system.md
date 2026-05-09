@@ -13,7 +13,7 @@ The RAS essentially says: **“Show me what matters — I’ll find more of it.�
 
 ---
 
-#Blog
+#BLOG
 
 # How to Use Your RAS to Maximize Potential
 
