@@ -1,6 +1,6 @@
 ---
 title: Learning is the single best investment that you can make for your time
-modified: 2026-05-08
+modified: 2026-05-10
 ---
 
 > “Learning never exhausts the mind.” — Leonardo da Vinci
@@ -218,7 +218,7 @@ True learning requires “[[desirable difficulty]]”—the cognitive effort inv
 		2. Creating questions based on that topic
 		3. **Repeatedly (not just once, ideally 2-3 times)** testing yourself on those questions
 			* Interval Quizzes
-	* **[Active (self-)testing is far better than passive re-reading or re-exposure to the material.](https://en.wikipedia.org/wiki/Forward_testing_effect) Test yourself ASAP with open-ended, short-answer, minimal-prompt questions after the FIRST exposure, to prevent forgetting and consolidate information.**
+	* **[Active self-testing is far better than passive re-reading or re-exposure to the material.](https://en.wikipedia.org/wiki/Forward_testing_effect) Test yourself ASAP with open-ended, short-answer, minimal-prompt questions after the FIRST exposure, to prevent forgetting and consolidate information.**
 		* [When you take a test on the material you just learned, you potentially improve the amount of retention by about 50%.](https://youtu.be/ddq8JIMhz7c?t=4301s)
 		* Error-Based Learning: Make sure to compare your answer to the accurate answer, and focus on understanding why you got questions wrong, as this helps to identify knowledge gaps and makes the correct information more memorable.
 		* View (self-)testing as a learning tool to build knowledge / enhance comprehension, not just to evaluate it.
