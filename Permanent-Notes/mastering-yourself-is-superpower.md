@@ -74,7 +74,7 @@ modified: 2026-04-29
 
 ---
 
-#Newsletter #todo move to Brainfoodie
+#NEWSLETTER #todo move to Brainfoodie
 
 # [Master Shi Heng Yi — 5 hindrances to self-mastery](https://youtu.be/4-079YIasck) [^3]
 
