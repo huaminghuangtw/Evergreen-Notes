@@ -3,7 +3,7 @@ title: Mouth Taping
 modified: 2026-04-30
 ---
 
-#Newsletter
+#NEWSLETTER
 
 「鼻子用來呼吸、嘴巴用來吃東西」
 
