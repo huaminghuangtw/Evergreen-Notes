@@ -1,6 +1,6 @@
 ---
 title: How to use AI effectively
-modified: 2026-05-07
+modified: 2026-05-09
 ---
 
 AI 是想法的放大器/加速器，而不是想法的產生器。
@@ -127,15 +127,7 @@ Basic Invitation Structure: _“Act as a \[ROLE\] perform \[TASK\] in \[FORMAT\]
 
 ---
 
-# Tasks
-
-* Pushing you to think through your own ideas
-	* Use AI as a rubber duck
-	* Critic: _“Critique my argument: \[argument\]”_
-* Writing a cover letter
-	* “Write me a personalized cover letter explaining why I’m a great candidate for this job. The job title is [Job Title], the company is [Company Name], and here is the job description: [Paste Job Description]”
-	* “Revise and personalize this cover letter using my resume: [Paste Resume Content]”
-* ⭐️ Improving prompts
+The best way to create prompts is to ask the AI agent to create them for you.
 
 ---
 
@@ -183,8 +175,6 @@ Basic Invitation Structure: _“Act as a \[ROLE\] perform \[TASK\] in \[FORMAT\]
 		* Drag and drop files, folders, or editor tabs onto the chat prompt.
 		* Add problems, test failures, or terminal output to your chat prompt for scenario-specific context.
 		* Add images or screenshots to your prompt to let Copilot analyze the image.
-	* [Prompt files](https://code.visualstudio.com/docs/copilot/customization/prompt-files)
-	* [Instruction files](https://code.visualstudio.com/docs/copilot/customization/custom-instructions)
 
 [^1]: Why? They often hallucinate confidently.（一本正經地胡說八道/講幹話、似是而非、包裝得煞有其事）
 [^2]: Even when you copy code from elsewhere, you should always type it out manually. Why? It helps reinforce the syntax and structure in your mind. By physically typing the code, you engage more actively with it, which can lead to better understanding and retention.
