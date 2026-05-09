@@ -21,32 +21,13 @@ modified: 2026-05-08
 
 # [They actively prototype new ideas](https://makingsmallercircles.com/articles/7-habits-of-highly-effective-software-engineers/)
 
-Proof of Concept (PoC)
+Effective engineers don’t just read or watch tutorials—they build.
 
-Rather than falling into the [Tutorial Hell](tutorial-hell.md)
+* Prototyping helps you discover what works and what doesn’t, fast.
+* Prototyping is about Proof of Concept (PoC), even if they’re rough or incomplete.
+* Prototyping is a low-risk way to test ideas and get immediate feedback before committing significant resources.
 
-Effective engineers don’t just read or watch tutorials—they build. Prototyping is about quickly turning ideas into tangible experiments, even if they’re rough or incomplete. The goal is to validate assumptions, explore feasibility, and learn by doing, not by endlessly planning or consuming content.
-
-**Why prototype?**
-
-* It helps you discover what works and what doesn’t, fast.
-* You get immediate feedback, which guides further development or pivots.
-* It’s a low-risk way to test new technologies, patterns, or product ideas before committing significant resources.
-
-**How to prototype effectively:**
-
-1. **Start small:** Focus on the core idea or the riskiest part. Don’t try to build a full product.
-2. **Set a timebox:** Limit yourself to a few hours or a day. The goal is learning, not perfection.
-3. **Embrace throwaway code:** Don’t worry about code quality or architecture at this stage. Optimize for speed and insight.
-4. **Reflect:** After prototyping, ask: What did I learn? What should I try next? Is this idea worth pursuing further?
-
-**Examples:**
-
-* Building a quick CLI tool to automate a repetitive task.
-* Creating a simple UI mockup to test a new interaction pattern.
-* Integrating with a new API using a minimal script.
-
-Remember: Prototyping is a habit. The more you do it, the faster you’ll learn and the more creative you’ll become as an engineer.
+[Tutorial Hell](tutorial-hell.md)
 
 ---
 
