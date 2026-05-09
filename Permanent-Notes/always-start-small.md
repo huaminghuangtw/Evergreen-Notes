@@ -1,6 +1,6 @@
 ---
 title: Always start small
-modified: 2026-05-02
+modified: 2026-05-09
 ---
 
 > “It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith
@@ -20,6 +20,8 @@ A [habit](be-a-habit-and-routine-machine.md) must be first _established_ before 
 <https://sketchplanations.com/categories/starting>
 
 ---
+
+If something feels too hard to start, it just means the first step isn’t small enough.
 
 ---
 
