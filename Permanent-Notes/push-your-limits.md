@@ -149,7 +149,7 @@ Your present circumstances don’t determine where you can go; they merely deter
 
 ---
 
-# [The 40% Rule by David Goggins](https://huam.ing/2026/4/3/enoughness-25/#2)
+# [The 40% Rule by David Goggins](https://huam.ing/enoughness-25/#2)
 
 > “When you think that you are done, you’re only 40% in to what your body’s capable of doing. That’s just the limits that we put on ourselves.”
 
