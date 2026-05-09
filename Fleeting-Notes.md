@@ -235,7 +235,7 @@ YMMV 是「Your Mileage May Vary」的縮寫，字面意思是「你的行駛里
 
 2026-04-17
 
-[和過去的自己說再見](https://huam.ing/2025/12/11/goodbye-past-me/)
+[和過去的自己說再見](https://huam.ing/goodbye-past-me)
 
 How can I change my outlook by changing my perspective? Start by zooming out: ask, “Will this matter in five years?” This shifts focus from immediate stress to long-term growth.,Next, reframe your language: replace “I have to” with “I get to.” This turns obligations into opportunities.,Finally, adopt an “observer” mindset: instead of reacting emotionally, ask what a situation can teach you.,Perspective is the lens you choose. If you change the lens from “What is going wrong?” to “What is this teaching me?”, your entire outlook shifts from victimhood to agency.
 
