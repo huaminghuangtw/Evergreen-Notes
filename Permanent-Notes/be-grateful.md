@@ -3,7 +3,7 @@ title: Be Grateful
 modified: 2026-04-02
 ---
 
-#Newsletter
+#NEWSLETTER
 
 > “Gratitude isn’t all about what’s going right. It’s about finding a little light in this moment we’re in.” — Mary Davis
 
