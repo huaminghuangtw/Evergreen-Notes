@@ -21,7 +21,7 @@ modified: 2026-04-30
 
 ---
 
-#Newsletter
+#NEWSLETTER
 
 [@markCostInterruptedWork2008]
 
