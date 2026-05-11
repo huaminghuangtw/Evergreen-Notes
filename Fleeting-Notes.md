@@ -1,5 +1,5 @@
 ---
-modified: 2026-04-29
+modified: 2026-05-11
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
