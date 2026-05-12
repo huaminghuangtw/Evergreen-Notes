@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-05-08
+modified: 2026-05-11
 ---
 
 > [“The work is behind the scene. Competition is the easy part.” — Usain Bolt](https://youtu.be/LEIxpcYukqc?t=113s) [^1]
@@ -14,9 +14,6 @@ modified: 2026-05-08
 * 練習時斤斤計較，比賽時忘掉所有
 * Take easy days easy. Take hard days hard. Don’t race your workouts.
 	* If you want to run faster, run slower.
-
-		> Rather than “run slow to run fast,” the better principle is: if you want to get faster, run more [^2] — and to run more without overdoing it, you have to run slower.
-
 	* Most people run their easy days too hard and their hard days too easy.
 	* Run your easy runs easier so you can run your hard runs harder. If you find yourself wanting to run your easy runs harder, you probably aren’t doing your hard runs hard enough. And easy days are rest days if you do them easy enough.
 	* See: [Be Aware of the Gray Zone Where Junk Miles Live](beware-of-the-gray-zone-where-junk-miles-live.md)
@@ -55,9 +52,8 @@ modified: 2026-05-08
 		* [Patrick Smyth 平均 8.1cm](https://uiantraininglog.blogspot.com/2018/06/blog-post.html)
 		* I think vertical ratio is the better metric. It’s vertical oscillation normalized with the stride length. Basically, a low vertical ratio number indicates a small cost for a large benefit. The lower the vertical ratio, the more efficient your running. Meaning that you’re not bouncing excessively and the additional energy is going into forward motion.
 * 「跑量」才是馬拉松訓練中最關鍵的元素！
-
-	> Any training technique is second order to the weekly volume.
-
+	* Any training technique is second order to the weekly volume.
+	* Rather than “run slow to run fast,” the better principle is: if you want to get faster, run more — and to run more without overdoing it, you have to run slower.
 * Marathon Training Methods
 	* Hansons
 	* Pfitz’s 18/55
