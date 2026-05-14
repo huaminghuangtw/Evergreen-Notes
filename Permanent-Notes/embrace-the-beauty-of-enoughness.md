@@ -1,6 +1,6 @@
 ---
 title: Embrace the beauty of enoughness
-modified: 2026-04-21
+modified: 2026-05-14
 ---
 
 > 「真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。」 — 沈芯菱 [^1]
@@ -110,6 +110,13 @@ Don’t let the pursuit of more stop you from enjoying what you already have. Do
 * Too much information
 * Too much stuff
 * Too fast
+
+---
+
+# [The Two Phases of Sufficiency](https://usefathom.com/blog/enough)
+
+ * **Pre-enough:** Focus is on reaching the threshold of necessity.
+ * **Post-enough:** Focus shifts to protecting that threshold and optimizing for ease rather than more volume.
 
 ---
 
