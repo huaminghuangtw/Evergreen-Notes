@@ -1,6 +1,6 @@
 ---
 title: Intentional Living
-modified: 2026-04-24
+modified: 2026-05-14
 ---
 
 > [“Your goal in life is to be able to say on the day before you die that you have fully become yourself.” — Kevin Kelly](https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/)
@@ -28,6 +28,8 @@ modified: 2026-04-24
 > “The key to immortality is first living a life worth remembering.” — Bruce Lee
 
 > “Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.” — Simon Sinek
+
+> [“People living deeply have no fear of death.” — Anaïs Nin]([http://goodreads.com/quotes/7599-people-living-deeply-have-no-fear-of-death](http://goodreads.com/quotes/7599-people-living-deeply-have-no-fear-of-death))
 
 ---
 
