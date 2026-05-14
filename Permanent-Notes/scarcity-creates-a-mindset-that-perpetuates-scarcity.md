@@ -1,6 +1,6 @@
 ---
 title: Scarcity creates a mindset that perpetuates scarcity
-modified: 2026-04-30
+modified: 2026-05-14
 ---
 
 [@mullainathanScarcityWhyHaving2013]
@@ -81,6 +81,10 @@ modified: 2026-04-30
 2. **自動化瑣碎決策**：匱乏消耗認知頻寬，[減少需要動用意志力的決策數量](decision-fatigue.md)，才能把有限的心智資源留給真正重要的事。
 3. **著眼長遠，練習延遲滿足**：匱乏心態傾向選擇「[立即但小](instant-gratification.md)」的報酬，而非「[延後但大](delayed-gratification.md)」的收益。
 4. **重新框架「夠了」的定義**：[擁抱足夠（Enoughness）](embrace-the-beauty-of-enoughness.md) 是對抗匱乏心態最根本的解藥 — 不是擁有更多，而是重新認識「已有的已經足夠」。
+
+---
+
+感到匱乏（Scarcity）的時候，[轉念](a-true-transformation-begins-with-a-mental-shift.md)，豐盛（Abundance）將伴隨而來。
 
 ---
 
