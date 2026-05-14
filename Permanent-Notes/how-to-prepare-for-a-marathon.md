@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-05-11
+modified: 2026-05-14
 ---
 
 > [“The work is behind the scene. Competition is the easy part.” — Usain Bolt](https://youtu.be/LEIxpcYukqc?t=113s) [^1]
@@ -62,6 +62,7 @@ modified: 2026-05-11
 	> Pfitz tends to utilize a more ‘classic’ periodization protocol (extending duration, then running faster) while Hansons are a closer to a ‘reverse’ periodization protocol (starting with faster running and extending duration). Either way is good, it’s mostly about what you can tolerate and what will lead to the most consistent running.
 
 * <https://www.reddit.com/r/AdvancedRunning/wiki/workoutoftheweek/>
+* Tempo Run: at a “Comfortably Uncomfortable/Hard” pace
 * The Fartlek Workout
 	* In Swedish, “fartlek” means “speed play.”
 	* The core idea is to incorporate interval training in a flexible, unstructured way.
