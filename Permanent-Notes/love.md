@@ -1,6 +1,6 @@
 ---
 title: Love
-modified: 2026-04-17
+modified: 2026-05-14
 ---
 
 > “Love is the absence of judgment.” — Dalai Lama
@@ -36,6 +36,8 @@ modified: 2026-04-17
 > “You don’t love because: you love despite; not for the virtues, but despite the faults.” — William Faulkner
 
 > “I have learned not to worry about love; but to honor its coming with all my heart.” — Alice Walker
+
+> [“Not words, nor laughter, but rather someone who will fall in love with your silence.” — Sanober Khan](http://goodreads.com/quotes/5773513-not-words-nor-laughter-but-rather-someone-who-will-fall)
 
 > [“I choose to love you in silence… For in silence I find no rejection, I choose to love you in loneliness… For in loneliness no one owns you but me, I choose to adore you from a distance… For distance will shield me from pain, I choose to kiss you in the wind… For the wind is gentler than my lips, I choose to hold you in my dreams… For in my dreams, you have no end.” — Rumi](https://www.goodreads.com/quotes/3239983-i-choose-to-love-you-in-silence-for-in-silence)
 
