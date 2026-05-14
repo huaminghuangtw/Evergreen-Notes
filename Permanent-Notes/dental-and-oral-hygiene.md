@@ -1,6 +1,6 @@
 ---
 title: Dental & Oral Hygiene
-modified: 2026-04-07
+modified: 2026-05-14
 ---
 
 Brush and floss teeth at least twice a day, ideally after meals, to remove plaque and prevent cavities and gum disease.
@@ -10,6 +10,12 @@ Brush and floss teeth at least twice a day, ideally after meals, to remove plaqu
 * 刷牙時力道要輕柔，避免用力過度導致牙齦受傷或牙齒磨損。建議使用軟毛牙刷。
 * 每次刷牙至少 2 分鐘，確保每個區域都被清潔到。
 * 定期更換牙刷（約每 3 個月一次）。
+
+---
+
+牙齒由琺瑯質（enamel）、牙本質（dentin）與牙髓（pulp）組成。
+
+珐瑯質是牙齒最外層的保護層，也是人體最堅硬的組織，但它沒有活細胞，因此一旦因為物理磨損或化學酸蝕而剝落，便無法自主再生（不可逆），只能靠人工填補（如補牙、牙套），是「用一生一次」的資產，只能透過「再礦化」（[Remineralization](https://www.google.com/search?q=Remineralization)）[^1] 來「修復表面硬度」。
 
 ---
 
@@ -27,3 +33,5 @@ Brush and floss teeth at least twice a day, ideally after meals, to remove plaqu
 
 * 能有效清除牙齦溝內的牙菌斑，預防牙周病。
 * 刷毛角度與震動方式減少對牙齦的傷害。
+
+[^1]: 使用「含氟牙膏」可以促進牙齒「再礦化」
