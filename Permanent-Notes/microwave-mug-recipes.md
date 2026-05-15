@@ -1,6 +1,6 @@
 ---
 title: Microwave Mug Recipes
-modified: 2026-04-30
+modified: 2026-05-15
 ---
 
 that require little cleanup
@@ -39,7 +39,6 @@ that require little cleanup
 		* Oat + Smashed Banana
 	* *Cream Cheese
 	* Lemon Juice
-	* Condensed Milk
 	* 完成後放在冰箱隔天再吃比較好吃!
 * How to froth milk in the microwave?
 	* Pour milk into a jar
