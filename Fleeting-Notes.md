@@ -1,5 +1,5 @@
 ---
-modified: 2026-05-11
+modified: 2026-05-15
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -261,10 +261,10 @@ Source: The Score Takes Care of Itself
 
 [The Real Price of Success | The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-real-price-of-success)
 
-
 ---
 
 [You are what you pretend to be | Derek Sivers](https://sive.rs/u58)
 
 You are your actions. Your actions are you. Your self-image doesn’t matter as much.
+
 When you realize what you need to do, it doesn’t mean that’s who you need to be. You can just pretend.
