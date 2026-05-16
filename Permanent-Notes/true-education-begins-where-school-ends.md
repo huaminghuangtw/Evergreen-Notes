@@ -1,7 +1,11 @@
 ---
 title: True education begins where school ends
-modified: 2026-05-07
+modified: 2026-05-16
 ---
+
+> “There is only one good, knowledge, and one evil, ignorance.” — Socrates
+>
+> 世上只有一種善，知識；也只有一種惡，無知。
 
 > “School is one thing. Education is another. The two don’t always overlap. Whether you’re in school or not, it’s always your job to get yourself an education.” — Austin Kleon
 
