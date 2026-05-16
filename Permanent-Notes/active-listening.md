@@ -1,6 +1,6 @@
 ---
 title: Active Listening
-modified: 2026-04-30
+modified: 2026-05-16
 ---
 
 > “There is a difference between listening and waiting for your turn to speak.” — Simon Sinek
@@ -29,7 +29,7 @@ modified: 2026-04-30
 
 > **Are you listening to understand or listening to reply/respond?**
 
-Seek first to understand, then to be understood. Make someone else feel _seen_, _heard_, and _remembered_.
+Seek first to understand, then to be understood.
 
 ---
 
