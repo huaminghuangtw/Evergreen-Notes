@@ -1,6 +1,6 @@
 ---
 title: Your identity dictates your actions
-modified: 2026-04-30
+modified: 2026-05-16
 ---
 
 > We are what we believe we are.” — C.S. Lewis
@@ -40,10 +40,6 @@ Actionable Steps:
 
 ---
 
-[Character is who you are when nobody’s watching](character-is-who-you-are-when-nobodys-watching.md)
-
----
-
 # [The Stonecutter Principle](https://www.sahilbloom.com/newsletter/the-stonecutter-principle)
 
 > A traveler approached three stonecutters working on a construction site and asked each of them what they were doing.
@@ -64,7 +60,15 @@ The _task_ doesn’t change, but the _meaning_ does.
 
 ---
 
+You will rarely outperform your self-image.
+
+---
+
 [Cultivate a strong bias towards action](cultivate-a-strong-bias-towards-action.md)
+
+---
+
+[Character is who you are when nobody’s watching](character-is-who-you-are-when-nobodys-watching.md)
 
 ---
 
