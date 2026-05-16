@@ -1,11 +1,9 @@
 ---
 title: Have the courage to do the right things
-modified: 2026-04-04
+modified: 2026-05-16
 ---
 
 > “The opposite of love is not hate, it’s indifference. The opposite of art is not ugliness, it’s indifference. The opposite of faith is not heresy, it’s indifference. And the opposite of life is not death, it’s indifference.” — Elie Wiesel
-
-> “There is only one good, knowledge, and one evil, ignorance.” — Socrates
 
 > “The heaviest penalty for declining to rule is to be ruled by someone inferior to yourself.” — Plato
 
