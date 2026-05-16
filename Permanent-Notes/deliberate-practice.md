@@ -1,9 +1,11 @@
 ---
 title: Deliberate Practice
-modified: 2026-04-28
+modified: 2026-05-16
 ---
 
 > “Practice does not make perfect. Perfect practice makes perfect.” — Vince Lombardi [^1]
+
+> “Practice is how intention becomes character.” — James Clear
 
 ---
 
