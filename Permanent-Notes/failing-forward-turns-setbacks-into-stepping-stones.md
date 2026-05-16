@@ -1,6 +1,6 @@
 ---
 title: Failing forward turns setbacks into stepping stones
-modified: 2026-04-23
+modified: 2026-05-16
 ---
 
 > “A stumble may prevent a fall.” — Gretchen Rubin
@@ -16,6 +16,12 @@ modified: 2026-04-23
 > [“Failure is to be expected, not avoided. Failure is feedback, not judgment.” — Alex Hormozi](https://www.linkedin.com/posts/alexhormozi_10-truths-i-live-by-1-skills-stack-on-activity-7057390440928432128-SgO9/)
 
 > “In school we learn that mistakes are bad, and we are punished for making them. Yet, if you look at the way humans are designed to learn, we learn by making mistakes. We learn to walk by falling down. If we never fell down, we would never walk.” — [@kiyosakiRichDadPoor2002]
+
+> “Was mich nicht umbringt, macht mich stärker.” — Friedrich Nietzsche
+>
+> What doesn’t kill me, makes me stronger.
+>
+> 凡殺不死我的，必使我更強大。
 
 ---
 
