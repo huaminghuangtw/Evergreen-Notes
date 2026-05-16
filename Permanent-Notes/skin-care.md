@@ -1,6 +1,6 @@
 ---
 title: Skin Care
-modified: 2026-04-30
+modified: 2026-05-16
 ---
 
 # 如何擁有「水煮蛋肌」?
@@ -108,6 +108,14 @@ modified: 2026-04-30
 
 > 乾燥型痘痘 = 屏障壞掉 + 過度補償出油
 
+⭐️ Signs that <mark>dehydration</mark> may be involved:
+
+* **Oiliness:** When the skin gets parched, it often overcompensates by producing excess sebum, leaving you feeling oily (and tight).
+* **Tightness:** Skin feels tight or taut after washing.
+* **Texture:** Fine surface flakiness or rough patches coexisting with shine.
+* **Poor absorption:** Serums/lotions sit on top instead of absorbing.
+* **Systemic signs:** Thirst, low urine output, dark urine.
+
 ## 很多人不知道的盲點：
 
 很多長痘的人為了「抗油」會：
@@ -121,9 +129,12 @@ modified: 2026-04-30
 
 ## 你應該做的是：
 
-* ✔ 用溫和不緊繃的洗面乳
-* ✔ 一定要使用保濕乳液或凝霜
-* ✔ 若有擦酸類或痘痘藥 → 更要保濕！否則乾燥會讓刺激加倍、痘況更糟…
+* 用溫和不緊繃的洗面乳
+* 一定要使用保濕乳液或凝霜
+
+	> Hydrate the skin with water-binding ingredients first, then use an oil to lock in that moisture.
+
+* 若有擦酸類或痘痘藥 → 更要保濕！否則乾燥會讓刺激加倍、痘況更糟……
 
 # Routine
 
@@ -140,9 +151,9 @@ modified: 2026-04-30
 5. ⭐ Sunscreen
 	* You should wear sunscreen every single day of the year, no matter what the weather is like, because when you are outside, you are constantly exposed to UV radiation
 		* Even when it’s cloudy/overcast days, UV rays can still penetrate through the clouds
-		* 防止 Photoaging & Skin cancer
-		* “Truck Driver Face”: the result of sun damage after years and massive hours behind the wheel driving a truck
-		* The easiest way is to sneak our sunscreen into the products we already wear every day (SPF moisturizers)
+		* 防止 Photoaging & Skin Cancer
+		* [Truck Driver Face](https://www.google.com/search?q=Truck+Driver+Face): the result of sun damage after years and massive hours behind the wheel driving a truck
+		* The easiest way is to sneak our sunscreen into the products we already wear every day. For example, [SPF moisturizers](https://www.google.com/search?q=SPF+moisturizers) combine hydration and UV protection into one step.
 	* Apply sunscreen when going out for long time. Do reapply every 3-4 hours or depending on the level of sun exposure.
 	* 選用有以下標示的防曬乳
 		* SPF 30–50
