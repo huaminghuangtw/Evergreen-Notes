@@ -1,6 +1,6 @@
 ---
 title: Relationships
-modified: 2026-05-07
+modified: 2026-05-16
 ---
 
 > “The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin
@@ -21,12 +21,18 @@ Time doesn’t heal anything when it comes to relationships.
 
 ---
 
-[The 4 horsemen of relationship apocalypse](https://sketchplanations.com/the-4-horsemen-of-relationship-apocalypse)
+# [The 4 horsemen of relationship apocalypse](https://sketchplanations.com/the-4-horsemen-of-relationship-apocalypse)
 
 1. **Criticism**: framing problems as the partner’s defect
 2. **Defensiveness**: counterattacking, whining, being the innocent victim
 3. **Contempt**: talking down from a position of superiority, insults, eye-rolling, name-calling — the most dangerous of all
 4. **Stonewalling**: withdrawing from the conflict, refusing to engage [^1]
+
+---
+
+> “No matter how busy you are, you must take time to make the other person feel important. Everyone has an invisible sign hanging from their neck saying, “Make me feel important.” Never forget this message when working with people.” — Mary Kay Ash
+
+Make someone else feel _seen_, _heard_, and _remembered_.
 
 ---
 
