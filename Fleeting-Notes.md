@@ -1,5 +1,5 @@
 ---
-modified: 2026-05-15
+modified: 2026-05-16
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -219,12 +219,6 @@ And after five minutes, you’re handed a beautiful, bitter, piping hot cup of e
 
 ---
 
-2026-04-14
-
-最重要的不是何時買，而是持續買等待「最佳買點」通常會錯過更多上漲機會
-
-即使在市場高點買入，長期來看仍然能獲利
-
 “Mixed bag” 的中文常翻譯為「大雜燴」、「好壞參半」、「各式各樣的混合體」或「魚龍混雜」。這是一個慣用語，用來形容某種事物、人或經歷中，同時包含了好與壞、優與劣，或完全不同種類的元素。
 
 YMMV 是「Your Mileage May Vary」的縮寫，字面意思是「你的行駛里程可能會有所不同」，常用於網路用語，意指「見仁見智」、「因人而異」或「個人的經驗/結果可能與我不同」。它被當作一種免責聲明，表達分享的觀點僅供參考。
@@ -233,11 +227,9 @@ YMMV 是「Your Mileage May Vary」的縮寫，字面意思是「你的行駛里
 
 ---
 
-2026-04-17
+How can I change my outlook by changing my perspective? Start by zooming out: ask, “Will this matter in five years?” This shifts focus from immediate stress to long-term growth.,Next, reframe your language: replace “I have to” with “I get to.” This turns obligations into opportunities.,Finally, adopt an “observer” mindset: instead of reacting emotionally, ask what a situation can teach you.,Perspective is the lens you choose. If you change the lens from “What is going wrong?” to “What is this teaching me?”, your entire outlook shifts from victimhood to agency.
 
 [和過去的自己說再見](https://huam.ing/goodbye-past-me)
-
-How can I change my outlook by changing my perspective? Start by zooming out: ask, “Will this matter in five years?” This shifts focus from immediate stress to long-term growth.,Next, reframe your language: replace “I have to” with “I get to.” This turns obligations into opportunities.,Finally, adopt an “observer” mindset: instead of reacting emotionally, ask what a situation can teach you.,Perspective is the lens you choose. If you change the lens from “What is going wrong?” to “What is this teaching me?”, your entire outlook shifts from victimhood to agency.
 
 It’s not a race.
 
@@ -260,11 +252,3 @@ Source: The Score Takes Care of Itself
 ---
 
 [The Real Price of Success | The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-real-price-of-success)
-
----
-
-[You are what you pretend to be | Derek Sivers](https://sive.rs/u58)
-
-You are your actions. Your actions are you. Your self-image doesn’t matter as much.
-
-When you realize what you need to do, it doesn’t mean that’s who you need to be. You can just pretend.
