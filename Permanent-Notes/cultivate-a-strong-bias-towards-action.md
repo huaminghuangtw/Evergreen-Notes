@@ -1,6 +1,6 @@
 ---
 title: Cultivate a strong bias towards action
-modified: 2026-05-08
+modified: 2026-05-16
 ---
 
 > “To be is to do.” — Immanuel Kant
@@ -47,16 +47,22 @@ modified: 2026-05-08
 
 > [“You do not write your life with words. You write it with actions. What you think is not important. It is only important what you do.” — Patrick Ness, A Monster Calls](https://www.goodreads.com/quotes/394528-you-do-not-write-your-life-with-words-you-write-it) [^3] [^4]
 
+> 「不做不知道，做了才知道，犯錯沒關係，輸得起就好。」— 郝旭烈
+
 ---
 
-Just Fucking Do It (#JFDI)!
+# Just Fucking Do It (#JFDI)
 
 * 先做再說
 * 先盡全力搞砸再說
 
 ---
 
-不做不知道，做了才知道，犯錯沒關係，輸得起就好。
+# [You are what you pretend to be](https://sive.rs/u58)
+
+> You are your actions. Your actions are you. Your self-image doesn’t matter as much.
+
+> When you realize what you need to do, it doesn’t mean that’s who you need to be. You can just pretend.
 
 ---
 
