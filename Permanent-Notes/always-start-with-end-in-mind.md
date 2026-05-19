@@ -1,6 +1,6 @@
 ---
 title: Always start with end in mind
-modified: 2026-04-06
+modified: 2026-05-19
 ---
 
 > “It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement(/accomplishment).” — Isocrates
@@ -33,6 +33,8 @@ Complex problems are sometimes better solved backwards
 
 * Invert the problem
 * Inversion
+	* Prevention over pursuit
+	* Focusing on what to avoid rather than what to achieve
 * Reverse Engineering
 * Work backwards
 
