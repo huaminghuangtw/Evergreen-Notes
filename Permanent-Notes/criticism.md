@@ -1,6 +1,6 @@
 ---
 title: Criticism
-modified: 2026-05-07
+modified: 2026-05-19
 ---
 
 > “To avoid criticism, do nothing, say nothing, be nothing.” — Elbert Hubbard
@@ -22,3 +22,12 @@ Uncomfortable facts are often the most helpful ones.
 ---
 
 Better get hurt by the truth than comforted with a lie. To [tell the hurtful truth](seek-for-the-truth.md) is brave, but to receive the hurtful truth is probably braver.
+
+---
+
+# The “Procedure vs Perception” Razor
+
+When receiving negative feedback, ask yourself:
+
+1. Should I change my procedure? (What I do)
+2. Or should I change my perception? (How I view it)
