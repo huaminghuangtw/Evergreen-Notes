@@ -1,6 +1,6 @@
 ---
 title: Dare to be different
-modified: 2026-04-27
+modified: 2026-05-19
 ---
 
 > “Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.” — Robert Frost, The Road Not Taken (1916)
@@ -74,6 +74,10 @@ Sources:
 
 ---
 
-[Becoming the Ocean by Khalil Gibram](becoming-the-ocean-by-khalil-gibram.md)
+[Becoming the Ocean](https://huam.ing/becoming-the-ocean)
+
+---
+
+[Dare to be Different 不怕和世界不一樣｜Feng-Yi Sheu 許芳宜｜TED×Taipei](https://youtu.be/B5NWJsst_2o)
 
 [^1]: <https://youtu.be/2_fDhqRk_Ro>
