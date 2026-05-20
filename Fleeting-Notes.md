@@ -1,5 +1,5 @@
 ---
-modified: 2026-05-16
+modified: 2026-05-20
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -253,9 +253,8 @@ Source: The Score Takes Care of Itself
 
 [The Real Price of Success | The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-real-price-of-success)
 
-
 ---
 
 [30 years of a free and open Web](https://home.cern/30-years-free-and-open-web/)
 
-CERN is the European Organization for Nuclear Research and the birthplace of the World Wide Web, which was invented by British scientist Tim Berners-Lee in 1989 to share automated information. Located on the Franco-Swiss border near Geneva, it is the world's leading particle physics laboratory.
+CERN is the European Organization for Nuclear Research and the birthplace of the World Wide Web, which was invented by British scientist Tim Berners-Lee in 1989 to share automated information. Located on the Franco-Swiss border near Geneva, it is the world’s leading particle physics laboratory.
