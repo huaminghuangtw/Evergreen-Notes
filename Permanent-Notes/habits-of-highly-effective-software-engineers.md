@@ -1,6 +1,6 @@
 ---
 title: Habits of Highly Effective Software Engineers
-modified: 2026-05-08
+modified: 2026-05-21
 ---
 
 # [They invest in good documentation](https://x.com/mojombo/status/1260718505273393153)
@@ -38,6 +38,10 @@ Effective engineers don’t just read or watch tutorials—they build.
 [Software Engineer === Student](https://www.reddit.com/r/learnprogramming/s/uehu7I1vA7)
 
 > A key trait of a good programmer is the ability to learn new things. While you can never know everything, the ability to rapidly absorb / pick up new concepts and tools from available online resources enables you to stay well-informed and adaptable.
+
+---
+
+# [They are incremental and iterative](https://scratched.gse.harvard.edu/ct/files/AERA2012.pdf)
 
 ---
 
