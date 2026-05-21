@@ -1,6 +1,6 @@
 ---
 title: Quit social media
-modified: 2026-04-11
+modified: 2026-05-20
 ---
 
 [@haidtAnxiousGenerationHow2024]
