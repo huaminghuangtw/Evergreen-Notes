@@ -1,11 +1,13 @@
 ---
 title: Why we exist?
-modified: 2026-04-29
+modified: 2026-05-21
 ---
 
 > [“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)
 
 > “Existence is a fullness which we can never abandon.” — Jean Paul Sartre
+
+> “And what is the purpose of existence… but to discover truth and beauty and…share it with others.” — Brenda Ueland
 
 > “Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness.” — Leo Tolstoy
 
