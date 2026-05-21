@@ -1,6 +1,6 @@
 ---
 title: Planning and preparation help maximize your productivity
-modified: 2026-04-29
+modified: 2026-05-20
 ---
 
 > [“The antidote to impulsiveness is forethought.” — Nir Eyal](https://youtu.be/VVez_sI1zTU)
