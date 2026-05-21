@@ -1,6 +1,6 @@
 ---
 title: Hedonic Happiness vs Eudaimonic Happiness
-modified: 2026-03-23
+modified: 2026-05-20
 ---
 
 # Hedonic Happiness
