@@ -1,6 +1,6 @@
 ---
 title: Always start small
-modified: 2026-05-09
+modified: 2026-05-21
 ---
 
 > “It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith
@@ -67,6 +67,8 @@ The 2-minute version isn’t about progress; it’s about breaking the seal of i
 * [For Want of a Nail](https://huam.ing/for-want-of-a-nail)
 * 涓滴成河（Kleinvieh macht auch Mist.）
 * 積少成多
+
+[Broken Windows Theory](broken-windows-theory.md)
 
 ---
 
