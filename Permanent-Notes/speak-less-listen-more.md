@@ -1,6 +1,6 @@
 ---
 title: Speak less, listen more
-modified: 2026-04-24
+modified: 2026-05-20
 ---
 
 > [“Shallow rivers are noisy. Deep lakes are silent.” — Derek Sivers](https://sive.rs/h)
