@@ -1,6 +1,6 @@
 ---
 title: Negative Space
-modified: 2026-04-24
+modified: 2026-05-20
 ---
 
 = 負空間
