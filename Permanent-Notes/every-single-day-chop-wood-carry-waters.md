@@ -1,6 +1,6 @@
 ---
 title: Every single day, chop wood, carry waters
-modified: 2026-05-20
+modified: 2026-05-22
 ---
 
 > [“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)
@@ -85,7 +85,7 @@ There is a Zen Buddhist saying: “What do you do before enlightenment? _Chop wo
 
 * [蹲馬步](slow-down-to-speed-up.md) — [持續地把每件瑣 (碎的小) 事循序漸進、按部就班地做好才是成功的關鍵。](https://youtu.be/mZPN9W-jPm4)
 * 一步一步來，有一才有二
-* Take one step at a time. Walk before you run.
+* Take [one step at a time](you-can-achieve-anything-if-you-focus-on-one-thing-at-a-time.md). Walk before you run.
 * 「修身、齊家、治國、平天下」
 
 ---
@@ -110,7 +110,7 @@ The practice solidifies.
 
 希臘神話中薛西佛斯 (Sisyphus) 推石頭的故事
 
-* Sisyphean: 形容「永無盡頭而又徒勞無功的任務」
+> Sisyphean: 形容「永無盡頭而又徒勞無功的任務」
 
 ---
 
@@ -154,7 +154,9 @@ Doing a thing once is nothing special. You’re only a legend if you can do it b
 
 ---
 
-EVERYDAY is easier than SOMEDAY. [^4] Embrace the daily mundane activities / ordinary actions. Find the lifelong rhythm.
+# EVERYDAY is easier than SOMEDAY [^4]
+
+Embrace the daily mundane activities / ordinary actions. Find the lifelong rhythm.
 
 > “It’s easier to hold your principles 100 percent of the time than it is to hold them 98 percent of the time.” — Clayton M. Christensen, [How Will You Measure Your Life?](https://www.goodreads.com/work/quotes/18907551)
 
@@ -200,7 +202,7 @@ There’s a magic in showing up on your bad days. The choice is yours. Choose wi
 
 ---
 
-[frameworks-to-achieve-any-goals](frameworks-to-achieve-any-goals.md)
+[Frameworks to achieve any goals](frameworks-to-achieve-any-goals.md)
 
 ---
 
