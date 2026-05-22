@@ -1,6 +1,6 @@
 ---
 title: Life is cyclic
-modified: 2026-04-30
+modified: 2026-05-22
 ---
 
 > “Life is like a wheel. Sooner or later, it always comes around to where you started again.” — Stephen King
@@ -26,6 +26,10 @@ modified: 2026-04-30
 ---
 
 沒有任何事是永恆的，凡事皆無常；人生的一切起起伏伏都會過去，無論是美好的事物或痛苦的經歷。
+
+---
+
+你可以什麼都不信，但一定要相信週期。這世間萬物，無非是因果和週期。高高在上的東西，總有一天會跌落神壇；沈潛低谷的東西，有一天也會重見天日。
 
 ---
 
@@ -68,6 +72,10 @@ The [Solstice (至日)](https://en.wikipedia.org/wiki/Solstice) [^2] reminds us:
 ---
 
 [Dispel your narratives](dispel-your-narratives.md)
+
+---
+
+[This too shall pass](this-too-shall-pass.md)
 
 [^1]: the ebb and the flow
 [^2]: marks the longest and shortest days of the year
