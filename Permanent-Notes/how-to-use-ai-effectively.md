@@ -1,6 +1,6 @@
 ---
 title: How to use AI effectively
-modified: 2026-05-09
+modified: 2026-05-22
 ---
 
 AI 是想法的放大器/加速器，而不是想法的產生器。
@@ -83,6 +83,10 @@ Low-skill developers can produce bad code much faster, while high-skill develope
 > **Working with AI is a dialogue, not an order.** [^4]
 
 > For getting a thinking partner, the key to using the AI is to have a **natural dialogue**. Just talk to it. Most people find this easiest to do **via voice on their phone**.
+
+---
+
+Prompt Engineering (提示詞工程) ➞ Context Engineering (脈絡工程) ➞ Harness Engineering (駕馭工程)
 
 ---
 
