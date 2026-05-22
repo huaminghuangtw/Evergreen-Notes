@@ -1,6 +1,6 @@
 ---
 title: Live in the present
-modified: 2026-04-23
+modified: 2026-05-22
 ---
 
 > “Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why we call it the present” — Eleanor Roosevelt
@@ -98,12 +98,6 @@ Song lyrics from [*Secret O' Life*](https://open.spotify.com/track/2dBOatuBZV3zY
 > Nobody knows how we got to the top of the hill
 > But since we’re on our way down
 > We might as well enjoy the ride
-
----
-
-Before any memorable event, tell yourself silently: “This will pass by.”
-
-* 在心理默念:「這會過去」
 
 ---
 
