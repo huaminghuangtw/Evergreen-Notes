@@ -1,6 +1,6 @@
 ---
 title: Emotion Control
-modified: 2026-04-30
+modified: 2026-05-22
 ---
 
 > “Emotional sickness is avoiding reality at any cost. Emotional health is facing reality at any cost.” — [M. Scott Peck](https://quotefancy.com/m-scott-peck-quotes)
@@ -87,6 +87,8 @@ The thing that prevents you from seeing what’s actually happening are your emo
 
 ---
 
+# 我是尊貴的人，不跟廉價之人吵架的。
+
 > “Think of life like a play, and it will ease your mind when you’re challenged or when someone stands in your way. Told yourself they were playing a role. **Every story needs a villain.** So why should you waste energy being upset at the villains in your story? Instead, you could use that energy as the fuel to beat them.” — Arnold Schwarzenegger
 
 > “Never wrestle with a pig in the mud because you’ll both get dirty and the pig likes it”. — George Bernard Shaw
@@ -130,5 +132,9 @@ The thing that prevents you from seeing what’s actually happening are your emo
 ---
 
 [Emotional Freedom](emotional-freedom.md)
+
+---
+
+[Life is cyclic](life-is-cyclic.md)
 
 [^1]: e.g., by taking a cold shower, deep breath, etc.
