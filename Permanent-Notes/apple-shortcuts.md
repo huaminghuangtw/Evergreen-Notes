@@ -1,6 +1,10 @@
 ---
 title: Apple Shortcuts
-modified: 2026-04-30
+modified: 2026-05-22
+---
+
+AppleScript ➞ Automator ➞ Shortcuts
+
 ---
 
 [比較]
