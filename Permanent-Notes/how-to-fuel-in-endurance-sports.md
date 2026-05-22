@@ -1,11 +1,23 @@
 ---
 title: How to Fuel in Endurance Sports
-modified: 2026-04-30
+modified: 2026-05-22
 ---
 
-Put [maltodextrin (glucose) powder](maltodextrin.md) in a long effervescent tablet tube
+> Nutrition is the fourth discipline in endurance sports.
 
-Per hour: 0.5L isotonic energy drink (30g carbs), 1 gel (25g carbs) and 1 portion of solid food (small energy bar or homemade rice cake) (10-20g carbs) - for a total of ~70g carbs. This pretty much replenishes carbs burned for an endurance-pace ride.
+Endurance sports such as cycling, running, and triathlon place sustained demands on the body’s energy systems. Glycogen stores are limited and can be depleted within **90–120 minutes** of moderate to high-intensity exercise. Consistent fueling helps maintain blood glucose, delays fatigue, and supports both performance and recovery.
+
+# Strategies
+
+* **Carbohydrate Intake**: Aim for 60–90g of carbohydrates per hour for events lasting longer than 2 hours. This can be achieved by combining drinks, gels, and solid foods.
+* **Hydration**: Isotonic drinks not only provide carbs but also help maintain electrolyte balance.
+* **Gut Training**: Practice your fueling strategy during training, not just on race day. The gut adapts to higher carb loads over time (just like muscles), reducing the risk of stomach issues.
+
+# Tips
+
+* Use a long effervescent tablet tube for easy access to [maltodextrin powder](maltodextrin.md).
+* Alternate between sweet and savory foods to avoid flavor fatigue.
+* Monitor for signs of **under-fueling**: dizziness, loss of power, irritability, or cramping.
 
 ---
 
