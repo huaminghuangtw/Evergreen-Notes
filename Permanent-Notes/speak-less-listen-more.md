@@ -1,6 +1,6 @@
 ---
 title: Speak less, listen more
-modified: 2026-05-20
+modified: 2026-05-23
 ---
 
 > [“Shallow rivers are noisy. Deep lakes are silent.” — Derek Sivers](https://sive.rs/h)
@@ -76,3 +76,7 @@ Speak confidently. [Listen](active-listening.md) carefully.
 * The quietest person in the room is usually listening the hardest.
 * The quietest person in the room speaks loudest when it matters.
 * The quietest person in the room already understands what others are still trying to prove.
+
+---
+
+[In any conversations, don’t fill the awkward silence. Have faith in your (good) questions. Just wait and listen.](https://sketchplanations.com/dont-fill-the-silence)
