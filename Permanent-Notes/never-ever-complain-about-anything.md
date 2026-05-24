@@ -1,6 +1,6 @@
 ---
 title: Never ever complain about anything
-modified: 2026-04-30
+modified: 2026-05-24
 ---
 
 > “Everything that happens is either endurable or not. If it’s endurable, then endure it. Stop complaining. If it’s unendurable … then stop complaining. Your destruction will mean its end as well. Just remember: you can endure anything your mind can make endurable, by treating it as in your interest to do so. In your interest, or in your nature.” — Marcus Aurelius
@@ -31,6 +31,10 @@ The person who has the most to do with what happens to you is you. Whatever it i
 # If it’s always someone else’s fault, it’s probably your fault.
 
 [If you meet a jerk once a month, you’ve met a jerk. If you meet jerks every day, you’re a jerk.](https://www.nytimes.com/2022/06/02/opinion/david-brooks-life-hacks.html)
+
+---
+
+You aren’t a failure until you start to blame. You are still in the process of learning from your mistakes until you deny them.
 
 ---
 
