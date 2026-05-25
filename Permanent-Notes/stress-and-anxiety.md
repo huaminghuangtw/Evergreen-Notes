@@ -1,6 +1,6 @@
 ---
 title: Stress & Anxiety
-modified: 2026-04-12
+modified: 2026-05-25
 ---
 
 > “Stress happens when the mind resists what is.” — Dan Millman
@@ -140,7 +140,7 @@ Often, stress and anxiety come from the lack of a plan to bridge the gap between
 
 ---
 
-[Stress & The Glass of Water](stress-and-the-glass-of-water.md)
+[Stress & The Glass of Water](https://huam.ing/stress-and-the-glass-of-water.md)
 
 ---
 
