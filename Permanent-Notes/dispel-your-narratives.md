@@ -1,7 +1,9 @@
 ---
 title: Dispel your narratives
-modified: 2026-04-30
+modified: 2026-05-25
 ---
+
+> “Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.” — Marcus Aurelius
 
 > “Wisdom accepts that all things have two sides.” — Carl Jung
 
