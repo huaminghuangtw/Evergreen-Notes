@@ -1,6 +1,6 @@
 ---
 title: Focus is about saying no
-modified: 2026-05-20
+modified: 2026-05-25
 ---
 
 > “If you chase two rabbits, you catch none.” — Confucius
@@ -26,6 +26,8 @@ modified: 2026-05-20
 > “What we choose to focus on and what we choose to ignore—plays in defining the quality of our life.” — [@newportDeepWorkRules2016]
 
 > “It is far easier to start something than it is to finish it.” — Amelia Earhart
+
+> “Nothing has more strength than dire necessity.” — Euripides
 
 ---
 
