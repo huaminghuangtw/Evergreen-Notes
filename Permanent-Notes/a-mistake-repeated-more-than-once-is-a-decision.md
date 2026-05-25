@@ -1,6 +1,6 @@
 ---
 title: A mistake repeated more than once is a decision
-modified: 2026-05-07
+modified: 2026-05-25
 ---
 
 > “A man who has committed a mistake and doesn’t correct it, is committing another mistake.” — Confucius
@@ -8,6 +8,8 @@ modified: 2026-05-07
 > “A mistake repeated more than once is a decision.” — Paulo Coelho
 
 > “If you’re not making mistakes, then you’re not making decisions (and progress).” — Catherine Cook [^1]
+
+> “Only while sleeping one makes no mistakes. Making mistakes is the privilege of the active — of those who can correct their mistakes and put them right.” — Ingvar Kamprad
 
 > “Experience is simply the name we give our mistakes.” — Oscar Wilde
 
