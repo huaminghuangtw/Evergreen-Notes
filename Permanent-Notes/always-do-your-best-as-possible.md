@@ -1,6 +1,6 @@
 ---
 title: Always do your best as possible
-modified: 2026-05-24
+modified: 2026-05-25
 ---
 
 > “Inspire yourself to be great. Being good isn’t good enough.” — Gurbaksh Chahal
@@ -14,6 +14,8 @@ modified: 2026-05-24
 > “When you’re a carpenter making a beautiful chest of drawers, you’re not going to use a piece of plywood on the back, even though it faces the wall and nobody will ever see it. You’ll know it’s there, so you’re going to use a beautiful piece of wood on the back. For you to sleep well at night, the aesthetic, the quality, has to be carried all the way through.” — Steve Jobs
 
 > “He didn’t ask for mistake-free games. He didn’t demand that his players never lose. He asked for full preparation and full effort from them. “Did I win? Did I lose? Those are the wrong questions. The correct question is: Did I make my best effort?” If so, he says, “You may be outscored but you will never lose.” — Carol Dweck, [Mindset: The New Psychology of Success](https://www.goodreads.com/work/quotes/40330)
+
+> “Victory is in having done your best. If you’ve done your best, you’ve won.” — Billy Bowerman
 
 ---
 
