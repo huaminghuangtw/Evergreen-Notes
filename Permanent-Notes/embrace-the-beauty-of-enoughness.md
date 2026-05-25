@@ -1,6 +1,6 @@
 ---
 title: Embrace the beauty of enoughness
-modified: 2026-05-14
+modified: 2026-05-25
 ---
 
 > 「真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。」 — 沈芯菱 [^1]
@@ -18,6 +18,8 @@ modified: 2026-05-14
 > “Never let the quest for more distract you from the beauty of enough.” — Sahil Bloom
 
 > “Contentment is natural wealth, luxury is artificial poverty.” — Socrates
+
+> “He is richest who is content with the least, for content is the wealth of nature.” — Socrates
 
 > “Those who are not satisfied with a little, are satisfied with nothing.” — Epicurus
 
