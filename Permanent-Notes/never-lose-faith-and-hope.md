@@ -1,6 +1,6 @@
 ---
 title: Never lose faith and hope
-modified: 2026-04-26
+modified: 2026-05-25
 ---
 
 > “Without faith, it is impossible for you to become great.” — Wallace D. Wattles, [The Science of Being Great](https://www.goodreads.com/work/quotes/1881171)
@@ -24,6 +24,10 @@ modified: 2026-04-26
 > “To do original work, it is not necessary to know something nobody else knows. It is necessary to believe something few other people believe.” — Marc Andreessen
 
 > [“You should never, never doubt something that no one is sure of.” — Willy Wonka, Charlie and the Chocolate Factory](https://youtu.be/xx50-52k8Ic)
+
+> “Blessed are those who have not seen and yet have believed.” — John 20:29
+>
+> 「那些還沒看見就信的，有福了。」— 約翰福音 20：29
 
 ---
 
