@@ -1,11 +1,13 @@
 ---
 title: Be Grateful
-modified: 2026-05-20
+modified: 2026-05-25
 ---
 
 #NEWSLETTER
 
 > “Gratitude isn’t all about what’s going right. It’s about finding a little light in this moment we’re in.” — Mary Davis
+
+> “Gratitude unlocks the fullness of life. It turns what we have into enough.” — Melody Beattie
 
 > “Feeling gratitude and not expressing it is like wrapping a present and not giving it.” — William Arthur Ward
 
