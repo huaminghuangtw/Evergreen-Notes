@@ -42,7 +42,7 @@ The Hermeneutic Circle describes a cyclical process of understanding where oneâ€
 
 [Complex Systems Emerge From Iterations On Simple Designs](https://nav.al/iterate) by Naval Ravikant
 
-[Parable of the Two Watchmakers](parable-of-the-two-watchmakers.md)
+[Parable of the Two Watchmakers](the-parable-of-the-two-watchmakers.md)
 
 [Simple is beautiful](simple-is-beautiful.md)
 
