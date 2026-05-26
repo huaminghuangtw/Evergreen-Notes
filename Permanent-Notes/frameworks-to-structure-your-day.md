@@ -1,6 +1,6 @@
 ---
 title: Frameworks to structure your day
-modified: 2026-04-30
+modified: 2026-05-26
 ---
 
 > [Live life by design, not default.](https://fs.blog/david-foster-wallace-this-is-water/) Make each day your masterpiece. How you spend your days is how you spend your life.
@@ -18,6 +18,8 @@ modified: 2026-04-30
 	> “Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.” — Celestine Chua
 
 	> “Don’t let making a living prevent you from making a life.” — John Wooden
+
+	> “Put your life in service to your values rather than putting your time in service to money.” — Vicki Robin, [Your Money or Your Life](https://www.goodreads.com/work/quotes/1509321)
 
 * [Spend a handful of hours a day going fast. Crush a gym session. Do deep work on a project you care about. Spend the rest of the day going slow. Take walks. Read books. Get a long dinner with friends. Either way, avoid the anxious middle (半調子) where you never truly relax or truly move forward.](https://x.com/charlesmiller_7/status/1897358851776610720)
 	* See also: [Work in sprints, work with your biology](work-in-sprints-work-with-your-biology.md)
