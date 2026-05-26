@@ -1,6 +1,6 @@
 ---
 title: Cultivate a strong bias towards action
-modified: 2026-05-16
+modified: 2026-05-26
 ---
 
 > “To be is to do.” — Immanuel Kant
@@ -108,7 +108,7 @@ When people talk about traveling to the past, they worry about radically changin
 
 ---
 
-當一個「用手思考」的人
+不要「眼高手低 [^5]」，當一個「用手思考」的人。
 
 ---
 
@@ -277,4 +277,5 @@ Pragmatism 實用主義
 [^1]: _“The professional learns to recognize envy-driven criticism and to take it for what it is: the supreme compliment. The critic hates most that which he would have done himself if he had had the guts.” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
 [^2]: _“The artist cannot look to others to validate his efforts or his calling. If you don’t believe me, ask Van Gogh, who produced masterpiece after masterpiece and never found a buyer in his whole life.” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
 [^3]: Remember: Talk does not cook rice. (別光說不練。) You are what you do, not what you say you’ll do. You can’t build a reputation on what you’re going to do.
-[^4]: 年輕人暢談自己正在做的事，老年人細訴自己曾經做過的事，愚者高論自己想做的事。
+[^4]: 年輕人暢談自己正在做的事，老年人細訴自己曾經做過的事，愚昧者高論自己想做的事。
+[^5]: 比喻要求標準高，而實行能力低。
