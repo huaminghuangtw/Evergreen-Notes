@@ -1,9 +1,11 @@
 ---
 title: Money
-modified: 2026-05-07
+modified: 2026-05-26
 ---
 
 > “Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence
+
+> “Here’s the simple formula: Spend less than you earn—invest the surplus—avoid debt” — J.L. Collins, [The Simple Path to Wealth: Your Road Map to Financial Independence and a Rich, Free Life](https://www.goodreads.com/work/quotes/51187846)
 
 ---
 
@@ -97,8 +99,11 @@ Reasonable Rational
 
 * The only way to make a lot of money is to create a lot of value. No value means no money. Money is a lagging indicator of value created, impact, and service. Don’t chase the dollars. Create the value and the money will chase you. [^6]
 * MONEY and TIME is a balancing act. Stop trading/renting time for money, so money can create more time for you.
+
+	> “Money is something you trade your life energy for. You sell your time for money. It doesn’t matter that Ned over there sells his time for a hundred dollars and you sell yours for twenty dollars an hour. Ned’s money is irrelevant to you. The only real asset you have is your time. The hours of your life.” — Vicki Robin, [Your Money or Your Life](https://www.goodreads.com/work/quotes/1509321)
+
 	* Millionaires don’t have salaries. They own [assets](assets-vs-liabilities.md).
-		* [WEALTH = Net Income + Asset Value](wealth-creation.md)
+	* [WEALTH = Net Income + Asset Value](wealth-creation.md)
 	* 真正的財務自由，是不再被困在「時間換取金錢」的枷鎖裡。
 * The best thing you can do to stay poor is to start tomorrow.
 	* **The Action Mindset**: The longer you’re not taking action, the more money you’re losing.
@@ -139,9 +144,15 @@ Reasonable Rational
 
 > “If you buy things you do not need, soon you will have to sell things you need.” — Warren Buffett
 
+> “Waste lies not in the number of possessions but in the failure to enjoy them.” — Joe Dominguez and Vicki Robin, [Your Money or Your Life](https://www.goodreads.com/work/quotes/1509321)
+
+> “The key is remembering that anything you buy and don’t use, anything you throw away, anything you consume and don’t enjoy is money down the drain, wasting your life energy and wasting the finite resources of the planet. Any waste of your life energy means more hours lost to the rat race, making a dying. Frugality is the user-friendly and earth-friendly lifestyle.” — Vicki Robin, [Your Money or Your Life](https://www.goodreads.com/work/quotes/1509321)
+
+> “Frugality is enjoying the virtue of getting good value for every minute of your life energy and from everything you have the use of.” — Vicki Robin, [Your Money or Your Life](https://www.goodreads.com/work/quotes/1509321)
+
 * 我發現，把錢花在那些很快就消失/一下子就消耗掉/轉瞬即逝的東西上，會讓自己有種受騙的感覺。
 * [Consider spending money as a failure of imagination; a failure to solve problems by smarter means.](https://www.getrichslowly.org/early-retirement-extreme/)
-	* [Your need for money is inversely related to your level of skill. Money buys convenience but more importantly, it compensates for lack of skill.](https://earlyretirementextreme.com/why-so-few-succeed.html)
+* [Your need for money is inversely related to your level of skill. Money buys convenience but more importantly, it compensates for lack of skill.](https://earlyretirementextreme.com/why-so-few-succeed.html)
 * [Money can buy happiness_, but in an indirect way._](https://huam.ing/morgan-housel-understand-and-apply-the-psychology-of-money-to-gain-greater-happiness) It’s not money itself that makes you happier. It’s the thing acquired by money that actually makes you happy.
 
 	> “Those who say that money can’t buy happiness, never had any.” — Samuel L. Jackson
@@ -166,14 +177,13 @@ Reasonable Rational
 * Spending any amount of money to “save money.”
 	* Look at the ROI of your expenses, not the price tag.
 	* Buying quality is key. If you buy quality the first time, it can last a lifetime.
-	* Frugal doesn’t mean cheap.
-		* Cheap is saving money in short term, while frugal is making wise choices to save in the long run.
+	* Frugal doesn’t mean cheap. Cheap is saving money in short term, while frugal is making wise choices to save in the long run.
 	* Often, the more expensive item (“Buy It For Life” ) is more frugal than the cheaper item (“Buy Once, Cry Once”).
 * [The more money you have, the harder it becomes to know how to spend it in a way that will make you happy. And that confusion sets in at fairly low levels of income.](https://collabfund.com/blog/a-few-thoughts-on-spending-money/)
 
 	> The concept of the [Doughnut](https://www.google.com/search?q=Doughnut), as introduced by economist Kate Raworth, illustrates a balance between meeting essential human needs (_the social foundation_) and staying within planetary limits (_the ecological ceiling_). When applied to personal wealth and happiness, the Doughnut highlights a crucial insight: beyond a certain level of income—where basic needs are comfortably met—people enter a more ambiguous space of desire, where _knowing what to want_ becomes far less straightforward than _knowing what to need_. As Luke Burgis points out [^7], once survival is secured, people shift from necessity-driven decisions to socially influenced desires, often struggling to determine what will truly bring fulfillment.
 
-* **Eliminate Before Accumulate**: Use the “One in, One out” rule/policy when buy things
+* **Eliminate Before Accumulate**: Use [The “One in, One Out” Rule](the-one-in-one-out-rule.md) when buy things
 * 3 Levels
 	1. **Beginner**: If you can’t afford it twice, don’t buy it.
 	2. **Advanced**: If it’s more than 10% of your income don’t buy it.
