@@ -1,6 +1,6 @@
 ---
 title: Be Grateful
-modified: 2026-05-25
+modified: 2026-05-26
 ---
 
 #NEWSLETTER
@@ -18,6 +18,8 @@ modified: 2026-05-25
 > “He who is carried on another’s back does not appreciate how far off the town is.” — African Proverbs
 
 > 「即是無論什麼事，得之於人者太多，出之於己者太少。因為需要感謝的人太多了，就感謝天罷。」— 陳之藩《謝天》
+
+> “Once we’re above the survival level, the difference between prosperity and poverty lies simply in our degree of gratitude.” — Vicki Robin, [Your Money or Your Life](https://www.goodreads.com/work/quotes/1509321)
 
 ---
 
