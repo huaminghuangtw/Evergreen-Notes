@@ -1,7 +1,9 @@
 ---
 title: Simple is beautiful
-modified: 2026-05-07
+modified: 2026-05-26
 ---
+
+> “Simple is good. Simple is easier. Simple is more profitable.” — J.L. Collins, [The Simple Path to Wealth: Your Road Map to Financial Independence and a Rich, Free Life](https://www.goodreads.com/work/quotes/51187846)
 
 > ”Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.” — Steve Jobs
 
