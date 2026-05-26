@@ -108,7 +108,7 @@ According to the research, “_The secret to retaining the highest level of prod
 
 ---
 
-[Parable of the Two Watchmakers](parable-of-the-two-watchmakers.md)
+[Parable of the Two Watchmakers](the-parable-of-the-two-watchmakers.md)
 
 ---
 
