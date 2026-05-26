@@ -1,6 +1,6 @@
 ---
 title: Minimalism
-modified: 2026-05-01
+modified: 2026-05-26
 ---
 
 > “It is not a daily increase, but a daily decrease. Hack away at the inessentials.” — Bruce Lee
@@ -10,6 +10,8 @@ modified: 2026-05-01
 [@collinsSimplePathWealth2016]
 
 > “You own the things you own and they in turn own you.” [^1]
+
+> “It isn’t the stuff. It’s what the stuff means.” — Joe Dominguez, [Your Money or Your Life](https://www.goodreads.com/work/quotes/1509321)
 
 ---
 
@@ -37,10 +39,9 @@ Let’s declutter/downsize/simplify!
 
 ---
 
-What is absolutely necessary & Get rid of everything I don’t need
+Freedom often comes from _needing less_, not from _gaining more._
 
-* To renounce all but the essentials!
-* Have no excess stuff.
+See also: [The Parable of the Monk and the Minister](the-parable-of-the-monk-and-the-minister.md)
 
 ---
 
@@ -74,4 +75,4 @@ Always eliminate first, then accumulate.
 
 [Addition by subtraction](addition-by-subtraction.md)
 
-[^1]: _[“The things you own end up owning you” — Fight Club (1999 film)](https://youtu.be/zp-eEVkKh60)_
+[^1]: _[“The things you own end up owning you.” — Fight Club (1999 film)](https://youtu.be/zp-eEVkKh60)_
