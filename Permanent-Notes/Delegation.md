@@ -1,6 +1,6 @@
 ---
 title: Delegation
-modified: 2026-05-11
+modified: 2026-05-26
 ---
 
 > “You can do anything, but you can’t do everything.” — David Allen
@@ -17,7 +17,8 @@ If you can afford to, delegate it. If you can’t yet afford to, automate it. [T
 
 # Eliminate → Automate → Delegate
 
-Never automate something that can be eliminated. Never delegate something that can be automated or streamlined.
+* Never automate something that can be eliminated.
+* Never delegate something that can be automated or streamlined.
 
 See also: [Elon Musk’s 5-Step Algorithm](https://huam.ing/elon-musks-5-step-algorithm)
 
@@ -29,7 +30,7 @@ See also: [Elon Musk’s 5-Step Algorithm](https://huam.ing/elon-musks-5-step-al
 
 ### Paired tasking is best when the work is
 
-* Complex and tacit (knowledge is hard to write down).
+* Complex and [tacit](explicit-knowledge-and-tacit-knowledge.md) (knowledge is hard to write down).
 * Sensitive to quality or context.
 * Performed infrequently (so documentation alone won’t suffice).
 
