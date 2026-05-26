@@ -1,6 +1,6 @@
 ---
 title: A friend to all is a friend to none
-modified: 2026-03-14
+modified: 2026-05-26
 ---
 
 > “A true friend never gets in your way unless you happen to be going down.” — Arnold H. Glasow
@@ -11,7 +11,9 @@ modified: 2026-03-14
 
 > “Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.” — George Washington
 
-> [Fremde sind Freunde, die man nur noch nicht kennengelernt hat. 陌生人只是那些我們還沒來得及認識的朋友。](https://www.godic.net/home/dailysentence/2663f4f2-2119-4048-9bb4-a4fafe7ec25b)
+> [Fremde sind Freunde, die man nur noch nicht kennengelernt hat.](https://www.godic.net/home/dailysentence/2663f4f2-2119-4048-9bb4-a4fafe7ec25b)
+>
+> 陌生人只是那些我們還沒來得及認識的朋友。
 
 ---
 
@@ -19,7 +21,7 @@ modified: 2026-03-14
 
 ---
 
-[Telling old stories to new friends. Telling new stories to old friends.](https://x.com/anuatluru/status/1788974353108848675)
+[Tell old stories to new friends. Tell new stories to old friends.](https://x.com/anuatluru/status/1788974353108848675)
 
 ---
 
@@ -96,7 +98,7 @@ Humans are mimetic creatures. [We copy those around us.](the-theory-of-mimetic-d
 
 ---
 
-There are two types of friends:
+# Two Types of Friends
 
 * **Summer Friends** are the ones who are there for you when it’s warm and sunny, but disappear when the weather starts to turn. They are the seasonal tourists, not the locals.
 	* Most people in your life are Summer Friends, and when winter inevitably comes, they are gone.
