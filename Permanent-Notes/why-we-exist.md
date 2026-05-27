@@ -1,6 +1,6 @@
 ---
 title: Why we exist?
-modified: 2026-05-21
+modified: 2026-05-27
 ---
 
 > [“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)
@@ -71,6 +71,12 @@ The purpose of life is a life of purpose.
 
 ---
 
+# 強者要為弱者而活
+
+> “We who are strong ought to bear with the failings of the weak.” — Romans 15:1
+
+---
+
 > “The more one forgets himself—by giving himself to a cause to serve or another person to love—the more human he is and the more he actualizes himself. What is called ‘self-actualization’ is not an attainable aim at all, for the simple reason that the more one would strive for it, the more he would miss it. In other words, self-actualization is possible only as a side-effect of self-transcendence.” — Viktor E. Frankl
 
 Self-actualization → Self-transcendence (**going beyond the self**—seeking connection with something greater, such as service to others, nature, art, or the divine)
@@ -102,6 +108,8 @@ Self-actualization → Self-transcendence (**going beyond the self**—seeking c
 > “If you’re not making someone else’s life better, then you’re wasting your time. Your life will become better by making other lives better.” — Will Smith
 
 [At the end of your life, God will only assess you based on how well you help other people be better people. Life is people.](https://youtu.be/tvos4nORf_Y?t=18m33s)
+
+We make a living by what we get, but we make a life by what we give.
 
 ---
 
