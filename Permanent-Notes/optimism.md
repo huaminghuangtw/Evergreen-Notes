@@ -1,6 +1,6 @@
 ---
 title: Optimism
-modified: 2026-04-24
+modified: 2026-05-26
 ---
 
 > “Turn your face to the sun, as flowers know how to do.” — Ming-Dao Deng [^1]
@@ -18,6 +18,8 @@ modified: 2026-04-24
 > “[Cynacism](cynicism.md) is easy. Mimicry is easy. Optimistic contrarians are the rarest breed.” — Naval Ravikant
 
 > “We must remember that this is not a bad world but a good world in the process of becoming.” — Wallace D. Wattles, [The Science of Being Great](https://www.goodreads.com/work/quotes/1881171)
+
+> [“We don’t make mistakes, we have happy accidents.” — Bob Ross](https://www.youtube.com/shorts/KKN-qE2bRuU)
 
 ---
 
