@@ -1,6 +1,6 @@
 ---
 title: Always start small
-modified: 2026-05-21
+modified: 2026-05-27
 ---
 
 > “It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith
@@ -104,5 +104,9 @@ Every race starts with one step. Every fortune starts with a small deposit. Ever
 ---
 
 [Just focus on the next decision](just-focus-on-the-next-decision.md)
+
+---
+
+[▍Build a Tower, Build a Team](https://huam.ing/build-a-tower-build-a-team)
 
 [^1]: _“You are not a drop in the ocean, you are the entire ocean in a drop.” — Rumi_
