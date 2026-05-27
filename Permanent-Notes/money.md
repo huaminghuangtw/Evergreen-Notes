@@ -178,6 +178,9 @@ Reasonable Rational
 	* Look at the ROI of your expenses, not the price tag.
 	* Buying quality is key. If you buy quality the first time, it can last a lifetime.
 	* Frugal doesn’t mean cheap. Cheap is saving money in short term, while frugal is making wise choices to save in the long run.
+
+		> 花小錢省大錢
+
 	* Often, the more expensive item (“Buy It For Life” ) is more frugal than the cheaper item (“Buy Once, Cry Once”).
 * [The more money you have, the harder it becomes to know how to spend it in a way that will make you happy. And that confusion sets in at fairly low levels of income.](https://collabfund.com/blog/a-few-thoughts-on-spending-money/)
 
