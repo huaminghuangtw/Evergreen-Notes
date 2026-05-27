@@ -1,6 +1,6 @@
 ---
 title: Always do your best as possible
-modified: 2026-05-25
+modified: 2026-05-27
 ---
 
 > “Inspire yourself to be great. Being good isn’t good enough.” — Gurbaksh Chahal
@@ -16,6 +16,8 @@ modified: 2026-05-25
 > “He didn’t ask for mistake-free games. He didn’t demand that his players never lose. He asked for full preparation and full effort from them. “Did I win? Did I lose? Those are the wrong questions. The correct question is: Did I make my best effort?” If so, he says, “You may be outscored but you will never lose.” — Carol Dweck, [Mindset: The New Psychology of Success](https://www.goodreads.com/work/quotes/40330)
 
 > “Victory is in having done your best. If you’ve done your best, you’ve won.” — Billy Bowerman
+
+> “People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.” — Andrew Carnegie
 
 ---
 
