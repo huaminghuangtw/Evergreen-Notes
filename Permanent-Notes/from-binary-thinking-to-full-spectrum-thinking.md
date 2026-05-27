@@ -1,13 +1,13 @@
 ---
 title: From Binary Thinking to Full-Spectrum Thinking
-modified: 2026-04-30
+modified: 2026-05-27
 ---
 
 > “Categories move us toward certainty, but away from clarity.” — Bob Johansen
 
 ---
 
-Binary Thinking = All-or-nothing Thinking
+Binary Thinking = All-or-Nothing Thinking (全有或全無)
 
 ---
 
