@@ -1,6 +1,6 @@
 ---
 title: How to say NO with grace and style
-modified: 2026-04-30
+modified: 2026-05-27
 ---
 
 # General Principle
@@ -39,3 +39,14 @@ If you have/want to say no to something, do it immediately. That gives the asker
 # “No, thanks.”
 
 Just say “I don’t feel like doing X. / I don’t want to do X.” (I don’t have to offer you an excuse. “No, thanks.” should be a sufficient enough answer.)
+
+---
+
+# [Prepare your “no” and keep it handy | Derek Sivers](https://sive.rs/n0)
+
+Outline of a 4-sentence paragraph:
+
+1. a clear “no” right away
+2. gratitude, since I’m honored by my value implied in the ask
+3. explanation that to stay focused on a bigger “yes”, I’m saying “no” to everything else
+4. good wishes, and if my situation is temporary, an invitation to ask again next year
