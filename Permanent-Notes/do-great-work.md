@@ -1,6 +1,6 @@
 ---
 title: Do great work
-modified: 2026-05-25
+modified: 2026-05-27
 ---
 
 > “To be great is to be misunderstood.” — Ralph Waldo Emerson
@@ -24,6 +24,8 @@ modified: 2026-05-25
 > “To make something good, just do it. To make something great, just redo it, redo it, redo it. The secret to making fine things is in remaking them.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
 
 > “Champions aren’t made in the gyms. Champions are made from something they have deep inside them—a desire, a dream, a vision.” — Muhammad Ali
+
+> “People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.” — Andrew Carnegie
 
 ---
 
