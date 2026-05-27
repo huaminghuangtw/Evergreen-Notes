@@ -1,9 +1,19 @@
 ---
 title: Dental & Oral Hygiene
-modified: 2026-05-14
+modified: 2026-05-26
 ---
 
 Brush and floss teeth at least twice a day, ideally after meals, to remove plaque and prevent cavities and gum disease.
+
+---
+
+# [世上最詳盡的牙線教學 by 黃偉家](https://youtu.be/FVoXAdPV8pY)
+
+1. 拉出約 45 cm（與手臂等長）的牙線
+2. 留出 2–3 cm 的工作端（與牙線棒等長）
+3. 將剩餘牙線繞在雙手中指，以食指與拇指夾持操控
+4. 輕壓牙線進入牙縫，伸至牙齦溝
+5. 以「C 字型」環抱牙齒，由溝底向上刮除菌斑
 
 ---
 
