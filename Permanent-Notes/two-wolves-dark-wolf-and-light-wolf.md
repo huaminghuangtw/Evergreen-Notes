@@ -1,5 +1,5 @@
 ---
-title: "Two Wolves: Dark Wolf & Light Wolf"
+title: Two Wolves: Dark Wolf & Light Wolf
 modified: 2026-03-23
 ---
 
