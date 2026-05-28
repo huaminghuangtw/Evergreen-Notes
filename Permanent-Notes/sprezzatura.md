@@ -1,6 +1,6 @@
 ---
 title: Sprezzatura
-modified: 2026-04-14
+modified: 2026-05-28
 ---
 
 = Earned Effortlessness = Studied Carelessness
@@ -29,6 +29,7 @@ In Renaissance courts, sprezzatura was considered an essential quality for court
 # Related Concepts
 
 * **[Flow State](flow-state.md)**: The mental state of being fully immersed and performing with ease.
+* **Mushin (無心)**
 * **Shibui:** A Japanese concept of subtle, unobtrusive beauty. [^1]
 * **Mastery:** The process of internalizing skills to the point where they become second nature.
 
