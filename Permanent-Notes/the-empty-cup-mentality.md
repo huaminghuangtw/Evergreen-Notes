@@ -1,5 +1,5 @@
 ---
-title: "The Empty Cup Mentality"
+title: The Empty Cup Mentality
 modified: 2026-03-21
 ---
 
