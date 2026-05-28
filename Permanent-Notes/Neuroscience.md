@@ -1,6 +1,6 @@
 ---
 title: Neuroscience
-modified: 2026-03-29
+modified: 2026-05-28
 ---
 
 The brain is a monkey brain with a supercomputer on top.
@@ -11,7 +11,7 @@ The brain is a monkey brain with a supercomputer on top.
 * 神經可塑性（[Neuroplasticity](neuroplasticity.md)）
 * 神經再生性（Neurogenesis）
 * Neurocircuit
-* 迷走神經 (Vague nerve)
+* 迷走神經 (Vagus Nerve)
 * 腺苷 (Adenosine): Drowsiness/Sleepiness
 * [amygdala](amygdala.md)
 
