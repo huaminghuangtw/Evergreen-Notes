@@ -1,6 +1,6 @@
 ---
 title: Life is cyclic
-modified: 2026-05-22
+modified: 2026-05-28
 ---
 
 > “Life is like a wheel. Sooner or later, it always comes around to where you started again.” — Stephen King
@@ -63,7 +63,7 @@ The [Solstice (至日)](https://en.wikipedia.org/wiki/Solstice) [^2] reminds us:
 
 ---
 
-[The Chinese Farmer Parable](the-chinese-farmer-parable.md)
+[The Chinese Farmer Parable](the-parable-of-chinese-farmer-parable.md)
 
 ---
 
