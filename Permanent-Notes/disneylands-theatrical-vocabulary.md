@@ -1,6 +1,6 @@
 ---
 title: Disneyland’s Theatrical Vocabulary
-modified: 2026-03-16
+modified: 2026-05-28
 ---
 
 > <mark>The words we use to describe an experience shape how we perceive it.</mark> The park was a show—breaks were taken backstage, the parking lot was the outer lobby, and the word “ride” was banned.
@@ -11,9 +11,11 @@ modified: 2026-03-16
 
 # The Power of Language in Shaping Experience
 
-Disneyland’s use of theatrical vocabulary is not just a matter of branding—it fundamentally shapes the way both visitors and staff experience the park. By framing the park as a stage and everyone within it as part of a performance, Disneyland elevates the ordinary into something magical and immersive.
+> “Language shapes the way we think, and determines what we can think about.” — Benjamin Lee Whorf
 
-This approach has influenced other theme parks, hospitality, and even retail environments. Many companies now use similar language to foster a sense of belonging and elevate the customer experience (e.g., Apple Store’s “Genius” staff, hotels referring to guests rather than customers).
+Disneyland’s theatrical vocabulary is a deliberate act of world-building. By borrowing the language of theater, Walt Disney and his team created a space where fantasy and reality blend seamlessly. This vocabulary is not just surface-level—it is embedded in the park’s operations, training, and culture.
+
+Many companies now use similar language to foster a sense of belonging and shape the customer experience. For instance, [Ritz-Carlton](https://www.google.com/search?q=Ritz-Carlton) staff are “Ladies and Gentlemen serving Ladies and Gentlemen,” and Apple Store employees are “Geniuses.”
 
 # More Examples of Theatrical Vocabulary
 
@@ -21,4 +23,4 @@ This approach has influenced other theme parks, hospitality, and even retail env
 * **backstage**: Areas off-limits to guests, where cast members can break character and rest.
 * **costume**: Uniforms worn by cast members, reinforcing the idea of a role or character.
 * **show**: The overall experience presented to guests, from parades to the smallest details.
-* **script**: The guidelines and training materials for cast members, ensuring consistency in guest interactions.
+* **script**: The guidelines and training materials for cast members, ensuring every interaction feels authentic and on-brand.
