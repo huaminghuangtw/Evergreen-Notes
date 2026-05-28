@@ -1,13 +1,11 @@
 ---
 title: Peace from mind
-modified: 2026-05-20
+modified: 2026-05-28
 ---
 
 > “The resting place of the mind is the heart. The only thing the mind hears all day is clanging bells and noise and argument, and all it wants is quietude. The only place the mind will ever find peace is inside the silence of the heart. That’s where you need to go.” — Elizabeth Gilbert
 
 > “Don’t let the behavior of others destroy your inner peace.” — Dalai Lama
-
-> “I’m here to tell you that the path to peace is right there, when you want to get away.” — Pema Chodron
 
 > “When you find peace within yourself, you find a quiet joy that makes you happy to be alive.” — Peace Pilgrim
 
@@ -29,10 +27,6 @@ Not having the urge to explain or defend yourself is real inner peace.
 
 ---
 
-The Japanese word [mushin (無心)](https://www.google.com/search?q=mushin) translates to “no mind” or “empty mind.” It describes a mental state central to Zen Buddhism and Japanese martial arts, where the mind is free from [anger](anger.md), [fear](fear.md), and [ego](abandon-your-ego.md). This state isn’t a complete absence of thought but rather a fluid, unencumbered awareness—free from attachment, conceptual [overthinking](overthinking.md), or [fixation on thoughts](be-ready-to-change-your-mind-completely-at-any-given-time.md).
-
----
-
 * Quiet your mind
 * Soothe your soul
 * Heal your heart
@@ -40,8 +34,6 @@ The Japanese word [mushin (無心)](https://www.google.com/search?q=mushin) tran
 ---
 
 # 內心平靜的指標
-
-#BLOG
 
 1. 情緒穩定：不容易因小事而生氣、焦慮或沮喪，常發出會心和真誠的微笑。
 2. 接受力強：不強烈抗拒現實，也不強迫它一定要發生。
@@ -55,4 +47,4 @@ The Japanese word [mushin (無心)](https://www.google.com/search?q=mushin) tran
 10. 反應冷靜：遇到衝突或壓力情境時，能保持理性回應。
 11. 規律生活：有良好的作息、飲食與運動習慣，生活節奏穩定。
 12. 對別人的愛意與慈愛分外有感，並讓愛傳出去。
-13. 與他人和大自然有充分連結和感應，常常內心充滿感激。
+13. 與大自然有充分連結和感應，內心經常充滿感激。
