@@ -1,6 +1,6 @@
 ---
 title: The Sturgeon’s Law
-modified: 2026-05-20
+modified: 2026-05-28
 ---
 
 > “90% of everything is crud/crap.” — Theodore Sturgeon
@@ -32,4 +32,4 @@ The law is less a pessimistic verdict on quality and more a calibration tool: gi
 
 [Do great work](do-great-work.md)
 
-[^1]: 量變產生質變。
+[^1]: 量變產生質變。Quality is a byproduct of quantity.
