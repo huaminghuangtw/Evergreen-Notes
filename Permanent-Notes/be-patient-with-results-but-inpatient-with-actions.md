@@ -1,9 +1,9 @@
 ---
 title: Be patient with results, but inpatient with actions
-modified: 2026-05-26
+modified: 2026-05-28
 ---
 
-Set 5-year goals, but take 10-minute actions.
+Set 5-year goals, but take 10-minute actions. Think long. Act now.
 
 ---
 
