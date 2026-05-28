@@ -1,11 +1,21 @@
 ---
 title: You are what you eat
-modified: 2026-05-14
+modified: 2026-05-28
 ---
 
 > “Let food be thy medicine and medicine be thy food.” — Hippocrates [^1]
 
 > “The food you eat can be either the greatest form of medicine or the slowest form of poison.” — Ann Wigmore
+
+> “Eating what stands on one leg [mushrooms and plant foods] is better than eating what stands on two legs [fowl], which is better than eating what stands on four legs [cows, pigs, and other mammals].” — Michael Pollan, [Food Rules: An Eater’s Manual](https://www.goodreads.com/work/quotes/7261546)
+
+> “Don’t eat anything your great-grandmother wouldn’t recognize as food.” — Michael Pollan, [Food Rules: An Eater’s Manual](https://www.goodreads.com/work/quotes/7261546)
+
+> “As grandmothers used to say, ‘Better to pay the grocer than the doctor.’” — Michael Pollan, [Food Rules: An Eater’s Manual](https://www.goodreads.com/work/quotes/7261546)
+
+> “Avoid food products that contain more than five ingredients.” — Michael Pollan, [Food Rules: An Eater’s Manual](https://www.goodreads.com/work/quotes/7261546)
+
+> “Avoid food products containing ingredients that no ordinary human would keep in the pantry. Ethoxylated diglycerides? Cellulose? Xanthan gum? Calcium propionate? Ammonium sulfate? If you wouldn’t cook with them yourself, why let others use these ingredients to cook for you?” — Michael Pollan, [Food Rules: An Eater’s Manual](https://www.goodreads.com/work/quotes/7261546)
 
 ---
 
