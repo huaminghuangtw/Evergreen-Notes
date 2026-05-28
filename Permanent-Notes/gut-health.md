@@ -1,6 +1,6 @@
 ---
-title: gut health
-modified: 2026-04-30
+title: Gut Health
+modified: 2026-05-28
 ---
 
 # Goals
@@ -15,11 +15,11 @@ modified: 2026-04-30
 
 ---
 
-# 腸腦軸
+# 腸腦軸線
 
 = [Gut-Brain Axis](https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis)
 
-* connected by vagus nerve (迷走神經)
+* connected by Vagus Nerve (迷走神經)
 * [腸道菌對於我們的情緒影響深遠，補充腸道菌可有效降低焦慮](https://www.scitw.cc/posts/20250206-17884)
 
 ---
