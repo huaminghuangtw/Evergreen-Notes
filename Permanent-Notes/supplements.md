@@ -1,6 +1,10 @@
 ---
 title: Supplements
-modified: 2026-04-09
+modified: 2026-05-28
+---
+
+> “Be the kind of person who takes supplements, then skip the supplements.” — Michael Pollan, [Food Rules: An Eater’s Manual](https://www.goodreads.com/work/quotes/7261546)
+
 ---
 
 Effervescent Tablets (發泡錠)
