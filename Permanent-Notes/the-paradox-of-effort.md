@@ -1,11 +1,11 @@
 ---
-title: "The Paradox of Effort"
-modified: 2026-05-20
+title: The Paradox of Effort
+modified: 2026-05-28
 ---
 
 > “If people knew how hard I worked to get my mastery, it wouldn’t seem so wonderful at all.” — Michelangelo
 
-The paradox of effort is that the more seamless and natural an achievement looks, the more unseen work has gone into it. Effortless, elegant performances are often the result of a large volume of effortful, gritty practice. You have to put in more effort to make something appear effortless.
+The paradox of effort is that the more seamless and natural an achievement looks, the more unseen work has gone into it. <mark>Effortless, elegant performances are often the result of a large volume of effortful, gritty practice. You have to put in more effort to make something appear effortless.</mark>
 
 This principle applies across disciplines. In sports, the “easy” shot is the result of thousands of repetitions. In art, a simple line or brushstroke is backed by years of study and failed attempts. In public speaking, a relaxed delivery is built on countless rehearsals and feedback sessions. The underlying reality is hours—sometimes years—of [deliberate, focused practice](deliberate-practice.md).
 
