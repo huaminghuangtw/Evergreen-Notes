@@ -61,7 +61,7 @@ Life unfolds in ways you can’t predict.
 
 ---
 
-[The Chinese Farmer Parable](the-chinese-farmer-parable.md)
+[The Chinese Farmer Parable](the-parable-of-chinese-farmer-parable.md)
 
 ---
 
