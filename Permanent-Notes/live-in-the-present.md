@@ -1,6 +1,6 @@
 ---
 title: Live in the present
-modified: 2026-05-22
+modified: 2026-05-28
 ---
 
 > “Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why we call it the present” — Eleanor Roosevelt
@@ -52,6 +52,8 @@ Here & Now
 用「[一期一會](https://www.google.com/search?q=一期一會)」的態度，去珍惜並專注於眼前的每一個瞬間。
 
 ---
+
+# 現在即永恆
 
 珍惜現在，活在當下：「除了此時此刻，我們一無所有。」
 
