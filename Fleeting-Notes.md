@@ -1,5 +1,5 @@
 ---
-modified: 2026-05-21
+modified: 2026-05-27
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -263,7 +263,6 @@ CERN is the European Organization for Nuclear Research and the birthplace of the
 
 $44
 
-
 ---
 
 “Several things dovetailed in my mind, & at once it struck me, what quality went to form a Man of Achievement especially in Literature & which Shakespeare possessed so enormously — I mean Negative Capability, that is when man is capable of being in uncertainties, mysteries, doubts, without any irritable reaching after fact & reason.“
@@ -271,10 +270,13 @@ $44
 ”Be patient toward all that is unsolved in your heart and try to love the questions themselves, like locked rooms and like books that are written in a very foreign tongue. Do not now seek the answers, which cannot be given you because you would not be able to live them. And the point is, to live everything. Live the questions now. Perhaps you will then gradually, without noticing it, live along some distant day into the answer.“
 
 In his wonderful new book, How to Not Know, author Simone Stolzoff breaks down three certainty traps that we all fall into:
-Comfort: The desire to stay where it's safe.
+
+Comfort: The desire to stay where it’s safe.
+
 Hubris: The belief that we know best.
+
 Control: The obsession with planning to perfection.
 
-”Embracing discomfort allows us to transform anxiety into openness. Admitting what we don't know transforms hubris into humility. And relinquishing control transforms rigidity into acceptance."
+”Embracing discomfort allows us to transform anxiety into openness. Admitting what we don’t know transforms hubris into humility. And relinquishing control transforms rigidity into acceptance.”
 
 “In a world full of people who seem to know everything, passionately, based on little (often slanted) information, where certainty is often mistaken for power, what a relief it is to be in the company of someone confident enough to stay unsure (that is, perpetually curious).” — George Saunders
