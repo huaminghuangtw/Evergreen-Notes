@@ -1,6 +1,6 @@
 ---
 title: Journey over destination
-modified: 2026-05-20
+modified: 2026-05-28
 ---
 
 > “To travel is to be alive, but to get somewhere is to be dead.” — Alan Watts
@@ -62,6 +62,7 @@ Focus on the [happiness](happiness.md) of pursuit, not the pursuit of happiness.
 * Becoming is better than being.
 * Having things isn’t fun. Getting things is fun.
 * The pleasure of anticipation is often greater than the pleasure of acquisition.
+* The happiness is not in the _having_, but in the _becoming_.
 
 ---
 
