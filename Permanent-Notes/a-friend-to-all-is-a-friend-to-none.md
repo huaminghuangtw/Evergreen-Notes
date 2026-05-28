@@ -1,7 +1,9 @@
 ---
 title: A friend to all is a friend to none
-modified: 2026-05-26
+modified: 2026-05-28
 ---
+
+> “When the character of a man is not clear to you, look at his friends.” — Japanese proverb
 
 > “A true friend never gets in your way unless you happen to be going down.” — Arnold H. Glasow
 
