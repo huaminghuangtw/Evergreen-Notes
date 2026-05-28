@@ -1,5 +1,5 @@
 ---
-title: "Maslow’s Hierarchy of Needs"
+title: Maslow’s Hierarchy of Needs
 modified: 2026-04-10
 ---
 
