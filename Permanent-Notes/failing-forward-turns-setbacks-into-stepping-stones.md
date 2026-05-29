@@ -1,6 +1,6 @@
 ---
 title: Failing forward turns setbacks into stepping stones
-modified: 2026-05-16
+modified: 2026-05-29
 ---
 
 > “A stumble may prevent a fall.” — Gretchen Rubin
@@ -31,10 +31,6 @@ You don’t have to get it right the first time. Just fail faster.
 
 **Failing Forward:** If you want to _win_, you have to _lose_ first. All _success_ begins with _failure_.
 
-| ![](https://images.squarespace-cdn.com/content/v1/5d15594116124000014ec5aa/1633901635350-O2O70CHYZI3NC57RJT02/lizfossliensuccessandfailure.png?format=1000w) |
-| :-: |
-| <sub>Source: [Liz Fosslien](https://www.fosslien.com/images#/liz-fosslien-success-and-failure)</sub> |
-
 > “One fails forward toward success.” — Charles Kettering
 
 > “Failure is the highway to success.” — Og Mandino
@@ -49,7 +45,7 @@ You don’t have to get it right the first time. Just fail faster.
 
 > “When you double your rate of failure you double your rate of success.” — James Swanwick
 
-> [“Legends aren’t defined by their success, they’re defined by how they bounce back from their failures.” — Chris Bosh](https://www.youtube.com/shorts/Hkd-7zUxQaA)
+> [“Legends aren’t defined by their success, they’re defined by how they bounce back from their failures.” — Chris Bosh](https://youtu.be/naCn_91SuVU?t=3m14s)
 
 * Failure is not the opposite of success, it’s part of success. Failure is success in progress.
 * Success comes from turning _setbacks_ into _comebacks_.
@@ -63,7 +59,7 @@ You don’t have to get it right the first time. Just fail faster.
 >
 > **Innovation needs failure.** All progress is built on learning from past failures and mistakes. The museum provides unique insight into the tricky business of innovation.
 
-> 「失敗是創新的必要條件 — 沒有足夠的失敗，就沒有真正的創造力。」
+> 失敗是創新的必要條件 — 沒有足夠的失敗，就沒有所謂的創造力。
 
 ---
 
