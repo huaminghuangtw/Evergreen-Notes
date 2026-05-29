@@ -1,6 +1,6 @@
 ---
 title: How to know when to end a relationship?
-modified: 2026-04-10
+modified: 2026-05-28
 ---
 
 # Good questions to ask yourself
