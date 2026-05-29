@@ -1,6 +1,6 @@
 ---
 title: Life is cyclic
-modified: 2026-05-28
+modified: 2026-05-29
 ---
 
 > “Life is like a wheel. Sooner or later, it always comes around to where you started again.” — Stephen King
@@ -29,13 +29,15 @@ modified: 2026-05-28
 
 ---
 
-你可以什麼都不信，但一定要相信週期。這世間萬物，無非是因果和週期。高高在上的東西，總有一天會跌落神壇；沈潛低谷的東西，有一天也會重見天日。
+你可以什麼都不信，但一定要相信週期。這世間萬物，無非是因果和週期。高高在上的東西，有一天會跌落神壇；沉潛低谷的東西，有一天也會重見天日。
 
 ---
 
 [Life is a rollercoaster. Just gotta ride it.](https://youtu.be/MpBTTlXzuGY) Enjoy the ride!
 
 ---
+
+# 有時綻放果實，有時修剪舊枝，有時深耕土壤
 
 Some seasons you produce fruit, some seasons you prune, and some seasons you let your roots grow deep.
 
@@ -47,7 +49,7 @@ Some seasons you produce fruit, some seasons you prune, and some seasons you let
 
 # Kalachakra
 
-* = The Wheel of Time/History = The Cyclicality/Seasonality of Life)
+* = The Wheel of Time/History = The Cyclicality/Seasonality of Life
 * Time goes through a natural three-part cycle:
 	1. Creation (growth)
 	2. Destruction (struggle, valley of stagnation)
