@@ -1,6 +1,6 @@
 ---
-title: Two Wolves: Dark Wolf & Light Wolf
-modified: 2026-03-23
+title: 'Two Wolves: Dark Wolf & Light Wolf'
+modified: 2026-05-28
 ---
 
 A grandfather takes his grandson on a walk to share his wisdom for life.
