@@ -1,6 +1,6 @@
 ---
 title: Love
-modified: 2026-05-14
+modified: 2026-05-30
 ---
 
 > “Love is the absence of judgment.” — Dalai Lama
@@ -24,6 +24,8 @@ modified: 2026-05-14
 > Pooh: You don’t spell it. You feel it.
 
 > “Love does not claim possession, but gives freedom.” — Rabindranath Tagore
+
+> “The near enemy of love is attachment. Attachment masquerades as love. It says, ‘I will love this person (because I need something from them).’ Or, ‘I’ll love you if you’ll love me back. I’ll love you, but only if you will be the way I want.’ This isn’t the fullness of love. Instead, there is attachment. There is clinging and fear. True love allows, honors, and appreciates; attachment grasps, demands, needs, and aims to possess.” — Jack Kornfield
 
 > [“Love is the outreach of self toward completion.” — Ralph W. Sockman](https://www.brainyquote.com/quotes/ralph_w_sockman_113905)
 
