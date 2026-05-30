@@ -1,6 +1,6 @@
 ---
 title: Courage is knowing what not to fear
-modified: 2026-04-30
+modified: 2026-05-30
 ---
 
 > [“Success is not final, failure is not fatal: it is the courage to continue that counts.” — Winston Churchill](https://youtu.be/uuxMZL6ieWM)
@@ -32,6 +32,8 @@ modified: 2026-04-30
 > “Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day whispering, ‘I will try again tomorrow.’” — Mary Anne Radmacher
 
 > “[When do I know I’m Spider-Man? You won’t. That’s all it is, Miles. A leap of faith.](https://youtu.be/yoS74R-qKIY)” — Peter Parker, [Spider-Man: Into the Spider-Verse](https://www.imdb.com/title/tt4633694/) (2018 film)
+
+> “I don’t know what is going to happen next year, no one does. But that’s OK. I can handle it, I decide. It’s just a harder gear, and I am ready. All I have to do is take a deep breath and ride.” — Meg Medina, [Merci Suárez Changes Gears](https://www.goodreads.com/work/quotes/50140884)
 
 ---
 
