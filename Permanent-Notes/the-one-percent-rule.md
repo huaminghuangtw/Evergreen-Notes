@@ -1,6 +1,6 @@
 ---
 title: The One Percent Rule
-modified: 2026-04-24
+modified: 2026-05-30
 ---
 
 > “Tend to the small things. More people are defeated by blisters than by mountains.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
@@ -12,6 +12,8 @@ $1.00^{365} = 1.00$ vs $1.01^{365} = 37.8$
 ---
 
 # “The Mamba Mentality” by Kobe Bryant
+
+非洲草原毒蛇「黑曼巴」
 
 > Try to get 1% better at what your are doing every single day.
 
