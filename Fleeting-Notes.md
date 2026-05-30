@@ -280,3 +280,8 @@ Control: The obsession with planning to perfection.
 ”Embracing discomfort allows us to transform anxiety into openness. Admitting what we don’t know transforms hubris into humility. And relinquishing control transforms rigidity into acceptance.”
 
 “In a world full of people who seem to know everything, passionately, based on little (often slanted) information, where certainty is often mistaken for power, what a relief it is to be in the company of someone confident enough to stay unsure (that is, perpetually curious).” — George Saunders
+
+
+---
+
+[Continuous partial attention](https://sketchplanations.com/continuous-partial-attention)
