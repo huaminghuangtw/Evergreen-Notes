@@ -1,9 +1,11 @@
 ---
 title: Be Grateful
-modified: 2026-05-26
+modified: 2026-05-30
 ---
 
 #NEWSLETTER
+
+> “We are all a great deal luckier that we realize, we usually get what we want - or near enough.” — Roald Dahl, Charlie and the Chocolate Factory
 
 > “Gratitude isn’t all about what’s going right. It’s about finding a little light in this moment we’re in.” — Mary Davis
 
