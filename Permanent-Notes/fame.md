@@ -1,6 +1,6 @@
 ---
 title: Fame
-modified: 2026-04-28
+modified: 2026-05-30
 ---
 
 > “Uneasy lies the head that wears a crown.” — William Shakespeare
@@ -8,6 +8,8 @@ modified: 2026-04-28
 > “You want to be rich and anonymous, not poor and famous.” — Naval Ravikant
 
 > [“It’s better that it’s earned fame. The fame you get by serving others is an earned fame which give you respect.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)
+
+> “Popular is even weirder. Turns out, it’s not the same thing as having friends at all.” — Meg Medina, [Merci Suárez Changes Gears](https://www.goodreads.com/work/quotes/50140884)
 
 ---
 
