@@ -1,6 +1,6 @@
 ---
 title: Failing forward turns setbacks into stepping stones
-modified: 2026-05-29
+modified: 2026-05-30
 ---
 
 > “A stumble may prevent a fall.” — Gretchen Rubin
@@ -29,7 +29,9 @@ You don’t have to get it right the first time. Just fail faster.
 
 ---
 
-**Failing Forward:** If you want to _win_, you have to _lose_ first. All _success_ begins with _failure_.
+# Failing Forward
+
+If you want to _win_, you have to _lose_ first. All _success_ begins with _failure_.
 
 > “One fails forward toward success.” — Charles Kettering
 
@@ -50,6 +52,10 @@ You don’t have to get it right the first time. Just fail faster.
 * Failure is not the opposite of success, it’s part of success. Failure is success in progress.
 * Success comes from turning _setbacks_ into _comebacks_.
 * 失敗是成功的近義詞。成功的反義詞不是失敗，而是 [平庸](the-fight-against-normalcy.md)。
+
+---
+
+不經一事，不長一智。
 
 ---
 
