@@ -1,6 +1,6 @@
 ---
 title: The most productive people prioritize intentional rest
-modified: 2026-05-03
+modified: 2026-05-31
 ---
 
 > “Rest until you feel like playing, then play until you feel like resting.” — Martha Beck
@@ -91,7 +91,7 @@ proposed by [Dr. Saundra Dalton-Smith](https://www.drdaltonsmith.com/)
 
 ---
 
-**Fika** is a cherished Swedish tradition of taking a break—usually once or twice a day—to enjoy coffee and a light snack like pastries or sandwiches, often in the company of others. More than just a coffee break, fika emphasizes slowing down, connecting with people, and creating a moment of calm and joy in daily life. It’s deeply embedded in Swedish culture, including workplace routines, and reflects values of balance, mindfulness, and community.
+**Fika** is a cherished Swedish tradition of taking a break—usually once or twice a day—to enjoy coffee and a light snack like pastries or sandwiches, often in the company of others. More than just a coffee break, fika emphasizes slowing down, connecting with people, and creating a moment of calm and joy in daily life. It’s deeply embedded in Swedish culture, including workplace routines.
 
 ---
 
