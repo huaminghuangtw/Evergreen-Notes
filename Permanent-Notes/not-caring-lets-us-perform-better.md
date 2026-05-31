@@ -1,6 +1,6 @@
 ---
 title: Not caring lets us perform better
-modified: 2026-04-30
+modified: 2026-05-31
 ---
 
 > “If you aim at nothing, you will hit it every time.” — Zig Ziglar
@@ -51,6 +51,30 @@ In this frame, the ideal combination to minimize or remove self-interference is 
 * If you were approaching a difficult project at work sincerely rather than seriously, you might focus on the process of completing each task, rather than becoming fixated on the end result. You might also seek out the input and collaboration of others, rather than trying to tackle the project on your own. By doing these things, you may find that it’s easier to approach it in the spirit of play, and that you’re better able to stay focused and motivated throughout.
 * If you were approaching a job interview sincerely rather than seriously, then instead of becoming overly nervous and stressed about the outcome, you might focus on being present and engaged. You might also try to connect with the interviewer on a more personal level, rather than simply trying to impress them with your credentials. By doing so, you might be more likely to approach the interview with lightness and ease, and to come away from the interview feeling more confident and satisfied with your performance.
 * If you were approaching writing a book sincerely rather than seriously, you might decide to throw a detailed homage to World of Warcraft into the very first chapter - illustrating to your future readers that even when creating something as significant as your first book, you can treat the process with levity. By doing so, you’d hopefully help the text create a sense of fun, even while holding forth on the science of productivity.
+
+---
+
+[Kobe played to learn.](https://www.instagram.com/reel/DTy_RfKgNeW/?hl=en)
+
+To figure things out.
+
+To stay centered.
+
+When you find that middle ground — dead center — you’re no longer pulled by outcomes, expectations, or pressure.
+
+You stay present.
+
+You stay connected.
+
+You compete freely.
+
+That’s real confidence.
+
+Not chasing wins.
+
+Not avoiding losses.
+
+But being fully locked into what’s in front of you.
 
 ---
 
