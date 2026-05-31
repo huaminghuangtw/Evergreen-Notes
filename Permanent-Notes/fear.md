@@ -1,6 +1,6 @@
 ---
 title: Fear
-modified: 2026-05-19
+modified: 2026-05-31
 ---
 
 > “Danger is real, fear is a choice” — Will Smith
@@ -40,6 +40,12 @@ If you want something, do it. If you want something, but you’re scared, do it 
 | ![](https://ozo.art/_next/image?url=%2F2-options.png&w=3840&q=75) |
 | :-: |
 | <sub>Source: [Janis Ozolins](https://ozo.art/)</sub> |
+
+---
+
+F.E.A.R. = False Expectations Appearing Real
+
+> Fear is just false evidence appearing real.
 
 ---
 
