@@ -1,6 +1,6 @@
 ---
 title: Quit social media
-modified: 2026-05-20
+modified: 2026-06-01
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -55,6 +55,10 @@ The goal of social media is to make every problem, your problem.
 
 ---
 
+生活有兩大誤區：一是生活給人看，二是看別人生活。
+
+---
+
 Social media is a highly judgmental space. What you see there is merely a curated highlight reel—a _second reality_ that doesn’t tell the full story of people’s behind-the-scenes lives.
 
 ---
@@ -72,7 +76,7 @@ Social media content, which offers a quick, easily accessible way that makes you
 
 Social media is a complete waste of time. These platforms routinely lead to anxiety, isolation and unhappiness across all ages.
 
-* 社群媒體並無法消除寂寞感，只會再疊加一層焦慮感。
+> 社群媒體並無法消除寂寞感，只會再疊加一層焦慮感。
 
 ---
 
@@ -162,11 +166,15 @@ If you were to reduce screen time—especially social media—by just one hour p
 
 ---
 
+[Humblebrag](humblebrag.md)
+
+---
+
 [BS Asymmetry Principle](bs-asymmetry-principle.md)
 
 ---
 
-[news-sobriety](news-sobriety.md)
+[News Sobriety](news-sobriety.md)
 
 ---
 
