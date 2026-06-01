@@ -1,6 +1,6 @@
 ---
 title: The Art of Quitting
-modified: 2026-04-30
+modified: 2026-06-01
 ---
 
 > “I am as proud of what we don’t do as I am of what we do.” — Steve Jobs
@@ -101,6 +101,7 @@ Embrace the rare [ability to start over](https://www.youtube.com/shorts/H7dxy-CW
 			* 工作問題，一律建議離職
 			* 感情問題，一律建議分手
 		* Why？你會問這個問題，代表你正在猶豫不決、躊躇不前
+	* 人生沒有最好的選擇，只有在選擇之後，做到最好。
 
 ---
 
