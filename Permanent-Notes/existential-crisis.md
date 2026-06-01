@@ -1,6 +1,6 @@
 ---
 title: Existential Crisis
-modified: 2026-03-21
+modified: 2026-06-01
 ---
 
 > “Man is condemned to be free; because once thrown into the world, he is responsible for everything he does.” — Jean-Paul Sartre
@@ -11,7 +11,7 @@ modified: 2026-03-21
 
 = Existential Angst = 存在主義危機
 
-# What is an Existential Crisis?
+---
 
 An existential crisis is a period of deep questioning about the meaning, purpose, and value of life. It often arises when individuals confront the fundamental uncertainties of existence, such as freedom, isolation, and [mortality](death.md).
 
