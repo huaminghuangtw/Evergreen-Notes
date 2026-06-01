@@ -1,9 +1,9 @@
 ---
 title: Confidence comes from preparation
-modified: 2026-05-29
+modified: 2026-05-31
 ---
 
-> “Confidence comes from [preparation](planning-and-preparation-help-maximize-your-productivity.md). When the game is on the line, I’m not asking myself to do something I haven’t done thousands of times before. In those moments, if I look like ice-cold or not nervous, it’s because I’ve done it thousands of times before. So it’s just one more time.” — Kobe Bryant
+> “Confidence comes from [preparation](planning-and-preparation-help-maximize-your-productivity.md). When the game is on the line, I’m not asking myself to do something I haven’t done thousands of times before. In those moments, if I look ice-cold or not nervous, it’s because I’ve done it thousands of times before. So it’s just one more time.” — Kobe Bryant
 
 > “Nothing wins more often than superior preparation. Genius is usually preparation.” — Kekich Credo
 
