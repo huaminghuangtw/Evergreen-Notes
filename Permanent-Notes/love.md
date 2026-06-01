@@ -1,6 +1,6 @@
 ---
 title: Love
-modified: 2026-05-30
+modified: 2026-06-01
 ---
 
 > “Love is the absence of judgment.” — Dalai Lama
@@ -180,6 +180,10 @@ Find a partner who believes in you more than you believe in yourself.
 ---
 
 愛對了是愛情，愛錯了是青春！
+
+---
+
+> 「愛人是一種能力，被愛是一種天賦。」—《六弄咖啡館》
 
 ---
 
