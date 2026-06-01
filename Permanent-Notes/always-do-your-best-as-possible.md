@@ -1,6 +1,6 @@
 ---
 title: Always do your best as possible
-modified: 2026-05-27
+modified: 2026-06-01
 ---
 
 > “Inspire yourself to be great. Being good isn’t good enough.” — Gurbaksh Chahal
@@ -97,6 +97,10 @@ Quality over Quantity. Depth over Width.
 > 全心投入、傾注靈魂與熱情去做一件事。
 
 具體來說，當一個人用「愛、創意與熱忱」完成某件事（無論是工作、料理、寫作或教學）時，就展現了 Meraki 的精神。
+
+---
+
+人生沒有最好的選擇，只有在選擇之後，做到最好。
 
 ---
 
