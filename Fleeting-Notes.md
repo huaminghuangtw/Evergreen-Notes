@@ -284,3 +284,20 @@ Control: The obsession with planning to perfection.
 ---
 
 [Continuous partial attention](https://sketchplanations.com/continuous-partial-attention)
+
+
+---
+
+The Pratfall Effect [the-effect-of-a-pratfall-on-increasing-interpersonal-23g7yls10f](https://scispace.com/pdf/the-effect-of-a-pratfall-on-increasing-interpersonal-23g7yls10f.pdf)
+
+Competent people become more likable when they reveal small, harmless flaws.
+
+
+---
+
+「相濡以沫，不如相忘於江湖。」—《莊子·大宗師》
+與其在困境中彼此勉強相依（相濡以沫），不如各自回到廣闊的江河湖海中，自由自在地生活，彼此相忘。
+
+---
+
+The “Golden Algorithm” is a behavioral and emotional framework popularized by performance coach Joe Hudson. It describes a recurring psychological trap: the things we actively try to avoid are often the very things we inadvertently invite into our lives in our attempts to escape them.
