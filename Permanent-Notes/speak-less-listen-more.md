@@ -1,6 +1,6 @@
 ---
 title: Speak less, listen more
-modified: 2026-05-23
+modified: 2026-06-01
 ---
 
 > [“Shallow rivers are noisy. Deep lakes are silent.” — Derek Sivers](https://sive.rs/h)
@@ -65,6 +65,8 @@ Speak confidently. [Listen](active-listening.md) carefully.
 ---
 
 # Think Before You SPEAK(, And Read Before You THINK.)
+
+> “Words, once spoken, cannot be taken back - their impact, whether healing or hurtful, lingers. That’s why <mark>it’s so important to pause and think before we speak.</mark> A moment of mindfulness can prevent a lifetime of regret. Skillful speech begins with this awareness.” — An Offbeat
 
 > “If it is not right, do not do it; if it is not true, do not say it.” — Marcus Aurelius
 
