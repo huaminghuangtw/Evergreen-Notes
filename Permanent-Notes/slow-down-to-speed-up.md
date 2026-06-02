@@ -1,6 +1,6 @@
 ---
 title: Slow down to speed up
-modified: 2026-05-20
+modified: 2026-06-02
 ---
 
 [@ferriss4hourWorkweekEscape2011]
@@ -46,6 +46,10 @@ There’s never enough time to do it right but there’s plenty of time to do it
 ---
 
 心急吃不了熱豆腐
+
+---
+
+慢慢來，比較快。
 
 ---
 
