@@ -1,6 +1,6 @@
 ---
 title: Meditation
-modified: 2026-05-25
+modified: 2026-06-02
 ---
 
 > “Meditation is all about the pursuit of nothingness. It’s like the ultimate rest. It’s better than the best sleep you’ve ever had. It’s a quieting of the mind. It sharpens everything, especially your appreciation of your surroundings. It keeps life fresh.” — Hugh Jackman
@@ -14,6 +14,8 @@ modified: 2026-05-25
 > “Meditation is the way in which we come to feel our basic inseparability from the whole universe.” — Alan Watts
 
 > “All of humanity’s problems stem from man’s inability to sit quietly in a room alone.” — Blaise Pascal
+
+> “One conscious breath in and out is a meditation.” — Eckhart Tolle
 
 ---
 
