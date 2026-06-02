@@ -1,13 +1,11 @@
 ---
 title: How to optimize hydration
-modified: 2026-05-20
+modified: 2026-06-02
 ---
 
 When exercising, follow the [Galpin Equation](https://youtu.be/q37ARYnRDGc?t=2989s) as a guideline for the amount of **additional** fluid you should consume
 
 # The Galpin Equation
-
-#NEWSLETTER
 
 * Body weight (in lbs.) divided by 30 = number of ounces to consume every 15–20 minutes
 * Body weight (in kg.) × 2 = number of mL to consume every 15–20 minutes
