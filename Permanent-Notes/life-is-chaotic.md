@@ -1,6 +1,6 @@
 ---
 title: Life is chaotic
-modified: 2026-04-24
+modified: 2026-06-02
 ---
 
 > “A vacation + a disaster = an adventure.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
@@ -50,6 +50,19 @@ Problems are a feature of life, not a bug. There will never come a time when you
 > “No amount of sophistication is going to allay the fact that all your knowledge is about the past and all your decisions are about the future.” — Ian Wilson
 
 Life is uncertain, but you have to [act](cultivate-a-strong-bias-towards-action.md) anyway.
+
+---
+
+# [The VUCA Framework](https://www.google.com/search?q=The+Vuca+Framework)
+
+VUCA stands for Volatility, Uncertainty, Complexity and Ambiguity.
+
+In his book _Leaders Make the Future_, futurist [Vuca](https://www.google.com/search?q=Vuca) provides counterpoints to each that leaders can use:
+
+* Volatility yields to _Vision_
+* Uncertainty yields to _Understanding_
+* Complexity yields to _Clarity_
+* Ambiguity yields to _Agility_
 
 ---
 
