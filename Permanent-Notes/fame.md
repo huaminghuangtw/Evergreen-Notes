@@ -1,6 +1,6 @@
 ---
 title: Fame
-modified: 2026-05-30
+modified: 2026-06-02
 ---
 
 > “Uneasy lies the head that wears a crown.” — William Shakespeare
@@ -52,6 +52,12 @@ Less eyes on you = more freedom
 ---
 
 高處不勝寒
+
+---
+
+# 家有黃金，外有戥（ㄉㄥˇ）秤
+
+「戥秤」是用來稱量金、銀或貴重藥材等微小單位的精密小秤。這句話比喻「群眾的眼睛是雪亮的」或「紙包不住火」，鄰里對你家的經濟狀況、財產或收入往往心中有數，常用來勸人腳踏實地、坦蕩做人，不要虛張聲勢或刻意裝窮。
 
 ---
 
