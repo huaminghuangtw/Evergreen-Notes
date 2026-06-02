@@ -1,6 +1,6 @@
 ---
 title: Nonchalant
-modified: 2026-06-01
+modified: 2026-06-02
 ---
 
 Nonchalance is often misunderstood as [apathy](have-the-courage-to-do-the-right-things.md) or [lack of care](not-caring-lets-us-perform-better.md), but in its mature form, it is a sign of deep self-assurance and trust in the flow of life. A nonchalant person is not disengaged; rather, they are so grounded that external events do not easily shake their [inner peace](peace-from-mind.md).
@@ -9,7 +9,7 @@ For example, athletes and performers often speak of being “[in the zone,](flow
 
 In relationships, nonchalance can foster healthier dynamics. When we are not desperate for approval or control, we create space for authentic connection.
 
-Cultivating nonchalance involves practices such as mindfulness, [meditation](meditation.md), and [self-reflection](reflect-and-review.md). By observing our thoughts and emotions [without attachment](dispel-your-narratives.md), we learn to respond rather than react. Over time, this builds [resilience](resilience.md) and a quiet confidence that radiates outward.
+Cultivating nonchalance involves practices such as mindfulness, [meditation](meditation.md), and [self-reflection](reflect-and-review.md). By observing our thoughts and emotions [without attachment](dispel-your-narratives.md), we learn to [respond rather than react](choose-your-response.md). Over time, this builds [resilience](resilience.md) and a quiet confidence that radiates outward.
 
 ---
 
