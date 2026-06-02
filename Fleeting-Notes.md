@@ -1,5 +1,5 @@
 ---
-modified: 2026-05-30
+modified: 2026-06-01
 ---
 
 Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
@@ -285,17 +285,16 @@ Control: The obsession with planning to perfection.
 
 [Continuous partial attention](https://sketchplanations.com/continuous-partial-attention)
 
-
 ---
 
 The Pratfall Effect [the-effect-of-a-pratfall-on-increasing-interpersonal-23g7yls10f](https://scispace.com/pdf/the-effect-of-a-pratfall-on-increasing-interpersonal-23g7yls10f.pdf)
 
 Competent people become more likable when they reveal small, harmless flaws.
 
-
 ---
 
 「相濡以沫，不如相忘於江湖。」—《莊子·大宗師》
+
 與其在困境中彼此勉強相依（相濡以沫），不如各自回到廣闊的江河湖海中，自由自在地生活，彼此相忘。
 
 ---
