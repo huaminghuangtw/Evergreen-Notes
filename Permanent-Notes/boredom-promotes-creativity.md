@@ -1,6 +1,6 @@
 ---
 title: Boredom promotes creativity
-modified: 2026-04-06
+modified: 2026-06-03
 ---
 
 [@talebBedProcrustesPhilosophical2016]
@@ -31,6 +31,8 @@ DMN is best known for being active when a person is not focused on the outside w
 
 * Our brain is a self-organizing system—default to creativity when it’s in a “wakeful resting state”—free of inputs/free to [wander](wander.md).
 * Creativity tends to arise in states of relaxation which are _preceded by a long period of focused deep thinking_.
+
+See also: [The Eureka Effect](the-eureka-effect.md)
 
 ---
 
