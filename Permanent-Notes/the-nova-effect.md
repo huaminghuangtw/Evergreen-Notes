@@ -1,9 +1,11 @@
 ---
 title: The Nova Effect
-modified: 2026-05-28
+modified: 2026-06-03
 ---
 
 > “You never know what worse luck your bad luck saved you from.” — Cormac McCarthy
+
+> “Remember that not getting what you want is sometimes a wonderful stroke of luck.” — Dalai Lama
 
 ---
 
