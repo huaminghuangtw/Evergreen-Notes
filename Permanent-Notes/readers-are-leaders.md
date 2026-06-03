@@ -1,6 +1,6 @@
 ---
 title: Leaders are readers
-modified: 2026-05-31
+modified: 2026-06-03
 ---
 
 > “Not all readers are leaders, but all leaders are readers.” — Harry S. Truman
@@ -112,6 +112,8 @@ Reading without [taking notes](note-taking.md) is [useless](https://x.com/neuran
 		3. 讓你內心激動或強烈共鳴的語句：「就是這個！」
 		4. 引發新想法、啟發新思路的概念
 		5. 簡潔有力的金句
+
+# Tangential Reading
 
 # [Incremental Reading](https://en.wikipedia.org/wiki/Incremental_reading)
 
