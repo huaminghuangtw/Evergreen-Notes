@@ -1,6 +1,6 @@
 ---
 title: Kindness
-modified: 2026-05-26
+modified: 2026-06-03
 ---
 
 > “Kindness is a language which the deaf can hear and the blind can see.” — Mark Twain
@@ -22,6 +22,8 @@ modified: 2026-05-26
 > “The smallest act of kindness is worth more than the greatest intention.” — Khalil Gibran
 
 > “There is no single act of greatness, just a series of small acts done with great passion or great love.” — Joe Dominguez, [Your Money or Your Life](https://www.goodreads.com/work/quotes/1509321)
+
+> “A gentle word, a kind look can work wonders.” — William Hazlitt
 
 ---
 
