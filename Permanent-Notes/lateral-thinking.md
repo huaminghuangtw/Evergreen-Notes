@@ -1,11 +1,13 @@
 ---
 title: Lateral Thinking
-modified: 2026-05-20
+modified: 2026-06-03
 ---
 
 > “The young man knows the rules, but the old man knows the exceptions.” — Oliver Wendell Holmes, Sr.
 
 > “The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.” — George Bernard Shaw
+
+> “Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.” — Albert Szent-Györgyi
 
 ---
 
