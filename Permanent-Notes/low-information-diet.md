@@ -46,4 +46,4 @@ Brainwash yourself with greatness.
 
 ---
 
-[BS Asymmetry Principle](bs-asymmetry-principle.md)
+[BS Asymmetry Principle](the-bs-asymmetry-principle.md)
