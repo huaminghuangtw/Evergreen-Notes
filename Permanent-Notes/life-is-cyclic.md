@@ -1,9 +1,11 @@
 ---
 title: Life is cyclic
-modified: 2026-05-29
+modified: 2026-06-04
 ---
 
 > “Life is like a wheel. Sooner or later, it always comes around to where you started again.” — Stephen King
+
+> “There are years that ask questions and years that answer.” — Zora Neale Hurston
 
 > “Nobody’s going to win all the time. On the highway of life you can’t always be in the fast lane.” — Haruki Murakami, [What I Talk About When I Talk About Running](https://www.goodreads.com/work/quotes/2475030)
 
