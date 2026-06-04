@@ -170,7 +170,7 @@ If you were to reduce screen time—especially social media—by just one hour p
 
 ---
 
-[BS Asymmetry Principle](bs-asymmetry-principle.md)
+[BS Asymmetry Principle](the-bs-asymmetry-principle.md)
 
 ---
 
