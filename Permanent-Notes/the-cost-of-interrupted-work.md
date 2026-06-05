@@ -1,6 +1,6 @@
 ---
 title: The Cost of Interrupted Work
-modified: 2026-05-26
+modified: 2026-06-05
 ---
 
 > [“Productivity depends on being able to juggle a lot of little details in short term memory all at once. Any kind of interruption can cause these details to come crashing down. When you resume work, you can’t remember any of the details (like local variable names you were using, or where you were up to in implementing that search algorithm) and you have to keep looking these things up, which slows you down a lot until you get back up to speed.” — Joel Spolsky](https://www.joelonsoftware.com/2000/04/19/where-do-these-people-get-their-unoriginal-ideas/)
@@ -21,9 +21,9 @@ modified: 2026-05-26
 
 ---
 
-#NEWSLETTER
-
 [@markCostInterruptedWork2008]
+
+<https://www.fastcompany.com/944128/worker-interrupted-cost-task-switching>
 
 It takes the brain an average of 23 minutes and 15 seconds to refocus after a distraction / an interruption, a phenomenon known as the **“cognitive switching penalty”**.
 
