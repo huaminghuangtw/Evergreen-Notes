@@ -1,9 +1,11 @@
 ---
 title: Problem Solving
-modified: 2026-04-30
+modified: 2026-06-05
 ---
 
 > “The important thing about a problem is not its solution, but the strength we gain in finding the solution.” — Seneca
+
+> “Problems cannot be solved with the same level of thinking that created them.” — Albert Einstein
 
 ---
 
