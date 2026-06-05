@@ -1,6 +1,6 @@
 ---
 title: Insight Learning vs Latent Learning
-modified: 2026-03-23
+modified: 2026-06-05
 ---
 
 |                | Insight Learning 頓悟學習                                                                                                      | Latent Learning 潛在學習                                                                                                 |
@@ -10,3 +10,8 @@ modified: 2026-03-23
 | **Example**    | [Wolfgang Kohler](https://www.google.com/search?q=Wolfgang+Kohler)’s chimpanzees suddenly joining sticks to reach a banana | Passenger learns a route by watching, later demonstrates when driving themselves later                               |
 | **Timing**     | Instantaneous, rapid, deliberate                                                                                           | Gradual, unreinforced, delayed demonstration                                                                         |
 | **TL; DR**     | Pondering until you figure out how to apply your knowledge                                                                 | Applying knowledge only when there is an incentive or need                                                           |
+
+* Insight learning = active restructuring + immediate demonstration
+* Latent learning = incidental acquisition + delayed demonstration
+
+Both are important. Insight learning helps us solve novel problems creatively, while latent learning allows us to acquire knowledge passively and apply it when needed. Understanding both can enhance our learning strategies and problem-solving abilities.
