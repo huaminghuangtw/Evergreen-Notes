@@ -1,6 +1,6 @@
 ---
 title: Push your limits
-modified: 2026-05-20
+modified: 2026-06-05
 ---
 
 > “Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot
@@ -194,10 +194,6 @@ As you move outside of your comfort zone, what was once the unknown and frighten
 ---
 
 [Fear of Failure](fear-of-failure-and-success.md)
-
----
-
-[The Swing by Robert Louis Stevenson](../../Brainfoodie/posts/the-swing-by-robert-louis-stevenson.md)
 
 [^1]: _“You must do the things you think you cannot do.” — Eleanor Roosevelt_
 [^2]: 最盲目的服從乃是奴隸們所僅存的唯一美德。
