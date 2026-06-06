@@ -1,6 +1,6 @@
 ---
 title: Goal Setting
-modified: 2026-04-07
+modified: 2026-06-06
 ---
 
 > “A goal is not always meant to be reached, it often serves simply as something to aim at.” — Bruce Lee
@@ -32,7 +32,9 @@ modified: 2026-04-07
 
 ---
 
-## The ABC Goal System (by Sahil Bloom)
+## [The ABC Goal System](https://www.sahilbloom.com/newsletter/the-abc-goal-system) (by Sahil Bloom)
+
+> Make sure you do the thing, but don’t worry about how much of the thing you do.
 
 * A Goal
 	* Most ambitious, perfect case.
@@ -41,8 +43,11 @@ modified: 2026-04-07
 	* Middle ground, base case.
 	* E.g., Hit your realistic, base case marathon time goal.
 * C Goal
-	* Minimum viable level, anything above zero compounds positively.
+	* Minimum viable level, [anything above zero compounds positively](always-start-small.md).
 	* E.g., Finish the race.
+	* Note: The C Goal should feel almost embarrassingly easy to achieve.
+
+On days when you feel great, you hit your A Goal. On days when you feel ok, you hit your B Goal. On days when you feel bad, you hit your C Goal.
 
 ## The MTO Goal Method
 
