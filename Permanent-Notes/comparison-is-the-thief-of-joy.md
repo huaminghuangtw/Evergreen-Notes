@@ -1,6 +1,6 @@
 ---
 title: Comparison is the thief of joy
-modified: 2026-04-24
+modified: 2026-06-06
 ---
 
 > ”Don’t bother just to be better than your contemporaries or predecessors. Try to be better than yourself.” — William Faulkner
@@ -12,6 +12,10 @@ modified: 2026-04-24
 > “Be your unapologetically weird self.” — Chris Sacca
 
 > “Don’t compare your inside to someone else’s outside.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
+
+> 「夫唯不爭，故天下莫能與之爭。」—《老子道德經》第二十二章
+>
+> Because he doesn’t compare himself with others, no one can compare with him.
 
 ---
 
@@ -28,6 +32,10 @@ If you want to compare yourself with someone else, study ultra-successful people
 ---
 
 Comparison is useful as a point and destructive as a loop.
+
+---
+
+Compete against yourself. Always look in.
 
 ---
 
