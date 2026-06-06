@@ -1,6 +1,6 @@
 ---
 title: Just get started
-modified: 2026-05-27
+modified: 2026-06-06
 ---
 
 > “Begin anywhere.” — John Cage
@@ -30,6 +30,8 @@ modified: 2026-05-27
 > “It’s a job that’s never started that takes the longest to finish.” — J.R.R. Tolkien
 
 > “Whatever you can do, or dream you can, begin it. Boldness has genius, power, and magic in it. Begin it now.” — Johann Wolfgang von Goethe
+
+> “The scariest moment is always just before you start. After that, things can only get better.” — Stephen King
 
 ---
 
@@ -121,7 +123,7 @@ See also: [The Goal-Gradient Effect](https://sketchplanations.com/goal-gradient-
 
 > “Begin now to be what you will be hereafter.” — St. Jerome
 
-> “The secret to getting ahead is getting started.” — Mark Twain
+> “The secret of getting ahead is getting started.” — Mark Twain
 
 > “The heaviest weight at the gym is the front door.” — Ed Latimore [^1]
 
