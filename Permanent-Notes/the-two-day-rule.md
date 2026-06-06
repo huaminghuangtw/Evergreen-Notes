@@ -1,6 +1,6 @@
 ---
 title: The Two-Day Rule
-modified: 2026-04-30
+modified: 2026-06-06
 ---
 
 ![](_attachments/3c8feaa5b5177879bf5a07e276913749.png)
@@ -36,4 +36,6 @@ Missing two days in a row is the start of a bad habit; Never do it.
 
 # [The Goal-Gradient Effect](https://sketchplanations.com/goal-gradient-effect)
 
-Don’t break the chain of continuity; Just show up.
+[@hullGoalgradientHypothesisMaze1932]
+
+Don’t break the chain of continuity; Just keep showing up.
