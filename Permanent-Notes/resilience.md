@@ -1,6 +1,6 @@
 ---
 title: Resilience
-modified: 2026-05-07
+modified: 2026-06-05
 ---
 
 > [“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)
@@ -57,7 +57,7 @@ Mental strength in a warrior’s mind. [@gogginsCantHurtMe2018]
 
 ---
 
-Every challenge is a reminder that you were brought into the world to do something that requires your [courage](courage-is-knowing-what-not-to-fear.md) to awaken.
+Every challenge is a reminder that you were brought into the world to do something that requires your [courage](courage-is-knowing-what-not-to-fear.md) to awaken. Your response to a challenge defines you more than the challenge itself.
 
 ---
 
