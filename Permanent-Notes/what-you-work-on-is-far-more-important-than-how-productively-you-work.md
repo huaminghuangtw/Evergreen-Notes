@@ -1,6 +1,6 @@
 ---
 title: What you work on is far more important than how productively you work
-modified: 2026-05-11
+modified: 2026-06-06
 ---
 
 > “It is not enough that we do our best; sometimes we must do what is required/necessary.” — Winston Churchill
@@ -20,6 +20,10 @@ modified: 2026-05-11
 > “We all want progress, but if you’re on the wrong road, progress means doing an about-turn and walking back to the right road; in that case, the man who turns back soonest is the most progressive.” — C.S. Lewis
 
 > “We like to view the world as linear, which is, I’m gonna put in 8 hours of work, I’m gonna get back 8 hours of output, right? It doesn’t work that way. Guy running the corner grocery store is working just as hard or harder than you and me. How much output is he getting? **What you do, who you do it with, and how you do it, are way more important than how hard you work.** Outputs are non-linear based on the **quality** of the work that you put in.” — Naval Ravikant
+
+---
+
+What you do matters, but _why_ you do it matters much more.
 
 ---
 
