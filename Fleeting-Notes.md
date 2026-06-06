@@ -1,13 +1,5 @@
 ---
-modified: 2026-06-01
----
-
-Lao Tzu, the ancient Chinese philosopher, on the overlap between respect and self-alignment:
-
-“When you are content to be simply yourself and don’t compare or compete, everybody will respect you.”
-
-Source: Paraphrased from the Tao Te Ching. The original translation reads closer to something like, “Because he doesn’t compare himself with others, no one can compare with him.”
-
+modified: 2026-06-06
 ---
 
 <https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/>
