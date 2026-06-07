@@ -1,6 +1,6 @@
 ---
 title: Just get started
-modified: 2026-06-06
+modified: 2026-06-07
 ---
 
 > “Begin anywhere.” — John Cage
@@ -30,6 +30,8 @@ modified: 2026-06-06
 > “It’s a job that’s never started that takes the longest to finish.” — J.R.R. Tolkien
 
 > “Whatever you can do, or dream you can, begin it. Boldness has genius, power, and magic in it. Begin it now.” — Johann Wolfgang von Goethe
+
+> “You can, you should, and if you’re brave enough to start, you will.” — Stephen King
 
 > “The scariest moment is always just before you start. After that, things can only get better.” — Stephen King
 
