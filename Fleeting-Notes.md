@@ -1,5 +1,5 @@
 ---
-modified: 2026-06-06
+modified: 2026-06-07
 ---
 
 <https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/>
@@ -67,19 +67,7 @@ When the interviewer pressed him, asking whether there were players who don’t,
 
 ---
 
-“How people treat you is their karma; how you react is yours.” — Wayne Dyer
-
----
-
 大腦是人體最耗能的器官，雖然僅佔總體重約 2%，卻消耗總能量的 20%
-
----
-
-Antifragile: Things That Gain From Disorder, author Nassim Taleb offered a sharp rebuke of the human tendency to gather more information at all costs (emphasis mine):
-
-“Data is now plentiful thanks to connectivity; and the share of spuriousness in the data increases as one gets more immersed into it. A not well discussed property of data: it is toxic in large quantities—even in moderate quantities…
-
-The more frequently you look at data, the more noise you are disproportionally likely to get (rather than the valuable part called the signal); hence the higher the noise to signal ratio…”
 
 ---
 
@@ -292,3 +280,13 @@ Competent people become more likable when they reveal small, harmless flaws.
 ---
 
 The “Golden Algorithm” is a behavioral and emotional framework popularized by performance coach Joe Hudson. It describes a recurring psychological trap: the things we actively try to avoid are often the very things we inadvertently invite into our lives in our attempts to escape them.
+
+
+---
+
+[Intellectual honesty](https://www.google.com/search?q=intellectual+honesty)
+
+
+---
+
+[The transparency paradox](https://sketchplanations.com/the-transparency-paradox)
