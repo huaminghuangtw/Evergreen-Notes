@@ -1,6 +1,6 @@
 ---
 title: Journaling
-modified: 2026-05-20
+modified: 2026-06-07
 ---
 
 > “Create an environment where you’re free to express what you’re afraid to express.” — Rick Rubin
@@ -82,7 +82,7 @@ E.g., feelings, emotions, thoughts, memories, special moments/occasions/events
 * “Shadow-Work Journaling (陰影日記)” by Keila Shaheen
 * “The 6 Minute Diary” by Dominik Spenst
 * “Morning Pages (晨間日記)” by Julia Cameron
-	* Three pages of unfiltered, longhand, and stream-of-conscious [free writing](https://en.wikipedia.org/wiki/Free_writing) (自由書寫).
+	* Three pages of unfiltered, longhand, and stream-of-conscious scribbling/[free writing](https://en.wikipedia.org/wiki/Free_writing) (自由書寫).
 	* About anything and everything that crosses your mind.
 * “Homework For Life” by Matthew Dicks
 	* Write down those “story-worthy” moments that happened during the day. Save the beautiful life memories. One day, those memories might save you.
