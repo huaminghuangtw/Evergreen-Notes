@@ -1,6 +1,6 @@
 ---
 title: News Sobriety
-modified: 2026-04-30
+modified: 2026-06-07
 ---
 
 > “If you don’t read the newspaper, you’re uninformed. If you read the newspaper, you’re misinformed.” — Mark Twain
@@ -26,6 +26,12 @@ Want to know more about the world? Turn off the news and go spend time in it.
 ---
 
 # Nassim Taleb’s “Noise Bottleneck”
+
+[@talebAntifragileThingsThat2016]
+
+> **Data is now plentiful thanks to connectivity; and the share of spuriousness in the data increases as one gets more immersed into it**. A not well discussed property of data: it is toxic in large quantities —even in moderate quantities.
+>
+> **The more frequently you look at data, the more noise you are disproportionally likely to get** (rather than the valuable part called the signal)**; hence the higher the noise to signal ratio**.
 
 * More data leads to a higher ratio of noise-to-signal
 * By consuming more, you end up knowing less about what’s actually going on.
