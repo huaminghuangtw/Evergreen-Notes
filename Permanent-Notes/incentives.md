@@ -1,6 +1,6 @@
 ---
 title: Incentives
-modified: 2026-04-30
+modified: 2026-06-07
 ---
 
 > “Show me the incentive, and I’ll show you the outcome.” — Charlie Munger
@@ -26,3 +26,7 @@ For example, if you have a vacation planned and need to make a 6am flight, you h
 > [“There’s nothing you can’t do if you want it bad enough.” — Danielle Sibarium, For Always](https://www.goodreads.com/quotes/516566-there-s-nothing-you-can-t-do-if-you-want-it-bad)
 
 * If you want a thing bad enough, you will always find a way to get it.
+
+---
+
+[Nudge Theory](nudge-theory.md)
