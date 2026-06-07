@@ -1,11 +1,11 @@
 ---
 title: The Daily Blueprint
-modified: 2026-04-30
+modified: 2026-06-07
 ---
 
 # 起床儀式（Early Morning Routine）
 
-* Thought-dumping & Brainstorming ideas with Paper and Pen (紙筆⾃由書寫)
+* Scribbling: Thought-dumping & Brainstorming ideas with Paper and Pen (紙筆⾃由書寫)
 	* 醒來後睜開眼，不馬上起身，繼續躺在床上，深呼吸，準備迎接醞釀一整晚的淺意識，這時，我會用紙筆開始寫下：
 		* 就寢和起床時間
 		* 任何靈感
