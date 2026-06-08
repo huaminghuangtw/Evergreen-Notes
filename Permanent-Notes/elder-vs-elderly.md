@@ -1,6 +1,12 @@
 ---
 title: Elder vs Elderly
-modified: 2026-03-23
+modified: 2026-06-08
+---
+
+> “Age is an issue of mind over matter. If you don’t mind, it doesn’t matter.” — Mark Twain
+
+> “Do not grow old, no matter how long you live. Never cease to stand like curious children before the great mystery into which we were born.” — Albert Einstein
+
 ---
 
 # Elder
