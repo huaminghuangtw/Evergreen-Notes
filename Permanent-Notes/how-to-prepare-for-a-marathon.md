@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-05-14
+modified: 2026-06-08
 ---
 
 > [“The work is behind the scene. Competition is the easy part.” — Usain Bolt](https://youtu.be/LEIxpcYukqc?t=113s) [^1]
@@ -182,15 +182,17 @@ is a highly effective, time-efficient workout designed to maximize aerobic capac
 * **Application:** Ideal for running, cycling, rowing, or [ski erg](https://www.google.com/search?q=ski+erg), and is often used to boost fitness in just 30–40 minutes.
 * **Progression:** It is crucial to perform a proper warm-up (e.g., 10 minutes) before starting the first 4-minute interval.
 
+# Goal-Pace Workout
+
+> Remember the joke about the tourist asking a native New Yorker how to get to [Carnegie Hall](https://www.google.com/maps?q=Carnegie+Hall)? “Practice, practice, practice” is the smart-aleck reply. That answer, modified for runners, could be given to anyone who asks how to race faster. “Practice race pace, practice race pace, practice race pace!”
+
+At the start of your training, replace a weekly tempo run with 5 miles at your **goal marathon pace (GMP)**. Do this workout early in the week, and add one mile every week. Once you reach 10 miles, move the GMP run to every other weekend, alternating it with your slower-paced long run. Then build the GMP run to no more than 15 miles.
+
 # Long Run Workouts
 
 * **Optimal Duration:** The greatest aerobic benefits from long runs occur between 60 and 120 minutes. Beyond 2 hours, the additional gains decrease, and after 2.5 to 3 hours, the risk of injury and excessive fatigue rises significantly.
 * **Risk Management:** Running longer than 2.5 hours increases your risk of overuse injuries, poor recovery, and diminishing returns in fitness. For most runners, capping the long run at 3 hours is a smart, sustainable approach.
 * **Progress Over Time:** As you gain experience and build fitness over months and years, you’ll be able to cover more distance within the same time cap, while keeping your effort below critical thresholds. This long-term consistency is more valuable than pushing for extra mileage in a single session.
 * **Practical Advice:** Focus on quality and consistency. Prioritize staying healthy and finishing your long runs feeling strong, rather than exhausted. This sets you up for better training and race performance in the long run.
-
-# References
-
-[Runners Connect](https://runnersconnect.net/blog/)
 
 [^1]: Medals are won in training. Tournaments are where you pick them up.
