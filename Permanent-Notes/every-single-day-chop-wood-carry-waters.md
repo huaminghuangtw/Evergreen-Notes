@@ -1,6 +1,6 @@
 ---
 title: Every single day, chop wood, carry waters
-modified: 2026-06-04
+modified: 2026-06-08
 ---
 
 > [“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)
@@ -56,6 +56,8 @@ Persistence can change failure into extraordinary achievement.
 ---
 
 There is a Zen Buddhist saying: “What do you do before enlightenment? _Chop wood, carry water_. What do you do after enlightenment? _Chop wood, carry water_.”
+
+> The task doesn’t change. Only your relationship to it does.
 
 ---
 
