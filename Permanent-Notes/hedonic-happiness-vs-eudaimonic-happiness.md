@@ -1,6 +1,10 @@
 ---
 title: Hedonic Happiness vs Eudaimonic Happiness
-modified: 2026-05-28
+modified: 2026-06-08
+---
+
+> “Never become used to anything you love. It blunts the edge of appreciation.” — Richard Laymon
+
 ---
 
 # Hedonic Happiness
