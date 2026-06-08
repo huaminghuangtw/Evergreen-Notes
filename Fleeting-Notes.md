@@ -281,11 +281,9 @@ Competent people become more likable when they reveal small, harmless flaws.
 
 The “Golden Algorithm” is a behavioral and emotional framework popularized by performance coach Joe Hudson. It describes a recurring psychological trap: the things we actively try to avoid are often the very things we inadvertently invite into our lives in our attempts to escape them.
 
-
 ---
 
 [Intellectual honesty](https://www.google.com/search?q=intellectual+honesty)
-
 
 ---
 
