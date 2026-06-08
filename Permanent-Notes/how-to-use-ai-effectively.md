@@ -1,6 +1,6 @@
 ---
 title: How to use AI effectively
-modified: 2026-05-22
+modified: 2026-06-08
 ---
 
 AI 是想法的放大器/加速器，而不是想法的產生器。
@@ -138,6 +138,8 @@ The best way to create prompts is to ask the AI agent to create them for you.
 “**[The Bicycle of the Mind](https://chengweihu.com/six-tiny-musings-on-ai/)**” — AI is not just a tool, but an extension of our will, allowing us to accomplish feats that were once thought impossible.
 
 > [“We humans are tool builders. [...] And so for me, a computer has always been a bicycle of the mind. Something that takes us far beyond our inherent abilities.” — Steve Jobs](https://allaboutstevejobs.com/videos/misc/future_of_pc_1990)
+
+人類的價值：定義問題＋用全域視野調度 AI 工具
 
 ---
 
