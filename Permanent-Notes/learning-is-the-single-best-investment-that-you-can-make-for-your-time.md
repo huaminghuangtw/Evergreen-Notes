@@ -1,6 +1,6 @@
 ---
 title: Learning is the single best investment that you can make for your time
-modified: 2026-05-26
+modified: 2026-06-08
 ---
 
 > “Learning never exhausts the mind.” — Leonardo da Vinci
@@ -179,6 +179,9 @@ Always starting from the most basic and simplest level, then adding more complex
 > [“Next time you’re feeling like a task or project is particularly difficult, ask yourself, ‘What would it look like if I were really confident at this?’ Just by asking yourself the question, you’ll visualize yourself confidently approaching the task at hand. The switch has been flipped.” — Ali Abdaal, Feel-Good Productivity: How to Do More of What Matters to You](https://www.goodreads.com/work/quotes/100097284-feel-good-productivity-how-to-do-more-of-what-matters-to-you)
 
 * Studying should be difficult—if you’re not worrying that you won’t be able to understand something you’re learning, it isn’t hard enough. [^2]
+
+	> 學習需要經歷認知上的掙扎。
+
 * [Agitation (焦慮，躁動，緊張不安)](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%B9%81%E4%BD%93/agitation) is good, helping to release norepinephrine and adrenaline
 * [When you tackle a chunk of work, push for a result that is beyond — _but not too far beyond_ — what’s comfortable for your current skill level. Design this chunk to feature enough difficulty that you _quickly get stuck_. At this point, you should slow down, and advance deliberately, in a state of real _mental strain_. This **stretch** is important to: (a) extract the most out of your current abilities; and (b) ensure that your abilities continue to improve. Finding chunks that require stretch, but are not so hard that you get permanently blocked, is non-trivival (very important).](https://calnewport.com/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/)
 * See also: [Do hard things](do-hard-things.md)
