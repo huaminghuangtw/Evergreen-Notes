@@ -1,6 +1,6 @@
 ---
 title: Emotion Control
-modified: 2026-06-07
+modified: 2026-06-09
 ---
 
 > “Emotional sickness is avoiding reality at any cost. Emotional health is facing reality at any cost.” — [M. Scott Peck](https://quotefancy.com/m-scott-peck-quotes)
@@ -112,8 +112,9 @@ The thing that prevents you from seeing what’s actually happening are your emo
 	* [The Parable of the Donkey and the Tiger](the-parable-of-the-donkey-and-the-tiger.md)
 * 笑罵由人、唾面自乾
 	* 如果別人朝著你丟石頭，就不要扔回去了，留著做你建高樓的基石。
+	* 學會「不解釋」
 	* [The Let-Them Theory](the-let-them-theory.md)
-* 有些人是真心來對話的，有些人是純心來吵架的，分清楚兩者之間的差異！
+* 有些人是真心來對話的，有些人是純心來吵架的，分清楚兩者的差異！
 * [“Taking Souls (收割靈魂)” by David Goggins](https://www.google.com/search?q=taking+souls+david+goggings)
 
 	> “Always aspire to act in a way that cancels out someone else’s cruel or stupid behavior.” — Carl Hiaasen
