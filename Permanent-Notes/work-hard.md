@@ -1,6 +1,6 @@
 ---
 title: Work hard
-modified: 2026-05-24
+modified: 2026-06-09
 ---
 
 > “Without ambition one starts nothing. Without work one finishes nothing. The prize will not be sent to you. You have to win it.” — Ralph Waldo Emerson
@@ -23,6 +23,8 @@ modified: 2026-05-24
 
 ---
 
+---
+
 [Working hard isn’t just about attitude. Working hard and trying your best every time is a skill that can be trained and practiced.](https://youtu.be/L_l9-bpvW5c?t=2939s)
 
 ---
@@ -35,11 +37,15 @@ Working hard for something we don’t care about is called **stress**. Working h
 
 ---
 
+You don’t get the things you dream of, you get the things that you work for.
+
+---
+
 你必須很努力，才能看起來 [毫不費力](sprezzatura.md)。
 
 ---
 
-勞動是社會中每個人不可避免的義務，沒有勞動就不可能有正常人的生活。勞動是快活的根源。
+勞動是社會中每個人不可避免的義務，沒有勞動就不會有正常人的生活。勞動是快活的根源。
 
 ---
 
