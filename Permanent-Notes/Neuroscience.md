@@ -1,6 +1,6 @@
 ---
 title: Neuroscience
-modified: 2026-05-28
+modified: 2026-06-09
 ---
 
 The brain is a monkey brain with a supercomputer on top.
@@ -80,6 +80,7 @@ The brain is a monkey brain with a supercomputer on top.
 
 * 短期記憶：海馬迴 (Hippocampi) / 海馬體 (Hippocampus)
 	* 阿茲海默症 (Alzheimer’s Disease)：海馬體萎縮，屬於「退化性 (Degenerative Dementias) 失智症」的一種
+	* 灰質（Gray Matter）
 * 長期記憶：皮質層 (Cortex)
 
 ---
