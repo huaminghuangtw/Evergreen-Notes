@@ -288,3 +288,13 @@ The “Golden Algorithm” is a behavioral and emotional framework popularized b
 ---
 
 [The transparency paradox](https://sketchplanations.com/the-transparency-paradox)
+
+
+---
+
+“I will always choose a lazy person to do a difficult job because a lazy person will find an easy way to do it.” — Bill Gates
+
+
+---
+
+用人不疑疑人不用
