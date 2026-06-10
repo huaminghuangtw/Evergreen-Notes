@@ -1,6 +1,10 @@
 ---
 title: How to use AI effectively
-modified: 2026-06-08
+modified: 2026-06-10
+---
+
+> The dumbest person you know is currently being told “You’re absolutely right!” by ChatGPT.
+
 ---
 
 AI 是想法的放大器/加速器，而不是想法的產生器。
