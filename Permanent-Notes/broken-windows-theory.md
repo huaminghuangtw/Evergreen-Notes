@@ -1,6 +1,7 @@
 ---
 title: Broken Windows Theory
 modified: 2026-05-21
+tags: []
 ---
 
 = 破窗效應

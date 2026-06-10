@@ -1,6 +1,7 @@
 ---
 title: Cortisol
 modified: 2026-04-30
+tags: []
 ---
 
 **Cortisol (皮質醇)** is often referred to as the “stress hormone.”

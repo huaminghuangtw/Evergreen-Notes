@@ -1,6 +1,7 @@
 ---
 title: Fame
 modified: 2026-06-02
+tags: []
 ---
 
 > “Uneasy lies the head that wears a crown.” — William Shakespeare

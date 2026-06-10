@@ -1,6 +1,7 @@
 ---
 title: Tutorial Hell
 modified: 2026-05-20
+tags: []
 ---
 
 > “You don’t learn to walk by following rules. You learn by doing, and by falling over.” — Richard Branson

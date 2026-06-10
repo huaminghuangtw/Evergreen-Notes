@@ -1,6 +1,7 @@
 ---
 title: Be careful how you are talking to yourself
 modified: 2026-05-20
+tags: []
 ---
 
 > “Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes

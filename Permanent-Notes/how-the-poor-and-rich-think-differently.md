@@ -1,6 +1,7 @@
 ---
 title: How the Poor and Rich Think Differently
 modified: 2026-05-29
+tags: []
 ---
 
 |                                               窮人思維                                               |                              富人思維                               |

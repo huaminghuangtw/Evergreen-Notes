@@ -1,6 +1,7 @@
 ---
 title: Illusory Truth Effect
 modified: 2026-03-31
+tags: []
 ---
 
 The illusory truth effect was first identified in a [1977 study](https://doi.org/10.1016/S0022-5371(77)80012-1) by psychologists Lynn Hasher, David Goldstein, and Thomas Toppino. They found that repetition increases the perceived truthfulness of statements, even when people know the information is false or have prior knowledge to the contrary.

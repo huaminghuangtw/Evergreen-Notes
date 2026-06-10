@@ -1,6 +1,7 @@
 ---
 title: Focus is about saying no
 modified: 2026-06-05
+tags: []
 ---
 
 > [“Focus is about saying no.” — Steve Jobs](https://youtu.be/H8eP99neOVs)

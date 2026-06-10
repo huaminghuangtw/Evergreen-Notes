@@ -1,6 +1,7 @@
 ---
 title: The 5 Second Rule
 modified: 2026-04-30
+tags: []
 ---
 
 [popularized](https://www.melrobbins.com/book/the-5-second-rule/) by [Mel Robbins](https://www.google.com/search?q=Mel+Robbins).

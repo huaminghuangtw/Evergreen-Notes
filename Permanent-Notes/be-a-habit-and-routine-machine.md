@@ -1,6 +1,7 @@
 ---
 title: Be a habit and routine machine
 modified: 2026-04-24
+tags: []
 ---
 
 > “Outer order contributes to inner calm.” — Gretchen Rubin

@@ -1,6 +1,7 @@
 ---
 title: The Lollapalooza Effect
 modified: 2026-04-27
+tags: []
 ---
 
 > “The wise man looks for all the bellwethers, all the forces at work, and how they combine.” — Charlie Munger

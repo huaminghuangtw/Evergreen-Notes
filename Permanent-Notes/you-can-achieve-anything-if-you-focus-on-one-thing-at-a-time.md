@@ -1,6 +1,7 @@
 ---
 title: You can achieve anything if you focus on one thing at a time
 modified: 2026-06-05
+tags: []
 ---
 
 > [“The only way to gain enough efficiency to complete The Art of Computer Programming is to operate in batch mode, concentrating intensively and uninterruptedly on one subject at a time, rather than swapping a number of topics in and out of my head.” — Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/retd.html)

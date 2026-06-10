@@ -1,6 +1,7 @@
 ---
 title: Problem Solving
 modified: 2026-06-05
+tags: []
 ---
 
 > “The important thing about a problem is not its solution, but the strength we gain in finding the solution.” — Seneca

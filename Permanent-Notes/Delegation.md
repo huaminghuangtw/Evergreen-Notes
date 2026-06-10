@@ -1,6 +1,7 @@
 ---
 title: Delegation
 modified: 2026-05-26
+tags: []
 ---
 
 > “You can do anything, but you can’t do everything.” — David Allen

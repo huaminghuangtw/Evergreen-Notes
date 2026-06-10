@@ -1,6 +1,7 @@
 ---
 title: The Catfish Effect
 modified: 2026-05-20
+tags: []
 ---
 
 = [鯰魚效應（The Catfish Effect）](https://www.google.com/search?q=The+Catfish+Effect)

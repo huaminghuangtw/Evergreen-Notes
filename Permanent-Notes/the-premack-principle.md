@@ -1,6 +1,7 @@
 ---
 title: The Premack Principle
 modified: 2026-05-10
+tags: []
 ---
 
 The Premack Principle is a behavioral psychology rule developed by psychologist David Premack.

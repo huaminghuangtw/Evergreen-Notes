@@ -1,6 +1,7 @@
 ---
 title: Never lose faith and hope
 modified: 2026-05-25
+tags: []
 ---
 
 > “Without faith, it is impossible for you to become great.” — Wallace D. Wattles, [The Science of Being Great](https://www.goodreads.com/work/quotes/1881171)

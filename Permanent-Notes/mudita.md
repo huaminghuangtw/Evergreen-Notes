@@ -1,6 +1,7 @@
 ---
 title: Mudita
 modified: 2026-05-15
+tags: []
 ---
 
 > “If you want others to be happy, practice compassion. If you want to be happy, practice compassion.” — Dalai Lama

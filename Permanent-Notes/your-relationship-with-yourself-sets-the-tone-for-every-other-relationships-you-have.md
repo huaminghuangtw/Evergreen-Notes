@@ -1,6 +1,7 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
 modified: 2026-06-06
+tags: []
 ---
 
 > “Your relationship with yourself sets the tone for every other relationship you have.” — Robert Holden

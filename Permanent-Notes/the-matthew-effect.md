@@ -1,6 +1,7 @@
 ---
 title: The Matthew Effect
 modified: 2026-03-27
+tags: []
 ---
 
 # What is the Matthew Effect?

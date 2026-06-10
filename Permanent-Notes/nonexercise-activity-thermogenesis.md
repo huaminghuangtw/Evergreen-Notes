@@ -1,6 +1,7 @@
 ---
 title: Non-Exercise Activity Thermogenesis
 modified: 2026-03-26
+tags: []
 ---
 
 # What is NEAT?

@@ -1,6 +1,7 @@
 ---
 title: A friend to all is a friend to none
 modified: 2026-05-28
+tags: []
 ---
 
 > “When the character of a man is not clear to you, look at his friends.” — Japanese proverb

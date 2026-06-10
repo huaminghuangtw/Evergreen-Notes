@@ -1,6 +1,7 @@
 ---
 title: Stay curious
 modified: 2026-06-10
+tags: []
 ---
 
 > “The cure for boredom is curiosity. There is no cure for curiosity.” — Dorothy Parker

@@ -1,6 +1,7 @@
 ---
 title: Procrastination
 modified: 2026-05-06
+tags: []
 ---
 
 > “To begin, begin.” — William Wordsworth

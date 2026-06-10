@@ -1,6 +1,7 @@
 ---
 title: A man who is a master of patience is master of everything else
 modified: 2026-04-27
+tags: []
 ---
 
 > [“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)

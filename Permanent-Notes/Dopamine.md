@@ -1,6 +1,7 @@
 ---
 title: Dopamine
 modified: 2026-05-07
+tags: []
 ---
 
 > “Persons with severe addictions are among those contemporary prophets that we ignore to our own demise, for they show us who we truly are. (重度成癮者是當代的預言家，不把他們當一回事，沒有好下場的是我們，因為他們反映的正是我們真實的面貌)” — Kent Dunnington

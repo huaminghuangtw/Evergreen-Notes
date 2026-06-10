@@ -1,6 +1,7 @@
 ---
 title: The Odyssey Plan
 modified: 2026-04-14
+tags: []
 ---
 
 The Odyssey Plan is a five-year planning exercise in the book “[Designing Your Life](https://designingyour.life/)” by Bill Burnett and Dave Evans.

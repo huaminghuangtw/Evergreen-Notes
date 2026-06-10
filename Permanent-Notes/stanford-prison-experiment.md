@@ -1,6 +1,7 @@
 ---
 title: Stanford Prison Experiment
 modified: 2026-04-30
+tags: []
 ---
 
 In 1971, Dr. Philip Zimbardo conducted a psychological study famously known as the “[Stanford Prison Experiment](https://exhibits.stanford.edu/spe).”

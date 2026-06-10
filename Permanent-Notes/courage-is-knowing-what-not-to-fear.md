@@ -1,6 +1,7 @@
 ---
 title: Courage is knowing what not to fear
 modified: 2026-05-30
+tags: []
 ---
 
 > [“Success is not final, failure is not fatal: it is the courage to continue that counts.” — Winston Churchill](https://youtu.be/uuxMZL6ieWM)

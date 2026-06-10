@@ -1,6 +1,7 @@
 ---
 title: The Intellectual Yet Idiot
 modified: 2026-04-30
+tags: []
 ---
 
 [By Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Skin_in_the_Game_(book)#Intellectual_Yet_Idiot)

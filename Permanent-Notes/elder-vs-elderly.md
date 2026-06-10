@@ -1,6 +1,7 @@
 ---
 title: Elder vs Elderly
 modified: 2026-06-08
+tags: []
 ---
 
 > “Age is an issue of mind over matter. If you don’t mind, it doesn’t matter.” — Mark Twain

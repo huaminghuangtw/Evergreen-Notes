@@ -1,6 +1,7 @@
 ---
 title: Do hard things
 modified: 2026-04-09
+tags: []
 ---
 
 > “Difficulties strengthen the mind, as labor does the body.” — Seneca

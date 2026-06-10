@@ -1,6 +1,7 @@
 ---
 title: Two Types of Passion
 modified: 2026-04-30
+tags: []
 ---
 
 by Robert Vallerand

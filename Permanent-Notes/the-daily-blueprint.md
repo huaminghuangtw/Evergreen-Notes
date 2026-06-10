@@ -1,6 +1,7 @@
 ---
 title: The Daily Blueprint
 modified: 2026-06-07
+tags: []
 ---
 
 # 起床儀式（Early Morning Routine）

@@ -1,6 +1,7 @@
 ---
 title: How to build muscles?
 modified: 2026-04-30
+tags: []
 ---
 
 = Resistance Training

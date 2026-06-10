@@ -1,6 +1,7 @@
 ---
 title: Beef
 modified: 2026-04-30
+tags: []
 ---
 
 草飼 > 穀飼

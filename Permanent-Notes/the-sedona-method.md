@@ -1,6 +1,7 @@
 ---
 title: The Sedona Method
 modified: 2026-04-30
+tags: []
 ---
 
 = 瑟多納釋放法

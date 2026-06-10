@@ -1,6 +1,7 @@
 ---
 title: Decision Fatigue
 modified: 2026-04-30
+tags: []
 ---
 
 ![](_attachments/71dacbcf34b15b9c99d1ae5471fe8e56.png)
