@@ -1,6 +1,6 @@
 ---
 title: You are what you eat
-modified: 2026-05-28
+modified: 2026-06-10
 ---
 
 > “Let food be thy medicine and medicine be thy food.” — Hippocrates [^1]
@@ -79,7 +79,7 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 		* The more vegetable and fruits you include in your meals, the lower the **Energy/Calorie Density** of that meal will be → Fill the stomach and send signals to your brain to tell you to stop eating → You can eat the most quantity for the least amount of calories
 			* <https://vibrancenutrition.com/caloric-density-how-to-maximize-satisfaction-and-lose-weight/>
 			* <https://www.forksoverknives.com/wellness/the-calorie-density-approach-to-nutrition-and-lifelong-weight-management/>
-	* 一天一杯綜合蔬果昔 (Fruit/Green Smoothie)
+	* 一天一杯綜合蔬果昔/綠拿鐵 (Fruit/Green Smoothie)
 		* Variations
 			* [精力湯](https://www.google.com/search?q=%E7%B2%BE%E5%8A%9B%E6%B9%AF) [^10]
 			* [回春水](https://www.google.com/search?q=%E5%9B%9E%E6%98%A5%E6%B0%B4)
