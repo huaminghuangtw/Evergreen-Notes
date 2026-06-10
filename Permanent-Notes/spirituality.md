@@ -1,6 +1,7 @@
 ---
 title: Spirituality
 modified: 2026-06-02
+tags: []
 ---
 
 > “Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.” — Eckhart Tolle

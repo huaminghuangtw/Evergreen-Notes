@@ -1,6 +1,7 @@
 ---
 title: The Nova Effect
 modified: 2026-06-03
+tags: []
 ---
 
 > “You never know what worse luck your bad luck saved you from.” — Cormac McCarthy

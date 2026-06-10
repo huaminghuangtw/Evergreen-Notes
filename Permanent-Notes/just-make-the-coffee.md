@@ -1,6 +1,7 @@
 ---
 title: Just make the coffee
 modified: 2026-05-07
+tags: []
 ---
 
 [Just Make the Coffee \| The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-most-important-decision-of-your-life)

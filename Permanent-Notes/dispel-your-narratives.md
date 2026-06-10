@@ -1,6 +1,7 @@
 ---
 title: Dispel your narratives
 modified: 2026-05-28
+tags: []
 ---
 
 > “Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.” — Marcus Aurelius

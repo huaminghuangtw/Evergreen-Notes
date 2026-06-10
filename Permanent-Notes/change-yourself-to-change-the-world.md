@@ -1,6 +1,7 @@
 ---
 title: Change yourself to change the world
 modified: 2026-04-20
+tags: []
 ---
 
 > “Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi

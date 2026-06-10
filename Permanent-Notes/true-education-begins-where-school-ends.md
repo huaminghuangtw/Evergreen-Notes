@@ -1,6 +1,7 @@
 ---
 title: True education begins where school ends
 modified: 2026-05-30
+tags: []
 ---
 
 > “There is only one good, knowledge, and one evil, ignorance.” — Socrates

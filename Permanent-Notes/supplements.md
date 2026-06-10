@@ -1,6 +1,7 @@
 ---
 title: Supplements
 modified: 2026-05-28
+tags: []
 ---
 
 > “Be the kind of person who takes supplements, then skip the supplements.” — Michael Pollan, [Food Rules: An Eater’s Manual](https://www.goodreads.com/work/quotes/7261546)

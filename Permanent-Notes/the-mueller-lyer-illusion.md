@@ -1,6 +1,7 @@
 ---
 title: The Mueller-Lyer Illusion
 modified: 2026-05-06
+tags: []
 ---
 
 [@kahnemanThinkingFastSlow2013]

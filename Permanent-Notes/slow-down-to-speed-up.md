@@ -1,6 +1,7 @@
 ---
 title: Slow down to speed up
 modified: 2026-06-02
+tags: []
 ---
 
 [@ferriss4hourWorkweekEscape2011]

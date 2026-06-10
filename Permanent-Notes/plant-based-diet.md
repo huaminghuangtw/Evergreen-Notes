@@ -1,6 +1,7 @@
 ---
 title: Plant-based Diet
 modified: 2026-04-30
+tags: []
 ---
 
 Carnivore vs Vegetarian

@@ -1,6 +1,7 @@
 ---
 title: The Worth of a Stone
 modified: 2026-04-30
+tags: []
 ---
 
 > One day, a boy approached his father and asked, “What is my life worth?”

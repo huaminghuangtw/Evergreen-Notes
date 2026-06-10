@@ -1,6 +1,7 @@
 ---
 title: Insight Learning vs Latent Learning
 modified: 2026-06-05
+tags: []
 ---
 
 |                | Insight Learning 頓悟學習                                                                                                      | Latent Learning 潛在學習                                                                                                 |

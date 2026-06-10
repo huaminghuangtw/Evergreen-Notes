@@ -1,6 +1,7 @@
 ---
 title: Frameworks to achieve any goals
 modified: 2026-04-30
+tags: []
 ---
 
 # 💡 Core Concept

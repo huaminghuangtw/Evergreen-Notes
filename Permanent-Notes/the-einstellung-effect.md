@@ -1,6 +1,7 @@
 ---
 title: The Einstellung Effect
 modified: 2026-04-21
+tags: []
 ---
 
 > “The greatest obstacle to discovery is not ignorance—it is the illusion of knowledge.” — Daniel J. Boorstin

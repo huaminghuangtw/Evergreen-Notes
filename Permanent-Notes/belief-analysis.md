@@ -1,6 +1,7 @@
 ---
 title: Belief Analysis
 modified: 2026-04-30
+tags: []
 ---
 
 1. Ask yourself: is it really true? Like, is it _really_ true? Have you really got incontrovertible evidence to support this? Could there be no other way of interpreting the data other than the belief?

@@ -1,6 +1,7 @@
 ---
 title: Theory of Constraints
 modified: 2026-04-30
+tags: []
 ---
 
 > “The capacity of the plant is equal to the capacity of its bottlenecks.” — Eliyahu M. Goldratt, [The Goal: A Process of Ongoing Improvement](https://www.goodreads.com/work/quotes/462428)

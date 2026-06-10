@@ -1,6 +1,7 @@
 ---
 title: The Hofstadter’s Law
 modified: 2026-04-30
+tags: []
 ---
 
 > “A hero is one who knows how to hang on for one minute longer.” — Norwegian proverb

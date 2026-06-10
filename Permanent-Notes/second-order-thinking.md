@@ -1,6 +1,7 @@
 ---
 title: Second-Order Thinking
 modified: 2026-05-20
+tags: []
 ---
 
 Imagine a rock is thrown into a lake. The splash is the first-order effect. The ripples are the second-order effects.

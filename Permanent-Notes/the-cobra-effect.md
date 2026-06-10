@@ -1,6 +1,7 @@
 ---
 title: The Cobra Effect
 modified: 2026-04-30
+tags: []
 ---
 
 = 眼鏡蛇效應

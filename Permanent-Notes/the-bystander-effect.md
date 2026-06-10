@@ -1,6 +1,7 @@
 ---
 title: The Bystander Effect
 modified: 2026-04-30
+tags: []
 ---
 
 = Bystander Apathy

@@ -1,6 +1,7 @@
 ---
 title: The Spotlight Effect
 modified: 2026-04-07
+tags: []
 ---
 
 > “You have no responsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It’s their mistake, not my failing.” — Richard P. Feynman

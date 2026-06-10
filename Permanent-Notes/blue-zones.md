@@ -1,6 +1,7 @@
 ---
 title: Blue Zones
 modified: 2026-04-30
+tags: []
 ---
 
 [@buettnerBlueZonesLessons2016]

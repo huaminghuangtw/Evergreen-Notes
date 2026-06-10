@@ -1,6 +1,7 @@
 ---
 title: A Thousand Miles by One Step
 modified: 2026-04-30
+tags: []
 ---
 
 A young traveler set out at dawn, filled with ambition for the long journey ahead. The sky was clear, the air cool, and the road stretched before him like a promise. He walked with light steps, proud of his steady progress. By late afternoon, he had covered more ground than he expected.

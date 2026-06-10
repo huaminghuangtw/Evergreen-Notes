@@ -1,6 +1,7 @@
 ---
 title: The Small-World Phenomenon
 modified: 2026-04-30
+tags: []
 ---
 
 The small-world phenomenon indicates that an individual can be connected with any other in the world through a limited number of personal acquaintances. This concept is often summarized by the phrase “**six degrees of separation**,” suggesting that any two people are, on average, separated by six social connections.

@@ -1,6 +1,7 @@
 ---
 title: Wittgenstein’s Ladder
 modified: 2026-04-09
+tags: []
 ---
 
 is a concept from Ludwig Wittgenstein’s _Tractatus Logico-Philosophicus_ (1921).

@@ -1,6 +1,7 @@
 ---
 title: The Parable of the Mexican Fisherman
 modified: 2026-04-24
+tags: []
 ---
 
 A successful American businessman was on vacation in a small Mexican coastal village when he saw a fisherman docking his small boat. Inside the boat were a few large, fresh fish.

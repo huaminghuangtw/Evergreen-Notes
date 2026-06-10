@@ -1,6 +1,7 @@
 ---
 title: Variants of to-do list
 modified: 2026-04-24
+tags: []
 ---
 
 **Could-Do List → Should-Do List → Must-Do list

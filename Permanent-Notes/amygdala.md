@@ -1,6 +1,7 @@
 ---
 title: Amygdala
 modified: 2026-03-29
+tags: []
 ---
 
 ![](_attachments/87b53db4761fa6b46da0b95b7ab9110f.png)

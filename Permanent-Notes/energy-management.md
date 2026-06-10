@@ -1,6 +1,7 @@
 ---
 title: Energy Management
 modified: 2026-04-30
+tags: []
 ---
 
 > “Energy is eternal delight.” — William Blake

@@ -1,6 +1,7 @@
 ---
 title: Burnout
 modified: 2026-04-30
+tags: []
 ---
 
 = 過勞

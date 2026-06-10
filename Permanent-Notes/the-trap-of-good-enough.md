@@ -1,6 +1,7 @@
 ---
 title: The Trap of Good Enough
 modified: 2026-05-16
+tags: []
 ---
 
 > “Nothing is so painful to the human mind as a great and sudden change.” — Mary Shelley, Frankenstein (科學怪人)

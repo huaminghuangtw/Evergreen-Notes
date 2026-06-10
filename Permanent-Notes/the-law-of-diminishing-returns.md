@@ -1,6 +1,7 @@
 ---
 title: The Law of Diminishing Returns
 modified: 2026-04-30
+tags: []
 ---
 
 ![](https://images.prismic.io/sketchplanations/6b64ffe3-b891-4838-989c-a5e0f6d66bce_SP+642+-+Law+of+diminishing+returns+-+revised.png?auto=format%2Ccompress&fit=max&w=640)

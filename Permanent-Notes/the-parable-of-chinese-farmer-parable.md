@@ -1,6 +1,7 @@
 ---
 title: The Parable of the Chinese Farmer
 modified: 2026-05-28
+tags: []
 ---
 
 > 塞翁失馬，焉知非福。

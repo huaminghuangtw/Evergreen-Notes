@@ -1,6 +1,7 @@
 ---
 title: Just get started
 modified: 2026-06-07
+tags: []
 ---
 
 > “Begin anywhere.” — John Cage

@@ -1,6 +1,7 @@
 ---
 title: Startups
 modified: 2026-04-30
+tags: []
 ---
 
 * First step: attract great people

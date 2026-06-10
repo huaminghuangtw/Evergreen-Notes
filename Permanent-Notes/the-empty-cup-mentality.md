@@ -1,6 +1,7 @@
 ---
 title: The Empty Cup Mentality
 modified: 2026-05-28
+tags: []
 ---
 
 > A long time ago, there was a wise Zen master. People from distant places would come to seek his guidance, hoping to learn the path to enlightenment.
