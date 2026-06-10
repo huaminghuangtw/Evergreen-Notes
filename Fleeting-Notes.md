@@ -1,5 +1,5 @@
 ---
-modified: 2026-06-07
+modified: 2026-06-09
 ---
 
 <https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/>
@@ -288,12 +288,6 @@ The “Golden Algorithm” is a behavioral and emotional framework popularized b
 ---
 
 [The transparency paradox](https://sketchplanations.com/the-transparency-paradox)
-
-
----
-
-“I will always choose a lazy person to do a difficult job because a lazy person will find an easy way to do it.” — Bill Gates
-
 
 ---
 
