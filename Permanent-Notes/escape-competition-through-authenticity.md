@@ -1,6 +1,6 @@
 ---
 title: Escape competition through authenticity
-modified: 2026-06-06
+modified: 2026-06-10
 tags: []
 ---
 
