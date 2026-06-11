@@ -1,6 +1,6 @@
 ---
 title: Planning and preparation help maximize your productivity
-modified: 2026-05-20
+modified: 2026-06-11
 tags: []
 ---
 
@@ -67,7 +67,7 @@ No matter how often I tried to just jump right in a new task, I found that I per
 
 ---
 
-**Mise en place** is a French culinary phrase which means “putting in place” or “gather”. It refers to the setup required before cooking, and is often used in professional kitchens to refer to organizing and arranging the ingredients (e.g., cuts of meat, relishes, sauces, par-cooked items, spices, freshly chopped vegetables, and other components) that a cook will require for the menu items.
+**[Mise en place](https://www.google.com/search?q=Mise+en+place)** is a French culinary phrase which means “putting in place” or “gather”. It refers to the setup required before cooking, and is often used in professional kitchens to refer to organizing and arranging the ingredients (e.g., cuts of meat, relishes, sauces, par-cooked items, spices, freshly chopped vegetables, and other components) that a cook will require for the menu items.
 
 ---
 
