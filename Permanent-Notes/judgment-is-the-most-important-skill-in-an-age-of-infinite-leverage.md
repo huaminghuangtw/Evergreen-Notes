@@ -1,6 +1,6 @@
 ---
 title: Judgment is the most important skill in an age of infinite leverage
-modified: 2026-04-25
+modified: 2026-06-10
 tags: []
 ---
 
