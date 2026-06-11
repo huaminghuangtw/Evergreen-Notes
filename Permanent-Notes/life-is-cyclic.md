@@ -1,6 +1,6 @@
 ---
 title: Life is cyclic
-modified: 2026-06-04
+modified: 2026-06-11
 tags: []
 ---
 
@@ -65,6 +65,10 @@ The [Solstice (至日)](https://en.wikipedia.org/wiki/Solstice) [^2] reminds us:
 ---
 
 好是壞的開始，壞是好的開始。
+
+---
+
+[功不唐捐](https://www.google.com/search?q=功不唐捐)：所下的功夫和付出的努力都不會白費，終將獲得回報。
 
 ---
 
