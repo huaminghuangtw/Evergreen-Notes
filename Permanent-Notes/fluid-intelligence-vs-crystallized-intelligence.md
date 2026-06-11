@@ -1,14 +1,14 @@
 ---
 title: Fluid Intelligence vs Crystallized Intelligence
-modified: 2026-06-10
+modified: 2026-06-11
 tags: []
 ---
 
 ![](_attachments/91220db8072cb9879c79d2a95812fbfe.jpg)
 
-In his book _Abilities: Their Structure, Growth, and Action_, psychologist [Raymond Cattell](https://www.google.com/search?q=Raymond+Cattell) first proposed the distinction between fluid and crystallized intelligence. This framework later evolved into the [Cattell—Horn—Carroll (CHC) theory](https://www.google.com/search?q=Cattell—Horn—Carroll+theory).
+In his book _Abilities: Their Structure, Growth, and Action_, psychologist [Raymond Cattell](https://www.google.com/search?q=Raymond+Cattell) first proposed the distinction between fluid and crystallized intelligence. This framework later evolved into the [Cattell—Horn—Carroll (CHC) theory](https://www.google.com/search?q=Cattell+Horn+Carroll+theory).
 
-The core insight is that intelligence is not a monolithic trait but a collection of _distinct but interrelated_ abilities that follow different developmental trajectories across the lifespan.
+Intelligence is not a monolithic trait but a collection of _distinct but interrelated_ abilities that follow different developmental trajectories across the lifespan.
 
 > 年輕時依賴流體智力，隨著年齡增長，晶體智力逐漸發揮。
 
