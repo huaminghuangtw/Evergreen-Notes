@@ -1,6 +1,6 @@
 ---
 title: How the Poor and Rich Think Differently
-modified: 2026-05-29
+modified: 2026-06-10
 tags: []
 ---
 
