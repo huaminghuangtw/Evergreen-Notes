@@ -1,6 +1,6 @@
 ---
 title: Low Information Diet
-modified: 2026-06-04
+modified: 2026-06-10
 tags: []
 ---
 
