@@ -1,6 +1,6 @@
 ---
 title: Do not use your willpower unless you absolutely have to
-modified: 2026-04-30
+modified: 2026-06-10
 tags: []
 ---
 
