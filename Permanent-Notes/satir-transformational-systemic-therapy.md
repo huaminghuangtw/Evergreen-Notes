@@ -1,6 +1,6 @@
 ---
 title: Satir Transformational Systemic Therapy (STST)
-modified: 2026-04-30
+modified: 2026-06-10
 tags: []
 ---
 
