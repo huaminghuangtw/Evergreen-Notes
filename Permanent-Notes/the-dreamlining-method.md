@@ -1,6 +1,6 @@
 ---
 title: The Dreamlining Method
-modified: 2026-04-12
+modified: 2026-06-10
 tags: []
 ---
 
