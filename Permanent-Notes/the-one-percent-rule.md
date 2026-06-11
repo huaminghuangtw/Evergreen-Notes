@@ -1,6 +1,6 @@
 ---
 title: The One Percent Rule
-modified: 2026-05-30
+modified: 2026-06-10
 tags: []
 ---
 
