@@ -1,6 +1,6 @@
 ---
 title: Skepticism
-modified: 2026-04-13
+modified: 2026-06-10
 tags: []
 ---
 
