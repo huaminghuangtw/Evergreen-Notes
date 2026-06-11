@@ -1,6 +1,6 @@
 ---
 title: The Winner-Take-All Effects
-modified: 2026-03-27
+modified: 2026-06-10
 tags: []
 ---
 
