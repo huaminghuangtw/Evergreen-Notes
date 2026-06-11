@@ -1,6 +1,6 @@
 ---
 title: Slow down to speed up
-modified: 2026-06-02
+modified: 2026-06-10
 tags: []
 ---
 
