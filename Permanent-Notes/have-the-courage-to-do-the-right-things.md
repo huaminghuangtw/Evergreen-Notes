@@ -1,6 +1,6 @@
 ---
 title: Have the courage to do the right things
-modified: 2026-05-16
+modified: 2026-06-10
 tags: []
 ---
 
