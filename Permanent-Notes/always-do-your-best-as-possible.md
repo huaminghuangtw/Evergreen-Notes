@@ -1,6 +1,6 @@
 ---
 title: Always do your best as possible
-modified: 2026-06-01
+modified: 2026-06-10
 tags: []
 ---
 
