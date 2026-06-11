@@ -1,6 +1,6 @@
 ---
 title: Energy Management
-modified: 2026-04-30
+modified: 2026-06-10
 tags: []
 ---
 
