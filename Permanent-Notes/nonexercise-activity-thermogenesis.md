@@ -1,6 +1,6 @@
 ---
 title: Non-Exercise Activity Thermogenesis
-modified: 2026-03-26
+modified: 2026-06-10
 tags: []
 ---
 
