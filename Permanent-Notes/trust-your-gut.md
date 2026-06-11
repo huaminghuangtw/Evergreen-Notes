@@ -1,6 +1,6 @@
 ---
 title: Trust your gut
-modified: 2026-04-06
+modified: 2026-06-10
 tags: []
 ---
 
