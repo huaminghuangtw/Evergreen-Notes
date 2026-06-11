@@ -1,6 +1,6 @@
 ---
 title: When in doubt, zoom out
-modified: 2026-04-30
+modified: 2026-06-10
 tags: []
 ---
 
