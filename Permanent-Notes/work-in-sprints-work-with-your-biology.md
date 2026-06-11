@@ -1,6 +1,6 @@
 ---
 title: Work in sprints, work with your biology
-modified: 2026-05-26
+modified: 2026-06-10
 tags: []
 ---
 
