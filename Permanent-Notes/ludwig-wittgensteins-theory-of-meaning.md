@@ -1,6 +1,6 @@
 ---
 title: Ludwig Wittgenstein’s Theory of Meaning
-modified: 2026-04-04
+modified: 2026-06-10
 tags: []
 ---
 
