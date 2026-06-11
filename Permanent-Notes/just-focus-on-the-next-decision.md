@@ -1,6 +1,6 @@
 ---
 title: Just focus on the next decision
-modified: 2026-04-30
+modified: 2026-06-10
 tags: []
 ---
 
