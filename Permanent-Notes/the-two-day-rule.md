@@ -1,6 +1,6 @@
 ---
 title: The Two-Day Rule
-modified: 2026-06-06
+modified: 2026-06-10
 tags: []
 ---
 
