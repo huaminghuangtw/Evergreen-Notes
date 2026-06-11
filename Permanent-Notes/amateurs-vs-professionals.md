@@ -1,6 +1,6 @@
 ---
 title: Amateurs vs Professionals
-modified: 2026-05-12
+modified: 2026-06-10
 tags: []
 ---
 
