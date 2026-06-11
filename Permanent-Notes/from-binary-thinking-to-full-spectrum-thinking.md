@@ -1,6 +1,6 @@
 ---
 title: From Binary Thinking to Full-Spectrum Thinking
-modified: 2026-05-27
+modified: 2026-06-11
 tags: []
 ---
 
@@ -8,7 +8,7 @@ tags: []
 
 ---
 
-Binary Thinking = All-or-Nothing Thinking (全有或全無)
+Binary Thinking = All-or-Nothing Thinking (全有或全無) = 非 0 即 1
 
 ---
 
