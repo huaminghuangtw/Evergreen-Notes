@@ -1,6 +1,6 @@
 ---
 title: Change yourself to change the world
-modified: 2026-04-20
+modified: 2026-06-10
 tags: []
 ---
 
