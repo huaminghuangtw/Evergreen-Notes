@@ -1,6 +1,6 @@
 ---
 title: True education begins where school ends
-modified: 2026-05-30
+modified: 2026-06-10
 tags: []
 ---
 
