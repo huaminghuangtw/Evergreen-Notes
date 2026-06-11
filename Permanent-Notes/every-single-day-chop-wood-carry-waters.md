@@ -1,6 +1,6 @@
 ---
 title: Every single day, chop wood, carry waters
-modified: 2026-06-08
+modified: 2026-06-11
 tags: []
 ---
 
@@ -125,6 +125,9 @@ The practice solidifies.
 
 > “Long-term consistency trumps short-term intensity.” — Bruce Lee
 
+> “Success is the product of daily habits—not once-in-a-lifetime transformations.” — James Clear
+
+* 「配速」很重要！
 * Don’t aim to be consistently great; aim to be great at being _consistent_.
 * Mastery follows consistent/constant work.
 * **Consistency Intensity:** Intensity makes a good story. Consistency makes progress.
