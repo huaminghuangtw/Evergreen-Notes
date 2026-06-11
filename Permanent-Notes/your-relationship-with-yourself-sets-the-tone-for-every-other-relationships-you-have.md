@@ -1,6 +1,6 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
-modified: 2026-06-06
+modified: 2026-06-10
 tags: []
 ---
 
