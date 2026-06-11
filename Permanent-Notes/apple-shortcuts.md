@@ -1,6 +1,6 @@
 ---
 title: Apple Shortcuts
-modified: 2026-05-22
+modified: 2026-06-10
 tags: []
 ---
 
