@@ -1,6 +1,6 @@
 ---
 title: The Effects of Music on Studying and Learning
-modified: 2026-04-30
+modified: 2026-06-10
 tags: []
 ---
 
