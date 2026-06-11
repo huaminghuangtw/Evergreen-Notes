@@ -1,6 +1,6 @@
 ---
 title: Hope for the best, prepare for the worst
-modified: 2026-05-28
+modified: 2026-06-10
 tags: []
 ---
 
