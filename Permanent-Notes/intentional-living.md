@@ -1,6 +1,6 @@
 ---
 title: Intentional Living
-modified: 2026-05-14
+modified: 2026-06-10
 tags: []
 ---
 
