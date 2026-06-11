@@ -1,6 +1,6 @@
 ---
 title: Sleep
-modified: 2026-05-26
+modified: 2026-06-11
 tags: []
 ---
 
@@ -133,7 +133,15 @@ Reframing: 把睡覺當作是…
 
 Best Vacation: Sleep one more hour for 7 days in a row, then you will get an extra night of sleep at the end of last day.
 
-If you’ve experienced a poor night’s sleep, your impulse may be to sleep in, drink a much-needed cup of coffee as you roll out of bed, and push your morning workout until the evening when you’re feeling up for it. But the best way to recover from a poor night’s sleep is to make sure it doesn’t affect your next night’s sleep. Get up at the same time as usual. Sleeping more than 1 hour past your usual wakeup time can shift your circadian clock later (called phase delay), making it harder to fall asleep that night. [^1]
+If you’ve experienced a poor night’s sleep, your impulse may be to sleep in, drink a much-needed cup of coffee as you roll out of bed, and push your morning workout until the evening when you’re feeling up for it. But the best way to recover from a poor night’s sleep is to make sure it doesn’t affect your next night’s sleep. **Get up at the same time as usual.** Sleeping more than 1 hour past your usual wakeup time can shift your circadian clock later (called phase delay), making it harder to fall asleep that night. [^1]
+
+---
+
+# [If you’re sleep deprived, one of the best things you can do (counterintuitively) is high-intensity exercise.](https://x.com/foundmyfitness/status/2009016116396310639)
+
+[A single night of poor sleep can trigger short-term insulin resistance, but HIIT (high-intensity interval training) can counteract/reverse this metabolic damage. Multiple nights of sleep restriction disrupt blood glucose, impair energy production, and throw off body temperature rhythms — yet incorporating HIIT during this period effectively offsets all three.](https://youtu.be/9tyEbgPfgnY?t=463s)
+
+---
 
 Eating more fiber and less saturated fat for dinner, to promote serotonin, calm sleep.
 
