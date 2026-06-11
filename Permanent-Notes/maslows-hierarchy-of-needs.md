@@ -1,6 +1,6 @@
 ---
 title: Maslow’s Hierarchy of Needs
-modified: 2026-05-28
+modified: 2026-06-10
 tags: []
 ---
 
