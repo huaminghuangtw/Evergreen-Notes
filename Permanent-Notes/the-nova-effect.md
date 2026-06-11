@@ -1,6 +1,6 @@
 ---
 title: The Nova Effect
-modified: 2026-06-03
+modified: 2026-06-10
 tags: []
 ---
 
