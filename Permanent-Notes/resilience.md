@@ -1,6 +1,6 @@
 ---
 title: Resilience
-modified: 2026-06-05
+modified: 2026-06-10
 tags: []
 ---
 
