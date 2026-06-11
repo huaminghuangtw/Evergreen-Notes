@@ -1,6 +1,6 @@
 ---
 title: Programming Best Practices
-modified: 2026-05-08
+modified: 2026-06-10
 tags: []
 ---
 
