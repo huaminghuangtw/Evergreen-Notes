@@ -1,6 +1,6 @@
 ---
 title: This too shall pass
-modified: 2026-05-23
+modified: 2026-06-10
 tags: []
 ---
 
