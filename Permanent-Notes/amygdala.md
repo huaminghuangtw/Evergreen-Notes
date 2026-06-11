@@ -1,6 +1,6 @@
 ---
 title: Amygdala
-modified: 2026-03-29
+modified: 2026-06-10
 tags: []
 ---
 
