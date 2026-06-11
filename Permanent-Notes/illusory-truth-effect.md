@@ -1,6 +1,6 @@
 ---
 title: Illusory Truth Effect
-modified: 2026-03-31
+modified: 2026-06-10
 tags: []
 ---
 
