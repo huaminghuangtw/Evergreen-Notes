@@ -1,6 +1,6 @@
 ---
 title: The Parable of the Monk and the Minister
-modified: 2026-05-26
+modified: 2026-06-10
 tags: []
 ---
 
