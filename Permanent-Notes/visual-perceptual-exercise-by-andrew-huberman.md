@@ -1,6 +1,6 @@
 ---
 title: Visual Perceptual Exercise by Andrew Huberman
-modified: 2026-05-03
+modified: 2026-06-10
 tags: []
 ---
 
