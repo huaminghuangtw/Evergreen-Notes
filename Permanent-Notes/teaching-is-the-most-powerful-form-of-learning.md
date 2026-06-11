@@ -1,6 +1,6 @@
 ---
 title: Teaching is the most powerful form of learning
-modified: 2026-04-30
+modified: 2026-06-10
 tags: []
 ---
 
