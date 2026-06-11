@@ -1,6 +1,6 @@
 ---
 title: Speak less, listen more
-modified: 2026-06-01
+modified: 2026-06-10
 tags: []
 ---
 
