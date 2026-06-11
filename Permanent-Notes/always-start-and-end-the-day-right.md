@@ -1,6 +1,6 @@
 ---
 title: Always start and end the day right
-modified: 2026-04-30
+modified: 2026-06-10
 tags: []
 ---
 
