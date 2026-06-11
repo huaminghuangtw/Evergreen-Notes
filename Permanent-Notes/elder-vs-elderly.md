@@ -1,6 +1,6 @@
 ---
 title: Elder vs Elderly
-modified: 2026-06-08
+modified: 2026-06-10
 tags: []
 ---
 
