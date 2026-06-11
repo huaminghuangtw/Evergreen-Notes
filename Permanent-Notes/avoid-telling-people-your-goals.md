@@ -1,6 +1,6 @@
 ---
 title: Avoid telling people your goals
-modified: 2026-05-07
+modified: 2026-06-10
 tags: []
 ---
 
