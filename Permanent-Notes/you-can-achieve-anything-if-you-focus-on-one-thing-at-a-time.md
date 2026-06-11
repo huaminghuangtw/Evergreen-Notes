@@ -1,6 +1,6 @@
 ---
 title: You can achieve anything if you focus on one thing at a time
-modified: 2026-06-05
+modified: 2026-06-10
 tags: []
 ---
 
