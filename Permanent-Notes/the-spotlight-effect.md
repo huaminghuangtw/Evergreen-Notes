@@ -1,6 +1,6 @@
 ---
 title: The Spotlight Effect
-modified: 2026-04-07
+modified: 2026-06-10
 tags: []
 ---
 
