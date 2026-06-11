@@ -1,6 +1,6 @@
 ---
 title: Why is it so hard to just do the work?
-modified: 2026-05-06
+modified: 2026-06-10
 tags: []
 ---
 
