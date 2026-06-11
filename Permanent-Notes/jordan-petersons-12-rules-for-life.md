@@ -1,6 +1,6 @@
 ---
 title: Jordan Peterson’s 12 Rules for Life
-modified: 2026-04-30
+modified: 2026-06-10
 tags: []
 ---
 
