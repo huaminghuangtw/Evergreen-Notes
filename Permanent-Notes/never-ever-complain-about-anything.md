@@ -1,6 +1,6 @@
 ---
 title: Never ever complain about anything
-modified: 2026-05-27
+modified: 2026-06-10
 tags: []
 ---
 
