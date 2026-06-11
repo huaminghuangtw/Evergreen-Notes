@@ -1,6 +1,6 @@
 ---
 title: Be ready to change your mind completely at any given time
-modified: 2026-05-20
+modified: 2026-06-10
 tags: []
 ---
 
