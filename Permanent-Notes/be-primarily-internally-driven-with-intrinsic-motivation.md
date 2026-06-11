@@ -1,6 +1,6 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
-modified: 2026-04-10
+modified: 2026-06-10
 tags: []
 ---
 
