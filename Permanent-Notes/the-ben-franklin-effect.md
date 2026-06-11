@@ -1,6 +1,6 @@
 ---
 title: The Ben Franklin Effect
-modified: 2026-04-05
+modified: 2026-06-10
 tags: []
 ---
 
