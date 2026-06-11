@@ -1,6 +1,6 @@
 ---
 title: News Sobriety
-modified: 2026-06-07
+modified: 2026-06-10
 tags: []
 ---
 
