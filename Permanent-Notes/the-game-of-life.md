@@ -1,6 +1,6 @@
 ---
 title: The Game of Life
-modified: 2026-04-06
+modified: 2026-06-10
 tags: []
 ---
 
