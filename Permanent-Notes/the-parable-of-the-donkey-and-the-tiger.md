@@ -1,6 +1,6 @@
 ---
 title: The Parable of the Donkey and the Tiger
-modified: 2026-04-30
+modified: 2026-06-10
 tags: []
 ---
 
