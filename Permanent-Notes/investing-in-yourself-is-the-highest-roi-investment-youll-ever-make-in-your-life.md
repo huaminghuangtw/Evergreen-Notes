@@ -1,6 +1,6 @@
 ---
 title: Investing in yourself is the highest ROI investment you’ll ever make in your life
-modified: 2026-04-30
+modified: 2026-06-10
 tags: []
 ---
 
