@@ -1,6 +1,6 @@
 ---
 title: What you work on is far more important than how productively you work
-modified: 2026-06-06
+modified: 2026-06-10
 tags: []
 ---
 
