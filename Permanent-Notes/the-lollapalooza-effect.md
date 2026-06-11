@@ -1,6 +1,6 @@
 ---
 title: The Lollapalooza Effect
-modified: 2026-04-27
+modified: 2026-06-10
 tags: []
 ---
 
