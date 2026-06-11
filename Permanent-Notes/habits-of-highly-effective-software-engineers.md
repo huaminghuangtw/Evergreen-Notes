@@ -1,6 +1,6 @@
 ---
 title: Habits of Highly Effective Software Engineers
-modified: 2026-05-21
+modified: 2026-06-10
 tags: []
 ---
 
