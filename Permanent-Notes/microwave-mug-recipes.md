@@ -1,6 +1,6 @@
 ---
 title: Microwave Mug Recipes
-modified: 2026-05-15
+modified: 2026-06-10
 tags: []
 ---
 
