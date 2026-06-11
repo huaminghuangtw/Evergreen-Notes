@@ -1,6 +1,6 @@
 ---
 title: Always assume positive intents and intentions in others
-modified: 2026-04-30
+modified: 2026-06-10
 tags: []
 ---
 
