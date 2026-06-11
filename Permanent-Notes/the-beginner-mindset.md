@@ -1,6 +1,6 @@
 ---
 title: The Beginner Mindset
-modified: 2026-05-06
+modified: 2026-06-10
 tags: []
 ---
 
