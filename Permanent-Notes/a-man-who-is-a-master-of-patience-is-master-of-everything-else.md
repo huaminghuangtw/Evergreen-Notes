@@ -1,6 +1,6 @@
 ---
 title: A man who is a master of patience is master of everything else
-modified: 2026-06-10
+modified: 2026-06-12
 tags: []
 ---
 
