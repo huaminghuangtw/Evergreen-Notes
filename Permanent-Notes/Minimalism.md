@@ -1,6 +1,6 @@
 ---
 title: Minimalism
-modified: 2026-06-10
+modified: 2026-06-13
 tags: []
 ---
 
