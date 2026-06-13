@@ -1,6 +1,6 @@
 ---
 title: Walk
-modified: 2026-06-10
+modified: 2026-06-13
 tags: []
 ---
 
@@ -88,6 +88,10 @@ Goal: 8000–10000 steps per day
 3. **最大步幅前進**：
 	* 「最大步幅」指的是在不失去穩定性的前提下你能跨出的最大步伐。
 	* 步幅變大會自然帶動臀大肌、腿後肌（腿後腱）更強力啟動，有助提升下半身線條。
+
+---
+
+[What Happened When One Runner Tried a 1-Month Walking Challenge](https://www.runnersworld.com/runners-stories/a71536278/one-month-walking-challenge/)
 
 ---
 
