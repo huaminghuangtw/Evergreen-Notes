@@ -1,6 +1,6 @@
 ---
 title: Every single day, chop wood, carry waters
-modified: 2026-06-11
+modified: 2026-06-13
 tags: []
 ---
 
@@ -131,6 +131,7 @@ The practice solidifies.
 * Don’t aim to be consistently great; aim to be great at being _consistent_.
 * Mastery follows consistent/constant work.
 * **Consistency Intensity:** Intensity makes a good story. Consistency makes progress.
+* Remember, the sum of consistent, boring, ordinary performances adds up to something extraordinary. The next time you feel the urge to do something dramatic, come back to the mantra: **No unforced errors.**
 
 ---
 
