@@ -1,6 +1,6 @@
 ---
 title: Longevity
-modified: 2026-06-10
+modified: 2026-06-13
 tags: []
 ---
 
@@ -17,3 +17,9 @@ tags: []
 * 重點不是能夠活到幾歲，而是能夠「健康地」活到幾歲。
 * Prioritize enhancing _healthspan_, not just extending _lifespan_.
 * 功能年（Functional Years）& [不健康餘命](https://wiwi.blog/blog/unhealthy-lifespan)（Disability-Adjusted Life Year, DALY）
+
+---
+
+Treat your body as the house you will live forever.
+
+> “Take care of your body; it’s the only place you have to live.” — Jim Rohn
