@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-06-10
+modified: 2026-06-13
 tags: []
 ---
 
@@ -127,7 +127,7 @@ tags: []
 	* The proper strategy is to target a pace 5 to 10 seconds per mile slower than your goal pace for the first three or four miles. It will feel painfully/absurdly slow. It’s the right call. Just trust your splits.
 	* The payoff: Runners who execute a negative split race pass people in the final miles. They don’t get passed. That sensation — moving through a field of people who went out too fast — is one of the best feelings in marathon running.
 * 賽前約一週安排 Big/Hero Day 作為模擬考，然後全休 6 天。
-* 賽前三天開始做肝醣超補，要吃到體重公斤數的「八倍」公克數。
+* 賽前三天開始做 [What Happened When One Runner Tried a 1-Month Walking Challenge]([https://www.runnersworld.com/runners-stories/a71536278/one-month-walking-challenge/](https://www.runnersworld.com/runners-stories/a71536278/one-month-walking-challenge/))，要吃到體重公斤數的「八倍」公克數。
 
 # How to Measure Your Max HR
 
