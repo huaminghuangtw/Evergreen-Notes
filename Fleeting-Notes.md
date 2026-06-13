@@ -1,5 +1,5 @@
 ---
-modified: 2026-06-09
+modified: 2026-06-13
 ---
 
 <https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/>
@@ -28,22 +28,6 @@ modified: 2026-06-09
 * With resistance band
 	* Standing side leg raise
 	* Side band walk
-
----
-
-It’s hard to compete with someone who is just there to have fun.
-
-It’s almost impossible to beat someone who genuinely enjoys the work itself.
-
-And when you find that thing—that game you genuinely enjoy—I’ll say the same thing I said about Tim:
-
-Good luck to anyone trying to compete with you.
-
-[Never try to compete against someone who is obsessed (like Kobe Bryant)](https://youtu.be/tqiMvVIwu1g)
-
-樂在其中/走火入魔的人 認真勤奮努力的人
-
-Bring Joy = Ultimate Competitive Advantage.
 
 ---
 
