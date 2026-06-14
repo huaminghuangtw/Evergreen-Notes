@@ -1,6 +1,6 @@
 ---
 title: Failing forward turns setbacks into stepping stones
-modified: 2026-06-10
+modified: 2026-06-14
 tags: []
 ---
 
@@ -113,6 +113,10 @@ Treat failure like a scientist.
 **Each attempt is an experiment. Each [a-mistake-repeated-more-than-once-is-a-decision](a-mistake-repeated-more-than-once-is-a-decision.md) is a clue.**
 
 You’re not failing. You’re refining.
+
+---
+
+失敗 = 沒有堅持到底的認輸
 
 ---
 
