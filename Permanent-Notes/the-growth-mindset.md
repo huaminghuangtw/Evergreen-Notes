@@ -1,6 +1,6 @@
 ---
 title: The Growth Mindset
-modified: 2026-06-10
+modified: 2026-06-15
 tags: []
 ---
 
@@ -19,6 +19,10 @@ tags: []
 > “Dude, suckin’ at something is the first step to being sorta good at something.” — Jake, “Adventure Time”
 
 > “If you focus on what you left behind, then how can you see what lies ahead?” — Chef Gusteau, Ratatouille
+
+[@jorgensonAlmanackNavalRavikant2021]
+
+> “We think of ourselves as fixed and the world as malleable, but it’s really we who are malleable and the world is largely fixed.” — Naval Ravikant
 
 ---
 
