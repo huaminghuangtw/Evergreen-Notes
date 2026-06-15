@@ -1,6 +1,6 @@
 ---
 title: Money
-modified: 2026-06-10
+modified: 2026-06-15
 tags: []
 ---
 
@@ -49,8 +49,11 @@ Reasonable Rational
 
 * [True wealth is found not in attaining more, but in discovering enough.](https://x.com/SahilBloom/status/1571500995326185475)
 * Financial freedom is a feeling, not a reality.
+* Contentment is the greatest wealth.
 * **Marginal Utility:** [Beyond a certain point, having more money will not lead to more security, freedom, and happiness.](https://www.givingwhatwecan.org/blog/can-money-buy-happiness) In fact, these things do not come from more money. They come from knowing when to stop.
-	* See: [the-parable-of-the-mexican-fisherman](the-parable-of-the-mexican-fisherman.md)
+
+	> See: [the-parable-of-the-mexican-fisherman](the-parable-of-the-mexican-fisherman.md)
+
 * You’ll never achieve financial freedom when you [play status games](the-game-of-life.md), fall into the consumer trap, and let your ego dictate your spending.
 	* The only way to build wealth is to have a gap between your ego and your income. [Less ego](abandon-your-ego.md), more wealth.
 * False Belief: “_If I become great at making money, you’ll automatically become wealthy._”
@@ -63,7 +66,8 @@ Reasonable Rational
 			* If your expectations grow faster than your income, you’ll never be satisfied with your money, no matter how much you accumulate.
 			* You manage financial expectations by keeping your lifestyle way below your means.
 			* Your [​Margin of Freedom​](https://www.sahilbloom.com/newsletter/the-trap-of-success-how-to-escape-it) is the buffer you intentionally create between your reality and your expectations.
-			* The less you need, the richer you become — wealth is about flexibility, not luxury.
+			* The value of all money is relative to [expectations](the-absence-of-desire-is-true-happiness.md). Reducing your needs has the same impact as increasing your income—_but the former is more certain and in your control than the latter, so it has a higher expected value_.
+			* The less you need, the richer you become—wealth is about flexibility, not luxury.
 			* Being rich is having things. Being wealthy is knowing you don’t need them.
 
 				> “I want it, but I can’t afford it” ➞ “I can afford this and more, but I don’t need it.”
@@ -166,7 +170,7 @@ Reasonable Rational
 
 * The best uses of money are those that create one of four things in your life: **Time**, **Experiences**, **Purpose**, or **Health**.
 
-	> [“I try to keep in mind that there are two ways to use money. One is as a tool to live a better life. The other is as a yardstick of success to measure yourself against other people. The first is quiet and personal, the second is loud and performative. It’s so obvious which leads to a happier life.” — Morgen Housel](https://collabfund.com/blog/quiet-compounding/)
+	> [“I try to keep in mind that there are two ways to use money. One is as a tool to live a better life. The other is as a yardstick of success to measure yourself against other people. The first is quiet and personal, the second is loud and performative. It’s so obvious which leads to a happier life.” — Morgen Housel](https://collabfund.com/blog/quiet-compounding/) [^7]
 
 	* Don’t buy “dumb things” that offer “temporary happiness.” Spend smart on the things that bring you true, long-lasting happiness.
 	* Do not attempt to achieve status, respect, or admiration through material purchases.
@@ -185,7 +189,7 @@ Reasonable Rational
 	* Often, the more expensive item (“Buy It For Life” ) is more frugal than the cheaper item (“Buy Once, Cry Once”).
 * [The more money you have, the harder it becomes to know how to spend it in a way that will make you happy. And that confusion sets in at fairly low levels of income.](https://collabfund.com/blog/a-few-thoughts-on-spending-money/)
 
-	> The concept of the [Doughnut](https://www.google.com/search?q=Doughnut), as introduced by economist Kate Raworth, illustrates a balance between meeting essential human needs (_the social foundation_) and staying within planetary limits (_the ecological ceiling_). When applied to personal wealth and happiness, the Doughnut highlights a crucial insight: beyond a certain level of income—where basic needs are comfortably met—people enter a more ambiguous space of desire, where _knowing what to want_ becomes far less straightforward than _knowing what to need_. As Luke Burgis points out [^7], once survival is secured, people shift from necessity-driven decisions to socially influenced desires, often struggling to determine what will truly bring fulfillment.
+	> The concept of the [Doughnut](https://www.google.com/search?q=Doughnut), as introduced by economist Kate Raworth, illustrates a balance between meeting essential human needs (_the social foundation_) and staying within planetary limits (_the ecological ceiling_). When applied to personal wealth and happiness, the Doughnut highlights a crucial insight: beyond a certain level of income—where basic needs are comfortably met—people enter a more ambiguous space of desire, where _knowing what to want_ becomes far less straightforward than _knowing what to need_. As Luke Burgis points out [^8], once survival is secured, people shift from necessity-driven decisions to socially influenced desires, often struggling to determine what will truly bring fulfillment.
 
 * **Eliminate Before Accumulate**: Use [The “One in, One Out” Rule](the-one-in-one-out-rule.md) when buy things
 * 3 Levels
@@ -210,4 +214,5 @@ Reasonable Rational
 [^4]: _[“When you see someone driving a nice car, you rarely think, “Wow, the guy driving that car is cool.” Instead, you think, “Wow, if I had that car people would think I’m cool.” Subconscious or not, this is how people think.”](https://www.goodreads.com/quotes/11049281-when-you-see-someone-driving-a-nice-car-you-rarely)_
 [^5]: In contrast, borrowing money creates [debt’s vicious cycle](https://sketchplanations.com/debts-vicious-cycle), leading to financial strain and growing interest payments that can be difficult to escape.
 [^6]: [No one hands out money. No one is going to pay you just because they like you or think you’re cool. That’s not the way the world works. **Money earned is a direct byproduct of value created—and that value is a direct byproduct of your service of others.** It’s not talking about the thing, it’s not brainstorming about the thing, it’s not asking about the thing, it’s not thinking about the thing. The only way to create value is by doing the thing. Identify a problem, create a solution, scale the solution. Simple, not easy.](https://x.com/SahilBloom/status/1878069357760156057)
-[^7]: _[“After meeting our basic needs as creatures, we enter into the human universe of desire. And knowing what to want is much harder than knowing what to need.”](https://www.amazon.com/Wanting-Power-Mimetic-Desire-Everyday/dp/1250262488)_
+[^7]: 錢是手段，不是目的。
+[^8]: _[“After meeting our basic needs as creatures, we enter into the human universe of desire. And knowing what to want is much harder than knowing what to need.”](https://www.amazon.com/Wanting-Power-Mimetic-Desire-Everyday/dp/1250262488)_
