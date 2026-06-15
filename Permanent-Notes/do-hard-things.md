@@ -1,6 +1,6 @@
 ---
 title: Do hard things
-modified: 2026-06-10
+modified: 2026-06-15
 tags: []
 ---
 
@@ -100,7 +100,7 @@ When we embrace _|voluntary struggles_, we’re better equipped/prepared for the
 
 ---
 
-# [Callous](https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/callous) Your Mind. Develop Mental [Calluses](https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/callus).
+# [Callous](https://www.google.com/search?q=Callous) Your Mind. Develop Mental [Calluses](https://www.google.com/search?q=Calluses).
 
 [@gogginsCantHurtMe2018]
 
@@ -155,7 +155,11 @@ References:
 
 ---
 
-[Make Something Heavy - by Anu Atluru - Working Theorys](https://www.workingtheorys.com/p/make-something-heavy)
+You can feel sore tomorrow or you can feel sorry tomorrow. You choose.
+
+---
+
+[Make Something Heavy | Anu Atluru | Working Theorys](https://www.workingtheorys.com/p/make-something-heavy)
 
 ---
 
