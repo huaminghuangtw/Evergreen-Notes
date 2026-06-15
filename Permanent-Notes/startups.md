@@ -1,6 +1,6 @@
 ---
 title: Startups
-modified: 2026-06-10
+modified: 2026-06-15
 tags: []
 ---
 
@@ -22,6 +22,7 @@ tags: []
 		* No need to chop up work for political reasons
 		* No room for mediocre people (can pay more, too!)
 		* Large-scale engineering projects are more soluble in IQ than they appear
+		* [Brooks’s law](https://www.google.com/search?q=Brooks’s+law): adding manpower to a late software project makes it later
 * Many tech companies are 2-10x overstaffed
 	* Criteria for hiring someone: energy > expertise > money (salary)
 		* Hard skills get you hired. Soft skills get you promoted.
