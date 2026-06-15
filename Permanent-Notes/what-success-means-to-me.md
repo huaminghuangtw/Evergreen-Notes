@@ -1,6 +1,6 @@
 ---
 title: What success means to me
-modified: 2026-06-11
+modified: 2026-06-15
 tags: []
 ---
 
@@ -13,6 +13,8 @@ tags: []
 > “Success is the product of daily habits—not once-in-a-lifetime transformations.” — James Clear
 
 > “Success is going from failure to failure without losing your enthusiasm.” — Winston Churchill
+
+> “Success is like reaching an important birthday and finding you’re exactly the same.” — Audrey Hepburn
 
 > “To laugh often and much: To win the respect of intelligent people and the affection of children, to earn the appreciation of honest critics and endure the betrayal of false friends; to appreciate beauty, to find the best in others, to leave the world a bit better whether by a healthy child, a garden patch, or a redeemed social condition; to know even one life has breathed easier because you lived. This is to have succeeded.” — Ralph Waldo Emerson
 
@@ -64,6 +66,12 @@ The most important thing in life is _not having_ what you want, but _knowing_ wh
 
 1. 想：知道自己想要/不想要什麼、定義自己的平衡/甜蜜點 [^3] [^4]
 2. 做：有能力真正地得到/避免自己想要/不想要 の 東西、想辦法站在上面，死都不要下來
+
+---
+
+# [Significance > Success](https://collabfund.com/blog/significance-success/)
+
+> We are all chasing success at some level. We all want to be good at what we do. We want to be well regarded by our peers. However, <mark>how you do this is really important</mark>. Success often happens in a vacuum. We are so dead set on the outcome. Yet, being successful in this world isn’t all it’s cracked up to be. Rather <mark>we should aim to be significant, which means accomplishing things together. We want to make an impact on the people around us and bring people along with us. Success is meaningless unless we are being significant.</mark>
 
 ---
 
