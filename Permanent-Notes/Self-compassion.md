@@ -1,6 +1,6 @@
 ---
 title: Self-compassion
-modified: 2026-06-10
+modified: 2026-06-15
 tags: []
 ---
 
@@ -66,11 +66,15 @@ Embrace every aspect of yourself (your entirety), including strengths and weakne
 
 # The “Treat Yourself Like A robot” Mindset
 
-We just need to tweak the system rather than beating ourselves up.
+Be forgiving with your past self. What’s done is done. We just need to tweak the system rather than beating ourselves up.
 
 ---
 
 [I soothe myself by using a term of endearment in my head. Whenever I make a mistake, feel down, or get flustered, I gently tell myself, “It’s okay, sweetie.”](https://mariandrew.substack.com/p/100-things-i-know)
+
+---
+
+You don’t need to solve every problem right now, only those that stand in your way.
 
 ---
 
