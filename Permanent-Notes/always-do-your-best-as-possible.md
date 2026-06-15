@@ -1,6 +1,6 @@
 ---
 title: Always do your best as possible
-modified: 2026-06-10
+modified: 2026-06-15
 tags: []
 ---
 
@@ -20,6 +20,8 @@ tags: []
 
 > “People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.” — Andrew Carnegie
 
+> “I found in my career that if you take pride in the little jobs, people will think you worthy of the bigger jobs. Sooner or later we all have to do things we do not want to. But if you are going to do it, do it right. Build the best damn Frog Float you can.” — William McRaven, The Wisdom of the Bullfrog
+
 ---
 
 ↔ 半調子
@@ -38,7 +40,7 @@ G.O.A.T. = Greatest of All Time 𓃵🐐
 
 ---
 
-Be the best in the world (world-class/legend)
+Make the best of whatever chances you’re given.
 
 ---
 
@@ -49,9 +51,7 @@ To be the best at something, you need to enjoy it…
 
 ---
 
-If you don’t try to be the best, you won’t even be good.
-
-* It’s easier to try to be the best than to try merely to be good.
+If you don’t try to be the best, you won’t even be good. It’s easier to try to be the best than to try merely to be good.
 
 ---
 
@@ -78,12 +78,6 @@ Second place is the first loser.
 # Plan-A Thinking
 
 Never settle/compromise for the second best. Having a back-up plan (Plan-B), or even considering one, has been shown to hinder performance and reduce motivation to hit your primary goal.
-
----
-
-> “Take a simple idea, and take it seriously.” — Charlie Munger
-
-Quality over Quantity. Depth over Width.
 
 ---
 
