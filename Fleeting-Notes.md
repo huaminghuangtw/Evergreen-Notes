@@ -1,33 +1,33 @@
 ---
-modified: 2026-06-13
+modified: 2026-06-15
 ---
 
 <https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/>
 
 # 🐻 上半身
 
-* &nbsp;
-	- [ ] Pull-up
-	- [ ] Push-up to row with dumbbells (0/90 度)
-	- [ ] Row (dumbells/knee-supported/barbell)
-	- [ ] Inverted row (Smith machine/dig stand)
-	- [ ] Sand Bag - Swing to Press
-	- [ ] Sand Bag - Overboard Toss
-	- [ ] Sand Bag - Pick & Press with sand bag
-	- [ ] Sand Bag - Reverse Lunge with Rotation
-	- [ ] Sand Bag - Rotational Swing
-	- [ ] Dips
+- [ ] Pull-up
+- [ ] Push-up to row with dumbbells (0/90 度)
+- [ ] Row (dumbells/knee-supported/barbell)
+- [ ] Inverted row (Smith machine/dig stand)
+- [ ] Sand Bag - Swing to Press
+- [ ] Sand Bag - Overboard Toss
+- [ ] Sand Bag - Pick & Press with sand bag
+- [ ] Sand Bag - Reverse Lunge with Rotation
+- [ ] Sand Bag - Rotational Swing
+- [ ] Dips
 
 # 🐴 下半身
 
-* &nbsp;
-	- [ ] Bulgarian split squats (barbell/dumbbell/kettlebell)
-	- [ ] RDL (kettlebell/dumbbell)
-	- [ ] Barbell jump squat
-	- [ ] Goblet squat
-* With resistance band
-	* Standing side leg raise
-	* Side band walk
+- [ ] Bulgarian split squats (barbell/dumbbell/kettlebell)
+- [ ] RDL (kettlebell/dumbbell)
+- [ ] Barbell jump squat
+- [ ] Goblet squat
+
+With resistance band
+
+* Standing side leg raise
+* Side band walk
 
 ---
 
@@ -276,3 +276,7 @@ The “Golden Algorithm” is a behavioral and emotional framework popularized b
 ---
 
 用人不疑疑人不用
+
+---
+
+What are some things this person likely doesn’t do, in order to reach their goals? e.g. What have they had to sacrifice?
