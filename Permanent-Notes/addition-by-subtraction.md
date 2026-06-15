@@ -1,6 +1,6 @@
 ---
 title: Addition by subtraction
-modified: 2026-06-13
+modified: 2026-06-15
 tags: []
 ---
 
@@ -31,6 +31,18 @@ The Christmas Tree Effect describes the human tendency to solve problems by addi
 > Why is it so much easier to add than to remove? Maybe because we attach our identity to what is visible. But there is a difference between the ornamentation that defines our [style](https://stephango.com/style) and the vestigial burdens we carry.
 >
 > Remember those who did the invisible work of removing. Their legacy was not to build a sand castle, but to care for the beautiful beach on which we play.
+
+---
+
+# [Strider Balance Bikes](https://striderbikes.com/)
+
+---
+
+# SpaceX Raptor
+
+| ![](_attachments/719bd364677580f7ddec9613303754e6.png) |
+| :-: |
+| <sub>[Source](https://x.com/SpaceX/status/1819772716339339664)</sub> |
 
 ---
 
