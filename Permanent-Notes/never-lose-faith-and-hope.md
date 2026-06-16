@@ -1,6 +1,6 @@
 ---
 title: Never lose faith and hope
-modified: 2026-06-10
+modified: 2026-06-16
 tags: []
 ---
 
@@ -16,11 +16,13 @@ tags: []
 
 > “Faith is the bird that feels the light and sings when the dawn is still dark.” — Rabindranath Tagore
 >
-> 「信仰是那隻在黎明尚未破曉時，仍感受到光明並歌唱的鳥。」— 印度詩人泰戈爾
+> 信仰是那隻在黎明尚未破曉時，仍感受到光明並歌唱的鳥。
+> — 印度詩人泰戈爾
 
 > “Faith is confidence in what we hope for and assurance about what we do not see.” — Hebrews 11:1
 >
-> 「信是所望之事的實底、未見之事的確據。」— 希伯來書第十一章
+> 信是所望之事的實底、未見之事的確據。
+> — 希伯來書第十一章
 
 > “To do original work, it is not necessary to know something nobody else knows. It is necessary to believe something few other people believe.” — Marc Andreessen
 
@@ -28,7 +30,8 @@ tags: []
 
 > “Blessed are those who have not seen and yet have believed.” — John 20:29
 >
-> 「那些還沒看見就信的，有福了。」— 約翰福音 20：29
+> 那些還沒看見就信的，有福了。
+> — 約翰福音 20：29
 
 ---
 
