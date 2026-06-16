@@ -1,6 +1,6 @@
 ---
 title: Love
-modified: 2026-06-10
+modified: 2026-06-16
 tags: []
 ---
 
@@ -44,7 +44,8 @@ tags: []
 
 > [“I choose to love you in silence… For in silence I find no rejection, I choose to love you in loneliness… For in loneliness no one owns you but me, I choose to adore you from a distance… For distance will shield me from pain, I choose to kiss you in the wind… For the wind is gentler than my lips, I choose to hold you in my dreams… For in my dreams, you have no end.” — Rumi](https://www.goodreads.com/quotes/3239983-i-choose-to-love-you-in-silence-for-in-silence)
 
-> 「這世界上最不缺的就是，隨處可見的漂亮妞，隨處可見的有錢人和隨處泛濫的愛情。卻唯獨缺少了愛情裡，本不該缺失的那份責任感、安全感還有忠誠。一個人有多好，一點都不重要，一個人對你有多好，才重要。在這個放蕩不羈又充滿誘惑的世界裡，如果有一個人能給你安全感和忠誠，為你承擔那份責任，那他—定比這個世界更迷人。」— 楊絳
+> 這世界上最不缺的就是，隨處可見的漂亮妞，隨處可見的有錢人和隨處泛濫的愛情。卻唯獨缺少了愛情裡，本不該缺失的那份責任感、安全感還有忠誠。一個人有多好，一點都不重要，一個人對你有多好，才重要。在這個放蕩不羈又充滿誘惑的世界裡，如果有一個人能給你安全感和忠誠，為你承擔那份責任，那他—定比這個世界更迷人。
+> — 楊絳
 
 > “The most important aspect of love is not in giving or the receiving: it’s in the being.” — Ram Dass
 
@@ -184,7 +185,8 @@ Find a partner who believes in you more than you believe in yourself.
 
 ---
 
-> 「愛人是一種能力，被愛是一種天賦。」—《六弄咖啡館》
+> 愛人是一種能力，被愛是一種天賦。
+> —《六弄咖啡館》
 
 ---
 
