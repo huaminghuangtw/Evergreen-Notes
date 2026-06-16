@@ -1,6 +1,6 @@
 ---
 title: The Compounding Effect
-modified: 2026-06-10
+modified: 2026-06-16
 tags: []
 ---
 
@@ -133,7 +133,8 @@ Reduce standard stupidities. Avoid idiotic behavior. [^3]
 
 ---
 
-> 「不要想著贏、要想不能輸。」— 電影《KANO》
+> 不要想著贏、要想不能輸。
+> — 電影《KANO》
 
 不輸才是贏，少輸也是贏。
 
