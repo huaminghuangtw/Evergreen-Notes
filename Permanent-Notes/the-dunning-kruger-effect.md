@@ -1,6 +1,6 @@
 ---
 title: The Dunning-Kruger Effect
-modified: 2026-06-10
+modified: 2026-06-16
 tags: []
 ---
 
@@ -33,7 +33,8 @@ There are many people of questionable intelligence who believe they are mentally
 
 ## 以退為進
 
-> 「不自見故明，不自是故彰，不自伐故有功，不自矜故長。」—《老子道德經》第二十二章
+> 不自見故明，不自是故彰，不自伐故有功，不自矜故長。
+> —《老子道德經》第二十二章
 
 不自我炫耀、不堅持己見，反而能看清事物的真相。不自以為是、不盲目主觀，反而能彰顯出是非對錯。不自我誇耀功勞，功勞反而能得到大眾的認可。不驕傲自負，聲望與德行反而能長久維持。
 
