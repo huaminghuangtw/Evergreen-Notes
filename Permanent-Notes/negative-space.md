@@ -1,6 +1,6 @@
 ---
 title: Negative Space
-modified: 2026-06-10
+modified: 2026-06-16
 tags: []
 ---
 
@@ -8,7 +8,8 @@ tags: []
 
 ---
 
-> 「三十輻共一轂，當其無，有車之用。埏埴以為器，當其無，有器之用。鑿戶牖以為室，當其無，有室之用。故有之以為利，無之以為用。」— 老子《道德經》第十一章
+> 三十輻共一轂，當其無，有車之用。埏埴以為器，當其無，有器之用。鑿戶牖以為室，當其無，有室之用。故有之以為利，無之以為用。
+> — 老子《道德經》第十一章
 >
 > “We join spokes together in a wheel, but it is the center hole that makes the wagon move. We mold clay into a pot, but it is the emptiness inside that makes the pot useful. We hammer wood for a house, but it is the inner space that makes it livable. We work with substantial, but non-being is what we use. Therefore benefit comes from what is there; Usefulness from what is not there.” — Lao Tzu [^1]
 
