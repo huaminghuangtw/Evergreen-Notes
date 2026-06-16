@@ -1,6 +1,6 @@
 ---
 title: Leverage
-modified: 2026-06-10
+modified: 2026-06-16
 tags: []
 ---
 
@@ -30,7 +30,8 @@ tags: []
 
 ## 1. In The Internal (i.e., personal) World, Focus On The Strengths (unfair advantages), Not Weaknesses
 
-> 「揚長須即時，補短永不遲。」— 馬大元醫師
+> 揚長須即時，補短永不遲。
+> — 馬大元醫師
 
 > “Success is achieved by developing our strengths, not by eliminating our weaknesses.” — Marilyn vos Savant
 
