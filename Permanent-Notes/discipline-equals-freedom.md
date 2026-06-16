@@ -1,12 +1,14 @@
 ---
 title: Discipline equals freedom
-modified: 2026-06-10
+modified: 2026-06-16
 tags: []
 ---
 
 > [“Discipline is doing what you hate to do, but nonetheless doing it like you love it.” — Mike Tyson](https://x.com/MikeTyson/status/1051925919710027777)
 
-> 「只有在生活中紀律嚴明的人才是自由的。如果缺乏紀律，只會成為情緒和激情的奴隸。」(Only the disciplined ones in life are free. If you are undisciplined, you are a slave to your moods and your passions.) — Eliud Kipchoge
+> 只有在生活中紀律嚴明的人才是自由的。如果缺乏紀律，只會成為情緒和激情的奴隸。
+>
+> “Only the disciplined ones in life are free. If you are undisciplined, you are a slave to your moods and your passions.” — Eliud Kipchoge
 
 > “A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy.” — Norman Vincent Peale
 
@@ -16,15 +18,15 @@ tags: []
 
 > “Autonomie des Willens ist die Eigenschaft des Willens, sich selbst ein Gesetz zu sein.” — Grundlegung zur Metaphysik der Sitten, BA 89
 >
-> 「意志的自律，就是意志為自己立法的能力。」
+> 意志的自律，就是意志為自己立法的能力。
 
 > “Freiheit ist die Eigenschaft, eine Ursache unabhängig von fremden, bestimmenden Ursachen zu sein.” — Kritik der praktischen Vernunft
 >
-> 「自由，就是作為一個原因而不受其他外在決定性原因所支配的性質。」
+> 自由，就是作為一個原因而不受其他外在決定性原因所支配的性質。
 
 > “Ein Will ist nur dann frei, wenn er autonom ist.”
 >
-> 「意志唯有在自律時才是自由的。」
+> 意志唯有在自律時才是自由的。
 
 * 真正的道德行為不是因外在獎賞或懲罰，而是出於內在的理性命令（定言命令）。
 * 對康德而言，自由 = 自主地依理性立法（自律）行動，而非被外在欲望或他人驅動。
