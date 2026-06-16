@@ -1,6 +1,6 @@
 ---
 title: The Art of Quitting
-modified: 2026-06-10
+modified: 2026-06-16
 tags: []
 ---
 
@@ -8,7 +8,8 @@ tags: []
 
 > “Someone who can’t sacrifice anything, can never change anything.” — Armin Arlert, Attack on Titan (進擊 の 巨人)
 
-> 「取是能力，捨是境界。」— 電影《破風》
+> 取是能力，捨是境界。
+> — 電影《破風》
 
 [@ferriss4hourWorkweekEscape2011]
 
