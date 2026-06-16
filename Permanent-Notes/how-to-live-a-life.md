@@ -1,6 +1,6 @@
 ---
 title: How to live a life?
-modified: 2026-06-11
+modified: 2026-06-16
 tags:
   - 人蔘
 ---
@@ -39,7 +39,8 @@ tags:
 
 > “Life is like school, with one key difference—in school you get the lesson, and then you take the test. But in life, you get the test, and it’s your job to take the lesson.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)
 
-> 「人生不是戰場，不必追求勝利，也沒有勝利可追求，更重要的其實是經歷。」 — 張曼娟
+> 人生不是戰場，不必追求勝利，也沒有勝利可追求，更重要的是經歷。
+> — 張曼娟
 
 > “Decide what you would like your obituary to say, and live the life to deserve it.” — [Warren Buffet in his final letter to Berkshire Hathaway shareholders](https://www.berkshirehathaway.com/news/nov1025.pdf)
 
