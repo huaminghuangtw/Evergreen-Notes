@@ -1,6 +1,6 @@
 ---
 title: True education begins where school ends
-modified: 2026-06-10
+modified: 2026-06-16
 tags: []
 ---
 
@@ -20,7 +20,8 @@ tags: []
 
 > “When you stop learning you start dying.” — Albert Einstein
 
-> 「畢業是站在制度性學習的終點、自主性學習的起點。」— 龍應台
+> 畢業是站在制度性學習的終點、自主性學習的起點。
+> — 龍應台
 
 > “Live to learn and you’ll really learn to live.” — John C. Maxwell
 
@@ -75,7 +76,7 @@ School lays the foundation, but true education starts when you step beyond the c
 
 ---
 
-學海無涯
+學海無涯、學無止境
 
 ---
 
