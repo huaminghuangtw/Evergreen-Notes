@@ -1,6 +1,6 @@
 ---
 title: Perfectionism
-modified: 2026-06-10
+modified: 2026-06-16
 tags: []
 ---
 
@@ -41,7 +41,8 @@ Perfectionism is a [double-edged sword (雙面刃)](duality-vs-polarity.md). On 
 
 You are not perfect, nor should you try to be. Your flaws attract the right people you want to be around and filter out those who don’t belong.
 
-> 「修真養性，服食導引，卻病延年，沖舉可俟。」—《東周列國志》第 87 回
+> 修真養性，服食導引，卻病延年，沖舉可俟。
+> —《東周列國志》第 87 回
 
 > 比丘常帶三分病，是助道因緣。
 
