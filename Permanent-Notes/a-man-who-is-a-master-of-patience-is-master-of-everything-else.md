@@ -1,6 +1,6 @@
 ---
 title: A man who is a master of patience is master of everything else
-modified: 2026-06-12
+modified: 2026-06-16
 tags: []
 ---
 
@@ -16,7 +16,8 @@ tags: []
 
 > “Genius is eternal patience.” — Michelangelo
 >
-> 「天才是耐心的極致。」— 米開朗基羅
+> 天才是耐心的極致。
+> — 米開朗基羅
 
 > “Patience is also a form of action.” — Auguste Rodin [^1]
 
