@@ -1,6 +1,6 @@
 ---
 title: Cultivate a strong bias towards action
-modified: 2026-06-11
+modified: 2026-06-16
 tags: []
 ---
 
@@ -48,7 +48,8 @@ tags: []
 
 > [“You do not write your life with words. You write it with actions. What you think is not important. It is only important what you do.” — Patrick Ness, A Monster Calls](https://www.goodreads.com/quotes/394528-you-do-not-write-your-life-with-words-you-write-it) [^3] [^4]
 
-> 「不做不知道，做了才知道，犯錯沒關係，輸得起就好。」— 郝旭烈
+> 不做不知道，做了才知道，犯錯沒關係，輸得起就好。
+> — 郝旭烈
 
 ---
 
