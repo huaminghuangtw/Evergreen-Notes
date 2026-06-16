@@ -1,10 +1,11 @@
 ---
 title: Embrace the beauty of enoughness
-modified: 2026-06-10
+modified: 2026-06-16
 tags: []
 ---
 
-> 「真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。」 — 沈芯菱 [^1]
+> 真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。
+> — 沈芯菱 [^1]
 
 > “Be thankful for what you have; you’ll end up having more. If you concentrate on what you don’t have, you will never, ever have enough.” — Oprah Winfrey
 
