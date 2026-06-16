@@ -1,6 +1,6 @@
 ---
 title: Comparison is the thief of joy
-modified: 2026-06-10
+modified: 2026-06-16
 tags: []
 ---
 
@@ -14,7 +14,8 @@ tags: []
 
 > “Don’t compare your inside to someone else’s outside.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
 
-> 「夫唯不爭，故天下莫能與之爭。」—《老子道德經》第二十二章
+> 夫唯不爭，故天下莫能與之爭。
+> —《老子道德經》第二十二章
 >
 > Because he doesn’t compare himself with others, no one can compare with him.
 
