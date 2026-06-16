@@ -1,6 +1,6 @@
 ---
 title: Anger
-modified: 2026-06-10
+modified: 2026-06-16
 tags: []
 ---
 
@@ -75,11 +75,13 @@ Revenge harms not only your target but also yourself. The “two graves” symbo
 
 * 以德報怨：以德行應對怨恨
 
-> 「以直報怨，以德報德。」—《論語・憲問》
+	> 以直報怨，以德報德。
+	> —《論語・憲問》
 
 * 慎怒、克己：避免因情緒害己
 
-> 「小不忍，則亂大謀。」—《論語・衛靈公》
+	> 小不忍，則亂大謀。
+	> —《論語・衛靈公》
 
 ---
 
