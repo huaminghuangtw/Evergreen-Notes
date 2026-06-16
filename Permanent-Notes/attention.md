@@ -1,6 +1,6 @@
 ---
 title: Attention
-modified: 2026-06-10
+modified: 2026-06-16
 tags: []
 ---
 
@@ -11,6 +11,10 @@ tags: []
 ---
 
 Everyone (and everything) is competing for your attention, use it wisely, you don’t get the [time](time-is-the-most-valuable-asset.md) back! Your [energy](energy-management.md) flows to where your attention goes.
+
+---
+
+Where you direct your curiosity is where you direct your attention; **attention is the currency of learning.**
 
 ---
 
