@@ -1,6 +1,6 @@
 ---
 title: You are the average of the five people you associate with most
-modified: 2026-06-10
+modified: 2026-06-16
 tags: []
 ---
 
@@ -86,7 +86,8 @@ Surround yourself with people…
 
 > “When you gaze long into an abyss, the abyss also gazes into you.” — Friedrich Nietzsche, Beyond Good and Evil
 >
-> 「當你凝視深淵時，深淵也在凝視著你。」— 尼采《善惡的彼岸》
+> 當你凝視深淵時，深淵也在凝視著你。
+> — 尼采《善惡的彼岸》
 
 * [Cucumbers get more pickled than brine gets cucumbered.](https://www.darencademy.com/article/view/id/16913)
 * 新鮮黃瓜進入醃罐時或許仍保有本色，但時間一久，也會被環境悄悄改變，成為另一條醃黃瓜。
