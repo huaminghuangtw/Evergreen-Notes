@@ -1,6 +1,6 @@
 ---
 title: Every single day, chop wood, carry waters
-modified: 2026-06-13
+modified: 2026-06-16
 tags: []
 ---
 
@@ -84,7 +84,7 @@ There is a Zen Buddhist saying: “What do you do before enlightenment? _Chop wo
 
 > “When the root is strong, the fruit is sweet.” — Bob Marley
 
-> 「先為不可勝，以待敵之可勝」—《孫子兵法》
+> 先為不可勝，以待敵之可勝 —《孫子兵法》
 
 * [蹲馬步](slow-down-to-speed-up.md) — [持續地把每件瑣 (碎的小) 事循序漸進、按部就班地做好才是成功的關鍵。](https://youtu.be/mZPN9W-jPm4)
 * 一步一步來，有一才有二
