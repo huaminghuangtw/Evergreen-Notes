@@ -1,6 +1,6 @@
 ---
 title: Adaptability
-modified: 2026-06-10
+modified: 2026-06-16
 tags: []
 ---
 
@@ -24,7 +24,8 @@ tags: []
 
 > “Until you change how you get things done, you’ll never know what works best.” — Roy T. Bennett
 
-> 「易窮則變，變則通，通則久。」— 《易經．繫辭下》[^3]
+> 易窮則變，變則通，通則久。
+> — 《易經．繫辭下》[^3]
 
 > “The art of life is a constant readjustment to our surroundings.” — Kakuzo Okakura
 
