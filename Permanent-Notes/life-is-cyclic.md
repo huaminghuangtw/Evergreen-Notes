@@ -1,6 +1,6 @@
 ---
 title: Life is cyclic
-modified: 2026-06-15
+modified: 2026-06-16
 tags: []
 ---
 
@@ -16,7 +16,8 @@ tags: []
 
 > “There is a time for everything, and a season for every activity under the heavens.” — Ecclesiastes 3:1
 >
-> 「天下萬物皆有定時。」—《聖經・舊約・傳道書第 3 章第 1 節》
+> 天下萬物皆有定時。
+> —《聖經・舊約・傳道書》第 3 章第 1 節
 
 > “Stability leads to instability. The more stable things become and the longer things are stable, the more unstable they will be when the crisis hits.” — Hyman Minsky
 
