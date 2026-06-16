@@ -1,6 +1,6 @@
 ---
 title: Themed Days
-modified: 2026-06-10
+modified: 2026-06-16
 tags: []
 ---
 
@@ -24,7 +24,7 @@ A [goal](goal-setting.md) asks _“What do I want?”_, but a theme asks _“Who
 
 # [Example by Jacky Wang](https://podcasts.apple.com/de/podcast/%E9%9B%BB%E6%89%B6%E6%A2%AF%E8%B5%B0%E5%B7%A6%E9%82%8A-with-jacky-left-side-escalator/id1544225078?i=1000685545309)
 
-> [我如何在 2025 年讓工作效率和幸福感翻倍？｜電扶梯走左邊 with Jacky](https://www.leftsideescalator.com/p/2025-81f)
+> [我如何在 2025 年讓工作效率和幸福感翻倍？｜電扶梯走左邊 with Jacky](https://leftsideescalator.substack.com/p/2025-81f)
 
 1. **Sunday** - Rest & Reflect
 	* 休息反思日
