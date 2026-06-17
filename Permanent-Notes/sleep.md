@@ -1,6 +1,6 @@
 ---
 title: Sleep
-modified: 2026-06-11
+modified: 2026-06-17
 tags: []
 ---
 
@@ -49,7 +49,7 @@ The bed is for sleep and sex
 
 sleep semi-naked, but warm your hands/feet with gloves/socks on, so as to send blood to your core which then radiates the heat outward
 
-* 睡覺時，環境要冷，手腳要暖
+> 睡覺時，環境要冷，手腳要暖
 
 Aim for consistent bedtimes and wake times with a ± 30 minutes margin of error, whether it’s the weekend or a weekday.
 
@@ -66,6 +66,8 @@ You do not have 24 hours in the day. You only have ~16 hours per day being awake
 Individual duvets provide the warmest way to sleep, eliminating air gaps and the risk of your partner pulling or hogging the duvet in the middle of the night, ultimately stop nightly battle over the bedsheets.
 
 Add blackout curtains or wear an eye mask to maximize darkness in the bedroom.
+
+> 應暗到伸手不見五指。
 
 Sleeping Inclined: Put bed risers at the head of your bed
 
