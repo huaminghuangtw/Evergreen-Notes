@@ -1,6 +1,6 @@
 ---
 title: Longevity
-modified: 2026-06-13
+modified: 2026-06-17
 tags: []
 ---
 
@@ -10,7 +10,7 @@ tags: []
 
 ---
 
-# 「延長壽命」vs「延長生命力」
+# 「延長壽命」（活多久）vs「延長生命力」（活多好）
 
 > “Health is the greatest wealth; guard it with daily care.” — Virgil
 
