@@ -1,6 +1,6 @@
 ---
 title: Eat the biggest frog first thing in the morning
-modified: 2026-06-10
+modified: 2026-06-17
 tags: []
 ---
 
@@ -51,7 +51,7 @@ First things first. Do the most important thing [^3] first, not the most urgent 
 # [Tim Ferriss’ Framework](https://tim.blog/2013/11/03/productivity-hacks/)
 
 1. Wake up at least 1 hour before you have to be at a computer screen. E-mail is the mind killer.
-2. Make a cup of tea (I like pu-erh) and sit down with a pen/pencil and paper.
+2. Make a cup of tea (I like pu-erh) and sit down with a pen/pencil and paper/pad.
 3. Write down the 3 things — and no more — that are making you most anxious or uncomfortable. They’re often things that have been punted from one day’s to-do list to the next, to the next, to the next, and so on. **Most important usually = most uncomfortable**, with some chance of rejection or conflict.
 4. For each item, ask yourself:
 	* “_If this were the only thing I accomplished today, would I be satisfied with my day?_”
