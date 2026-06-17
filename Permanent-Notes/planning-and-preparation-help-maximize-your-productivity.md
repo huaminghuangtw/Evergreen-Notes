@@ -1,6 +1,6 @@
 ---
 title: Planning and preparation help maximize your productivity
-modified: 2026-06-11
+modified: 2026-06-17
 tags: []
 ---
 
@@ -21,6 +21,8 @@ tags: []
 > 在準備一場戰役的時候，我總是發現計劃是沒有用的，但計劃又是不可或缺的。
 
 > “To win is not important. To be successful is not even important. How to plan and prepare is crucial. When you plan very well and prepare very well, then success can come on the way. Then winning can come on your way.” — Eliud Kipchoge
+
+> _“I never won a fight in the ring; I always won in preparation_.” — Muhammad Ali
 
 ---
 
