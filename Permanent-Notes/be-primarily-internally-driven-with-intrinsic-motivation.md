@@ -1,6 +1,6 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
-modified: 2026-06-10
+modified: 2026-06-17
 tags: []
 ---
 
@@ -68,7 +68,7 @@ Focus on the [Inner Scorecard](https://fs.blog/the-inner-scorecard), not the ext
 
 ---
 
-# [David Brooks - Résumé Virtues & Eulogy Virtues](https://youtu.be/MlLWTeApqIM)
+# [David Brooks - Résumé Virtues (履歷美德) & Eulogy Virtues (悼詞美德)](https://youtu.be/MlLWTeApqIM)
 
 > So I’ve been thinking about the difference between the résumé virtues and the eulogy virtues. The résumé virtues are the ones you put on your résumé, which are the skills you bring to the marketplace. The eulogy virtues are the ones that get mentioned in the eulogy, which are deeper: who are you, in your depth, what is the nature of your relationships, are you bold, loving, dependable, consistency? And most of us, including me, would say that the eulogy virtues are the more important of the virtues. But at least in my case, are they the ones that I think about the most? And the answer is no.
 
