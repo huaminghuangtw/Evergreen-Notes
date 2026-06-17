@@ -1,6 +1,6 @@
 ---
 title: How to live a life?
-modified: 2026-06-16
+modified: 2026-06-17
 tags:
   - 人蔘
 ---
@@ -8,8 +8,6 @@ tags:
 > [“The goal of life is to be excited to go to work and excited to go home.” — Josh Kushner](https://x.com/JoshuaKushner/status/1944388157828718893)
 
 > “As long as you live, keep learning how to live.” — Seneca
-
-> “Begin at once to live, and count each separate day as a separate life.” — Seneca
 
 > “Let every dawn of morning be to you as the beginning of life, and every setting sun be to you as its close.” — John Ruskin, [The Two Paths](https://www.goodreads.com/work/quotes/2166737)
 
@@ -55,6 +53,14 @@ tags:
 > — Jack Kornfield
 
 > “Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!” — Sathya Sai Baba
+
+---
+
+# 每天都是全新的生命
+
+> “Begin at once to live, and count each separate day as a separate life.” — Seneca
+
+> “Each night, when I go to sleep, I die. And the next morning, when I wake up, I am reborn.” — Mahatma Gandhi
 
 ---
 
