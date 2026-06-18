@@ -1,6 +1,6 @@
 ---
 title: Be ready to change your mind completely at any given time
-modified: 2026-06-10
+modified: 2026-06-18
 tags: []
 ---
 
@@ -24,6 +24,8 @@ tags: []
 
 > “I can’t understand why people are frightened of new ideas. I’m frightened of the old ones.” — John Cage
 
+> “I always get to where I am going by walking away from where I have been.” — Winnie-the-Pooh
+
 ---
 
 Nev­er for­get that, no mat­ter how cer­tain, you might be wrong. The only bad view is the one you’re stuck in.
@@ -38,19 +40,11 @@ Nev­er for­get that, no mat­ter how cer­tain, you might be wrong. The only b
 
 ---
 
-[skepticism](skepticism.md)
-
----
-
-[Trust your gut](trust-your-gut.md)
+[The Learners vs The Learned](the-learners-vs-the-learned.md)
 
 ---
 
 [The Ship of Theseus](the-ship-of-theseus.md)
-
----
-
-[Reflect & Review](reflect-and-review.md)
 
 ---
 
