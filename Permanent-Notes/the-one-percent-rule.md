@@ -1,6 +1,6 @@
 ---
 title: The One Percent Rule
-modified: 2026-06-10
+modified: 2026-06-17
 tags: []
 ---
 
@@ -27,3 +27,13 @@ $1.00^{365} = 1.00$ vs $1.01^{365} = 37.8$
 ---
 
 # [Marginal Adjustments](https://youtu.be/TQMbvJNRpLE)
+
+---
+
+# Small Things Become Big Things
+
+* [For Want of a Nail](https://huam.ing/for-want-of-a-nail)
+* 涓滴成河（Kleinvieh macht auch Mist.）
+* 積少成多
+
+[Broken Windows Theory](broken-windows-theory.md)
