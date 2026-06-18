@@ -1,6 +1,6 @@
 ---
 title: Systems over goals
-modified: 2026-06-10
+modified: 2026-06-17
 tags: []
 ---
 
@@ -10,8 +10,9 @@ tags: []
 
 ---
 
-* The worthwhile properties of systems derive from the interactions/connections of its parts.
-* The power of systems comes from _the cause and effect (i.e., the upstream and downstream)_, which only works when it’s combined and inter-related as an entity.
+The worthwhile properties of systems derive from the interactions/connections of its parts.
+
+The power of systems comes from _the cause and effect (i.e., the upstream and downstream)_, which only works when it’s combined and inter-related as an entity.
 
 **Examples**
 
@@ -40,11 +41,25 @@ Systems allow you to [make a decision](decision-making.md) _one time_ instead of
 	* Macro patience. Micro speed.
 	* Impatience with actions. Patience with results.
 
+---
+
 [@williamsonPerformancePsychologicalEffects2024]
 
 Outcome-focused goals had a negligible effect, while process/behavior-focused goals had a profound effect.
 
 In simple terms, those who consistently focused on the inputs performed better than those who focused on the outcomes.
+
+---
+
+<https://sive.rs/goals>
+
+> Judge a goal by how well it changes your actions **in the present moment**.
+
+> A bad goal makes you say, “I want to do that someday.” A great goal makes you take action **immediately**.
+
+> Unless it changes your actions, **right now**, it’s not a great goal.
+
+---
 
 [Goal Setting](goal-setting.md)
 
