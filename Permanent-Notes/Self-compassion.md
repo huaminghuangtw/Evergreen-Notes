@@ -1,6 +1,6 @@
 ---
 title: Self-compassion
-modified: 2026-06-15
+modified: 2026-06-18
 tags: []
 ---
 
