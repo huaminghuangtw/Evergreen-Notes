@@ -1,6 +1,6 @@
 ---
 title: Adaptability
-modified: 2026-06-16
+modified: 2026-06-18
 tags: []
 ---
 
@@ -59,20 +59,11 @@ Fear uncertainty and you fear life. To fear the unknown is to fear life itself. 
 
 ---
 
-> “In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.” — Eric Hoffer
-
-> “I always get to where I am going by walking away from where I have been.” — Winnie-the-Pooh
-
-* Learners are individuals who embrace [lifelong learning](https://hbr.org/2017/02/lifelong-learning-is-good-for-your-health-your-wallet-and-your-social-life), curiosity, and adaptability. They recognize that knowledge is always expanding, and they continuously update their skills and perspectives to keep up with the changes in society, technology, and global trends.
-* The learned, on the other hand, refers to those who rely on past knowledge and see themselves as already educated or accomplished. They may become complacent, assuming that their existing expertise is sufficient indefinitely.
+[The Learners vs The Learned](the-learners-vs-the-learned.md)
 
 ---
 
 [Life is chaotic](life-is-chaotic.md)
-
----
-
-[Push your limits](push-your-limits.md)
 
 ---
 
