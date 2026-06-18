@@ -1,6 +1,6 @@
 ---
 title: Always start small
-modified: 2026-06-15
+modified: 2026-06-17
 tags: []
 ---
 
@@ -60,16 +60,6 @@ The 2-minute version isn’t about progress; it’s about breaking the seal of i
 	* 5 minutes of conversation—your mood improves.
 * Whenever the day feels overwhelming and tough, try to ask yourself: _What’s the best way I can spend my next 5 minutes?_
 * 5 minutes of present energy is worth more than an hour of scattered energy.
-
----
-
-# Small Things Become Big Things
-
-* [For Want of a Nail](https://huam.ing/for-want-of-a-nail)
-* 涓滴成河（Kleinvieh macht auch Mist.）
-* 積少成多
-
-[Broken Windows Theory](broken-windows-theory.md)
 
 ---
 
