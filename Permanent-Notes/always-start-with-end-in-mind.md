@@ -1,6 +1,6 @@
 ---
 title: Always start with end in mind
-modified: 2026-06-10
+modified: 2026-06-17
 tags: []
 ---
 
@@ -36,6 +36,7 @@ Complex problems are sometimes better solved backwards
 * Inversion
 	* Prevention over pursuit
 	* Focusing on what to avoid rather than what to achieve
+	* Instead of asking “How do I win?”, ask “How do I ensure I don’t lose?”
 * Reverse Engineering
 * Work backwards
 
