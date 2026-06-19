@@ -1,10 +1,12 @@
 ---
 title: Cultivate a strong bias towards action
-modified: 2026-06-16
+modified: 2026-06-19
 tags: []
 ---
 
 > “To be is to do.” — Immanuel Kant
+
+> “A man is but the sum of his actions.” — Mahatma Gandhi
 
 > “Nothing will work unless you do.” — Maya Angelou
 
@@ -77,12 +79,6 @@ Creating more collisions and generating more data through motion.
 ---
 
 Stop fearing the regret of action and start fearing the regret of inaction. The regret from inaction is always more painful than the regret from action. Nobody gets to their deathbed and says, “I’m sorry for trying so many things.”
-
----
-
-It is easier to act yourself into a new way of thinking, than it is to think yourself into a new way of acting.
-
-It’s also a lot easier to [change direction](adaptability.md) when you’re moving forward than when you’re static.
 
 ---
 
