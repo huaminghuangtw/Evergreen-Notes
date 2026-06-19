@@ -1,7 +1,6 @@
 ---
-modified: 2026-06-19
 title: Lateral Thinking
-modified: 2026-06-10
+modified: 2026-06-19
 tags: []
 ---
 
