@@ -1,6 +1,6 @@
 ---
 title: A true transformation begins with a mental shift
-modified: 2026-06-10
+modified: 2026-06-19
 tags: []
 ---
 
@@ -25,6 +25,8 @@ tags: []
 > “Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.” — Viktor E. Frankl
 
 > “Your living is determined not so much by what life brings to you as by the attitude you bring to life; not so much by what happens to you as by the way your mind looks at what happens.” — Khalil Gibran
+
+> “Your beliefs become your thoughts, your thoughts become your words, your words become your actions, your actions become your habits, your habits become your values, your values become your destiny.” — Mahatma Gandhi
 
 > “I am not what happened to me, I am what I choose to become.” — Carl Jung
 
