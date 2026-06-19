@@ -1,6 +1,6 @@
 ---
 title: Just get started
-modified: 2026-06-10
+modified: 2026-06-19
 tags: []
 ---
 
@@ -117,6 +117,8 @@ See also: [The Goal-Gradient Effect](https://sketchplanations.com/goal-gradient-
 
 * Act as if
 * Fake it until you make it
+
+[Your identity dictates your actions](your-identity-dictates-your-actions.md)
 
 ---
 
