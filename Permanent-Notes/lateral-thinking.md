@@ -1,8 +1,5 @@
 ---
-modified: 2026-06-16
----
-
-cross-pollination between disciplines---
+modified: 2026-06-19
 title: Lateral Thinking
 modified: 2026-06-10
 tags: []
