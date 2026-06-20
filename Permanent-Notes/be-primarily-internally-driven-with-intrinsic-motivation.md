@@ -1,6 +1,6 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
-modified: 2026-06-17
+modified: 2026-06-20
 tags: []
 ---
 
@@ -57,6 +57,22 @@ Focus on the [Inner Scorecard](https://fs.blog/the-inner-scorecard), not the ext
 
 * Autotelic people (成長心態) [enjoy the journey](journey-over-destination.md) as they work toward a goal.
 * Exotelic people (定型心態) only care about reaching the goal, no matter what.
+
+---
+
+# [The Djokovic Rule: Do You Like Hitting The Ball?](https://www.ft.com/content/efaeed40-725c-11e5-bdb1-e6e4767162cc)
+
+In 2015, during a high-profile “Lunch with the FT” interview with the _Financial Times_, tennis legend Novak Djokovic was asked about the drivers behind his exceptional, relentless on-court success.
+
+His response was simple:
+
+> I can carry on playing at this level because I like hitting the tennis ball.
+
+When the interviewer asked whether there were professional players who don’t enjoy it, he continued:
+
+> There are people out there who don’t have the right motivation. I can see it. But I don’t judge. I completely respect everybody’s freedom of choice. If it works for them…
+
+Djokovic’s ultimate competitive advantage is his intrinsic love for the mundane, repetitive daily grind of the sport. He sustains greatness because he genuinely [loves the process](journey-over-destination.md) itself.
 
 ---
 
