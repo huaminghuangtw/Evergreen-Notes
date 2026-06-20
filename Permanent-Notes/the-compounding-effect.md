@@ -1,10 +1,10 @@
 ---
 title: The Compounding Effect
-modified: 2026-06-17
+modified: 2026-06-20
 tags: []
 ---
 
-> “Compounding is the 8th wonder of the world.” — Albert Einstein
+> Compound interest is the eighth wonder of the world. He who understands it, earns it. He who doesn’t, pays it.” — Albert Einstein
 
 ---
 
