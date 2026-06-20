@@ -1,5 +1,5 @@
 ---
-modified: 2026-06-15
+modified: 2026-06-20
 ---
 
 <https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/>
@@ -28,20 +28,6 @@ With resistance band
 
 * Standing side leg raise
 * Side band walk
-
----
-
-# The Djokovic Rule: Do You Like Hitting The Ball?
-
-In 2015, tennis legend Novak Djokovic was asked about the drivers of his exceptional on-court success.
-
-His response was simple:
-
-“I can carry on playing at this level because I like hitting the tennis ball.”
-
-When the interviewer pressed him, asking whether there were players who don’t, he continued:
-
-“There are people out there who don’t have the right motivation. I can see it. But I don’t judge.”
 
 ---
 
