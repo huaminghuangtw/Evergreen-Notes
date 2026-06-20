@@ -1,6 +1,6 @@
 ---
 title: Batching Emails and Text Messages
-modified: 2026-06-10
+modified: 2026-06-20
 tags: []
 ---
 
@@ -18,6 +18,9 @@ tags: []
 * 秒回的答案通常不是最佳 (可能帶有情緒, not thoughtful enough)
 * Admin Party 🎉 (by Ali Abdaal)
 * The “Touch-It-Once” Principle
+
+	> Once-and-Done
+
 * **[“Make before you manage.”](https://tim.blog/2019/12/18/make-before-you-manage/)**
 	* If—as you might argue—that you’ll miss out on “important updates,” then I encourage you to consider these two perspectives:
 	* First, realize that your emails have been sitting in your inbox for hours. Why can’t they wait for one more hour while you work on your priorities?
