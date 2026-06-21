@@ -1,6 +1,6 @@
 ---
 title: Speak less, listen more
-modified: 2026-06-10
+modified: 2026-06-21
 tags: []
 ---
 
@@ -13,6 +13,8 @@ tags: []
 > [“Those who know do not speak. Those who speak do not know.” — Lao Tsu, Tao Teh Ching](https://www.goodreads.com/quotes/9187-those-who-know-do-not-speak-those-who-speak-do)
 
 > “Even if you don’t say anything if you listen carefully people will consider you a great conversationalist.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
+
+> “You must understand, young Hobbit, it takes a long time to say anything in Old Entish. And we never say anything unless it is worth taking a long time to say.” — J.R.R. Tolkien, [The Two Towers](https://www.goodreads.com/work/quotes/2963845)
 
 ---
 
