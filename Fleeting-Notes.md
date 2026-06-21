@@ -1,5 +1,5 @@
 ---
-modified: 2026-06-20
+modified: 2026-06-21
 ---
 
 <https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/>
@@ -89,31 +89,7 @@ Bayesian Thinking, a structured approach to updating beliefs
 
 ---
 
-Lockheed SR-71 Blackbird
-
-是世界上最快的噴射式載人飛機
-
-由於衛星技術的發展，需冒險深入敵國偵測的任務不多，故此進入八十年代已甚少使用。
-
----
-
-何首烏
-
----
-
 荷蘭病（Dutch Disease）
-
----
-
-At 55 do you want to be able to carry shopping home a long distance. At 65 do you want the energy and verve to visit a new country and have new experiences.
-
-At 75 do you want to be able to swim and walk and clean your own home without getting out of breath?
-
-At 85 do you want to be mentally available to those around you.
-
-That’s what you’re doing it for, not for today, not to extend life, but to make the years as easy as possible and to have options.
-
-Optionality in life is the closest thing to happiness.
 
 ---
 
