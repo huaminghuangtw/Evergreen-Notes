@@ -1,8 +1,10 @@
 ---
 title: A man who is a master of patience is master of everything else
-modified: 2026-06-16
+modified: 2026-06-21
 tags: []
 ---
+
+> “Adopt the pace of nature, her secret is patience.” — Ralph Emerson
 
 > [“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)
 
@@ -69,10 +71,6 @@ Gentle persistence guides us toward our destination in [its own timeline](everyo
 ---
 
 **[Slack](slackness.md)** in project management is the time a task _can be delayed_ without causing a delay to either subsequent tasks or project completion time. _The amount of time before a constraint binds._
-
----
-
-Adopt the pace of nature: Her secret is _patience_.
 
 ---
 
