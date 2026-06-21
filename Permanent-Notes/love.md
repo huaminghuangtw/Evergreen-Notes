@@ -1,6 +1,6 @@
 ---
 title: Love
-modified: 2026-06-16
+modified: 2026-06-21
 tags: []
 ---
 
@@ -72,6 +72,8 @@ tags: []
 > [“Love is a smoke made with the fume of sighs.” — William Shakespeare](https://www.brainyquote.com/quotes/william_shakespeare_106569)
 >
 > 愛情是嘆息吹起的一陣煙。
+
+> “I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.” — Steve Maraboli
 
 ---
 
