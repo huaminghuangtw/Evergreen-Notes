@@ -1,10 +1,12 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-06-13
+modified: 2026-06-21
 tags: []
 ---
 
 > [“The work is behind the scene. Competition is the easy part.” — Usain Bolt](https://youtu.be/LEIxpcYukqc?t=113s) [^1]
+
+> “The best pace is a suicide pace, and today looks like a good day to die.” — Steven Prefontaine
 
 ---
 
