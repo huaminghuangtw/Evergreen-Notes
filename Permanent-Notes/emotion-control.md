@@ -1,6 +1,6 @@
 ---
 title: Emotion Control
-modified: 2026-06-10
+modified: 2026-06-21
 tags: []
 ---
 
@@ -120,12 +120,14 @@ The thing that prevents you from seeing what’s actually happening are your emo
 
 	> “Always aspire to act in a way that cancels out someone else’s cruel or stupid behavior.” — Carl Hiaasen
 
-	* 「逆境菩薩」
+	* 逆境菩薩
 	* Love your enemies—not by seeking their approval, but by turning your feelings about them into fuel. Let their doubt drive you. [Be so exceptional at what you do](always-do-your-best-as-possible.md) that they’re forced to respect you, not out of affection, but awe. They don’t need to like you. It’s about earning respect through undeniable excellence, shattering their preconceptions with your relentless work and undeniable results.
 * [Reminder: If someone is acting like an idiot, you can just move on and let them be wrong. You do not have a personal obligation to correct people who are committed to being stupid. Sure, sometimes you need to attempt to get on the same page, but usually you can simply reclaim your time and move on to more productive ventures.](https://jamesclear.com/3-2-1/april-24-2025)
+	* 無動於衷是一種超能力
 	* Knowing when to stop is a superpower. You don’t need to attend every argument you’re invited to, nor should you [waste your energy](energy-management.md) every time.
 	* The more easily you get offended, the less emotional intelligence you have, and the more easily you get manipulated. Stop taking shit personally. Invest your emotions wisely. Don’t engage in any fruitless arguments.
 	* The worst waste of time is arguing with the fool and fanatic who does not care about truth or reality, but only the victory of his beliefs and illusions.
+	* [The Unaccepted Gift](the-unaccepted-gift.md)
 
 ---
 
