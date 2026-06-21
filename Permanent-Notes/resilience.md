@@ -1,6 +1,6 @@
 ---
 title: Resilience
-modified: 2026-06-10
+modified: 2026-06-21
 tags: []
 ---
 
@@ -30,11 +30,7 @@ tags: []
 
 ---
 
-心理韌性/防禦力
-
----
-
-Broken ≠ Beaten
+= 心理韌性 = 心理防禦力
 
 ---
 
@@ -88,11 +84,25 @@ Resistance, obstacles, and roadblocks lead to growth. “A gem cannot be polishe
 
 ---
 
+[@markaurelMeditations2006]
+
+> Other people’s mistakes? Leave them to their makers.
+
+> It’s silly to try to escape other people’s faults. They are inescapable. Just try to escape your own.
+
+> You should leave another’s wrong where it lies. When insulted, the impetus is on the insulted to be insulted.
+
+---
+
 [Emotion Control](emotion-control.md)
 
 ---
 
 [The Let-Them Theory](the-let-them-theory.md)
+
+---
+
+[The Unaccepted Gift](the-unaccepted-gift.md)
 
 [^1]: _“Strength does not come from winning. Your struggles develop your strengths.” — Arnold Schwarzenegger_
 [^2]: _“As a lotus flower is born in water, grows in water, and rises out of water to stand above it unsoiled. So I, born and raised in the world, having overcome the world, live unsoiled by the world.” — Buddha_
