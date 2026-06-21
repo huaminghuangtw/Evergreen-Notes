@@ -1,6 +1,6 @@
 ---
 title: Anger
-modified: 2026-06-16
+modified: 2026-06-21
 tags: []
 ---
 
@@ -65,9 +65,14 @@ It’s okay to be sad, disappointed, or get lost, but don’t be angry. Anger is
 
 > “Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you.” — Norman Vincent Peale
 
-> “Before you embark on a journey of revenge, dig two graves.”
+> Before you embark on a journey of revenge, dig two graves.
+>
+> 攻乎異端，斯害己也。
+> —《論語・為政》
 
-Revenge harms not only your target but also yourself. The “two graves” symbolize the dual loss—both the victim and the avenger suffer.
+> “The best revenge is not to be like your enemy.” — [@markaurelMeditations2006]
+
+> “To refrain from imitation is the best revenge.” — [@markaurelMeditations2006]
 
 ---
 
