@@ -1,6 +1,6 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
-modified: 2026-06-18
+modified: 2026-06-21
 tags: []
 ---
 
@@ -68,9 +68,14 @@ When you consistently enforce boundaries from a place of calm self-worth rather 
 
 > 生以悦己，不為他人所困。
 
-* Healthy self-esteem naturally raises your relational baseline. When you already enjoy your own company, you don’t need to settle—you carry a great relationship with you everywhere, so any new one must enhance your life, not fill a void.
+* Healthy self-esteem naturally raises your relational baseline. When you already enjoy your own company, you don’t need to settle—you carry a great relationship with you everywhere, so <mark>any new one must enhance your life, not fill a void</mark>.
 * The more you enjoy being alone, the higher the bar for who gets to join you. A genuine comfort in your own skin make you selective not out of arrogance, but out of discernment (眼力，眼光，洞察力).
 * Low self-worth flips the dynamic. When [solitude](solitude.md) feels painful, even a poor relationship can bring relief—and that intermittent relief is often just enough to keep you stuck. <mark>If you want better relationships, the first thing is to be comfortable with yourself. To fall in love with yourself is the first secret to [happiness](happiness.md).</mark>
+
+想要更好的關係，第一步不是向外尋找，而是向內讓自己成為一個有底氣的人。
+
+* **底氣始於自足。** 當你已經享受自己的陪伴，成為自己最要好的朋友，任何新關係都必須為你的生命加分，而非填補空缺。
+* **底氣帶來篩選。** 當你越能享受獨處，越懂得挑選誰值得進入你的世界。因為你深知自己的價值所在，所以不隨便打折。
 
 ---
 
