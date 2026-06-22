@@ -1,6 +1,6 @@
 ---
 title: Leadership
-modified: 2026-06-10
+modified: 2026-06-22
 tags: []
 ---
 
@@ -62,13 +62,13 @@ When you find yourself in a situation where everyone looks at each other, it’s
 	* If you want to build a ship, don’t drum up the men to gather wood, divide the work and give orders. Instead, teach/inspire them to yearn for the vast and endless sea. Audacious ideas motivate people.
 	* You should not build something just for the sake of building. You should build something because it will help you to fulfill a dream, in this case, going to sea.
 
-## See Als0
-
-* [Your identity dictates your actions](your-identity-dictates-your-actions.md)
+[Your identity dictates your actions](your-identity-dictates-your-actions.md)
 
 ---
 
-# [The CORE Principle by Sir David Brailsford, used in British cycling team (TeamGB) and Team Sky](https://youtu.be/THNBIQenywc)
+# [The CORE Principle](https://youtu.be/THNBIQenywc)
+
+by Sir David Brailsford, used in British cycling team (TeamGB) and Team Sky])
 
 1. Commitment
 2. Ownership
@@ -77,12 +77,19 @@ When you find yourself in a situation where everyone looks at each other, it’s
 
 ---
 
-# True Leadership Is Service-oriented
+# True leadership is service-oriented
 
 Think of a great leader like a captain of a ship: they make sure everyone is safe and settled before they themselves rest.
 
 “I can afford to wait, because I trust myself and my tribe.”
 
 Insecure leaders rush to take first, fearing there’s not enough. Confident leaders **create abundance** by leading with stability and assurance.
+
+---
+
+領導、統御一個組織時，有兩種治理方法：
+
+1. 以「力」壓人的「霸道」
+2. 以「德」服人的「王道」（孫文）
 
 [^1]: _“We cannot teach people anything. We can only help them discover it within themselves.” — Galileo Galilei_
