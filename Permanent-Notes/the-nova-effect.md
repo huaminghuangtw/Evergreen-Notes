@@ -1,6 +1,6 @@
 ---
 title: The Nova Effect
-modified: 2026-06-10
+modified: 2026-06-22
 tags: []
 ---
 
@@ -43,3 +43,7 @@ Events are impossible to judge in isolation — **their long-term consequences o
 ---
 
 [Life is cyclic](life-is-cyclic.md)
+
+---
+
+[The Chinese Farmer](https://huam.ing/the-chinese-farmer)
