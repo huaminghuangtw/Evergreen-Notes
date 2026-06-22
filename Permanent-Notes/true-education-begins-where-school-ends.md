@@ -1,6 +1,6 @@
 ---
 title: True education begins where school ends
-modified: 2026-06-16
+modified: 2026-06-22
 tags: []
 ---
 
@@ -84,7 +84,7 @@ School lays the foundation, but true education starts when you step beyond the c
 
 ---
 
-[▍Do Schools Kill Creativity?](https://huam.ing/do-schools-kill-creativity)
+[Do Schools Kill Creativity?](https://huam.ing/do-schools-kill-creativity)
 
 ---
 
