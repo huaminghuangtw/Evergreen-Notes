@@ -1,6 +1,6 @@
 ---
 title: Systems Thinking
-modified: 2026-06-10
+modified: 2026-06-22
 tags: []
 ---
 
@@ -43,7 +43,7 @@ The Hermeneutic Circle describes a cyclical process of understanding where oneâ€
 
 [Complex Systems Emerge From Iterations On Simple Designs](https://nav.al/iterate) by Naval Ravikant
 
-[Parable of the Two Watchmakers](the-parable-of-the-two-watchmakers.md)
+[The Two Watchmakers](https://huam.ing/the-two-watchmakers)
 
 [Simple is beautiful](simple-is-beautiful.md)
 
