@@ -1,6 +1,6 @@
 ---
 title: Embrace the beauty of enoughness
-modified: 2026-06-16
+modified: 2026-06-22
 tags: []
 ---
 
@@ -206,7 +206,7 @@ Don’t let the pursuit of more stop you from enjoying what you already have. Do
 
 ---
 
-[the-parable-of-the-mexican-fisherman](the-parable-of-the-mexican-fisherman.md)
+[The Mexican Fisherman](https://huam.ing/the-mexican-fisherman)
 
 [^1]: The richest person isn’t the one who has the most, but the one who need the least.
 [^2]: [The Gold Medal Fallacy](https://www.sahilbloom.com/newsletter/the-gold-medal-fallacy-why-time-flies-more)
