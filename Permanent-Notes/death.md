@@ -1,10 +1,12 @@
 ---
 title: Death
-modified: 2026-06-10
+modified: 2026-06-22
 tags: []
 ---
 
 > “The free man thinks of death, least of all things.” — Benedict Spinoza
+
+> “Dying is active. Dying is not what happens to you. Dying is what you do. Dying” — Stephen Jenkinson, [Die Wise: A Manifesto for Sanity and Soul](https://www.goodreads.com/work/quotes/42243793)
 
 > “The meaning of life is that it stops.” — Franz Kafka
 
