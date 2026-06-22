@@ -1,6 +1,6 @@
 ---
 title: Minimalism
-modified: 2026-06-13
+modified: 2026-06-22
 tags: []
 ---
 
@@ -42,7 +42,7 @@ Let’s declutter/downsize/simplify!
 
 Freedom often comes from _needing less_, not from _gaining more._
 
-See also: [The Parable of the Monk and the Minister](the-parable-of-the-monk-and-the-minister.md)
+See also: [The Monk & The Minister](https://huam.ing/the-monk-and-the-minister)
 
 ---
 
