@@ -1,6 +1,6 @@
 ---
 title: Money
-modified: 2026-06-15
+modified: 2026-06-22
 tags: []
 ---
 
@@ -39,20 +39,20 @@ Reasonable Rational
 
 * Don’t think all poverty is due to laziness. Don’t think all wealth is through hard work.
 * Making money is an action. Keeping money is behavior/habit. Growing money is knowledge/skill.
-* The proper financial mindset is to be scared enough to save for the short run and brave enough to invest for the long run.
-	* Mental Shift: Consumer(ism) → Producer/Creator/Owner/Investor
+* The proper financial mindset is to be **scared enough to save for the short run** and **brave enough to invest for the long run**.
 * Earning more money increases freedom. Spending less than you earn reduces stress.
 
 # [Enough is enough](embrace-the-beauty-of-enoughness.md)
 
 > “Savings can be created by spending less. You can spend less if you desire less. And you will desire less if you care less about what others think of you.” — Morgan Housel
 
+* Contentment is the greatest wealth.
 * [True wealth is found not in attaining more, but in discovering enough.](https://x.com/SahilBloom/status/1571500995326185475)
 * Financial freedom is a feeling, not a reality.
-* Contentment is the greatest wealth.
+* 所謂的富裕，只有知足的人才能深切體會。不知足的人、以及徹頭徹尾感到不足的人，縱使再富裕優渥的生活，他們也感受不到。
 * **Marginal Utility:** [Beyond a certain point, having more money will not lead to more security, freedom, and happiness.](https://www.givingwhatwecan.org/blog/can-money-buy-happiness) In fact, these things do not come from more money. They come from knowing when to stop.
 
-	> See: [the-parable-of-the-mexican-fisherman](the-parable-of-the-mexican-fisherman.md)
+	> See: [The Mexican Fisherman](https://huam.ing/the-mexican-fisherman)
 
 * You’ll never achieve financial freedom when you [play status games](the-game-of-life.md), fall into the consumer trap, and let your ego dictate your spending.
 	* The only way to build wealth is to have a gap between your ego and your income. [Less ego](abandon-your-ego.md), more wealth.
