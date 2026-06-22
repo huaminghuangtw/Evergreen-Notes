@@ -1,6 +1,6 @@
 ---
 title: Dispel your narratives
-modified: 2026-06-10
+modified: 2026-06-22
 tags: []
 ---
 
@@ -62,7 +62,7 @@ Life unfolds in ways you can’t predict.
 
 ---
 
-[The Chinese Farmer Parable](the-parable-of-chinese-farmer-parable.md)
+[The Chinese Farmer](https://huam.ing/the-chinese-farmer)
 
 ---
 
