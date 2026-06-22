@@ -1,6 +1,6 @@
 ---
 title: Emotion Control
-modified: 2026-06-21
+modified: 2026-06-22
 tags: []
 ---
 
@@ -110,7 +110,7 @@ The thing that prevents you from seeing what’s actually happening are your emo
 
 	* [Dogs do not get tired of barking.](https://www.google.com/search?q=Dogs+do+not+get+tired+of+barking.)
 	* If you argue with a fool, you become one.
-	* [The Parable of the Donkey and the Tiger](the-parable-of-the-donkey-and-the-tiger.md)
+	* [The Donkey & The Tiger](https://huam.ing/the-donkey-and-the-tiger)
 * 笑罵由人、唾面自乾
 	* 如果別人朝著你丟石頭，就不要扔回去了，留著做你建高樓的基石。
 	* 學會「不解釋」
