@@ -1,6 +1,6 @@
 ---
 title: Life is cyclic
-modified: 2026-06-16
+modified: 2026-06-22
 tags: []
 ---
 
@@ -75,7 +75,7 @@ The [Solstice (至日)](https://en.wikipedia.org/wiki/Solstice) [^2] reminds us:
 
 ---
 
-[The Chinese Farmer Parable](the-parable-of-chinese-farmer-parable.md)
+[The Chinese Farmer](https://huam.ing/the-chinese-farmer)
 
 ---
 
