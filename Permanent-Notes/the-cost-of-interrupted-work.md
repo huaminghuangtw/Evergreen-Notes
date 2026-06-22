@@ -1,6 +1,6 @@
 ---
 title: The Cost of Interrupted Work
-modified: 2026-06-10
+modified: 2026-06-22
 tags: []
 ---
 
@@ -67,7 +67,7 @@ by [Sune Carlson](https://en.wikipedia.org/wiki/Sune_Carlson)
 
 ---
 
-[Parable of the Two Watchmakers](the-parable-of-the-two-watchmakers.md)
+[The Two Watchmakers](https://huam.ing/the-two-watchmakers)
 
 ---
 
