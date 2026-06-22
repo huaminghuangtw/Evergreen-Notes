@@ -1,6 +1,6 @@
 ---
 title: Work hard
-modified: 2026-06-10
+modified: 2026-06-22
 tags: []
 ---
 
@@ -39,6 +39,10 @@ Working hard for something we don’t care about is called **stress**. Working h
 ---
 
 You don’t get the things you dream of, you get the things that you work for.
+
+---
+
+殫精竭慮
 
 ---
 
