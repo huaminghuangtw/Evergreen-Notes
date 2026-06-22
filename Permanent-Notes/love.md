@@ -1,6 +1,6 @@
 ---
 title: Love
-modified: 2026-06-21
+modified: 2026-06-22
 tags: []
 ---
 
@@ -175,7 +175,12 @@ Find a partner who believes in you more than you believe in yourself.
 
 ---
 
+> Liking is about being pleased by someone. Loving is about caring for someone regardless of what they give you in return.
+
 喜歡一朵花，你會摘下它；愛一朵花，你會灌溉它。喜歡是為了得到，愛是為了付出。
+
+* **Liking** is rooted in social approval, shared preferences, and the absence of friction. It is transactional, contextual, and fragile. When you change, the people who _liked_ the old version of you may fall away.
+* **Loving** is rooted in deep acceptance of who you are at your core. It does not require agreement, alignment, or convenience. Love persists through disagreement, disappointment, and distance.
 
 ---
 
