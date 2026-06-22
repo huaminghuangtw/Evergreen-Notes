@@ -1,6 +1,6 @@
 ---
 title: Never lose faith and hope
-modified: 2026-06-16
+modified: 2026-06-22
 tags: []
 ---
 
@@ -36,6 +36,10 @@ tags: []
 ---
 
 Faith is to believe what you do not see; the reward of this faith is to see what you believe.
+
+---
+
+Believe before evidence. Proof follows faith — the way trees follow seeds.
 
 ---
 
