@@ -1,6 +1,6 @@
 ---
 title: The Dunning-Kruger Effect
-modified: 2026-06-16
+modified: 2026-06-22
 tags: []
 ---
 
@@ -8,7 +8,12 @@ tags: []
 
 > [“Ignorance more frequently begets confidence than does knowledge: it is those who know little, not those who know much, who so positively assert that this or that problem will never be solved by science.” — Charles Darwin, The Descent of Man](http://goodreads.com/quotes/24141-ignorance-more-frequently-begets-confidence-than-does-knowledge-it-is)
 
+> 愛己乃非善之最也。無法修業、事業無成、朱能改過、甚而伐功矜能，皆起於愛己之念，故切不可愛己也。
+> —《南洲翁遺訓》
+
 ---
+
+無知者急於炫耀所知；謙虛者深知所不知。
 
 People who know _the least_ seem to be _the most_ confident in their knowledge.
 
@@ -26,10 +31,13 @@ People who know _the least_ seem to be _the most_ confident in their knowledge.
 
 ## Be humble
 
+> 滿招損，謙受益。
+
 There are many people of questionable intelligence who believe they are mentally superior to the majority.
 
+* 虛懷若谷
+* 驕矜自滿 → 謙沖自牧
 * 誇獎的話，出於自己口中，是多麽地乏味！
-* 無知的人總覺得自己知道的很重要，逢人便想講給別人聽；謙虛的人不會輕易炫耀學問 — 他懂得的很多，卻更明白許多事自己還講不好。
 
 ## 以退為進
 
