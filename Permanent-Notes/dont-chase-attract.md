@@ -1,6 +1,6 @@
 ---
 title: Don’t chase, attract
-modified: 2026-06-10
+modified: 2026-06-22
 tags: []
 ---
 
@@ -9,6 +9,10 @@ tags: []
 > “If you spend your time chasing butterflies, they’ll fly away. But if you spend your time making/mending a beautiful garden, the butterflies will come.” — Mario Quintana
 
 > “The flower doesn’t dream of the bee. It blossoms and the bee comes.” — Mark Nepo
+
+---
+
+花若盛開，蝴蝶自來；人若精彩，天自安排。
 
 ---
 
