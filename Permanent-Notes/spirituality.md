@@ -1,6 +1,6 @@
 ---
 title: Spirituality
-modified: 2026-06-10
+modified: 2026-06-22
 tags: []
 ---
 
@@ -22,3 +22,7 @@ tags: []
 * Volunteer work or compassionate acts that connect inner orientation with external behavior.
 * Walks, wilderness experiences, or brief solitary retreats to recalibrate perspective and experience awe.
 * Music, art, or journaling as ways to access and express deeper meanings.
+
+---
+
+Spiritual Elevation ↔ Spiritual Degradation/Decay
