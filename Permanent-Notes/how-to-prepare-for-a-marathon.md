@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-06-21
+modified: 2026-06-22
 tags: []
 ---
 
@@ -20,6 +20,10 @@ tags: []
 	* Most people run their easy days too hard and their hard days too easy.
 	* Run your easy runs easier so you can run your hard runs harder. If you find yourself wanting to run your easy runs harder, you probably aren’t doing your hard runs hard enough. And easy days are rest days if you do them easy enough.
 	* See: [Be Aware of the Gray Zone Where Junk Miles Live](beware-of-the-gray-zone-where-junk-miles-live.md)
+
+---
+
+A rising heart rate means you need more easy miles. Easy runs build aerobic fitness. A fitter heart pumps more blood per beat.
 
 ---
 
@@ -147,8 +151,8 @@ tags: []
 
 ## 2. Calculation Methods (Less Accurate)
 
-* **Traditional Formula:** Max HR = 220 — age
-* **More Accurate Formula:** Max HR = 211 — (0.64 × age)
+* **Traditional Formula:** Max HR = 220 - age
+* **More Accurate Formula:** Max HR = 211 - (0.64 × age) = 207 - (age x 0.7)
 
 # Joe Friel’s Lactate Threshold Heart Rate (LTHR) Field Test
 
