@@ -1,6 +1,6 @@
 ---
 title: Failing forward turns setbacks into stepping stones
-modified: 2026-06-14
+modified: 2026-06-23
 tags: []
 ---
 
@@ -54,9 +54,7 @@ If you want to _win_, you have to _lose_ first. All _success_ begins with _failu
 * Success comes from turning _setbacks_ into _comebacks_.
 * 失敗是成功的近義詞。成功的反義詞不是失敗，而是 [平庸](the-fight-against-normalcy.md)。
 
----
-
-不經一事，不長一智。
+[Always keep going! 🚂](always-keep-going.md)
 
 ---
 
@@ -117,6 +115,8 @@ You’re not failing. You’re refining.
 ---
 
 失敗 = 沒有堅持到底的認輸
+
+[Always keep going! 🚂](always-keep-going.md)
 
 ---
 
