@@ -1,6 +1,6 @@
 ---
 title: Just get started
-modified: 2026-06-19
+modified: 2026-06-23
 tags: []
 ---
 
@@ -158,7 +158,7 @@ Work has a sort of _[activation energy](why-is-it-so-hard-to-just-do-the-work.md
 * [“The Physics of Productivity” by James Clear](https://jamesclear.com/physics-productivity)
 * [@abdaalFeelGoodProductivityHow2024]
 	* **Newton’s First Law of Motion**, often called **the law of inertia** :[^4] ‘_An object at rest stays at rest, while an object in motion stays in motion, unless acted on by an external imbalanced force._’ In other words, if an object is still, it will remain still; if an object is moving, it will continue moving, unless another force (like gravity, or air resistance) prevents it from doing so.
-	* As Newton recognized, it takes way more energy to get started than it does to keep going. When you’re doing nothing, it’s easy to carry on doing nothing. And when you’re working, it’s much easier to carry on working. When you feel like you’ve tried everything to properly motivate yourself but you’re still [procrastinating](procrastination.md), you need one final boost to get started.
+	* As Newton recognized, it takes way more energy to get started than it does to [keep going](always-keep-going.md). When you’re doing nothing, it’s easy to carry on doing nothing. And when you’re working, it’s much easier to carry on working. When you feel like you’ve tried everything to properly motivate yourself but you’re still [procrastinating](procrastination.md), you need one final boost to get started.
 	* I like to think of the principle of inertia as a literal hump on a road. Imagine you’re about to cycle down a hill. You’ve got your helmet on, your gears are well oiled, and you’re itching to get started. There’s just one problem. You need to cycle uphill a little before you get to the long slope down. It’s going to take a burst of energy to get over the hump, and exerting that energy might not be the most pleasant thing in the world. But once you’ve overcome it, you’ll be cycling down-hill, the wind in your hair, feeling better than ever and gliding on home.
 
 ---
