@@ -1,6 +1,6 @@
 ---
 title: The Growth Mindset
-modified: 2026-06-15
+modified: 2026-06-23
 tags: []
 ---
 
@@ -41,6 +41,8 @@ tags: []
 [摸石頭過河](https://www.google.com/search?q=摸石頭過河)（Crossing the river by touching the stones）
 
 ---
+
+不經一事，不長一智。
 
 實事求是，精益求精。
 
