@@ -1,6 +1,6 @@
 ---
 title: The Beginner Mindset
-modified: 2026-06-10
+modified: 2026-06-23
 tags: []
 ---
 
@@ -77,7 +77,7 @@ Naivety (= naiveness = naïveté)
 
 ---
 
-[The Empty Cup Mentality](the-empty-cup-mentality.md)
+[Empty Your Cup](https://huam.ing/empty-your-cup)
 
 ---
 
