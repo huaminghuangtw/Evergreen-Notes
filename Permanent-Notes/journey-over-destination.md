@@ -1,6 +1,6 @@
 ---
 title: Journey over destination
-modified: 2026-06-10
+modified: 2026-06-23
 tags: []
 ---
 
@@ -100,17 +100,7 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 		* Nothing happens—then everything does.
 		* Slow. Steady. Sudden.
 * The Chinese bamboo tree can grow to be nearly 100 feet tall—but it’s how it achieves that growth that makes it even more interesting. After being planted in the ground, it requires daily watering and nurturing. And then, nothing happens: Despite the effort, days, weeks, months, and even years go by with no signs of any growth. Two years, three years, four years pass, with continued daily inputs and not so much as a break in the surface to show for it. But suddenly, in the fifth year, everything changes: The Chinese bamboo tree breaks through the surface, and in the span of just six weeks, grows up to 90-feet-tall.
-* **Maybe you’re already there. Maybe you’re right where you’re supposed to be.**
-
-> Nearing the end of a long journey, a young Buddhist comes to the banks of a deep, wide river. He doesn’t know how to cross it and begins to ponder the challenge.
->
-> After several hours, he sees a Zen master on the other side of the river and calls out to him:
->
-> “Oh wise one, can you tell me how to cross this river and get to the other side?”
->
-> The Zen master thinks for a few moments and then replies:
->
-> “My son, you are on the other side.”
+* [Maybe You’re Already There](https://huam.ing/maybe-youre-already-there)
 
 ---
 
