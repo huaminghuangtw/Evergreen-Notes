@@ -1,6 +1,6 @@
 ---
 title: Do hard things
-modified: 2026-06-15
+modified: 2026-06-23
 tags: []
 ---
 
@@ -106,6 +106,10 @@ When we embrace _|voluntary struggles_, we’re better equipped/prepared for the
 
 * Just as hands develop calluses through repeated friction, the mind can be “calloused” through enduring hardships.
 * Seek discomfort intentionally to strengthen mental [resilience](resilience.md).
+
+---
+
+人來到這個世界，就是來體驗痛苦的。
 
 ---
 
