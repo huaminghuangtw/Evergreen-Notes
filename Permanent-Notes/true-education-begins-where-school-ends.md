@@ -1,6 +1,6 @@
 ---
 title: True education begins where school ends
-modified: 2026-06-22
+modified: 2026-06-23
 tags: []
 ---
 
@@ -50,6 +50,17 @@ School lays the foundation, but true education starts when you step beyond the c
 那些自稱「沒時間學習」的人，其實是選擇像機器人一樣操作眼前的生活。
 
 有些人活著，卻如同行屍走肉，因為他們從不思考；有些人死了，卻永遠活著，因為他們的思想永存。
+
+---
+
+There are two types of people:
+
+1. Those who want to know more.
+2. Those who want to defend what they already know.
+
+The first group approaches the world with openness and a [growth mindset](the-growth-mindset.md) — they see every encounter as an opportunity to learn, revise, and expand their understanding. The second group operates from a fixed mindset — they treat knowledge as a possession to be protected, and new information as a threat to their established worldview.
+
+The tragedy of the second type is that they are often unaware of their own limitation. Defensiveness masquerades as conviction; certainty disguises stagnation. Meanwhile, the first type experiences a compounding advantage: every new thing they learn opens doors to further questions, creating a virtuous cycle of growth.
 
 ---
 
