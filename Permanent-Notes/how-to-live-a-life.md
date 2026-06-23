@@ -1,6 +1,6 @@
 ---
 title: How to live a life?
-modified: 2026-06-17
+modified: 2026-06-23
 tags:
   - 人蔘
 ---
@@ -53,6 +53,10 @@ tags:
 > — Jack Kornfield
 
 > “Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!” — Sathya Sai Baba
+
+> “Learning and enjoyment are the secret to a fulfilled life. Learning without enjoyment wears you down, enjoyment without learning dulls you.” — David Precht
+
+> “The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety.” — Sathya Sai Baba
 
 ---
 
