@@ -1,6 +1,6 @@
 ---
 title: Choose your response
-modified: 2026-06-10
+modified: 2026-06-23
 tags: []
 ---
 
@@ -75,7 +75,7 @@ The real skill in life _isn’t avoiding pain—it’s refusing to shoot yoursel
 
 ---
 
-[The Empty Boat Mindset](the-empty-boat-mindset.md)
+[The Empty Boat](https://huam.ing/the-empty-boat)
 
 ---
 
