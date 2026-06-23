@@ -1,6 +1,6 @@
 ---
 title: Abandon your ego
-modified: 2026-06-10
+modified: 2026-06-23
 tags: []
 ---
 
@@ -80,7 +80,9 @@ One of the great mistakes in life is suffering for years because you didn’t wa
 
 ---
 
-# #TODO [David Foster Wallace’s Commencement Speech “This Is Water”](https://fs.blog/david-foster-wallace-this-is-water/) [^1]
+# [David Foster Wallace’s Commencement Speech “This Is Water”](https://fs.blog/david-foster-wallace-this-is-water/) [^1]
+
+#TODO
 
 ---
 
