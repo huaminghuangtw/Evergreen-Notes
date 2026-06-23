@@ -1,6 +1,6 @@
 ---
 title: Emotion Control
-modified: 2026-06-22
+modified: 2026-06-23
 tags: []
 ---
 
@@ -127,7 +127,7 @@ The thing that prevents you from seeing what’s actually happening are your emo
 	* Knowing when to stop is a superpower. You don’t need to attend every argument you’re invited to, nor should you [waste your energy](energy-management.md) every time.
 	* The more easily you get offended, the less emotional intelligence you have, and the more easily you get manipulated. Stop taking shit personally. Invest your emotions wisely. Don’t engage in any fruitless arguments.
 	* The worst waste of time is arguing with the fool and fanatic who does not care about truth or reality, but only the victory of his beliefs and illusions.
-	* [The Unaccepted Gift](the-unaccepted-gift.md)
+	* [The Unaccepted Gift](https://huam.ing/the-unaccepted-gift)
 
 ---
 
