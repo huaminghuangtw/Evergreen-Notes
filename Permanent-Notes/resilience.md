@@ -1,6 +1,6 @@
 ---
 title: Resilience
-modified: 2026-06-21
+modified: 2026-06-23
 tags: []
 ---
 
@@ -102,7 +102,7 @@ Resistance, obstacles, and roadblocks lead to growth. “A gem cannot be polishe
 
 ---
 
-[The Unaccepted Gift](the-unaccepted-gift.md)
+[The Unaccepted Gift](https://huam.ing/the-unaccepted-gift)
 
 [^1]: _“Strength does not come from winning. Your struggles develop your strengths.” — Arnold Schwarzenegger_
 [^2]: _“As a lotus flower is born in water, grows in water, and rises out of water to stand above it unsoiled. So I, born and raised in the world, having overcome the world, live unsoiled by the world.” — Buddha_
