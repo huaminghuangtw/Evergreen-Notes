@@ -1,6 +1,6 @@
 ---
 title: Money
-modified: 2026-06-22
+modified: 2026-06-23
 tags: []
 ---
 
@@ -102,7 +102,7 @@ Reasonable Rational
 
 	> “The reason you’re not making $10m a year is that you don’t know HOW to make $10m a year. Therefore, that lack of knowledge is costing you $10m a year.” — Alex Hormozi
 
-* The only way to make a lot of money is to create a lot of value. No value means no money. Money is a lagging indicator of value created, impact, and service. Don’t chase the dollars. Create the value and the money will chase you. [^6]
+* The only way to make a lot of money is to create a lot of value. To do something people want. No value means no money. Money is a lagging indicator of value created, impact, and service. Don’t chase the dollars. Create the value and the money will chase you. [^6]
 * MONEY and TIME is a balancing act. Stop trading/renting time for money, so money can create more time for you.
 
 	> “Money is something you trade your life energy for. You sell your time for money. It doesn’t matter that Ned over there sells his time for a hundred dollars and you sell yours for twenty dollars an hour. Ned’s money is irrelevant to you. The only real asset you have is your time. The hours of your life.” — Vicki Robin, [Your Money or Your Life](https://www.goodreads.com/work/quotes/1509321)
