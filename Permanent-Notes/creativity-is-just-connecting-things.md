@@ -1,6 +1,6 @@
 ---
 title: Creativity is just connecting things
-modified: 2026-06-10
+modified: 2026-06-23
 tags: []
 ---
 
@@ -9,6 +9,8 @@ tags: []
 > “The dangerous man is the one who has only one idea, because then he’ll fight and die for it. The way real science goes is that you come up with lots of ideas, and most of them will be wrong.” — Francis Crick
 
 > “If a plant only gets sunlight, it’s very harmful. It needs darkness too…In the darkness, it converts oxygen into carbon dioxide. We are like that too. We need periods of doing & periods of non-doing.” — Robert Pirsig
+
+> “You can’t use up creativity. The more you use, the more you have.” — Maya Angelou
 
 ---
 
