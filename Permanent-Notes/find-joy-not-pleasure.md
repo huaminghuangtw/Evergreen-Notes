@@ -1,6 +1,6 @@
 ---
 title: "Find joy, not pleasure" 
-modified: 2026-06-19
+modified: 2026-06-23
 tags: []
 ---
 
@@ -19,3 +19,7 @@ tags: []
 > “Find a place inside where there’s joy, and the joy will burn out the pain.” — Joseph Campbell
 
 > “Childhood may be defined as the age of play; therefore some children are never young, and some adults are never old.” — Will Durant
+
+---
+
+If you choose not to find joy in the snow you will have less joy in your life but the same amount of snow.
