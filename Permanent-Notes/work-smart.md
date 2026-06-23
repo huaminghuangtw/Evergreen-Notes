@@ -1,6 +1,6 @@
 ---
 title: Work smart
-modified: 2026-06-10
+modified: 2026-06-23
 tags: []
 ---
 
@@ -39,21 +39,13 @@ Never press the “Try/Grind Harder” button. Instead, build a sustainable _[sy
 
 > “The harder we try with the conscious will to do something, the less we shall succeed.” — Aldous Huxley
 
-* A Zen parable:
-
-> A martial arts student approaches his teacher and asks, “How long will it take me to master this craft?”
->
-> The teacher replies, “10 years.”
->
-> The student, looking impatient, responds, “I want to master it faster than that. I will work harder than anyone else. I will push myself to practice for many hours every single day. I won’t rest until I become a master. How long will it take then?”
->
-> The teacher considers this new information, smiles, and answers, “20 years.”
-
 * Examples
 	* When you press to try to complete a creative task, you become less creative.
 	* When you actively push to try to find the perfect partner, you rarely find that person.
 	* When you try to force yourself to fall asleep, you stare at the ceiling awake.
 * **Action:** The 85% Rule (Balanced Effort)
+
+[Ten Years, Twenty Years](https://huam.ing/ten-years-twenty-years)
 
 ---
 
