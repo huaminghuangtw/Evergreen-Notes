@@ -1,8 +1,12 @@
 ---
 title: You can achieve anything if you focus on one thing at a time
-modified: 2026-06-10
+modified: 2026-06-24
 tags: []
 ---
+
+> If you chase two rabbits, you catch none.
+
+> “Concentrate all your thoughts upon the work at hand. The sun’s rays do not burn until brought to a focus.” — Alexander Graham Bell
 
 > [“The only way to gain enough efficiency to complete The Art of Computer Programming is to operate in batch mode, concentrating intensively and uninterruptedly on one subject at a time, rather than swapping a number of topics in and out of my head.” — Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/retd.html)
 
@@ -11,6 +15,10 @@ tags: []
 **Multitasking (多工)** is a myth. Focus on completing one task at a time _in series/sequence_; avoid multi-task _in parallel_.[^1]
 
 **Unitasking (單工)**: Do one thing at a time, and do it extremely/exceptionally well. Don’t half-ass two things. Whole-ass one thing. [If you’re half in, you’re actually all out.](https://x.com/SahilBloom/status/1925950712980152475)
+
+---
+
+Unitasking and [deep work](deep-work.md) are two sides of the same coin.
 
 ---
 
@@ -58,10 +66,16 @@ In _The Happiness Hypothesis_, New York University psychologist [Jonathan Haidt]
 >
 > Do what you are doing. = Do well whatever you do. = Concentrate on the task at hand.
 
-* When you walk, walk. When you eat, eat.
+* When walking, walk. When sitting, sit. When eating, eat. Don’t [wobble](https://www.google.com/search?q=wobble).
 * Use lunch time for lunch.
 * [When drinking tea, just drink tea.](https://sketchplanations.com/when-drinking-tea-just-drink-tea)
 * [If you want to live a quiet life, live a quiet life.](https://thequietlife.net/p/if-you-want-to-live-a-quiet-life)
+
+---
+
+**[ichigyo-zammai](https://www.google.com/search?q=ichigyo-zammai)** (一行三昧) is a Zen term that translates to ‘one practice concentration’’, or “single-task focus”.
+
+Ichigyo-zanmai is the practice of doing things to the best of one’s best ability; putting your whole self into the task at hand, nothing less.
 
 ---
 
@@ -71,4 +85,4 @@ In _The Happiness Hypothesis_, New York University psychologist [Jonathan Haidt]
 
 [Being indistractable is superpower](being-indistractable-is-superpower.md)
 
-[^1]: Multitasking isn’t always bad — you just have to make sure the conditions are right.
+[^1]: Multitasking isn’t always bad — you just have to make sure the conditions are right. The key distinction lies in **automatic vs controlled processing** (as Haidt describes it). Tasks that are highly practiced, routine, or performed on “autopilot” can run in parallel with others — walking while talking, folding laundry while listening to a podcast. However, checking email during a strategy meeting is not “being efficient” — it is partitioning your attention and missing context from both.
