@@ -1,12 +1,16 @@
 ---
 title: Deep Work
-modified: 2026-06-10
+modified: 2026-06-24
 tags: []
 ---
 
 > “If a large diamond is cut up into pieces, it immediately loses its value as a whole; or if an army is scattered or divided into small bodies, it loses all its power; and in the same way a great intellect has no more power than an ordinary one as soon as it is interrupted, disturbed, distracted, or diverted.” — Arthur Schopenhauer
 
 > “The difference between the greats and the legends is their ability to focus for longer periods of time.” — Jordan Burroughs
+
+---
+
+Deep work is the ability to focus without distraction on a cognitively demanding task. It requires the very conditions that unitasking creates: single-threaded attention, batching of related work, and the elimination of [context-switching](task-switching.md) overhead.
 
 ---
 
