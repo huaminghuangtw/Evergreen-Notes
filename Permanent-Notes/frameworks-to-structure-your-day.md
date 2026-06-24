@@ -1,10 +1,10 @@
 ---
 title: Frameworks to structure your day
-modified: 2026-06-10
+modified: 2026-06-24
 tags: []
 ---
 
-> [Live life by design, not default.](https://fs.blog/david-foster-wallace-this-is-water/) Make each day your masterpiece. How you spend your days is how you spend your life.
+> [Live life by design, not default.](https://fs.blog/david-foster-wallace-this-is-water/) [^1] Make each day your masterpiece. How you spend your days is how you spend your life.
 
 > “I cannot make my days longer so I strive to make them better.” — Henry David Thoreau
 
@@ -72,7 +72,7 @@ tags: []
 				* Service
 				* Smile
 * Daily dose of _sweat_, _sunlight_ and _silence_ (or _solitude_ or _stillness_) will solve 99% of your (mental) problems.
-* The 4 Quarters Rule [^1]
+* The 4 Quarters Rule [^2]
 	* Reframe each day as 4 quarters:
 		* **Quarter 1 (Morning)**
 			* Morning routine, deep creative work, etc.
@@ -102,7 +102,7 @@ tags: []
 	* In the afternoon, exercise your body
 	* In the evening, educate your brain
 * 3Rs for unwind routine
-	* [Reflect & Review](reflect-and-review.md) [^2]
+	* [Reflect & Review](reflect-and-review.md) [^3]
 	* Read (Light/Pleasure Reading)
 	* Relax
 * 3Ds
@@ -116,5 +116,6 @@ tags: []
 
 [Always start and end the day right](always-start-and-end-the-day-right.md)
 
-[^1]: _“Instead of feeling that you’ve blown the day and thinking, “I’ll get back on track tomorrow,” try thinking of each day as a set of four quarters: morning, midday, afternoon, evening. If you blow one quarter, you get back on track for the next quarter. Fail small, not big.” — Gretchen Rubin, Better Than Before_ [@rubinBetterMasteringHabits2015]
-[^2]: 每日自省吾身
+[^1]: 反被動人生
+[^2]: _“Instead of feeling that you’ve blown the day and thinking, “I’ll get back on track tomorrow,” try thinking of each day as a set of four quarters: morning, midday, afternoon, evening. If you blow one quarter, you get back on track for the next quarter. Fail small, not big.” — Gretchen Rubin, Better Than Before_ [@rubinBetterMasteringHabits2015]
+[^3]: 每日自省吾身
