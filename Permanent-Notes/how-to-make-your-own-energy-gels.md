@@ -1,6 +1,6 @@
 ---
 title: How to Make Your Own Energy Gels
-modified: 2026-06-10
+modified: 2026-06-23
 tags: []
 ---
 
@@ -10,6 +10,8 @@ tags: []
 # Ratio
 
 Maltodextrin : Fructose ≈ 1:1
+
+> 「麥芽糊精」與「果糖」搭配使用，可利用到不同的腸道運輸通道（SGLT1 vs GLUT5），進一步提升碳水化合物氧化速率（可達 ~90 g/hr）
 
 * If you want to make a gel like [Maurten 100](https://www.maurten.com/products/gel-100-box-us), use a ratio of 60% carbs + 40% water.
 * If you desire a hydrogel (水凝膠)-type drink like [Maurten 320](https://www.maurten.com/products/drink-mix-320-box-us), mix 80g of carbs (e.g., 40g Maltodextrin + 40g Fructose) with 500ml of water.
