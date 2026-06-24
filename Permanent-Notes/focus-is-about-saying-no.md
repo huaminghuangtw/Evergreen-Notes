@@ -1,12 +1,12 @@
 ---
 title: Focus is about saying no
-modified: 2026-06-10
+modified: 2026-06-24
 tags: []
 ---
 
 > [“Focus is about saying no.” — Steve Jobs](https://youtu.be/H8eP99neOVs)
 
-> “If you chase two rabbits, you catch none.” — Confucius
+> If you chase two rabbits, you catch none.
 
 > “He who chases two hares catches neither.” — Desiderius Erasmus
 
