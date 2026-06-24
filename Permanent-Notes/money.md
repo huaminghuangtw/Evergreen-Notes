@@ -1,6 +1,6 @@
 ---
 title: Money
-modified: 2026-06-23
+modified: 2026-06-24
 tags: []
 ---
 
@@ -164,6 +164,9 @@ Reasonable Rational
 
 * Spending can be a representation of how hard you’ve worked and how much stress went into earning your pay check.
 * [“Nothing you will do in your lifetime, realistically, will waste more money than buying a new car. It’s the single worst financial decision millennials will ever make.”](https://www.reddit.com/r/Frugal/comments/9wfs73/selfmade_millionaire_buying_a_new_car_is_the/)
+
+	> 出門/落地就折價 30%
+
 * Bought Status Test
 
 	> Before you buy something, ask yourself: Would I buy that thing if I couldn’t tell anyone about it?
