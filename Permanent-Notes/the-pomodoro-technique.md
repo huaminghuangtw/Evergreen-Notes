@@ -1,6 +1,6 @@
 ---
 title: The Pomodoro Technique
-modified: 2026-06-10
+modified: 2026-06-24
 tags: []
 ---
 
@@ -8,7 +8,7 @@ The [original technique](https://www.pomodorotechnique.com/) has six steps:
 
 1. Decide on the task to be done. [^1]
 2. Set the Pomodoro timer (typically for 25 minutes).
-3. Work on the task.
+3. Work on the task. <mark>If your mind wanders to something else during a Pomodoro, note it down and return to it after the break — do not act on it!</mark>
 4. End work when the timer rings and take a short break (typically 5–10 minutes).
 5. Go back to Step 2 and repeat until you complete four pomodori.
 6. After 4 pomodori are done, take a long break (typically 20–30 minutes) instead of a short break. Once the long break is finished, return to step 2.
