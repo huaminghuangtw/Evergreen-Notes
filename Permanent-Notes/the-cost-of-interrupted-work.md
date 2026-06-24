@@ -1,6 +1,6 @@
 ---
 title: The Cost of Interrupted Work
-modified: 2026-06-22
+modified: 2026-06-24
 tags: []
 ---
 
@@ -26,7 +26,7 @@ tags: []
 
 <https://www.fastcompany.com/944128/worker-interrupted-cost-task-switching>
 
-It takes the brain an average of 23 minutes and 15 seconds to refocus after a distraction / an interruption, a phenomenon known as the **“cognitive switching penalty”**.
+Cognitive psychologist Dr. Gloria Mark of UC Irvine found that after an interruption lasting as little as 2.8 seconds, knowledge workers take an average of over 23 minutes to fully re-immerse/refocus themselves in the original task, a phenomenon known as the **“cognitive switching penalty”**.
 
 This happens because when interrupted, the brain must re-establish context for the original task, which is a process that can take a significant amount of time.
 
