@@ -1,10 +1,12 @@
 ---
 title: The Hofstadter’s Law
-modified: 2026-06-10
+modified: 2026-06-24
 tags: []
 ---
 
 > “A hero is one who knows how to hang on for one minute longer.” — Norwegian proverb
+
+> “The difference between ordinary and extraordinary is that little extra.” — Jimmy Johnson
 
 ---
 
