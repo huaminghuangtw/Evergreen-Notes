@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-06-22
+modified: 2026-06-24
 tags: []
 ---
 
@@ -23,7 +23,7 @@ tags: []
 
 ---
 
-A rising heart rate means you need more easy miles. Easy runs build aerobic fitness. A fitter heart pumps more blood per beat.
+A rising heart rate means you need more easy miles. Easy runs build aerobic fitness (續航力：讓你在相同配速下心率更低、更持久). A fitter heart pumps more blood per beat.
 
 ---
 
@@ -63,10 +63,29 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 	* Rather than “run slow to run fast,” the better principle is: if you want to get faster, run more — and to run more without overdoing it, you have to run slower.
 * Marathon Training Methods
 	* Hansons
-	* Pfitz’s 18/55
+	* Pfitz’s 18/55 or 18/70
+
+		> 18-week training cycle, peaking at 55/70 mpw
+
 	* Jack Daniels 2Q
 
 	> Pfitz tends to utilize a more ‘classic’ periodization protocol (extending duration, then running faster) while Hansons are a closer to a ‘reverse’ periodization protocol (starting with faster running and extending duration). Either way is good, it’s mostly about what you can tolerate and what will lead to the most consistent running.
+
+||漢森|Pfitzinger|
+|---|---|---|
+|**核心理念**|累積疲勞（Cumulative Fatigue）|超補償（Supercompensation）|
+|**長跑哲學**|練到剛好就好（peak 26K）|練到超過比賽距離（peak 32-37K）|
+|**訓練感**|對上腳時你一直是疲憊的|每次關鍵課表前應該是恢復好的|
+
+||漢森|Pfitz|
+|---|---|---|
+|最長距離|**26 km**（16 miles）|**32-37 km**（20-23 miles）|
+|頻率|平日也有強度，長距離只是其中一環|長距離是每週的 C 位|
+|配速|大量 M-pace 混入|大部分輕鬆跑，末期可混 M-pace|
+
+---
+
+## 📊 關鍵課表比較
 
 * <https://www.reddit.com/r/AdvancedRunning/wiki/workoutoftheweek/>
 * Tempo Run: at a “Comfortably Uncomfortable/Hard” pace
@@ -101,7 +120,7 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 	* 雙手輕握
 	* 腹式呼吸
 	* [臀部、大腿出力，保持小腿、腳踝與膝蓋放鬆](https://www.facebook.com/reel/782777457834647)
-	* 中足、前腳掌外側/前緣著地
+	* ⭐️ 中足、前腳掌外側/前緣著地
 	* 想像在身體前方處，把腳趾頭插進地裡
 	* 腳掌落地時與地面平行，腳背不向下施壓
 * 送髖奧義/技術
@@ -117,7 +136,7 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 	* 如果表現越來越差，肯定是過度訓練。
 * RPE (= Rate of Perceived Exertion) should be the primary measure—everything produced by your watch is secondary feedback.
 * Pacing Strategies
-	* 緩緩加速（負分段）是最理想的，或至少全程保持一樣的配速。
+	* 緩緩加速（負分段）是最理想的，或至少全程保持一樣的配速（和跑姿！）。[^2]
 
 		> 前面有多囂張，後面就有多落魄。
 
@@ -189,6 +208,8 @@ is a highly effective, time-efficient workout designed to maximize aerobic capac
 * **Application:** Ideal for running, cycling, rowing, or [ski erg](https://www.google.com/search?q=ski+erg), and is often used to boost fitness in just 30–40 minutes.
 * **Progression:** It is crucial to perform a proper warm-up (e.g., 10 minutes) before starting the first 4-minute interval.
 
+[Norwegian Singles](https://norwegiansingles.run/)
+
 # Goal-Pace Workout
 
 > Remember the joke about the tourist asking a native New Yorker how to get to [Carnegie Hall](https://www.google.com/maps?q=Carnegie+Hall)? “Practice, practice, practice” is the smart-aleck reply. That answer, modified for runners, could be given to anyone who asks how to race faster. “Practice race pace, practice race pace, practice race pace!”
@@ -202,4 +223,11 @@ At the start of your training, replace a weekly tempo run with 5 miles at your *
 * **Progress Over Time:** As you gain experience and build fitness over months and years, you’ll be able to cover more distance within the same time cap, while keeping your effort below critical thresholds. This long-term consistency is more valuable than pushing for extra mileage in a single session.
 * **Practical Advice:** Focus on quality and consistency. Prioritize staying healthy and finishing your long runs feeling strong, rather than exhausted. This sets you up for better training and race performance in the long run.
 
+---
+
+全馬主要靠 threshold（閾值）和 volume（跑量），VO₂max 是「拉高天花板用的」（bonus）。
+
+Zone 2 決定你能用這個速度撐多久（油耗效率），VO2 Max 決定你的速度天花板在哪裡（油箱容量）。
+
 [^1]: Medals are won in training. Tournaments are where you pick them up.
+[^2]: 跑全馬好比將一杯盛滿的水緩緩倒至見底 — 最好的狀態是抵達終點時水恰好倒完。
