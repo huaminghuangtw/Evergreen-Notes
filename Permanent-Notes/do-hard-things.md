@@ -1,6 +1,6 @@
 ---
 title: Do hard things
-modified: 2026-06-23
+modified: 2026-06-24
 tags: []
 ---
 
@@ -97,6 +97,7 @@ When we embrace _|voluntary struggles_, we’re better equipped/prepared for the
 * Get comfortable by being uncomfortable.
 * Avoid unchosen suffering by choosing chosen suffering.
 * Fear of suffering is worse than the suffering itself.
+* Pain from discipline is better than pain from regret.
 
 ---
 
