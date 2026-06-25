@@ -1,6 +1,6 @@
 ---
 title: Dispel your narratives
-modified: 2026-06-22
+modified: 2026-06-25
 tags: []
 ---
 
@@ -13,6 +13,11 @@ tags: []
 > “You never know what will be the consequence of the misfortune; or, you never know what will be the consequences of good fortune.” — Alan Watts
 
 > [“Reality is neutral. Reality has no judgments. To a tree, there is no concept of right or wrong, good or bad.” — Naval Ravikant](https://youtu.be/3qHkcs3kG44?t=1h56m55s)
+
+> 至人之用心若鏡，不將不迎，應而不藏，故能勝物而不傷。[^1]
+> —《莊子 · 內篇 · 應帝王》
+>
+> The perfect man employs his mind as a mirror; it grasps nothing, it refuses nothing. It receives but does not keep.
 
 ---
 
@@ -71,3 +76,5 @@ Life unfolds in ways you can’t predict.
 ---
 
 [Amor Fati](amor-fati.md)
+
+[^1]: 境界最高的人，其心思如同明鏡般純粹，對事物的來去順其自然，客觀反映卻不留執念，因此能從容應對萬事萬物而不受傷害。
