@@ -1,6 +1,6 @@
 ---
 title: Overthinking
-modified: 2026-06-10
+modified: 2026-06-25
 tags: []
 ---
 
@@ -15,10 +15,6 @@ tags: []
 > “If you spend too much time thinking about a thing, you’ll never get it done.” — Bruce Lee
 
 > “Did you ever stop to think, and forget to start again?” — A.A. Milne
-
----
-
-![](_attachments/6f4cbd9eaa25c23ba85fa647787f4298.png)
 
 ---
 
