@@ -1,6 +1,6 @@
 ---
 title: Anger
-modified: 2026-06-21
+modified: 2026-06-25
 tags: []
 ---
 
@@ -11,6 +11,8 @@ tags: []
 > “Anger is a contract you make with yourself to be in physical and mental and emotional turmoil until reality changes.” — Naval Ravikant
 
 > [“Anger is like an oven; heat without light. Forgiveness is like the moon; light without heat.” — James Clear](https://jamesclear.com/quotes/anger-is-like-an-oven)
+
+> “At the core of all anger is a need that is not being fulfilled.” — Marshall B. Rosenberg, [Nonviolent Communication: A Language of Life](https://www.goodreads.com/work/quotes/2766138)
 
 > “To be angry is to revenge the faults of others on ourselves.” — Alexander Pope
 
