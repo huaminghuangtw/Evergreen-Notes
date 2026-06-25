@@ -1,6 +1,6 @@
 ---
 title: Control the controllable
-modified: 2026-06-10
+modified: 2026-06-25
 tags: []
 ---
 
@@ -18,7 +18,7 @@ tags: []
 
 ---
 
-課題分離：區分出「[事實](seek-for-the-truth.md)」與「觀點」
+課題分離（by 阿德勒）
 
 ---
 
