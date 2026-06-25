@@ -1,6 +1,6 @@
 ---
 title: Luck
-modified: 2026-06-10
+modified: 2026-06-24
 tags: []
 ---
 
@@ -20,14 +20,24 @@ tags: []
 
 ---
 
+# The Formula
+
+by [Jason Roberts](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)
+
+$Luck = Doing \times Telling$
+
+---
+
 # The 4 Types Of Luck [^3]
 
-| Type of Luck            | Description               | Controllability |
-|-------------------------|---------------------------|------------------|
-| Blind Luck              | Uncontrollable chance     | Uncontrollable   |
-| Active Luck             | Luck from motion          | Controllable     |
-| Discerned Luck          | Luck from awareness       | Controllable     |
-| Personality Luck        | Luck from uniqueness      | Controllable     |
+Naval 重新詮釋了 [James H. Austin 的四種 Chance 理論](https://www.wealest.com/articles/four-kinds-of-luck)，把運氣分成四種：
+
+| Type of Luck     | Description           | Controllability |
+| ---------------- | --------------------- | --------------- |
+| Blind Luck       | Uncontrollable chance | Uncontrollable  |
+| Active Luck      | Luck from motion      | Controllable    |
+| Discerned Luck   | Luck from awareness   | Controllable    |
+| Personality Luck | Luck from uniqueness  | Controllable    |
 
 ---
 
