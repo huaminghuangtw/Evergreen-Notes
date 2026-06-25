@@ -1,6 +1,6 @@
 ---
 title: Do great work
-modified: 2026-06-10
+modified: 2026-06-25
 tags: []
 ---
 
@@ -69,6 +69,18 @@ Once you see it this way, your “working hours” multiply without [burning you
 ---
 
 = 做出偉大的成就
+
+---
+
+# 庖丁解牛
+
+出自《莊子 · 養生主》，講述一位名「丁」的廚師為梁惠王宰牛，技術達到出神入化的境界。其核心在於「依乎天理」、「因其固然」，順應牛體自然的筋骨縫隙運刀，故能遊刃有餘。此喻指對事物規律瞭解透澈，做事能得心應手，運用自如。
+
+The butcher’s knife remains sharp after nineteen years because he cuts through the natural spaces between bones, never forcing it against resistance. This is a profound metaphor for navigating life:
+
+1. **Study the structure** — Before acting, understand the terrain deeply.
+2. **Find the gaps** — Every situation has paths of least resistance. Seek them.
+3. **[Don’t force](wu-wei.md)** — Resistance is a signal, not an obstacle to be crushed.
 
 ---
 
