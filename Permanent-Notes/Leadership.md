@@ -1,6 +1,6 @@
 ---
 title: Leadership
-modified: 2026-06-22
+modified: 2026-06-25
 tags: []
 ---
 
@@ -26,13 +26,18 @@ tags: []
 
 [@covey7HabitsHighly2013]
 
-> $1
+> “Treat a man as he is and he will remain as he is. Treat a man as he can and should be and he will become as he can and should be.” — Stephen R. Covey, The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 
 > “When we select leaders, we don’t usually pick the person with the strongest leadership skills. We frequently choose the person who talks the most. It’s called the babble effect. Research shows that groups promote the people who command the most airtime—regardless of their aptitude and expertise. We mistake confidence for competence, certainty for credibility, and quantity for quality. We get stuck following people who dominate the discussion instead of those who elevate it.” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)
 
+> 太上，下知有之；其次，親而譽之；其次，畏之；其次，侮之。
+> —《道德經》第十七章
+>
+> The best leader is one whose existence is barely known by the people. Next is one who is loved and praised. Next is one who is feared. Next is one who is despised. — Lao Tzu
+
 ---
 
-優秀的管理者投資於績效，偉大的管理者則投資於潛力。
+優秀的管理者投資於績效，偉大的管理者投資於潛力。
 
 ---
 
