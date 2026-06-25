@@ -1,6 +1,6 @@
 ---
 title: Peace from mind
-modified: 2026-06-10
+modified: 2026-06-25
 tags: []
 ---
 
@@ -15,6 +15,8 @@ tags: []
 > “Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.” — Ronald Reagan
 
 > “Let your heart be quiet; clarity follows.” — Parker J. Palmer
+
+> “The resting place of the mind is the heart. The only thing the mind hears all day is clanging bells and noise and argument, and all it wants is quietude. The only place the mind will ever find peace is inside the silence of the heart. That’s where you need to go.” — Elizabeth Gilbert
 
 ---
 
