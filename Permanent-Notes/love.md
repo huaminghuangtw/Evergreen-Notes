@@ -1,6 +1,6 @@
 ---
 title: Love
-modified: 2026-06-22
+modified: 2026-06-25
 tags: []
 ---
 
@@ -82,6 +82,10 @@ tags: []
 ---
 
 Remem­ber that love for­gives every­thing.
+
+---
+
+It takes a strong heart to love, but it takes an even stronger heart to continue to love after it’s been hurt.
 
 ---
 
