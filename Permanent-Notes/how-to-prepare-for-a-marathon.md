@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-06-24
+modified: 2026-06-26
 tags: []
 ---
 
@@ -217,6 +217,8 @@ is a highly effective, time-efficient workout designed to maximize aerobic capac
 At the start of your training, replace a weekly tempo run with 5 miles at your **goal marathon pace (GMP)**. Do this workout early in the week, and add one mile every week. Once you reach 10 miles, move the GMP run to every other weekend, alternating it with your slower-paced long run. Then build the GMP run to no more than 15 miles.
 
 # Long Run Workouts
+
+> 不應超過週跑量的 25–30%
 
 * **Optimal Duration:** The greatest aerobic benefits from long runs occur between 60 and 120 minutes. Beyond 2 hours, the additional gains decrease, and after 2.5 to 3 hours, the risk of injury and excessive fatigue rises significantly.
 * **Risk Management:** Running longer than 2.5 hours increases your risk of overuse injuries, poor recovery, and diminishing returns in fitness. For most runners, capping the long run at 3 hours is a smart, sustainable approach.
