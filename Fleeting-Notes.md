@@ -1,5 +1,5 @@
 ---
-modified: 2026-06-21
+modified: 2026-06-25
 ---
 
 <https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/>
@@ -242,3 +242,7 @@ The “Golden Algorithm” is a behavioral and emotional framework popularized b
 ---
 
 What are some things this person likely doesn’t do, in order to reach their goals? e.g. What have they had to sacrifice?
+
+---
+
+Carl Jung coined the archetype of Puer Aeternus (Latin for the “eternal boy”) as an adult who lives in a constant state of boyhood, with a fear of commitment and an obsession with preparation for action that never comes.
