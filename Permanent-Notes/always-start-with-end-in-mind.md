@@ -1,6 +1,6 @@
 ---
 title: Always start with end in mind
-modified: 2026-06-17
+modified: 2026-06-27
 tags: []
 ---
 
@@ -30,16 +30,4 @@ If you don’t know what you want, how are you going to know when you get it?
 
 ---
 
-Complex problems are sometimes better solved backwards
-
-* Invert the problem
-* Inversion
-	* Prevention over pursuit
-	* Focusing on what to avoid rather than what to achieve
-	* Instead of asking “How do I win?”, ask “How do I ensure I don’t lose?”
-* Reverse Engineering
-* Work backwards
-
----
-
-In **linear algebra**, proofs often require working with the inverse of a matrix to arrive at the solution. However, determining the inverse itself usually starts with the end goal in mind: verifying properties like $A^{-1}A = I$ or solving $AX = B$, the steps to constructing or applying the inverse become more focused and straightforward. Similarly, in any task, starting with the end in mind provides clarity and direction, making the process more efficient and focused.
+[Invert, always invert](invert-always-invert.md)
