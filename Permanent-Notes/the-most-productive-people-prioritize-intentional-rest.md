@@ -1,6 +1,6 @@
 ---
 title: The most productive people prioritize intentional rest
-modified: 2026-06-10
+modified: 2026-06-27
 tags: []
 ---
 
@@ -9,6 +9,8 @@ tags: []
 > “Rest is not idleness, and to lie sometimes on the grass under trees on a summer’s day, listening to the murmur of the water, or watching the clouds float across the sky, is by no means a waste of time.” — John Lubbock, The Use of Life ​​
 
 > “Sometimes the most important thing in a day is the rest we take.” — Etty Hillesum
+
+> “Time spent amongst trees is never wasted time.” — Katrina Mayer
 
 ---
 
