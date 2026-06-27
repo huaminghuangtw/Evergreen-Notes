@@ -1,5 +1,5 @@
 ---
-modified: 2026-06-25
+modified: 2026-06-27
 ---
 
 <https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/>
@@ -41,12 +41,6 @@ With resistance band
 
 ---
 
-Noise Bottleneck:
-
-“This is hard to accept in the age of the internet. It has been very hard for me to explain that the more data you get, the less you know what’s going on…”
-
----
-
 [Augustine’s Divided Will: We sabotage our own goals not because we’re weak, but because we genuinely want contradictory things at the same time. The conflict isn’t a flaw to fix. It’s what being human feels like.](https://plato.stanford.edu/entries/augustine/)
 
 [Is willpower like a battery that can run out? The popular theory of ego depletion says yes. However, a major replication with 23 labs and over 2,000 participants failed to reproduce the effect.](https://journals.sagepub.com/doi/10.1177/1745691616652873)
@@ -57,19 +51,8 @@ We want to exercise and stay comfortable. Be productive and relax.
 
 ---
 
-In the 19th century, a German mathematician named Carl Jacobi developed an interesting insight:
-
-Many hard math problems become easier to solve when you flip them around and work backwards.
-
-He famously preached to his students, “Man muss immer umkehren.”
-
-Translation: Invert, always invert.
-
-Via Negativa. The negative path. The path of removal.
-
-Do not be an ostrich.
-
-Bayesian Thinking, a structured approach to updating beliefs
+1. **Do not become an ostrich.** An ostrich will bury its head in the sand to avoid danger. A lot of humans behave the same way when they encounter new information that challenges their existing beliefs or views. An ostrich cares more about being right than finding the truth. Do not become an ostrich, embrace new information that forces you to change your mind.
+2. Bayesian Thinking, a structured approach to updating beliefs. This is the fundamental principle of Bayesian Inference. In probability theory, we start with a ‘Prior’ (Initial Belief). But as new data (Likelihood) comes in, we are mathematically required to update our model to get the ‘Posterior’ (New Belief). If you refuse to change your mind despite new data, you aren’t just stubborn; you are Statistically Invalid. As you said, it’s a software update. In my field, we call it ‘Model Retraining.’ A static model is a dead model.
 
 ---
 
@@ -246,3 +229,8 @@ What are some things this person likely doesn’t do, in order to reach their go
 ---
 
 Carl Jung coined the archetype of Puer Aeternus (Latin for the “eternal boy”) as an adult who lives in a constant state of boyhood, with a fear of commitment and an obsession with preparation for action that never comes.
+
+
+---
+
+The Illusion of Explanatory Depth says that we are overconfident in our understanding of the most common things that exist all around us.
