@@ -22,7 +22,7 @@ The distinction between working memory and short-term memory is that working mem
 | Memory Type           | Analogy                    | Characteristics                                                                                                              |
 | --------------------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | **Working Memory**    | RAM (Random-Access Memory) | Temporary storage, requires active focus to retain information (“volatile memory”). Used for immediate tasks and processing. |
-| **Short-Term Memory** | Combination of RAM & Cache | Holds information briefly (seconds to minutes). [^1] Data is easily lost without rehearsal or attention.                     |
+| **Short-Term Memory** | Combination of RAM & Cache | Holds information briefly (seconds to minutes). Data is easily lost without rehearsal or attention.                          |
 | **Long-Term Memory**  | ROM (Read-Only Memory)     | Permanent storage (“non-volatile memory”). Retains information over extended periods, even without active use.               |
 
 ---
@@ -80,7 +80,7 @@ The most influential framework for understanding working memory is **[Baddeley�
 
 # Working Memory Capacity Limits
 
-[George Miller](https://www.google.com/search?q=George+Miller)’s [1956 paper](https://doi.org/10.1037/h0043158), “The Magical Number Seven, Plus or Minus Two,” famously proposed that short-term memory could hold roughly **7 items**.
+[George Miller](https://www.google.com/search?q=George+Miller)’s [1956 paper](https://doi.org/10.1037/h0043158), “[The Magical Number Seven, Plus or Minus Two](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two),” famously proposed that short-term memory could hold roughly **7 items**.
 
 However, more recent [research](https://doi.org/10.1017/S0140525X01003922) by [Nelson Cowan](https://www.google.com/search?q=Nelson+Cowan) suggests the true capacity of working memory is closer to **3–5 chunks** of information for most adults, especially when manipulating rather than merely holding information.
 
@@ -104,8 +104,6 @@ _To maximize learning and performance, reduce extraneous load (clean up your env
 
 While raw capacity declines over time, **compensatory strategies** (chunking, external notes, routines) can maintain high performance. The practice of maintaining a [second brain](evergreen-notes.md) is itself a working memory augmentation strategy.
 
-The best-supported strategy is not training working memory in isolation, but rather **reducing unnecessary demands on it**—through externalizing information (notes, checklists), building habits and routines, and protecting focused attention.
+The best-supported strategy is not training working memory in isolation (e.g. [N-back Task](https://www.google.com/search?q=N-back+Task)), but rather **reducing unnecessary demands on it**—through externalizing information (notes, checklists), building habits and routines, and protecting focused attention.
 
 > A note is not a memory aid—it is a thinking tool. By writing things down, you free your working memory to think, not just hold.
-
-[^1]: [The number of objects an average human can hold in short-term memory is 7 ± 2.](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two)
