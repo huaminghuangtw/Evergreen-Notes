@@ -1,6 +1,6 @@
 ---
 title: Busyness
-modified: 2026-06-10
+modified: 2026-06-27
 tags: []
 ---
 
@@ -44,6 +44,8 @@ tags: []
 * [Being busy is most often used as a guise for avoiding the few critically important but uncomfortable actions.](https://tim.blog/2013/11/03/productivity-hacks/)
 
 ---
+
+> “The best prize that life has to offer is the chance to work hard at work worth doing.” — Theodore Roosevelt
 
 The most invisible form of wasted time is doing a good job on an unimportant task.
 
