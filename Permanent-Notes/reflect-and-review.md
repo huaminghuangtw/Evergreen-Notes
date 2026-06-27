@@ -1,6 +1,6 @@
 ---
 title: Reflect & Review
-modified: 2026-06-10
+modified: 2026-06-27
 tags: []
 ---
 
@@ -39,6 +39,10 @@ The thought experiment is intended to spark reflection and introspection on your
 Introspection is vital for uncovering personal truths, which fosters the need for [experimentation and exploration](specialization-is-for-insects.md) in life. Engaging in diverse experiences allows individuals to encounter serendipity and learn significant lessons. Although truth can be painful and often goes unacknowledged, it continually presents itself as a reflection of reality. People may overlook these truths until they personally experience them. **Wisdom cannot simply be transmitted through reading or teachings; it must be discovered individually [through lived experience](intentional-living.md) and [by doing](cultivate-a-strong-bias-towards-action.md)**.
 
 Introspection is the one of the best ways to expand our [self-awareness](mastering-yourself-is-superpower.md)—the more time we invest into reflecting on our thoughts and emotions, the more self-awareness we will have.
+
+---
+
+[Hansei](https://www.google.com/search?q=Hansei) (反省 ; “self-reflection”) is a central idea in Japanese culture, meaning _to acknowledge one’s own mistake_ and to pledge improvement.
 
 ---
 
