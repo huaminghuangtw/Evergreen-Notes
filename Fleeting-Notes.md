@@ -1,5 +1,5 @@
 ---
-modified: 2026-06-27
+modified: 2026-06-28
 ---
 
 <https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/>
@@ -82,7 +82,7 @@ Bookcrossings.com. Check it out! I’m not sure if it’s still around, but it�
 
 I like to bring books and then leave them in different city’s around the world. I found a copy of Christopher Moore’s Lamb at an airport in Calgary many years ago. A note inside said read me and leave me in a new spot. I did just that! I love the book so much, that I have purchased a few copies and left them in different countries.
 
-Kindle is cheaper(if you accept the adds) but it works well only if you stay in the Amazon ecosystem. With Kobo you can side load multiple different formats, it works with public libraries and it has a better software support
+Kindle is cheaper (if you accept the adds) but it works well only if you stay in the Amazon ecosystem. With Kobo you can side load multiple different formats, it works with public libraries and it has a better software support.
 
 ---
 
@@ -91,14 +91,6 @@ Kindle is cheaper(if you accept the adds) but it works well only if you stay in 
 In 1987, a Harvard researcher named Daniel Wegner conducted an experiment where he asked participants to verbalize their stream of consciousness for five minutes, saying whatever came to mind.
 
 Ironic Process Theory, which says that the deliberate attempt to suppress a thought may unintentionally amplify it.
-
----
-
-“Watch your thoughts, they become your words; watch your words, they become your actions; watch your actions, they become your habits; watch your habits, they become your character; watch your character, it becomes your destiny.” — Lao Tzu
-
----
-
-“Your mind will take the shape of what you frequently hold in thought, for the human spirit is colored by such impressions.” — Marcus Aurelius
 
 ---
 
@@ -229,7 +221,6 @@ What are some things this person likely doesn’t do, in order to reach their go
 ---
 
 Carl Jung coined the archetype of Puer Aeternus (Latin for the “eternal boy”) as an adult who lives in a constant state of boyhood, with a fear of commitment and an obsession with preparation for action that never comes.
-
 
 ---
 
