@@ -1,6 +1,6 @@
 ---
 title: Scarcity creates a mindset that perpetuates scarcity
-modified: 2026-06-10
+modified: 2026-06-28
 tags: []
 ---
 
@@ -86,6 +86,10 @@ tags: []
 ---
 
 感到匱乏（Scarcity）的時候，[轉念](a-true-transformation-begins-with-a-mental-shift.md)，豐盛（Abundance）將伴隨而來。
+
+* Abundance isn’t what you find. It’s how you tune your eyes.
+* Abundance is not something we acquire. It’s something we tune into.
+* Abundance isn’t in what you have. It’s in how you see what you already have.
 
 ---
 
