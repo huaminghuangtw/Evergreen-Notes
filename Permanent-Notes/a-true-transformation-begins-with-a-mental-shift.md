@@ -1,6 +1,6 @@
 ---
 title: A true transformation begins with a mental shift
-modified: 2026-06-19
+modified: 2026-06-28
 tags: []
 ---
 
@@ -35,6 +35,8 @@ tags: []
 > “The energy of the mind is the essence of life.” — Aristotle
 
 > “The soul becomes dyed with the color of its thoughts.” — Marcus Aurelius
+
+> “Your mind will take the shape of what you frequently hold in thought, for the human spirit is colored by such impressions.” — Marcus Aurelius
 
 > “You have power over your mind, not outside events. Realize this, and you will find strength.” — Marcus Aurelius
 
@@ -122,6 +124,23 @@ A change in worldview will change the world viewed.
 ---
 
 [You can reorient your life in a new direction quickly but the underlying rewriting of scripts and rewiring of your nervous system takes much longer than you would ever expect.](https://newsletter.pathlesspath.com/p/40-thoughts-on-turning-40-287)
+
+---
+
+> “Watch your thoughts, they become your words; watch your words, they become your actions; watch your actions, they become your habits; watch your habits, they become your character; watch your character, it becomes your destiny.” — Lao Tzu
+
+Sow a thought and you reap an action; sow an action and you reap a habit; sow a habit and you reap a character; sow a character and you reap a destiny.
+
+---
+
+> “Above all else, guard your heart, for everything you do flows from it.” — Proverbs 4:23
+>
+> 你要保守你的心， 勝過保守一切， 因為一生的果效皆由心發出。
+> — 聖經舊約《箴言》第 4 章第 23 節
+
+A good mindset is your biggest weapon / superpower.
+
+Choose your thoughts wisely, because your life will always move in the direction of your thoughts.
 
 ---
 
