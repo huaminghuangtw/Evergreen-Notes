@@ -1,6 +1,6 @@
 ---
 title: How to use AI effectively
-modified: 2026-06-12
+modified: 2026-06-28
 tags:
   - ai
 ---
@@ -137,7 +137,11 @@ A good LLM serves as a great groove-greaser / a productivity catalyst—helping 
 
 ---
 
-[▍Getting Started with AI: Good Enough Prompting](https://huam.ing/getting-started-with-ai-good-enough-prompting)
+[AI Prompt Hacks](ai-prompt-hacks.md)
+
+---
+
+[Getting Started with AI: Good Enough Prompting](https://huam.ing/getting-started-with-ai-good-enough-prompting)
 
 [^1]: 修潤，而非生成。
 [^2]: Why? They often hallucinate confidently.（一本正經地胡說八道/講幹話、似是而非、包裝得煞有其事）
