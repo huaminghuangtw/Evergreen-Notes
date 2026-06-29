@@ -1,6 +1,6 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
-modified: 2026-06-21
+modified: 2026-06-29
 tags: []
 ---
 
@@ -113,6 +113,12 @@ Loving yourself well has a ripple effect beyond the personal. When you are groun
 * Put on your oxygen mask first. (你得先為自己戴上氧氣罩，才能開始救人。)
 * A starving chef can’t feed anyone.
 * You can’t pour from an empty cup.
+
+---
+
+# We owe our parents nothing
+
+> “You don’t pay back your parents. You can’t. The debt you owe them gets collected by your children, who hand it down in turn. It’s a sort of entailment. Or if you don’t have children of the body, it’s left as a debt to your common humanity. Or to your God, if you possess or are possessed by one. The family economy evades calculation in the gross planetary product. It’s the only deal I know where, when you give more than you get, you aren’t bankrupted - but rather, vastly enriched.” — Lois McMaster Bujold, [A Civil Campaign](https://www.goodreads.com/work/quotes/1093445)
 
 ---
 
