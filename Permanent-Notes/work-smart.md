@@ -1,6 +1,6 @@
 ---
 title: Work smart
-modified: 2026-06-23
+modified: 2026-06-29
 tags: []
 ---
 
@@ -35,20 +35,6 @@ Never press the “Try/Grind Harder” button. Instead, build a sustainable _[sy
 
 ---
 
-# The Law Of Reversed Effort
-
-> “The harder we try with the conscious will to do something, the less we shall succeed.” — Aldous Huxley
-
-* Examples
-	* When you press to try to complete a creative task, you become less creative.
-	* When you actively push to try to find the perfect partner, you rarely find that person.
-	* When you try to force yourself to fall asleep, you stare at the ceiling awake.
-* **Action:** The 85% Rule (Balanced Effort)
-
-[Ten Years, Twenty Years](https://huam.ing/ten-years-twenty-years)
-
----
-
 # 不必使盡全力，用四分之三的氣力做事就夠了
 
 > [別太認真 = 專注且放鬆。](https://youtu.be/T0hKmjsnGSs?t=20m25s)
@@ -56,6 +42,8 @@ Never press the “Try/Grind Harder” button. Instead, build a sustainable _[sy
 * 用四分之三的氣力完成一件作品或是一件事的成果才是最好的。
 * 因為使盡全力完成的東西，只會讓人覺得沉重、緊繃不已，也會散發一股「世故味」。
 * 相反的，用四分之三的氣力完成的東西，不但讓人感覺從容，也能給人安心、舒適的印象。
+
+[The Law of Reversed Effort](the-law-of-reversed-effort.md)
 
 ---
 
@@ -75,7 +63,7 @@ Usually, the hardest work is thinking of a better way to do it.
 
 ---
 
-[Slow Down to Speed Up](slow-down-to-speed-up.md)
+[Slow down to speed up](slow-down-to-speed-up.md)
 
 ---
 
