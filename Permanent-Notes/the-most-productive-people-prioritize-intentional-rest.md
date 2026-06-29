@@ -1,6 +1,6 @@
 ---
 title: The most productive people prioritize intentional rest
-modified: 2026-06-27
+modified: 2026-06-29
 tags: []
 ---
 
@@ -15,6 +15,8 @@ tags: []
 ---
 
 Taking breaks helps to [get most of your work done outside of work.](https://timdenning.com/ten-unconventional-productivity-tips-that-got-me-back-10-hours-a-week/)
+
+See also: [The Advantage Of Being A Little Underemployed](https://collabfund.com/blog/the-advantage-of-being-a-little-bit-underemployed/)
 
 ---
 
@@ -157,7 +159,7 @@ The best way to rest is all about _feeling calm_. Or rather, CALM. Find an activ
 
 ---
 
-[Slow Down to Speed Up](slow-down-to-speed-up.md)
+[Slow down to speed up](slow-down-to-speed-up.md)
 
 ---
 
