@@ -1,6 +1,6 @@
 ---
 title: Relationships
-modified: 2026-06-10
+modified: 2026-06-29
 tags: []
 ---
 
@@ -109,12 +109,6 @@ When we find ourselves in an argument or debate with someone, we often become mo
 Remember: [Life is not a debate—it’s not about winning the argument or being right.](https://tim.blog/2018/08/02/ann-miura-ko/) Winning an argument doesn’t make you right. Someone might win an argument and still be wrong. Being good at debating is not the same as being right.
 
 ---
-
-[Steelmanning & Strawmanning](steelmanning-vs-strawmanning.md)
-
----
-
-# [the-go-first-principle](the-go-first-principle.md)
 
 ---
 
@@ -227,23 +221,32 @@ You don’t know a person until:
 
 ---
 
-1/3 的人「喜歡你」，1/3 的人「討厭你」，1/3 的人「隨便你」
+1/3 的人「喜歡你」，1/3 的人「討厭你」，1/3 的人「隨便你」。
 
 ---
 
-Judge a man by his questions rather than his answers.
-
----
-
-[Judge others by intentions, judge ourselves by actions](judge-others-by-intentions-judge-ourselves-by-actions.md).
+Relationships built on obligation and guilt don’t create connection — they breed pressure and resentment. True connection grows from _wanting to_ show up, not from _having to_.
 
 ---
 
 # [The Law of Inverse Charisma](https://www.youtube.com/shorts/09fb3jToKmM)
 
-* by Chris Williamson
+by Chris Williamson
+
 * True charisma is the ability to make others find themselves charismatic.
 * Charisma is much less about you than how you make others feel about themselves.
+
+---
+
+[Steelmanning & Strawmanning](steelmanning-vs-strawmanning.md)
+
+---
+
+[The Go First Principle](the-go-first-principle.md)
+
+---
+
+[Judge others by intentions, judge ourselves by actions](judge-others-by-intentions-judge-ourselves-by-actions.md)
 
 ---
 
