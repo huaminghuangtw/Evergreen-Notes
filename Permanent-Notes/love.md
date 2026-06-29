@@ -1,6 +1,6 @@
 ---
 title: Love
-modified: 2026-06-25
+modified: 2026-06-29
 tags: []
 ---
 
@@ -25,6 +25,8 @@ tags: []
 > Pooh: You don’t spell it. You feel it.
 
 > “Love does not claim possession, but gives freedom.” — Rabindranath Tagore
+
+> “You must love in such a way that the person you love feels free.” — Thich Nhat Hahn
 
 > “The near enemy of love is attachment. Attachment masquerades as love. It says, ‘I will love this person (because I need something from them).’ Or, ‘I’ll love you if you’ll love me back. I’ll love you, but only if you will be the way I want.’ This isn’t the fullness of love. Instead, there is attachment. There is clinging and fear. True love allows, honors, and appreciates; attachment grasps, demands, needs, and aims to possess.” — Jack Kornfield
 
