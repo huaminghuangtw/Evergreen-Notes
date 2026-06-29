@@ -1,6 +1,6 @@
 ---
 title: Be ready to change your mind completely at any given time
-modified: 2026-06-23
+modified: 2026-06-29
 tags: []
 ---
 
@@ -65,6 +65,10 @@ Nev­er for­get that, no mat­ter how cer­tain, you might be wrong. The only b
 ---
 
 [The Mueller-Lyer Illusion](the-mueller-lyer-illusion.md)
+
+---
+
+[Wittgenstein’s Ladder](wittgensteins-ladder.md)
 
 [^1]: This is called “[Integrative Complexity](https://psychology.iresearchnet.com/social-psychology/decision-making/integrative-complexity/)” in Psychology
 [^2]: To remain “stupid” means refusing to learn, refusing to think, or deliberately avoiding knowledge and growth.
