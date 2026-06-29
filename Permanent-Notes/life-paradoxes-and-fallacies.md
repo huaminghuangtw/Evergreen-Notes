@@ -6,7 +6,7 @@ tags: []
 
 # [Sprezzatura](sprezzatura.md)
 
-# [Slow Down to Speed Up](slow-down-to-speed-up.md)
+# [Slow down to speed up](slow-down-to-speed-up.md)
 
 # Learn More To Know Less (The Wisdom Paradox)
 
