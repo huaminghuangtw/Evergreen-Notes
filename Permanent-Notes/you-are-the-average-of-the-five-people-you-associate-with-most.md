@@ -1,6 +1,6 @@
 ---
 title: You are the average of the five people you associate with most
-modified: 2026-06-16
+modified: 2026-06-29
 tags: []
 ---
 
@@ -33,6 +33,10 @@ Find people who want _[relationships](relationships.md)_, not _transactions_.
 ---
 
 People who avoid their own feelings will neglect yours.
+
+---
+
+Judge a man by his questions rather than his answers.
 
 ---
 
