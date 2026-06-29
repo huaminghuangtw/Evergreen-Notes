@@ -1,6 +1,6 @@
 ---
 title: You are what you eat
-modified: 2026-06-16
+modified: 2026-06-29
 tags: []
 ---
 
@@ -11,6 +11,8 @@ tags: []
 > “Eating what stands on one leg [mushrooms and plant foods] is better than eating what stands on two legs [fowl], which is better than eating what stands on four legs [cows, pigs, and other mammals].” — Michael Pollan, [Food Rules: An Eater’s Manual](https://www.goodreads.com/work/quotes/7261546)
 
 > “Don’t eat anything your great-grandmother wouldn’t recognize as food.” — Michael Pollan, [Food Rules: An Eater’s Manual](https://www.goodreads.com/work/quotes/7261546)
+
+> “Don’t eat anything incapable of rotting.” — Michael Pollan, [In Defense of Food: An Eater’s Manifesto](https://www.goodreads.com/work/quotes/3100234)
 
 > “As grandmothers used to say, ‘Better to pay the grocer than the doctor.’” — Michael Pollan, [Food Rules: An Eater’s Manual](https://www.goodreads.com/work/quotes/7261546)
 
@@ -46,6 +48,8 @@ Your gut is your second brain.
 	* 加工食品和垃圾食物通常會加入無營養價值的人工添加劑，同時剝奪掉其中原有的有益營養成分。[^4]
 
 ---
+
+> “If you’re concerned about your health, you should probably avoid products that make health claims. Why? Because a health claim on a food product is a strong indication it’s not really food, and food is what you want to eat” — Michael Pollan, [In Defense of Food: An Eater’s Manifesto](https://www.goodreads.com/work/quotes/3100234)
 
 Eat as many minimally processed foods as possible (以原型食物為主)
 
