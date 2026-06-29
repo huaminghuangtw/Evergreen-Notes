@@ -1,10 +1,12 @@
 ---
 title: Dare to be different
-modified: 2026-06-10
+modified: 2026-06-29
 tags: []
 ---
 
-> “Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.” — Robert Frost, The Road Not Taken (1916)
+> “Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.” — Robert Frost, The Road Not Taken
+
+> “I will not be another flower, picked for my beauty and left to die. I will be wild, difficult to find, and impossible to forget.” — Erin Van Vuren
 
 > “The universe reveals its secrets to those who dare to follow their hearts.” — Ralph Smart
 
@@ -24,6 +26,8 @@ tags: []
 
 > “Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.” — Bruce Lee
 
+> “You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this.” — Henry David Thoreau
+
 > “Always be a first-rate version of yourself, instead of a second-rate version of someone else.” — Judy Garland
 
 > “Too many people overvalue what they are not and undervalue what they are.” — Malcolm S. Forbes
@@ -31,6 +35,22 @@ tags: []
 > “To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.” — Deepak Chopra
 
 > “Nothing that results in human progress is achieved with unanimous consent.” — Christopher Columbus
+
+---
+
+The things that make me different are the things that make me me.
+
+---
+
+> “Be yourself; everyone else is already taken.” — Oscar Wilde
+
+> “You are loved just for being who you are.” — Ram Dass
+
+> “Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.” — Dr. Seuss
+
+> “To be nobody but yourself in a world which is doing its best, night and day, to make you everybody else, means to fight the hardest battle any human being can fight, and never stop fighting.” — E. E. Cummings
+
+[To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.](https://www.goodreads.com/quotes/876-to-be-yourself-in-a-world-that-is-constantly-trying) Be true to yourself.
 
 ---
 
@@ -49,10 +69,6 @@ tags: []
 > “We live in a world with a lot of insecure, jealous people. Some of them are our best friends. They are blood relatives. Failure terrifies them. So does our success. Because when we transcend what we once thought possible, push our limits, and become more, our light reflects off all the walls they’ve built up around them. Your light enables them to see the contours of their own prison, their own self-limitations. But if they are truly the great people you always believed them to be, their jealousy will evolve, and soon their imagination might hop its fence, and it will be their turn to change for the better.” — [@gogginsCantHurtMe2018]
 
 > [“We are all meant to shine, as children do. We were born to make manifest the glory of God that is within us. It’s not just in some of us; it’s in everyone. And as we let our own light shine, we unconsciously give other people permission to do the same. As we are liberated from our own fear, our presence automatically liberates others.” — Marianne Williamson, A Return to Love: Reflections on the Principles of “A Course in Miracles”](https://www.goodreads.com/quotes/928-our-deepest-fear-is-not-that-we-are-inadequate-our) [^1]
-
----
-
-The things that make me different are the things that make me me.
 
 ---
 
