@@ -1,6 +1,6 @@
 ---
 title: Emotion Control
-modified: 2026-06-23
+modified: 2026-06-29
 tags: []
 ---
 
@@ -91,6 +91,12 @@ The thing that prevents you from seeing what’s actually happening are your emo
 # 我是尊貴的人，不跟廉價之人吵架的。
 
 > “Think of life like a play, and it will ease your mind when you’re challenged or when someone stands in your way. Told yourself they were playing a role. **Every story needs a villain.** So why should you waste energy being upset at the villains in your story? Instead, you could use that energy as the fuel to beat them.” — Arnold Schwarzenegger
+
+> “Never let anyone drive you crazy; it is nearby anyway and the walk is good for you.” — Cheshire Cat, Alice in Wonderland
+
+> Don’t let people drive you crazy when you know it’s within walking distance.
+>
+> 別讓別人把你氣瘋，自己走去就好，何必搭他的車。
 
 > “Never wrestle with a pig in the mud because you’ll both get dirty and the pig likes it”. — George Bernard Shaw
 
