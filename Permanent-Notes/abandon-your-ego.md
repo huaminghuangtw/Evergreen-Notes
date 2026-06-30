@@ -1,6 +1,6 @@
 ---
 title: Abandon your ego
-modified: 2026-06-23
+modified: 2026-06-30
 tags: []
 ---
 
@@ -11,6 +11,8 @@ tags: []
 > “More people would learn from their mistakes if they weren’t so busy denying them.” — Harold J. Smith
 
 > “If you want to improve, be content to be thought foolish and stupid.” — Epictetus
+
+> “I’ve done more for the environment than any single human on earth—what I care about is the reality of goodness not the perception of it and what I see all over the place is people who care about looking good while doing evil. F\*ck them.” — Elon Musk](<https://x.com/HansMahncke/status/1730019598064390597>)
 
 ---
 
@@ -23,6 +25,15 @@ tags: []
 ≈ Put your ego aside.
 
 ≈ Leave your ego at the door.
+
+---
+
+* 放下自尊
+* 把自己縮小
+* 自我意識別太多
+* 別把自己太當一回事
+* 承認自己只是個平凡人
+* 不要把自己當成宇宙中心
 
 ---
 
