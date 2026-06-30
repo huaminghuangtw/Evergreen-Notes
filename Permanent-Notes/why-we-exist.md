@@ -1,18 +1,27 @@
 ---
 title: Why we exist?
-modified: 2026-06-10
-tags: []
+modified: 2026-06-30
+tags:
+  - 人蔘
 ---
+
+> [“The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” — David Viscott](https://www.goodreads.com/quotes/7407260-the-purpose-of-life-is-to-discover-your-gift-the)
+
+> “Happiness is the meaning and the purpose of life, the whole aim and end of human existence.” — Aristotle
+
+> “The two most important days in your life are the day you are born and the day you find out why.” — Mark Twain
+
+> “He who has a why to live for can bear almost any how.” — Friedrich Nietzsche
+
+> “The meaning of life is not a problem to be solved, but a reality to be experienced.” — Søren Kierkegaard
+
+> “Life is not a problem to be solved, but a gift to be opened.” — Henri Nouwen
 
 > [“Existence is a series of footnotes to a vast, obscure, unfinished masterpiece.” — Vladimir Nabokov](https://www.goodreads.com/quotes/93494-existence-is-a-series-of-footnotes-to-a-vast-obscure)
 
 > “Existence is a fullness which we can never abandon.” — Jean Paul Sartre
 
 > “And what is the purpose of existence… but to discover truth and beauty and…share it with others.” — Brenda Ueland
-
-> “Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness.” — Leo Tolstoy
-
-> [“I’ve come to believe that each of us has a personal calling that’s as unique as a fingerprint - and that the best way to succeed is to discover what you love and then find a way to offer it to others in the form of service, working hard, and also allowing the energy of the universe to lead you.” — Oprah Winfrey](https://www.goodreads.com/quotes/24752-i-ve-come-to-believe-that-each-of-us-has-a)
 
 > “You will never live if you are looking for the meaning of life.” — Albert Camus
 
@@ -30,11 +39,32 @@ tags: []
 
 ---
 
+Life’s Highest Calling
+
+Life Purpose/Mission/Meaning/Aspirations
+
+Core Values/Philosophies/Principles
+
+Life Truth North / North Star
+
+Dharma
+
+[ikigai](ikigai.md)
+
+plan de vida
+
+人生使命
+
+個人天職/命
+
+---
+
+# 意義治療法
+
 [@franklMansSearchMeaning2006]
 
-by Viktor Frankl
-
-意義治療法（[Logotherapy](https://www.google.com/search?q=Logotherapy)）
+* = [Logotherapy](https://www.google.com/search?q=Logotherapy)
+* by Viktor Frankl
 
 ---
 
@@ -56,34 +86,6 @@ Both because of and in spite of his awareness of the meaninglessness of life, he
 
 ---
 
-> [“The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” — David Viscott](https://www.goodreads.com/quotes/7407260-the-purpose-of-life-is-to-discover-your-gift-the)
-
-> “Happiness is the meaning and the purpose of life, the whole aim and end of human existence.” — Aristotle
-
-> “Some goals are not meant to be reached, they give you a direction to strive towards.” — Bruce Lee
-
-> “Purpose and desire can seem similar, but they are very different, sometimes even opposing forces. Desire is personal, narrow, and pointed, and tends toward self-preservation, self-gratification, and short-term gains and pleasures. Purpose is wider, broader, a longer-term vision encompassing the benefit of others—something outside of yourself you’re willing to fight for. There have been many times in my life where I was acting from a place of desire but I’d fully convinced myself that it was purpose. <mark>Desire is what you want; purpose is the flowering of what you are.</mark> Desire tends to weaken over time, whereas purpose strengthens the more you lean into it. Desire can be depleting because it’s insatiable; purpose is empowering—it’s a stronger engine. Purpose has a way of contextualizing life’s unavoidable sufferings and making them meaningful and worthwhile. As Viktor Frankl wrote, “In some ways suffering ceases to be suffering at the moment it finds a meaning, such as the meaning of a sacrifice.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)
-
-> [“The things you do for yourself are gone when you are gone, but the things you do for others remain as your legacy.” — Kalu Ndukwe Kalu](http://goodreads.com/quotes/56602-the-things-you-do-for-yourself-are-gone-when-you)
-
-The purpose of life is a life of purpose.
-
-= Life’s Highest Calling = Life Purpose/Mission/Meaning/Aspirations = Core Values/Philosophies/Principles = Life Truth North / North Star = Dharma = [ikigai](ikigai.md) = plan de vida = 人生使命 = 個人天職/命
-
----
-
-# 強者要為弱者而活
-
-> “We who are strong ought to bear with the failings of the weak.” — Romans 15:1
-
----
-
-> “The more one forgets himself—by giving himself to a cause to serve or another person to love—the more human he is and the more he actualizes himself. What is called ‘self-actualization’ is not an attainable aim at all, for the simple reason that the more one would strive for it, the more he would miss it. In other words, self-actualization is possible only as a side-effect of self-transcendence.” — Viktor E. Frankl
-
-Self-actualization → Self-transcendence (**going beyond the self**—seeking connection with something greater, such as service to others, nature, art, or the divine)
-
----
-
 [工作的台語翻成中文的意思是「空缺」，提醒我們：這個社會中都有那個專屬於我們的位置，只是需要我們去發現、發掘。](https://youtu.be/_ziTd2w06xk?t=13m40s)
 
 ---
@@ -91,6 +93,32 @@ Self-actualization → Self-transcendence (**going beyond the self**—seeking c
 [@XiaoYeZhu.YouXieShiZheXieNianWoCaiDongXiaoYeDeRenShengSiKao2012]
 
 > 大多數人是不知道自己爲何而活的，甚至於也不知道自己要什麼。他們等著別人來指點迷津。」我的朋友楊德昌導演生前最常這樣說：「所以我們要拍電影給他們看，讓他們知道，每天都是全新的一天，有著各式各樣的可能，作出自己的選擇，找到自己相信的東西，勇敢活下去。」
+
+---
+
+## Service to others as the most durable container for meaning
+
+> [“I’ve come to believe that each of us has a personal calling that’s as unique as a fingerprint - and that the best way to succeed is to discover what you love and then find a way to offer it to others in the form of service, working hard, and also allowing the energy of the universe to lead you.” — Oprah Winfrey](https://www.goodreads.com/quotes/24752-i-ve-come-to-believe-that-each-of-us-has-a)
+
+> “Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness.” — Leo Tolstoy
+
+強者要為弱者而活
+
+> “We who are strong ought to bear with the failings of the weak.” — Romans 15:1
+
+Self-actualization → Self-transcendence (**going beyond the self**—seeking connection with something greater, such as service to others, nature, art, or the divine)
+
+> “The more one forgets himself—by giving himself to a cause to serve or another person to love—the more human he is and the more he actualizes himself. What is called ‘self-actualization’ is not an attainable aim at all, for the simple reason that the more one would strive for it, the more he would miss it. In other words, self-actualization is possible only as a side-effect of self-transcendence.” — Viktor E. Frankl
+
+We make a living by what we get, but we make a life by what we give.
+
+> “If you’re not making someone else’s life better, then you’re wasting your time. Your life will become better by making other lives better.” — Will Smith
+
+[At the end of your life, God will only assess you based on how well you help other people be better people. Life is people.](https://youtu.be/tvos4nORf_Y?t=18m33s)
+
+> [“Your job is to make a unique contribution. Live a life of purpose. Do something that nobody else in the world would do or can do. Make a unique contribution so that in the event that after you’ve done, everybody says the world was better because you were here.” — Jensen Huang](https://youtu.be/lXLBTBBil2U)
+
+**The Contribution Question**: Not “What do I want to get from life?” but “What do I want to give to life?”
 
 ---
 
@@ -104,35 +132,37 @@ Self-actualization → Self-transcendence (**going beyond the self**—seeking c
 * Mission statements usually (and should) sound like vague platitudes.
 * [Goals](goal-setting.md) are focused around discrete achievements, [with specific ends](the-game-of-life.md).
 
----
+The distinction between missions (infinite) and goals (finite) maps onto James Carse’s distinction between **finite games** (played to win, with clear endpoints) and **infinite games** (played to keep playing, with the goal of continuation).
 
-> “If you’re not making someone else’s life better, then you’re wasting your time. Your life will become better by making other lives better.” — Will Smith
-
-[At the end of your life, God will only assess you based on how well you help other people be better people. Life is people.](https://youtu.be/tvos4nORf_Y?t=18m33s)
-
-We make a living by what we get, but we make a life by what we give.
+A mission gives direction without demanding arrival. You can orient your life toward “helping people reduce suffering” without ever finishing. This infinite orientation protects against the **[arrival fallacy](the-arrival-fallacy.md)**.
 
 ---
 
-Leo Tolstoy emphasizes the importance of viewing life as a service with a purpose beyond personal happiness. He suggests that joy emerges when individuals dedicate themselves to something larger than their own self-interest.
-
-Albert Camus argues that seeking a singular meaning of life can hinder truly living. His existential perspective implies that life itself is an ongoing journey without an ultimate destination or fixed meaning. Camus encourages embracing the present and finding significance in everyday experiences rather than searching for an overarching purpose.
+The most extraordinary people in the world today don’t have a career. They have a mission. They are terrible [procrastinators](procrastination.md) and find it almost impossible to make themselves do anything they’re not genuinely interested in.
 
 ---
+
+# Meaning is made
+
+Not to find the meaning of life, but to use your life to create things that are meaningful.
+
+> “Meaning is not something you stumble across, like the answer to a riddle or the prize in a treasure hunt. Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you, out of your own talent and understanding, out of the things you believe in, out of the things and people you love, out of the values for which you are willing to sacrifice something. The ingredients are there. You are the only one who can put them together into that unique pattern that will be your life. Let it be a life that has dignity and meaning for you. If it does, then the particular balance of success or failure is of less account.” — John W. Gardner, [Personal Renewal](https://www.pbs.org/johngardner/sections/writings_speech_1.html)
+
+Fulfillment is found through connection to something greater than the self. Find something much bigger and more important than you are, and dedicate your life to it. [^1]
 
 > “The best way to overcome the fear of death — so at least it seems to me — is to make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life.” — Bertrand Russell
 
-* ⭐️ Not to find the meaning of life, but to use your life to create things that are meaningful.
-* Meaning is made. The ingredients are all around you, but they’re just that—so stop waiting and choose meaning.
+> [“If somebody comes and makes a better electric car than Tesla, and it’s so much better than ours that we can’t sell our cars and we go bankrupt, I still think that’s a good thing for the world.” — Elon Musk](https://youtu.be/Lvfv_nI9Ht0)
 
-	> “Meaning is not something you stumble across, like the answer to a riddle or the prize in a treasure hunt. Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you, out of your own talent and understanding, out of the things you believe in, out of the things and people you love, out of the values for which you are willing to sacrifice something. The ingredients are there. You are the only one who can put them together into that unique pattern that will be your life. Let it be a life that has dignity and meaning for you. If it does, then the particular balance of success or failure is of less account.” — John W. Gardner, [Personal Renewal](https://www.pbs.org/johngardner/sections/writings_speech_1.html)
+> “Purpose and desire can seem similar, but they are very different, sometimes even opposing forces. Desire is personal, narrow, and pointed, and tends toward self-preservation, self-gratification, and short-term gains and pleasures. Purpose is wider, broader, a longer-term vision encompassing the benefit of others—something outside of yourself you’re willing to fight for. There have been many times in my life where I was acting from a place of desire but I’d fully convinced myself that it was purpose. <mark>Desire is what you want; purpose is the flowering of what you are.</mark> Desire tends to weaken over time, whereas purpose strengthens the more you lean into it. Desire can be depleting because it’s insatiable; purpose is empowering—it’s a stronger engine. Purpose has a way of contextualizing life’s unavoidable sufferings and making them meaningful and worthwhile. As Viktor Frankl wrote, “In some ways suffering ceases to be suffering at the moment it finds a meaning, such as the meaning of a sacrifice.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)
 
-* Find something much bigger and more important than you are, and dedicate your life to it. [^1]
-* Fulfillment is found through connection to something greater than the self.
-* The 3 Big Questions
-	* **The “1 Thing” Question:** If you had to boil life down to one truth or philosophy that makes life valuable, what is it?
-	* **The “Being” Question:** How does that 1 Thing impact your being? In other words, how does it shape the core of who you are and your character?
-	* **The “Doing” Question:** How does that 1 Thing impact your doing? In other words, how does it shape what you do with your life?
+---
+
+# The 3 Big Questions
+
+1. **The “1 Thing” Question:** What is the one truth that makes life valuable?
+2. **The “Being” Question:** How does it shape who you are?
+3. **The “Doing” Question:** How does it shape what you do?
 
 ---
 
@@ -146,11 +176,17 @@ Albert Camus argues that seeking a singular meaning of life can hinder truly liv
 
 ---
 
-The most extraordinary people in the world today don’t have a career. They have a mission. They are terrible [procrastinators](procrastination.md) and find it almost impossible to make themselves do anything they’re not genuinely interested in.
+# The S.H.A.P.E. Assessment
 
----
+is a self-discovery tool used primarily in Christian contexts to help individuals understand how God has uniquely designed them for service, purpose, and contribution within the church and broader community. The acronym **S.H.A.P.E.** stands for **Spiritual Gifts, Heart, Abilities, Personality,** and **Experiences**, offering a framework to discern one’s unique qualities, passions, and strengths. By reflecting on these five areas, individuals can identify their God-given purpose and discover how they can best serve others meaningfully and effectively.
 
-[Elder vs Elderly](elder-vs-elderly.md)
+| **Letter** | **Stands for**      | **Meaning**                                                                                 |
+| ---------- | ------------------- | ------------------------------------------------------------------------------------------- |
+| **S**      | **Spiritual Gifts** | What spiritual gifts or talents has God given you? (e.g., teaching, mercy, leadership)      |
+| **H**      | **Heart**           | What are you passionate about? What causes or activities deeply move you?                   |
+| **A**      | **Abilities**       | What natural talents, skills, or learned competencies do you have?                          |
+| **P**      | **Personality**     | How do you interact with others? Are you introverted, extroverted, structured, spontaneous? |
+| **E**      | **Experiences**     | What life experiences (good and bad) have shaped who you are today?                         |
 
 ---
 
@@ -170,23 +206,15 @@ The most extraordinary people in the world today don’t have a career. They hav
 
 > “Before you are old, attend as many funerals as you can bear and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
 
+> [“The things you do for yourself are gone when you are gone, but the things you do for others remain as your legacy.” — Kalu Ndukwe Kalu](http://goodreads.com/quotes/56602-the-things-you-do-for-yourself-are-gone-when-you)
+
 The great use of life is to spend it for something that outlasts it. To be remembered by people is to live forever.
 
----
-
-[Hunter S. Thompson’s Letter on Finding Life Purpose](https://fs.blog/hunter-s-thompson-to-hume-logan/)
+死後還能繼續影響這個世界、幾百年後還會有人記得和提起你的名字
 
 ---
 
-The **S.H.A.P.E. Assessment** is a self-discovery tool used primarily in Christian contexts to help individuals understand how God has uniquely designed them for service, purpose, and contribution within the church and broader community. The acronym **S.H.A.P.E.** stands for **Spiritual Gifts, Heart, Abilities, Personality,** and **Experiences**, offering a framework to discern one’s unique qualities, passions, and strengths. By reflecting on these five areas, individuals can identify their God-given purpose and discover how they can best serve others meaningfully and effectively.
-
-| **Letter** | **Stands for**      | **Meaning**                                                                                 |
-| ---------- | ------------------- | ------------------------------------------------------------------------------------------- |
-| **S**      | **Spiritual Gifts** | What spiritual gifts or talents has God given you? (e.g., teaching, mercy, leadership)      |
-| **H**      | **Heart**           | What are you passionate about? What causes or activities deeply move you?                   |
-| **A**      | **Abilities**       | What natural talents, skills, or learned competencies do you have?                          |
-| **P**      | **Personality**     | How do you interact with others? Are you introverted, extroverted, structured, spontaneous? |
-| **E**      | **Experiences**     | What life experiences (good and bad) have shaped who you are today?                         |
+[Hunter S. Thompson’s Letter on Finding Life Purpose](https://huam.ing/hunter-s-thompsons-letter-on-finding-life-purpose)
 
 ---
 
@@ -194,11 +222,7 @@ The **S.H.A.P.E. Assessment** is a self-discovery tool used primarily in Christi
 
 ---
 
-#TODO [Existential Crisis](existential-crisis.md)
-
----
-
-[Death](death.md)
+[Existential Crisis](existential-crisis.md)
 
 ---
 
@@ -206,10 +230,6 @@ The **S.H.A.P.E. Assessment** is a self-discovery tool used primarily in Christi
 
 ---
 
-[Goal Setting](goal-setting.md)
-
----
-
 [Everyone is on their own timeline](everyone-is-on-their-own-timeline.md)
 
-[^1]: _[“God, kids or mission, pick at least one. Preferably all three. It’s very liberating.” — Naval Ravikant](https://youtu.be/KyfUysrNaco?t=4473s)_
+[^1]: _[“God, kids, or mission, pick at least one. Preferably all three. It’s very liberating.” — Naval Ravikant](https://youtu.be/KyfUysrNaco?t=4473s)_
