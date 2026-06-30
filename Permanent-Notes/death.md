@@ -1,36 +1,14 @@
 ---
 title: Death
-modified: 2026-06-22
+modified: 2026-06-30
 tags: []
 ---
 
-> “The free man thinks of death, least of all things.” — Benedict Spinoza
-
-> “Dying is active. Dying is not what happens to you. Dying is what you do. Dying” — Stephen Jenkinson, [Die Wise: A Manifesto for Sanity and Soul](https://www.goodreads.com/work/quotes/42243793)
-
-> “The meaning of life is that it stops.” — Franz Kafka
+> “Dying is active. Dying is not what happens to you. Dying is what you do.” — Stephen Jenkinson, [Die Wise: A Manifesto for Sanity and Soul](https://www.goodreads.com/work/quotes/42243793)
 
 > [“To the well-organized mind, death is but the next great adventure.” — J.K. Rowling, Harry Potter and the Sorcerer’s Stone](https://www.goodreads.com/quotes/4864-to-the-well-organized-mind-death-is-but-the-next-great)
 
-> “I’m the one that’s got to die when it’s time for me to die, so let me live my life the way I want to.” — Jimi Hendrix
-
-> [“If you live each day as it was your last, someday you’ll most certainly be right.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=552)
-
-> [“Remembering that I’ll be dead soon is the most important tool I’ve ever encountered to help me make the big choices in life.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=580)
-
-> [“Almost everything…just fall[s] away in the face of death, leaving only what is truly important…Remembering that you are going to die is the best way I know to avoid the trap of thinking: you have something to lose. You are already naked. There is no reason not to follow your heart.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=587)
-
-> [“Death is the destination we all share, no one has ever escaped it. And that is as it should be because death is very likely the single best invention of life.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=723)
-
-> [“It is not death that a man should fear, but he should fear never beginning to live.” — Marcus Aurelius, Meditations](https://www.goodreads.com/quotes/44693-it-is-not-death-that-a-man-should-fear-but)
-
-> [“The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.” — Mark Twain](https://www.goodreads.com/quotes/5785-the-fear-of-death-follows-from-the-fear-of-life)
-
-> “Why do we fear death? Why are we so afraid of death? In fact, when you are in the deep sleep phase every night, you’re essentially dead. It’s not the experience of being dead that we fear, but the time we haven’t spent on living the life we wanted or doing things we wanted to do that we fear. If you were truly living your ideal, dream, and [fulfilling](why-we-exist.md) life on your own terms, in a way you want, I don’t think you really fear death. Why? First, you would be too busy living. Second, you don’t have any regrets.” — Naval Ravikant
-
-> “I want death to find me planting my cabbages, neither worrying about it, nor about the unfinished gardening.” — Michel de Montaigne
-
-> [“Death is not the opposite of life, but a part of it.” — Haruki Murakami, Blind Willow, Sleeping Woman: 24 Stories](https://www.goodreads.com/quotes/83202-death-is-not-the-opposite-of-life-but-a-part)
+> “The free man thinks of death, least of all things.” — Benedict Spinoza
 
 [@markaurelMeditations2006]
 
@@ -46,21 +24,47 @@ Mortality
 
 ---
 
-Live for death.
+# Live for death
+
+> “I’m the one that’s got to die when it’s time for me to die, so let me live my life the way I want to.” — Jimi Hendrix
+
+> [“If you live each day as it was your last, someday you’ll most certainly be right.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=552)
+
+> [“It is not death that a man should fear, but he should fear never beginning to live.” — Marcus Aurelius, Meditations](https://www.goodreads.com/quotes/44693-it-is-not-death-that-a-man-should-fear-but)
+
+> [“The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.” — Mark Twain](https://www.goodreads.com/quotes/5785-the-fear-of-death-follows-from-the-fear-of-life)
+
+> “Why do we fear death? Why are we so afraid of death? In fact, when you are in the deep sleep phase every night, you’re essentially dead. It’s not the experience of being dead that we fear, but the time we haven’t spent on living the life we wanted or doing things we wanted to do that we fear. If you were truly living your ideal, dream, and [fulfilling](why-we-exist.md) life on your own terms, in a way you want, I don’t think you really fear death. Why? First, you would be too busy living. Second, you don’t have any regrets.” — Naval Ravikant
+
+> “I want death to find me planting my cabbages, neither worrying about it, nor about the unfinished gardening.” — Michel de Montaigne
 
 ---
+
+# 學會死亡，你就學會活著
+
+> “The meaning of life is that it stops.” — Franz Kafka
+
+[@albomTuesdaysMorrieOld2006]
+
+> “The truth is, once you learn how to die, you learn how to live.” — Mitch Albom，《最後 14 堂星期二的課》（Tuesdays with Morrie, 2006）
+
+> [“Almost everything…just fall[s] away in the face of death, leaving only what is truly important…Remembering that you are going to die is the best way I know to avoid the trap of thinking: you have something to lose. You are already naked. There is no reason not to follow your heart.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=587)
+
+> [“Remembering that I’ll be dead soon is the most important tool I’ve ever encountered to help me make the big choices in life.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=580)
+
+Awareness of death is what gives life [meaning](why-we-exist.md). When you truly internalize that your time is finite, the question of what deserves your limited attention becomes urgent and clarifying.
 
 Death is scary. It’s uncomfortable to think about. So we tend to avoid it. But when we use it as a frame of reference like this, it can be a powerful tool for clarity. Internalize the scarcity of life and certainty/inescapability of death.
 
 ---
 
-Death is the ultimate equalizer. We may look different, live in different places, and believe different things, but in the end, we are all the same.
-
----
+> [“Death is not the opposite of life, but a part of it.” — Haruki Murakami, Blind Willow, Sleeping Woman: 24 Stories](https://www.goodreads.com/quotes/83202-death-is-not-the-opposite-of-life-but-a-part)
 
 死亡其實就像出生一樣，是我們身體自然會經歷的階段，有一套固定的節奏和過程，並沒有想像中那麼可怕。
 
 ---
+
+> [“Death is the destination we all share, no one has ever escaped it. And that is as it should be because death is very likely the single best invention of life.” — Steve Jobs](https://youtu.be/UF8uR6Z6KLc?t=723)
 
 死亡，是人生唯一確定的事。
 
@@ -72,7 +76,11 @@ Death is the ultimate equalizer. We may look different, live in different places
 
 [@XiaoYeZhu.YouXieShiZheXieNianWoCaiDongXiaoYeDeRenShengSiKao2012]
 
-唯有死亡等在路的盡頭，才能顯得出每個人活著的不同意義。人並不是因為死亡逼近了才會去想死亡，人在很小的時候就會知覺到生命是會消逝的，通常那就是長大成熟的開始，也是 [自覺](mastering-yourself-is-superpower.md) 的起點。
+> 唯有死亡等在路的盡頭，才能顯得出每個人活著的不同意義。人並不是因為死亡逼近了才會去想死亡，人在很小的時候就會知覺到生命是會消逝的，通常那就是長大成熟的開始，也是 [自覺](mastering-yourself-is-superpower.md) 的起點。
+
+---
+
+Death is the ultimate equalizer. We may look different, live in different places, and believe different things, but in the end, we are all the same.
 
 ---
 
@@ -80,8 +88,9 @@ Death is the ultimate equalizer. We may look different, live in different places
 
 > “We don’t beat the reaper by living longer, but by living well, and living fully — for the reaper will come for all of us. The question is: what do we do between the time we’re born and the time he shows up. Because when he shows up, it’s too late to do all the things that you always wanted to get around to. It is not the things we do in life that we regret on our deathbed. It is the things we do not.” — Randy Pausch
 
-* Don’t be on your deathbed someday, having squandered your one chance at life, full of regret because you pursued little distractions instead of big dreams.
-* [“The Dash” by Linda Ellis](https://100.best-poems.net/dash.html)
+Don’t be on your deathbed someday, having squandered your one chance at life, full of regret because you pursued little distractions instead of big dreams.
+
+[The Dash](https://huam.ing/the-dash)
 
 ---
 
@@ -143,12 +152,6 @@ Remarks: Through history, people have gone back into their own pasts, sometime t
 
 ---
 
-「學會死亡，你就學會活著」[@albomTuesdaysMorrieOld2006]
-
-> “The truth is, once you learn how to die, you learn how to live.” — Mitch Albom，《最後 14 堂星期二的課》（Tuesdays with Morrie，2006）
-
----
-
 # 生前喪禮 (Living Funnel)
 
 ≈ 生前告別音樂會
@@ -159,7 +162,7 @@ Remarks: Through history, people have gone back into their own pasts, sometime t
 
 * [It’s not about knowing what to say. It’s about being there when nobody knows what to say. The only thing people need to hear is, “You are not alone.” And that doesn’t require words. It just requires your presence.](https://jamesclear.com/3-2-1/february-6-2025)
 * 電影：2007 年美國劇情片《[一路玩到掛](https://www.google.com/search?q=一路玩到掛) [The Bucket List](https://www.imdb.com/title/tt0825232/)》→ 豁達！
-* [生前參加自己的告別式，比什麼都滿足 - 康健雜誌](https://www.commonhealth.com.tw/article/70138)
+* [生前參加自己的告別式，比什麼都滿足](https://www.commonhealth.com.tw/article/70138)
 
 ---
 
