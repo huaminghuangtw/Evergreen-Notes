@@ -1,6 +1,6 @@
 ---
 title: Just get started
-modified: 2026-06-23
+modified: 2026-06-30
 tags: []
 ---
 
@@ -36,11 +36,17 @@ tags: []
 
 > “The scariest moment is always just before you start. After that, things can only get better.” — Stephen King
 
+> “Start now. Start where you are. Start with fear. Start with pain. Start with doubt. Start with hands shaking. Start with voice trembling but start. Start and don’t stop. Start where you are, with what you have. Just… start.” — ljeoma Umebinyuo
+
 ---
 
 > “The best time to plant a tree was 20 years ago. The second best time is now.”
 
 種一棵樹最好的時間點是十年前，其次就是 [現在](live-in-the-present.md)。
+
+---
+
+現在，立刻，馬上！
 
 ---
 
