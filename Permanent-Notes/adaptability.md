@@ -1,6 +1,6 @@
 ---
 title: Adaptability
-modified: 2026-06-18
+modified: 2026-06-30
 tags: []
 ---
 
@@ -17,6 +17,8 @@ tags: []
 > [“Consistency is about being adaptable. Adaptability is the way of consistency.” — James Clear](https://jamesclear.com/quotes/in-theory-consistency-is-about-being-disciplined-determined-and-unwavering) [^2]
 
 > “You can suffer the pain of change or suffer remaining the way you are.” — Joyce Meyer
+
+> “Change may not always bring growth, but there is no growth without change.” — Roy T. Bennett
 
 > “When you are finished changing, you are finished.” — Benjamin Franklin
 
