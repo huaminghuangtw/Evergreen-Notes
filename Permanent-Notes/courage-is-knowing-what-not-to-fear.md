@@ -1,6 +1,6 @@
 ---
 title: Courage is knowing what not to fear
-modified: 2026-06-10
+modified: 2026-06-30
 tags: []
 ---
 
@@ -13,6 +13,8 @@ tags: []
 > “Courage is not the absence of fear, but rather the assessment that something else is more important than fear.” — Franklin D. Roosevelt
 
 > [“Courage is feeling fear, not getting rid of fear, and taking action in the face of fear.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7913240-courage-is-feeling-fear-not-getting-rid-of-fear-and)
+
+> [“I feel fear quite strongly. So it’s not as though I just have the absence of fear, but there are times when something is important enough, you believe in it enough, that you do it in spite of the fear.” — Elon Musk](https://youtu.be/tnBQmEqBCY0?t=8m26s)
 
 > “Life shrinks or expands in proportion to one’s courage.” — Anaïs Nin
 
