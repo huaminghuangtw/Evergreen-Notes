@@ -1,6 +1,6 @@
 ---
 title: Every single day, chop wood, carry waters
-modified: 2026-06-17
+modified: 2026-06-30
 tags: []
 ---
 
@@ -78,7 +78,7 @@ There is a Zen Buddhist saying: “What do you do before enlightenment? _Chop wo
 
 ---
 
-[最無聊的練習](deliberate-practice.md)，沉澱出最扎實的基本功
+[最無聊的練習](deliberate-practice.md)，沉澱出最扎實的基本功（groundwork）
 
 > “No tree, it is said, can grow to heaven unless its roots reach down to hell.” — Carl Jung
 
@@ -199,6 +199,10 @@ There’s a magic in showing up on your bad days. The choice is yours. Choose wi
 
 * **Blind consistency** is just as bad as inconsistency. Inputs that fail to produce desired outcomes **should be adjusted, not repeated**.
 * **Adaptive Consistency** is the key that unlocks your dream life.
+* Hand and head work together. Hand teaches _what_ works, while head teaches _why_ things work.
+	* **Craft over theory** — Write code, publish writing, build things. The doing reveals edge cases and friction that no amount of thinking can predict.
+	* **Reflect to refine** — After each iteration of “Hand,” pause for “Head”: what worked, what didn’t, and why? Close the loop.
+	* **Beware of the trap** — Endless learning without creating (all Head, no Hand) is just sophisticated procrastination. Mindless repetition without reflection (all Hand, no Head) is just busywork.
 
 ---
 
