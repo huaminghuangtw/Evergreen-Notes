@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-06-26
+modified: 2026-06-30
 tags: []
 ---
 
@@ -12,7 +12,8 @@ tags: []
 
 # Principles
 
-* Train smarter, not harder. Start cautiously, finish strong.
+* Train smarter, not harder.
+* ⭐️ Start cautiously, finish strong.
 * 專心訓練、放心比賽、用心生活
 * 練習時斤斤計較，比賽時忘掉所有
 * Take easy days easy. Take hard days hard. Don’t race your workouts.
