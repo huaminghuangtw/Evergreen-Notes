@@ -1,6 +1,6 @@
 ---
 title: You can’t beat someone who genuinely enjoys the work itself
-modified: 2026-06-27
+modified: 2026-06-30
 tags: []
 ---
 
@@ -29,11 +29,11 @@ We perform our best when we are _having fun_ and _feeling good_ about ourselves.
 
 ---
 
-It’s hard to compete with someone who is just there to have fun.
+> [“It’s hard to compete with someone who is just there to have fun.”](https://youtu.be/YFjfBk8HI5o?t=22m19s) — [Peter Steinberger](https://github.com/steipete), creator of [OpenClaw](https://openclaw.ai/)
 
 It’s almost impossible to beat someone who genuinely enjoys the work itself.
 
-[Never try to compete against someone who is obsessed (like Kobe Bryant)](https://youtu.be/tqiMvVIwu1g)
+[Never try to compete against someone who is obsessed (like Kobe Bryant).](https://youtu.be/tqiMvVIwu1g)
 
 ---
 
