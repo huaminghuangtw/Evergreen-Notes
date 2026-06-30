@@ -1,6 +1,6 @@
 ---
 title: How to use AI effectively
-modified: 2026-06-28
+modified: 2026-06-30
 tags:
   - ai
 ---
@@ -9,13 +9,17 @@ tags:
 
 ---
 
-AI 是想法的「放大器/加速器」，而不是想法的「產生器」。[^1]
-
-> 「0 到 1」的突破仰賴人類的創造力，而 AI 工具則擅長將「1 到 100」的流程高效擴展。
+**AI 是想法的「放大器/加速器」，而不是想法的「產生器」。**[^1]
 
 The intended roles AI should play: Treat it as a collaborative partner—an _assistant_, _co-worker_, _helper_, _coach_, or _adviser_—not a _contractor_ to whom you completely delegate your tasks and offload your responsibilities. <mark>Remember: What you outsource will _atrophy_.</mark>
 
-The proper use of AI tools is to treat them like an intern or new grad hire. You can give them the work that none of the mid-tier or senior people want to do, thereby speeding up the team. But you will have to review their work thoroughly because there is a good chance they have no idea what they are actually doing. If you give them mission-critical work that demands accuracy or just let them have free rein without keeping an eye on them, it’s likely you are going to regret it.
+AI is an eager intern or new grad hire, not a senior engineer. Give it the work nobody else wants, check every output, and never hand mission-critical work to it.
+
+Analogy:
+
+* 「0 到 1」的突破仰賴人類的創造力，而 AI 工具則擅長將「1 到 100」的流程高效擴展。
+* 備料 → 煮飯 — 人類準備原料（想法、脈絡），AI 負責烹調上菜
+* 點 → 線 + 面 — 人類提供零散點子，AI 將其串聯成有結構的成果
 
 ---
 
