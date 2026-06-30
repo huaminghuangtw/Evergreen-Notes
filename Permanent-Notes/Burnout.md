@@ -1,6 +1,6 @@
 ---
 title: Burnout
-modified: 2026-06-10
+modified: 2026-06-30
 tags: []
 ---
 
@@ -31,6 +31,10 @@ According to the [World Health Organization (WHO)](https://www.who.int/news/item
 
 * [A lot of “burnout” is just the result of prolonged exposure to environments you were never truly aligned with to start. Sometimes burnout is just a late-stage indicator or early-stage misalignment.](https://x.com/anuatluru/status/1773520190543626340)
 * Burnout often isn’t about how many hours you work—it’s about how the work makes you _feel_.
+
+---
+
+There’s a difference between being _tired_ and being _empty_. Tiredness can be solved with rest, but emptiness whispers of a missing _purpose_. Am I just low on sleep or am I low on meaning? Maybe it’s time to stop reaching for coffee—and start looking _inward_.
 
 ---
 
