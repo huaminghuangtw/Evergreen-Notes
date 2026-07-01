@@ -1,8 +1,10 @@
 ---
 title: Acceptance and Commitment Therapy
-modified: 2026-06-10
+modified: 2026-07-01
 tags: []
 ---
+
+> “What we resist persists.” — Carl Jung
 
 > “Emotion arises at the place where mind & body meet. It is the body’s reaction to mind.” — Eckhart Tolle
 
