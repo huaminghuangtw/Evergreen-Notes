@@ -1,6 +1,6 @@
 ---
 title: Your identity dictates your actions
-modified: 2026-06-19
+modified: 2026-07-01
 tags: []
 ---
 
@@ -26,7 +26,7 @@ Your identity is the label that defines “_Who You Are._” [^1]
 
 Every action you take sends a signal to your brain about the kind of person you are.
 
-It is easier to [act yourself into a new way of thinking](just-get-started.md), than it is to think yourself into a new way of acting.
+[It is easier to act yourself into a new way of thinking, than it is to think yourself into a new way of acting.](action-precedes-motivation.md)
 
 It’s also a lot easier to [change direction](adaptability.md) when you’re moving forward than when you’re static.
 
