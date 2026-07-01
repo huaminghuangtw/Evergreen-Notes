@@ -1,6 +1,6 @@
 ---
 title: Leaders are readers
-modified: 2026-06-10
+modified: 2026-07-01
 tags: []
 ---
 
@@ -35,6 +35,8 @@ Keep in mind that whenever you pick up a good book to read, you are taking an ex
 The amount of value you can get from a book is astronomical. You’ve got years, if not decades, of someone’s research compiled down into something that will only take you a few hours to read.
 
 Reading is a conversation. All books talk. But a good book listens as well.
+
+和古人對話、和先賢聖哲交朋友
 
 See also: [Learning is the single best investment that you can make for your time](learning-is-the-single-best-investment-that-you-can-make-for-your-time.md)
 
