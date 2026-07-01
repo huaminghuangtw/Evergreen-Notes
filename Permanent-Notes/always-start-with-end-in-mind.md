@@ -1,6 +1,6 @@
 ---
 title: Always start with end in mind
-modified: 2026-06-27
+modified: 2026-07-01
 tags: []
 ---
 
@@ -13,6 +13,8 @@ tags: []
 > “First say to yourself what you would be; and then do what you have to do.” — Epictetus
 
 > “Decide what you would like your obituary to say, and live the life to deserve it.” — [Warren Buffet in his final letter to Berkshire Hathaway shareholders](https://www.berkshirehathaway.com/news/nov1025.pdf)
+
+> “If you don’t know where you’re going, you might not like where you end up.” — David Bach, [The Latte Factor: Why You Don’t Have to Be Rich to Live Rich](https://www.goodreads.com/work/quotes/66413238)
 
 ---
 
