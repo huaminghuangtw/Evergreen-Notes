@@ -1,6 +1,6 @@
 ---
 title: The absence of desire is true happiness
-modified: 2026-06-16
+modified: 2026-07-01
 tags: []
 ---
 
@@ -27,6 +27,8 @@ tags: []
 
 > [“The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one’s negative experience is itself a positive experience. — Mark Manson, The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/work/quotes/48297245-the-subtle-art-of-not-giving-a-f-ck-a-counterintuitive-approach-to-livi)
 
+> [“One of my great advantages is that I have very low expectations, and I mean that. Most Stanford graduates have very high expectations, and you deserve high expectations because you come from a great school, you were very successful, you are on top of you class. Obviously, you were able to pay for tuition, and you’re graduating from one of the finest institutions on the planet. You are surrounded by other kids that are just incredible. You naturally have very high expectations. [However,] people with very high expectations have very low resilience. And unfortunately, resilience matters in success.” — Jensen Huang](https://youtu.be/cEg8cOx7UZk?t=36m10s)
+
 ---
 
 Wishful Thinking = False Hope
@@ -42,6 +44,10 @@ Materialism
 ---
 
 天高不算高，人心比天高
+
+---
+
+幸運的祕訣不是雄心壯志，而是降低期望。
 
 ---
 
