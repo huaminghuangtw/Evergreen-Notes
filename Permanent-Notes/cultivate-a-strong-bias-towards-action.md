@@ -1,6 +1,6 @@
 ---
 title: Cultivate a strong bias towards action
-modified: 2026-06-19
+modified: 2026-07-01
 tags: []
 ---
 
@@ -52,13 +52,6 @@ tags: []
 
 > 不做不知道，做了才知道，犯錯沒關係，輸得起就好。
 > — 郝旭烈
-
----
-
-# Just Fucking Do It (#JFDI)
-
-* 先做再說
-* 先盡全力搞砸再說
 
 ---
 
@@ -179,7 +172,7 @@ There is no later, because later you’ll be [dead](death.md).
 
 ---
 
-# Stop Gathering More Information And Start Acting On The Information You Already Have.
+# Stop gathering more information and start acting on the information you already have.
 
 > “Wanting more information is often just a form of procrastination.” — Russ Roberts
 
@@ -189,6 +182,7 @@ There is no later, because later you’ll be [dead](death.md).
 * Solve the **“Knowledge”** problem first (by gathering information), then the **“Execution”** problem (by creating evidence pool).
 	* But be aware of **The Information-Action Gap** (= The time lag between receiving information and acting on that information)
 	* “If information isn’t nurtured with action, it loses its power.”
+* Remember, inspiration unused is merely entertainment. To get new results, you need to take new actions.
 * Knowledge is as vital to life as air. Just as no one should be denied the right to breathe, knowledge should be freely accessible to all. Yet, like air that must be inhaled to sustain life, knowledge only becomes truly valuable when it is applied—mere possession is not enough.
 
 [Tutorial Hell](tutorial-hell.md)
