@@ -1,6 +1,6 @@
 ---
 title: Love
-modified: 2026-06-29
+modified: 2026-07-01
 tags: []
 ---
 
@@ -125,6 +125,8 @@ Growing in love > Falling in love
 # The Secret To Love: Become What You Seek / Be The Person You Want To Meet
 
 > “To find a worthy mate, be worthy of a worthy mate.” — Charlie Munger
+>
+> 想找到一位好伴侶，先讓自己成為配得上好伴侶的人。
 
 * By Charlie Munger
 	* Q: “How do you find a worthy mate?” → A: “Be worthy of a worthy mate.”
