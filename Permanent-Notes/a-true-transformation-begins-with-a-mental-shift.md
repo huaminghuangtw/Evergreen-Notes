@@ -1,6 +1,6 @@
 ---
 title: A true transformation begins with a mental shift
-modified: 2026-06-28
+modified: 2026-07-01
 tags: []
 ---
 
@@ -89,6 +89,10 @@ Rewire your brain
 ---
 
 山不轉路轉，路不轉人轉，人不轉心轉。
+
+---
+
+世界上最大的監獄，就是人的思維。走不出自己的執念，到哪裡都是囚徒。
 
 ---
 
