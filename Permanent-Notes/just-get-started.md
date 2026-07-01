@@ -1,6 +1,6 @@
 ---
 title: Just get started
-modified: 2026-06-30
+modified: 2026-07-01
 tags: []
 ---
 
@@ -16,13 +16,7 @@ tags: []
 
 > “You don’t have to be great to start, but you have to start to be great.” — Zig Ziglar
 
-> [“Whether a decision is good or bad can change based on how you act after the choice is made. <mark>You can’t learn all the lessons beforehand.</mark> You learn a lot about what you want in a marriage after getting married. You discover what type of career you enjoy after doing a lot of work. And so it goes in nearly every area of life. <mark>In many cases, what you wish you knew ahead of time can only be learned after the decision is made.</mark>” — James Clear](https://jamesclear.com/3-2-1/february-13-2025)
-
-> [“You can act your way into feeling long before you can feel your way into action. If you wait until you feel like doing something, you will likely never accomplish it.” — John C. Maxwell, How Successful People Think: Change Your Thinking, Change Your Life](https://www.goodreads.com/quotes/1158022-you-can-act-your-way-into-feeling-long-before-you)
-
 > “If we wait for the moment when everything, absolutely everything is ready, we shall never begin.” — Ivan Turgenev
-
-> [“Action isn’t just the effect of motivation; it’s also the cause of it.” — Mark Manson](https://www.goodreads.com/quotes/11945271-action-isn-t-just-the-effect-of-motivation-it-s-also-the)
 
 > “It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.” — Seneca
 
@@ -37,6 +31,8 @@ tags: []
 > “The scariest moment is always just before you start. After that, things can only get better.” — Stephen King
 
 > “Start now. Start where you are. Start with fear. Start with pain. Start with doubt. Start with hands shaking. Start with voice trembling but start. Start and don’t stop. Start where you are, with what you have. Just… start.” — ljeoma Umebinyuo
+
+> [“Whether a decision is good or bad can change based on how you act after the choice is made. <mark>You can’t learn all the lessons beforehand.</mark> You learn a lot about what you want in a marriage after getting married. You discover what type of career you enjoy after doing a lot of work. And so it goes in nearly every area of life. <mark>In many cases, what you wish you knew ahead of time can only be learned after the decision is made.</mark>” — James Clear](https://jamesclear.com/3-2-1/february-13-2025)
 
 ---
 
@@ -74,13 +70,13 @@ tags: []
 
 ---
 
-# Never get caught in the trap of “too old”, or “too late”
+# Never get caught in the trap of “too old” or “too late”
+
+> It’s never too old or late to start.
 
 * If you learn the piano at 60, by 80 you’ll have played it for 20 years.
 * If you start drawing at 25, you’ll have 5 years of drawing experience at 30.
 * If you learn a new language at 40, you’ll have a 10-year knowledge of said language at 50.
-
-It’s never too old or late to start.
 
 ---
 
@@ -92,7 +88,7 @@ By the time I hit my second or third workout, I start wanting to exercise more. 
 
 ---
 
-[The scariest moment is always just before you start.](https://www.goodreads.com/work/quotes/150292-on-writing) Start before you feel ready, avoid _chicken-and-egg_ — a situation where you feel stuck because **you believe you need X to do Y, but also need Y to get X**. Like the classic paradox: _Which came first, the chicken or the egg?_
+[The scariest moment is always just before you start.](https://www.goodreads.com/work/quotes/150292-on-writing) Start before you’re ready, avoid _chicken-and-egg_ — a situation where you feel stuck because **you believe you need X to do Y, but also need Y to get X**. Like the classic paradox: _Which came first, the chicken or the egg?_
 
 ---
 
@@ -169,7 +165,7 @@ Work has a sort of _[activation energy](why-is-it-so-hard-to-just-do-the-work.md
 
 ---
 
-[▍Build a Tower, Build a Team](https://huam.ing/build-a-tower-build-a-team)
+[Build a Tower, Build a Team](https://huam.ing/build-a-tower-build-a-team)
 
 [^1]: The hardest part about going to the gym is GOING to the gym.
 [^2]: from Horace, the Roman poet, in his work Epistles
