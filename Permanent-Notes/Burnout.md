@@ -1,6 +1,6 @@
 ---
 title: Burnout
-modified: 2026-06-30
+modified: 2026-07-01
 tags: []
 ---
 
@@ -71,7 +71,7 @@ There’s a difference between being _tired_ and being _empty_. Tiredness can be
 
 **“Never pump yourself dry.”** (& Stop before you are exhausted.)
 
-Hemingway advised against pushing to exhaustion. Leaving energy in reserve helps you maintain enthusiasm and consistency without burnout.
+Hemingway advised against pushing to exhaustion. Leaving energy in reserve helps you maintain [enthusiasm](energy-is-the-most-attractive-human-trait.md) and consistency without burnout.
 
 ---
 
