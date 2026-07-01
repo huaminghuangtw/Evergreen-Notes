@@ -1,6 +1,6 @@
 ---
 title: Never lose faith and hope
-modified: 2026-06-22
+modified: 2026-07-01
 tags: []
 ---
 
@@ -27,6 +27,8 @@ tags: []
 > “To do original work, it is not necessary to know something nobody else knows. It is necessary to believe something few other people believe.” — Marc Andreessen
 
 > [“You should never, never doubt something that no one is sure of.” — Willy Wonka, Charlie and the Chocolate Factory](https://youtu.be/xx50-52k8Ic)
+
+> “The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.” — Vince Lombardi
 
 > “Blessed are those who have not seen and yet have believed.” — John 20:29
 >
