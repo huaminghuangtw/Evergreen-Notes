@@ -1,6 +1,6 @@
 ---
 title: Every single day, chop wood, carry waters
-modified: 2026-06-30
+modified: 2026-07-01
 tags: []
 ---
 
@@ -197,6 +197,7 @@ There’s a magic in showing up on your bad days. The choice is yours. Choose wi
 
 > [“A foolish consistency is the hobgoblin of little mind.” — Ralph Waldo Emerson](https://www.sahilbloom.com/newsletter/the-dangers-of-blind-consistency)
 
+* The definition of insanity is doing the same thing over and over again and expecting different results.
 * **Blind consistency** is just as bad as inconsistency. Inputs that fail to produce desired outcomes **should be adjusted, not repeated**.
 * **Adaptive Consistency** is the key that unlocks your dream life.
 * Hand and head work together. Hand teaches _what_ works, while head teaches _why_ things work.
