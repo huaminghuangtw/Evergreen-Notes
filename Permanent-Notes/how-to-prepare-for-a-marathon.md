@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-06-30
+modified: 2026-07-01
 tags: []
 ---
 
@@ -25,6 +25,20 @@ tags: []
 ---
 
 A rising heart rate means you need more easy miles. Easy runs build aerobic fitness (續航力：讓你在相同配速下心率更低、更持久). A fitter heart pumps more blood per beat.
+
+---
+
+# Easy Run vs Recovery Run
+
+![](_attachments/Pasted%20image%2020260701122507.png)
+
+**Note that long run and easy run share a similar heart rate zone.**
+
+|Run Type|Duration|Heart Rate|Primary Purpose|
+|---|---|---|---|
+|Recovery Run|20–45 min|<65% max HR|Flush fatigue, accelerate repair|
+|Easy Run|45–75 min|65–75% max HR|Build aerobic base, accumulate mileage|
+|Long Run|75–180 min|65–75% max HR|Build endurance, glycogen efficiency, mental toughness|
 
 ---
 
@@ -223,8 +237,8 @@ At the start of your training, replace a weekly tempo run with 5 miles at your *
 
 * **Optimal Duration:** The greatest aerobic benefits from long runs occur between 60 and 120 minutes. Beyond 2 hours, the additional gains decrease, and after 2.5 to 3 hours, the risk of injury and excessive fatigue rises significantly.
 * **Risk Management:** Running longer than 2.5 hours increases your risk of overuse injuries, poor recovery, and diminishing returns in fitness. For most runners, capping the long run at 3 hours is a smart, sustainable approach.
-* **Progress Over Time:** As you gain experience and build fitness over months and years, you’ll be able to cover more distance within the same time cap, while keeping your effort below critical thresholds. This long-term consistency is more valuable than pushing for extra mileage in a single session.
-* **Practical Advice:** Focus on quality and consistency. Prioritize staying healthy and finishing your long runs feeling strong, rather than exhausted. This sets you up for better training and race performance in the long run.
+* **Progress Over Time:** Structure the long runs progressively. For example, on a 30km run you could do something like: 2k easy / 8k @ 5:45/km / 1k easy / 8k @ 5:30/km / 1k easy / 8k @ 5:15/km / 2k easy. This approach breaks a long run into a series of manageable segments.
+* **Practical Advice:** Focus on quality and consistency. Prioritize staying healthy and finishing your long runs feeling strong, rather than exhausted. Long-term consistency is more valuable than pushing for extra mileage in a single session.
 
 ---
 
