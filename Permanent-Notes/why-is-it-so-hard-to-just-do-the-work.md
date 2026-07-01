@@ -1,10 +1,19 @@
 ---
 title: Why is it so hard to just do the work?
-modified: 2026-06-10
-tags: []
+modified: 2026-07-01
+tags:
+  - producivity
 ---
 
-[Resistance](https://stevenpressfield.com/home/) is an [internal force](limbic-friction.md) that prevents us from doing the work we’re meant to do. It can be categorized as [fear](fear.md), [procrastination](procrastination.md), [self-doubt](be-careful-how-you-are-talking-to-yourself.md), [self-sabotage](push-your-limits.md), [distraction](being-indistractable-is-superpower.md), arrogance, [perfectionism](perfectionism.md), and rationalization.
+> “The work you do while you procrastinate is probably the work you should be doing for the rest of your life.” — Jessica Hische
+
+---
+
+# The Nature of Resistance
+
+[Resistance](https://stevenpressfield.com/home/) is an [internal force](limbic-friction.md) that prevents us from doing the work we’re meant to do. Steven Pressfield, in _The War of Art_, defines Resistance as the invisible, self-protective force that opposes any act of creative or meaningful work. It is not laziness, nor a lack of [discipline](discipline-equals-freedom.md) — it is something more primal, rooted in the fear of vulnerability, uncertainty, and the potential failure inherent in pursuing what matters.
+
+It can be categorized as [fear](fear.md), [procrastination](procrastination.md), [self-doubt](be-careful-how-you-are-talking-to-yourself.md), [self-sabotage](push-your-limits.md), [distraction](being-indistractable-is-superpower.md), arrogance, [perfectionism](perfectionism.md), and rationalization.
 
 [@pressfieldWork2011]
 
@@ -26,13 +35,26 @@ tags: []
 
 > ”Resistance will bury you. It will bury you under a mountain of guilt, fear, self-doubt, and shame. You will live a shadow life. You will live the life you are not meant to live. You will feel unfulfilled. You will feel like something is missing. You will wonder what it is. That is Resistance.”
 
----
+Pressfield’s rule of thumb is brutally honest: _The more important a task is to your soul’s evolution, the more Resistance you will feel._ By this logic, Resistance is not a sign you’re on the wrong path — it’s a signal that you’re precisely where you need to be.
 
-[**Sludge**, the friction stops us from getting things done.](https://www.goodreads.com/book/show/60323348-sludge)
+# Sludge: The Systemic Friction
 
----
+Beyond internal Resistance, there is also **sludge** [^1] — the external, systemic friction that makes doing the right thing unnecessarily difficult. Coined by behavioral economist Cass Sunstein in his book _[Sludge](https://www.goodreads.com/book/show/60323348-sludge)_, this concept describes the administrative and environmental barriers that drain our time and willpower: confusing paperwork, convoluted workflows, excessive choices, poor interface design.
+
+At the personal level, sludge can take the form of:
+
+* Overly complex planning systems
+* A cluttered workspace that discourages starting
+* A phone bloated with endless notification distractions
+* Decision fatigue from too many micro-choices before the real work begins
+
+Reducing sludge — [simplifying](simple-is-beautiful.md) your environment, [automating decisions](be-a-habit-and-routine-machine.md), [removing](addition-by-subtraction.md) unnecessary steps — is a force multiplier for getting the work done.
 
 # [“Accept the initial agitation.” by Andrew Huberman](https://youtu.be/SwQhKFMxmDY)
+
+Andrew Huberman offers why starting feels so hard. When we attempt to engage in focused work, the brain releases **norepinephrine** and **adrenaline** — the same chemicals involved in the stress response. This creates a feeling of agitation, discomfort, and mental chaos. Most people interpret this feeling as a sign that they’re not ready, not capable, or not in the right mood — and they stop.
+
+But Huberman reframes this entirely: _The agitation is not a barrier to focus. It is the gateway to focus._
 
 > [I think we need to get comfortable as a culture in trying to understand our species and how we work, that <mark>the early stages of hard work and focus are gonna feel like agitation, stress and confusion</mark>, because that’s the norepinephrine and adrenaline system kicking in. None of us would expect to walk into the gym and do our PR lift, or, you know, a performer go do something without warming up. The brain also needs to warm up and start to hone in which circuits are gonna be active. And <mark>it’s unreasonable for us to think, “Oh I’ve got an hour, I’m gonna plop down and write beautifully for an hour my best work.”</mark> We need to accept that there’s a period of agitation and stress that accompanies the dropping into these highly concentrated states.](https://youtu.be/SwQhKFMxmDY?t=45m25s)
 
@@ -40,10 +62,16 @@ tags: []
 
 > [What people don’t realize is that mental focus follows visual focus. Now in blind people, it’s slightly different, it follows auditory focus, but in most people, your visual focus as you bring that into really sharp relief, that image of your book and you stare at you’re gonna feel some agitation and your mind’s gonna be jumping all over the place. But if you <mark>wait just a couple minutes, the rest of the world will disappear.</mark> I think this is sort of like the flow state people are looking for. But <mark>remember the gate of entry is one of which you have to wade through some sewage before you can swim in clear water.</mark> That’s the way I always think about it.](https://youtu.be/SwQhKFMxmDY?t=1h23m18s)
 
-**Remarks**
+The brain, like a muscle, **needs a warm-up**. <mark>Expecting to sit down and immediately produce brilliant work is like expecting to walk into a gym and hit a personal record on the first rep.</mark> The first few minutes — sometimes the first 10–20 minutes — will feel like “wading through sewage before swimming in clear water.”
 
-Along with “accepting/embracing the initial mental discomfort/agitation/strain,” [^2] I sometimes say to myself, **“Forget how you feel right now”** when I’m feeling unmotivated, uninterested, or low on energy. That’s the mindset I always return to. I used to set a timer and force myself to stay in the chair, enduring the initial agitation. But over time, I built the endurance to [work for long, uninterrupted hours of stretches](deep-work.md).
+The key insight: **The feeling of resistance and agitation is not a signal to stop. It is a sign that the focusing circuits are activating.** If you can endure the initial discomfort, the mental fog clears, the world falls away, and the work begins to flow.
 
 ---
 
-**We must first [start working](just-get-started.md), lean in, and push forward, in order to feel good and motivated.**
+I sometimes say to myself, **“Forget how you feel right now”** when I’m feeling unmotivated, uninterested, or low on energy. That’s the mindset I always return to.
+
+Feelings are fleeting. Motivation is unreliable. The desire to do the work will not always precede the act of doing the work — in fact, for hard or meaningful work, motivation almost always _follows_ action, not the other way around. This is what the research on **behavioral activation** confirms: [Action precedes motivation](action-precedes-motivation.md). By committing to the physical act of sitting down, opening the document, writing the first sentence — regardless of how you feel — you trigger the very motivational circuits that were absent a moment earlier.
+
+I used to set a timer and force myself to stay in the chair, enduring the initial agitation. But over time, I built the endurance to [work for long, uninterrupted hours of stretches](deep-work.md). The initial agitation, once dreaded, becomes familiar — even welcomed — because you know what lies on the other side.
+
+[^1]: A **nudge** tips the scales. **Sludge** blocks the path.
