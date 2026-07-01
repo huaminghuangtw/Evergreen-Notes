@@ -1,6 +1,6 @@
 ---
 title: Money
-modified: 2026-06-24
+modified: 2026-07-01
 tags: []
 ---
 
@@ -177,6 +177,10 @@ Reasonable Rational
 
 	* Don’t buy “dumb things” that offer “temporary happiness.” Spend smart on the things that bring you true, long-lasting happiness.
 	* Do not attempt to achieve status, respect, or admiration through material purchases.
+* 「拿鐵因子」（Latte Factor）是泛指生活中非必要、因習慣而產生的小額花費（如每天一杯咖啡、手搖飲、網購零食、訂閱卻少看的串流平台）。這些看似不起眼的開銷，長期累積會形成驚人的漏財黑洞。
+
+	> “A latte spurned is a fortune earned.” — David Bach, [The Automatic Millionaire: A Powerful One-Step Plan to Live and Finish Rich](https://www.goodreads.com/work/quotes/806311)
+
 * Experimental Purchase (✅) Impulsive Purchase (❌)
 	* Never buy things based on status/[material desires](the-absence-of-desire-is-true-happiness.md). Instead, buy things that make you healthier, wealthier, or provide you free time. It’s called **Practical Materialism**: Products that make a material difference in the quality of your life.
 		* On the one hand, **spend extravagantly** on things you love (e.g., travel).
@@ -184,15 +188,18 @@ Reasonable Rational
 	* Luxury = Necessity that begins where necessity ends
 * Spending any amount of money to “save money.”
 	* Look at the ROI of your expenses, not the price tag.
-	* Buying quality is key. If you buy quality the first time, it can last a lifetime.
-	* Frugal doesn’t mean cheap. Cheap is saving money in short term, while frugal is making wise choices to save in the long run.
+	* Buying quality is key. If you buy quality the first time, it can last a lifetime. [^8]
 
-		> 花小錢省大錢
+		> 如果一個東西值得，就不需一直想著能不能再便宜一點。
+
+	* Frugal doesn’t mean cheap. Cheap is saving money in short term, while frugal is making wise choices to save in the long run. [^9]
+
+		> 花小錢省大錢。
 
 	* Often, the more expensive item (“Buy It For Life” ) is more frugal than the cheaper item (“Buy Once, Cry Once”).
 * [The more money you have, the harder it becomes to know how to spend it in a way that will make you happy. And that confusion sets in at fairly low levels of income.](https://collabfund.com/blog/a-few-thoughts-on-spending-money/)
 
-	> The concept of the [Doughnut](https://www.google.com/search?q=Doughnut), as introduced by economist Kate Raworth, illustrates a balance between meeting essential human needs (_the social foundation_) and staying within planetary limits (_the ecological ceiling_). When applied to personal wealth and happiness, the Doughnut highlights a crucial insight: beyond a certain level of income—where basic needs are comfortably met—people enter a more ambiguous space of desire, where _knowing what to want_ becomes far less straightforward than _knowing what to need_. As Luke Burgis points out [^8], once survival is secured, people shift from necessity-driven decisions to socially influenced desires, often struggling to determine what will truly bring fulfillment.
+	> The concept of the [Doughnut](https://www.google.com/search?q=Doughnut), as introduced by economist Kate Raworth, illustrates a balance between meeting essential human needs (_the social foundation_) and staying within planetary limits (_the ecological ceiling_). When applied to personal wealth and happiness, the Doughnut highlights a crucial insight: beyond a certain level of income—where basic needs are comfortably met—people enter a more ambiguous space of desire, where _knowing what to want_ becomes far less straightforward than _knowing what to need_. As Luke Burgis points out [^10], once survival is secured, people shift from necessity-driven decisions to socially influenced desires, often struggling to determine what will truly bring fulfillment.
 
 * **Eliminate Before Accumulate**: Use [The “One in, One Out” Rule](the-one-in-one-out-rule.md) when buy things
 * 3 Levels
@@ -218,4 +225,6 @@ Reasonable Rational
 [^5]: In contrast, borrowing money creates [debt’s vicious cycle](https://sketchplanations.com/debts-vicious-cycle), leading to financial strain and growing interest payments that can be difficult to escape.
 [^6]: [No one hands out money. No one is going to pay you just because they like you or think you’re cool. That’s not the way the world works. **Money earned is a direct byproduct of value created—and that value is a direct byproduct of your service of others.** It’s not talking about the thing, it’s not brainstorming about the thing, it’s not asking about the thing, it’s not thinking about the thing. The only way to create value is by doing the thing. Identify a problem, create a solution, scale the solution. Simple, not easy.](https://x.com/SahilBloom/status/1878069357760156057)
 [^7]: 錢是手段，不是目的。
-[^8]: _[“After meeting our basic needs as creatures, we enter into the human universe of desire. And knowing what to want is much harder than knowing what to need.”](https://www.amazon.com/Wanting-Power-Mimetic-Desire-Everyday/dp/1250262488)_
+[^8]: 品質是最好的折扣 — 買一次，用一生。
+[^9]: 貪便宜買一堆，不如一次買對。
+[^10]: _[“After meeting our basic needs as creatures, we enter into the human universe of desire. And knowing what to want is much harder than knowing what to need.”](https://www.amazon.com/Wanting-Power-Mimetic-Desire-Everyday/dp/1250262488)_
