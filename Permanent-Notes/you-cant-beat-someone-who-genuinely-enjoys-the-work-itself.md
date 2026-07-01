@@ -1,10 +1,8 @@
 ---
 title: You can’t beat someone who genuinely enjoys the work itself
-modified: 2026-06-30
+modified: 2026-07-01
 tags: []
 ---
-
-> “Enthusiasm is the great hill-climber.” — Elbert Hubbard
 
 > [“Play is our first energizer. Life is stressful. Play makes it fun. If we can integrate the spirit of play into our lives, we’ll feel better — and do more too.” — Ali Abdaal, Feel-Good Productivity: How to Do More of What Matters to You](https://www.goodreads.com/work/quotes/100097284-feel-good-productivity-how-to-do-more-of-what-matters-to-you)
 
@@ -46,5 +44,9 @@ Simple Rule: If a thing makes you forget to eat, it’s probably worth doing. If
 ---
 
 [Not caring lets us perform better](not-caring-lets-us-perform-better.md)
+
+---
+
+[Energy is the most attractive human trait](energy-is-the-most-attractive-human-trait.md)
 
 [^1]: [組合技，非特定技能 (unique blend of interests, hobbies, and eccentricities)](specific-knowledge.md)
