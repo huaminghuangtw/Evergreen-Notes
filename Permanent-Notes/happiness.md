@@ -1,10 +1,12 @@
 ---
 title: Happiness
-modified: 2026-06-15
+modified: 2026-07-01
 tags: []
 ---
 
 > “Happiness is a state where nothing is missing.” — Naval Ravikant
+>
+> 快樂就是覺得自己什麼都不缺。
 
 > “Happiness is not about positive or negative thoughts — it’s about [the absence of desire](the-absence-of-desire-is-true-happiness.md), especially the absence of desire for external things.” — Naval Ravikant
 
