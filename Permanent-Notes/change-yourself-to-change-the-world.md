@@ -1,12 +1,17 @@
 ---
 title: Change yourself to change the world
-modified: 2026-06-16
+modified: 2026-07-01
 tags: []
 ---
 
 > “Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi
 
 > “Doctors won’t make you healthy. Nutritionists won’t make you slim. Teachers won’t make you smart. Gurus won’t make you calm. Mentors won’t make you rich. Trainers won’t make you fit. Ultimately, you have to take responsibility. Save yourself.” — Naval Ravikant [^1]
+
+> “Everyone thinks of changing the world, but no one thinks of changing himself.” — Leo Tolstoy
+>
+> 大家都想改變世界，卻沒有人想先從改變自己開始。
+> — 托爾斯泰
 
 > “Nothing helps; I must help myself, or I am finished.” — Friedrich Nietzsche
 
@@ -17,6 +22,8 @@ tags: []
 > “We must transform ourselves to transform the world.” — Grace Lee Boggs
 
 > “Being aware of a single shortcoming within yourself is far more useful than being aware of a thousand in someone else.” — Dalai Lama
+
+> “I will not be surprised by human nature, nor will I spend a long time feeling betrayed. When surprises come as a result of human nature, I just puts my head down and adjusts.” — Charlie Munger
 
 ---
 
