@@ -1,6 +1,6 @@
 ---
 title: Live in the present
-modified: 2026-06-10
+modified: 2026-07-01
 tags: []
 ---
 
@@ -43,6 +43,8 @@ tags: []
 > [“I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is.” — Alan Watts](https://www.goodreads.com/quotes/172061-i-have-realized-that-the-past-and-future-are-real)
 
 > “Life isn’t how many breaths you take, but it’s the moments that take your breath away.” — Will Smith
+
+> [“Very few people know this, but I don’t wear a watch. The reason why I don’t wear watches is, **NOW is the most important time**. Just dedicate yourself to now.” — Jensen Huang](https://youtu.be/z8cAXOys3bI?t=47m38s)
 
 ---
 
