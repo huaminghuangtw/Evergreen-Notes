@@ -1,6 +1,6 @@
 ---
 title: Money
-modified: 2026-07-01
+modified: 2026-07-02
 tags: []
 ---
 
@@ -140,6 +140,7 @@ Reasonable Rational
 
 	* 金錢最大的價值是買回/留下「自由」，也就是「選擇權」。
 	* [Wealth](wealth-creation.md) is hidden. Wealth is the money you don’t spend. Wealth is the nice car you don’t buy. Wealth is the big house you don’t purchase. Wealth is the financial assets that haven’t yet been converted into the stuff you see. Wealth is an option not yet taken to buy something later.
+	* 財富是無形的、是看不見的、是你沒有花的錢。
 
 # On Spending Money
 
