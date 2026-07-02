@@ -1,10 +1,12 @@
 ---
 title: Action precedes motivation
-modified: 2026-07-01
+modified: 2026-07-02
 tags: []
 ---
 
 # 先做再說，先盡全力搞砸再說
+
+> [“Action isn’t just the effect of motivation, but also the cause of it.” — Mark Manson](https://www.goodreads.com/quotes/11945271-action-isn-t-just-the-effect-of-motivation-it-s-also-the)
 
 > “The most important thing about motivation is that it’s not a prerequisite for action. Action precedes motivation.” — James Clear
 
