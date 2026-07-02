@@ -1,6 +1,6 @@
 ---
 title: Cultivate a strong bias towards action
-modified: 2026-07-01
+modified: 2026-07-02
 tags: []
 ---
 
@@ -46,7 +46,9 @@ tags: []
 
 > “You can’t climb the ladder of success with your hands in your pockets.” — Arnold Schwarzenegger
 
-> [“Action isn’t just the effect of motivation, but also the cause of it.” — Mark Manson](https://www.goodreads.com/quotes/11945271-action-isn-t-just-the-effect-of-motivation-it-s-also-the)
+> Your actions speak so loudly, I cannot hear what you are saying.
+
+> [“Do you want to know who you are? Don’t ask. Act! Action will delineate and define you.” — Thomas Jefferson](https://www.goodreads.com/quotes/21623-do-you-want-to-know-who-you-are-don-t-ask)
 
 > [“You do not write your life with words. You write it with actions. What you think is not important. It is only important what you do.” — Patrick Ness, A Monster Calls](https://www.goodreads.com/quotes/394528-you-do-not-write-your-life-with-words-you-write-it) [^3] [^4]
 
@@ -75,7 +77,7 @@ Stop fearing the regret of action and start fearing the regret of inaction. The 
 
 ---
 
-Act first, insight second. [Motivation starts with action.](why-is-it-so-hard-to-just-do-the-work.md)
+Act first, insight second. [Motivation starts with action.](action-precedes-motivation.md)
 
 ---
 
