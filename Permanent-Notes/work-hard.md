@@ -1,6 +1,6 @@
 ---
 title: Work hard
-modified: 2026-06-27
+modified: 2026-07-02
 tags: []
 ---
 
