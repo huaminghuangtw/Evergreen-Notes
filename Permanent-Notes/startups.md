@@ -1,6 +1,6 @@
 ---
 title: Startups
-modified: 2026-06-15
+modified: 2026-07-02
 tags: []
 ---
 
@@ -129,6 +129,8 @@ tags: []
 
 # Meetings
 
+> Meetings are the last resort, not the first option.
+
 * No-Gos
 	* Back-to-back meetings
 	* Pointless meetings → “Meetings to meet”
@@ -154,7 +156,6 @@ tags: []
 	* During meetings, always take notes. And action points. Make meetings as short as possible and have an agenda in mind!
 	* Whoever is latest to the meeting pays for the coffee, food, drinks.
 	* Walking [^1]/Standing Meetings instead of Sitting Meetings
-	* Long-term future envision/planning meetings
 	* Schedule all meetings and calls in one day. Group related meetings together on specific days or in designated time blocks.
 	* Asynchronous meeting with pre-recorded video using tools like Loom
 	* Friday Forum: celebrate wins of the week
