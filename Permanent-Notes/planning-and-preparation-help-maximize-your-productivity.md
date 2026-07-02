@@ -1,6 +1,6 @@
 ---
 title: Planning and preparation help maximize your productivity
-modified: 2026-06-17
+modified: 2026-07-02
 tags: []
 ---
 
@@ -123,6 +123,14 @@ This is a well-known metaphor for the importance of taking time to “sharpen yo
 ---
 
 [Implementation Intentions](implementation-intentions.md)
+
+---
+
+[If you want to win, you must prepare to win](if-you-want-to-win-you-must-prepare-to-win.md)
+
+---
+
+[Plan your days, not your decades](plan-your-days-not-your-decades.md)
 
 [^1]: [Separate decision from implementation](https://tim.blog/2023/03/01/matt-mochary/)
 [^2]: **[Cognitive Miser](https://www.google.com/search?q=Cognitive+Miser)** — The tendency of human minds to think and solve problems in simpler and less effortful ways, rather than in more sophisticated and effortful ways, regardless of intelligence. → 在其他條件與因素不變的情況下，我們通常傾向選擇最省力的路徑。由於那些無意識且熟練的神經例行程序運行起來輕鬆自如，而需要深思熟慮的有意識決策則較為費神，身為認知吝嗇者，只要尚可應對，我們往往依賴自動化的神經例行程序，而非投入心力進行有意識的決策。而在執行神經例行程序的動作時，我們往往會進入出神的狀態。[Merriam-Webster’s Dictionary 對「出神 (trance)」的定義之一是: 「一種使你因專注於其他事物而未察覺周遭變化的狀態。」](https://www.merriam-webster.com/dictionary/trance)
