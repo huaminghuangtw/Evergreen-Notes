@@ -1,6 +1,6 @@
 ---
 title: Every single day, chop wood, carry waters
-modified: 2026-07-01
+modified: 2026-07-02
 tags: []
 ---
 
@@ -66,18 +66,6 @@ There is a Zen Buddhist saying: “What do you do before enlightenment? _Chop wo
 
 ---
 
-> “Life is like riding a bicycle, to keep balance you must keep moving.” — Albert Einstein
-
-> “If you can’t fly, run. If you can’t run, walk. If you can’t walk, crawl, but by all means, keep moving.” — Martin Luther King, Jr.
-
-> [“What’s done is done. What’s gone is gone. One of life’s lessons is always moving on. It’s okay to look back to see how far you’ve come but keep moving forward.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7711460-what-s-done-is-done-what-s-gone-is-gone-one-of)
-
-# 邊開火邊移動（[Fire & Movement](https://en.wikipedia.org/wiki/Fire_and_movement)）
-
-> [“You move towards the enemy while firing your weapon. The firing forces him to keep his head down so he can’t fire at you. The motion allows you to conquer territory and get closer to your enemy, where your shots are much more likely to hit their target. If you’re not moving, the enemy gets to decide what happens, which is not a good thing. If you’re not firing, the enemy will fire at you, pinning you down.” — Joel Spolsky](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/)
-
----
-
 [最無聊的練習](deliberate-practice.md)，沉澱出最扎實的基本功（groundwork）
 
 > “No tree, it is said, can grow to heaven unless its roots reach down to hell.” — Carl Jung
@@ -125,25 +113,11 @@ The practice solidifies.
 
 ---
 
-The None-Zero Day Principle — becoming one is non-zero
-
----
-
 Continuous effort, not strength or intelligence, is the key to unlocking our potential.
 
 ---
 
 Doing a thing once is nothing special. You’re only a legend if you can do it back to back to back with thousands of hours of meticulous [preparation](planning-and-preparation-help-maximize-your-productivity.md).
-
----
-
-# 力行、奉行每天「一點點」的哲學
-
-* 每天一點點讀書進修
-* 每天一點點肌膚保養
-* 每天一點點拉筋伸展
-* 每天一點點關心朋友
-* 每天一點點照顧家人
 
 ---
 
@@ -153,14 +127,22 @@ Doing a thing once is nothing special. You’re only a legend if you can do it b
 
 # EVERYDAY is easier than SOMEDAY [^4]
 
+The None-Zero Day Principle — becoming one is non-zero.
+
 Embrace the daily mundane activities / ordinary actions. Find the lifelong rhythm.
 
 > “It’s easier to hold your principles 100 percent of the time than it is to hold them 98 percent of the time.” — Clayton M. Christensen, [How Will You Measure Your Life?](https://www.goodreads.com/work/quotes/18907551)
 
+> “To keep on going, you have to keep up the rhythm.” — Haruki Murakami, [What I Talk About When I Talk About Running](https://www.goodreads.com/work/quotes/2475030)
+
+> “[Somerset Maugham](https://www.google.com/search?q=Somerset+Maugham) once wrote that in each shave lies a philosophy. I couldn’t agree more. No matter how mundane some action might appear, keep at it long enough and it becomes contemplative, even meditative act.” — Haruki Murakami, [What I Talk About When I Talk About Running](https://www.goodreads.com/work/quotes/2475030)
+>
+> 英國作家毛姆曾寫道：「每次刮鬍子都蘊含著一種哲學。」我深表認同。無論一個動作看起來多麼平凡、無聊，只要持續夠久，它就會變成一種深沉的、近乎冥想般的行為。
+
 * It’s easier to _keep up_ than to _catch up_.
 * It’s easier to stay _motivated_ when you have _momentums_.
 
-![](_attachments/ae4c5ced67ee74bc5197f513c2d957f4.png)
+[The One Percent Rule](the-one-percent-rule.md)
 
 ---
 
@@ -174,7 +156,7 @@ Embrace the daily mundane activities / ordinary actions. Find the lifelong rhyth
 
 # Tony Robbins’ Cani Theory
 
-* Committing yourself to **Constant And Never-Ending Improvement**
+> Committing yourself to **Constant And Never-Ending Improvement**
 
 ---
 
@@ -195,47 +177,7 @@ There’s a magic in showing up on your bad days. The choice is yours. Choose wi
 
 ---
 
-> [“A foolish consistency is the hobgoblin of little mind.” — Ralph Waldo Emerson](https://www.sahilbloom.com/newsletter/the-dangers-of-blind-consistency)
-
-* The definition of insanity is doing the same thing over and over again and expecting different results.
-* **Blind consistency** is just as bad as inconsistency. Inputs that fail to produce desired outcomes **should be adjusted, not repeated**.
-* **Adaptive Consistency** is the key that unlocks your dream life.
-* Hand and head work together. Hand teaches _what_ works, while head teaches _why_ things work.
-	* **Craft over theory** — Write code, publish writing, build things. The doing reveals edge cases and friction that no amount of thinking can predict.
-	* **Reflect to refine** — After each iteration of “Hand,” pause for “Head”: what worked, what didn’t, and why? Close the loop.
-	* **Beware of the trap** — Endless learning without creating (all Head, no Hand) is just sophisticated procrastination. Mindless repetition without reflection (all Hand, no Head) is just busywork.
-
----
-
-[A little bit every day — Steph Ango](https://stephango.com/a-little-bit-every-day)
-
----
-
-[Frameworks to achieve any goals](frameworks-to-achieve-any-goals.md)
-
----
-
-[Just focus on the next decision](just-focus-on-the-next-decision.md)
-
----
-
-[The Compounding Effect](the-compounding-effect.md)
-
----
-
-[Journey over destination](journey-over-destination.md)
-
----
-
-[The Growth Mindset](the-growth-mindset.md)
-
----
-
-[Two Types of Passion](two-types-of-passion.md)
-
----
-
-[A little bit of slope makes up for a lot of y-intercept](a-little-bit-of-slope-makes-up-for-a-lot-of-y-intercept.md)
+[Be ware of blind consistency](be-ware-of-blind-consistency.md)
 
 [^1]: 我不怕練一萬種拳的人，但我怕一種拳練一萬次的人。
 [^2]: The only dangerous competitors are the hyper-focused ones.
