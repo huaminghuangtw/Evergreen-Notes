@@ -1,6 +1,6 @@
 ---
 title: Never lose faith and hope
-modified: 2026-07-01
+modified: 2026-07-02
 tags: []
 ---
 
@@ -50,16 +50,6 @@ Believe before evidence. Proof follows faith — the way trees follow seeds.
 在文學與詩歌中，「晨曦」常被用作希望、重生、啟程與新開始的象徵。它代表黑夜過後的光明，寓意困境終將過去、新的希望即將展開。
 
 在現代語境裡，「晨曦」也常被用作人名、校名、品牌名或組織名稱，取其象徵「光明、美好開端」之意。
-
----
-
-# 有志者事竟成
-
-> Where there’s a will, there’s a way.
-
-> “What the mind can conceive, it can achieve.” — Napoleon Hill
-
-> “If you can dream it, you can do it.” — Walt Disney
 
 ---
 
