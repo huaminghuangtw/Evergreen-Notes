@@ -1,6 +1,6 @@
 ---
 title: Specific Knowledge
-modified: 2026-06-27
+modified: 2026-07-02
 tags: []
 ---
 
@@ -20,6 +20,8 @@ It is something society cannot yet easily train other people to do (hard to repl
 ---
 
 [It should feel like _play_ to you, but _work_ for others.](https://x.com/naval/status/1337144251403014144)
+
+做起來像呼吸一樣簡單的事。
 
 See also: [You can’t beat someone who genuinely enjoys the work itself](you-cant-beat-someone-who-genuinely-enjoys-the-work-itself.md)
 
