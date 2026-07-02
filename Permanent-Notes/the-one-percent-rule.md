@@ -1,6 +1,6 @@
 ---
 title: The One Percent Rule
-modified: 2026-06-17
+modified: 2026-07-02
 tags: []
 ---
 
@@ -9,6 +9,10 @@ tags: []
 ---
 
 $1.00^{365} = 1.00$ vs $1.01^{365} = 37.8$
+
+![](_attachments/ae4c5ced67ee74bc5197f513c2d957f4.png)
+
+[The Compounding Effect](the-compounding-effect.md)
 
 ---
 
@@ -37,3 +41,17 @@ $1.00^{365} = 1.00$ vs $1.01^{365} = 37.8$
 * 積少成多
 
 [Broken Windows Theory](broken-windows-theory.md)
+
+---
+
+# 力行、奉行每天「一點點」的哲學
+
+* 每天一點點讀書進修
+* 每天一點點肌膚保養
+* 每天一點點拉筋伸展
+* 每天一點點關心朋友
+* 每天一點點照顧家人
+
+[A little bit every day — Steph Ango](https://stephango.com/a-little-bit-every-day)
+
+[A little bit of slope makes up for a lot of y-intercept](a-little-bit-of-slope-makes-up-for-a-lot-of-y-intercept.md)
