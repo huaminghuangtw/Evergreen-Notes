@@ -30,7 +30,7 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 
 # Easy Run vs Recovery Run
 
-![](_attachments/Pasted%20image%2020260701122507.png)
+![](_attachments/6c405ce0940a51dcb7a59841d9a488af.png)
 
 **Note that long run and easy run share a similar heart rate zone.**
 
