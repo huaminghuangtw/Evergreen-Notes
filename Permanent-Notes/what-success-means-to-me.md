@@ -1,6 +1,6 @@
 ---
 title: What success means to me
-modified: 2026-06-15
+modified: 2026-07-02
 tags: []
 ---
 
@@ -67,6 +67,11 @@ The most important thing in life is _not having_ what you want, but _knowing_ wh
 1. 想：知道自己想要/不想要什麼、定義自己的平衡/甜蜜點 [^3] [^4]
 2. 做：有能力真正地得到/避免自己想要/不想要 の 東西、想辦法站在上面，死都不要下來
 
+[Life is a game of awareness and action: Awareness to understand something’s importance and action to execute on that importance.](https://www.sahilbloom.com/newsletter/11-uncommon-lessons-from-uncommon-minds)
+
+1. Define you [VALUES](why-we-exist.md) (& ditch unrealistic big goals)
+2. Focus on **[today’s](plan-your-days-not-your-decades.md)** [ACTIONS](cultivate-a-strong-bias-towards-action.md) that will compound positively towards the future you desire
+
 ---
 
 # [Significance > Success](https://collabfund.com/blog/significance-success/)
@@ -75,24 +80,7 @@ The most important thing in life is _not having_ what you want, but _knowing_ wh
 
 ---
 
-[Life is a game of awareness and action: Awareness to understand something’s importance and action to execute on that importance.](https://www.sahilbloom.com/newsletter/11-uncommon-lessons-from-uncommon-minds)
-
-> “I think in terms of the day’s resolutions, not the years’.” — Henry Moore
-
-1. Define you [VALUES](why-we-exist.md) (& ditch unrealistic big goals)
-2. Focus on today’s [ACTIONS](cultivate-a-strong-bias-towards-action.md) (instead of a 5, 10, 15-year plan) that will compound positively towards the future you desire.
-
-	> You won’t change your life _in a day_, but if you change your days, you’ll eventually change your life. You don’t plan your future. You plan your actions _today_, and those actions create your future. Planning your future can quickly spiral into procrastination in disguise. Focus on the actions in the present and let the future take care of itself.
-
----
-
-[The Trap of Success: Success leads to freedom.](https://www.sahilbloom.com/newsletter/the-trap-of-success-how-to-escape-it)
-
----
-
-# EIOFS = Early Indicator of Future Success
-
-> [“Don’t worry about future success. Worry about early indicators of future success.” — Jensen Huang](https://youtu.be/BbTZ_7pZDB0)
+[The Trap of Success](https://www.sahilbloom.com/newsletter/the-trap-of-success-how-to-escape-it)
 
 ---
 
