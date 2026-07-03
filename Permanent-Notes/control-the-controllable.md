@@ -1,6 +1,6 @@
 ---
 title: Control the controllable
-modified: 2026-06-25
+modified: 2026-07-03
 tags: []
 ---
 
@@ -23,6 +23,8 @@ tags: []
 ---
 
 # The Dichotomy of Control
+
+> = Circle of Control
 
 1. Things we can control
 2. Things we cannot control
