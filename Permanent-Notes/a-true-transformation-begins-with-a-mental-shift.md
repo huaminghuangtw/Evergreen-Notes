@@ -1,6 +1,6 @@
 ---
 title: A true transformation begins with a mental shift
-modified: 2026-07-01
+modified: 2026-07-03
 tags: []
 ---
 
@@ -250,6 +250,12 @@ If you’re 37, don’t regret not waking up at 18 again. Instead, imagine you�
 ---
 
 “[Mens sana in corpore sano](https://www.google.com/search?q=Mens+sana+in+corpore+sano)” is a Latin phrase that translates to “a healthy mind in a healthy body.”
+
+---
+
+A situation with no way out is a situation in which you don’t like the _obvious_ way out.
+
+> A situation with **no way out** often just means that the available option feels **unpleasant, uncomfortable, or costly**—not that it doesn’t exist. In truth, there **is** a path forward, but we resist it because it conflicts with our desires, pride, values, or comfort. The “no way out” is usually a form of psychological avoidance: we **label the only viable choice as unacceptable**, and so convince ourselves we’re trapped.
 
 ---
 
