@@ -1,14 +1,16 @@
 ---
 title: Plan your days, not your decades
-modified: 2026-07-02
+modified: 2026-07-03
 tags: []
 ---
 
 > “I think in terms of the day’s resolutions, not the years’.” — Henry Moore
 
+> “A good plan, violently executed today, is better than a perfect plan next week.” — General George Patton [^1]
+
 ---
 
-You won’t change your life _in a day_, but if you change your days, you’ll eventually change your life. You don’t plan your future. You plan your actions _today_, and those actions create your future. Planning your future can quickly spiral into procrastination in disguise. Focus on the actions in the present and let the future take care of itself.
+You won’t change your life _in a day_, but if you change your days, you’ll eventually change your life. You don’t plan your future. You plan your actions _today_, and those actions create your future. Planning your future can quickly spiral into [procrastination](procrastination.md) in disguise. Focus on the actions in the present and let the future take care of itself.
 
 ---
 
@@ -33,3 +35,5 @@ The nearer-term your plans, the more accurate they’ll be.
 ---
 
 [Just focus on the next decision](just-focus-on-the-next-decision.md)
+
+[^1]: A good plan today is better than a perfect plan tomorrow.
