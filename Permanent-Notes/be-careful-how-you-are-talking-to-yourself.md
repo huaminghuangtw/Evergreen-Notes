@@ -1,6 +1,6 @@
 ---
 title: Be careful how you are talking to yourself
-modified: 2026-06-10
+modified: 2026-07-03
 tags: []
 ---
 
@@ -39,12 +39,6 @@ Never say, I’ll never…
 ---
 
 永遠不要看輕自己。
-
----
-
-# [Distanced Self-Talk](https://www.google.com/search?q=distanced+self-talk)
-
-> “Third-person self-talk is a way of being empathetic to ourselves.” — Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)
 
 ---
 
