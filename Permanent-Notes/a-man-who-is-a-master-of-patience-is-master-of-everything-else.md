@@ -1,6 +1,6 @@
 ---
 title: A man who is a master of patience is master of everything else
-modified: 2026-06-21
+modified: 2026-07-03
 tags: []
 ---
 
@@ -31,7 +31,7 @@ tags: []
 
 ---
 
-≈ Endurance
+≈ Endurance ≈ Durability
 
 ---
 
