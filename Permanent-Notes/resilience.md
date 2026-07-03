@@ -1,6 +1,6 @@
 ---
 title: Resilience
-modified: 2026-06-23
+modified: 2026-07-03
 tags: []
 ---
 
@@ -9,6 +9,8 @@ tags: []
 > “Resilience is not what happens to you. It’s how you [react to, respond to](choose-your-response.md), and recover from what happens to you.” — Jeffrey Gitomer
 
 > “The struggle you’re in today is developing the strength you need for tomorrow.” — Robert Tew [^1]
+
+> “The impediment to action advances action. What stands in the way becomes the way.” — Marcus Aurelius
 
 > “The obstacle is the way.” — Marcus Aurelius
 
