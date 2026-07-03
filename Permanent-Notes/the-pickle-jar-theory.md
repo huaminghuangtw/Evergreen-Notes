@@ -1,6 +1,6 @@
 ---
 title: The Pickle Jar Theory
-modified: 2026-06-10
+modified: 2026-07-03
 tags: []
 ---
 
@@ -13,3 +13,5 @@ The idea is to start with the most important tasks / fill the jar with the bigge
 This method helps to maximize time and ensure that the most important items are addressed first, preventing them from being overshadowed by less critical activities.
 
 **Think of your time as a jar. If you don’t make space for the big rocks, the little pebbles and tiny sand will fill your whole jar. And you’ll always wonder why you’re not getting anything meaningful done.**
+
+> [先吃青蛙](eat-the-biggest-frog-first-thing-in-the-morning.md)，再吃蝌蚪。
