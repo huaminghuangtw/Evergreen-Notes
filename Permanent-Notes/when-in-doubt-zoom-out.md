@@ -1,6 +1,6 @@
 ---
 title: When in doubt, zoom out
-modified: 2026-06-10
+modified: 2026-07-03
 tags: []
 ---
 
@@ -10,9 +10,15 @@ tags: []
 
 放慢步調，與當下的掛念保持適當的心理距離，有助於激發 [高階思考](second-order-thinking.md)，使我們能夠以更宏觀的視角考慮、權衡大局。
 
+這種心理距離（psychological distancing）在認知心理學中被稱為「認知重評價」（cognitive reappraisal）— 透過改變我們對事件的解讀方式來調節情緒。當你感覺被問題淹沒時，強迫自己後退一步，往往能看見原本被情緒遮蔽的解決方案。
+
 ---
 
 沈溺其中的第一人稱視角 → 往後退幾步的第三人稱視角
+
+> “Third-person self-talk is a way of being empathetic to ourselves.” — Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)
+
+[研究指出](https://doi.org/10.1038/s41598-017-04047-3)，以第三人稱進行 [自我對話](be-careful-how-you-are-talking-to-yourself.md)（= [illeism](https://www.google.com/search?q=illeism) = third-person self-talk）[^1] 能有效降低焦慮、提升表現。透過將自己視為旁觀者，我們大腦中與自我反芻相關的區域活動會減少，而與解決問題相關的區域則會活化。這種「自我抽離」（self-distancing）策略已被證實有助於做出更理性的決策。
 
 ---
 
@@ -22,15 +28,15 @@ tags: []
 
 ---
 
-It is important to take time to [zoom out/sit back/slow down](slow-down-to-speed-up.md) on a regular basis.
+It is important to take time to [zoom out/sit back/slow down](slow-down-to-speed-up.md) on a regular basis. Make it a ritual — a weekly review, a monthly offsite with yourself, or simply a quiet walk without headphones.
+
+A practical heuristic: before reacting emotionally to any situation, try the **10-10-10 rule** — ask yourself how you will feel about this in 10 minutes, 10 months, and 10 years.
 
 ---
 
-[The bird’s-eye view perspective](systems-thinking.md) on your situation provide a unique vantage point—an ability to see the landscape around you and the bigger picture. (鳥瞰/綜觀全局)
+[The bird’s-eye view perspective](systems-thinking.md) on your situation provide a unique vantage point — an ability to see the landscape around you and the bigger picture. (鳥瞰/綜觀全局)
 
-See also: [The Overview Effect](https://en.wikipedia.org/wiki/Overview_effect): [Carl Sagan - Pale Blue Dot](https://huam.ing/pale-blue-dot)
-
----
+This is why astronauts consistently report the [Overview Effect](https://en.wikipedia.org/wiki/Overview_effect) — a profound cognitive shift experienced when viewing Earth from orbit, where borders dissolve, conflicts seem trivial, and the planet appears as a single, fragile system.
 
 If you think you have it tough, look around.
 
@@ -46,12 +52,6 @@ If you think you have it tough, look around.
 
 ---
 
-[The Solomon Paradox](the-solomon-paradox.md)
-
----
-
-[The Tunnel Effect](the-tunnel-effect.md)
-
----
-
 [The most productive people prioritize intentional rest](the-most-productive-people-prioritize-intentional-rest.md)
+
+[^1]: e.g., “I am ready to go.” ➞ “John is ready to go.”
