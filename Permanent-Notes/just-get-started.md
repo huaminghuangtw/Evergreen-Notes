@@ -1,6 +1,6 @@
 ---
 title: Just get started
-modified: 2026-07-01
+modified: 2026-07-03
 tags: []
 ---
 
@@ -9,6 +9,8 @@ tags: []
 > “Start before you’re ready. Don’t prepare. Begin. Don’t think. Act.” — Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)
 
 > “Start where you are. Use what you have. Do what you can.” — Arthur Ashe
+
+> [Start with the best opportunity available to you. If you make the most of what you have in front of you right now, better opportunities will become available as you go along.](https://jamesclear.com/3-2-1/june-26-2025)
 
 > “Paths are made by walking.” — Franz Kafka
 
