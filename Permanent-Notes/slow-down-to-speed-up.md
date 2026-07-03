@@ -1,6 +1,6 @@
 ---
 title: Slow down to speed up
-modified: 2026-06-17
+modified: 2026-07-03
 tags: []
 ---
 
@@ -106,10 +106,6 @@ Once you’ve done that, that’s when you can go fast.
 	* Restore and gather your energy to deploy your resources more efficiently
 	* Notice small and beautiful things you previously missed
 	* Be more deliberate with actions and focus on highest leverage opportunities
-
----
-
-[Every single day, chop wood, carry water](every-single-day-chop-wood-carry-waters.md)
 
 ---
 
