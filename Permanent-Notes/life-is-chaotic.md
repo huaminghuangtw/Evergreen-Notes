@@ -1,6 +1,6 @@
 ---
 title: Life is chaotic
-modified: 2026-06-10
+modified: 2026-07-03
 tags: []
 ---
 
@@ -28,7 +28,7 @@ tags: []
 
 Man Plans. God Laughs.
 
-> 當我們自以為能掌控一切時，上帝早已在一旁當笑到袂振袂動。
+> 當我們自以為能掌控一切時，上帝早在旁邊笑到美丁噹。
 
 ---
 
