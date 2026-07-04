@@ -1,6 +1,6 @@
 ---
 title: Why we exist?
-modified: 2026-06-30
+modified: 2026-07-04
 tags:
   - 人蔘
 ---
@@ -211,6 +211,8 @@ is a self-discovery tool used primarily in Christian contexts to help individual
 The great use of life is to spend it for something that outlasts it. To be remembered by people is to live forever.
 
 死後還能繼續影響這個世界、幾百年後還會有人記得和提起你的名字
+
+計利當計天下利，求名當求萬世名
 
 ---
 
