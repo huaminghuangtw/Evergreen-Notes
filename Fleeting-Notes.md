@@ -1,34 +1,5 @@
 ---
-modified: 2026-06-28
----
-
-<https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/>
-
-# 🐻 上半身
-
-- [ ] Pull-up
-- [ ] Push-up to row with dumbbells (0/90 度)
-- [ ] Row (dumbells/knee-supported/barbell)
-- [ ] Inverted row (Smith machine/dig stand)
-- [ ] Sand Bag - Swing to Press
-- [ ] Sand Bag - Overboard Toss
-- [ ] Sand Bag - Pick & Press with sand bag
-- [ ] Sand Bag - Reverse Lunge with Rotation
-- [ ] Sand Bag - Rotational Swing
-- [ ] Dips
-
-# 🐴 下半身
-
-- [ ] Bulgarian split squats (barbell/dumbbell/kettlebell)
-- [ ] RDL (kettlebell/dumbbell)
-- [ ] Barbell jump squat
-- [ ] Goblet squat
-
-With resistance band
-
-* Standing side leg raise
-* Side band walk
-
+modified: 2026-07-04
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -162,10 +133,6 @@ CERN is the European Organization for Nuclear Research and the birthplace of the
 
 ---
 
-$44
-
----
-
 “Several things dovetailed in my mind, & at once it struck me, what quality went to form a Man of Achievement especially in Literature & which Shakespeare possessed so enormously — I mean Negative Capability, that is when man is capable of being in uncertainties, mysteries, doubts, without any irritable reaching after fact & reason.“
 
 ”Be patient toward all that is unsolved in your heart and try to love the questions themselves, like locked rooms and like books that are written in a very foreign tongue. Do not now seek the answers, which cannot be given you because you would not be able to live them. And the point is, to live everything. Live the questions now. Perhaps you will then gradually, without noticing it, live along some distant day into the answer.“
@@ -226,105 +193,6 @@ Carl Jung coined the archetype of Puer Aeternus (Latin for the “eternal boy”
 
 The Illusion of Explanatory Depth says that we are overconfident in our understanding of the most common things that exist all around us.
 
-
 ---
 
-https://www.davidsenra.com/episode/jason-fried
-The best reward for good work is more work.
-I don’t believe in long-term planning. I believe in being around for long-term.
-https://37signals.com/
-[Jason Fried](https://world.hey.com/jason)
-Blubber and small units, that's a big part of it too. This is a bit of an aside, but it's tied to it. And I think it's important to talk about is pricing.
-So with Basecamp, for example, nobody can pay us more than 2.99 a month, okay! It doesn't matter how many users you have. So you could be a big enterprise and 2.99 a month is the most you can possibly, our prices go way, way low, but that's the most we allow you to pay us.
-Now, many of our competitors will like, hey, you want to pay us 50 grand a month, you got 2,000 seats, we'll take it.
-I don't want their money because what I want is a static group of customers. It you think about static, like an old TV, like the dots, they're all equal sized.
-You should be able to pick out 10 random customers and lose, I don't want to lose customers, but if you could pick out 10 random customers and lose them, I think you have a good business.
-
-them, I think you have a good business.
-Think about 100 random customers and lose them and be okay, you have a good business. What you don't want are a bunch of outlier companies that you cannot afford to lose.
-You don't want customers that you cannot afford to lose. By equalizing our pricing and not letting anyone pay us more than anybody else, we create a bunch of small units which are individual customers. If you take one out, it's not like Django where the whole thing is going to fall.
-It doesn't matter in a sense because everyone's essentially equal, no matter how big you are. Then we can develop software for the customer base as a whole and not for a handful of customers that pay us a lot more than everybody else. That's the enterprise game, is getting as many seats as you can and landing these whales.
-
-Jason distinguishes envelope (business) and letter (product). He's a product person - the envelope should be as thin as possible so the product remains central.
-Thin envelope = agility, fewer layers,
-and more optionality. No VC, small team, direct customer contact. Build durable, focused products instead of financial shells.
-Focus on the letter.
-
-Hiring is tested: after year one they ask,
-“Would we hire them again?” Small teams force clarity and durable simplicity.
-
-Fried hates the growth obsession. Aim to reach orbit - then maintain. He'll pass on revenue optimization that damages product or culture and asks,
-“So what?” if extra money isn't worth the trade.
-He values profitability and independence over venture-driven scale
-- even capping Basecamp pricing to preserve small-unit durability.
-
-Fried structures revenue as many equal small units - no whales paying vastly more. That avoids dependence on any single customer and makes the company durable.
-He also keeps blubber (cushioning profits) and shares real cash bonuses with employees annually.
-
-He champions purity: the earliest, purest execution of an idea often wins (think 1963 Rolex or Concept rower).
-Software tends to slide downhill; the job is to edit ruthlessly and make each new version simpler.
-Be Galápagos-like: evolve independently, focus on craft, authenticity, and what doesn't change.
-
-“There's a point where you actually just want to sit in orbit and sort of maintain. You want to be within a certain range and fluctuate a little bit up, a little bit down.”
-― Jason Fried on preferring sustainable business 'orbit' over perpetual growth
-Heard on David Senra - Jason Fried, 37signals (makers of Basecamp, HEY and ONCE).
-https://share.snipd.com/episode/e5da0a13-e878-4b99-aca3-ddfdd774acff
-Snipd - save & remember the best insights you hear in podcasts
-
-創業如發射火箭，起飛時你需要巨大能量才能脫離地心引力；一旦進入軌道，真正的目標不再是加速，而是「留在軌道上」。
-
-Hockey Stick 對我毫無吸引力。
-
-“Make stuff for yourself. There's probably other people out there like you who want what you want and make it available to sell.”
-― Jason Fried on how his early FileMaker project taught him to build for himself
-Heard on David Senra - Jason Fried, 37signals (makers of Basecamp, HEY and ONCE).
-https://share.snipd.com/episode/e5da0a13-e878-4b99-aca3-ddfdd774acff
-Snipd - save & remember the best insights you hear in podcasts
-
-“What I can't control is how much it costs me to run my business, how much I sell my product for. And as long as I make more than I spend, I get to stay in business.”
-― Jason Fried explaining why costs are the true competitor
-Heard on David Senra - Jason Fried, 37signals (makers of Basecamp, HEY and ONCE).
-https://share.snipd.com/episode/e5da0a13-e878-4b99-aca3-ddfdd774acff
-Snipd - save & remember the best insights you hear in podcasts
-
-“We typically think about six weeks in advance. ... Six weeks is the most we're willing to think ahead. And then day to day, like the six weeks is like where the squirrel is headed.”
-― Jason Fried on short planning horizons and iterative course correction
-Heard on David Senra - Jason Fried, 37signals (makers of Basecamp, HEY and ONCE).
-https://share.snipd.com/episode/e5da0a13-e878-4b99-aca3-ddfdd774acff
-Snipd - save & remember the best insights you hear in podcasts
-
-“There's something very cool about things that have just evolved on their own that are not influenced by other things. I try to think of us as the Galapagos.”
-― Jason Fried on insulating product design from industry copying
-Heard on David Senra - Jason Fried, 37signals (makers of Basecamp, HEY and ONCE).
-https://share.snipd.com/episode/e5da0a13-e878-4b99-aca3-ddfdd774acff
-Snipd - save & remember the best insights you hear in podcasts
-
-“If you want to find great colors, look at a bird. Don't look at a book. Look at a leaf. Look at the ocean. Go to a tide pool and just look at the colors.”
-― Jason Fried on drawing product design inspiration from nature and physical objects
-Heard on David Senra - Jason Fried, 37signals (makers of Basecamp, HEY and ONCE).
-https://share.snipd.com/episode/e5da0a13-e878-4b99-aca3-ddfdd774acff
-Snipd - save & remember the best insights you hear in podcasts
-
-“I don't want to run a very tight margin business where I can't make mistakes. I believe in cushy margins. So we can screw up and it won't matter that much.”
-― Jason Fried on maintaining profit margins and financial cushioning
-Heard on David Senra - Jason Fried, 37signals (makers of Basecamp, HEY and ONCE).
-https://share.snipd.com/episode/e5da0a13-e878-4b99-aca3-ddfdd774acff
-Snipd - save & remember the best insights you hear in podcasts
-
-“10% of our profits go to our employees every year... Those bonuses are real cash. No options, no RSUs, no stock, no like any of that BS.”
-― Jason Fried on profit distribution and preferring cash bonuses
-Heard on David Senra - Jason Fried, 37signals (makers of Basecamp, HEY and ONCE).
-https://share.snipd.com/episode/e5da0a13-e878-4b99-aca3-ddfdd774acff
-Snipd - save & remember the best insights you hear in podcasts
-
-“Would I want to do this again? If the answer is yes, then it was successful.”
-― Jason Fried on defining success by whether you'd do the work again
-Heard on David Senra - Jason Fried, 37signals (makers of Basecamp, HEY and ONCE).
-https://share.snipd.com/episode/e5da0a13-e878-4b99-aca3-ddfdd774acff
-Snipd - save & remember the best insights you hear in podcasts
-
-“Nobody can pay us more than $2.99 a month... And so by equalizing our pricing and not letting anyone pay us more than anybody else, we create a bunch of small units.”
-― Jason Fried on pricing strategy to prevent dependency on large customers
-Heard on David Senra - Jason Fried, 37signals (makers of Basecamp, HEY and ONCE).
-https://share.snipd.com/episode/e5da0a13-e878-4b99-aca3-ddfdd774acff
-Snipd - save & remember the best insights you hear in podcasts
+Angry Bird 憤怒鳥的失敗故事
