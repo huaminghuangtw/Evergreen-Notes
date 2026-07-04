@@ -1,12 +1,16 @@
 ---
 title: Plan your days, not your decades
-modified: 2026-07-03
+modified: 2026-07-04
 tags: []
 ---
 
 > “I think in terms of the day’s resolutions, not the years’.” — Henry Moore
 
 > “A good plan, violently executed today, is better than a perfect plan next week.” — General George Patton [^1]
+
+> [“I don’t plan long term because I want to do what I think, not what I thought.” — Jason Fried](https://x.com/jasonfried/status/1362876378136207361)
+
+> [“I don’t believe in long-term planning. I believe in being around for the long term. I think the best way to do that is day by day, not quarter by quarter or year by year. Just figure out today and tomorrow. I’ve always been mystified by people who think they can figure out the next three years today, but they’re afraid of figuring out tomorrow.” — Jason Fried](<https://youtu.be/BdDCtMA1gSw?t=38m37s>)
 
 ---
 
