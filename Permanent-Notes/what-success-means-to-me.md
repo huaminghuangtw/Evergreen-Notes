@@ -1,6 +1,6 @@
 ---
 title: What success means to me
-modified: 2026-07-02
+modified: 2026-07-04
 tags: []
 ---
 
@@ -41,6 +41,10 @@ tags: []
 > [“The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.” — Vince Lombardi](https://www.goodreads.com/quotes/93874-the-difference-between-a-successful-person-and-others-is-not)
 
 > “Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.” — Tony Robbins
+
+---
+
+Would I want to do this again? If the answer is yes, then it was successful.
 
 ---
 
