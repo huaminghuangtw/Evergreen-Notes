@@ -1,8 +1,10 @@
 ---
 title: Perfectionism
-modified: 2026-06-16
+modified: 2026-07-04
 tags: []
 ---
+
+> “All software has bugs — it’s just a fact of life. You.” — Jason Fried, [Getting Real](https://www.goodreads.com/work/quotes/72546)
 
 > “You don’t have to be great to start, but you have to start to be great.” — Zig Ziglar
 
