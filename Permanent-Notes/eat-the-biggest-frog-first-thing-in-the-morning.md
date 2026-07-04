@@ -1,6 +1,6 @@
 ---
 title: Eat the biggest frog first thing in the morning
-modified: 2026-07-03
+modified: 2026-07-04
 tags: []
 ---
 
@@ -22,9 +22,11 @@ First things first. Do the most important thing [^3] first, not the most urgent 
 
 > There is never enough time to do everything, but there is always enough time to do the most important thing.
 
+[The Eisenhower Matrix](the-eisenhower-matrix.md)
+
 ---
 
-# Every Morning DO Your Highest Priority Work First
+# Every morning do your highest priority work first
 
 > [“I begin each morning by doing my highest priority work first. I have a very clear priority list, and I start from the highest priority work first. Before I even get to work, my day is already a success. I’ve already completed my most important work and can dedicate my day to helping others. And <mark>when people apologize for interrupting me, I always say, ‘I have plenty of time,’ and I do.</mark>” — Jensen Huang, NVIDIA CEO](https://www.youtube.com/shorts/-TWoU18uKAQ)
 
@@ -37,9 +39,9 @@ First things first. Do the most important thing [^3] first, not the most urgent 
 [早上是一天當中最有精力、思路最清晰、心智能量最彙集/最強大的時刻](work-in-sprints-work-with-your-biology.md)，要用來做：
 
 * Things that genuinely matter to you.
-* Things that require lots of [brain power](do-not-use-your-willpower-unless-you-absolutely-have-to.md) (e.g., writing, coding).
-* Things that you are easily tempted to do something else.
 * Things that you are not enjoying that much.
+* Things that you are easily tempted to do something else.
+* Things that require lots of [brain power](do-not-use-your-willpower-unless-you-absolutely-have-to.md) (e.g., writing, coding).
 * Things that you feel most uncomfortable with and scare you most, usually due to some chances of rejection or conflict.
 
 ---
