@@ -1,6 +1,6 @@
 ---
 title: Learning is the single best investment that you can make for your time
-modified: 2026-06-15
+modified: 2026-07-04
 tags:
   - habits
   - learning
@@ -110,6 +110,8 @@ _[Ultralearning](https://www.scotthyoung.com/blog/ultralearning/)_ by Scott Youn
 * Street Smart (街頭智慧，實務派，用以致學) > Book Smart (讀書智慧，理論派，學以致用)
 
 ---
+
+> [“The fundamentals: something many people know, but few people practice.” — James Clear](https://jamesclear.com/3-2-1/july-3-2025)
 
 Stick to the [basics/fundamentals](first-principle-thinking.md) and **big picture**, then you can learn anything you want.
 
