@@ -1,6 +1,6 @@
 ---
 title: Decision Making
-modified: 2026-06-10
+modified: 2026-07-04
 tags: []
 ---
 
@@ -44,7 +44,9 @@ tags: []
 
 > “Don’t make a hundred decisions when one will do.” — [Jim Collins](https://www.jimcollins.com/index.html)
 
-* 「哪一種決定是可以把水龍頭🚰關起來的? 」
+> “Instead of freaking out about these constraints, embrace them. Let them guide you. Constraints drive innovation and force focus. Instead of trying to remove them, use them to your advantage.” — 37Signals, [Getting Real: The Smarter, Faster, Easier Way to Build a Web Application](https://www.goodreads.com/work/quotes/72546)
+
+* 「哪一種決定是可以把水龍頭 🚰 關起來的? 」
 * [Style is consistent constraint. Having a style collapses hundreds of future decisions into one, and gives you focus. Style gives you leverage. Every time you reuse your style you save time. A durable style is a great investment. Collect constraints you enjoy.](https://stephango.com/style)
 
 ---
