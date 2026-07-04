@@ -1,6 +1,6 @@
 ---
 title: Life is cyclic
-modified: 2026-06-22
+modified: 2026-07-04
 tags: []
 ---
 
@@ -24,6 +24,8 @@ tags: []
 ---
 
 [The Surfer Mentality](https://www.sahilbloom.com/newsletter/the-surfer-mentality)
+
+> “Be a surfer. Watch the ocean. Figure out where the big waves are breaking and adjust accordingly.” — 37Signals, [Getting Real: The Smarter, Faster, Easier Way to Build a Web Application](https://www.goodreads.com/work/quotes/72546)
 
 ---
 
