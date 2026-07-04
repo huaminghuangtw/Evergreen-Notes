@@ -1,6 +1,6 @@
 ---
 title: How to build muscles?
-modified: 2026-06-10
+modified: 2026-07-04
 tags: []
 ---
 
@@ -55,3 +55,7 @@ For cyclists, each gym session is a Leg Day 😂 (Core work is secondary)
 ---
 
 [Whey Protein](whey-protein.md)
+
+---
+
+[Recommended Routine by r/bodyweightfitness](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/)
