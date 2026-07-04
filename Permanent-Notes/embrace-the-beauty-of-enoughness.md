@@ -1,6 +1,6 @@
 ---
 title: Embrace the beauty of enoughness
-modified: 2026-06-22
+modified: 2026-07-04
 tags: []
 ---
 
@@ -166,7 +166,41 @@ Don’t let the pursuit of more stop you from enjoying what you already have. Do
 
 ---
 
-不卑不亢：形容待人處事態度得體，既不過於卑屈，也不傲慢自大，恰到好處。
+不卑不亢：形容待人處事態度得體，既不過於卑屈，也不傲慢/狂妄自大，恰到好處。
+
+---
+
+# 道德經第九章
+
+> 持而盈之，不如其已；
+>
+> 揣而銳之，不可長保。
+>
+> 金玉滿堂，莫之能守；
+>
+> 富貴而驕，自遺其咎。
+>
+> 功遂身退，天之道。
+
+> 東西拿得太滿，不如適可而止。
+>
+> 刀子磨得太鋒利，就無法長久保持鋒芒。
+>
+> 家中堆滿金銀珠寶，也沒有人能永遠守得住。
+>
+> 富貴之後還驕傲自滿，只會替自己招來禍患。
+>
+> 事情完成了，就功成身退，不居功、不戀棧，這才符合天地自然的法則。
+
+> Fill your bowl to the brim and it will spill.
+>
+> Keep sharpening your knife and it will blunt.
+>
+> Chase after money and security and your heart will never unclench.
+>
+> Care about people’s approval and you will be their prisoner.
+>
+> <mark>Do your work, then step back. The only path to serenity.</mark>
 
 ---
 
