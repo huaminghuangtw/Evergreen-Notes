@@ -1,6 +1,6 @@
 ---
 title: Self-compassion
-modified: 2026-06-18
+modified: 2026-07-05
 tags: []
 ---
 
@@ -33,6 +33,10 @@ tags: []
 | ![](https://images.unsplash.com/photo-1579591165250-987f23844669?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470) |
 | :-: |
 | <sub>[Source](https://unsplash.com/photos/black-and-red-floral-happy-birthday-signage-WQC8HvAU2SY)</sub> |
+
+---
+
+Stop hating yourself for everything you aren’t. Start loving yourself for everything you are.
 
 ---
 
