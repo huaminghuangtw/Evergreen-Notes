@@ -1,6 +1,6 @@
 ---
 title: Change yourself to change the world
-modified: 2026-07-01
+modified: 2026-07-05
 tags: []
 ---
 
@@ -84,7 +84,7 @@ Self-reliance is the ultimate source of strength. Self-help is the best help.
 
 ---
 
-# It’s A Lot Easier To Change Yourself Than To Change The World. Be The Change You Want To See In The World.
+# It’s a lot easier to change yourself than to change the world. Be the change you want to see in the world.
 
 * Water your own grass
 * Mow your own lawn
@@ -99,7 +99,7 @@ Personal development/growth/improvement is a lifelong endeavor. Every single day
 
 ---
 
-# Set Your House In Perfect Order Before You Criticize The World.
+# Set your house in perfect order before you criticize the world.
 
 > 在批評這個世界之前，先把自己的房間整理乾淨。
 
@@ -111,7 +111,7 @@ Your house is a metaphor for YOU. Unless you are perfect, 99% of the time the so
 
 [@covey7HabitsHighly2013]
 
-# You Should Spend More Time In Your _Circle Of Influence_ And Less Time In Your _Circle Of Concern_.
+# You should spend more time in your _circle of influence_ and less time in your _circle of concern_.
 
 ![](_attachments/399f5eabbf33dfe8f8505b21847b81d5.png)
 
