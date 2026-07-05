@@ -1,6 +1,6 @@
 ---
 title: Focus is about saying no
-modified: 2026-06-24
+modified: 2026-07-05
 tags: []
 ---
 
@@ -31,6 +31,8 @@ tags: []
 > “It is far easier to start something than it is to finish it.” — Amelia Earhart
 
 > “Nothing has more strength than dire necessity.” — Euripides
+
+> [“It’s worth making time to find the things that really stir your soul. That’s what makes you really feel alive. You have to say ‘no’ to other things you’re used to, and do it with all your heart.” — Roy T. Bennett](https://www.goodreads.com/quotes/7718689-it-s-worth-making-time-to-find-the-things-that-really)
 
 ---
 
