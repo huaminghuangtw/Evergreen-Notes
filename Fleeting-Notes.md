@@ -1,5 +1,5 @@
 ---
-modified: 2026-07-04
+modified: 2026-07-05
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -179,10 +179,6 @@ The “Golden Algorithm” is a behavioral and emotional framework popularized b
 
 ---
 
-用人不疑疑人不用
-
----
-
 What are some things this person likely doesn’t do, in order to reach their goals? e.g. What have they had to sacrifice?
 
 ---
@@ -196,3 +192,30 @@ The Illusion of Explanatory Depth says that we are overconfident in our understa
 ---
 
 Angry Bird 憤怒鳥的失敗故事
+
+
+---
+
+In 1966, an American sociologist named James Davis published a paper, entitled “The Campus as a Frog Pond”, which examined data from a large national sample of graduating college seniors.
+He measured three things about each student:
+Their GPA / local class rank
+The caliber of their school
+Their career aspirations
+Davis found that career aspirations tracked to their class rank (a relative metric) far more than the quality of their school (an absolute metric).
+In other words, two students of identical ability can perceive themselves and their aspirations very differently on the basis of how they stack up to those around them.
+Davis wrote, “[They see themselves as] big frogs in little ponds or little frogs in big ponds.”
+He concluded that people judge their ability by comparison to the people immediately around them, not against any absolute standard.
+This is the Frog Pond Effect:
+The way we feel about ourselves depends on our relative positioning more so than our absolute performance.
+Our scoreboard is relative, not absolute.
+This is why growth feels like destruction. Why getting better feels like getting worse. Why building up feels like tearing down.
+
+
+---
+
+A man is walking across a field when a tiger leaps out from the trees and runs toward him.
+Fearing for his life, the man sprints away but quickly halts at a steep cliff. Facing a terrifying drop, with the tiger bearing down on him, he grabs hold of a single vine and lowers himself over the cliff’s edge.
+Looking up, he sees the tiger above. Looking down, he notices another tiger pacing on the ground below. And to make matters worse, a small mouse begins gnawing at the vine that holds him in place.
+Beginning to feel hopeless, with certain demise above and below, the man sees a single wild strawberry growing on the cliffside in front of him.
+He reaches out, plucks the fruit, and eats it. He smiles.
+How incredibly sweet it tasted.
