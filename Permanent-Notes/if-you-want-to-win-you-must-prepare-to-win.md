@@ -1,6 +1,6 @@
 ---
 title: If you want to win, you must prepare to win
-modified: 2026-07-02
+modified: 2026-07-05
 tags: []
 ---
 
@@ -15,6 +15,10 @@ _[How Bad Do You Want It? “When you want to succeed as badly as you want to br
 > [“There’s nothing you can’t do if you want it bad enough.” — Danielle Sibarium, For Always](https://www.goodreads.com/quotes/516566-there-s-nothing-you-can-t-do-if-you-want-it-bad)
 
 > [“We make time and energy for the things we really want: If you have an exciting vacation planned and need to make a 6am flight, you have no issue getting up at 3am to make it, because you have the desire. You really care.” — Sahil Bloom](https://www.sahilbloom.com/newsletter/brutally-honest-advice-to-my-younger-self)
+
+You can literally change your life _any day_— you can wake up and decide that you want something different. You can reinvent yourself as many times as you need. New habits. New standards. New people. New career. You’re never stuck. You’re allowed to change. Today, tomorrow, and as many times as it takes to build the life you want.
+
+[Change requires destruction](change-requires-destruction.md)
 
 ---
 
