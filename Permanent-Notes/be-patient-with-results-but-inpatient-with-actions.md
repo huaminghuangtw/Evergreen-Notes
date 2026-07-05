@@ -1,10 +1,14 @@
 ---
 title: Be patient with results, but inpatient with actions
-modified: 2026-06-10
+modified: 2026-07-05
 tags: []
 ---
 
 Set 5-year goals, but take 10-minute actions. Think long. Act now.
+
+---
+
+When making plans, think big. When making progress, think small.
 
 ---
 
