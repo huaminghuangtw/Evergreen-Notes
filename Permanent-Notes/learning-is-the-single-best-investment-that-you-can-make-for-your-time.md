@@ -1,12 +1,16 @@
 ---
 title: Learning is the single best investment that you can make for your time
-modified: 2026-07-04
+modified: 2026-07-05
 tags:
   - habits
   - learning
 ---
 
 > “Learning never exhausts the mind.” — Leonardo da Vinci
+
+---
+
+你可以不讀書，但不能不學習（和思考）。
 
 ---
 
