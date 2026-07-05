@@ -1,8 +1,10 @@
 ---
 title: Slow down to speed up
-modified: 2026-07-03
+modified: 2026-07-05
 tags: []
 ---
+
+**Where are you going and why are you in such a rush?**
 
 [@ferriss4hourWorkweekEscape2011]
 
