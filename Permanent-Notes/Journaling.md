@@ -1,6 +1,6 @@
 ---
 title: Journaling
-modified: 2026-06-10
+modified: 2026-07-05
 tags: []
 ---
 
@@ -27,7 +27,7 @@ Use daily diary as a place to ask yourself questions, then question your answers
 
 # Wins I Achieved
 
-> “Don’t judge each day by the harvest you reap but by the seeds you plant.” — Robert Louis Stevenson
+> “Don’t judge each day by the harvest you reap but by the seeds you plant.” — Robert Louis Stevenson [^2]
 
 * Writing down daily achievements—not matter how small/tiny—gives me a sene of **completeness**.
 * Focus on the seeds, not the trees. What seeds are you planting today?
@@ -89,11 +89,11 @@ E.g., feelings, emotions, thoughts, memories, special moments/occasions/events
 	* Write down those “story-worthy” moments that happened during the day. Save the beautiful life memories. One day, those memories might save you.
 * [“Interstitial Journaling (間歇式/流水帳式日記)” by Tony Stubblebine](https://betterhumans.pub/replace-your-to-do-list-with-interstitial-journaling-to-increase-productivity-4e43109d15ef)
 	* Combines _[note-taking](note-taking.md)_, [to-do lists](variants-of-to-do-list.md), and _time tracking_ in one unique workflow.
-		* Similar to [The “Done List”](https://www.oliverburkeman.com/donelist) [^2]
+		* Similar to [The “Done List”](https://www.oliverburkeman.com/donelist) [^3]
 			* During your day, [journal every time you transition from one work project to another](https://plaintext-productivity.net/2-09-work-journal.html). Write a few sentences in your journal about _what you just did_, and then a few more sentences about what _you’re about to do_.
 			* The times between work projects (i.e., when you take breaks) are the interstitial moments when you should write in a journal.
 			* This approach provides a touchstone to track your progress throughout the day. It offers a sense of security, helping you avoid the misleading/false feeling of “never enough” and allowing you to internalize how much you’ve accomplished.
-		* You can also flip it:[^3] Write short, simple notes on the goals before you put any effort into it. This helps you _plan_, _strategize_, and _[think ahead (forward thinking)](https://plaintext-productivity.net/2-09-work-journal.html)_. It gives you focus and a clear view of the big picture. It also encourages you to add _perspective_ to daily activities and tasks that a to-do list can’t do.
+		* You can also flip it:[^4] Write short, simple notes on the goals before you put any effort into it. This helps you _plan_, _strategize_, and _[think ahead (forward thinking)](https://plaintext-productivity.net/2-09-work-journal.html)_. It gives you focus and a clear view of the big picture. It also encourages you to add _perspective_ to daily activities and tasks that a to-do list can’t do.
 		* You can also flip it: Write quick, simple notes about your big goals before you start your day. This helps you plan, think ahead, and stay focused. It gives you a clear view of what matters, something a to-do list can’t do.
 * Atomic/Incremental Journaling
 	* Jog down keywords anytime and anywhere throughout the day, rather than sit down to write in complete sentences at a specific time each day.
@@ -101,5 +101,6 @@ E.g., feelings, emotions, thoughts, memories, special moments/occasions/events
 * [Gratitude](be-grateful.md) Journaling (感恩日記)
 
 [^1]: Memory is everything. You’re doing this for your future self. Future You will want to look back at this time in your life, and find out what you were actually doing, day-to-day, and how you really felt back then. It will help you [make better decisions](https://fs.blog/decision-journal/). Future You will thank Today You.
-[^2]: Or: 工作日誌（Worklog）
-[^3]: [Always start with end in mind!](always-start-with-end-in-mind.md)
+[^2]: _“To plant a garden is to believe in tomorrow.” — Audrey Hepburn_
+[^3]: Or: 工作日誌（Worklog）
+[^4]: [Always start with end in mind!](always-start-with-end-in-mind.md)
