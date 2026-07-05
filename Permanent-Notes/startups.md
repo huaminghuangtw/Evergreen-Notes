@@ -1,6 +1,6 @@
 ---
 title: Startups
-modified: 2026-07-04
+modified: 2026-07-05
 tags: []
 ---
 
@@ -56,6 +56,7 @@ tags: []
 	1. your customers
 	2. potential investors
 	3. ⭐️ potential acquirers
+* 用人不疑、疑人不用
 * Hiring smart people, trusting them, and getting out of the way. Setting a specific vision so we’re all aligned, allowing a level of independence of operation so people can be making decisions quickly on their own.
 * No hierarchy. No clique culture.
 * Onboarding is key. Most companies think that onboarding is showing someone where the bathroom is, and where the code repos are.
