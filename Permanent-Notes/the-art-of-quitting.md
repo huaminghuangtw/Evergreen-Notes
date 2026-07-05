@@ -1,10 +1,12 @@
 ---
 title: The Art of Quitting
-modified: 2026-06-16
+modified: 2026-07-05
 tags: []
 ---
 
 > “I am as proud of what we don’t do as I am of what we do.” — Steve Jobs
+
+> “Letting go is not loss; it is space for what is true.” — Jack Kornfield
 
 > “Someone who can’t sacrifice anything, can never change anything.” — Armin Arlert, Attack on Titan (進擊 の 巨人)
 
