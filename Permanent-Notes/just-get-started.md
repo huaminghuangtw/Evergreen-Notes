@@ -1,6 +1,6 @@
 ---
 title: Just get started
-modified: 2026-07-03
+modified: 2026-07-05
 tags: []
 ---
 
@@ -104,6 +104,18 @@ Start even if you can only [do a little](always-start-small.md). Once you get st
 
 ---
 
+Just start.
+
+[Start slow](slow-down-to-speed-up.md) if you have to.
+
+[Start small](always-start-small.md) if you have to.
+
+[Start privately](avoid-telling-people-your-goals.md) if you have to.
+
+Just start.
+
+---
+
 # The Ovsiankina Effect
 
 = The Hemingway Effect
@@ -113,7 +125,7 @@ Start even if you can only [do a little](always-start-small.md). Once you get st
 * describes that once we start a task, we feel a drive to complete it—even if we’ve only made minimal progress.
 * refers to the innate human urge to finish tasks we’ve initiated.
 
-See also: [The Goal-Gradient Effect](https://sketchplanations.com/goal-gradient-effect)
+[The Goal-Gradient Effect](https://sketchplanations.com/goal-gradient-effect)
 
 ---
 
