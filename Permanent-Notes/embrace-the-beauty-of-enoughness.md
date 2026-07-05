@@ -1,6 +1,6 @@
 ---
 title: Embrace the beauty of enoughness
-modified: 2026-07-04
+modified: 2026-07-05
 tags: []
 ---
 
@@ -73,6 +73,10 @@ The dose makes the poison. Some things are beneficial in small amounts but becom
 ---
 
 For everything in life, the answer always lies somewhere in the middle. Beyond a certain point, any additional amount can lead to [diminishing or even negative returns](the-law-of-diminishing-returns.md). Be careful listening to extremists of either side. Too much of anything is harmful.
+
+---
+
+[The dose makes the poison](https://www.google.com/search?q=The+dose+makes+the+poison). Some things are beneficial in small amounts but become harmful in excess—such as free time, intensity, and stress. The key is to find the optimal dose, which is unique to you and will evolve through different seasons of your life.
 
 ---
 
