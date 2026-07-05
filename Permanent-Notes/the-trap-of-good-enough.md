@@ -1,6 +1,6 @@
 ---
 title: The Trap of Good Enough
-modified: 2026-06-10
+modified: 2026-07-05
 tags: []
 ---
 
@@ -34,26 +34,4 @@ tags: []
 
 ---
 
-The reason most people never change is because they’re [too attached to who they’ve always been](be-ready-to-change-your-mind-completely-at-any-given-time.md).
-
-The worst prison in the world is having the talent and intelligence to achieve something great but lacking the [courage](courage-is-knowing-what-not-to-fear.md) to go out and do it.
-
-> “Growth is painful. Change is painful. But nothing is as painful as staying stuck somewhere you don’t belong.” — Mandy Hale
-
-<mark>The worst thing in the world isn’t being on a bad path. The worst thing in the world is being on a good path that isn’t yours.</mark>
-
-The bad path screams for change. The good path that isn’t yours sits in silence.
-
-Reinvention takes courage. [^1] Reinvention starts with release. You can’t build a new life with old wiring. Letting go is the real first step.
-
-Nothing changes if nothing changes. If you change nothing, nothing will change.
-
-Change requires death: The death of old beliefs, old habits, old environments.
-
-Reinvention has a cost of entry. Pay it with pride.
-
----
-
-[The dose makes the poison](https://www.google.com/search?q=The+dose+makes+the+poison). Some things are beneficial in small amounts but become harmful in excess—such as free time, intensity, and stress. The key is to find the optimal dose, which is unique to you and will evolve through different seasons of your life.
-
-[^1]: 放棄，其實比堅持更難；因為放棄需要理由。
+[Change requires destruction](change-requires-destruction.md)
