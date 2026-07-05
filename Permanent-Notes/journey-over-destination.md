@@ -1,6 +1,6 @@
 ---
 title: Journey over destination
-modified: 2026-06-23
+modified: 2026-07-05
 tags: []
 ---
 
@@ -126,6 +126,8 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 
 * Instead of treating your goals like [to-do list](variants-of-to-do-list.md) items, try turning them into quests (= a journey, an adventure toward a specific mission or a goal).
 * Goals are practical attempts to change your circumstances/situations. A quest is personally transformative — the endeavor itself shapes _who you are (your identity)_ and _what you’re capable of (your potential)_.
+
+	> “The reason that most of us are unhappy most of the time is that we set our goals — not for the person we’re going to be when we reach them — we set our goals for the person we are when we set them.” — Jim Coudal
 
 ---
 
