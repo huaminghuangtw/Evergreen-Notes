@@ -1,6 +1,6 @@
 ---
 title: Stay curious
-modified: 2026-06-23
+modified: 2026-07-06
 tags: []
 ---
 
@@ -37,6 +37,10 @@ tags: []
 ---
 
 Curiosity = What The F\*ck Is That?
+
+---
+
+處處留心皆學問，落花水面皆文章。
 
 ---
 
