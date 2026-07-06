@@ -1,6 +1,6 @@
 ---
 title: Prioritization
-modified: 2026-06-10
+modified: 2026-07-06
 tags: []
 ---
 
@@ -85,7 +85,3 @@ Look for opportunities where it won’t kill you if it goes poorly, but you’d 
 ---
 
 [The Pareto Principle](the-pareto-principle.md)
-
----
-
-[99% of effort is wasted](99-percent-of-effort-is-wasted.md)
