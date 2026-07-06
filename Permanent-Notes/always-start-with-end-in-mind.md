@@ -1,6 +1,6 @@
 ---
 title: Always start with end in mind
-modified: 2026-07-01
+modified: 2026-07-06
 tags: []
 ---
 
@@ -9,6 +9,8 @@ tags: []
 > “There is nothing so useless as doing efficiently that which should not be done at all.” — Peter Drucker
 
 > “Having lost sight of our objectives, we redoubled our efforts.” — Walt Kelly
+
+> “If you do not know which port you are seeking, no wind is favorable.” — Seneca
 
 > “First say to yourself what you would be; and then do what you have to do.” — Epictetus
 
@@ -22,11 +24,11 @@ tags: []
 
 ---
 
-What is the downside if I am wrong?
+The most important thing about getting somewhere is first deciding where you want to go.
 
 ---
 
-If you don’t know what you want, how are you going to know when you get it?
+**If you don’t know what you want, how are you going to know when you get it?**
 
 > If you don’t know what you want, you end up with a lot you don’t.” — Chuck Palahniuk, Fight Club
 
