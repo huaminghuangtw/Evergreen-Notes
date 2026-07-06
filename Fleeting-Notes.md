@@ -219,3 +219,18 @@ Looking up, he sees the tiger above. Looking down, he notices another tiger paci
 Beginning to feel hopeless, with certain demise above and below, the man sees a single wild strawberry growing on the cliffside in front of him.
 He reaches out, plucks the fruit, and eats it. He smiles.
 How incredibly sweet it tasted.
+
+
+---
+
+[The 2 Types of Knowledge: Real vs. Surface | The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-2-types-of-knowledge-real-vs-surface)
+
+
+---
+
+[Work smart, not hard.](https://www.reddit.com/r/lifehacks/comments/vs6iuf/work_smart_not_hard/)
+
+
+---
+
+CBT-I（Cognitive Behavioral Therapy for Insomnia） 也就是失眠認知行為治療，是目前公認最有效的非藥物失眠療法。
