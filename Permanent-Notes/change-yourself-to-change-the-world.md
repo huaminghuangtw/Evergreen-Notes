@@ -1,6 +1,6 @@
 ---
 title: Change yourself to change the world
-modified: 2026-07-05
+modified: 2026-07-06
 tags: []
 ---
 
@@ -67,6 +67,8 @@ Before changing yourself, you need to [knowing yourself](mastering-yourself-is-s
 > “You take your life in your own hands, and what happens? A terrible thing, no one to blame.” — Erica Jong
 
 > “It’s your road, and yours alone, others may walk it with you, but no one can walk it for you.” — Rumi
+
+> “If you are still looking for that one person who will change your life, take a look in the mirror.” — Roman Price
 
 > “The best day of your life is the one on which you decide your life is your own. No apologies or excuses. No one to lean on, rely on, or blame. The gift is yours. It is an amazing journey. And you alone are responsible for the quality of it. This is the day your life really begins.” — Bob Moawad
 
