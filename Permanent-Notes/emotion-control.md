@@ -1,6 +1,6 @@
 ---
 title: Emotion Control
-modified: 2026-06-29
+modified: 2026-07-06
 tags: []
 ---
 
@@ -15,6 +15,10 @@ tags: []
 ---
 
 ≈ Emotion Regulation
+
+---
+
+脾氣壓不下來是本性，壓得下來是本事。
 
 ---
 
