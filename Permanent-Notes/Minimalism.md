@@ -1,6 +1,6 @@
 ---
 title: Minimalism
-modified: 2026-06-22
+modified: 2026-07-06
 tags: []
 ---
 
@@ -29,6 +29,10 @@ Simple Living (極簡生活)
 ---
 
 去蕪存菁
+
+---
+
+**精實思考（Lean Thinking）**：源自豐田生產方式（TPS），強調「創造最大價值，消除一切浪費」。
 
 ---
 
