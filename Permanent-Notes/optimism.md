@@ -1,6 +1,6 @@
 ---
 title: Optimism
-modified: 2026-06-10
+modified: 2026-07-06
 tags: []
 ---
 
@@ -21,6 +21,10 @@ tags: []
 > “We must remember that this is not a bad world but a good world in the process of becoming.” — Wallace D. Wattles, [The Science of Being Great](https://www.goodreads.com/work/quotes/1881171)
 
 > [“We don’t make mistakes, we have happy accidents.” — Bob Ross](https://www.youtube.com/shorts/KKN-qE2bRuU)
+
+---
+
+Life is like a mirror: it smiles at you if you look at it smiling.
 
 ---
 
