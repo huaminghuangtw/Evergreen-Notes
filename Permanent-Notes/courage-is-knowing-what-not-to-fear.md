@@ -1,6 +1,6 @@
 ---
 title: Courage is knowing what not to fear
-modified: 2026-06-30
+modified: 2026-07-06
 tags: []
 ---
 
@@ -56,6 +56,10 @@ Courage isn’t courageous because it works out. Courage is courageous because y
 
 ---
 
+失敗為成功之母，勇氣為成功之父。[^2]
+
+---
+
 Intelligence isn’t just about what you know. It is also the ability to avoid being your own bottleneck.
 
 * If you lack the skills, be willing to look foolish while you learn them.
@@ -65,3 +69,4 @@ Intelligence isn’t just about what you know. It is also the ability to avoid b
 Many people have the ability, but they talk themselves out of trying.
 
 [^1]: It’s better to die than to walk around scared.
+[^2]: 失敗為成功之母，那誰是成功之父？來，掃一下這個 QR Code，轉帳給我，你就是成功之父（支付）😂
