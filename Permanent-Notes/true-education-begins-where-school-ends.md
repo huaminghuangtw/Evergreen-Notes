@@ -1,6 +1,6 @@
 ---
 title: True education begins where school ends
-modified: 2026-06-23
+modified: 2026-07-06
 tags: []
 ---
 
@@ -84,6 +84,15 @@ The tragedy of the second type is that they are often unaware of their own limit
 * The more I learn, the less I feel I know.
 * The more you learn, the more you are exposed to the immense unknown.
 * Experts are only aware of what they don’t know.
+
+---
+
+# 知識 vs 智慧
+
+> 知識是對自己所知的一切感到驕傲；智慧是在自己不知道的一切面前謙虛。
+	> —《[我可能錯了](https://www.books.com.tw/products/0010947051)》
+
+> [“Knowledge is proud that it knows so much; wisdom is humble that it knows no more.” — William Cowper](https://www.brainyquote.com/authors/william-cowper-quotes)
 
 ---
 
