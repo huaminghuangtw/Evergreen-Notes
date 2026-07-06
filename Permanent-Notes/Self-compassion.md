@@ -1,6 +1,6 @@
 ---
 title: Self-compassion
-modified: 2026-07-05
+modified: 2026-07-06
 tags: []
 ---
 
@@ -37,6 +37,10 @@ tags: []
 ---
 
 Stop hating yourself for everything you aren’t. Start loving yourself for everything you are.
+
+---
+
+Love yourself first, because that’s who you’ll be spending the rest of your life with.
 
 ---
 
