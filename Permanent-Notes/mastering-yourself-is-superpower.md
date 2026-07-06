@@ -1,6 +1,6 @@
 ---
 title: Mastering yourself is superpower
-modified: 2026-06-10
+modified: 2026-07-06
 tags: []
 ---
 
@@ -106,6 +106,10 @@ tags: []
 			* _“What is the consequence if I remain in this state?”_
 	4. Non-Identification (無我)
 		* Practice “_I’m not the body, I’m not the mind, I’m not my emotion, I can just see all these 3 aspects about me._” [^4] [^5]
+
+---
+
+[The Johari Window](the-johari-window.md)
 
 [^1]: _“Instead of shaming your emotions, try to understand what they are telling you.” — Lindsay C. Gibson_
 [^2]: This also points out the importance of being **authentic** and **honest**: _<mark>“The moment you tell somebody something dishonest, you’ve lied to yourself. Then you’ll start believing your own lie, which will disconnect you from reality and take you down the wrong road.” — Almanack of Naval Ravikant</mark>_
