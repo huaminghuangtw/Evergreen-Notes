@@ -1,6 +1,6 @@
 ---
 title: Be Grateful
-modified: 2026-06-16
+modified: 2026-07-06
 tags: []
 ---
 
@@ -41,6 +41,8 @@ Be thankful for / Appreciate more tiny/small things/(aesthetic) beauty around yo
 > “Look for the good in every person and every situation. You’ll almost always find it.” — Brian Tracy
 
 > “The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.” — Henry Miller
+
+處處留心皆學問，落花水面皆文章。
 
 ---
 
