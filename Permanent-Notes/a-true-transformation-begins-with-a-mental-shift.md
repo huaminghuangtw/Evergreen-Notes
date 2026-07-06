@@ -1,6 +1,6 @@
 ---
 title: A true transformation begins with a mental shift
-modified: 2026-07-03
+modified: 2026-07-06
 tags: []
 ---
 
@@ -180,8 +180,10 @@ Go laugh in the places you have cried—[change the narrative.](be-careful-how-y
 		* I am sad. → There is sadness on me.
 		* I am anxious. → There is anxiety on me.
 * “How hard it is? (這有多難？)” → “How hard can it be? (這能有多難？)”
-* “以後不知道該怎麼辦…” → 不知道以後會怎樣耶!
+* “以後不知道該怎麼辦…” → 不知道以後會怎樣耶！
+* “I need to do XYZ so I don’t feel bad.” → “Doing XYZ is important to me because it makes me feel fulfilled.”
 * “[I am afraid to fail.](fear-of-failure-and-success.md)” → “I am excited to try.”
+* “Why is this happening to me?” → “What is this trying to teach me?”
 * “Life happens to me.” → “I have agency. I can influence my outcomes.”
 	* Reactive Living → [Proactive Living](intentional-living.md)
 	* This is the essence of habit one in Stephen R. Covey’s renowned book [@covey7HabitsHighly2013]: **Be Proactive.** Everything starts there.
