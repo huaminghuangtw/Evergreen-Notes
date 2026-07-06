@@ -1,6 +1,6 @@
 ---
 title: Productivity
-modified: 2026-07-04
+modified: 2026-07-06
 tags: []
 ---
 
@@ -39,6 +39,8 @@ Productivity
 Fill your day with hope and face it with joy. Do bold things with a pleasant and friendly demeanor. Enjoyment is time & energy efficiency. When you’re enjoying yourself, productivity takes care of itself. When work feels like play, the world becomes your playground. 😊
 
 ---
+
+# The Trap of “Fake Productivity”
 
 ❗Toxic Productivity / Productivity Porn [^4]❗
 
