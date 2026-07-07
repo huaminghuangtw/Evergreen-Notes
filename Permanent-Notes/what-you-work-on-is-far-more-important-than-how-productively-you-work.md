@@ -1,6 +1,6 @@
 ---
 title: What you work on is far more important than how productively you work
-modified: 2026-07-06
+modified: 2026-07-07
 tags: []
 ---
 
@@ -77,7 +77,7 @@ If [velocity/direction is more important than speed](https://nesslabs.com/vector
 
 * **Regular reflection.** Carving out time to [step back](when-in-doubt-zoom-out.md) — weekly reviews, quarterly check-ins — to reassess whether you are still pointed in the right direction.
 * **Comfort with saying no.** Every yes to something unimportant is a no to something that matters.
-* **Bias toward leverage.** Look for work where your effort produces <mark>[disproportionate/asymmetric/non-linear return/impact](https://www.sahilbloom.com/newsletter/the-most-powerful-asymmetries-in-life)</mark> [^4]. Not all hours are created equal; a single well-placed decision can be worth months of execution.
+* **Bias toward leverage.** Look for work where your effort produces <mark>[disproportionate/asymmetric/exponential/non-linear return/impact](https://www.sahilbloom.com/newsletter/the-most-powerful-asymmetries-in-life)</mark> [^4]. Not all hours are created equal; a single well-placed decision can be worth months of execution.
 
 ---
 
