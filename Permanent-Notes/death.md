@@ -1,6 +1,6 @@
 ---
 title: Death
-modified: 2026-06-30
+modified: 2026-07-07
 tags: []
 ---
 
@@ -108,6 +108,8 @@ Memento Homo is a Latin phrase that translates to “remember that you are just 
 ---
 
 # [Bronnie Ware’s “Top Five Regrets of the Dying”](https://bronnieware.com/blog/regrets-of-the-dying/)
+
+> “Dead people receive more flowers than the living ones because regret is stronger than gratitude.” — Anne Frank
 
 <https://youtu.be/tAcQfn96yFk>
 
