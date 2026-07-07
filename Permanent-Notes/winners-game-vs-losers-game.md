@@ -1,6 +1,6 @@
 ---
 title: Winner’s Game vs Loser’s Game
-modified: 2026-06-17
+modified: 2026-07-07
 tags:
   - framework
 ---
@@ -71,7 +71,7 @@ Mediocre but consistent performance sustained over an above-average timeframe in
 
 Consistently achieving “average” results for an above-average duration (such as buying index funds every month for 40 years) will place you in the top 1% of performers.
 
-See also: [The Lindy Effect](the-lindy-effect.md)
+[The Lindy Effect](the-lindy-effect.md)
 
 ---
 
