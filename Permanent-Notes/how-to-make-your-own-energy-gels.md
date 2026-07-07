@@ -1,6 +1,6 @@
 ---
 title: How to Make Your Own Energy Gels
-modified: 2026-06-23
+modified: 2026-07-07
 tags: []
 ---
 
@@ -13,8 +13,11 @@ Maltodextrin : Fructose ≈ 1:1
 
 > 「麥芽糊精」與「果糖」搭配使用，可利用到不同的腸道運輸通道（SGLT1 vs GLUT5），進一步提升碳水化合物氧化速率（可達 ~90 g/hr）
 
-* If you want to make a gel like [Maurten 100](https://www.maurten.com/products/gel-100-box-us), use a ratio of 60% carbs + 40% water.
-* If you desire a hydrogel (水凝膠)-type drink like [Maurten 320](https://www.maurten.com/products/drink-mix-320-box-us), mix 80g of carbs (e.g., 40g Maltodextrin + 40g Fructose) with 500ml of water.
+* 果膠（較稠）：If you want to make a gel like [Maurten 100](https://www.maurten.com/products/gel-100-box-us), use a ratio of 60% carbs + 40% water.
+* 運動飲料（較稀）：If you desire a hydrogel (水凝膠)-type drink like [Maurten 320](https://www.maurten.com/products/drink-mix-320-box-us), mix 80g of carbs (e.g., 40g Maltodextrin + 40g Fructose) with 500ml of water.
+	* 奇亞籽
+	* 話梅或無籽梅肉
+	* 檸檬
 
 # Ingredients
 
