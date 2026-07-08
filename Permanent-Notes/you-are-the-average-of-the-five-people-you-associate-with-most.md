@@ -1,6 +1,6 @@
 ---
 title: You are the average of the five people you associate with most
-modified: 2026-06-29
+modified: 2026-07-08
 tags: []
 ---
 
@@ -65,6 +65,14 @@ Three types of people in your life (by Tyler Perry):
 * **Leaves**: These are the people that are only around from time to time (every now and then) when the weather is good. They blow around as the winds change. They provide shade during the summer, but as soon as winter comes, they fall off the tree and disappear.
 * **Branches**: These are the people who are more present and stable than the leaves, but they aren’t permanent. They look strong, but if you try to stand on them or pull yourself up from them, they may break under your weight.
 * **Roots**: These are the people who are permanent. They are deep and wide. They are there in the summer and the winter, they are unperturbed by the changing seasons. The leaves and branches may come and go, but the roots are there forever.
+
+---
+
+Never forget 3 types of people in your life:
+
+1. Who helped you in difficult times.
+2. Who left you in difficult times.
+3. Who put you in difficult times.
 
 ---
 
