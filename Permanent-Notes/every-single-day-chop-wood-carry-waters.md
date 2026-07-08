@@ -1,6 +1,6 @@
 ---
 title: Every single day, chop wood, carry waters
-modified: 2026-07-02
+modified: 2026-07-07
 tags: []
 ---
 
@@ -27,12 +27,6 @@ tags: []
 > “Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.” — Robert Greene
 
 > “Be not afraid of growing slowly; be afraid only of standing still.” — Chinese Proverb [^3]
-
----
-
-| ![](_attachments/7250564ec2d06c4dedc8ef32672fbc90.jpg) |
-| :-: |
-| <sub>Source: _The Psychology of Money_ by Morgan Housel</sub> |
 
 ---
 
