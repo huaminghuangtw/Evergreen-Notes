@@ -1,6 +1,6 @@
 ---
 title: Mastering yourself is superpower
-modified: 2026-07-06
+modified: 2026-07-08
 tags: []
 ---
 
@@ -34,7 +34,7 @@ tags: []
 
 ---
 
-= 自我覺察 (Self-awareness) ≈ Self-examination ≈ 後設認知 (Metacognition) = (對自己) 認知的認知
+= 自我覺察 (Self-awareness) ≈ Self-examination ≈ 後設認知 (Metacognition) = (對自己) 認知的認知 = 思考自己的思考
 
 ---
 
