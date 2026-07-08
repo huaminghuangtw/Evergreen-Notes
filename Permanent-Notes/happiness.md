@@ -1,6 +1,6 @@
 ---
 title: Happiness
-modified: 2026-07-01
+modified: 2026-07-08
 tags: []
 ---
 
@@ -104,6 +104,13 @@ There are two ways to be happier:
 
 1. Change the situation.
 2. Change the way you look at it.
+
+---
+
+The secret to happiness is deceptively simple:
+
+1. **Always have something to look forward to**—no matter how small or mundane. A warm cup of tea, a message from a friend, a walk under the sky. It’s the _anticipation_ that keeps the soul gently leaning forward.
+2. 極差的記性＋極佳的幽默感
 
 ---
 
