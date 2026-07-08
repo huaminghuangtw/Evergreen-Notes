@@ -1,6 +1,6 @@
 ---
 title: Work in sprints, work with your biology
-modified: 2026-07-02
+modified: 2026-07-08
 tags: []
 ---
 
@@ -47,17 +47,12 @@ Why?
 
 Timing is everything. The right cue at the right time can shift your entire biological clock. **Choose [the right task](two-types-of-work.md) at the right time / Put your time in the right places.**
 
-|          ![](_attachments/b592b3f9521574f1f4c2c0cb803edf84.png)          |
-| :-------------------------------------------------------------------------: |
-| <sub>[Source](https://barbaraoakley.com/books/learning-how-to-learn)</sub> |
-|                                                                             |
-
 # Match energy level with tasks
 
-* Phase 1 (0–8 hours after waking up) - **Focused Mode**
+* Phase 1 (0–8 hours after waking up)
 	* optimal for analytic “hard” thinking and [any work that you find particularly challenging](eat-the-biggest-frog-first-thing-in-the-morning.md)
 	* 戰鬥時間 → 登峰造極時刻 ([Deep Work](deep-work.md))
-* Phase 2 (9–16 hours after waking up) - **Diffused Mode**
+* Phase 2 (9–16 hours after waking up)
 	* optimal for brainstorming and creative work
 	* 戰略時間
 
