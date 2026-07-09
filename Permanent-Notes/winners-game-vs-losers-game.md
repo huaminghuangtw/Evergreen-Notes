@@ -1,6 +1,6 @@
 ---
 title: Winner’s Game vs Loser’s Game
-modified: 2026-07-07
+modified: 2026-07-08
 tags:
   - framework
 ---
@@ -49,19 +49,11 @@ Every endeavor in life is either a Winner’s Game (where outcomes are determine
 
 # [Self-awareness](mastering-yourself-is-superpower.md) is key
 
-## 1
-
 [Alex Caruso](https://www.reddit.com/r/nba/comments/jraeyj/caruso_a_big_reason_guys_get_stuck_in_the_gleague/) entered the NBA’s development league after going undrafted in 2016. A few years later, he was a key player leading the Los Angeles Lakers to an NBA championship.
 
 When asked about how he rose from undrafted nobody to this level of stardom, he said that [self-awareness](mastering-yourself-is-superpower.md) was the key:
 
-> “[A big reason guys get stuck in the League is because they don’t realize the position they’re trying out for. <mark>It’s like going to a job interview thinking you’re going to be the CFO of the company and they’re looking for someone to clean the bathrooms.</mark> […] It’s a self-awareness of understanding what you’re good at, what teams need, and trying to do that.](https://youtu.be/rulLByF38TE)”
-
-## 2
-
-[NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit](https://youtu.be/cEg8cOx7UZk):
-
-> [One of my great advantages is that I have very low expectations, and I mean that. <mark>Most Stanford graduates have very high expectations, and you deserve high expectations because you come from a great school, you were very successful, you are on top of you class. Obviously, you were able to pay for tuition, and you’re graduating from one of the finest institutions on the planet. You are surrounded by other kids that are just incredible. You naturally have very high expectations. [However,] people with very high expectations have very low resilience. And unfortunately, resilience matters in success.</mark> I don’t know how to teach it to you, except [to say], “I hope suffering happens to you.” I was fortunate that I grew up with parents who provided conditions for us to be successful on the one hand, but there were [also] plenty of opportunities for setbacks and suffering. To this day, I use the phrase “pain and suffering” inside our company with great glee, and I mean that [in a happy way], because you want to train and refine the character of your company. You want greatness out of them, and greatness is not intelligence as you know; <mark>greatness comes from character, and character isn’t formed out of smart people, it’s formed out of people who suffered.</mark> So, if I could wish upon you—I don’t know how to do it—but for all of you Stanford students, I wish upon you ample doses of pain and suffering.](https://youtu.be/cEg8cOx7UZk?t=36m10s)
+> [A big reason guys get stuck in the League is because they don’t realize the position they’re trying out for. <mark>It’s like going to a job interview thinking you’re going to be the CFO of the company and they’re looking for someone to clean the bathrooms.</mark> […] It’s a self-awareness of understanding what you’re good at, what teams need, and trying to do that.](https://youtu.be/rulLByF38TE)
 
 ---
 
