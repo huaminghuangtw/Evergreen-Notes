@@ -1,6 +1,6 @@
 ---
 title: Stress & Anxiety
-modified: 2026-06-10
+modified: 2026-07-08
 tags: []
 ---
 
@@ -124,7 +124,7 @@ The answers you seek are found in the simple actions you avoid.
 
 ---
 
-Often, stress and anxiety come from the lack of a plan to bridge the gap between your **present reality** and **future expectations**, and are directly proportional to the amount of time you spend in the past or future.
+Often, stress and anxiety come from the lack of a plan to bridge [the gap between your **present reality** and **future expectations**](manage-the-gap-between-expectations-and-reality.md), and are directly proportional to the amount of time you spend in the past or future.
 
 * Solution: Create a plan that will guide your daily actions to close the gap.
 * Once you have a plan, stress and anxiety melt away, because it just becomes a “game” of executing on a daily set of actions, which is entirely within your control.
