@@ -79,7 +79,7 @@ Happiness
 
 = [Agency](cultivate-a-strong-bias-towards-action.md) + [Gratitude](be-grateful.md) [^2]
 
-= [Reality - Expectations](the-absence-of-desire-is-true-happiness.md) [^3]
+= [Reality - Expectations](manage-the-gap-between-expectations-and-reality.md)
 
 = Do what you love + Live where you like + Be with who you love
 
@@ -200,5 +200,5 @@ Simple story on “Happiness is found through service of others.”
 
 [^1]: Real happiness only comes as a side-effect of peace. Most of it is going to come from **[acceptance](self-compassion.md)**, not from changing your external environment.
 [^2]: [Dr. Paul Conti presented that the most salient 2 variables associated with mental health are **agency** and **gratitude**.](https://youtu.be/tLRCS48Ens4?t=11m15s)
-[^3]: Satisfaction = What you have - What you want. [Lowering desires/expectations](the-absence-of-desire-is-true-happiness.md) can increase satisfaction.
+[^3]: 
 [^4]: [How to Instantly Feel Better?](https://sketchplanations.com/how-to-instantly-feel-better)
