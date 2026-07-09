@@ -1,6 +1,6 @@
 ---
 title: Money
-modified: 2026-07-02
+modified: 2026-07-09
 tags: []
 ---
 
@@ -65,8 +65,8 @@ Reasonable Rational
 			* Expectation is the greatest liability. You will never be rich (financially wealthy) if your expectations are growing faster than your asset because you are constantly wanting more.
 			* If your expectations grow faster than your income, you’ll never be satisfied with your money, no matter how much you accumulate.
 			* You manage financial expectations by keeping your lifestyle way below your means.
-			* Your [​Margin of Freedom​](https://www.sahilbloom.com/newsletter/the-trap-of-success-how-to-escape-it) is the buffer you intentionally create between your reality and your expectations.
-			* The value of all money is relative to [expectations](the-absence-of-desire-is-true-happiness.md). Reducing your needs has the same impact as increasing your income—_but the former is more certain and in your control than the latter, so it has a higher expected value_.
+			* Your [​Margin of Freedom​](https://www.sahilbloom.com/newsletter/the-trap-of-success-how-to-escape-it) is the buffer you intentionally create [between your reality and your expectations](manage-the-gap-between-expectations-and-reality.md).
+			* The value of all money is relative to expectations. Reducing your needs has the same impact as increasing your income—_but the former is more certain and in your control than the latter [^5], so it has a higher expected value_.
 			* The less you need, the richer you become—wealth is about flexibility, not luxury.
 			* Being rich is having things. Being wealthy is knowing you don’t need them.
 
@@ -89,7 +89,7 @@ Reasonable Rational
 	* 所以，在人生中，你應該追求「財富」，而不是追求「金錢」。
 * Never allow self-worth to be dictated by net worth.
 	* 為了「幸福感」賺錢，不要為了「饋乏感」賺錢。
-* Use money to make more money for you. [^5]
+* Use money to make more money for you. [^6]
 
 	> “Rich men use most of their money to get richer. Poor men use most of their money to look richer.” — Mokokoma Mokhonoana
 
@@ -102,7 +102,7 @@ Reasonable Rational
 
 	> “The reason you’re not making $10m a year is that you don’t know HOW to make $10m a year. Therefore, that lack of knowledge is costing you $10m a year.” — Alex Hormozi
 
-* The only way to make a lot of money is to create a lot of value. To do something people want. No value means no money. Money is a lagging indicator of value created, impact, and service. Don’t chase the dollars. Create the value and the money will chase you. [^6]
+* The only way to make a lot of money is to create a lot of value. To do something people want. No value means no money. Money is a lagging indicator of value created, impact, and service. Don’t chase the dollars. Create the value and the money will chase you. [^7]
 * MONEY and TIME is a balancing act. Stop trading/renting time for money, so money can create more time for you.
 
 	> “Money is something you trade your life energy for. You sell your time for money. It doesn’t matter that Ned over there sells his time for a hundred dollars and you sell yours for twenty dollars an hour. Ned’s money is irrelevant to you. The only real asset you have is your time. The hours of your life.” — Vicki Robin, [Your Money or Your Life](https://www.goodreads.com/work/quotes/1509321)
@@ -174,7 +174,7 @@ Reasonable Rational
 
 * The best uses of money are those that create one of four things in your life: **Time**, **Experiences**, **Purpose**, or **Health**.
 
-	> [“I try to keep in mind that there are two ways to use money. One is as a tool to live a better life. The other is as a yardstick of success to measure yourself against other people. The first is quiet and personal, the second is loud and performative. It’s so obvious which leads to a happier life.” — Morgen Housel](https://collabfund.com/blog/quiet-compounding/) [^7]
+	> [“I try to keep in mind that there are two ways to use money. One is as a tool to live a better life. The other is as a yardstick of success to measure yourself against other people. The first is quiet and personal, the second is loud and performative. It’s so obvious which leads to a happier life.” — Morgen Housel](https://collabfund.com/blog/quiet-compounding/) [^8]
 
 	* Don’t buy “dumb things” that offer “temporary happiness.” Spend smart on the things that bring you true, long-lasting happiness.
 	* Do not attempt to achieve status, respect, or admiration through material purchases.
@@ -189,18 +189,18 @@ Reasonable Rational
 	* Luxury = Necessity that begins where necessity ends
 * Spending any amount of money to “save money.”
 	* Look at the ROI of your expenses, not the price tag.
-	* Buying quality is key. If you buy quality the first time, it can last a lifetime. [^8]
+	* Buying quality is key. If you buy quality the first time, it can last a lifetime. [^9]
 
 		> 如果一個東西值得，就不需一直想著能不能再便宜一點。
 
-	* Frugal doesn’t mean cheap. Cheap is saving money in short term, while frugal is making wise choices to save in the long run. [^9]
+	* Frugal doesn’t mean cheap. Cheap is saving money in short term, while frugal is making wise choices to save in the long run. [^10]
 
 		> 花小錢省大錢。
 
 	* Often, the more expensive item (“Buy It For Life” ) is more frugal than the cheaper item (“Buy Once, Cry Once”).
 * [The more money you have, the harder it becomes to know how to spend it in a way that will make you happy. And that confusion sets in at fairly low levels of income.](https://collabfund.com/blog/a-few-thoughts-on-spending-money/)
 
-	> The concept of the [Doughnut](https://www.google.com/search?q=Doughnut), as introduced by economist Kate Raworth, illustrates a balance between meeting essential human needs (_the social foundation_) and staying within planetary limits (_the ecological ceiling_). When applied to personal wealth and happiness, the Doughnut highlights a crucial insight: beyond a certain level of income—where basic needs are comfortably met—people enter a more ambiguous space of desire, where _knowing what to want_ becomes far less straightforward than _knowing what to need_. As Luke Burgis points out [^10], once survival is secured, people shift from necessity-driven decisions to socially influenced desires, often struggling to determine what will truly bring fulfillment.
+	> The concept of the [Doughnut](https://www.google.com/search?q=Doughnut), as introduced by economist Kate Raworth, illustrates a balance between meeting essential human needs (_the social foundation_) and staying within planetary limits (_the ecological ceiling_). When applied to personal wealth and happiness, the Doughnut highlights a crucial insight: beyond a certain level of income—where basic needs are comfortably met—people enter a more ambiguous space of desire, where _knowing what to want_ becomes far less straightforward than _knowing what to need_. As Luke Burgis points out [^11], once survival is secured, people shift from necessity-driven decisions to socially influenced desires, often struggling to determine what will truly bring fulfillment.
 
 * **Eliminate Before Accumulate**: Use [The “One in, One Out” Rule](the-one-in-one-out-rule.md) when buy things
 * 3 Levels
@@ -223,9 +223,10 @@ Reasonable Rational
 [^2]: _“Being poor, for example, reduces a person’s cognitive capacity more than going one full night without sleep. It is not that the poor have less bandwidth as individuals. Rather, it is that the experience of poverty reduces anyone’s bandwidth.” — [@mullainathanScarcityWhyHaving2013]_
 [^3]: _[“In 58 years of Berkshire management, most of my capital-allocation decisions have been no better than so-so. [...] Our results have been the product of about a dozen truly good decisions.” — Warren Buffett](https://www.inc.com/bill-murphy-jr/warren-buffett-says-success-in-life-comes-down-to-just-12-really-good-decisions-heres-your-checklist.html)_
 [^4]: _[“When you see someone driving a nice car, you rarely think, “Wow, the guy driving that car is cool.” Instead, you think, “Wow, if I had that car people would think I’m cool.” Subconscious or not, this is how people think.”](https://www.goodreads.com/quotes/11049281-when-you-see-someone-driving-a-nice-car-you-rarely)_
-[^5]: In contrast, borrowing money creates [debt’s vicious cycle](https://sketchplanations.com/debts-vicious-cycle), leading to financial strain and growing interest payments that can be difficult to escape.
-[^6]: [No one hands out money. No one is going to pay you just because they like you or think you’re cool. That’s not the way the world works. **Money earned is a direct byproduct of value created—and that value is a direct byproduct of your service of others.** It’s not talking about the thing, it’s not brainstorming about the thing, it’s not asking about the thing, it’s not thinking about the thing. The only way to create value is by doing the thing. Identify a problem, create a solution, scale the solution. Simple, not easy.](https://x.com/SahilBloom/status/1878069357760156057)
-[^7]: 錢是手段，不是目的。
-[^8]: 品質是最好的折扣 — 買一次，用一生。
-[^9]: 貪便宜買一堆，不如一次買對。
-[^10]: _[“After meeting our basic needs as creatures, we enter into the human universe of desire. And knowing what to want is much harder than knowing what to need.”](https://www.amazon.com/Wanting-Power-Mimetic-Desire-Everyday/dp/1250262488)_
+[^5]: 操之在己
+[^6]: In contrast, borrowing money creates [debt’s vicious cycle](https://sketchplanations.com/debts-vicious-cycle), leading to financial strain and growing interest payments that can be difficult to escape.
+[^7]: [No one hands out money. No one is going to pay you just because they like you or think you’re cool. That’s not the way the world works. **Money earned is a direct byproduct of value created—and that value is a direct byproduct of your service of others.** It’s not talking about the thing, it’s not brainstorming about the thing, it’s not asking about the thing, it’s not thinking about the thing. The only way to create value is by doing the thing. Identify a problem, create a solution, scale the solution. Simple, not easy.](https://x.com/SahilBloom/status/1878069357760156057)
+[^8]: 錢是手段，不是目的。
+[^9]: 品質是最好的折扣 — 買一次，用一生。
+[^10]: 貪便宜買一堆，不如一次買對。
+[^11]: _[“After meeting our basic needs as creatures, we enter into the human universe of desire. And knowing what to want is much harder than knowing what to need.”](https://www.amazon.com/Wanting-Power-Mimetic-Desire-Everyday/dp/1250262488)_
