@@ -236,3 +236,8 @@ How incredibly sweet it tasted.
 ---
 
 CBT-I（Cognitive Behavioral Therapy for Insomnia） 也就是失眠認知行為治療，是目前公認最有效的非藥物失眠療法。
+
+
+---
+
+飛機起飛前的安全宣導都會說
