@@ -1,6 +1,6 @@
 ---
 title: Fame
-modified: 2026-06-10
+modified: 2026-07-08
 tags: []
 ---
 
@@ -62,8 +62,8 @@ Less eyes on you = more freedom
 
 ---
 
-# Psychology
-
-* _Becoming_ famous is the most amazing feeling in the world.
+* _Becoming_ famous is amazing.
 * _Being_ famous is a [mixed bag](https://www.google.com/search?q=mixed+bag).
-* _Losing_ fame is a pain like you’ve never felt before.
+* _Losing_ fame is miserable.
+
+[Manage the gap between expectations and reality](manage-the-gap-between-expectations-and-reality.md)
