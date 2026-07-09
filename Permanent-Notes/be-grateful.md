@@ -1,6 +1,6 @@
 ---
 title: Be Grateful
-modified: 2026-07-06
+modified: 2026-07-08
 tags: []
 ---
 
@@ -26,6 +26,8 @@ tags: []
 > “Once we’re above the survival level, the difference between prosperity and poverty lies simply in our degree of gratitude.” — Vicki Robin, [Your Money or Your Life](https://www.goodreads.com/work/quotes/1509321)
 
 > “It is not joy that makes us grateful; it is gratitude that makes us joyful.” — David Steindl-Rast
+
+> “Most human beings have an almost infinite capacity for taking things for granted.” — Aldous Huxley
 
 ---
 
