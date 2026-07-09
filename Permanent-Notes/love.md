@@ -1,6 +1,6 @@
 ---
 title: Love
-modified: 2026-07-01
+modified: 2026-07-08
 tags: []
 ---
 
@@ -243,7 +243,7 @@ Fall deeply. Fail fast. Burn beautifully.
 # Key Elements For A Successful Marriage
 
 1. Unconditional love
-	* Marriage only works when both panties are willing to serve the other without any expectation in return.
+	* <mark>Marriage only works when both are willing to serve the other while expecting nothing in return.</mark>
 2. Mutual understanding
 
 	> “Understanding is love’s other name.” — Thích Nhất Hạnh
