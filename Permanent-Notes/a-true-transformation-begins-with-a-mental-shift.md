@@ -1,6 +1,6 @@
 ---
 title: A true transformation begins with a mental shift
-modified: 2026-07-06
+modified: 2026-07-10
 tags: []
 ---
 
@@ -57,8 +57,6 @@ tags: []
 > [“Beliefs are choices. First you choose your beliefs. Then your beliefs affect your choices.” — Roy T. Bennett](https://www.goodreads.com/quotes/7718116-beliefs-are-choices-first-you-choose-your-beliefs-then-your)
 
 > “By itself, conscious positive thinking cannot overcome subconscious negative feelings.” — Joe Dispenza, [Breaking the Habit of Being Yourself: How to Lose Your Mind and Create a New One](https://www.goodreads.com/work/quotes/18108532)
-
-> “All that we are is the result of what we have thought. The mind is everything. What we think, we become.” — Dhammapada
 
 > “We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.” — Gabor Mate
 
