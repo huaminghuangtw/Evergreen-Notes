@@ -1,6 +1,6 @@
 ---
 title: Speak less, listen more
-modified: 2026-06-21
+modified: 2026-07-10
 tags: []
 ---
 
@@ -36,7 +36,7 @@ Always speak less than necessary. [@greene48LawsPower2000]
 
 > “I have noticed that nothing I never said ever did me any harm.” — Calvin Coolidge
 
-* When you are trying to impress people with words, the more you say, the more common you appear, and the less in control. Even if you are saying something banal, it will seem original if you make it vague, open-ended, and sphinx-like. Powerful people impress and intimidate by saying less. The more you say, the more likely you are to say something foolish.
+* When you are trying to impress people with words, the more you say, the more common you appear, and the less in control. Even if you are saying something banal, it will seem original if you make it vague, open-ended, and sphinx-like. Powerful people impress and intimidate by saying less. **The more you say, the more likely you are to say something foolish.** [^1]
 * The move _[Friday Night Lights](https://youtu.be/8CZ-ICxcEYg)_ has a famous scene where a notoriously quiet player gives a riveting speech that turns around a game. He rarely spoke up, so when he did, it hit. Hard. If you want to be heard, talk less. You’ll find more power in your words.
 
 ---
@@ -85,3 +85,5 @@ Speak confidently. [Listen](active-listening.md) carefully.
 ---
 
 [In any conversations, don’t fill the awkward silence. Have faith in your (good) questions. Just wait and listen.](https://sketchplanations.com/dont-fill-the-silence)
+
+[^1]: 言多必失
