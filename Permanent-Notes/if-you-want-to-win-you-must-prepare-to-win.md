@@ -1,6 +1,6 @@
 ---
 title: If you want to win, you must prepare to win
-modified: 2026-07-05
+modified: 2026-07-10
 tags: []
 ---
 
@@ -19,16 +19,6 @@ _[How Bad Do You Want It? “When you want to succeed as badly as you want to br
 You can literally change your life _any day_— you can wake up and decide that you want something different. You can reinvent yourself as many times as you need. New habits. New standards. New people. New career. You’re never stuck. You’re allowed to change. Today, tomorrow, and as many times as it takes to build the life you want.
 
 [Change requires destruction](change-requires-destruction.md)
-
----
-
-# 有志者事竟成
-
-> Where there’s a will, there’s a way.
-
-> “What the mind can conceive, it can achieve.” — Napoleon Hill
-
-> “If you can dream it, you can do it.” — Walt Disney
 
 ---
 
