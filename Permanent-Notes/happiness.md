@@ -1,6 +1,6 @@
 ---
 title: Happiness
-modified: 2026-07-08
+modified: 2026-07-09
 tags: []
 ---
 
@@ -144,7 +144,7 @@ The ability to think about what is not happening in a moment is a cognitive achi
 
 ---
 
-# 要有隨時可以獲得快樂的能力 [^4]
+# 要有隨時可以獲得快樂的能力 [^3]
 
 [@brysonAreYouHappy2017]
 
@@ -200,5 +200,4 @@ Simple story on “Happiness is found through service of others.”
 
 [^1]: Real happiness only comes as a side-effect of peace. Most of it is going to come from **[acceptance](self-compassion.md)**, not from changing your external environment.
 [^2]: [Dr. Paul Conti presented that the most salient 2 variables associated with mental health are **agency** and **gratitude**.](https://youtu.be/tLRCS48Ens4?t=11m15s)
-[^3]: 
-[^4]: [How to Instantly Feel Better?](https://sketchplanations.com/how-to-instantly-feel-better)
+[^3]: [How to Instantly Feel Better?](https://sketchplanations.com/how-to-instantly-feel-better)
