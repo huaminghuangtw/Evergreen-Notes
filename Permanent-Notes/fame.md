@@ -1,6 +1,6 @@
 ---
 title: Fame
-modified: 2026-07-08
+modified: 2026-07-11
 tags: []
 ---
 
@@ -63,7 +63,9 @@ Less eyes on you = more freedom
 ---
 
 * _Becoming_ famous is amazing.
-* _Being_ famous is a [mixed bag](https://www.google.com/search?q=mixed+bag).
+* _Being_ famous is a [mixed bag](https://www.google.com/search?q=mixed+bag) [^1].
 * _Losing_ fame is miserable.
 
 [Manage the gap between expectations and reality](manage-the-gap-between-expectations-and-reality.md)
+
+[^1]: 形容某種人事物或經歷中，同時包含了好與壞、優與劣，或不同種類的元素。
