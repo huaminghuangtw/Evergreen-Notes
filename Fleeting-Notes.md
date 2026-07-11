@@ -1,5 +1,5 @@
 ---
-modified: 2026-07-08
+modified: 2026-07-11
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -80,8 +80,6 @@ And after five minutes, you’re handed a beautiful, bitter, piping hot cup of e
 [The power of streaks](https://sketchplanations.com/the-power-of-streaks)
 
 ---
-
-“Mixed bag” 的中文常翻譯為「大雜燴」、「好壞參半」、「各式各樣的混合體」或「魚龍混雜」。這是一個慣用語，用來形容某種事物、人或經歷中，同時包含了好與壞、優與劣，或完全不同種類的元素。
 
 YMMV 是「Your Mileage May Vary」的縮寫，字面意思是「你的行駛里程可能會有所不同」，常用於網路用語，意指「見仁見智」、「因人而異」或「個人的經驗/結果可能與我不同」。它被當作一種免責聲明，表達分享的觀點僅供參考。
 
@@ -236,7 +234,6 @@ How incredibly sweet it tasted.
 ---
 
 CBT-I（Cognitive Behavioral Therapy for Insomnia） 也就是失眠認知行為治療，是目前公認最有效的非藥物失眠療法。
-
 
 ---
 
