@@ -1,6 +1,6 @@
 ---
 title: Failing forward turns setbacks into stepping stones
-modified: 2026-06-23
+modified: 2026-07-11
 tags: []
 ---
 
@@ -53,6 +53,7 @@ If you want to _win_, you have to _lose_ first. All _success_ begins with _failu
 * Failure is not the opposite of success, it’s part of success. Failure is success in progress.
 * Success comes from turning _setbacks_ into _comebacks_.
 * 失敗是成功的近義詞。成功的反義詞不是失敗，而是 [平庸](the-fight-against-normalcy.md)。
+* 如果一直為失敗找理由，等於是不給自己機會成功。
 
 [Always keep going! 🚂](always-keep-going.md)
 
