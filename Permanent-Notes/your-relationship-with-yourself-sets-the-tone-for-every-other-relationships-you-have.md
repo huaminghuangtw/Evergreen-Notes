@@ -1,6 +1,6 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
-modified: 2026-06-29
+modified: 2026-07-12
 tags: []
 ---
 
@@ -110,7 +110,10 @@ Loving yourself well has a ripple effect beyond the personal. When you are groun
 
 # Analogy
 
-* Put on your oxygen mask first. (你得先為自己戴上氧氣罩，才能開始救人。)
+* Put on your oxygen mask first.
+
+	> 飛機起飛前的安全宣導都會說：先為自己戴上氧氣罩，再幫別人戴。
+
 * A starving chef can’t feed anyone.
 * You can’t pour from an empty cup.
 
