@@ -1,6 +1,6 @@
 ---
 title: Why we exist?
-modified: 2026-07-04
+modified: 2026-07-12
 tags:
   - 人蔘
 ---
@@ -138,7 +138,7 @@ A mission gives direction without demanding arrival. You can orient your life to
 
 ---
 
-The most extraordinary people in the world today don’t have a career. They have a mission. They are terrible [procrastinators](procrastination.md) and find it almost impossible to make themselves do anything they’re not genuinely interested in.
+The most extraordinary people in the world today don’t have a _career_. They have a _mission_ [^1]. They are terrible [procrastinators](procrastination.md) and find it almost impossible to make themselves do anything they’re not genuinely interested in.
 
 ---
 
@@ -148,7 +148,7 @@ Not to find the meaning of life, but to use your life to create things that are 
 
 > “Meaning is not something you stumble across, like the answer to a riddle or the prize in a treasure hunt. Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you, out of your own talent and understanding, out of the things you believe in, out of the things and people you love, out of the values for which you are willing to sacrifice something. The ingredients are there. You are the only one who can put them together into that unique pattern that will be your life. Let it be a life that has dignity and meaning for you. If it does, then the particular balance of success or failure is of less account.” — John W. Gardner, [Personal Renewal](https://www.pbs.org/johngardner/sections/writings_speech_1.html)
 
-Fulfillment is found through connection to something greater than the self. Find something much bigger and more important than you are, and dedicate your life to it. [^1]
+Fulfillment is found through connection to something greater than the self. Find something much bigger and more important than you are, and dedicate your life to it. [^2]
 
 > “The best way to overcome the fear of death — so at least it seems to me — is to make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life.” — Bertrand Russell
 
@@ -234,4 +234,5 @@ The great use of life is to spend it for something that outlasts it. To be remem
 
 [Everyone is on their own timeline](everyone-is-on-their-own-timeline.md)
 
-[^1]: _[“God, kids, or mission, pick at least one. Preferably all three. It’s very liberating.” — Naval Ravikant](https://youtu.be/KyfUysrNaco?t=4473s)_
+[^1]: = 志業 Calling
+[^2]: _[“God, kids, or mission, pick at least one. Preferably all three. It’s very liberating.” — Naval Ravikant](https://youtu.be/KyfUysrNaco?t=4473s)_
