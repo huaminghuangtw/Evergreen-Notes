@@ -1,6 +1,6 @@
 ---
 title: Be a habit and routine machine
-modified: 2026-07-01
+modified: 2026-07-12
 tags: []
 ---
 
@@ -121,6 +121,8 @@ More often than not (= usually)
 **Philosophy: Everyday is easier than someday.**
 
 > “If you have good habits, time becomes your ally. All you need is patience.” — James Clear
+
+> “Success is not about having one good day, it’s about having good habits every day.” — James Clear
 
 Why is it so important to form good habits? They allow you to offload cognitive resources, enabling routine operations to run automatically in the background (背景處理) while you focus on other life demands.
 
