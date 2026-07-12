@@ -1,6 +1,6 @@
 ---
 title: Change yourself to change the world
-modified: 2026-07-06
+modified: 2026-07-12
 tags: []
 ---
 
@@ -12,6 +12,8 @@ tags: []
 >
 > 大家都想改變世界，卻沒有人想先從改變自己開始。
 > — 托爾斯泰
+
+> “You cannot change the circumstances, but you can change yourself. That is something you have charge of.” — Jim Rohn
 
 > “Nothing helps; I must help myself, or I am finished.” — Friedrich Nietzsche
 
