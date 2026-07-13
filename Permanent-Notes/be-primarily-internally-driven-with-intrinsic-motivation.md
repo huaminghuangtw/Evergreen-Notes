@@ -1,6 +1,6 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
-modified: 2026-06-20
+modified: 2026-07-13
 tags: []
 ---
 
@@ -9,6 +9,8 @@ tags: []
 > “The appetite for applause counts amongst the lowest of human character traits.” — Jan-Willem van der Rijt
 
 > “It is better to conquer yourself than to win a thousand battles. Then the victory is yours. It cannot be taken from you, not by angels or by demons, heaven or hell.” — Dhammapada
+
+> “In our culture we tend to equate thinking and intellectual powers with success and achievement. In many ways, however, it is an emotional quality that separates those who master a field from the many who simply work at a job. <mark>Our levels of desire, patience, persistence, and confidence end up playing a much larger role in success than sheer reasoning powers. Feeling motivated and energized, we can overcome almost anything.</mark> Feeling bored and restless, our minds shut off and we become increasingly passive.” — Robert Greene, [Mastery](https://www.goodreads.com/work/quotes/19176675)
 
 ---
 
