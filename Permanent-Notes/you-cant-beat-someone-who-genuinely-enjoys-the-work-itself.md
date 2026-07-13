@@ -1,6 +1,6 @@
 ---
 title: You can’t beat someone who genuinely enjoys the work itself
-modified: 2026-07-01
+modified: 2026-07-13
 tags: []
 ---
 
