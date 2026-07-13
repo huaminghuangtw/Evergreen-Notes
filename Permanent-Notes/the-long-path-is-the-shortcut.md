@@ -1,12 +1,12 @@
 ---
 title: The long path is the shortcut
-modified: 2026-07-03
+modified: 2026-07-13
 tags: []
 ---
 
 > “Sometimes taking time is actually a shortcut.” — Haruki Murakami, [What I Talk About When I Talk About Running](https://www.goodreads.com/work/quotes/2475030)
 
-The long path is the shortcut. [Compounding](the-compounding-effect.md) is life’s ultimate shortcut.
+The long path is the shortcut. The [hard](do-hard-things.md) way is always the right way. [Compounding](the-compounding-effect.md) is life’s ultimate shortcut.
 
 ---
 
