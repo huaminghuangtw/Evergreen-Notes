@@ -1,6 +1,6 @@
 ---
 title: Focus is about saying no
-modified: 2026-07-05
+modified: 2026-07-14
 tags: []
 ---
 
@@ -45,6 +45,10 @@ Focus is the art of knowing what to ignore.
 ---
 
 A focused fool can accomplish more than a distracted genius.
+
+---
+
+What you don’t do determines what you can do.
 
 ---
 
