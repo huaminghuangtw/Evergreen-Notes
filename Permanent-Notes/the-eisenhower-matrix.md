@@ -1,12 +1,14 @@
 ---
 title: The Eisenhower Matrix
-modified: 2026-06-10
+modified: 2026-07-14
 tags: []
 ---
 
 > “What is important is seldom urgent and what is urgent is seldom important.” — Dwight D. Eisenhower
 
 > “Plans are nothing; planning is everything.” — Dwight D. Eisenhower
+
+> “The distinction between what is urgent and what is important is the key to serenity.” — James Clear
 
 ---
 
