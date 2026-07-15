@@ -1,6 +1,6 @@
 ---
 title: Always do your best as possible
-modified: 2026-06-15
+modified: 2026-07-15
 tags: []
 ---
 
@@ -78,6 +78,10 @@ Second place is the first loser.
 # Plan-A Thinking
 
 Never settle/compromise for the second best. Having a back-up plan (Plan-B), or even considering one, has been shown to hinder performance and reduce motivation to hit your primary goal.
+
+---
+
+[If you’re doing your *best*, you’re doing *enough*.](https://www.sahilbloom.com/newsletter/the-question-that-haunts-high-achievers)
 
 ---
 
