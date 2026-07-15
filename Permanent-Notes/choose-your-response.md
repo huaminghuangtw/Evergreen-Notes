@@ -1,6 +1,6 @@
 ---
 title: Choose your response
-modified: 2026-06-23
+modified: 2026-07-15
 tags: []
 ---
 
@@ -87,7 +87,7 @@ The real skill in life _isn’t avoiding pain—it’s refusing to shoot yoursel
 
 ---
 
-[Two Wolves: Dark Wolf & Light Wolf](two-wolves-dark-wolf-and-light-wolf.md)
+[The Two Wolves](https://huam.ing/the-two-wolves)
 
 ---
 
