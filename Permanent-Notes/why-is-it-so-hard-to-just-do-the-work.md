@@ -1,8 +1,8 @@
 ---
 title: Why is it so hard to just do the work?
-modified: 2026-07-01
+modified: 2026-07-16
 tags:
-  - producivity
+  - productivity
 ---
 
 > “The work you do while you procrastinate is probably the work you should be doing for the rest of your life.” — Jessica Hische
