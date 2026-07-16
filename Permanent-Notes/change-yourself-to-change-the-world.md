@@ -1,6 +1,6 @@
 ---
 title: Change yourself to change the world
-modified: 2026-07-12
+modified: 2026-07-16
 tags: []
 ---
 
@@ -41,6 +41,10 @@ Before changing yourself, you need to [knowing yourself](mastering-yourself-is-s
 
 > 古之欲明明德於天下者，先治其國。欲治其國者，先齊其家。欲齊其家者，先修其身。欲修其身者，先正其心。
 > —《禮記 · 大學》
+
+---
+
+反求諸己
 
 ---
 
