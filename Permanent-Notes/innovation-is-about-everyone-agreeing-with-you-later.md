@@ -1,6 +1,6 @@
 ---
 title: Innovation is about everyone agreeing with you later
-modified: 2026-06-15
+modified: 2026-07-16
 tags: []
 ---
 
@@ -30,13 +30,13 @@ Innovation needs [failures](failing-forward-turns-setbacks-into-stepping-stones.
 
 ---
 
-[The Innovator’s DNA](https://hbr.org/2009/12/the-innovators-dna)
+[The Innovator’s DNA](https://huam.ing/the-innovators-dna)
 
-1. 質疑
-2. 觀察
-3. 實驗
-4. 建立人脈
-5. ⭐️ 聯想 - 探索互不相干的新事物
+1. 提問/質疑 (Questioning)
+2. 觀察 (Observing)
+3. 實驗 (Experimenting)
+4. 交流 (Networking)
+5. ⭐️ 聯想 (Associating) - 探索互不相干的新事物
 	1. [Pierre Omidyar](https://www.google.com/search?q=Pierre+Omidyar) - eBay
 		1. He failed to buy shares in a hot tech company’s IPO, fueling a desire to build **fairer, more efficient markets**
 		2. His fiancée wanted a hard-to-find mint tin candy box
