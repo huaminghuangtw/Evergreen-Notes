@@ -1,6 +1,6 @@
 ---
 title: Burnout
-modified: 2026-07-01
+modified: 2026-07-17
 tags: []
 ---
 
@@ -31,6 +31,7 @@ According to the [World Health Organization (WHO)](https://www.who.int/news/item
 
 * [A lot of “burnout” is just the result of prolonged exposure to environments you were never truly aligned with to start. Sometimes burnout is just a late-stage indicator or early-stage misalignment.](https://x.com/anuatluru/status/1773520190543626340)
 * Burnout often isn’t about how many hours you work—it’s about how the work makes you _feel_.
+* You feel tired, not because you’ve done too much, but because you’ve done too little of what sparks a light in you.
 
 ---
 
