@@ -1,6 +1,6 @@
 ---
 title: True education begins where school ends
-modified: 2026-07-12
+modified: 2026-07-17
 tags: []
 ---
 
@@ -94,7 +94,11 @@ The tragedy of the second type is that they are often unaware of their own limit
 
 > [“Knowledge is proud that it knows so much; wisdom is humble that it knows no more.” — William Cowper](https://www.brainyquote.com/authors/william-cowper-quotes)
 
+> “Wisdom cannot be imparted. Wisdom that a wise man attempts to impart always sounds like foolishness to someone else … Knowledge can be communicated, but not wisdom. One can find it, live it, do wonders through it, but one cannot communicate and teach it.” — Hermann Hesse, [Siddhartha](https://www.goodreads.com/work/quotes/4840290) [^4]
+
 Knowledge is learning something new every day. Wisdom is letting go of something every day.
+
+**智慧是知識的恰當運用**：培養「應對未知的智慧（Wisdom）」，而不只是「吸收現成的知識（Knowledge）」。
 
 ---
 
@@ -115,3 +119,4 @@ Knowledge is learning something new every day. Wisdom is letting go of something
 [^1]: _“The greater the ignorance, the greater the dogmatism.” — William Osler_
 [^2]: 知其不知，斯為知也。
 [^3]: 真知者，知其所不知也。
+[^4]: 智慧不可言傳：「道可道，非常道」
