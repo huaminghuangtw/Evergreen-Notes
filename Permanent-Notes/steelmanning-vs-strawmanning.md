@@ -1,6 +1,6 @@
 ---
 title: Steelmanning vs Strawmanning
-modified: 2026-06-10
+modified: 2026-07-17
 tags: []
 ---
 
@@ -64,6 +64,8 @@ Steelmanning is a tool for **good-faith** discourse. It assumes that your interl
 Not all conversations warrant this investment. _Part of [intellectual maturity](emotion-control.md) is knowing when a conversation is worth having and when it is not._ [^1]
 
 When someone is arguing in **bad faith** — trolling, sealioning, engaging in [whataboutism](https://www.google.com/search?q=whataboutism), or using rhetorical tricks to dominate rather than clarify — the appropriate response is often not to steelman their argument but to **disengage**.
+
+> “Let no man pull you low enough to hate him.” — Martin Luther King Jr.
 
 ---
 
