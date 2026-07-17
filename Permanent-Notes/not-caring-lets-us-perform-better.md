@@ -1,6 +1,6 @@
 ---
 title: Not caring lets us perform better
-modified: 2026-06-10
+modified: 2026-07-17
 tags: []
 ---
 
@@ -29,12 +29,6 @@ In this frame, the ideal combination to minimize or remove self-interference is 
 ---
 
 佛系（Zen）🧘🏽 [^1]
-
----
-
-# The Seeking Paradox
-
-* To find what you are seeking, stop seeking.
 
 ---
 
@@ -84,5 +78,9 @@ But being fully locked into what’s in front of you.
 ---
 
 [The absence of desire is true happiness](the-absence-of-desire-is-true-happiness.md)
+
+---
+
+[Seeking vs Finding](seeking-vs-finding.md)
 
 [^1]: Zen is a state of calm attentiveness in which one’s actions are guided by intuition rather than by conscious effort.
