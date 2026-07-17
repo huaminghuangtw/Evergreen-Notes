@@ -1,6 +1,6 @@
 ---
 title: Cultivate a strong bias towards action
-modified: 2026-07-02
+modified: 2026-07-17
 tags: []
 ---
 
@@ -191,30 +191,6 @@ There is no later, because later you’ll be [dead](death.md).
 
 ---
 
-# [Things That Aren’t Doing the Thing](https://strangestloop.io/essays/things-that-arent-doing-the-thing)
-
-> Preparing to do the thing isn’t doing the thing.
->
-> Scheduling time to do the thing isn’t doing the thing.
->
-> Making a to-do list for the thing isn’t doing the thing.
->
-> Telling people you’re going to do the thing isn’t doing the thing.
->
-> Messaging friends who may or may not be doing the thing isn’t doing the thing.
->
-> Writing a banger tweet about how you’re going to do the thing isn’t doing the thing.
->
-> Hating on yourself for not doing the thing isn’t doing the thing. Hating on other people who have done the thing isn’t doing the thing. Hating on the obstacles in the way of doing the thing isn’t doing the thing.
->
-> Fantasizing about all of the adoration you’ll receive once you do the thing isn’t doing the thing.
->
-> Reading about how to do the thing isn’t doing the thing. Reading about how other people did the thing isn’t doing the thing. Reading this essay isn’t doing the thing.
->
-> The only thing that is doing the thing is doing the thing.
-
----
-
 > “It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.” — [“The Man In The Arena” speech given by Theodore Roosevelt on April 23, 1910, in Paris, France](https://youtu.be/A311CnTjfos)
 
 The line — from Theodore Roosevelt’s famous 1910 speech “[Citizenship in a Republic](https://en.wikipedia.org/wiki/Citizenship_in_a_Republic)” (often called “The Man in the Arena” speech) — captures a timeless idea about courage, effort, and authenticity.
@@ -267,6 +243,10 @@ Pragmatism 實用主義
 ---
 
 [Just getting started](just-get-started.md)
+
+---
+
+[Things That Aren’t Doing the Thing](https://huam.ing/things-that-arent-doing-the-thing)
 
 [^1]: _“The professional learns to recognize envy-driven criticism and to take it for what it is: the supreme compliment. The critic hates most that which he would have done himself if he had had the guts.” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
 [^2]: _“The artist cannot look to others to validate his efforts or his calling. If you don’t believe me, ask Van Gogh, who produced masterpiece after masterpiece and never found a buyer in his whole life.” — Steven Pressfield, [The War of Art](https://www.goodreads.com/work/quotes/722104)_
