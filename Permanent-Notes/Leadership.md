@@ -1,6 +1,6 @@
 ---
 title: Leadership
-modified: 2026-06-25
+modified: 2026-07-17
 tags: []
 ---
 
@@ -96,5 +96,9 @@ Insecure leaders rush to take first, fearing there’s not enough. Confident lea
 
 1. 以「力」壓人的「霸道」
 2. 以「德」服人的「王道」（孫文）
+
+---
+
+[Everybody, Somebody, Anybody and Nobody](https://huam.ing/everybody-somebody-anybody-and-nobody)
 
 [^1]: _“We cannot teach people anything. We can only help them discover it within themselves.” — Galileo Galilei_
