@@ -1,6 +1,6 @@
 ---
 title: Money
-modified: 2026-07-09
+modified: 2026-07-17
 tags: []
 ---
 
@@ -126,7 +126,7 @@ Reasonable Rational
 
 # On Saving Money
 
-* It’s not how much money you make, but how much money you keep and take home.
+* It’s not how much money you _make_, but how much money you _keep_ and _take home_.
 * Mindset shift for keeping money:
 	* ❌ 沒有拿去投資以獲得更高獲利的「罰金」
 	* ✅ 支付未來幸福生活的「入場費/手續費」(安全邊界 Margin of Safety)
