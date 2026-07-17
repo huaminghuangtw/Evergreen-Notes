@@ -1,6 +1,6 @@
 ---
 title: Pain Is Inevitable. Suffering Is Optional.
-modified: 2026-06-10
+modified: 2026-07-16
 tags: []
 ---
 
@@ -23,3 +23,7 @@ Say you’re running and you think, ‘Man, this hurts, I can’t take it anymor
 ---
 
 [Suffering = Pain × Resistance; To suffer more = To suffer before it is necessary](https://weeklyio.substack.com/p/useful-definitions)
+
+---
+
+_Duḥkha_ (commonly spelled _dukkha_) is a central Buddhist concept usually translated as “suffering,” “pain,” “unsatisfactoriness,” or “discontentment”
