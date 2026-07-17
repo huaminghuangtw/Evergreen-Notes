@@ -1,6 +1,6 @@
 ---
 title: Dispel your narratives
-modified: 2026-06-25
+modified: 2026-07-17
 tags: []
 ---
 
@@ -36,6 +36,8 @@ The wisest among us allow events to exist without applying a narrative layer. Th
 ---
 
 我是來理解這個世界，而不是來評斷這個世界的。
+
+> “It may be important to great thinkers to examine the world, to explain and despise it. But I think it is only important to love the world, not to despise it, not for us to hate each other, but to be able to regard the world and ourselves and all beings with love, admiration and respect.” — Hermann Hesse, [Siddhartha](https://www.goodreads.com/work/quotes/4840290)
 
 ---
 
