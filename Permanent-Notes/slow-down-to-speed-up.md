@@ -1,14 +1,12 @@
 ---
 title: Slow down to speed up
-modified: 2026-07-05
+modified: 2026-07-17
 tags: []
 ---
 
 **Where are you going and why are you in such a rush?**
 
 [@ferriss4hourWorkweekEscape2011]
-
-> “Slow Dance: Have you ever watched kids, On a merry-go-round? Or listened to the rain, Slapping on the ground? Ever followed a butterfly’s erratic flight? Or gazed at the sun into the fading night? You better slow down. Don’t dance too fast. Time is short. The music won’t last. Do you run through each day, On the fly? When you ask: How are you? Do you hear the reply? When the day is done, do you lie in your bed, With the next hundred chores, Running through your head? You’d better slow down, Don’t dance too fast. Time is short, The music won’t last. Ever told your child we’ll do it tomorrow? And in your haste, Not see his sorrow? Ever lost touch, Let a good friendship die, Cause you never had time, To call and say Hi? You’d better slow down. Don’t dance so fast. Time is short. The music won’t last. When you run so fast to get somewhere, You miss half the fun of getting there. When you worry and hurry through your day, It is like an unopened gift thrown away. Life is not a race. Do take it slower. Hear the music, Before the song is over.” — Timothy Ferriss, [The 4-Hour Workweek](https://www.goodreads.com/work/quotes/1885647)
 
 > “Rushing had become so much of a habit that I was amazed at the amount of concentration it took to work slowly on purpose.” — Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)
 
@@ -120,6 +118,10 @@ Once you’ve done that, that’s when you can go fast.
 ---
 
 [A man who is a master of patience is master of everything else](a-man-who-is-a-master-of-patience-is-master-of-everything-else.md)
+
+---
+
+[Slow Dance](https://huam.ing/slow-dance)
 
 [^1]: 柔中帶剛、柔中帶韌 (Strength in softness)
 [^2]: 「[Be Water，My Friend !](https://www.goodreads.com/work/quotes/74693436-be-water-my-friend-the-true-teachings-of-bruce-lee)」，意思是武者不被形式所拘，要像水一樣流動，既柔軟又剛強堅韌；既能適應萬物，又能匯聚為強大的力量。當水被某種障礙物擋住時，它會平靜等待，卻又伺機而動；一旦移開障礙物，就會立刻奔流過去，毫不遲疑。 所以，李小龍說，面對競爭與阻礙，「水，永遠都是放鬆卻做好準備的。」
