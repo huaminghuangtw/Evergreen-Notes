@@ -1,6 +1,6 @@
 ---
 title: Journey over destination
-modified: 2026-07-05
+modified: 2026-07-17
 tags: []
 ---
 
@@ -52,6 +52,8 @@ Real, durable satisfaction, happiness and contentment are found in the anticipat
 
 **Those who love the climb will reach higher than those who only love the view from the summit.** [^1]
 
+真正讓我們感到幸福的，不是登頂的成就，而是沿途的風景。別因急於趕路前行，而忽略了值得駐足的美好。
+
 ---
 
 Since most of life is spent on the journey, it’s crucial to find enjoyment in the process rather than solely focusing on the destination.
@@ -69,7 +71,7 @@ Focus on the [happiness](happiness.md) of pursuit, not the pursuit of happiness.
 
 Achieving [goals](goal-setting.md) is overrated, striving toward them is underrated. The reward is not always in winning, but in striving.
 
-* Remember: Successful and unsuccessful people share the same goal. [The person who has the most fun wins.](https://jamesclear.com/quotes/something-i-heard-recently-and-ive-tried-to-adopt-whenever-possible-whoever-has-the-most-fun-wins)
+> Remember: Successful and unsuccessful people share the same goal. [The person who has the most fun wins.](you-cant-beat-someone-who-genuinely-enjoys-the-work-itself.md)
 
 ---
 
@@ -100,15 +102,10 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 		* Nothing happens—then everything does.
 		* Slow. Steady. Sudden.
 * The Chinese bamboo tree can grow to be nearly 100 feet tall—but it’s how it achieves that growth that makes it even more interesting. After being planted in the ground, it requires daily watering and nurturing. And then, nothing happens: Despite the effort, days, weeks, months, and even years go by with no signs of any growth. Two years, three years, four years pass, with continued daily inputs and not so much as a break in the surface to show for it. But suddenly, in the fifth year, everything changes: The Chinese bamboo tree breaks through the surface, and in the span of just six weeks, grows up to 90-feet-tall.
-* [Maybe You’re Already There](https://huam.ing/maybe-youre-already-there)
 
 ---
 
 「放下執著，享受過程。」— 學會享受追求目標的過程，而不是把注意力放在最終結果。目標的實現只是旅程中的一個里程碑，而非目的地。
-
----
-
-真正讓我們感到幸福的，不是登頂的成就，而是沿途的風景。別因急於趕路前行，而忽略了值得駐足的美好。
 
 ---
 
@@ -133,7 +130,7 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 
 # The Checkpoint Mentality
 
-* “_It’s just a checkpoint, not the destination._”
+> It’s just a checkpoint, not the destination.
 
 ---
 
