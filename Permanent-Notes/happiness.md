@@ -1,6 +1,6 @@
 ---
 title: Happiness
-modified: 2026-07-09
+modified: 2026-07-18
 tags: []
 ---
 
@@ -197,6 +197,10 @@ Simple story on “Happiness is found through service of others.”
 ---
 
 讓自己快樂是智慧，讓別人快樂是慈悲。
+
+---
+
+[Being unhappy is extremely inefficient](https://nav.al/inefficient)
 
 [^1]: Real happiness only comes as a side-effect of peace. Most of it is going to come from **[acceptance](self-compassion.md)**, not from changing your external environment.
 [^2]: [Dr. Paul Conti presented that the most salient 2 variables associated with mental health are **agency** and **gratitude**.](https://youtu.be/tLRCS48Ens4?t=11m15s)
