@@ -1,6 +1,6 @@
 ---
 title: Frameworks to structure your day
-modified: 2026-06-24
+modified: 2026-07-18
 tags: []
 ---
 
@@ -12,15 +12,21 @@ tags: []
 
 * 自由裡的框架，框架裡的自由：Just as [“constraints” in mathematical optimization](https://en.wikipedia.org/wiki/Constrained_optimization) help find the best solution, design a lifestyle by defining a clear boundary for your ideal day and optimizing within it—_rather than the other way around._ If something pulls you outside that box, simply say, “No, thank you.”
 
-	> 生活是全職，工作是兼職。
-
 	> [“Look for a way of life, not goals. Identify how you want to live, not what you want to achieve. Within that lifestyle, see what you can do to make a living.” — Hunter S. Thompson](https://www.notion.so/beca85a66c624275b80ffb4faae2b44c)
 
 	> “Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.” — Celestine Chua
 
+	> “Put your life in service to your values rather than putting your time in service to money.” — Vicki Robin, [Your Money or Your Life](https://www.goodreads.com/work/quotes/1509321)
+
+* 生活是全職，工作是兼職。
+
 	> “Don’t let making a living prevent you from making a life.” — John Wooden
 
-	> “Put your life in service to your values rather than putting your time in service to money.” — Vicki Robin, [Your Money or Your Life](https://www.goodreads.com/work/quotes/1509321)
+	> 工作應該圍繞著生活，而不是延伸出生活。[^2]
+	> — [王木木](https://smarter01.com/%e9%97%9c%e6%96%bc%e6%88%91/)
+
+	> 如果成就的代價是生活的其他面向，那代價就太高了。
+	> —《[我得了不想上班的病](https://readingoutpost.com/the-cure-for-burnout/)》
 
 * [Spend a handful of hours a day going fast. Crush a gym session. Do deep work on a project you care about. Spend the rest of the day going slow. Take walks. Read books. Get a long dinner with friends. Either way, avoid the anxious middle (半調子) where you never truly relax or truly move forward.](https://x.com/charlesmiller_7/status/1897358851776610720)
 	* See also: [Work in sprints, work with your biology](work-in-sprints-work-with-your-biology.md)
@@ -42,6 +48,7 @@ tags: []
 				* Do not fall into The Retirement Trap
 
 					> “Remember the motto: ‘Work hard, play hard.’ Regard your personal time as just as important as your work time and give as much attention to planning it as you do to planning your work. What are you working for if you don’t have a personal life?” — [@forsterItTomorrowOther2008]
+
 					* Always put non-work commitments in the calendar FIRST, knowing that work will always have a tendency to fill in the gaps.
 					* Block in time for **holidays** and **trips** _first_, rather than letting the calendar fill up with work-stuff by default
 				* Downtime deserves time management too. The time you PLAN to waste is not a waste of time. The time you ENJOY wasting is not a waste of time.
@@ -72,7 +79,7 @@ tags: []
 				* Service
 				* Smile
 * Daily dose of _sweat_, _sunlight_ and _silence_ (or _solitude_ or _stillness_) will solve 99% of your (mental) problems.
-* The 4 Quarters Rule [^2]
+* The 4 Quarters Rule [^3]
 	* Reframe each day as 4 quarters:
 		* **Quarter 1 (Morning)**
 			* Morning routine, deep creative work, etc.
@@ -102,7 +109,7 @@ tags: []
 	* In the afternoon, exercise your body
 	* In the evening, educate your brain
 * 3Rs for unwind routine
-	* [Reflect & Review](reflect-and-review.md) [^3]
+	* [Reflect & Review](reflect-and-review.md) [^4]
 	* Read (Light/Pleasure Reading)
 	* Relax
 * 3Ds
@@ -117,5 +124,6 @@ tags: []
 [Always start and end the day right](always-start-and-end-the-day-right.md)
 
 [^1]: 反被動人生
-[^2]: _“Instead of feeling that you’ve blown the day and thinking, “I’ll get back on track tomorrow,” try thinking of each day as a set of four quarters: morning, midday, afternoon, evening. If you blow one quarter, you get back on track for the next quarter. Fail small, not big.” — Gretchen Rubin, Better Than Before_ [@rubinBetterMasteringHabits2015]
-[^3]: 每日自省吾身
+[^2]: Work-Life Balance → Work-Life Integration
+[^3]: _“Instead of feeling that you’ve blown the day and thinking, “I’ll get back on track tomorrow,” try thinking of each day as a set of four quarters: morning, midday, afternoon, evening. If you blow one quarter, you get back on track for the next quarter. Fail small, not big.” — Gretchen Rubin, Better Than Before_ [@rubinBetterMasteringHabits2015]
+[^4]: 每日自省吾身
