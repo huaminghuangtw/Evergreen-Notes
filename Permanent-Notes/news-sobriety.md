@@ -1,6 +1,6 @@
 ---
 title: News Sobriety
-modified: 2026-07-17
+modified: 2026-07-18
 tags: []
 ---
 
@@ -67,6 +67,6 @@ Want to know more about the world? Turn off the news and go spend time in it.
 * 只關注/吸收具有「時效性」（Timeless）的資訊，這些內容在多年後依然適用、價值不減。
 * 反之，盡可能忽略「即時性」（Timely）的新聞，例如：
 	1. 某政治人物遭遇事件（如川普槍擊）
-	2. 體育賽事精華（環法賽、歐國盃等）
+	2. 體育賽事精華（環法賽、世足賽等）
 
 	這類資訊雖然短期內令人興奮，但通常無助於長遠成長，甚至可能在事後帶來「空虛與失落感」☹️
