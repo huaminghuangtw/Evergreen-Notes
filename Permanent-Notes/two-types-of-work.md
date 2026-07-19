@@ -1,8 +1,6 @@
 ---
 title: Two Types of Work
-modified: 2026-07-16
-tags:
-  - productivity
+modified: 2026-07-19
 ---
 
 > “If you don’t produce, you won’t thrive—no matter how skilled or talented you are.” — Cal Newport, _Deep Work_
