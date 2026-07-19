@@ -1,8 +1,6 @@
 ---
 title: The ABZ Framework
-modified: 2026-06-22
-tags:
-  - 思考框架
+modified: 2026-07-19
 ---
 
 [by Shaan Puri](https://x.com/ShaanVP/status/1347252471291207681)
