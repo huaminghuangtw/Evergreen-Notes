@@ -1,7 +1,6 @@
 ---
 title: Deliberate Heat Cold Exposure
 modified: 2026-06-10
-tags: []
 ---
 
 # Heat Exposure

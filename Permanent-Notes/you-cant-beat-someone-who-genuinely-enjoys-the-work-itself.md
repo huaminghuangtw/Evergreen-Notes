@@ -1,7 +1,6 @@
 ---
 title: You can’t beat someone who genuinely enjoys the work itself
 modified: 2026-07-13
-tags: []
 ---
 
 > [“Play is our first energizer. Life is stressful. Play makes it fun. If we can integrate the spirit of play into our lives, we’ll feel better — and do more too.” — Ali Abdaal, Feel-Good Productivity: How to Do More of What Matters to You](https://www.goodreads.com/work/quotes/100097284-feel-good-productivity-how-to-do-more-of-what-matters-to-you)

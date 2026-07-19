@@ -1,7 +1,6 @@
 ---
 title: Love
 modified: 2026-07-08
-tags: []
 ---
 
 > “Love is the absence of judgment.” — Dalai Lama

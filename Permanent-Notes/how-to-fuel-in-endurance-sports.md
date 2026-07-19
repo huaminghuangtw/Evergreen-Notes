@@ -1,7 +1,6 @@
 ---
 title: How to Fuel in Endurance Sports
 modified: 2026-06-10
-tags: []
 ---
 
 > Nutrition is the fourth discipline in endurance sports.

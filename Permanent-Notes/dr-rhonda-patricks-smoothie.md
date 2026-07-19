@@ -1,7 +1,6 @@
 ---
 title: Dr. Rhonda Patrick’s Smoothie
 modified: 2026-06-10
-tags: []
 ---
 
 [Dr. Rhonda Patrick](https://www.google.com/search?q=Dr.+Rhonda+Patrick)’s (@[foundmyfitness](https://www.foundmyfitness.com/)) smoothie recipe for peak focus and performance:

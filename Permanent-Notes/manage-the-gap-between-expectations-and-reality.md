@@ -1,7 +1,6 @@
 ---
 title: Manage the gap between expectations and reality
 modified: 2026-07-09
-tags: []
 ---
 
 > “The first rule of a happy life is low expectations. If you have unrealistic expectations you’re going to be miserable your whole life. You want to have reasonable expectations and take life’s results good and bad as they happen with a certain amount of stoicism.” — Charlie Munger

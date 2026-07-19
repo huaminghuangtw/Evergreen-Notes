@@ -1,7 +1,6 @@
 ---
 title: Human Sponges
 modified: 2026-06-10
-tags: []
 ---
 
 [@grantHiddenPotentialScience2023]

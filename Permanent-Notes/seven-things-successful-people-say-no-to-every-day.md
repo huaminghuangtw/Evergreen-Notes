@@ -1,7 +1,6 @@
 ---
 title: Seven Things Successful People Say No To Every Day
 modified: 2026-06-10
-tags: []
 ---
 
 #NEWSLETTER

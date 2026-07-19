@@ -1,7 +1,6 @@
 ---
 title: Leaders are readers
 modified: 2026-07-01
-tags: []
 ---
 
 > “Not all readers are leaders, but all leaders are readers.” — Harry S. Truman

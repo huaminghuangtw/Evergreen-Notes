@@ -1,7 +1,6 @@
 ---
 title: You can achieve anything if you focus on one thing at a time
 modified: 2026-06-24
-tags: []
 ---
 
 > If you chase two rabbits, you catch none.

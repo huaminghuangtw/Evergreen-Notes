@@ -1,7 +1,6 @@
 ---
 title: Burnout
-modified: 2026-07-17
-tags: []
+modified: 2026-07-19
 ---
 
 = 過勞
@@ -28,6 +27,8 @@ According to the [World Health Organization (WHO)](https://www.who.int/news/item
 ---
 
 # 通常不是因為工作量太多，而是不知道「為何而戰」。
+
+> [“I was never really insane except upon occasions when my heart was touched.” — Edgar Allan Poe](http://goodreads.com/quotes/140644-i-was-never-really-insane-except-upon-occasions-when-my)
 
 * [A lot of “burnout” is just the result of prolonged exposure to environments you were never truly aligned with to start. Sometimes burnout is just a late-stage indicator or early-stage misalignment.](https://x.com/anuatluru/status/1773520190543626340)
 * Burnout often isn’t about how many hours you work—it’s about how the work makes you _feel_.

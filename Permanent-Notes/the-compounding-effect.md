@@ -1,7 +1,6 @@
 ---
 title: The Compounding Effect
 modified: 2026-06-20
-tags: []
 ---
 
 > Compound interest is the eighth wonder of the world. He who understands it, earns it. He who doesn’t, pays it.” — Albert Einstein
@@ -32,7 +31,7 @@ A rolling snowball gathers more snow. [^1]
 
 The most important thing about compound interest isn’t the math. It’s the psychology. We’re wired to think linearly, but compounding is non-linear. The first ten years? Barely noticeable. The last ten years? That’s where everything happens. Munger calls this “sit on your ass investing.” [Patience isn’t a strategy. It’s the strategy.](a-man-who-is-a-master-of-patience-is-master-of-everything-else.md)
 
-[Every single day, chop wood, carry water](every-single-day-chop-wood-carry-waters.md)
+[Every single day, chop wood, carry water](every-single-day-chop-wood-carry-water.md)
 
 [The One Percent Rule](the-one-percent-rule.md)
 

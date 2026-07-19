@@ -1,7 +1,6 @@
 ---
 title: Seeking vs Finding
 modified: 2026-07-17
-tags: []
 ---
 
 > [“I do not seek. I find.” — Pablo Picasso](http://brainyquote.com/quotes/pablo_picasso_102142)

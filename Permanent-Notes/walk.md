@@ -1,7 +1,6 @@
 ---
 title: Walk
 modified: 2026-06-13
-tags: []
 ---
 
 > “A walk in nature walks the soul back home.” — Mary Davis

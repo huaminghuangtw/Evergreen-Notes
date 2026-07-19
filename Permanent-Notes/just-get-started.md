@@ -1,7 +1,6 @@
 ---
 title: Just get started
 modified: 2026-07-05
-tags: []
 ---
 
 > “Begin anywhere.” — John Cage
@@ -82,7 +81,7 @@ tags: []
 
 ---
 
-The most difficult thing is the decision to start/act, the rest is merely [tenacity](every-single-day-chop-wood-carry-waters.md).
+The most difficult thing is the decision to start/act, the rest is merely [tenacity](every-single-day-chop-wood-carry-water.md).
 
 ---
 

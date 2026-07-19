@@ -1,7 +1,6 @@
 ---
 title: Fame
-modified: 2026-07-11
-tags: []
+modified: 2026-07-19
 ---
 
 > “Uneasy lies the head that wears a crown.” — William Shakespeare
@@ -18,7 +17,7 @@ is a “social debt.”
 
 ---
 
-Don’t volunteer information. Don’t tell people more than they need to know. Respect your privacy.
+Don’t volunteer information. Don’t tell people more than they need to know. Respect your privacy. [^1]
 
 ---
 
@@ -63,9 +62,10 @@ Less eyes on you = more freedom
 ---
 
 * _Becoming_ famous is amazing.
-* _Being_ famous is a [mixed bag](https://www.google.com/search?q=mixed+bag) [^1].
+* _Being_ famous is a [mixed bag](https://www.google.com/search?q=mixed+bag) [^2].
 * _Losing_ fame is miserable.
 
 [Manage the gap between expectations and reality](manage-the-gap-between-expectations-and-reality.md)
 
-[^1]: 形容某種人事物或經歷中，同時包含了好與壞、優與劣，或不同種類的元素。
+[^1]: The richest people in the world have full-time security teams whose sole job is to monitor, protect, and scrub that personal information from public records and data brokers.
+[^2]: 形容某種人事物或經歷中，同時包含了好與壞、優與劣，或不同種類的元素。

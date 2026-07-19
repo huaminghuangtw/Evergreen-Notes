@@ -1,7 +1,6 @@
 ---
 title: Deliberate Practice
 modified: 2026-06-10
-tags: []
 ---
 
 > “Practice does not make perfect. Perfect practice makes perfect.” — Vince Lombardi [^1]

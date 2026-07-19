@@ -1,7 +1,6 @@
 ---
 title: Ayurveda
 modified: 2026-06-10
-tags: []
 ---
 
 = 阿育吠陀

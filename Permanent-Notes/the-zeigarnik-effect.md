@@ -1,7 +1,6 @@
 ---
 title: The Zeigarnik Effect
 modified: 2026-06-10
-tags: []
 ---
 
 [@oyamaHemingwayEffectHow2018]

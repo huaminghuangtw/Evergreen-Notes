@@ -1,7 +1,6 @@
 ---
 title: Happiness
-modified: 2026-07-18
-tags: []
+modified: 2026-07-19
 ---
 
 > “Happiness is a state where nothing is missing.” — Naval Ravikant
@@ -103,7 +102,7 @@ Happiness
 There are two ways to be happier:
 
 1. Change the situation.
-2. Change the way you look at it.
+2. [Change the way you look at it.](a-true-transformation-begins-with-a-mental-shift.md)
 
 ---
 

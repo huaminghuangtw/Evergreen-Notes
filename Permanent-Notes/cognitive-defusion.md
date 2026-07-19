@@ -1,7 +1,6 @@
 ---
 title: Cognitive Defusion
 modified: 2026-06-10
-tags: []
 ---
 
 # What is Cognitive Defusion?

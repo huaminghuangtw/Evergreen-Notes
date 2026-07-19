@@ -1,7 +1,6 @@
 ---
 title: Default Mode Network
 modified: 2026-07-08
-tags: []
 ---
 
 Two modes of thinking:

@@ -1,7 +1,6 @@
 ---
 title: Mentorship is dated, build a panel of advisors instead
 modified: 2026-06-10
-tags: []
 ---
 
 ![](_attachments/1abb6f103b7cbb0ab268cd7901aa80bb.jpg)

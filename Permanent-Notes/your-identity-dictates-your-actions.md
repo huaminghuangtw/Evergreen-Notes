@@ -1,7 +1,6 @@
 ---
 title: Your identity dictates your actions
 modified: 2026-07-01
-tags: []
 ---
 
 > “The bad workouts are the most important ones. It’s easy to train when you feel good, but it’s crucial to show up when you don’t feel like it—even if you do less than you hope. Going to the gym for 15 minutes might not improve your performance, but it reaffirms your identity. **It’s not always about what happens during the workout. It’s about becoming the type of person who doesn’t miss workouts.**” — James Clear

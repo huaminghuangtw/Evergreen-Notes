@@ -1,7 +1,6 @@
 ---
 title: Implementation Intentions
 modified: 2026-06-10
-tags: []
 ---
 
 Implementation Intentions are a powerful self-regulation strategy that involves planning _when_, _where_, and _how_ you will act toward a specific goal or habit. By deciding in advance the exact circumstances under which you will perform a behavior, you make it much more likely that you’ll follow through—even when motivation is low or distractions arise.
@@ -22,7 +21,7 @@ Implementation Intentions are known to help achieve a [goal](goal-setting.md) or
 # Why Do Implementation Intentions Work?
 
 * **Reduces [Decision Fatigue](decision-fatigue.md):** By pre-deciding your actions, you avoid the mental drain of making choices in the moment.
-* **Increases [Consistency](every-single-day-chop-wood-carry-waters.md):** You’re more likely to act because you’ve already mapped out the context and response.
+* **Increases [Consistency](every-single-day-chop-wood-carry-water.md):** You’re more likely to act because you’ve already mapped out the context and response.
 * **Bridges Intention—Action Gap:** Many people intend to change, but fail to act. Implementation intentions help close this gap.
 
 ---

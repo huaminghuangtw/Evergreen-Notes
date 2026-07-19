@@ -1,7 +1,6 @@
 ---
 title: How to ask good and right questions
 modified: 2026-06-10
-tags: []
 ---
 
 > “I would rather have questions that can’t be answered than have answers that can’t be questioned.” — Richard Feynman

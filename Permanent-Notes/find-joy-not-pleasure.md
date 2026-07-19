@@ -1,7 +1,6 @@
 ---
 title: "Find joy, not pleasure" 
 modified: 2026-06-23
-tags: []
 ---
 
 > “Pleasure is always derived from something outside you, whereas joy arises from within.” — Eckhart Tolle

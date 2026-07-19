@@ -1,7 +1,6 @@
 ---
 title: Start with Zero
 modified: 2026-06-10
-tags: []
 ---
 
 Don’t be afraid to start over / walk away—it’s a chance to build something even better.

@@ -1,7 +1,6 @@
 ---
 title: Design Thinking
 modified: 2026-06-10
-tags: []
 ---
 
 Design thinking is a human-centered approach to [innovation-is-about-everyone-agreeing-with-you-later](innovation-is-about-everyone-agreeing-with-you-later.md) and [problem-solving](problem-solving.md) that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success.

@@ -1,7 +1,6 @@
 ---
 title: The Simplicity Audit
 modified: 2026-06-10
-tags: []
 ---
 
 # Principles

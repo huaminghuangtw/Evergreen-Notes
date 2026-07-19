@@ -1,7 +1,6 @@
 ---
 title: The Parkinson’s Law
 modified: 2026-06-10
-tags: []
 ---
 
 ![](_attachments/3cae3b161fe3ae13dcc2ba6fadeceb34.png)

@@ -1,7 +1,6 @@
 ---
 title: The Peter Principle
 modified: 2026-06-10
-tags: []
 ---
 
 Employees in hierarchies are steadily promoted for competence—until they reach a level where they’re incompetent.

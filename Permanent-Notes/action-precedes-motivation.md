@@ -1,7 +1,6 @@
 ---
 title: Action precedes motivation
 modified: 2026-07-02
-tags: []
 ---
 
 # 先做再說，先盡全力搞砸再說

@@ -1,7 +1,6 @@
 ---
 title: The Eureka Effect
 modified: 2026-06-10
-tags: []
 ---
 
 = The Aha! Moment

@@ -1,7 +1,6 @@
 ---
 title: Feedback Loop
 modified: 2026-06-10
-tags: []
 ---
 
 > “The more you feed me, the more I feed you.” — Feedback Loop

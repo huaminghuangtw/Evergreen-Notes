@@ -1,7 +1,6 @@
 ---
 title: Frameworks to structure your day
 modified: 2026-07-18
-tags: []
 ---
 
 > [Live life by design, not default.](https://fs.blog/david-foster-wallace-this-is-water/) [^1] Make each day your masterpiece. How you spend your days is how you spend your life.

@@ -1,7 +1,6 @@
 ---
 title: Boredom promotes creativity
 modified: 2026-07-08
-tags: []
 ---
 
 [@talebBedProcrustesPhilosophical2016]

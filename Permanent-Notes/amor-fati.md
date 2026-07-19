@@ -1,7 +1,6 @@
 ---
 title: Amor Fati
 modified: 2026-06-10
-tags: []
 ---
 
 > “Do not seek for things to happen as you wish, but wish for things to happen as they do happen, and your life will flow well.” — Epictetus

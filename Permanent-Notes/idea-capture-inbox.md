@@ -1,7 +1,6 @@
 ---
 title: Idea Capture Inbox
 modified: 2026-06-10
-tags: []
 ---
 
 > Every composer knows the anguish and despair occasioned by forgetting ideas which one had no time to write down. — Hector Berlioz

@@ -1,7 +1,6 @@
 ---
 title: Oat
 modified: 2026-06-10
-tags: []
 ---
 
 Oats are a powerhouse of nutrition, full of soluble fiber (可溶性纖維) [^1], quality protein (11–17%), and essential minerals.

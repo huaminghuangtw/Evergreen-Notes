@@ -1,7 +1,6 @@
 ---
 title: Feedback
 modified: 2026-06-10
-tags: []
 ---
 
 # On Giving Feedback

@@ -1,7 +1,6 @@
 ---
 title: The Lindy Effect
 modified: 2026-06-10
-tags: []
 ---
 
 The Lindy Effect is a concept that suggests the future life expectancy of non-perishable things is proportional to their current age. In other words, the longer something has existed, the more likely it is to continue existing.

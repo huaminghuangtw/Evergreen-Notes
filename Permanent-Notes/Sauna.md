@@ -1,7 +1,6 @@
 ---
 title: Sauna
 modified: 2026-06-10
-tags: []
 ---
 
 #TODO

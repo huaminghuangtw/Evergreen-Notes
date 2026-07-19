@@ -1,7 +1,6 @@
 ---
 title: A man who is a master of patience is master of everything else
 modified: 2026-07-03
-tags: []
 ---
 
 > “Adopt the pace of nature, her secret is patience.” — Ralph Emerson
@@ -59,7 +58,7 @@ Gentle persistence guides us toward our destination in [its own timeline](everyo
 
 ---
 
-[All the benefits in life come from compound interests.](the-compounding-effect.md) It is just a function/matter of time. Show up, and then [show up consistently](every-single-day-chop-wood-carry-waters.md). [Play long-term games.](the-game-of-life.md) Practice [delayed gratification](delayed-gratification.md). Put in the time. Let things mature. Don’t rush. Be patient.
+[All the benefits in life come from compound interests.](the-compounding-effect.md) It is just a function/matter of time. Show up, and then [show up consistently](every-single-day-chop-wood-carry-water.md). [Play long-term games.](the-game-of-life.md) Practice [delayed gratification](delayed-gratification.md). Put in the time. Let things mature. Don’t rush. Be patient.
 
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Peace from mind
 modified: 2026-06-25
-tags: []
 ---
 
 > “I once asked a monk how he found peace. “I say ‘yes,’” he’d said. “To all that happens, I say ‘yes.” — Kamal Ravikant, [Love Yourself Like Your Life Depends On It](https://www.goodreads.com/work/quotes/21367410)

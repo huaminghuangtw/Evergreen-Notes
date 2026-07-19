@@ -1,7 +1,6 @@
 ---
 title: Productivity
 modified: 2026-07-06
-tags: []
 ---
 
 > “If you can’t fit everything in within the time and budget allotted then don’t expand the time and budget. Instead, pull back the scope. There’s always time to add stuff later — later is eternal, now is fleeting.” — Jason Fried, [Getting Real](https://www.goodreads.com/work/quotes/72546)

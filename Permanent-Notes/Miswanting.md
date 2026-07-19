@@ -1,7 +1,6 @@
 ---
 title: Miswanting
 modified: 2026-06-10
-tags: []
 ---
 
 is a concept from behavioral psychology that…

@@ -1,7 +1,6 @@
 ---
 title: Ben Franklin’s Thirteen Virtues
 modified: 2026-06-10
-tags: []
 ---
 
 #BLOG

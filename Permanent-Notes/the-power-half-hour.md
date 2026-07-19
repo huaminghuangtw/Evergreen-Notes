@@ -1,7 +1,6 @@
 ---
 title: The Power Half-Hour
 modified: 2026-06-10
-tags: []
 ---
 
 > “Full hours are intimidating, and most activities can take just half that.”

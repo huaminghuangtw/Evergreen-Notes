@@ -1,7 +1,6 @@
 ---
 title: Sunlight Viewing
 modified: 2026-06-10
-tags: []
 ---
 
 # View Morning Sunlight

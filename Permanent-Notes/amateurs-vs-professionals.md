@@ -1,7 +1,6 @@
 ---
 title: Amateurs vs Professionals
 modified: 2026-06-10
-tags: []
 ---
 
 > “The professional does not wait for inspiration; he acts in anticipation of it.” — Steven Pressfield

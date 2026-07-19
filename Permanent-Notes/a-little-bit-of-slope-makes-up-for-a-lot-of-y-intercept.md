@@ -1,7 +1,6 @@
 ---
 title: A little bit of slope makes up for a lot of y-intercept
 modified: 2026-06-10
-tags: []
 ---
 
 # Slope/Rate > Position

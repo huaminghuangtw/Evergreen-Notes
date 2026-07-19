@@ -1,7 +1,6 @@
 ---
 title: The Yerkes-Dodson Law
 modified: 2026-06-10
-tags: []
 ---
 
 [@yerkesRelationStrengthStimulus1908]

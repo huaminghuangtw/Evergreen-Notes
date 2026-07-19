@@ -1,7 +1,6 @@
 ---
 title: Empathy
 modified: 2026-06-10
-tags: []
 ---
 
 > “I do not ask the wounded person how he feels, I myself become the wounded person.” — Walt Whitman

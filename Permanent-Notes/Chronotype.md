@@ -1,7 +1,6 @@
 ---
 title: Chronotype
 modified: 2026-06-10
-tags: []
 ---
 
 = 生理時型

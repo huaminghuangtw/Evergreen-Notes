@@ -1,7 +1,6 @@
 ---
 title: The Principal-Agent Problem
 modified: 2026-06-10
-tags: []
 ---
 
 * [Principal—agent problem - Wikipedia](https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem)

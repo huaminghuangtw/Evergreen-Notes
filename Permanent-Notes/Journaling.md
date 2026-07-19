@@ -1,7 +1,6 @@
 ---
 title: Journaling
 modified: 2026-07-05
-tags: []
 ---
 
 > “Create an environment where you’re free to express what you’re afraid to express.” — Rick Rubin

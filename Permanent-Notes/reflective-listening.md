@@ -1,7 +1,6 @@
 ---
 title: Reflective Listening
 modified: 2026-06-10
-tags: []
 ---
 
 1. <mark>Listen without interrupting</mark>

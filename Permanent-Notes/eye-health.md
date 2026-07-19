@@ -1,7 +1,6 @@
 ---
 title: Eye Health
 modified: 2026-06-10
-tags: []
 ---
 
 [Visual Training Exercise](https://www.youtube.com/c/VisualExercises)

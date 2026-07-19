@@ -1,7 +1,6 @@
 ---
 title: The Learners vs The Learned
 modified: 2026-06-18
-tags: []
 ---
 
 > “In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.” — Eric Hoffer

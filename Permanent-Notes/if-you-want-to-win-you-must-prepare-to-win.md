@@ -1,7 +1,6 @@
 ---
 title: If you want to win, you must prepare to win
 modified: 2026-07-10
-tags: []
 ---
 
 > “The will to win is not nearly as important as the will to prepare to win. Everyone wants to win, but not everyone wants to prepare to win. Preparing to win is where the determination that you will win, is made. Once the game is underway, it is too late to prepare to win. The actual game is just the end of a long process of getting ready, in which the outcome was really determined. So if you want to win, you must want to prepare to win.” — Bobby Knight

@@ -27,7 +27,7 @@ But most of the time, you just want to keep the ball in play.
 
 You just want to stay in the game long enough to let the magic of [compounding](the-compounding-effect.md) to do its thing.
 
-You don’t need talent or luck to win a Loser’s Game—you just need to [keep showing up](every-single-day-chop-wood-carry-waters.md).
+You don’t need talent or luck to win a Loser’s Game—you just need to [keep showing up](every-single-day-chop-wood-carry-water.md).
 
 You don’t get “paid” for complex, magnificent shots—you get “paid” for consistently avoiding [unforced errors](no-unforced-errors.md).
 

@@ -1,7 +1,6 @@
 ---
 title: Cultivate a strong bias towards action
 modified: 2026-07-17
-tags: []
 ---
 
 > “To be is to do.” — Immanuel Kant

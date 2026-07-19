@@ -1,7 +1,6 @@
 ---
 title: Beware of the Gray Zone Where Junk Miles Live
 modified: 2026-06-10
-tags: []
 ---
 
 A junk mile is a run done at a moderate intensity, typically 70–85% of your max heart rate. The gray zone—where junk miles live—is _neither easy enough to promote recovery nor hard enough to drive meaningful adaptation_. Spending too much time here can lead to stagnation, increased fatigue, and a higher risk of injury.

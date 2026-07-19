@@ -1,7 +1,6 @@
 ---
 title: Sprezzatura
 modified: 2026-06-10
-tags: []
 ---
 
 = Earned Effortlessness = Studied Carelessness

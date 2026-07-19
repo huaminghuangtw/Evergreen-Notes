@@ -1,7 +1,6 @@
 ---
 title: Attention Residue
 modified: 2026-06-28
-tags: []
 ---
 
 Professor [Sophie Leroy](https://www.google.com/search?q=Sophie+Leroy) of the University of Washington coined the term **attention residue** to describe the cognitive half-life left behind after [switching tasks](task-switching.md). Even after you physically move to a new task, a portion of your attention remains stuck on the previous one. <mark>The more complex or incomplete the previous task, the heavier the residue.</mark>

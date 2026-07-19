@@ -1,7 +1,6 @@
 ---
 title: The Social Slope Effect
 modified: 2026-06-10
-tags: []
 ---
 
 > If you want to go fast, go alone; if you want to go far, go together.

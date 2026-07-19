@@ -1,7 +1,6 @@
 ---
 title: Leadership
 modified: 2026-07-17
-tags: []
 ---
 
 > “To lead people, walk beside them.” — Lao Tzu

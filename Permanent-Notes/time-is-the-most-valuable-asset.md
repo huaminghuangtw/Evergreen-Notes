@@ -1,7 +1,6 @@
 ---
 title: Time is the most valuable asset
 modified: 2026-06-10
-tags: []
 ---
 
 > “The price of anything is the amount of life you exchange for it.” — Henry David Thoreau

@@ -1,5 +1,5 @@
 ---
-modified: 2026-07-18
+modified: 2026-07-19
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -172,10 +172,6 @@ Carl Jung coined the archetype of Puer Aeternus (Latin for the “eternal boy”
 ---
 
 The Illusion of Explanatory Depth says that we are overconfident in our understanding of the most common things that exist all around us.
-
----
-
-Angry Bird 憤怒鳥的失敗故事
 
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Plan your days, not your decades
 modified: 2026-07-04
-tags: []
 ---
 
 > “I think in terms of the day’s resolutions, not the years’.” — Henry Moore
