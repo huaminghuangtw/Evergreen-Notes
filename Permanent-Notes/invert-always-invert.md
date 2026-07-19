@@ -1,8 +1,6 @@
 ---
 title: Invert, always invert
-modified: 2026-07-07
-tags:
-  - framework
+modified: 2026-07-19
 ---
 
 In the 19th century, mathematician [Carl Gustav Jacob Jacobi](https://www.google.com/search?q=Carl+Gustav+Jacob+Jacobi) famously said:
