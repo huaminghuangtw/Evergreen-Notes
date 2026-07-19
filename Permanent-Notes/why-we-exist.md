@@ -1,8 +1,6 @@
 ---
 title: Why we exist?
-modified: 2026-07-12
-tags:
-  - 人蔘
+modified: 2026-07-19
 ---
 
 > [“The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” — David Viscott](https://www.goodreads.com/quotes/7407260-the-purpose-of-life-is-to-discover-your-gift-the)
