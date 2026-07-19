@@ -1,8 +1,6 @@
 ---
 title: Visual Perceptual Exercise by Andrew Huberman
-modified: 2026-07-13
-tags:
-  - neuroscience
+modified: 2026-07-19
 ---
 
 This is a useful tool for our nervous system to manage [stress](stress-and-anxiety.md) and enhancing cognitive flexibility. The core insight is that **visual attention directly modulates the autonomic nervous system** — by deliberately shifting where and how we look, we can regulate our internal state in real time.
