@@ -1,8 +1,6 @@
 ---
 title: Variants of to-do list
-modified: 2026-07-14
-tags:
-  - productivity
+modified: 2026-07-19
 ---
 
 # Could-Do List → Should-Do List → Must-Do list
