@@ -1,7 +1,6 @@
 ---
 title: Life Paradoxes & Fallacies
 modified: 2026-06-10
-tags: []
 ---
 
 # [Sprezzatura](sprezzatura.md)

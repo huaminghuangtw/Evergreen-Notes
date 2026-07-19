@@ -1,7 +1,6 @@
 ---
 title: Specific Knowledge
 modified: 2026-07-02
-tags: []
 ---
 
 It is found by pursuing your genuine [curiosity](stay-curious.md) on [multiple skillsets](specialization-is-for-insects.md).

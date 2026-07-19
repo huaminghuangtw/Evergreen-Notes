@@ -1,7 +1,6 @@
 ---
 title: Do not use your willpower unless you absolutely have to
 modified: 2026-06-10
-tags: []
 ---
 
 > [“I only do what is easy. I only write when I immediately know how to do it, if I falter for a moment, I put the matter aside and do something else.” — Niklas Luhmann](https://www.soenkeahrens.de/en/takesmartnotes)

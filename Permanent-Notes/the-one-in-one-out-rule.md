@@ -1,7 +1,6 @@
 ---
 title: The “One in, One Out” Rule
 modified: 2026-06-10
-tags: []
 ---
 
 To add one “thing”, you have to remove one “thing.”

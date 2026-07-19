@@ -1,7 +1,6 @@
 ---
 title: The Arrival Fallacy
 modified: 2026-06-10
-tags: []
 ---
 
 > “Arriving someplace more desirable at some future time is an illusion. This is it.” — Jon Kabat-Zinn

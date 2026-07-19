@@ -1,7 +1,6 @@
 ---
 title: When in doubt, zoom out
 modified: 2026-07-03
-tags: []
 ---
 
 退一步海闊天空。

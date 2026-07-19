@@ -1,7 +1,6 @@
 ---
 title: Skepticism
 modified: 2026-06-10
-tags: []
 ---
 
 = radical doubt = 懷疑論

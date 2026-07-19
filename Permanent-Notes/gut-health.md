@@ -1,7 +1,6 @@
 ---
 title: Gut Health
 modified: 2026-06-10
-tags: []
 ---
 
 # Goals

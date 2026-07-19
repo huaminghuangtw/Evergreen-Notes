@@ -1,7 +1,6 @@
 ---
 title: Jet Lag
 modified: 2026-06-10
-tags: []
 ---
 
 Eat Like A Local — eating breakfast, lunch and dinner more or less at the same times on the local schedule, _even if you’re not hungry_ — will help you shift to the new time zone.

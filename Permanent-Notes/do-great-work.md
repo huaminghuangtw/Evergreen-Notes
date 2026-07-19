@@ -1,7 +1,6 @@
 ---
 title: Do great work
 modified: 2026-06-25
-tags: []
 ---
 
 > “To be great is to be misunderstood.” — Ralph Waldo Emerson

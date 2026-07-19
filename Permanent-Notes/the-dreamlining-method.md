@@ -1,7 +1,6 @@
 ---
 title: The Dreamlining Method
 modified: 2026-06-10
-tags: []
 ---
 
 The Dreamlining Method is a [goal-setting](goal-setting.md) framework popularized by [Tim Ferriss](https://www.google.com/search?q=Tim+Ferriss) in his book [@ferriss4hourWorkweekEscape2011]. It helps you clarify your dreams and turn them into actionable, time-bound steps—essentially setting deadlines for your dreams.

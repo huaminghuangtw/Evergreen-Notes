@@ -1,7 +1,6 @@
 ---
 title: Neuroscience
 modified: 2026-06-10
-tags: []
 ---
 
 The brain is a monkey brain with a supercomputer on top.

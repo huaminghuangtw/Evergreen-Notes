@@ -1,7 +1,6 @@
 ---
 title: The Pickle Jar Theory
 modified: 2026-07-03
-tags: []
 ---
 
 > 醃漬罐理論

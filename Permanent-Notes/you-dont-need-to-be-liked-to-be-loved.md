@@ -1,7 +1,6 @@
 ---
 title: You don’t need to be liked to be loved
-modified: 2026-06-29
-tags: []
+modified: 2026-07-19
 ---
 
 > “When you say yes to others, make sure you are not saying no to yourself.” — Paulo Coelho
@@ -22,11 +21,9 @@ Sometimes when you say no to others, it opens a pathway to a hell yes for yourse
 
 ---
 
-如果你的善良讓你不斷消耗自己，那善良就變成一種對自己的殘忍。
+如果你的善良讓你不斷消耗自己，那善良就變成對自己的殘忍。
 
 ---
-
-真正的好人，不會為了討好別人而過度付出，他們只做自己承擔得起的善行。
 
 善良，不是盲目的討好，而是清醒的選擇。
 
@@ -36,7 +33,7 @@ Sometimes when you say no to others, it opens a pathway to a hell yes for yourse
 
 ---
 
-# Impressing Yourself
+# Impress Yourself
 
 > “What other people think of me is none of my business.” — Wayne Dyer
 
@@ -56,6 +53,8 @@ When your standard of evaluation moves from _external_ (what do others think?) t
 ---
 
 There is no sure path to success, but the surest path to failure is trying to please everyone. Don’t be a people pleaser.
+
+> “I think the saddest people always try their hardest to make people happy. Because they know what it feels like to feel absolutely worthless and they don’t want anyone else to feel like that.” — Robin Williams
 
 * 好好先生
 * [濫/爛好人](https://www.google.com/search?q=濫好人)

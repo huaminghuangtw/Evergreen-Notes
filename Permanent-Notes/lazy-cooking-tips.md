@@ -1,7 +1,6 @@
 ---
 title: Lazy Cooking Tips
 modified: 2026-06-10
-tags: []
 ---
 
 # Types of salt for different purposes

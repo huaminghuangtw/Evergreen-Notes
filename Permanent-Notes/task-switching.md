@@ -1,7 +1,6 @@
 ---
 title: Task Switching
 modified: 2026-06-24
-tags: []
 ---
 
 ≈ Context Switching

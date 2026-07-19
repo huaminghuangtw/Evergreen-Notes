@@ -1,7 +1,6 @@
 ---
 title: Batching Emails and Text Messages
 modified: 2026-06-24
-tags: []
 ---
 
 Group low-cognitive-load/homogeneous tasks together (e.g., all email processing, all expense reporting) and handle them in one block. This minimizes the cost of [switching](task-switching.md) between different mental modes.

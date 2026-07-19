@@ -1,7 +1,6 @@
 ---
 title: Trust your gut
 modified: 2026-06-10
-tags: []
 ---
 
 > “Intuition is the whisper of the soul.” — Jidda Krishnamurti

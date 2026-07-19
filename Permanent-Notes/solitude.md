@@ -1,7 +1,6 @@
 ---
 title: Solitude
 modified: 2026-06-10
-tags: []
 ---
 
 > “Solitude gives birth to the original in us.” — Thomas Mann

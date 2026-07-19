@@ -1,7 +1,6 @@
 ---
 title: Do It Anyway by Mother Teresa
 modified: 2026-06-10
-tags: []
 ---
 
 #TODO

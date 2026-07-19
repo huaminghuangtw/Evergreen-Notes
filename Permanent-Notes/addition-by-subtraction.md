@@ -1,7 +1,6 @@
 ---
 title: Addition by subtraction
 modified: 2026-06-27
-tags: []
 ---
 
 > “Simplify, then add lightness.” — Colin Chapman, founder of Lotus Card

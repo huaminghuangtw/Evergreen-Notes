@@ -1,7 +1,6 @@
 ---
 title: Life is chaotic
 modified: 2026-07-05
-tags: []
 ---
 
 > “A vacation + a disaster = an adventure.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)

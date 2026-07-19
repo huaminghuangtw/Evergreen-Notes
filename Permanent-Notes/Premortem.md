@@ -1,7 +1,6 @@
 ---
 title: Premortem
 modified: 2026-06-10
-tags: []
 ---
 
 = 事前驗屍 ↔ Postmortem

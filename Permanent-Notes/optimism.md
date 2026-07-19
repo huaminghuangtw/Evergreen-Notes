@@ -1,7 +1,6 @@
 ---
 title: Optimism
 modified: 2026-07-06
-tags: []
 ---
 
 > “Turn your face to the sun, as flowers know how to do.” — Ming-Dao Deng [^1]

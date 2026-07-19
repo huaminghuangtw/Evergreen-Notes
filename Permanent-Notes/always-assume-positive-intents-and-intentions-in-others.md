@@ -1,7 +1,6 @@
 ---
 title: Always assume positive intents and intentions in others
 modified: 2026-06-10
-tags: []
 ---
 
 > “Those who look for the bad in people will surely find it.” — Abraham Lincoln

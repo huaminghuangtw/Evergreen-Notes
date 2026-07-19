@@ -1,7 +1,6 @@
 ---
 title: The Sturgeon’s Law
 modified: 2026-06-10
-tags: []
 ---
 
 > “90% of everything is crud/crap.” — Theodore Sturgeon

@@ -1,7 +1,6 @@
 ---
 title: This too shall pass
 modified: 2026-06-10
-tags: []
 ---
 
 = 這也會過去

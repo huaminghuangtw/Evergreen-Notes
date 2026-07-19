@@ -1,7 +1,6 @@
 ---
 title: Emotional Freedom
 modified: 2026-06-10
-tags: []
 ---
 
 > “Enlightenment is making friendship with the whole existence.” — Amit Ray

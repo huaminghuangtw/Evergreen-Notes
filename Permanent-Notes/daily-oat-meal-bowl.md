@@ -1,7 +1,6 @@
 ---
 title: Daily Oat Meal Bowl
 modified: 2026-06-10
-tags: []
 ---
 
 [oat](oat.md) (100g)

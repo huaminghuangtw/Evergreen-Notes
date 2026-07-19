@@ -1,7 +1,6 @@
 ---
 title: Whey Protein
 modified: 2026-07-02
-tags: []
 ---
 
 乳清蛋白（Whey Protein）是從牛奶中分離出來的高品質蛋白質，含有豐富的支鏈胺基酸（BCAA），尤其是「白胺酸」（Leucine），有助於促進肌肉合成與修復。

@@ -1,7 +1,6 @@
 ---
 title: Resistant Starches
 modified: 2026-06-10
-tags: []
 ---
 
 = 抗性澱粉

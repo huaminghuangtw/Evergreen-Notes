@@ -1,7 +1,6 @@
 ---
 title: Grip Dynamometer
 modified: 2026-06-19
-tags: []
 ---
 
 > “Found that grip strength, an excellent proxy for overall strength, was strongly and inversely associated with the incidence of dementia. People in the lowest quartile of grip strength (i.e., the weakest) had a 72 percent higher incidence of dementia, compared to those in the top quartile.” — Peter Attia MD, [Outlive: The Science and Art of Longevity](https://www.goodreads.com/work/quotes/96395290)

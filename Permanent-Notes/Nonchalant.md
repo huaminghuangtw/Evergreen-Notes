@@ -1,7 +1,6 @@
 ---
 title: Nonchalant
 modified: 2026-06-10
-tags: []
 ---
 
 Nonchalance is often misunderstood as [apathy](have-the-courage-to-do-the-right-things.md) or [lack of care](not-caring-lets-us-perform-better.md), but in its mature form, it is a sign of deep self-assurance and trust in the flow of life. A nonchalant person is not disengaged; rather, they are so grounded that external events do not easily shake their [inner peace](peace-from-mind.md).

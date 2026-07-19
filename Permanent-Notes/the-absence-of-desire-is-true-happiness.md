@@ -1,7 +1,6 @@
 ---
 title: The absence of desire is true happiness
 modified: 2026-07-01
-tags: []
 ---
 
 > 有求皆苦，無求即樂。

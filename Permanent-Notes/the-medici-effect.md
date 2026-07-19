@@ -1,7 +1,6 @@
 ---
 title: The Medici Effect
 modified: 2026-06-15
-tags: []
 ---
 
 Increased [creativity](creativity-is-just-connecting-things.md) and [innovation](innovation-is-about-everyone-agreeing-with-you-later.md) occurs through diversity and intersectionality

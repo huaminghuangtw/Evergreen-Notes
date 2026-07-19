@@ -1,7 +1,6 @@
 ---
 title: The long path is the shortcut
 modified: 2026-07-13
-tags: []
 ---
 
 > “Sometimes taking time is actually a shortcut.” — Haruki Murakami, [What I Talk About When I Talk About Running](https://www.goodreads.com/work/quotes/2475030)

@@ -1,7 +1,6 @@
 ---
 title: Fluid Intelligence vs Crystallized Intelligence
 modified: 2026-06-11
-tags: []
 ---
 
 ![](_attachments/91220db8072cb9879c79d2a95812fbfe.jpg)

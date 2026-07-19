@@ -1,7 +1,6 @@
 ---
 title: Always start small
 modified: 2026-06-17
-tags: []
 ---
 
 > “It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith

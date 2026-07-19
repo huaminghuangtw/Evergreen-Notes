@@ -1,7 +1,6 @@
 ---
 title: Acceptance and Commitment Therapy
 modified: 2026-07-01
-tags: []
 ---
 
 > “What we resist persists.” — Carl Jung

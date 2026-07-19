@@ -1,7 +1,6 @@
 ---
 title: No unforced errors
 modified: 2026-07-07
-tags: []
 ---
 
 = 非受迫性失誤

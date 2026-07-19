@@ -1,7 +1,6 @@
 ---
 title: Minimalism
 modified: 2026-07-06
-tags: []
 ---
 
 > “It is not a daily increase, but a daily decrease. Hack away at the inessentials.” — Bruce Lee

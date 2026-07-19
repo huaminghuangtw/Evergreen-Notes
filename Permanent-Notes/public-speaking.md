@@ -1,7 +1,6 @@
 ---
 title: Public Speaking
 modified: 2026-06-10
-tags: []
 ---
 
 > “When speaking to an audience, pause frequently. Pause before you say something in a new way. Pause after you have said something you believe is important. And pause as a relief to let listeners absorb details.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)

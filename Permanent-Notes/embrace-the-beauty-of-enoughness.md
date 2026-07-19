@@ -1,7 +1,6 @@
 ---
 title: Embrace the beauty of enoughness
 modified: 2026-07-05
-tags: []
 ---
 
 > 真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。

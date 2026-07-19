@@ -1,7 +1,6 @@
 ---
 title: Nudge Theory
 modified: 2026-06-10
-tags: []
 ---
 
 = 輕推理論 = 助推理論

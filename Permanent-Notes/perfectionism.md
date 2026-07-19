@@ -1,7 +1,6 @@
 ---
 title: Perfectionism
 modified: 2026-07-04
-tags: []
 ---
 
 > “All software has bugs — it’s just a fact of life. You.” — Jason Fried, [Getting Real](https://www.goodreads.com/work/quotes/72546)

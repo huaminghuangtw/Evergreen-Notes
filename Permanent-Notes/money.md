@@ -1,7 +1,6 @@
 ---
 title: Money
 modified: 2026-07-17
-tags: []
 ---
 
 > “Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence

@@ -1,7 +1,6 @@
 ---
 title: Prioritization
 modified: 2026-07-06
-tags: []
 ---
 
 > “The whole point of getting things done is knowing what to leave undone.” — Oswald Chambers

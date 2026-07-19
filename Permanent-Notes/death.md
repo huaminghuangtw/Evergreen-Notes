@@ -1,7 +1,6 @@
 ---
 title: Death
 modified: 2026-07-07
-tags: []
 ---
 
 > “Dying is active. Dying is not what happens to you. Dying is what you do.” — Stephen Jenkinson, [Die Wise: A Manifesto for Sanity and Soul](https://www.goodreads.com/work/quotes/42243793)

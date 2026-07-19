@@ -1,7 +1,6 @@
 ---
 title: The Endowment Effect
 modified: 2026-06-10
-tags: []
 ---
 
 = 擁有偏誤

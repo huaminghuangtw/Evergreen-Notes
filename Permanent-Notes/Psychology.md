@@ -1,7 +1,6 @@
 ---
 title: Psychology
 modified: 2026-06-10
-tags: []
 ---
 
 * Egocentric Bias

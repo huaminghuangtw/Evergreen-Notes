@@ -1,7 +1,6 @@
 ---
 title: The Eisenhower Matrix
 modified: 2026-07-14
-tags: []
 ---
 
 > “What is important is seldom urgent and what is urgent is seldom important.” — Dwight D. Eisenhower

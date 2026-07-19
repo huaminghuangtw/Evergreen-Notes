@@ -1,7 +1,6 @@
 ---
 title: Wu Wei
 modified: 2026-06-29
-tags: []
 ---
 
 > “Nature never hurries, yet everything is accomplished.” — Lao Tzu

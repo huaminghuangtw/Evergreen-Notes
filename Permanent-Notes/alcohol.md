@@ -1,7 +1,6 @@
 ---
 title: Alcohol
 modified: 2026-06-17
-tags: []
 ---
 
 > “First you take a drink, then the drink takes a drink, then the drink takes you.” — F. Scott Fitzgerald

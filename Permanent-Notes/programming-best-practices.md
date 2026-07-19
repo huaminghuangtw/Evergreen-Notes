@@ -1,7 +1,6 @@
 ---
 title: Programming Best Practices
 modified: 2026-06-10
-tags: []
 ---
 
 # Code should be self-commenting

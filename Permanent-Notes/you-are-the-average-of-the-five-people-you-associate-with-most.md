@@ -1,7 +1,6 @@
 ---
 title: You are the average of the five people you associate with most
-modified: 2026-07-08
-tags: []
+modified: 2026-07-19
 ---
 
 > “You are the average of the five people you spend the most time with.” — Jim Rohn
@@ -12,9 +11,9 @@ tags: []
 
 > “If you hang out with chickens, you’re going to cluck and if you hang out with eagles, you’re going to fly.” — Steve Maraboli
 
-> [“Everyone you meet is a part of your journey, but not all of them are meant to stay in your life. Some people are just passing through to bring you gifts; either they’re blessings or lessons.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7929987-everyone-you-meet-is-a-part-of-your-journey-but) [^1]
+> [“Everyone you meet is a part of your journey, but not all of them are meant to stay in your life. Some people are just passing through to bring you gifts; either they’re blessings or lessons.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7929987-everyone-you-meet-is-a-part-of-your-journey-but) [^1] [^2]
 
-> [“Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.” — Steve Maraboli](https://www.goodreads.com/quotes/525097-letting-go-means-to-come-to-the-realization-that-some) [^2]
+> [“Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.” — Steve Maraboli](https://www.goodreads.com/quotes/525097-letting-go-means-to-come-to-the-realization-that-some) [^3]
 
 > “Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.” — W. Clement Stone
 
@@ -24,7 +23,7 @@ tags: []
 
 ---
 
-aka The Five Chimps [^3] Theory
+aka The Five Chimps [^4] Theory
 
 ---
 
@@ -112,7 +111,7 @@ Find your “Front Row People.”
 
 You have to be very selective with whom you give your _time_, _energy_, and _attention_. Don’t fall for the “[Yes Man](if-it-isnt-fuck-yes-then-its-clear-no-thank-you.md)” trap. The more successful you become, the more people will want to massage your ego. Cherish the _truth tellers_ in your life.
 
-* Most of us need fewer [friends](a-friend-to-all-is-a-friend-to-none.md) and more **_intellectual sparring partners_**. Friends are easy to come by. Intellectual sparring partners are harder to find. They will call you on your BS, question your assumptions, and push you to think deeply. [^4]
+* Most of us need fewer [friends](a-friend-to-all-is-a-friend-to-none.md) and more **_intellectual sparring partners_**. Friends are easy to come by. Intellectual sparring partners are harder to find. They will call you on your BS, question your assumptions, and push you to think deeply. [^5]
 
 ---
 
@@ -129,6 +128,7 @@ The fact that our interactions with others can have a profound effect on our moo
 [Stanford Prison Experiment](stanford-prison-experiment.md)
 
 [^1]: People come into your life for a reason, a season, or a lifetime.
-[^2]: Some people come into our life to learn and others come to teach.
-[^3]: = Chimpanzees
-[^4]: <https://x.com/SahilBloom/status/1606645650783113221>
+[^2]: Some people are like clouds. When they disappear, it’s a beautiful day.
+[^3]: Some people come into our life to learn and others come to teach.
+[^4]: = Chimpanzees
+[^5]: <https://x.com/SahilBloom/status/1606645650783113221>

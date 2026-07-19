@@ -1,7 +1,6 @@
 ---
 title: Duality vs Polarity
 modified: 2026-06-10
-tags: []
 ---
 
 # Duality (二重性)

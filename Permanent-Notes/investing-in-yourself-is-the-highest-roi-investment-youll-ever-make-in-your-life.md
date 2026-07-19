@@ -1,7 +1,6 @@
 ---
 title: Investing in yourself is the highest ROI investment you’ll ever make in your life
 modified: 2026-06-10
-tags: []
 ---
 
 > “An investment in knowledge pays the best interest.” — Benjamin Franklin

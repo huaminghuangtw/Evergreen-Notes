@@ -1,7 +1,6 @@
 ---
 title: The Motivation Triangle
 modified: 2026-06-10
-tags: []
 ---
 
 proposed by [Nir Eyal](https://www.nirandfar.com/)

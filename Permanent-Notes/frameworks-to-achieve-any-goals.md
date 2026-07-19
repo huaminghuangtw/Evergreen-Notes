@@ -1,12 +1,11 @@
 ---
 title: Frameworks to achieve any goals
 modified: 2026-06-10
-tags: []
 ---
 
 # 💡 Core Concept
 
-* Progress = Intensity + [Consistency](every-single-day-chop-wood-carry-waters.md)
+* Progress = Intensity + [Consistency](every-single-day-chop-wood-carry-water.md)
 * Mastery = Consistent Action (_without overthinking_) + Solving Real-World Problems (_by doing projects_) [^1]
 
 ---

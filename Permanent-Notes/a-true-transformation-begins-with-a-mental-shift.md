@@ -1,10 +1,9 @@
 ---
 title: A true transformation begins with a mental shift
-modified: 2026-07-10
-tags: []
+modified: 2026-07-19
 ---
 
-**TL; DR** Perspective is everything. [Curiosity](stay-curious.md) is key.
+**TL; DR** Perspective is everything. [^1] [Curiosity](stay-curious.md) is key.
 
 ---
 
@@ -264,3 +263,5 @@ A situation with no way out is a situation in which you don’t like the _obviou
 ---
 
 [Optimism](optimism.md)
+
+[^1]: _“All the water in the world cannot sink a ship unless it gets inside the ship. All the negativity in the world cannot sink a person unless it gets inside the mind.” — Mary Pickford_

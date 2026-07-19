@@ -1,7 +1,6 @@
 ---
 title: The Let-Them Theory
 modified: 2026-06-10
-tags: []
 ---
 
 # What is the Let-Them Theory?

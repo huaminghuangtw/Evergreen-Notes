@@ -1,7 +1,6 @@
 ---
 title: Adaptability
 modified: 2026-06-30
-tags: []
 ---
 
 > “It is not the strongest of the species that survives, nor the most intelligent. It is the one most adaptable to change; but the species that survives is the one that is able best to adapt and adjust to the changing environment in which it finds itself.” — Charles Darwin [^1]

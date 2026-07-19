@@ -1,7 +1,6 @@
 ---
 title: Negative Space
 modified: 2026-06-16
-tags: []
 ---
 
 = 負空間

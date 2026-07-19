@@ -1,7 +1,6 @@
 ---
 title: Sharpening the Saw
 modified: 2026-06-10
-tags: []
 ---
 
 Two woodcutters were hired to chop down trees.

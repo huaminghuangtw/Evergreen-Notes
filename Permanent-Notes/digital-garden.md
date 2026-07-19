@@ -1,7 +1,6 @@
 ---
 title: Digital Garden
 modified: 2026-06-10
-tags: []
 ---
 
 **From “writing articles/posts in a traditional blogging sense” to “planting a digital garden”**

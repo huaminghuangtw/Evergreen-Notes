@@ -1,7 +1,6 @@
 ---
 title: How to Make Your Own Energy Gels
 modified: 2026-07-07
-tags: []
 ---
 
 * The key ingredient in most gels is a carbohydrate powder called [maltodextrin](maltodextrin.md). It’s a white powder that looks a lot like flour and has virtually no taste to the tongue.

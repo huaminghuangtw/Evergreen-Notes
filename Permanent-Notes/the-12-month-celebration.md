@@ -1,7 +1,6 @@
 ---
 title: The 12 Month Celebration
 modified: 2026-06-10
-tags: []
 ---
 
 # Step 1: Self-Assessment

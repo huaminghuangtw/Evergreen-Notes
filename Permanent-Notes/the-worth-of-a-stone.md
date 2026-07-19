@@ -1,7 +1,6 @@
 ---
 title: The Worth of a Stone
-modified: 2026-06-10
-tags: []
+modified: 2026-07-19
 ---
 
 > One day, a boy approached his father and asked, “What is my life worth?”
@@ -32,7 +31,7 @@ tags: []
 >
 > With a smile, the father replied, **“Look, son, someone who knows the value of a stone has offered you the highest amount because he recognizes it’s true worth.”**
 
-# Takeaways
+---
 
 1. 不要因為被低估就懷疑自己的價值。
 2. 不要停留在只願意出「2 美元」的地方，學會選擇環境，因為環境會放大或掩蓋你的光芒。

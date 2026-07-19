@@ -1,7 +1,6 @@
 ---
 title: Failing forward turns setbacks into stepping stones
-modified: 2026-07-11
-tags: []
+modified: 2026-07-19
 ---
 
 > “A stumble may prevent a fall.” — Gretchen Rubin
@@ -9,8 +8,6 @@ tags: []
 > “Opportunity often comes disguised in the form of misfortune or temporary defeat.” — Napoleon Hill
 
 > “I’ve missed more than 9,000 shots in my career. I’ve lost almost 300 games. Twenty-six times I’ve been trusted to take the game-winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.” — Michael Jordan
-
-> “Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.” — Samuel Beckett [^1]
 
 > “Failure is simply the opportunity to begin again, this time more intelligently.” — Henry Ford
 
@@ -56,6 +53,16 @@ If you want to _win_, you have to _lose_ first. All _success_ begins with _failu
 * 如果一直為失敗找理由，等於是不給自己機會成功。
 
 [Always keep going! 🚂](always-keep-going.md)
+
+---
+
+# Failing is common, trying is rare.
+
+> “Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.” — Samuel Beckett [^1]
+
+> [“You’re not obligated to win. You’re obligated to keep trying. To the best you can do everyday.” — Jason Mraz](http://goodreads.com/quotes/251455-you-re-not-obligated-to-win-you-re-obligated-to-keep-trying)
+
+When you really try again, it works surprisingly well.
 
 ---
 
@@ -118,6 +125,14 @@ You’re not failing. You’re refining.
 失敗 = 沒有堅持到底的認輸
 
 [Always keep going! 🚂](always-keep-going.md)
+
+---
+
+# 《憤怒鳥》（Angry Birds）
+
+2003 年，三位芬蘭赫爾辛基理工大學的學生 — Niklas Hed、Jarno Väkeväinen 和 Kim Dikert — 參加了一場由 Nokia 與 HP 贊助的行動遊戲開發比賽。他們憑藉出色的作品贏得了冠軍，隨後順勢創辦了 Relude，也就是日後的 Rovio。然而，比賽的勝利並沒有為他們鋪平通往成功的道路。在接下來長達八年的時間裡，這支團隊做過超過五十款遊戲，大部分是接案代工，平台橫跨 Java、Symbian、Brew 等早期手機生態系統，但沒有任何一款真正爆紅。公司多次瀕臨倒閉，不得不一再裁員縮編。創辦人 Niklas 的叔叔 Kaj Hed 在此期間多次出手借錢給公司續命，後來也順理成章地成為公司最大股東。
+
+2008 年，Apple App Store 正式上線，為整個手機遊戲產業帶來了翻天覆地的變化。Rovio 的團隊意識到，這可能是他們最後的翻身機會。當時擔任 CEO 的 Mikael Hed（Niklas 的表哥）對團隊說：「這是我們最後一次嘗試，如果這款遊戲還不成功，公司就關門。」在一個平凡的會議中，設計師 Jaakko Iisalo 隨手畫了一張草稿：一群沒有翅膀、表情憤怒的圓形小鳥，沒有人知道牠們為什麼生氣，但所有人都覺得「這很有趣」。團隊受到一款名為 Crush the Castle 的 Flash 遊戲啟發，決定把物理碰撞與彈弓機制融入這群憤怒小鳥之中。開發歷時約八個月，2009 年 12 月，《憤怒鳥》（Angry Birds）正式在 App Store 上架，這是他們製作的第 52 款遊戲。起初的反應可以用「冷清」來形容 — 在 App Store 上默默無聞，下載量少得可憐。然而，轉機悄然降臨：英國 App Store 的編輯偶然發現這款遊戲並給予推薦位，下載量開始緩慢爬升；2010 年 2 月，美國 App Store 將它選為「當週 App」，下載量瞬間爆衝。更進一步的催化劑來自名人效應 — 好萊塢影星與脫口秀主持人在節目上公開玩這款遊戲，社群媒體的擴散效應將它推向世界。2010 年，Angry Birds 登上 App Store 付費榜冠軍，並蟬聯了整整 275 天；2011 年，全球下載量突破五億次；2012 年，突破十億次，成為人類史上最快達成此里程碑的手機遊戲。
 
 ---
 

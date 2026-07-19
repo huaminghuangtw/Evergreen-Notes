@@ -1,7 +1,6 @@
 ---
 title: Temperature minimum
 modified: 2026-06-10
-tags: []
 ---
 
 The temperature minimum is the lowest point of core body temperature within a 24-hour cycle. This nadir typically occurs just before the body prepares to wake [^1]. Because core body temperature is tightly regulated by the [circadian rhythm](circadian-rhythm.md), the timing of this minimum provides a reliable indicator/anchor point/reference point of an individual’s internal biological night.

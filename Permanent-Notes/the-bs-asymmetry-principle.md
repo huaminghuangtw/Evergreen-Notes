@@ -1,7 +1,6 @@
 ---
 title: The BS Asymmetry Principle
 modified: 2026-06-10
-tags: []
 ---
 
 | ![](https://images.prismic.io/sketchplanations/71d30e66-9038-498d-8d8c-6bf45cd53760_SP+677+-+The+BS+asymmetry+principle+-+large.png?auto=compress%2Cformat&fit=max&w=1080) |

@@ -1,7 +1,6 @@
 ---
 title: The Pareto Principle
 modified: 2026-06-10
-tags: []
 ---
 
 # What is the Pareto Principle?
