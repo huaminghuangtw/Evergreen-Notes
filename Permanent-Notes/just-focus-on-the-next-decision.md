@@ -1,8 +1,6 @@
 ---
 title: Just focus on the next decision
-modified: 2026-06-22
-tags:
-  - 思考框架
+modified: 2026-07-19
 ---
 
 > [“You are always just one good decision away from being in a better place tomorrow — just focus on the next decision.” — Sahil Bloom](https://www.sahilbloom.com/newsletter/information-action-gap-one-decision-away-more)
