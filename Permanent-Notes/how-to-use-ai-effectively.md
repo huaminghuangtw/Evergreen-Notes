@@ -1,8 +1,6 @@
 ---
 title: How to use AI effectively
-modified: 2026-06-30
-tags:
-  - ai
+modified: 2026-07-19
 ---
 
 > The dumbest person you know is currently being told “You’re absolutely right!” by ChatGPT.
