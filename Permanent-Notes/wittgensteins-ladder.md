@@ -1,8 +1,6 @@
 ---
 title: Wittgenstein’s Ladder
-modified: 2026-06-29
-tags:
-  - framework
+modified: 2026-07-19
 ---
 
 > “My propositions serve as illustrations. He who understands me finally recognizes them as senseless, when he has climbed out through them, on them, over them. (He must so to speak throw away the ladder, after he has climbed up on it.)” — Ludwig Wittgenstein, _Tractatus Logico-Philosophicus_ (6.54)
