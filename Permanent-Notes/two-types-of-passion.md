@@ -1,11 +1,6 @@
 ---
 title: Two Types of Passion
-modified: 2026-07-17
-tags:
-  - identity
-  - motivation
-  - psychology
-  - self-determination
+modified: 2026-07-19
 ---
 
 > [“Passion is defined as a strong inclination toward an activity that people like, that they find important, and in which they invest time and energy.” — Robert J. Vallerand](https://doi.org/10.1037/0022-3514.85.4.756)
