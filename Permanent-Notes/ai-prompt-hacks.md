@@ -1,8 +1,6 @@
 ---
 title: AI Prompt Hacks
-modified: 2026-06-28
-tags:
-  - ai
+modified: 2026-07-19
 ---
 
 1. **“I’m probably wrong, but…”**: Weird trick that works. It stops being defensive and starts collaborating. “I’m probably wrong, but I think my boss hates me” gets real analysis, not just reassurance.
