@@ -1,8 +1,6 @@
 ---
 title: Winner’s Game vs Loser’s Game
-modified: 2026-07-08
-tags:
-  - framework
+modified: 2026-07-19
 ---
 
 In the 1999 tennis book, _Extraordinary Tennis for the Ordinary Tennis Player_, author [Simon Ramo](https://www.google.com/search?q=Simon+Ramo) broke down the difference between amateur and professional tennis, writing that they were two different types of games:
