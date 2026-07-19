@@ -1,8 +1,6 @@
 ---
 title: Temptation Bundling
-modified: 2026-06-17
-tags:
-  - habits
+modified: 2026-07-19
 ---
 
 > “Temptation bundling involves pairing an activity that is good for you in the long-run with an activity that feels good in the short-run.” — Katherine Milkman
