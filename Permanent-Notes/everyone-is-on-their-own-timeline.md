@@ -1,6 +1,6 @@
 ---
 title: Everyone is on their own timeline
-modified: 2026-06-10
+modified: 2026-07-20
 ---
 
 > “One’s own dharma performed imperfectly is better than another’s dharma well performed…It is better to strive in one’s own dharma than to succeed in the dharma of another.” — Bhagavad Gita
@@ -12,6 +12,22 @@ modified: 2026-06-10
 ---
 
 We all live in the same world, but all of us are each on our own paths, on our own journey.
+
+---
+
+For what it’s worth:
+
+I was 43 when I got a Ph.D.
+
+I was 51 when I started my dream job.
+
+I was 54 when I married the love of my life.
+
+I was 55 when I ran my first marathon.
+
+I was 67 when I self-published my first book.
+
+I turn 70 next year, and I can’t wait!
 
 ---
 
