@@ -1,6 +1,6 @@
 ---
 title: What success means to me
-modified: 2026-07-05
+modified: 2026-07-20
 ---
 
 > “The road to success is always under construction.” — Steve Harvey
@@ -30,6 +30,8 @@ modified: 2026-07-05
 > [“He has achieved success who has worked well, laughed often, and loved much.” — Elbert Hubbard](https://www.brainyquote.com/quotes/elbert_hubbard_103488)
 
 > [“Real success is success with self. It’s not in having things, but in having mastery, having victory over self.” — Anwar Sadat](https://www.azquotes.com/quote/856603)
+
+> ⭐️ [“How do you grade yourself? It’s important to know in advance, to make sure you’re staying focused on **what’s honestly important to you**, instead of doing what others think you should.” — Derek Sivers](https://sive.rs/grade)
 
 > ⭐️ [“The ultimate success metric is whether you get what you want out of life. But that’s harder than it sounds because it’s easy to try to copy someone who wants something you don’t.” — Morgan Housel](https://collabfund.com/blog/your-way-is-the-only-way/) [^1]
 
