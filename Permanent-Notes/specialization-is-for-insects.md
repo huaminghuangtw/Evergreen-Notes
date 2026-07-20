@@ -1,6 +1,6 @@
 ---
 title: Specialization is for insects
-modified: 2026-06-10
+modified: 2026-07-20
 ---
 
 > “At some level, all humans are broad. We’re all multivariate/multifaceted, but we get summarized in pithy ways in our lives.” — Naval Ravikant
@@ -57,29 +57,29 @@ Many people call themselves “generalists” as a way to avoid specializing, bu
 
 ---
 
-[Don’t specialize, hybridize](https://stephango.com/hybridize)
-
----
-
-[Specific Knowledge](specific-knowledge.md)
-
----
-
 # T 型人才（T-shaped person）
 
 * **橫的一橫**：表示這個人懂很多不同領域的東西（廣度），像是通才，可以跟各種人溝通，知道很多事情的大概。
 * **一條腿**：表示這個人在某一個領域特別厲害（深度），是專家。
 
-📌 比喻：像是一個會很多東西的老師，但數學特別強，可以幫忙教其他老師數學的那種感覺。
+> 像是一個會很多東西的老師，但數學特別強，可以幫忙教其他老師數學的那種感覺。
 
 # π 型人才（Π-shaped person）
 
 * **橫的一橫**：還是一樣代表懂很多事情（廣度）。
 * **兩條腿**：表示這個人不只在一個領域很厲害，而是在**兩個（以上）不同的領域都有深度的專業**。
 
-📌 比喻：像是一個不只數學很好，還非常會寫程式的老師，兩邊都能深入研究，也能幫大家做跨領域的事情。
+> 像是一個不只數學很好，還非常會寫程式的老師，兩邊都能深入研究，也能幫大家做跨領域的事情。
 
 | **類型** | **廣度** | **深度**   | **適合做什麼**         |
 | ------ | ------ | -------- | ----------------- |
 | T 型人才  | ✅      | 一個領域深入   | 合作溝通 + 擅長一件事      |
 | Pi 型人才 | ✅      | 兩個領域都很深入 | 跨領域合作、創新、架橋兩領域的問題 |
+
+---
+
+[Don’t specialize, hybridize](https://stephango.com/hybridize)
+
+---
+
+[Specific Knowledge](specific-knowledge.md)
