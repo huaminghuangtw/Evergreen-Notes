@@ -1,6 +1,6 @@
 ---
 title: The One Percent Rule
-modified: 2026-07-17
+modified: 2026-07-20
 ---
 
 > “Tend to the small things. More people are defeated by blisters than by mountains.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
@@ -36,6 +36,8 @@ $1.00^{365} = 1.00$ vs $1.01^{365} = 37.8$
 ---
 
 # Small Things Become Big Things
+
+> “If you cannot do great things, do small things in a great way.” — Napoleon Hill
 
 * [For Want of a Nail](https://huam.ing/for-want-of-a-nail)
 * 涓滴成河（Kleinvieh macht auch Mist.）
