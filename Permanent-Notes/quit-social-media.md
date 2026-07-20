@@ -1,6 +1,6 @@
 ---
 title: Quit social media
-modified: 2026-06-24
+modified: 2026-07-20
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -12,6 +12,8 @@ modified: 2026-06-24
 > “There are only two industries that refer to their customers as ‘users’: the illegal drug trade and tech companies. Both thrive by creating addicts and profiting from the addiction.” — [The Social Dilemma (2020 film)](https://www.imdb.com/title/tt11464826/)
 
 > “Social media should be used as a platform to share your efforts (show your work) with the world, not as a place to mindlessly spend your time. The key is realizing that the flow needs to go from the real world into the digital space, not the other way around. Those who understand this will be the ones who succeed in life, almost guaranteed, barring some accident or injury. It’s that simple.” — Andrew Huberman
+
+> [“Labor is work that we get paid for. It’s work we wouldn’t do for free. And for most people on social media, it’s unpaid labor on behalf of the platforms.” — Seth Godin](https://seths.blog/2026/05/unpaid-labor/)
 
 ---
 
