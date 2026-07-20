@@ -1,6 +1,6 @@
 ---
 title: 99% of effort is wasted
-modified: 2026-06-10
+modified: 2026-07-20
 ---
 
 [@jorgensonAlmanackNavalRavikant2021]
@@ -13,4 +13,14 @@ modified: 2026-06-10
 
 ---
 
+It’s important to know that **you cannot skip the 99%.** The wasted effort is the cost of [exploration](specialization-is-for-insects.md). You cannot know in advance what the 1% will be. The term papers, the bad dates, the failed projects — they are the iterative search process that surfaces the few opportunities worth going all-in on.
+
+This is the same logic that underpins venture capital: _most investments fail, but the few that succeed return enough to justify all the losses._
+
+---
+
 [Eat the biggest frog first thing in the morning](eat-the-biggest-frog-first-thing-in-the-morning.md)
+
+---
+
+[The Pareto Principle](the-pareto-principle.md)
