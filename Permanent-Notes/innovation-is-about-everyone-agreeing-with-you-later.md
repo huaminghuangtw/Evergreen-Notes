@@ -1,6 +1,6 @@
 ---
 title: Innovation is about everyone agreeing with you later
-modified: 2026-07-16
+modified: 2026-07-21
 ---
 
 > “Good ideas are always crazy until they’re not.” — Larry Page
@@ -30,20 +30,6 @@ Innovation needs [failures](failing-forward-turns-setbacks-into-stepping-stones.
 ---
 
 [The Innovator’s DNA](https://huam.ing/the-innovators-dna)
-
-1. 提問/質疑 (Questioning)
-2. 觀察 (Observing)
-3. 實驗 (Experimenting)
-4. 交流 (Networking)
-5. ⭐️ 聯想 (Associating) - 探索互不相干的新事物
-	1. [Pierre Omidyar](https://www.google.com/search?q=Pierre+Omidyar) - eBay
-		1. He failed to buy shares in a hot tech company’s IPO, fueling a desire to build **fairer, more efficient markets**
-		2. His fiancée wanted a hard-to-find mint tin candy box
-		3. Local classified ads were terrible at matching niche buyers with sellers
-	2. [Steve Jobs](https://www.google.com/search?q=Steve+Jobs) - Apple
-		1. **Calligraphy (鑽研書法)**
-		2. **Meditation in an Indian ashram (印度教僧院打坐)**
-		3. **Mercedes-Benz craftsmanship (研究賓士汽車工藝)**
 
 ---
 
