@@ -1,11 +1,13 @@
 ---
 title: How to ask good and right questions
-modified: 2026-06-10
+modified: 2026-07-21
 ---
 
 > “I would rather have questions that can’t be answered than have answers that can’t be questioned.” — Richard Feynman
 
 > [“One who knows all the answers has not been asked all the questions.” — Confucius](https://www.goodreads.com/quotes/26930-he-who-knows-all-the-answers-has-not-been-asked)
+
+> “The important and difficult job is never to find the right answer, but to find the right question.” — Peter Drucker
 
 ---
 
