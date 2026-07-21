@@ -29,6 +29,8 @@ I was 67 when I self-published my first book.
 
 I turn 70 next year, and I can’t wait!
 
+![](_attachments/393337c68b453220af049bc54abd4f7f.png)
+
 ---
 
 # On feeling behind in life
