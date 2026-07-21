@@ -1,6 +1,6 @@
 ---
 title: Relative Energy Deficiency in Sport
-modified: 2026-06-10
+modified: 2026-07-21
 ---
 
 Relative Energy Deficiency in Sport (RED‑S) is a clinical syndrome resulting from insufficient energy availability relative to the energy expended in exercise.
