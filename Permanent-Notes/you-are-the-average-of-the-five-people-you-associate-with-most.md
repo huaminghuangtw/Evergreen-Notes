@@ -1,6 +1,6 @@
 ---
 title: You are the average of the five people you associate with most
-modified: 2026-07-19
+modified: 2026-07-21
 ---
 
 > “You are the average of the five people you spend the most time with.” — Jim Rohn
@@ -54,6 +54,8 @@ Judge a man by his questions rather than his answers.
 Some people talk to you in their free time and some people free their time to talk to you.
 
 ---
+
+> “At your absolute best, you still won’t be good enough for the wrong person. At your worst, you’ll still be worth it to the right person.” — Karen Salmansohn
 
 A person is either _holding you back_ (like boat anchors) or _pushing/driving you forward_. There is no in between.
 
