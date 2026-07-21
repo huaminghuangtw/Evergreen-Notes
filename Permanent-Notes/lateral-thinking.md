@@ -1,6 +1,6 @@
 ---
 title: Lateral Thinking
-modified: 2026-06-19
+modified: 2026-07-21
 ---
 
 > “The young man knows the rules, but the old man knows the exceptions.” — Oliver Wendell Holmes, Sr.
@@ -42,6 +42,8 @@ modified: 2026-06-19
 ---
 
 反骨精神：拒絕「墨守陳規」
+
+Question the unquestionable.
 
 ---
 
