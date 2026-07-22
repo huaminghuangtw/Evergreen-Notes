@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-07-01
+modified: 2026-07-22
 ---
 
 > [“The work is behind the scene. Competition is the easy part.” — Usain Bolt](https://youtu.be/LEIxpcYukqc?t=113s) [^1]
@@ -20,6 +20,25 @@ modified: 2026-07-01
 	* Most people run their easy days too hard and their hard days too easy.
 	* Run your easy runs easier so you can run your hard runs harder. If you find yourself wanting to run your easy runs harder, you probably aren’t doing your hard runs hard enough. And easy days are rest days if you do them easy enough.
 	* See: [Be Aware of the Gray Zone Where Junk Miles Live](beware-of-the-gray-zone-where-junk-miles-live.md)
+
+---
+
+# The Out-and-Back Easy Pace Test
+
+## How It Works
+
+Go out for a set time at what you _think_ is easy pace, then turn around and run back at that same effort. If you can’t make it back in the same time, you went out too hard.
+
+## The Progression
+
+* **Week 1:** 10 min out → 10 min back. Repeat weekly until you return in ≤10 min.
+* **Succeed:** 15 min out → 15 min back. Repeat weekly until you return in ≤15 min.
+* **Succeed:** 20 min out → 20 min back. Repeat weekly until you return in ≤20 min.
+* **Maintain:** Once mastered, do this workout **once a month** as a check-in.
+
+## The Goal
+
+Hone your understanding of what easy pace truly means — not what your ego thinks it should be.
 
 ---
 
