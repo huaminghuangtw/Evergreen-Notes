@@ -92,7 +92,7 @@ Humans are mimetic creatures. [We copy those around us.](the-theory-of-mimetic-d
 * **Decentralized Friend Groups:** You have many small clusters of different friends who aren’t connected. The only thing they have in common is that they know you. Ambitious friends, fun friends, serious friends, relaxed friends, fitness friends, hometown friends, traveling friends, etc.
 * **Centralized Friend Groups:** You have one large cluster of friends. They all share the same history, beliefs and behaviors. They usually fit in one box. Examples: “School friends” or “Work friends”
 
-[Mentorship is dated, build a panel of advisors instead](../../Brainfoodie/posts/_attachments/mentorship-is-dated-build-a-panel-of-advisors-instead.md)
+[Mentorship is dated, build a panel of advisors instead](mentorship-is-dated-build-a-panel-of-advisors-instead.md)
 
 ---
 
