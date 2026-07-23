@@ -1,6 +1,6 @@
 ---
 title: Avoid telling people your goals
-modified: 2026-06-10
+modified: 2026-07-23
 ---
 
 > “If you start by promising what you don’t even have yet, you’ll lose your desire to work towards getting it.” — Paulo Coelho
@@ -11,19 +11,15 @@ modified: 2026-06-10
 
 ---
 
-Announcing your goals can undermine/hinder your overall progress. It releases cheap [dopamine](dopamine.md) and tricks your brain into thinking you’ve already achieved them, which will lower your motivation. Keep your goals to yourself.
+Announcing your goals can undermine/hinder your overall progress. It releases cheap [dopamine](dopamine.md) and tricks your brain into thinking you’ve already achieved them, which will lower your motivation. **Keep your goals to yourself.**
 
 ---
 
-Not everything needs to be shared. Let your actions speak louder than words. If you share about your commitments and endeavors even with the nearest ones, you are less likely to succeed. Move in silence.
+Not everything needs to be shared. Let your actions speak louder than words. If you share about your commitments and endeavors even with the nearest ones, you are less likely to succeed. **Move in silence.**
 
 ---
 
-Announcing our goals creates an illusion of progress. In reality, lasting success comes not from broadcasting our ambitions, but from quietly focusing on the consistent behaviors and systems that drive real results. What you have done is far more important than you have said. Outcome over ego.
-
----
-
-It’s best to keep your goals to yourself, unless it’s necessary to inform certain people.
+Announcing our goals creates an illusion of progress. In reality, lasting success comes not from broadcasting our ambitions, but from quietly focusing on the consistent behaviors and systems that drive real results. **What you have done is far more important than you have said. Outcome over ego.**
 
 ---
 
@@ -31,7 +27,7 @@ Be willing to look stupid / like an idiot until those who called you dumb asks y
 
 ---
 
-Telling someone who doubts you can activate your desire to prove them wrong—though this strategy may also lead to negative psychological effects.
+**Journal instead of announce.** Write down your goal in detail. This captures the clarity benefit of articulation without the premature reward of social validation.
 
 ---
 
@@ -43,12 +39,10 @@ Telling someone who doubts you can activate your desire to prove them wrong—th
 
 ---
 
-To accelerate progress toward your goals, make it a habit to write them down daily and reinforce them with visual cues—such as Post-It<sup>®</sup> sticky notes—that you regularly update their content or move them to new locations.
+However, when trying to forming a [good habit](be-a-habit-and-routine-machine.md), announcing your goal to the crowd might be helpful.
 
-While these tactics can spark short-term motivation, research shows that this effect fades quickly, leaving us no closer to achieving what we set out to do. Psychologists call this the **“post-it fallacy”** and **“myth of accountability.”**
+See also: [Public Commitment Pledge](https://sketchplanations.com/public-commitment-pledge)
 
 ---
 
-However, when trying to forming a [good habit](be-a-habit-and-routine-machine.md), announcing your goal to the crowd might be helpful.
-
-* See: [Public Commitment Pledge](https://sketchplanations.com/public-commitment-pledge)
+[Be primarily internally driven with intrinsic motivation](be-primarily-internally-driven-with-intrinsic-motivation.md)
