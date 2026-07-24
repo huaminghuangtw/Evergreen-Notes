@@ -11,7 +11,7 @@ Also known as: **striders**, **accelerations (加速跑)*, or **pickups**
 * Aim to cover **50–100** meters of _flat_ ground with each stride.
 * Accelerate evenly over the stretch of ground, taking care _not to reach your maximum effort (it’s not an all-out sprint!)_, then gradually decelerate until you reach the end of your stride.
 
-	![](_attachments/Pasted%20image%2020260723131341.png)
+	![](_attachments/40055a58c8a42a682a8bb5b4ea8c5823.png)
 
 * The goal is to stay fast and relaxed, so you can hold your form the whole way.
 * Take a full recovery between each stride — about **2 minutes**.
