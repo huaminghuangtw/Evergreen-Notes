@@ -1,6 +1,6 @@
 ---
 title: Pain Is Inevitable. Suffering Is Optional.
-modified: 2026-07-16
+modified: 2026-07-24
 ---
 
 > [“The trick is not minding that it hurts.”](https://youtu.be/TvQViPBAvPk) — [Lawrence of Arabia (1962 film)](https://www.imdb.com/title/tt0056172/)
@@ -10,6 +10,8 @@ modified: 2026-07-16
 > “Don’t let your imagination be crushed by life as a whole. Don’t try to picture everything bad that could possibly happen. Stick with the situation at hand, and ask, “Why is this so unbearable? Why can’t I endure it?”
 
 > “Pain is neither unbearable nor unending, as long as you keep in mind its limits and don’t magnify them in your imagination.”
+
+> “Suffering is humbling. It pays to know how to get your butt kicked.” — Christopher McDougall, [Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen](https://www.goodreads.com/work/quotes/6473602)
 
 ---
 
