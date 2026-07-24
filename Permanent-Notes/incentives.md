@@ -5,6 +5,10 @@ modified: 2026-06-10
 
 > “Show me the incentive, and I’ll show you the outcome.” — Charlie Munger
 
+> “Never, ever, think about something else when you should be thinking about the power of incentives.” — Charlie Munger
+
+> “It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest.” — Adam Smith, The Wealth of Nations
+
 ---
 
 = 誘因 = anything that encourages a person (or organization) to do something.
@@ -19,13 +23,6 @@ People respond to incentives like Pavlov’s dogs, and they are more likely to a
 
 ---
 
-We make time and energy for the things we really want.
-
-For example, if you have a vacation planned and need to make a 6am flight, you have no issue getting up at 3am to make it, because you have the _**desire**_.
-
-> [“There’s nothing you can’t do if you want it bad enough.” — Danielle Sibarium, For Always](https://www.goodreads.com/quotes/516566-there-s-nothing-you-can-t-do-if-you-want-it-bad)
-
-* If you want a thing bad enough, you will always find a way to get it.
 
 ---
 
