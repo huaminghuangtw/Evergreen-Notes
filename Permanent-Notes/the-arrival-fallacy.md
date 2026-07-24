@@ -1,6 +1,6 @@
 ---
 title: The Arrival Fallacy
-modified: 2026-06-10
+modified: 2026-07-24
 ---
 
 > “Arriving someplace more desirable at some future time is an illusion. This is it.” — Jon Kabat-Zinn
@@ -9,7 +9,7 @@ modified: 2026-06-10
 
 ---
 
-= The Hedonic Treadmill/Adaptation = 抵達謬論
+= The Hedonic Treadmill/Adaptation = 抵達謬誤
 
 ---
 
