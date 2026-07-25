@@ -21,7 +21,7 @@ Cull Your [Social Media](quit-social-media.md) Feed
 
 ---
 
-![](_attachments/366764c9d696e9e4db5fa83321ddd869.png)
+![](https://media.huam.ing/image/366764c9d696e9e4db5fa83321ddd869.webp)
 
 [The quality of your thoughts is determined by the quality of your reading. Spend more time thinking about the inputs.](https://jamesclear.com/3-2-1/march-6-2025)
 
