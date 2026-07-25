@@ -41,7 +41,7 @@ The margin between **good** and **great** is narrower than it seems. What begins
 
 ![](https://cdn.prod.website-files.com/66915d91469ad34b8324ab88/695184197510a7e65f0a1f73_email.jpeg)
 
-![](_attachments/a084c9867ae04b23f54b45afcd49e2e2.jpg)
+![](https://media.huam.ing/image/a084c9867ae04b23f54b45afcd49e2e2.webp)
 
 ---
 
