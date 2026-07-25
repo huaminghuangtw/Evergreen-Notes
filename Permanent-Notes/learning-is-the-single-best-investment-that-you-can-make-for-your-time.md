@@ -239,8 +239,8 @@ True learning requires “[[desirable difficulty]]”—the cognitive effort inv
 	* Putting information into your brain = good for learning
 	* Retrieving information from your brain = better for learning
 * 間隔重複 ([Spaced Repetition](https://gwern.net/spaced-repetition)) = The Leitner System
-	![](_attachments/5ad8890a032c025bbc7a8da6c0099b98.png)
-	![](_attachments/b9d7275799468ded22af60b66e32db7f.png)
+	![](https://media.huam.ing/image/5ad8890a032c025bbc7a8da6c0099b98.webp)
+	![](https://media.huam.ing/image/b9d7275799468ded22af60b66e32db7f.webp)
 	* Space out your learning
 		* Spending 30 minutes a day, five days a week, is far more effective than cramming 2.5 hours into just one day, once a week.
 		* Same hours; different outcomes.
