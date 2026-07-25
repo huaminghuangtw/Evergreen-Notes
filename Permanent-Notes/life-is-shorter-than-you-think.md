@@ -21,7 +21,7 @@ modified: 2026-06-10
 
 ---
 
-![](_attachments/431a9ae5fbeca277ab567c5839bb28eb.png)
+![](https://media.huam.ing/image/431a9ae5fbeca277ab567c5839bb28eb.webp)
 
 ---
 
