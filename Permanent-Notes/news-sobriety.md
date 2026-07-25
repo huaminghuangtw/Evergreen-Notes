@@ -55,7 +55,7 @@ Want to know more about the world? Turn off the news and go spend time in it.
 
 # The Negativity Doom Loop
 
-![](_attachments/a81f2e1b47ec847676a23f23786c35fd.png)
+![](https://media.huam.ing/image/a81f2e1b47ec847676a23f23786c35fd.webp)
 
 ---
 
