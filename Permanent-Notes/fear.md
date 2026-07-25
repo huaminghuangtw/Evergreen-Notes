@@ -74,7 +74,7 @@ If we’re controlled by fear, we’re in the mode of ignorance.
 		* “_Will it matter in ten minutes? In ten weeks? In ten years?_”
 	3. Reduce the fear
 		* The Batman Effect: self-distancing, thinking yourself as a separate entity (someone other than yourself)
-		![](_attachments/71120c30cf106cff61c7230dbbed0cce.jpg)
+		![](https://media.huam.ing/image/71120c30cf106cff61c7230dbbed0cce.webp)
 * Replace fear of the unknown with [curiosity](stay-curious.md)
 
 ---
