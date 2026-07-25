@@ -25,4 +25,4 @@ modified: 2026-06-10
 > ​
 > <mark>“All I could do was make coffee, so I made coffee.”</mark>
 
-![](_attachments/3e327b28949ad73c324d32af0c8eab61.png)
+![](https://media.huam.ing/image/3e327b28949ad73c324d32af0c8eab61.webp)
