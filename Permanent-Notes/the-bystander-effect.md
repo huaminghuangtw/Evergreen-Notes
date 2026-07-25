@@ -25,4 +25,4 @@ Poem: _Everybody Somebody Anybody and Nobody_
 >
 > — Charles R. Swindoll
 
-![](_attachments/d7ac4881fd9e0c526eb0d3a8eacc0a69.png)
+![](https://media.huam.ing/image/d7ac4881fd9e0c526eb0d3a8eacc0a69.webp)
