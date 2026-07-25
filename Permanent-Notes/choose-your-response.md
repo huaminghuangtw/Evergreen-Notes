@@ -17,11 +17,11 @@ modified: 2026-07-15
 
 ---
 
-![](_attachments/33fabea8972383bcb4bbeea50437f690.png)
+![](https://media.huam.ing/image/33fabea8972383bcb4bbeea50437f690.webp)
 
 ---
 
-![](_attachments/2b3a6c702b5b01cf12507cc029630bf3.jpg)
+![](https://media.huam.ing/image/2b3a6c702b5b01cf12507cc029630bf3.webp)
 
 ---
 
