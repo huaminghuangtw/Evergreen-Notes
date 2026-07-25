@@ -11,7 +11,7 @@ modified: 2026-07-20
 
 $1.00^{365} = 1.00$ vs $1.01^{365} = 37.8$
 
-![](_attachments/ae4c5ced67ee74bc5197f513c2d957f4.png)
+![](https://media.huam.ing/image/ae4c5ced67ee74bc5197f513c2d957f4.webp)
 
 [The Compounding Effect](the-compounding-effect.md)
 
