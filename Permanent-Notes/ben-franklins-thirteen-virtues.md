@@ -7,7 +7,7 @@ modified: 2026-06-10
 
 # 富蘭克林 の「13 美德表」
 
-![](_attachments/c0e397b355179aa12b94aebb19402907.png)
+![](https://media.huam.ing/image/c0e397b355179aa12b94aebb19402907.webp)
 
 1. **Temperance**. Eat not to dullness; drink not to elevation.
 2. **Silence**. Speak not but what may benefit others or yourself; avoid trifling conversation.
