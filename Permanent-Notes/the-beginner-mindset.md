@@ -43,7 +43,7 @@ Some evidence [suggests](https://dx.doi.org/10.2139/ssrn.1308286) that this dram
 
 > “We are blind to our blindness. We have very little idea of how little we know. We are not designed to know how little we know.” — Daniel Kahneman
 
-![](_attachments/e300bc82a87ca2a8f84e93eda4f15178.png)
+![](https://media.huam.ing/image/e300bc82a87ca2a8f84e93eda4f15178.webp)
 
 我們所不知道的事情，遠遠超過我們所知道的事情。所以，永遠都要預設自己一無所知。
 
