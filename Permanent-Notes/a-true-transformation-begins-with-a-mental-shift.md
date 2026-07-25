@@ -71,7 +71,7 @@ modified: 2026-07-19
 
 ---
 
-![](_attachments/ac5f1418b2d07a0b6be7fe26aa168d0a.jpg)
+![](https://media.huam.ing/image/ac5f1418b2d07a0b6be7fe26aa168d0a.webp)
 
 ---
 
