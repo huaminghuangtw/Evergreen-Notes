@@ -57,7 +57,7 @@ Focus on better use of your best weapons instead of constant repair.
 
 Example: Any [system](systems-thinking.md)
 
-![](_attachments/892a43eb93bd11e6921b8c2e3e2301b8.png)
+![](https://media.huam.ing/image/892a43eb93bd11e6921b8c2e3e2301b8.webp)
 
 [Theory of Constraints](theory-of-constraints.md)
 
