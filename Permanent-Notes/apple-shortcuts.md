@@ -82,10 +82,10 @@ Actions
 **“Get Weather Forecast” (↔ “Get Current Weather”)**
 
 * **Hourly:** Retrieves results for the next 24 hours in a list of 25 items—the first represents the current conditions, followed by the forecasts for the next 24 hours.
-	![](_attachments/2118d91a37cb7dc5a696bd6b15147dce.png)
+	![](https://media.huam.ing/image/2118d91a37cb7dc5a696bd6b15147dce.webp)
 
 * **Daily:** Retrieves results for the next 10 days in a list of 10 items.
-	![](_attachments/fe643d04ef2efb1bd50d7426f62665b8.png)
+	![](https://media.huam.ing/image/fe643d04ef2efb1bd50d7426f62665b8.webp)
 
 ---
 
