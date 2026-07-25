@@ -1,11 +1,11 @@
 ---
 title: The Mueller-Lyer Illusion
-modified: 2026-06-10
+modified: 2026-07-25
 ---
 
 [@kahnemanThinkingFastSlow2013]
 
-![](_attachments/66302eb59a26100c50316b225457a5ee.png)
+![](https://media.huam.ing/image/66302eb59a26100c50316b225457a5ee.webp)
 
 The Mueller-Lyer illusion is a classic example in cognitive psychology that demonstrates the persistent gap between perception (System 1) and rational understanding (System 2).
 
