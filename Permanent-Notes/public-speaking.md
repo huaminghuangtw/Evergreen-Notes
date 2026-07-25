@@ -7,7 +7,7 @@ modified: 2026-06-10
 
 ---
 
-![](_attachments/6c8f79badba8703f7e8f9c978dca4d9c.webp)
+![](https://media.huam.ing/image/6c8f79badba8703f7e8f9c978dca4d9c.webp)
 
 ---
 
