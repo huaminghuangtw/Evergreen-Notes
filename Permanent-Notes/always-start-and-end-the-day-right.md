@@ -9,7 +9,7 @@ modified: 2026-07-24
 
 ---
 
-![](_attachments/84907cb78e20cb59f64de69b21790240.png)
+![](https://media.huam.ing/image/84907cb78e20cb59f64de69b21790240.webp)
 
 <https://routinebase.com>
 
