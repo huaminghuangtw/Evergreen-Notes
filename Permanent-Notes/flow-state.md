@@ -30,9 +30,9 @@ Flow is [a state of optimal experience](https://www.flowresearchcollective.com/a
 
 # The Challenge-skills Equation
 
-![](_attachments/0e5c14fe315346a07f71429188490d34.png)
+![](https://media.huam.ing/image/0e5c14fe315346a07f71429188490d34.webp)
 
-![](_attachments/434d2c1c4288416ded92570da0a9ec50.png)
+![](https://media.huam.ing/image/434d2c1c4288416ded92570da0a9ec50.webp)
 
 ---
 
