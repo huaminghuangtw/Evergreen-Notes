@@ -23,4 +23,4 @@ Give the world the best you have, and it may never be enough. **Give the best yo
 
 You see, **in the final analysis it is between you and God; it was never between you and them anyway.**
 
-![](_attachments/d86e9204d02448bdfc7b575dae17d40f.png)
+![](https://media.huam.ing/image/d86e9204d02448bdfc7b575dae17d40f.webp)
