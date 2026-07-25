@@ -120,7 +120,7 @@ Your house is a metaphor for YOU. Unless you are perfect, 99% of the time the so
 
 # You should spend more time in your _circle of influence_ and less time in your _circle of concern_.
 
-![](_attachments/399f5eabbf33dfe8f8505b21847b81d5.png)
+![](https://media.huam.ing/image/399f5eabbf33dfe8f8505b21847b81d5.webp)
 
 * Based on these two circles, **reactive** people will think more about the **circle of concern** while **proactive** people focus more on the **circle of influence**.
 * Your Circle of Concern (關注圈) is all the things you worry about and that influence you but that you have no control over: Federal Government, climate change, etc.
