@@ -11,7 +11,7 @@ modified: 2026-06-29
 
 ---
 
-![](_attachments/9a3eae8dea307d8ae1c2f4adbde3bef9.png)
+![](https://media.huam.ing/image/9a3eae8dea307d8ae1c2f4adbde3bef9.webp)
 
 _“The Lizard had the tree in mind when challenging the Dog to a fight.”_
 
