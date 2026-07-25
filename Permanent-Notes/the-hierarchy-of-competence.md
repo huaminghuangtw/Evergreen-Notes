@@ -3,9 +3,9 @@ title: The Hierarchy of Competence
 modified: 2026-06-10
 ---
 
-![](_attachments/6703e4a54443e5507718458802383a45.png)
+![](https://media.huam.ing/image/6703e4a54443e5507718458802383a45.webp)
 
-![](_attachments/a0e64cb8e2adff3d0879bc06eea17f06.JPG)
+![](https://media.huam.ing/image/a0e64cb8e2adff3d0879bc06eea17f06.webp)
 
 1. **Unconscious Incompetence:** Complete novice. Unaware of your own incompetence.
 2. **Conscious Incompetence:** Aware of your own incompetence.
