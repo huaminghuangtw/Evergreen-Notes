@@ -19,7 +19,7 @@ Depression is often the result of trying to change what we can’t and dwelling 
 
 The opposite of distraction is not _[focus (專注力/聚焦力)](focus-is-about-saying-no.md)_, but _traction_. The difference between traction and distraction is “intent”. Don’t confuse distraction with diversion. [^1]
 
-![](_attachments/eb635082fa4a9821a9dc886b5219d2f7.jpeg)
+![](https://media.huam.ing/image/eb635082fa4a9821a9dc886b5219d2f7.webp)
 
 ---
 
