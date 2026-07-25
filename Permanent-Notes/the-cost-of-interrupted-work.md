@@ -15,9 +15,9 @@ modified: 2026-06-24
 | :-: |
 | <sub>[Source](https://x.com/FerraroRoberto/status/1628991179575504896)</sub> |
 
-![](_attachments/d0c80df590f2aca5835478eeff947ff1.png)
+![](https://media.huam.ing/image/d0c80df590f2aca5835478eeff947ff1.webp)
 
-![](_attachments/f1c590ea6270da0b5c903f9809e4da19.png)
+![](https://media.huam.ing/image/f1c590ea6270da0b5c903f9809e4da19.webp)
 
 ---
 
