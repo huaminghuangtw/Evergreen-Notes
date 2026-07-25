@@ -3,7 +3,7 @@ title: Decision Fatigue
 modified: 2026-06-10
 ---
 
-![](_attachments/71dacbcf34b15b9c99d1ae5471fe8e56.png)
+![](https://media.huam.ing/image/71dacbcf34b15b9c99d1ae5471fe8e56.webp)
 
 Paradox of Choice
 
