@@ -72,7 +72,7 @@ Humans tend to have an expectation that…
 
 Work as hard as you can, but don’t forget to rest with the same intensity.
 
-![](_attachments/4b19e8a421f26f1dc59cd99fdc1e7439.png)
+![](https://media.huam.ing/image/4b19e8a421f26f1dc59cd99fdc1e7439.webp)
 
 ---
 
