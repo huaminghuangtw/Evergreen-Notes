@@ -8,7 +8,7 @@ Two modes of thinking:
 1. **focused mode** (concentrated, analytical, goal-directed)
 2. **diffuse mode** (relaxed, associative, big-picture)
 
-|          ![](_attachments/b592b3f9521574f1f4c2c0cb803edf84.png)          |
+|          ![](https://media.huam.ing/image/b592b3f9521574f1f4c2c0cb803edf84.webp)          |
 | :-------------------------------------------------------------------------: |
 | <sub>[Source](https://barbaraoakley.com/books/learning-how-to-learn)</sub> |
 
