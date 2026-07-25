@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-07-22
+modified: 2026-07-25
 ---
 
 > [“The work is behind the scene. Competition is the easy part.” — Usain Bolt](https://youtu.be/LEIxpcYukqc?t=113s) [^1]
@@ -48,7 +48,7 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 
 # Easy Run vs Recovery Run
 
-![](_attachments/6c405ce0940a51dcb7a59841d9a488af.png)
+![](https://media.huam.ing/image/6c405ce0940a51dcb7a59841d9a488af.webp)
 
 **Note that long run and easy run share a similar heart rate zone.**
 
@@ -67,7 +67,7 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 	4. Prioritize Recovery: Get extra sleep, hydrate well, and pay attention to nutrition.
 	5. Listen to Your Body: If you still feel fatigued, don’t hesitate to reduce volume further or add cross-training/an extra rest day.
  * There’s a biomechanical reason to schedule a de-load week every 3–4 weeks: **bone healing**. After you increase your training load, your bones temporarily become weaker as old, damaged tissue is broken down to make space for new growth. It takes a few weeks for new bone cells to rebuild and strengthen the tissue. Around the 3–4 week mark, there’s a window where your bones are actually weaker than when you started—resorption has occurred, but new bone formation isn’t complete yet. A de-load week helps reduce injury risk during this vulnerable period.
-	![](_attachments/e3488af2ec07bb92f5e19733de36c3e2.png)
+	![](https://media.huam.ing/image/e3488af2ec07bb92f5e19733de36c3e2.webp)
 * Think of your body like a **sponge**. Every session and every week adds a bit of water to the sponge—that’s your training load. Eventually, the sponge becomes saturated and can’t take on any more water. A de-load week is like squeezing out some water so the sponge can absorb more again. This reset allows you to continue making progress without risking burnout or injury.
 * The fitness level of a human body in training can be broken down into four periods: initial fitness, training, recovery, and supercompensation. During the initial fitness period, the target of the training has a base level of fitness. Upon entering the training period, the target’s level of fitness decreases. After the training period, the body enters the recovery period, during which the level of fitness increases back to the initial fitness level.
 
@@ -75,14 +75,14 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 
 	If the next workout takes place during the recovery period, overtraining may occur. If the next workout takes place during the supercompensation period, the body will advance to a higher level of fitness. If the next workout takes place after the supercompensation period, the body will remain at its base level.
 
-	![](_attachments/a85f2fb643027af6c04409cd046239d6.png "Source: Wikipedia")
+	![](https://media.huam.ing/image/a85f2fb643027af6c04409cd046239d6.webp "Source: Wikipedia")
 
 * [Wrap up your keys for running](https://sketchplanations.com/wrap-up-your-keys-for-running)
 * 跑步前確實做好熱身動作 (彈性練習): (1) 墊腳尖 (2) 原地踮腳跳 (3) 原地單腳跳 (三下為一拍)
 * 跑步前做「登階跳」: (1) 跳的時候，下面那隻腳不發力 (2) 雙手幫忙擺臂，帶動身體的重心轉換 → 抓準發力的時間點，讓跑步動作更有效率、更協調
 * Shin Training
 
-	![](_attachments/ba5ec240a449e9d464b0e1b2a8132942.jpeg)
+	![](https://media.huam.ing/image/ba5ec240a449e9d464b0e1b2a8132942.webp)
 
 * [跑步該如何呼吸？（波爾效應）](https://www.garmin.com/zh-TW/blog/running/breath-qa/)
 * 跑步經濟性（Running Economy）
@@ -104,13 +104,13 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 
 	> Pfitz tends to utilize a more ‘classic’ periodization protocol (extending duration, then running faster) while Hansons are a closer to a ‘reverse’ periodization protocol (starting with faster running and extending duration). Either way is good, it’s mostly about what you can tolerate and what will lead to the most consistent running.
 
-||漢森|Pfitzinger|
+| |漢森|Pfitzinger|
 |---|---|---|
 |**核心理念**|累積疲勞（Cumulative Fatigue）|超補償（Supercompensation）|
 |**長跑哲學**|練到剛好就好（peak 26K）|練到超過比賽距離（peak 32-37K）|
 |**訓練感**|對上腳時你一直是疲憊的|每次關鍵課表前應該是恢復好的|
 
-||漢森|Pfitz|
+| |漢森|Pfitz|
 |---|---|---|
 |最長距離|**26 km**（16 miles）|**32-37 km**（20-23 miles）|
 |頻率|平日也有強度，長距離只是其中一環|長距離是每週的 C 位|
@@ -121,7 +121,9 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 ## 📊 關鍵課表比較
 
 * <https://www.reddit.com/r/AdvancedRunning/wiki/workoutoftheweek/>
-* Tempo Run: at a “Comfortably Uncomfortable/Hard” pace
+* Tempo Run: at a “Comfortably Uncomfortable/Hard” (moderate-to-hard) pace
+	* 5–10% below the GMP
+	* 8 out of 10 on a perceived-exertion scale
 * The Fartlek Workout
 	* In Swedish, “fartlek” means “speed play.”
 	* The core idea is to incorporate interval training in a flexible, unstructured way.
@@ -205,6 +207,8 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 
 * **Traditional Formula:** Max HR = 220 - age
 * **More Accurate Formula:** Max HR = 211 - (0.64 × age) = 207 - (age x 0.7)
+
+## 3. Run 3 x 800 meters with two minutes recovery. On the 3<sup>rd</sup> 800m, run the last 400m as hard as you can, and you will come close to your max heart rate.
 
 # Joe Friel’s Lactate Threshold Heart Rate (LTHR) Field Test
 
