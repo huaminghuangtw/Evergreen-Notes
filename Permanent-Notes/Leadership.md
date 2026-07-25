@@ -61,7 +61,7 @@ When you find yourself in a situation where everyone looks at each other, it’s
 # 幹活/工作 vs 使命/夢想 の 寓言故事
 
 * 砌磚工人 ([The Three Bricklayers Story](https://sketchplanations.com/the-three-bricklayers))
-	![](_attachments/5cf0f716caabb0cc924e875773c27193.jpg)
+	![](https://media.huam.ing/image/5cf0f716caabb0cc924e875773c27193.webp)
 * 造船工人
 	* If you want to build a ship, don’t drum up the men to gather wood, divide the work and give orders. Instead, teach/inspire them to yearn for the vast and endless sea. Audacious ideas motivate people.
 	* You should not build something just for the sake of building. You should build something because it will help you to fulfill a dream, in this case, going to sea.
