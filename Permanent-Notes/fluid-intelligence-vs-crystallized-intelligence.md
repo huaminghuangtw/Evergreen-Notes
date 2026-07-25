@@ -3,7 +3,7 @@ title: Fluid Intelligence vs Crystallized Intelligence
 modified: 2026-06-11
 ---
 
-![](_attachments/91220db8072cb9879c79d2a95812fbfe.jpg)
+![](https://media.huam.ing/image/91220db8072cb9879c79d2a95812fbfe.webp)
 
 In his book _Abilities: Their Structure, Growth, and Action_, psychologist [Raymond Cattell](https://www.google.com/search?q=Raymond+Cattell) first proposed the distinction between fluid and crystallized intelligence. This framework later evolved into the [Cattell—Horn—Carroll (CHC) theory](https://www.google.com/search?q=Cattell+Horn+Carroll+theory).
 
