@@ -13,9 +13,9 @@ modified: 2026-06-13
 
 ---
 
-![](_attachments/316d587a5c95f54ea7a4f86fbb986d63.png)
+![](https://media.huam.ing/image/316d587a5c95f54ea7a4f86fbb986d63.webp)
 
-![](_attachments/19d8ef9fa9213552e887aee3e54540ec.jpeg)
+![](https://media.huam.ing/image/19d8ef9fa9213552e887aee3e54540ec.webp)
 
 ---
 
