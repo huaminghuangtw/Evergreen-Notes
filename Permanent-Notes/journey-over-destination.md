@@ -118,7 +118,7 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 
 # [The Quest Mentality](https://www.raptitude.com/2024/08/do-quests-not-goals/)
 
-![](_attachments/6e29ddafb0cf36ac8feca32a4f35bff0.jpg)
+![](https://media.huam.ing/image/6e29ddafb0cf36ac8feca32a4f35bff0.webp)
 
 * Instead of treating your goals like [to-do list](variants-of-to-do-list.md) items, try turning them into quests (= a journey, an adventure toward a specific mission or a goal).
 * Goals are practical attempts to change your circumstances/situations. A quest is personally transformative — the endeavor itself shapes _who you are (your identity)_ and _what you’re capable of (your potential)_.
