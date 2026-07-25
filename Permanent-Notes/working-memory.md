@@ -15,7 +15,7 @@ Working memory is a special category of memory differing from long-term and shor
 
 The distinction between working memory and short-term memory is that working memory _involves the manipulation of information, not just passive storage_.
 
-![](_attachments/e4be6cf80d23557245ee04f643bba5f1.png)
+![](https://media.huam.ing/image/e4be6cf80d23557245ee04f643bba5f1.webp)
 
 | Memory Type           | Analogy                    | Characteristics                                                                                                              |
 | --------------------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
