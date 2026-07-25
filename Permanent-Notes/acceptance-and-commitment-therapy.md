@@ -11,9 +11,9 @@ modified: 2026-07-01
 
 ---
 
-![](_attachments/ac5f1418b2d07a0b6be7fe26aa168d0a.jpg)
+![](https://media.huam.ing/image/ac5f1418b2d07a0b6be7fe26aa168d0a.webp)
 
-| ![](_attachments/ffe0655b0c04e86559c597a895309bcb.png) |
+| ![](https://media.huam.ing/image/ffe0655b0c04e86559c597a895309bcb.webp) |
 | :---: |
 | <sub> [體現認知 (Embodied Cognition)](https://www.google.com/search?q=Embodied+Cognition) — 我們的身體狀態與心智狀態密切相關，彼此相互影響 ([Source](https://integralsomaticpsychology.com/science-embodied-cognition-and-enactive-emotion-implications-for-improving-outcomes-in-all-therapies/))</sub> |
 
