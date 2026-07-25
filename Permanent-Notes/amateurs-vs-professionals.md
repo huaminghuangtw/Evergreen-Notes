@@ -15,7 +15,7 @@ modified: 2026-06-10
 
 Amateurs practice until they get it right. Professionals practice until they can’t get it wrong.
 
-![](_attachments/0d543dc223a20195be85177529d869cf.png)
+![](https://media.huam.ing/image/0d543dc223a20195be85177529d869cf.webp)
 
 ---
 
