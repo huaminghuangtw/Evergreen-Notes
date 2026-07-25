@@ -35,7 +35,7 @@ modified: 2026-07-18
 	* [The Power Half-Hour](the-power-half-hour.md)
 		* Breaking your day into “_snackable_” 30-minute chunks/bites
 	* Try thinking about your time in a day in terms of _Kairos_, not _Chronos_.
-		![](_attachments/b1c977f4afcd7fdc61cd94ab1bd35745.png)
+		![](https://media.huam.ing/image/b1c977f4afcd7fdc61cd94ab1bd35745.webp)
 		* **Chronos** = sequential, quantitative time
 			* Chronos belongs in the realm of clocks. Chronos marks linear time or duration. Chronos is years, months, days, hours.
 		* **Kairos** = fluctuating, qualitative time
