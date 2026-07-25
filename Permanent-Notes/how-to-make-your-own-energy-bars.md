@@ -7,7 +7,7 @@ modified: 2026-07-04
 
 = 燕麥甜餅 ≈ Pocket Porridge ≈ Granola [^1]/Oat Bar
 
-![](_attachments/805fb24e36e13a2ab675338edc208d51.png)
+![](https://media.huam.ing/image/805fb24e36e13a2ab675338edc208d51.webp)
 
 ## Brief History
 
@@ -38,7 +38,7 @@ Flapjacks are a classic British treat, popular since the 17th century. They are 
 
 * Store in an airtight container for up to a week. Freeze for longer storage.
 * 先劃線再烤：送進烤箱前，先用刀在表面輕輕劃線，這樣出爐後比較好切、不容易碎。
-	![](_attachments/4eb1f6fae5610c2f3b95c50fe21c087f.jpeg)
+	![](https://media.huam.ing/image/4eb1f6fae5610c2f3b95c50fe21c087f.webp)
 * 翻面或攪拌後再烤：中途可以翻面或攪拌一下，再放回烤箱繼續烘烤，確保整體均勻熟透。
 
 ## References
@@ -103,9 +103,9 @@ Flapjacks are a classic British treat, popular since the 17th century. They are 
 
 ≈ Energy/Power Balls
 
-![](_attachments/b74743c04a34ffa65622ade1865f09ce.png)
+![](https://media.huam.ing/image/b74743c04a34ffa65622ade1865f09ce.webp)
 
-![](_attachments/eb87e876c73bda14d6d8c861492820fd.png)
+![](https://media.huam.ing/image/eb87e876c73bda14d6d8c861492820fd.webp)
 
 ## Ingredients
 
