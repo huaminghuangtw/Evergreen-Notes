@@ -19,6 +19,6 @@ You can even combine [temptation bundling](temptation-bundling.md) with habit st
 
 Habit stacking increases the likelihood that you’ll stick with a habit by stacking your new behavior on top of an old one. This process can be repeated to chain numerous habits together, each one acting as the _cue_ for the next.
 
-![](_attachments/97bd9eeee18cdf76f9f4c4a1e46a3c63.png)
+![](https://media.huam.ing/image/97bd9eeee18cdf76f9f4c4a1e46a3c63.webp)
 
 Finding the right trigger is the key. Habit stacking works best when the cue is highly _specific_ and immediately _actionable_.
