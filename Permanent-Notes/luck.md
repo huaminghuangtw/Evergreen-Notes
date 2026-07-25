@@ -1,6 +1,6 @@
 ---
 title: Luck
-modified: 2026-07-05
+modified: 2026-07-25
 ---
 
 > “Diligence is the mother of good luck.” — Benjamin Franklin
@@ -18,6 +18,9 @@ modified: 2026-07-05
 > “Even if you don’t catch the Apple before it hits the ground, so long as you’re the first one to pick it up.” — Jensen Huang, NVIDIA’s CEO [^1] [^2]
 >
 > 你要儘量靠近果樹，即使來不及接住掉落的蘋果，也要當第一個撿起來的人。
+
+> 「運氣」並非偶然發生，它只降臨在隨著期望而行動的人身上。等到運氣降臨後再來思考，已經為時已晚了。要把自己提升到隨時能看準、抓住機會，並持續等待。擁有那種敏感嗅覺的人，幸運女神才會對他露出微笑。
+> — 動畫《BLUE LOCK 藍色監獄》
 
 ---
 
@@ -58,6 +61,10 @@ Naval 重新詮釋了 [James H. Austin 的四種 Chance 理論](https://www.weal
 ---
 
 Serendipity is not a mysterious force of luck but a manageable byproduct of high activity and openness. By maximizing one’s **“serendipity surface area”**—_the total volume of work created, people met, and ideas shared_—individuals can transition from waiting for opportunities to becoming a magnet for them.
+
+---
+
+輸給運氣，只是失敗的人安慰自己的話；想贏的人，連運氣都想盡辦法掌握。
 
 ---
 
