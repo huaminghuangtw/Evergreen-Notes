@@ -29,7 +29,7 @@ modified: 2026-06-23
 
 ---
 
-![](_attachments/504f137774a90dc466a7f4c52c248046.png)
+![](https://media.huam.ing/image/504f137774a90dc466a7f4c52c248046.webp)
 
 ---
 
