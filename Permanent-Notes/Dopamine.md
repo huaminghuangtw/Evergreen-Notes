@@ -73,7 +73,7 @@ Feel unmotivated? [Procrastination](procrastination.md)?
 
 ---
 
-![](_attachments/fda2af8a9381a47b8f476c2d082278d8.png)
+![](https://media.huam.ing/image/fda2af8a9381a47b8f476c2d082278d8.webp)
 
 Cheap (Fake) Dopamine (associated with [short-term thinking](instant-gratification.md))
 
