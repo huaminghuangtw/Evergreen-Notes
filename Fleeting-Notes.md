@@ -1,5 +1,5 @@
 ---
-modified: 2026-07-19
+modified: 2026-07-25
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -229,8 +229,6 @@ CBT-I（Cognitive Behavioral Therapy for Insomnia） 也就是失眠認知行為
 
 ---
 
----
-
 一帶一路
 
 ---
@@ -246,18 +244,6 @@ Naperville Central High School 零時體育課 Zero Hour PE
 ---
 
 I chose silence over the last word and it gave me something no argument ever did. Rest.
-
----
-
-輸給運氣，只是失敗的人安慰自己的話；想贏的人，則是連運氣都想掌握，竭盡所能地讓自己待在幸運發生機率更高的地方！
-
----
-
-「運氣」這種因素並非偶然發生的，它只會降臨在隨著期望而行動的人身上，是球場的「必然」。
-
-等到運氣降臨後再來思考，就已經太晚了。要把自己提升到隨時能抓住機會，看準機會降臨的地方，並持續等待。擁有那種敏感嗅覺的人，幸運女人才會對他露出微笑。
-
-動畫《BLUE LOCK 藍色監獄》
 
 ---
 
