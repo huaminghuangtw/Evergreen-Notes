@@ -67,7 +67,7 @@ Similar to the concept of Progressive Overload in Strength Training — “Reps,
 * is the “sweet spot” between too easy (boredom) and too hard (frustration).
 * Choosing “just out of reach” material that is impossible alone but manageable with an AI tutor.
 
-![](_attachments/42440623020bda3397d4c177a788d70a.png)
+![](https://media.huam.ing/image/42440623020bda3397d4c177a788d70a.webp)
 
 [^1]: A legendary American football coach
 [^2]: The phrase “on the edge of their ability” refers to someone operating at the boundary of their current skills, knowledge, or capacity/competence. It describes a sweet spot where a person is challenged to the fullest extent of what they are capable of achieving, often fostering growth and improvement through effort and practice.
