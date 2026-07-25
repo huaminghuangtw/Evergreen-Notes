@@ -11,7 +11,7 @@ In 1968, psychiatrist [Stephen Karpman introduced the “Drama Triangle” model
 
 These roles are fluid and often shift. A Rescuer who feels unappreciated may become a Persecutor. A Victim who builds up enough resentment can also turn into a Persecutor. Regardless of where you start, everyone eventually feels like a victim.
 
-| ![](_attachments/1ff49f3ae3bd810573e0145cd8829286.png) |
+| ![](https://media.huam.ing/image/1ff49f3ae3bd810573e0145cd8829286.webp) |
 | :-: |
 | <sub>[Source](https://weeklyio.substack.com/p/weekly-io-129)</sub> |
 
