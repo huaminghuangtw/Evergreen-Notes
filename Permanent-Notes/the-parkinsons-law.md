@@ -3,11 +3,11 @@ title: The Parkinson’s Law
 modified: 2026-06-10
 ---
 
-![](_attachments/3cae3b161fe3ae13dcc2ba6fadeceb34.png)
+![](https://media.huam.ing/image/3cae3b161fe3ae13dcc2ba6fadeceb34.webp)
 
-![](_attachments/c5858ead999f8dee04986db697ff2ffd.png)
+![](https://media.huam.ing/image/c5858ead999f8dee04986db697ff2ffd.webp)
 
-![](_attachments/7fc3f3e4733564ea43dfed18131d141b.png)
+![](https://media.huam.ing/image/7fc3f3e4733564ea43dfed18131d141b.webp)
 
 # How To Overcome It?
 
