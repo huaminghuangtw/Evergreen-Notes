@@ -45,7 +45,7 @@ The path of removal
 
 # SpaceX Raptor
 
-| ![](_attachments/719bd364677580f7ddec9613303754e6.png) |
+| ![](https://media.huam.ing/image/719bd364677580f7ddec9613303754e6.webp) |
 | :-: |
 | <sub>[Source](https://x.com/SpaceX/status/1819772716339339664)</sub> |
 
