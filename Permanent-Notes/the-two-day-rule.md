@@ -3,9 +3,9 @@ title: The Two-Day Rule
 modified: 2026-06-10
 ---
 
-![](_attachments/3c8feaa5b5177879bf5a07e276913749.png)
+![](https://media.huam.ing/image/3c8feaa5b5177879bf5a07e276913749.webp)
 
-![](_attachments/ea37e9ac03d4cde587d3a8999e49c4bc.png)
+![](https://media.huam.ing/image/ea37e9ac03d4cde587d3a8999e49c4bc.webp)
 
 ---
 
