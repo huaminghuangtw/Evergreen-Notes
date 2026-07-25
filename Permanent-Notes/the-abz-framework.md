@@ -7,9 +7,9 @@ modified: 2026-07-19
 
 is a [mental model](mental-models.md) to save you from [analysis paralysis](decision-fatigue.md) while starting new projects or achieving your life goals.
 
-![](_attachments/7e708fde452803ca57beadba7c474768.png)
+![](https://media.huam.ing/image/7e708fde452803ca57beadba7c474768.webp)
 
-![](_attachments/f1e6b3fe0cd63387aba69da042b75197.png)
+![](https://media.huam.ing/image/f1e6b3fe0cd63387aba69da042b75197.webp)
 
 You don’t need to know steps C, D, or E at the beginning. Focusing on them will cause you to [overthinking](overthinking.md)/[procrastinate](procrastination.md) instead of [taking action](cultivate-a-strong-bias-towards-action.md).
 
