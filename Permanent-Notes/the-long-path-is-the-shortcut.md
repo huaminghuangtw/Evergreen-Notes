@@ -28,7 +28,7 @@ The long path is the shortcut. The [hard](do-hard-things.md) way is always the r
 
 > 最快到達終點的路徑，未必是最短、最直的一條。
 
-![](_attachments/80b1737614b3190df437c11d1c481e77.png)
+![](https://media.huam.ing/image/80b1737614b3190df437c11d1c481e77.webp)
 
 假設有一顆珠子從高處滑到低處，只靠重力，沒有摩擦。
 
