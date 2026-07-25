@@ -5,7 +5,7 @@ modified: 2026-07-19
 
 # Could-Do List → Should-Do List → Must-Do list
 
-![](_attachments/03b72c8602f12f209e5c9cd6acef74f7.png)**
+![](https://media.huam.ing/image/03b72c8602f12f209e5c9cd6acef74f7.webp)**
 
 * **Could-Do**: The wide net — everything that seems interesting, aspirational, or vaguely useful. This is your idea garden. No judgment, just capture.
 * **Should-Do**: A narrowed set — items that have passed a basic “is this actually important?” filter. They carry normative weight but lack the force of necessity.
@@ -17,7 +17,7 @@ The real value of this framework is the explicit permission to let things stay i
 
 # To-Do List → To-Start List
 
-![](_attachments/031b6000cd744ccd49e3953b8f90de97.png)
+![](https://media.huam.ing/image/031b6000cd744ccd49e3953b8f90de97.webp)
 
 | Overwhelming Task | Minimum Viable Start |
 |-------------------|---------------------|
