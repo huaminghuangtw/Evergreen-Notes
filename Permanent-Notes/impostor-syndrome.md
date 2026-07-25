@@ -7,7 +7,7 @@ modified: 2026-06-10
 
 If you’re worried that you’re not “qualified” to teach someone else, remember that we often learn best from those who are just a step ahead of us on the journey.
 
-![](_attachments/690fe33453a4432af77ae3772e7b0f6e.jpeg)
+![](https://media.huam.ing/image/690fe33453a4432af77ae3772e7b0f6e.webp)
 
 ---
 
