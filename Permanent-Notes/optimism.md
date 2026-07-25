@@ -42,7 +42,7 @@ Optimism early, pessimism in the middle, optimism late.
 
 You can always choose to look at the _bright_ side of something. Choosing to see the good in things is a superpower.
 
-![](_attachments/54d0dafde6e005689a0a1b02442b5bd2.jpg)
+![](https://media.huam.ing/image/54d0dafde6e005689a0a1b02442b5bd2.webp)
 
 * 樂觀者：還有半杯水 (half-full)
 * 悲觀者：只剩半杯水 (half-empty)
