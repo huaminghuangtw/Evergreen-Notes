@@ -45,13 +45,13 @@ A phenomenon whereby information is better remembered if it is generated from on
 * The 3 Powers of Triangulation
 	* You can use what you know to make sense of stuff.
 		* Use two known points, to better understand a third point.
-			![](_attachments/7d1deedf96f9e1308ebcddb33221d6c3.png)
+			![](https://media.huam.ing/image/7d1deedf96f9e1308ebcddb33221d6c3.webp)
 	* You can use what you know to remember old stuff.
 		* Use two known points, to remember a forgotten third point.
-			![](_attachments/11ce048aded84135c7dfe14fa160f9db.png)
+			![](https://media.huam.ing/image/11ce048aded84135c7dfe14fa160f9db.webp)
 	* You can use what you know to create new stuff.
 		* Use two known points to imagine a third point.
-			![](_attachments/f1c3d7c342c725ec9ef725645ceb5bf9.png)
+			![](https://media.huam.ing/image/f1c3d7c342c725ec9ef725645ceb5bf9.webp)
 
 ---
 
