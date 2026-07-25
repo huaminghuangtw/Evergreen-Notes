@@ -1,6 +1,6 @@
 ---
 title: The Yerkes-Dodson Law
-modified: 2026-06-10
+modified: 2026-07-25
 ---
 
 [@yerkesRelationStrengthStimulus1908]
@@ -11,7 +11,7 @@ modified: 2026-06-10
 
 The relationship is often illustrated as an inverted U-shaped curve.
 
-![](_attachments/013534095903519a321b81beb825cf1f.png)
+![](https://media.huam.ing/image/013534095903519a321b81beb825cf1f.webp)
 
 * At low levels of arousal, performance is suboptimal due to lack of motivation or alertness.
 * At moderate levels, performance peaks.
