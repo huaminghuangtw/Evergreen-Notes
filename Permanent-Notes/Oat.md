@@ -9,7 +9,7 @@ Oats are a powerhouse of nutrition, full of soluble fiber (可溶性纖維) [^1]
 
 # 種類
 
-![](_attachments/f5b50132790bb4fe839a90f620cbdb06.png)
+![](https://media.huam.ing/image/f5b50132790bb4fe839a90f620cbdb06.webp)
 
 > 顆粒越完整，需沖煮的時間越長，營養價值也越高。
 
@@ -20,7 +20,7 @@ Oats are a powerhouse of nutrition, full of soluble fiber (可溶性纖維) [^1]
 
 ---
 
-| ![](_attachments/a5118a788a3fae38c1eb98c76a1bc0ec.jpeg) |
+| ![](https://media.huam.ing/image/a5118a788a3fae38c1eb98c76a1bc0ec.webp) |
 | :-: |
 | <sub>德語中，kernig 表示「硬的、有嚼勁的」，zart 則是「柔軟的」。</sub> |
 
