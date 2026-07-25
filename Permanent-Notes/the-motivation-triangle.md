@@ -5,7 +5,7 @@ modified: 2026-06-10
 
 proposed by [Nir Eyal](https://www.nirandfar.com/)
 
-![](_attachments/47ad6c05b22f7f5e001437c6872afa9d.jpg)
+![](https://media.huam.ing/image/47ad6c05b22f7f5e001437c6872afa9d.webp)
 
 Motivation requires three elements:
 
