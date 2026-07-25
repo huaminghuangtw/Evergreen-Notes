@@ -23,7 +23,7 @@ Deep work generates deeper satisfaction (aka., “passion”) for your work.
 
 # The Four Philosophies of Deep Work
 
-![](_attachments/4005729945b276f74416de474597d5e9.png)
+![](https://media.huam.ing/image/4005729945b276f74416de474597d5e9.webp)
 
 ---
 
