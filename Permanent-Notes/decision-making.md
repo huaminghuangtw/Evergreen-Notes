@@ -1,6 +1,6 @@
 ---
 title: Decision Making
-modified: 2026-07-04
+modified: 2026-07-27
 ---
 
 > “The decisions of our past are the architects of our present.” — Dan Brown
@@ -45,8 +45,13 @@ modified: 2026-07-04
 
 > “Instead of freaking out about these constraints, embrace them. Let them guide you. Constraints drive innovation and force focus. Instead of trying to remove them, use them to your advantage.” — 37Signals, [Getting Real: The Smarter, Faster, Easier Way to Build a Web Application](https://www.goodreads.com/work/quotes/72546)
 
-* 「哪一種決定是可以把水龍頭 🚰 關起來的? 」
-* [Style is consistent constraint. Having a style collapses hundreds of future decisions into one, and gives you focus. Style gives you leverage. Every time you reuse your style you save time. A durable style is a great investment. Collect constraints you enjoy.](https://stephango.com/style)
+哪一種決定是可以把水龍頭 🚰 關起來的？
+
+> “Fashion fades, only style remains the same.” — Coco Channel
+
+> [“Style is consistent constraint. Having a style collapses hundreds of future decisions into one, and gives you focus. Style gives you leverage. Every time you reuse your style you save time. A durable style is a great investment. Collect constraints you enjoy.” — Stephan Ango](https://stephango.com/style)
+
+> [“Sometimes constraints can be freeing. It’s just less things that we have to think about.” — Matthew Marquardt](https://racing.trekbikes.com/stories/tfr-triathlon/matthew-marquardt-profile-ironman-med-school-ohio-state)
 
 ---
 
