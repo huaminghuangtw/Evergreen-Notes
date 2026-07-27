@@ -1,6 +1,6 @@
 ---
 title: Be careful how you are talking to yourself
-modified: 2026-07-03
+modified: 2026-07-27
 ---
 
 > “Be careful how you are talking to yourself because you are listening.” — Lisa M. Hayes
@@ -105,7 +105,7 @@ If you tell yourself you can’t, you won’t. If you tell yourself you must, yo
 
 ---
 
-Legendary UCLA basketball coach [John Wooden](https://www.google.com/search?q=John+Wooden) recommended the following nine promises that should be made by anyone seeking [happiness](happiness.md) and [success](what-success-means-to-me.md)…
+Legendary UCLA basketball coach [John Wooden](https://www.google.com/search?q=John+Wooden) recommended the following nine promises that should be made by anyone seeking [happiness](happiness.md) and [success](what-success-means-to-me.md):
 
 1. Promise yourself that you will talk health, happiness, and prosperity as often as possible.
 2. Promise yourself to make all your friends know there is something in them that is special and that you value.
