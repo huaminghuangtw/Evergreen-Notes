@@ -1,6 +1,6 @@
 ---
 title: The Drama Triangle
-modified: 2026-06-10
+modified: 2026-07-28
 ---
 
 In 1968, psychiatrist [Stephen Karpman introduced the “Drama Triangle” model](https://karpmandramatriangle.com/), which describes three roles people unconsciously cycle through:
