@@ -1,9 +1,11 @@
 ---
 title: Storytelling
-modified: 2026-06-10
+modified: 2026-07-28
 ---
 
 > “Human thinking depends on metaphor. We understand new or complex things in relation to things we already know.” — Jonathan Haidt [^1]
+
+> “Analogies work because they feel like accommodation, in that they allow us to keep one foot in what we know while we seek new ground with the other. Studies of science learning show that presenting a new idea along with new evidence fails to remove misconceptions. The new idea plus the new evidence cannot overpower the embedded misconception. But if we take the same new idea and support it with an analogy to a valid idea that’s already set in the learner’s mind, then the misconception becomes vulnerable.” — Leidy Klotz, [Subtract: The Untapped Science of Less](https://www.goodreads.com/work/quotes/79888731)
 
 ---
 
