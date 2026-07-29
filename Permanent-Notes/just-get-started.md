@@ -1,6 +1,6 @@
 ---
 title: Just get started
-modified: 2026-07-24
+modified: 2026-07-29
 ---
 
 > “Begin anywhere.” — John Cage
@@ -52,6 +52,11 @@ modified: 2026-07-24
 ---
 
 你必須按下電鍋開關，它才會開始煮飯。
+
+你必須開始才能準備好，而不是準備好才開始。
+
+* ❌ I need to learn everything before I start.
+* ✅ I’ll learn by doing and improve as I go.
 
 ---
 
