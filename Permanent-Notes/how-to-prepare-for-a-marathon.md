@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-07-25
+modified: 2026-07-29
 ---
 
 > [“The work is behind the scene. Competition is the easy part.” — Usain Bolt](https://youtu.be/LEIxpcYukqc?t=113s) [^1]
@@ -76,6 +76,8 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 	If the next workout takes place during the recovery period, overtraining may occur. If the next workout takes place during the supercompensation period, the body will advance to a higher level of fitness. If the next workout takes place after the supercompensation period, the body will remain at its base level.
 
 	![](https://media.huam.ing/image/a85f2fb643027af6c04409cd046239d6.webp "Source: Wikipedia")
+
+---
 
 * [Wrap up your keys for running](https://sketchplanations.com/wrap-up-your-keys-for-running)
 * 跑步前確實做好熱身動作 (彈性練習): (1) 墊腳尖 (2) 原地踮腳跳 (3) 原地單腳跳 (三下為一拍)
@@ -169,8 +171,9 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 * 兩大原則：
 	* 訓練不足 > 訓練過度
 	* 如果表現越來越差，肯定是過度訓練。
-* RPE (= Rate of Perceived Exertion) should be the primary measure—everything produced by your watch is secondary feedback.
+* Set your target in the final 6 to 8 weeks before the race, then confirm it during the taper. A goal chosen 5 months out rarely survives contact with real training.
 * Pacing Strategies
+	![](https://media.huam.ing/image/12edafc503bc5d0a567475e493c7e895.webp)
 	* 緩緩加速（負分段）是最理想的，或至少全程保持一樣的配速（和跑姿！）。[^2]
 
 		> 前面有多囂張，後面就有多落魄。
@@ -188,6 +191,18 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 	* The payoff: Runners who execute a negative split race pass people in the final miles. They don’t get passed. That sensation — moving through a field of people who went out too fast — is one of the best feelings in marathon running.
 * 賽前約一週安排 Big/Hero Day 作為模擬考，然後全休 6 天。
 * 賽前三天開始做 [What Happened When One Runner Tried a 1-Month Walking Challenge]([https://www.runnersworld.com/runners-stories/a71536278/one-month-walking-challenge/](https://www.runnersworld.com/runners-stories/a71536278/one-month-walking-challenge/))，要吃到體重公斤數的「八倍」公克數。
+
+---
+
+RPE (= Rate of Perceived Exertion) should be the primary measure—everything produced by your watch is secondary feedback.
+
+Rate every run on a 1 to 10 scale and log it. Easy runs sit at 4 to 6, threshold work at 7 to 8, and hard intervals at 9 to 10.
+
+---
+
+Breathing Rate: Count the steps you take on each inhale and exhale. A 3-step inhale and 3-step exhale usually signals easy running, dropping toward 2 and 2 as the pace turns hard.
+
+---
 
 # How to Measure Your Max HR
 
