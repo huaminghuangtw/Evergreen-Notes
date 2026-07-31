@@ -1,6 +1,6 @@
 ---
 title: Cultivate a strong bias towards action
-modified: 2026-07-29
+modified: 2026-07-31
 ---
 
 > “To be is to do.” — Immanuel Kant
@@ -183,6 +183,8 @@ There is no later, because later you’ll be [dead](death.md).
 # Stop gathering more information and start acting on the information you already have.
 
 > “Wanting more information is often just a form of procrastination.” — Russ Roberts
+
+> “If more information was the answer, then we’d all be billionaires with perfect abs.” — Derek Sivers
 
 * [Information is abundant](information-overwhelm.md), action is hard. Execution is everything.
 * Ideas are cheap. It’s the execution of ideas that really separates the sheep from the goats.
