@@ -1,5 +1,5 @@
 ---
-modified: 2026-07-25
+modified: 2026-07-31
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -254,3 +254,33 @@ I chose silence over the last word and it gave me something no argument ever did
 生产力工具“，想要盈利不能面向 C 端（消费者），只能面向 B 端（企业）。
 
 原因是，企业为员工的时间付费，所以他们愿意为能提高员工效率的工具买单；而消费者则大多只想消磨时间，不喜欢节省时间，所以他们不会为提高效率的软件买单。
+
+---
+
+There’s a famous saying in finance, “past performance is not indicative of future results,” yet every prediction of the future is built on the basis of the past.
+
+---
+
+[In the 1990s, a theoretical biologist named Stuart Kauffman sought to answer a question that had puzzled scientists since its discovery:
+
+Why had the Cambrian Explosion occurred when it did?
+
+His answer:
+
+Because it couldn’t have happened earlier. It wasn’t possible yet. The raw material simply did not exist.
+
+Kauffman called his theory the Adjacent Possible. The idea that what is possible next is governed by what is actual now.
+
+Each new development doesn’t just exist in a vacuum. It unlocks the next potential series of developments just beyond it. Combinations and extensions that were unimaginable just a few steps earlier now become obvious.
+
+Futures can quickly transition from being outside the bounds of rational prediction to well within them.
+
+From impossible to possible. The Adjacent Possible.](https://youtu.be/nEtATZePGmg)
+
+---
+
+Author Steven Johnson, who popularized the idea in a 2010 book, wrote the following:
+
+“The adjacent possible is a kind of shadow future, hovering on the edges of the present state of things.”
+
+	> Where Good Ideas Come From
