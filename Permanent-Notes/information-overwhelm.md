@@ -1,12 +1,6 @@
 ---
 title: Information Overwhelm
-modified: 2026-07-28
----
-
-> “The key is to stop foregrounding the tool — the stream — and learn instead to change our relationship to information, to cultivate a more mindful and intentional state of mind about when, why, and how we take things in.” — David Sax, [The Revenge of Analog](https://www.goodreads.com/work/quotes/66712455)
-
-> “If more information was the answer, then we’d all be billionaires with perfect abs.” — Derek Sivers
-
+modified: 2026-07-31
 ---
 
 # The Problem
@@ -37,6 +31,9 @@ modified: 2026-07-28
 	* Develop the habit of asking yourself, “_Will I definitely use this information for something immediate and important?_” before consuming any content
 	* Shift from passive consumption (“What does the internet say?”) to active inquiry (“What am I curious about today? What do I genuinely want to understand?”).
 	* Proactive consumption means setting an intention _before_ opening a feed, video, or article.
+
+		> “The key is to stop foregrounding the tool — the stream — and learn instead to change our relationship to information, to cultivate a more mindful and intentional state of mind about when, why, and how we take things in.” — David Sax, [The Revenge of Analog](https://www.goodreads.com/work/quotes/66712455)
+
 		* What question am I trying to answer?
 		* What problem am I trying to solve?
 * Answer → Questions
