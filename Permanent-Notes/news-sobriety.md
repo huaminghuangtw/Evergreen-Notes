@@ -1,6 +1,6 @@
 ---
 title: News Sobriety
-modified: 2026-07-18
+modified: 2026-07-31
 ---
 
 > “If you don’t read the newspaper, you’re uninformed. If you read the newspaper, you’re misinformed.” — Mark Twain
@@ -9,9 +9,7 @@ modified: 2026-07-18
 
 > “If you’re not careful, the newspapers will have you hating the people who are being oppressed, and loving the people who are doing the oppressing.” — Malcolm X
 
----
-
-[Stop Reading News](https://fs.blog/stop-reading-news/)
+> “News is to the mind what sugar is to the body: appetising, easily digestible and extremely damaging.” — Rolf Dobelli, [Stop Reading the News: A Manifesto for a Happier, Calmer and Wiser Life](https://www.goodreads.com/work/quotes/73913219)
 
 ---
 
@@ -38,6 +36,8 @@ Want to know more about the world? Turn off the news and go spend time in it.
 * More data leads to a higher ratio of noise-to-signal
 * By consuming more, you end up knowing less about what’s actually going on.
 
+> “To be completely cured of newspapers, spend a year reading the previous week’s newspapers.” — Nassim Nicholas Taleb, [The Bed of Procrustes: Philosophical and Practical Aphorisms](https://www.goodreads.com/work/quotes/14286203)
+
 ---
 
 # Gell-Mann Razor
@@ -61,7 +61,7 @@ Want to know more about the world? Turn off the news and go spend time in it.
 
 # Trends > News
 
-> 專注於「不會變的東西」，才不會每天都被「變來變去的東西」搞得心神不寧。
+> 專注於「不會變的東西」（invariants），才不會每天都被「變來變去的東西」搞得心神不寧。
 
 * 只關注/吸收具有「時效性」（Timeless）的資訊，這些內容在多年後依然適用、價值不減。
 * 反之，盡可能忽略「即時性」（Timely）的新聞，例如：
