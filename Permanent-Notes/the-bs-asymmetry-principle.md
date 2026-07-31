@@ -1,6 +1,6 @@
 ---
 title: The BS Asymmetry Principle
-modified: 2026-07-23
+modified: 2026-07-31
 ---
 
 > “A lie can travel half way around the world while the truth is putting on its shoes.” — Mark Twain
@@ -36,6 +36,10 @@ It is easier to relate a simple lie than a complex truth.
 1. Media literacy and fact-checking.
 2. [Social media](quit-social-media.md) moderation.
 3. Science communication and public discourse.
+
+---
+
+Assume every media article contains a certain percent of false information.
 
 ---
 
