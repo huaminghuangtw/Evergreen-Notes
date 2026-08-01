@@ -1,6 +1,6 @@
 ---
 title: Dare to be different
-modified: 2026-06-29
+modified: 2026-08-01
 ---
 
 > “Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.” — Robert Frost, The Road Not Taken
@@ -42,6 +42,8 @@ The things that make me different are the things that make me me.
 ---
 
 > “Be yourself; everyone else is already taken.” — Oscar Wilde
+
+> “You are playing a sacred role that was created just for you.” — Mary Davis
 
 > “You are loved just for being who you are.” — Ram Dass
 
