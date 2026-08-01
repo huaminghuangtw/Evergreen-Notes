@@ -1,5 +1,5 @@
 ---
-modified: 2026-07-31
+modified: 2026-08-01
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -275,7 +275,7 @@ Each new development doesn’t just exist in a vacuum. It unlocks the next poten
 
 Futures can quickly transition from being outside the bounds of rational prediction to well within them.
 
-From impossible to possible. The Adjacent Possible.](https://youtu.be/nEtATZePGmg)
+From impossible to possible. The Adjacent Possible.](<https://youtu.be/nEtATZePGmg>)
 
 ---
 
@@ -283,4 +283,4 @@ Author Steven Johnson, who popularized the idea in a 2010 book, wrote the follow
 
 “The adjacent possible is a kind of shadow future, hovering on the edges of the present state of things.”
 
-	> Where Good Ideas Come From
+> 《Where Good Ideas Come From》
