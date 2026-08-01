@@ -1,6 +1,6 @@
 ---
 title: Wu Wei
-modified: 2026-06-29
+modified: 2026-08-01
 ---
 
 > “Nature never hurries, yet everything is accomplished.” — Lao Tzu
@@ -60,7 +60,7 @@ Wu Wei is the fruit of deep [preparation](planning-and-preparation-help-maximize
 
 ---
 
-發呆比賽（Space-Out Competition）是由韓國視覺藝術家 Woopsyang 於 2014 年發起的行為藝術活動，旨在反思現代社會高壓、過勞與追求效率的生活型態。比賽中，參賽者必須在指定時間（通常約 90 分鐘）內維持「什麼都不做」的狀態，且不能使用手機、不能交談，也不能睡著。看似簡單，實則極具挑戰，藉此邀請人們重新思考「放空」的價值，以及在忙碌生活中保留片刻喘息與覺察的重要性。
+發呆比賽（Space-Out Competition）是由韓國視覺藝術家 Woopsyang 於 2014 年發起的行為藝術活動，旨在反思現代社會高壓、過勞與追求效率的生活型態。比賽中，參賽者必須在指定時間（通常約 90 分鐘）內維持「什麼都不做」的狀態，且不能使用手機、不能交談，也不能睡著。看似簡單，實則極具挑戰，藉此邀請人們重新思考「放空」的價值，以及在忙碌生活中保留片刻喘息與覺察的重要性。[^4]
 
 ---
 
@@ -72,10 +72,9 @@ Wu Wei is the fruit of deep [preparation](planning-and-preparation-help-maximize
 
 ---
 
----
-
 [Not caring lets us perform better](not-caring-lets-us-perform-better.md)
 
 [^1]: Ego-less, unattached
 [^2]: Ego-driven, attached to outcome
 [^3]: **Observe nature.** The river does not push the current; the tree does not strain to grow. They simply follow their nature.
+[^4]: being left alone with their thoughts
