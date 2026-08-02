@@ -1,6 +1,6 @@
 ---
 title: Wu Wei
-modified: 2026-08-01
+modified: 2026-08-02
 ---
 
 > “Nature never hurries, yet everything is accomplished.” — Lao Tzu
@@ -61,6 +61,19 @@ Wu Wei is the fruit of deep [preparation](planning-and-preparation-help-maximize
 ---
 
 發呆比賽（Space-Out Competition）是由韓國視覺藝術家 Woopsyang 於 2014 年發起的行為藝術活動，旨在反思現代社會高壓、過勞與追求效率的生活型態。比賽中，參賽者必須在指定時間（通常約 90 分鐘）內維持「什麼都不做」的狀態，且不能使用手機、不能交談，也不能睡著。看似簡單，實則極具挑戰，藉此邀請人們重新思考「放空」的價值，以及在忙碌生活中保留片刻喘息與覺察的重要性。[^4]
+
+---
+
+Sit for three minutes, follow two rules:
+
+1. Don’t do anything.
+2. Be content.
+
+By “don’t do anything,” I mean don’t move, don’t fidget, don’t indulge any thoughts or daydreams. You’re allowed to breathe, and blink.
+
+By “be content,” I mean be completely okay with your experience of doing nothing. Don’t try to change anything, and don’t get impatient with what’s happening. Be completely okay for three minutes.
+
+_It’s oddly difficult to do nothing, and while you’re doing nothing, it’s oddly difficult to feel at ease._ There’s such a strong urge to do something: look around the room, rehash a conversation, explore your incisors with your tongue, wiggle your toes, anything. When you stop doing everything and just **exist**, you almost feel like you’re dying.
 
 ---
 
