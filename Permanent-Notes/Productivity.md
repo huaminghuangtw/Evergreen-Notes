@@ -1,6 +1,6 @@
 ---
 title: Productivity
-modified: 2026-07-06
+modified: 2026-08-02
 ---
 
 > “If you can’t fit everything in within the time and budget allotted then don’t expand the time and budget. Instead, pull back the scope. There’s always time to add stuff later — later is eternal, now is fleeting.” — Jason Fried, [Getting Real](https://www.goodreads.com/work/quotes/72546)
@@ -35,7 +35,9 @@ Productivity
 
 ---
 
-Fill your day with hope and face it with joy. Do bold things with a pleasant and friendly demeanor. Enjoyment is time & energy efficiency. When you’re enjoying yourself, productivity takes care of itself. When work feels like play, the world becomes your playground. 😊
+> “Play is just another version of work.” — Ray Kurzweil, [The Singularity is Near: When Humans Transcend Biology](https://www.goodreads.com/work/quotes/1080)
+
+Fill your day with hope and face it with joy. Do bold things with a pleasant and friendly demeanor. [Enjoyment is time & energy efficiency.](you-cant-beat-someone-who-genuinely-enjoys-the-work-itself.md) _When you’re enjoying yourself, productivity takes care of itself. When work feels like play, the world becomes your playground._ 😊
 
 ---
 
