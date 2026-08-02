@@ -1,6 +1,6 @@
 ---
 title: Journaling
-modified: 2026-07-31
+modified: 2026-08-02
 ---
 
 > “Create an environment where you’re free to express what you’re afraid to express.” — Rick Rubin
@@ -69,6 +69,8 @@ E.g., feelings, emotions, thoughts, memories, special moments/occasions/events
 
 # Approaches
 
+> 不管使用哪種方法，最重要的是持續地忠實記錄！
+
 * “The 1-1-1 Method” by Sahil Bloom
 	* 1 win from the day
 	* 1 point of tension, anxiety, or stress
@@ -78,7 +80,9 @@ E.g., feelings, emotions, thoughts, memories, special moments/occasions/events
 	* 小落敗
 	* 小發現
 * [“Bullet Journaling (Bujo)” by Ryder Caroll](https://bulletjournal.com)
-	* A chronological record of the day
+
+	> A chronological record of the day
+
 * “Shadow-Work Journaling (陰影日記)” by Keila Shaheen
 * “The 6 Minute Diary” by Dominik Spenst
 * “Morning Pages (晨間日記)” by Julia Cameron
