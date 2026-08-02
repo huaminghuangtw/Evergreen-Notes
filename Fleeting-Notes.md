@@ -1,5 +1,5 @@
 ---
-modified: 2026-08-01
+modified: 2026-08-02
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -261,7 +261,7 @@ There’s a famous saying in finance, “past performance is not indicative of f
 
 ---
 
-[In the 1990s, a theoretical biologist named Stuart Kauffman sought to answer a question that had puzzled scientists since its discovery:
+In the 1990s, a theoretical biologist named Stuart Kauffman sought to answer a question that had puzzled scientists since its discovery:
 
 Why had the Cambrian Explosion occurred when it did?
 
@@ -275,7 +275,9 @@ Each new development doesn’t just exist in a vacuum. It unlocks the next poten
 
 Futures can quickly transition from being outside the bounds of rational prediction to well within them.
 
-From impossible to possible. The Adjacent Possible.](<https://youtu.be/nEtATZePGmg>)
+From impossible to possible. The Adjacent Possible.
+
+<https://youtu.be/nEtATZePGmg>
 
 ---
 
@@ -284,3 +286,66 @@ Author Steven Johnson, who popularized the idea in a 2010 book, wrote the follow
 “The adjacent possible is a kind of shadow future, hovering on the edges of the present state of things.”
 
 > 《Where Good Ideas Come From》
+
+---
+
+
+[PageFind Optimization: 0. Check style sheet in `npm_module` folder (default CSS file) 1. Add filters: Writing & Garden 2. Use SSR: (1) Pre-filled Search Query (2) highlightParam: "highlight", (3) If no results returned: (1) explore topics (tags) (2) Random post (3) Send email (See sketchplanations)](https://pagefind.app/docs/highlighting/)
+  * Yes! The `PagefindSearch` component from `astro-pagefind` supports a `query` prop to pre-fill the search query. You can use it in several ways:
+  * 
+  * **1. Hard-coded query:**
+  * ```astro
+  * <PagefindSearch
+  *   id="search"
+  *   className="pagefind-ui"
+  *   query="astro"
+  *   uiOptions={{
+  *     autofocus: true,
+  *     showSubResults: true,
+  *   }}
+  * />
+  * ```
+  * 
+  * **2. From URL search parameters (SSR mode):**
+  * ```astro
+  * 
+---
+
+  * 
+  * <PagefindSearch
+  *   id=“search”
+  *   className=“pagefind-ui”
+  *   query={q}
+  *   uiOptions={{
+  *     autofocus: true,
+  *     showSubResults: true,
+  *   }}
+  * />
+  * ```
+  * 
+  * **3. From URL search parameters (Static mode with client-side script):**
+  * 
+  * Since your site is likely statically generated, you'd need to handle URL params client-side. Let me know if you want me to implement this approach - it would involve reading `window.location.search` on page load and updating the search input dynamically.
+---
+
+
+[astro-pagefind/packages/example/src/pages/prefilled.astro at main · shishkin/astro-pagefind](https://github.com/shishkin/astro-pagefind/blob/main/packages/example/src/pages/prefilled.astro)
+  * [Pre-filled Search Query](https://github.com/shishkin/astro-pagefind?tab=readme-ov-file#pre-filled-search-query) use the search query as a url parameter in SSR mode
+  * 
+  * 
+---
+
+  * 
+  * <!doctype html>
+  * <html lang=“en”>
+  *   <head>
+  *     <meta charset=“UTF-8” />
+  *     <meta name=“viewport” content=“width=device-width” />
+  *     <title>astro-pagefind</title>
+  *   </head>
+  *   <body>
+  *     <h1>Pre-filled Search</h1>
+  *     <p>Searching for: {q}</p>
+  *     <Search id=“search” query={q} />
+  *   </body>
+  * </html>
