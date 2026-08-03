@@ -1,6 +1,6 @@
 ---
 title: Energy Management
-modified: 2026-06-10
+modified: 2026-08-03
 ---
 
 > “Energy is eternal delight.” — William Blake
@@ -15,21 +15,29 @@ modified: 2026-06-10
 
 ---
 
-比 [時間管理](time-management.md) 更重要！
+# Don’t manage your time, manage your energy
 
-> Don’t manage your time, manage your energy.
+> “Energy, not time, is the fundamental currency of high performance.” — Jim Loehr
 
----
+Time is the same for everyone — 24 hours a day, no more, no less. Energy, by contrast, is highly variable: it fluctuates with sleep, nutrition, stress, environment, and mindset. Two people can hold identical calendars yet produce radically different output, because what determines output isn’t the _hours_ available but the _quality of the hours_ spent.
 
-[David Hawkins’ Levels of Consciousness（情緒能量表）](https://www.google.com/search?q=David%20Hawkins%27%20Levels%20of%20Consciousness)
+Time management optimizes _when_ you do things; energy management optimizes _how well_ you do them. Time is a container; energy is the fuel that fills it — and [a full tank spent on the wrong task is as wasteful as an empty one.](what-you-work-on-is-far-more-important-than-how-productively-you-work.md)
 
----
-
-There’s no such thing as working too hard. There’s just being under rested. — Don’t focus on energy output (working too hard). Focus on energy production ([recharging activities](the-most-productive-people-prioritize-intentional-rest.md)).
+This is why energy management is [more fundamental than time management](time-management.md): once the calendar is mastered, the binding constraint is no longer the number of hours but the _intensity_ you can bring to each one.
 
 ---
 
-# Willpower Is Not A Limited Resource & Ego-depletion Is A Myth
+# David Hawkins’ Levels of Consciousness
+
+> 情緒能量表
+
+Hawkins’ map (scaled 0–1000) is one lens for seeing why _state_ dominates productivity. At low levels — shame, guilt, apathy, fear — the same task feels exhausting, and self-defeating thoughts quietly drain energy. At higher levels — courage, acceptance, reason, love — the same task becomes intrinsically motivating. From this view, energy management is partly _state management_: raise the level from which you operate, rather than merely squeezing more output from a low state.
+
+[You can’t beat someone who genuinely enjoys the work itself](you-cant-beat-someone-who-genuinely-enjoys-the-work-itself.md)
+
+---
+
+# Willpower is not a limited resource & Ego-depletion is a myth
 
 * After a particularly grueling day, I’d sit on the couch and veg for hours, doing my version of “[Netflix and chill](https://en.wikipedia.org/wiki/Netflix_and_chill),” which meant keeping company with a pint of ice cream. Even though I knew that eating ice cream and sitting for a long time were probably bad ideas, I told myself that relaxation was my well-deserved reward for working so hard.
 * Psychological researchers have a name for this phenomenon: it’s called “[Ego Depletion](https://www.nirandfar.com/ego-depletion/).” The theory is that ~~willpower is connected to a limited reserve of mental energy, and once you run out of that energy, you’re more likely to lose self-control.~~
@@ -40,9 +48,19 @@ There’s no such thing as working too hard. There’s just being under rested. 
 	* [@jobBeliefsWillpowerDetermine2013]
 		* …following a demanding task, only people who view willpower as limited and easily depleted (a limited resource theory) exhibited improved self-control after sugar consumption.
 		* In contrast, people who view willpower as plentiful (unlimited) showed no benefits from glucose—they exhibited high levels of self-control performance with or without sugar boosts.
-* Here’s the key point: **Simply believing that we’re “spent” or mentally drained can create a sense of fatigue, a phenomenon linked to [the nocebo effect](https://en.wikipedia.org/wiki/Nocebo). [Clinging to / Holding onto the idea that willpower is a finite resource can be harmful/detrimental](push-your-limits.md), making us more likely to lose [self-control](discipline-equals-freedom.md) and [make poor decisions](decision-making.md). In reality, ego depletion is driven by [self-defeating thoughts](negative-thoughts-and-emotions.md), rather than any biological limitation. It’s not the sugar in the lemonade that sustains mental stamina—it’s [the placebo effect](https://en.wikipedia.org/wiki/Placebo) in action.** [^1]
-* Moreover, **willpower functions like an emotion.** Just as we don’t “run out” of joy or anger, willpower rises and falls depending on what’s happening to us and how we feel.
-	* If mental energy behaves like an emotion rather than fuel in a tank, it can be managed and harnessed accordingly: **When faced with a difficult task, it’s more productive and healthy to view a lack of motivation as temporary, rather than assuming we’re spent/drained and need a break.**
+* Here’s the key point: **Simply believing that we’re “spent” or mentally drained can create a sense of fatigue, a phenomenon linked to [the nocebo effect](https://en.wikipedia.org/wiki/Nocebo). Clinging to / Holding onto the idea that willpower is a finite resource can be harmful/detrimental, making us more likely to lose self-control and make poor decisions. In reality, ego depletion is driven by [self-defeating thoughts](negative-thoughts-and-emotions.md), rather than any biological limitation. It’s not the sugar in the lemonade that sustains mental stamina—it’s [the placebo effect](https://en.wikipedia.org/wiki/Placebo) in action.** [^1]
+* Moreover, **willpower functions like an emotion.** Just as we don’t “run out” of joy or anger, willpower rises and falls depending on what’s happening to us and how we feel. ⭐️ If mental energy behaves like an emotion rather than fuel in a tank, it can be managed and harnessed accordingly: **When faced with a difficult task, it’s more productive and healthy to view a lack of motivation as temporary, rather than assuming we’re spent/drained and need a break.**
+
+---
+
+# Energy Production vs Energy Expenditure
+
+A common failure mode is to treat energy as a fixed budget to be spent conservatively — to “pace yourself” and hoard what remains. The more useful frame: **energy is a capacity you can grow, not a reserve you merely draw down.** Just as an athlete, a knowledge worker improves performance through two loops:
+
+* **Train the capacity** — build physical fitness, emotional resilience, and deep-work stamina through progressive, deliberate practice. Capacity grows only under _load_, and load is sustainable only with _recovery_.
+* **Recover intentionally** — treat [rest](the-most-productive-people-prioritize-intentional-rest.md) as a _productive activity_ rather than the absence of work. Sleep, walks, and unstructured time are not wasted hours; they are the production side of the energy equation ([recharging activities](the-most-productive-people-prioritize-intentional-rest.md)).
+
+There’s no such thing as working too hard. There’s just being under rested. — Don’t focus on energy output. Focus on energy production.
 
 ---
 
@@ -51,16 +69,22 @@ There’s no such thing as working too hard. There’s just being under rested. 
 * If you don’t schedule actions that produce energy, assume they’ll never happen.
 * If you don’t monitor actions that drain energy, assume they’ll keep expanding.
 
+Energy-producing actions (exercise, rest, deep work, meaningful connection) rarely feel urgent, so they silently lose out to urgent-but-draining tasks (email, meetings, notifications). Scheduling them converts vague intentions into explicit commitments.
+
+Conversely, energy-draining actions expand to fill any unmonitored space — what you don’t track, you don’t notice, and what you don’t notice grows.
+
 ---
 
-> [My ability to do any serious mathematics fluctuates greatly from day to day; sometimes I can think hard on a problem for an hour, other times I feel ready to type up the full details of a sketch that I or my coauthors already wrote, and other times I only feel qualified to respond to email and do errands, or just to take a walk or even a nap. I find it very helpful to organise my time to match this fluctuation: for instance, if I have a free afternoon, and feel inspired to do so, I might close my office door, shut off the internet, and begin typing on a languishing paper; or if not, I go and work on a week’s worth of email, referee a paper, write a blog article, or whatever else seems suited to my current levels of energy and enthusiasm.](https://terrytao.wordpress.com/2008/08/07/on-time-management/)
+# The Four Dimensions of Energy
 
----
+In _The Power of Full Engagement_, Jim Loehr and Tony Schwartz argue that energy has four dimensions, each of which must be managed separately:
 
-# [“The Energy Investment Portfolio” by Ali Abdaal](https://aliabdaal.com/newsletter/the-energy-investment-portfolio/)
+* **Physical energy** — the foundation. Sleep, nutrition, and movement are the cheapest, highest-leverage energy upgrades available; everything else is built on this base.
+* **Emotional energy** — the _quality_ of energy. Positive emotions (curiosity, gratitude, connection) widen capacity; negative emotions (fear, frustration, resentment) leak it.
+* **Mental energy** — the _focus_ of energy. Trained through concentration and mental challenge; best refreshed by novelty and a change of task.
+* **Spiritual energy** — the _meaning_ of energy. Purpose and values act as a force multiplier: work aligned with meaning energizes, while misaligned work depletes no matter how much time it consumes.
 
-* **Dream Investments**: Things that you want to do at some point, but probably not right now; can be as long as you like.
-* **Active Investments**: Things that you want to work on right now (e.g., this week); should be limited (~5) based on how much time and energy you’ve got to invest in them.
+A useful diagnostic when you feel drained: ask which dimension is empty. The remedy differs — a nap restores physical energy, a conversation restores emotional energy, a change of task restores mental energy, and reconnecting with purpose restores spiritual energy. Applying the wrong remedy is a common reason people feel “always tired” despite resting a lot.
 
 ---
 
@@ -68,10 +92,40 @@ There’s no such thing as working too hard. There’s just being under rested. 
 
 ≈ 冪律
 
-舉例來說，你可以將第 n 個最重要的主題的關注度分配為 $(m-1)/m^n$，其中 m > 1。這裡的 m 代表注意力分配的集中程度：當 m 越大 時，注意力會更加集中在前幾個主題上，後面主題的比重會迅速下降；反之，當 m 越接近 1 時，注意力的分配會較為平均。
+第 n 重要的主題，分到 $(m-1)/m^n$ 的注意力，m > 1。
 
-換句話說，m 控制了你專注的「銳利度」— 它越大，你越聚焦於最重要的少數關鍵項目；它越小，你越傾向於在多個主題之間平均投入。
+而 m 就是專注的「銳利度」：m 越大，越聚焦少數關鍵任務；m 越小，越傾向在多個任務之間平均投入。
 
-當然，你無法如此精確地分配你的注意力，但這個公式至少提供了一種在有限資源下進行合理取捨的靈感。
+當然，你不可能這麼精確地分配你的注意力，但這個公式至少提醒你：資源有限，必須取捨。
+
+舉例來說，m = 2 時，第 1 主題就拿走一半，其餘快速衰減：
+
+```mermaid
+pie showData
+    title 注意力分配
+    "第 1 主題（50%）" : 50
+    "第 2 主題（25%）" : 25
+    "第 3 主題（12.5%）" : 12.5
+    "第 4 主題（6.25%）" : 6.25
+    "第 5 主題（3.125%）" : 3.125
+    "其餘主題（3.125%）" : 3.125
+```
+
+---
+
+# Match task difficulty to current capacity
+
+➞ a practice sometimes called _working with your energy, not against it_
+
+> [My ability to do any serious mathematics fluctuates greatly from day to day; sometimes I can think hard on a problem for an hour, other times I feel ready to type up the full details of a sketch that I or my coauthors already wrote, and other times I only feel qualified to respond to email and do errands, or just to take a walk or even a nap. I find it very helpful to organise my time to match this fluctuation: for instance, if I have a free afternoon, and feel inspired to do so, I might close my office door, shut off the internet, and begin typing on a languishing paper; or if not, I go and work on a week’s worth of email, referee a paper, write a blog article, or whatever else seems suited to my current levels of energy and enthusiasm.](https://terrytao.wordpress.com/2008/08/07/on-time-management/)
+
+[Work in sprints, work with your biology](work-in-sprints-work-with-your-biology.md)
+
+---
+
+# [“The Energy Investment Portfolio” by Ali Abdaal](https://aliabdaal.com/newsletter/the-energy-investment-portfolio/)
+
+* **Dream Investments**: Things that you want to do at some point, but probably not right now; can be as long as you like.
+* **Active Investments**: Things that you want to work on right now (e.g., this week); should be limited (~5) based on how much time and energy you’ve got to invest in them.
 
 [^1]: [Studies show that our brain does not consume more blood sugar when working on difficult tasks. The brain is an organ, not a muscle. It does not burn extra calories but maintains a steady energy consumption with increased effort. Whether you’re solving calculus problems or watching cat videos, your brain burns roughly the same number of calories per waking minute.](https://www.scientificamerican.com/article/thinking-hard-calories/)
