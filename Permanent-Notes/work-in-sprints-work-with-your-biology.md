@@ -1,6 +1,6 @@
 ---
 title: Work in sprints, work with your biology
-modified: 2026-07-08
+modified: 2026-08-03
 ---
 
 > “To do great work one must be very idle as well as very industrious.” — Samuel Butler
