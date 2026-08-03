@@ -1,6 +1,6 @@
 ---
 title: Simple is beautiful
-modified: 2026-06-10
+modified: 2026-08-03
 ---
 
 > “Simple is good. Simple is easier. Simple is more profitable.” — J.L. Collins, [The Simple Path to Wealth: Your Road Map to Financial Independence and a Rich, Free Life](https://www.goodreads.com/work/quotes/51187846)
