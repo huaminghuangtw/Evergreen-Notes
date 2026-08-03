@@ -1,6 +1,6 @@
 ---
 title: Chronotype
-modified: 2026-06-10
+modified: 2026-08-03
 ---
 
 = 生理時型
