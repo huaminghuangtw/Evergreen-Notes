@@ -1,6 +1,6 @@
 ---
 title: Resilience
-modified: 2026-07-03
+modified: 2026-08-03
 ---
 
 > [“Fall for none, rise for all.” — Matshona Dhliwayo](https://www.goodreads.com/quotes/9606859-fall-for-none-rise-for-all)
@@ -43,7 +43,7 @@ modified: 2026-07-03
 
 1. 脆弱 Fragile：遇到變動就損壞（如玻璃杯）
 2. 強韌 Robust：可以承受變動但無法從中受益（如壺鈴）
-3. 非脆弱 Antifragile：[愈挫愈勇，在混亂中茁壯](the-growth-mindset.md)（如創作作品、實驗性的想法）
+3. 反脆弱 Antifragile：[愈挫愈勇，在混亂中茁壯](the-growth-mindset.md)（如創作作品、實驗性的想法）
 
 ---
 
