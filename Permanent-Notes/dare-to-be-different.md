@@ -1,6 +1,6 @@
 ---
 title: Dare to be different
-modified: 2026-08-01
+modified: 2026-08-04
 ---
 
 > “Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.” — Robert Frost, The Road Not Taken
@@ -52,6 +52,8 @@ The things that make me different are the things that make me me.
 > “To be nobody but yourself in a world which is doing its best, night and day, to make you everybody else, means to fight the hardest battle any human being can fight, and never stop fighting.” — E. E. Cummings
 
 [To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.](https://www.goodreads.com/quotes/876-to-be-yourself-in-a-world-that-is-constantly-trying) Be true to yourself.
+
+Trying be different grug = **pain**. Accepting grug as grug = **peace**.
 
 ---
 
