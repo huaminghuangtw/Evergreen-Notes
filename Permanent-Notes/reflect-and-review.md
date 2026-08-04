@@ -1,6 +1,6 @@
 ---
 title: Reflect & Review
-modified: 2026-06-27
+modified: 2026-08-04
 ---
 
 > “Without reflection, we go blindly on our way, creating more unintended consequences, and failing to achieve anything useful.” — Margaret J. Wheatley
@@ -49,7 +49,7 @@ Introspection is the one of the best ways to expand our [self-awareness](masteri
 
 ---
 
-[Sharpening the Saw](sharpening-the-saw.md)
+[The Two Woodcutters](https://huam.ing/the-two-woodcutters)
 
 [^1]: 後見之明
 [^2]: i.e., breaking bad thinking habits
