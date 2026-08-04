@@ -1,6 +1,6 @@
 ---
 title: Planning and preparation help maximize your productivity
-modified: 2026-07-02
+modified: 2026-08-04
 ---
 
 > [“The antidote to impulsiveness is forethought.” — Nir Eyal](https://youtu.be/VVez_sI1zTU)
@@ -17,7 +17,7 @@ modified: 2026-07-02
 
 > “In preparing for battle I have always found that plans are useless, but planning is indispensable.” — Dwight D. Eisenhower
 >
-> 在準備一場戰役的時候，我總是發現計劃是沒有用的，但計劃又是不可或缺的。
+> 在準備一場戰役的時候，我發現計劃沒有用，但又不可或缺。
 
 > “To win is not important. To be successful is not even important. How to plan and prepare is crucial. When you plan very well and prepare very well, then success can come on the way. Then winning can come on your way.” — Eliud Kipchoge
 
@@ -82,17 +82,7 @@ It’s not about idling; it’s about using the pause to build [what comes next]
 
 It’s important to take time to [sharpen the saw](https://sketchplanations.com/sharpen-the-saw).
 
-# The Two Woodcutters
-
-This is a well-known metaphor for the importance of taking time to “sharpen your saw,” a concept introduced by Stephen Covey in his book The 7 Habits of Highly Effective People.
-
-[@covey7HabitsHighly2013]
-
-> Once upon a time, there were two woodcutters who were hired to cut down trees in the forest. The first woodcutter worked nonstop, chopping down tree after tree with all his strength. The second woodcutter, however, took regular breaks and spent time sharpening his saw, while the first woodcutter kept hacking away without pausing.
->
-> As time went on, the first woodcutter became increasingly exhausted, yet he kept going, convinced that working harder and longer would get him the best results. The second woodcutter, on the other hand, took the time to rest and maintain his tools, believing that the efficiency gained from sharpening his saw would save him time and effort in the long run.
->
-> At the end of the day, when both woodcutters stood back to assess their work, the second woodcutter had cut down far more trees. The first woodcutter, although he had worked harder, had not been as productive because his saw had become dull, and he had not taken the time to maintain his tools.
+[The Two Woodcutters](https://huam.ing/the-two-woodcutters)
 
 ---
 
@@ -118,6 +108,10 @@ This is a well-known metaphor for the importance of taking time to “sharpen yo
 	* _What are the 3 to 5 major chess moves that I am going to do to get to the goal?_
 * **System**
 	* _What do I need to do everyday / every week that will help me stick to the plan and achieve the goal?_
+
+---
+
+[Weekly Plan](weekly-plan.md)
 
 ---
 
