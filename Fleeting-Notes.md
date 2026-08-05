@@ -286,3 +286,16 @@ Author Steven Johnson, who popularized the idea in a 2010 book, wrote the follow
 “The adjacent possible is a kind of shadow future, hovering on the edges of the present state of things.”
 
 > 《Where Good Ideas Come From》
+
+
+---
+
+人：決定什麼是對的事AI：負責把事情給做對
+
+---
+
+一種是請「代打」，一種是找「陪練」。
+
+---
+
+For many tasks, the human is the bottleneck, not the model, because the difficult part is in communicating to the model exactly what kind of solution the human wants. The information is “in the model” already, but it takes a very smart human to pull it out.
