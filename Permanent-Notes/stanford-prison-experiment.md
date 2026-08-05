@@ -1,6 +1,12 @@
 ---
 title: Stanford Prison Experiment
-modified: 2026-06-10
+modified: 2026-08-05
+---
+
+> “The line between good and evil is permeable. Anyone can be seduced by evil.” — Philip Zimbardo
+
+> “It’s not that we put bad apples in a good barrel. We put good apples in a bad barrel. The barrel corrupts anything that it touches.” — Philip Zimbardo
+
 ---
 
 In 1971, Dr. Philip Zimbardo conducted a psychological study famously known as the “[Stanford Prison Experiment](https://exhibits.stanford.edu/spe).”
@@ -12,5 +18,3 @@ The study took place in the basement of Stanford University’s psychology depar
 Participants quickly adapted to their assigned roles: guards became increasingly authoritarian and abusive, while prisoners became passive, anxious, and emotionally distressed. The psychological effects were so severe that some prisoners experienced breakdowns, and the guards’ actions escalated to the point of inflicting psychological harm.
 
 The Stanford Prison Experiment demonstrated how easily people can conform to social roles and expectations, especially when those roles are supported by institutional power and anonymity. It raised important ethical questions about research in psychology and led to greater scrutiny of experimental design and participant welfare.
-
-The findings have been widely discussed in the fields of social psychology, ethics, and criminal justice, illustrating the dangers of unchecked authority and the vulnerability of individuals to situational pressures. The experiment remains a powerful example of how context and environment can override personal morals and identity.
