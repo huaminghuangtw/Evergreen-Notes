@@ -1,6 +1,6 @@
 ---
 title: Do great work
-modified: 2026-06-25
+modified: 2026-08-06
 ---
 
 > “To be great is to be misunderstood.” — Ralph Waldo Emerson
@@ -93,7 +93,7 @@ Cultivating infinite devotion with internal drive is the prerequisite for becomi
 
 If it’s worth doing, it’s worth doing very well.
 
-—
+---
 
 精進/偉大/專家/頂尖之路是<mark>短時間進步、長時間停滯</mark>的旅程，要學會「享受」[過程](journey-over-destination.md) 中的高原期 (Plateau)
 
