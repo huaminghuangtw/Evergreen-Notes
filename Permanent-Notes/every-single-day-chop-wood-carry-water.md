@@ -1,6 +1,6 @@
 ---
 title: Every single day, chop wood, carry water
-modified: 2026-07-19
+modified: 2026-08-06
 ---
 
 > [“The wedding (or honeymoon holiday) is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice. The heart, mind, and body are endless pursuits.” — James Clear](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice)
@@ -171,6 +171,10 @@ There’s a magic in showing up on your bad days. The choice is yours. Choose wi
 ---
 
 [Be ware of blind consistency](be-ware-of-blind-consistency.md)
+
+---
+
+[Something small, every day](https://austinkleon.com/2013/12/29/something-small-every-day/)
 
 [^1]: 我不怕練一萬種拳的人，但我怕一種拳練一萬次的人。
 [^2]: The only dangerous competitors are the hyper-focused ones.
