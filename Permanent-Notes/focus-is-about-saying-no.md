@@ -1,6 +1,6 @@
 ---
 title: Focus is about saying no
-modified: 2026-07-14
+modified: 2026-08-06
 ---
 
 > [“Focus is about saying no.” — Steve Jobs](https://youtu.be/H8eP99neOVs)
@@ -88,7 +88,7 @@ Since focus requires [saying no](if-it-isnt-fuck-yes-then-its-clear-no-thank-you
 
  [The single greatest threat to your progress is distractions masquerading as opportunities. They’re a _good_ thing—but they’re not the _main_ thing. Just because you can do it, doesn’t mean you should do it. Get comfortable saying no to the _good_ so you can say yes to the _great_.](https://www.sahilbloom.com/newsletter/reflections-from-a-think-week-retreat)
 
-* 📜 Rule: **If it doesn’t feel right, it’s not right.**
+* 📜 Rule: **[If it doesn’t feel right, it’s not right.](trust-your-gut.md)**
 * There are basically two simple questions that cut through the noise on any new opportunity:
 	1. _Do I want the winning version of this thing?_
 	2. _Am I willing to pay the price to get that winning version?_
