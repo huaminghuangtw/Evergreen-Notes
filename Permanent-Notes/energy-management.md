@@ -1,13 +1,11 @@
 ---
 title: Energy Management
-modified: 2026-08-03
+modified: 2026-08-07
 ---
 
 > “Energy is eternal delight.” — William Blake
 
 > [“Your energy is currency. Spend it well. Invest it wisely. Use it Intentionally, consistently, and by your own design.” — Adrienne Bosh](https://x.com/MrsAdrienneBosh/status/988908563232796672)
-
-> “Whatever excites you, go do it. Whatever drains you, stop doing it.” — Derek Sivers
 
 ---
 
@@ -17,13 +15,14 @@ modified: 2026-08-03
 
 # Don’t manage your time, manage your energy
 
+> 能量/精力管理 > [時間管理](time-management.md)
+
 > “Energy, not time, is the fundamental currency of high performance.” — Jim Loehr
 
-Time is the same for everyone — 24 hours a day, no more, no less. Energy, by contrast, is highly variable: it fluctuates with sleep, nutrition, stress, environment, and mindset. Two people can hold identical calendars yet produce radically different output, because what determines output isn’t the _hours_ available but the _quality of the hours_ spent.
+Time is the same for everyone — 24 hours a day, no more, no less. [^1] Energy, by contrast, is highly variable: it fluctuates with sleep, nutrition, stress, environment, and mindset. Time management optimizes _when_ you do things; energy management optimizes _how well_ you do them. Time is a container; energy is the fuel that fills it.
 
-Time management optimizes _when_ you do things; energy management optimizes _how well_ you do them. Time is a container; energy is the fuel that fills it — and [a full tank spent on the wrong task is as wasteful as an empty one.](what-you-work-on-is-far-more-important-than-how-productively-you-work.md)
-
-This is why energy management is [more fundamental than time management](time-management.md): once the calendar is mastered, the binding constraint is no longer the number of hours but the _intensity_ you can bring to each one.
+* 時間是有限的，但能量或精力可以無限。
+* 時間以不變的速度流逝，但能量或精力不斷地在變。
 
 ---
 
@@ -48,7 +47,7 @@ Hawkins’ map (scaled 0–1000) is one lens for seeing why _state_ dominates pr
 	* [@jobBeliefsWillpowerDetermine2013]
 		* …following a demanding task, only people who view willpower as limited and easily depleted (a limited resource theory) exhibited improved self-control after sugar consumption.
 		* In contrast, people who view willpower as plentiful (unlimited) showed no benefits from glucose—they exhibited high levels of self-control performance with or without sugar boosts.
-* Here’s the key point: **Simply believing that we’re “spent” or mentally drained can create a sense of fatigue, a phenomenon linked to [the nocebo effect](https://en.wikipedia.org/wiki/Nocebo). Clinging to / Holding onto the idea that willpower is a finite resource can be harmful/detrimental, making us more likely to lose self-control and make poor decisions. In reality, ego depletion is driven by [self-defeating thoughts](negative-thoughts-and-emotions.md), rather than any biological limitation. It’s not the sugar in the lemonade that sustains mental stamina—it’s [the placebo effect](https://en.wikipedia.org/wiki/Placebo) in action.** [^1]
+* Here’s the key point: **Simply believing that we’re “spent” or mentally drained can create a sense of fatigue, a phenomenon linked to [the nocebo effect](https://en.wikipedia.org/wiki/Nocebo). Clinging to / Holding onto the idea that willpower is a finite resource can be harmful/detrimental, making us more likely to lose self-control and make poor decisions. In reality, ego depletion is driven by [self-defeating thoughts](negative-thoughts-and-emotions.md), rather than any biological limitation. It’s not the sugar in the lemonade that sustains mental stamina—it’s [the placebo effect](https://en.wikipedia.org/wiki/Placebo) in action.** [^2]
 * Moreover, **willpower functions like an emotion.** Just as we don’t “run out” of joy or anger, willpower rises and falls depending on what’s happening to us and how we feel. ⭐️ If mental energy behaves like an emotion rather than fuel in a tank, it can be managed and harnessed accordingly: **When faced with a difficult task, it’s more productive and healthy to view a lack of motivation as temporary, rather than assuming we’re spent/drained and need a break.**
 
 ---
@@ -75,16 +74,26 @@ Conversely, energy-draining actions expand to fill any unmonitored space — wha
 
 ---
 
+# The 3-Question Daily Check
+
+> “Whatever excites you, go do it. Whatever drains you, stop doing it.” — Derek Sivers
+
+1. What produced energy today?
+2. What drained it?
+3. What will I schedule or cut tomorrow?
+
+**Schedule the energy-producing action before the energy-consuming one, letting the calendar enforce the default rule instead of your willpower.**
+
+---
+
 # The Four Dimensions of Energy
 
 In _The Power of Full Engagement_, Jim Loehr and Tony Schwartz argue that energy has four dimensions, each of which must be managed separately:
 
-* **Physical energy** — the foundation. Sleep, nutrition, and movement are the cheapest, highest-leverage energy upgrades available; everything else is built on this base.
-* **Emotional energy** — the _quality_ of energy. Positive emotions (curiosity, gratitude, connection) widen capacity; negative emotions (fear, frustration, resentment) leak it.
-* **Mental energy** — the _focus_ of energy. Trained through concentration and mental challenge; best refreshed by novelty and a change of task.
-* **Spiritual energy** — the _meaning_ of energy. Purpose and values act as a force multiplier: work aligned with meaning energizes, while misaligned work depletes no matter how much time it consumes.
-
-A useful diagnostic when you feel drained: ask which dimension is empty. The remedy differs — a nap restores physical energy, a conversation restores emotional energy, a change of task restores mental energy, and reconnecting with purpose restores spiritual energy. Applying the wrong remedy is a common reason people feel “always tired” despite resting a lot.
+* **Physical energy 身體能量** — the _foundation_ of energy. Sleep, nutrition, and movement are the cheapest, highest-leverage energy upgrades available; everything else is built on this base.
+* **Emotional energy 情感能量** — the _quality_ of energy. Positive emotions (curiosity, gratitude, connection) widen capacity; negative emotions (fear, frustration, resentment) leak it.
+* **Mental energy 心智能量** — the _focus_ of energy. Trained through concentration and mental challenge; best refreshed by novelty and a change of task. [^3]
+* **Spiritual energy 心靈能量** — the _meaning_ of energy. Purpose and values act as a force multiplier: work aligned with meaning energizes, while misaligned work depletes no matter how much time it consumes.
 
 ---
 
@@ -128,4 +137,6 @@ pie showData
 * **Dream Investments**: Things that you want to do at some point, but probably not right now; can be as long as you like.
 * **Active Investments**: Things that you want to work on right now (e.g., this week); should be limited (~5) based on how much time and energy you’ve got to invest in them.
 
-[^1]: [Studies show that our brain does not consume more blood sugar when working on difficult tasks. The brain is an organ, not a muscle. It does not burn extra calories but maintains a steady energy consumption with increased effort. Whether you’re solving calculus problems or watching cat videos, your brain burns roughly the same number of calories per waking minute.](https://www.scientificamerican.com/article/thinking-hard-calories/)
+[^1]: 每個人每天都是固定 24 小時
+[^2]: [Studies show that our brain does not consume more blood sugar when working on difficult tasks. The brain is an organ, not a muscle. It does not burn extra calories but maintains a steady energy consumption with increased effort. Whether you’re solving calculus problems or watching cat videos, your brain burns roughly the same number of calories per waking minute.](https://www.scientificamerican.com/article/thinking-hard-calories/)
+[^3]: 靠專注練出來，靠新鮮事補回來。
