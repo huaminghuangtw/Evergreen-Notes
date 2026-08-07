@@ -299,3 +299,14 @@ Author Steven Johnson, who popularized the idea in a 2010 book, wrote the follow
 ---
 
 For many tasks, the human is the bottleneck, not the model, because the difficult part is in communicating to the model exactly what kind of solution the human wants. The information is “in the model” already, but it takes a very smart human to pull it out.
+
+---
+
+Janet's Law, named after 19th century French philosopher Paul Janet, which argues that time speeds up as you get older because each year is a smaller fraction of your total life.
+
+---
+
+[Why time speeds up as you age (and what to do about it)](https://essays.highagency.com/p/why-time-speeds-up-as-you-age-and)
+  * When you’re 5 years old, a year is 20% of your life. And when you’re 50 years old, a year is 2% of your life. Janet’s Law states that you experienced roughly half of your perceived life by 20 years old.
+  * ​
+  * Or to put it another way: The summer for a 5 year old feels as long as the 10 years from 40 to 50 years old.
