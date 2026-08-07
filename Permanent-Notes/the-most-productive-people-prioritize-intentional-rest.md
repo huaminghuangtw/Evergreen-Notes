@@ -1,15 +1,17 @@
 ---
 title: The most productive people prioritize intentional rest
-modified: 2026-08-03
+modified: 2026-08-07
 ---
 
 > “Rest until you feel like playing, then play until you feel like resting.” — Martha Beck
 
-> “Rest is not idleness, and to lie sometimes on the grass under trees on a summer’s day, listening to the murmur of the water, or watching the clouds float across the sky, is by no means a waste of time.” — John Lubbock, The Use of Life ​​
-
 > “Sometimes the most important thing in a day is the rest we take.” — Etty Hillesum
 
 > “Time spent amongst trees is never wasted time.” — Katrina Mayer
+
+> “Rest is not idleness, and to lie sometimes on the grass under trees on a summer’s day, listening to the murmur of the water, or watching the clouds float across the sky, is by no means a waste of time.” — John Lubbock, The Use of Life ​​
+
+> “We live in a world that celebrates work and activity, ignores renewal and recovery, and fails to recognize that both are necessary for sustained high performance.” — Jim Loehr, [The Power of Full Engagement](https://www.goodreads.com/work/quotes/66847)
 
 ---
 
