@@ -1,9 +1,34 @@
 ---
 title: Journaling
-modified: 2026-08-06
+modified: 2026-08-07
 ---
 
 > “Create an environment where you’re free to express what you’re afraid to express.” — Rick Rubin
+
+---
+
+# 我的日記
+
+多位一體，包含了：
+
+1. 感恩日記
+2. 工作日誌
+3. 訓練日記
+
+## Wins I Achieved
+
+> “Don’t judge each day by the harvest you reap but by the seeds you plant.” — Robert Louis Stevenson [^1]
+
+* Writing down daily achievements—not matter how small/tiny—gives me a sene of **completeness**.
+* Focus on the seeds, not the trees. What seeds are you planting today?
+* Keep a “Victory Log” to document your daily small/tiny wins to build self-belief and momentum.
+* David Goggins’ **The “Cookie Jar (餅乾罐)” Method**
+	* The “Cookie Jar” is a metaphorical repository of your personal victories—instances where you overcame obstacles, endured hardship, or achieved goals against the odds. Goggins refers to these memories as “cookies.”
+	* When facing a difficult situation, he mentally “reaches into the cookie jar” to remind himself of these past successes, reigniting motivation and reinforcing self-belief.
+
+## Things I Can Improve
+
+* The Bug Book
 
 ---
 
@@ -11,7 +36,7 @@ Why? While [life is short](life-is-shorter-than-you-think.md), it’s too long f
 
 * 記憶是短暫的，記錄才是長遠的。比起模糊的記憶，模糊的紀錄總是比較好。
 * 經過時間沉澱的東西，回頭看總是特別有意思。
-* 留下生命的軌/足跡，把每個時刻的自己快照（Snapshot）起來，相信「未來的自己」一定會很感激「現在的自己」有留下紀錄（幸好當初有寫），就像是「現在的我」很感謝「過往的我」都有回顧覆盤的習慣一樣。[^1]
+* 留下生命的軌/足跡，把每個時刻的自己快照（Snapshot）起來，相信「未來的自己」一定會很感激「現在的自己」有留下紀錄（幸好當初有寫），就像是「現在的我」很感謝「過往的我」都有回顧覆盤的習慣一樣。[^2]
 	* **Mental Time Travel**: Imagine yourself in the past and consider yourself in the present.
 		* Make decisions that your 10-year-old self would be proud of.
 	* **Reverse Mental Time Travel**: Imagine yourself in the future and consider yourself in the present.
@@ -22,25 +47,6 @@ Why? While [life is short](life-is-shorter-than-you-think.md), it’s too long f
 Journaling is more than putting thoughts on paper—it’s a sacred dialogue with the one who knows you best: yourself.
 
 Use daily diary as a place to ask yourself questions, then question your answers.
-
----
-
-# Wins I Achieved
-
-> “Don’t judge each day by the harvest you reap but by the seeds you plant.” — Robert Louis Stevenson [^2]
-
-* Writing down daily achievements—not matter how small/tiny—gives me a sene of **completeness**.
-* Focus on the seeds, not the trees. What seeds are you planting today?
-* Keep a “Victory Log” to document your daily small/tiny wins to build self-belief and momentum.
-* David Goggins’ **The “Cookie Jar (餅乾罐)” Method**
-	* The “Cookie Jar” is a metaphorical repository of your personal victories—instances where you overcame obstacles, endured hardship, or achieved goals against the odds. Goggins refers to these memories as “cookies.”
-	* When facing a difficult situation, he mentally “reaches into the cookie jar” to remind himself of these past successes, reigniting motivation and reinforcing self-belief.
-
----
-
-# Things I Can Improve
-
-* The Bug Book
 
 ---
 
@@ -104,7 +110,7 @@ E.g., feelings, emotions, thoughts, memories, special moments/occasions/events
 * [The Five Minute Journal](https://www.intelligentchange.com/products/the-five-minute-journal)
 * [Gratitude](be-grateful.md) Journaling (感恩日記)
 
-[^1]: Memory is everything. You’re doing this for your future self. Future You will want to look back at this time in your life, and find out what you were actually doing, day-to-day, and how you really felt back then. It will help you [make better decisions](https://fs.blog/decision-journal/). Future You will thank Today You.
-[^2]: _“To plant a garden is to believe in tomorrow.” — Audrey Hepburn_
+[^1]: _“To plant a garden is to believe in tomorrow.” — Audrey Hepburn_
+[^2]: Memory is everything. You’re doing this for your future self. Future You will want to look back at this time in your life, and find out what you were actually doing, day-to-day, and how you really felt back then. It will help you [make better decisions](https://fs.blog/decision-journal/). Future You will thank Today You.
 [^3]: Or: 工作日誌（Worklog）
 [^4]: [Always start with end in mind!](always-start-with-end-in-mind.md)
