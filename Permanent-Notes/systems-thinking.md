@@ -1,6 +1,6 @@
 ---
 title: Systems Thinking
-modified: 2026-06-22
+modified: 2026-08-07
 ---
 
 > “The whole is greater than the sum of its parts.” — Aristotle
