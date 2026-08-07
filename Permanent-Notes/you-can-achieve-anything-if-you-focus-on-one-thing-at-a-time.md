@@ -1,6 +1,6 @@
 ---
 title: You can achieve anything if you focus on one thing at a time
-modified: 2026-06-24
+modified: 2026-08-07
 ---
 
 > If you chase two rabbits, you catch none.
@@ -65,7 +65,7 @@ In _The Happiness Hypothesis_, New York University psychologist [Jonathan Haidt]
 >
 > Do what you are doing. = Do well whatever you do. = Concentrate on the task at hand.
 
-* When walking, walk. When sitting, sit. When eating, eat. Don’t [wobble](https://www.google.com/search?q=wobble).
+* When walking, walk. [^2] When sitting, sit. When eating, eat. Don’t [wobble](https://www.google.com/search?q=wobble).
 * Use lunch time for lunch.
 * [When drinking tea, just drink tea.](https://sketchplanations.com/when-drinking-tea-just-drink-tea)
 * [If you want to live a quiet life, live a quiet life.](https://thequietlife.net/p/if-you-want-to-live-a-quiet-life)
@@ -85,3 +85,4 @@ Ichigyo-zanmai is the practice of doing things to the best of one’s best abili
 [Being indistractable is superpower](being-indistractable-is-superpower.md)
 
 [^1]: Multitasking isn’t always bad — you just have to make sure the conditions are right. The key distinction lies in **automatic vs controlled processing** (as Haidt describes it). Tasks that are highly practiced, routine, or performed on “autopilot” can run in parallel with others — walking while talking, folding laundry while listening to a podcast. However, checking email during a strategy meeting is not “being efficient” — it is partitioning your attention and missing context from both.
+[^2]: 走路不看景，看景不走路。
