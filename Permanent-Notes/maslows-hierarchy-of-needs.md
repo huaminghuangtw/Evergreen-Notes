@@ -1,6 +1,6 @@
 ---
 title: Maslow’s Hierarchy of Needs
-modified: 2026-06-10
+modified: 2026-08-07
 ---
 
 = [Maslow’s Pyramid of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
