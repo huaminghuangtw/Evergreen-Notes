@@ -1,6 +1,6 @@
 ---
 title: Productivity
-modified: 2026-08-02
+modified: 2026-08-07
 ---
 
 > “If you can’t fit everything in within the time and budget allotted then don’t expand the time and budget. Instead, pull back the scope. There’s always time to add stuff later — later is eternal, now is fleeting.” — Jason Fried, [Getting Real](https://www.goodreads.com/work/quotes/72546)
@@ -27,11 +27,11 @@ Productivity is not only a _measure of [efficiency](what-you-work-on-is-far-more
 
 Productivity
 
-= (_High-Quality Output_ / Time Spent) [^2] × Fun Factor
+= (_High-Quality Output_ / Time Spent) [^2] × [Fun Factor](you-cant-beat-someone-who-genuinely-enjoys-the-work-itself.md)
 
-= (_Time Spent × **Intensity** of [Focus](focus-is-about-saying-no.md)_ / Time Spent) × Fun Factor
+= (_Time Spent × **Intensity** of [Focus](focus-is-about-saying-no.md)_ / Time Spent) × [Fun Factor](you-cant-beat-someone-who-genuinely-enjoys-the-work-itself.md)
 
-= _**Intensity**_ of [Focus](focus-is-about-saying-no.md) × Fun Factor [^3]
+= _**Intensity**_ of [Focus](focus-is-about-saying-no.md) × [Fun Factor](you-cant-beat-someone-who-genuinely-enjoys-the-work-itself.md) [^3]
 
 ---
 
