@@ -1,6 +1,6 @@
 ---
 title: How to use AI effectively
-modified: 2026-07-19
+modified: 2026-08-09
 ---
 
 > The dumbest person you know is currently being told “You’re absolutely right!” by ChatGPT.
@@ -8,6 +8,8 @@ modified: 2026-07-19
 ---
 
 **AI 是想法的「放大器/加速器」，而不是想法的「產生器」。**[^1]
+
+> 一種是找「陪練」，一種是請「代打」。
 
 The intended roles AI should play: Treat it as a collaborative partner—an _assistant_, _co-worker_, _helper_, _coach_, or _adviser_—not a _contractor_ to whom you completely delegate your tasks and offload your responsibilities. <mark>Remember: What you outsource will _atrophy_.</mark>
 
@@ -27,7 +29,15 @@ AI is not just a tool, but an extension of our will, allowing us to accomplish f
 
 > [“We humans are tool builders. [...] And so for me, a computer has always been a bicycle of the mind. Something that takes us far beyond our inherent abilities.” — Steve Jobs](https://allaboutstevejobs.com/videos/misc/future_of_pc_1990)
 
-人類的價值：定義問題＋用全域視野調度 AI 工具
+* 人類的價值：定義問題＋用全域視野調度 AI 工具
+* 人：決定什麼是對的事；AI：負責把事情給做對
+
+---
+
+# 自己是最大的瓶頸（The Human Bottleneck）
+
+* For many tasks, the human is the bottleneck, not the model, because the difficult part is in communicating to the model exactly what kind of solution the human wants. The information is “in the model” already, but it takes a very smart human to pull it out.
+* 所有的瓶頸（Bottleneck）最終都回歸到人類自己身上 — 那就是「你的認知能力」與「你知不知道自己要什麼」
 
 ---
 
@@ -37,7 +47,9 @@ AI is not just a tool, but an extension of our will, allowing us to accomplish f
 
 ---
 
-Prompt Engineering (提示詞工程) ➞ Context Engineering (脈絡工程) ➞ Harness Engineering (駕馭工程)
+1. Prompt Engineering (提示詞工程)
+2. Context Engineering (脈絡工程)
+3. Harness Engineering (駕馭工程)
 
 ---
 
