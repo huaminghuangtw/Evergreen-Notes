@@ -300,3 +300,7 @@ Janet’s Law, named after 19th century French philosopher Paul Janet, which arg
 ---
 
 Shisa Kanko, pointing and calling
+
+---
+
+A B C D Runnin Drills
