@@ -1,6 +1,6 @@
 ---
 title: Perfectionism
-modified: 2026-07-04
+modified: 2026-08-14
 ---
 
 > “All software has bugs — it’s just a fact of life. You.” — Jason Fried, [Getting Real](https://www.goodreads.com/work/quotes/72546)
@@ -95,6 +95,10 @@ Done is better than perfect. — First make it work. Then optimize (pretty, effi
 ---
 
 [Just getting started](just-get-started.md)
+
+---
+
+[Build a Tower, Build a Team](https://huam.ing/build-a-tower-build-a-team)
 
 [^1]: [Early-Arriver Arbitrage (First-Mover Advantage) — It’s easy to think you’re already late to an arena even when it’s still so early. A crowd can look big until you see how big it can become; only then do you realize it was actually tiny before. […] If you can, get to the arena before the crowd shows up.](https://www.workingtheorys.com/p/before-the-crowd)
 [^2]: The hallmark of premature optimization is adding complexity for the sake of [efficiency](what-you-work-on-is-far-more-important-than-how-productively-you-work.md), _without_ having determined that the benefit is substantial enough to justify the cost (of both implementation and maintenance).
