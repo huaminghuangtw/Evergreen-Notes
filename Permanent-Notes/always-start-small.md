@@ -1,6 +1,6 @@
 ---
 title: Always start small
-modified: 2026-06-17
+modified: 2026-08-14
 ---
 
 > “It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith
@@ -13,21 +13,7 @@ modified: 2026-06-17
 
 ---
 
-A [habit](be-a-habit-and-routine-machine.md) must be first _established_ before it can be _improved_.
-
----
-
-<https://sketchplanations.com/categories/starting>
-
----
-
 If something feels too hard to start, it just means the first step isn’t small enough.
-
----
-
-# The Rule of One Hundred
-
-If you spend 100 hours a year in any discipline (which is only 18 minutes a day), you’ll be better than 95% of the world in that discipline.
 
 ---
 
@@ -64,7 +50,7 @@ The 2-minute version isn’t about progress; it’s about breaking the seal of i
 
 # The Minimal Viable Action (Micro Action)
 
-* If you’re having trouble sticking to a new [habit](be-a-habit-and-routine-machine.md) , try a miniature (2-minute) version until it becomes automatic.
+* If you’re having trouble sticking to a new [habit](be-a-habit-and-routine-machine.md), try a miniature (2-minute) version until it becomes automatic.
 * Take tiny baby steps. _Do less than you’re capable of, but do it more consistently than you have before._
 * [不靠衝勁](do-not-use-your-willpower-unless-you-absolutely-have-to.md)，靠低門檻 [開始](just-get-started.md)
 
@@ -97,6 +83,6 @@ Every race starts with one step. Every fortune starts with a small deposit. Ever
 
 ---
 
-[▍Build a Tower, Build a Team](https://huam.ing/build-a-tower-build-a-team)
+[The Starfish Story](https://huam.ing/the-starfish-story)
 
 [^1]: _“You are not a drop in the ocean, you are the entire ocean in a drop.” — Rumi_
