@@ -1,6 +1,6 @@
 ---
 title: Just get started
-modified: 2026-07-30
+modified: 2026-08-14
 ---
 
 > “Begin anywhere.” — John Cage
@@ -48,6 +48,14 @@ modified: 2026-07-30
 ---
 
 賽馬不猜馬
+
+---
+
+A [habit](be-a-habit-and-routine-machine.md) must be first _established_ before it can be _improved_.
+
+---
+
+<https://sketchplanations.com/categories/starting>
 
 ---
 
