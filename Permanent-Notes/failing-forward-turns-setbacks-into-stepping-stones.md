@@ -1,6 +1,6 @@
 ---
 title: Failing forward turns setbacks into stepping stones
-modified: 2026-07-19
+modified: 2026-08-15
 ---
 
 > “A stumble may prevent a fall.” — Gretchen Rubin
@@ -51,6 +51,7 @@ If you want to _win_, you have to _lose_ first. All _success_ begins with _failu
 * Success comes from turning _setbacks_ into _comebacks_.
 * 失敗是成功的近義詞。成功的反義詞不是失敗，而是 [平庸](the-fight-against-normalcy.md)。
 * 如果一直為失敗找理由，等於是不給自己機會成功。
+* 失敗是夢想的分歧點。人在這瞬間體認到自己的無能為力，但也因此成就一股強大的心靈力量 — 也就是陷入絕望的能力。
 
 [Always keep going! 🚂](always-keep-going.md)
 
