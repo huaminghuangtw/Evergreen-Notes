@@ -1,6 +1,6 @@
 ---
 title: Abandon your ego
-modified: 2026-06-30
+modified: 2026-08-15
 ---
 
 > “Showing off is the fool’s idea of glory.” — Bruce Lee
@@ -65,6 +65,19 @@ One of the great mistakes in life is suffering for years because you didn’t wa
 * You don’t want to apologize, so you let a relationship deteriorate.
 * You’re scared of the sting of rejection, so you don’t ask for what you want.
 * You fear people will say your idea is dumb, so you never start the business.
+
+---
+
+# 離怖畏
+
+在佛教中指「離怖畏如來」，是北方如來（即釋迦牟尼佛）的尊號，意思不是「什麼都不怕」，而是從恐懼與執著中解脫。
+
+佛教認為，許多恐懼都源自對「我」的執著：
+
+* 害怕失敗，是因為害怕「我」失去價值；害怕死亡，是因為執著「我」必須繼續存在
+* 害怕他人評價，則是因為需要維護某個自我形象
+
+因此，「離怖畏」不是消除外在危險，而是看透恐懼背後的執著，使人即使面對失敗、死亡、未知或逆境，也不再被恐懼牽著走；換句話說，真正的無畏不是世界變得安全，而是內心不再需要世界按照自己的期待運作。
 
 ---
 
