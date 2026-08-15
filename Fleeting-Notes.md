@@ -1,5 +1,5 @@
 ---
-modified: 2026-08-09
+modified: 2026-08-15
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -229,10 +229,6 @@ CBT-I（Cognitive Behavioral Therapy for Insomnia） 也就是失眠認知行為
 
 ---
 
-一帶一路
-
----
-
 Naperville Central High School 零時體育課 Zero Hour PE
 
 ---
@@ -244,10 +240,6 @@ Naperville Central High School 零時體育課 Zero Hour PE
 ---
 
 I chose silence over the last word and it gave me something no argument ever did. Rest.
-
----
-
-失敗就是夢想的分歧點。人需要的是能在這瞬間體認到自己無能為力的強大心靈，也就是陷入絕望的能力。
 
 ---
 
@@ -296,7 +288,6 @@ Janet’s Law, named after 19th century French philosopher Paul Janet, which arg
 * When you’re 5 years old, a year is 20% of your life. And when you’re 50 years old, a year is 2% of your life. Janet’s Law states that you experienced roughly half of your perceived life by 20 years old.
 * Or to put it another way: The summer for a 5 year old feels as long as the 10 years from 40 to 50 years old.
 
-
 ---
 
 Shisa Kanko, pointing and calling
@@ -304,3 +295,31 @@ Shisa Kanko, pointing and calling
 ---
 
 A B C D Runnin Drills
+
+---
+
+[Firefighter arson is a long-standing problem, experts say | CBC News](https://www.cbc.ca/news/canada/edmonton/fires-set-by-firefighters-a-long-standing-problem-experts-say-1.3563183)
+
+* 根據這篇加拿大 CBC News 的報導：在北美，每年至少有一百名消防員因為縱火被定罪——因為一直都等不到火災，無法大顯身手，實在太無聊了，乾脆自己放把火吧！
+* “Some are bored, seeking excitement. Some of these guys are trying to live up to the war stories of their parents.”
+* （有些人只是無聊，想來點刺激的。有些人則是想成為他們爸媽口中那些英勇故事的主角。）
+* ——Edward Nordskog，縱火與炸彈調查專家
+* [Expert: Firefighter arson a long-standing issue](https://www.firerescue1.com/arson-investigation/articles/expert-firefighter-arson-a-long-standing-issue-xHXLFAdYVcQPiuPU/)
+
+---
+
+prepper（末日準備者）文化
+
+---
+
+愛情最珍貴的不是那些瞬間的美好，而是我們在平淡的時刻，依然選擇彼此。
+
+---
+
+過碳酸鈉 ACTIVE OXYGEN
+
+* 去漬 + 殺菌＋去 + 消臭＋漂白＋去螨
+* 清洗衣服/襪子/床被單，可適量添加，特別適合於白色衣物
+* 洗淨茶垢、咖啡漬、碗盤上的頑漬
+* 清潔廚房抽油煙機，油垢、抹布龜清理浴室污垢、黃斑、霉菌
+* 洗淨洗衣機內槽污垢
