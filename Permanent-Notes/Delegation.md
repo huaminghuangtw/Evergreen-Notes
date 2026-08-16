@@ -1,6 +1,6 @@
 ---
 title: Delegation
-modified: 2026-07-30
+modified: 2026-08-16
 ---
 
 > “You can do anything, but you can’t do everything.” — David Allen
@@ -33,6 +33,8 @@ Every task on your plate should first be challenged: _Does this need to exist at
 ---
 
 # How to delegate tasks that are hard to do
+
+> Do things that don’t scale until you can scale to a playbook.
 
 Some tasks require judgment, [tacit knowledge](explicit-knowledge-and-tacit-knowledge.md), or contextual awareness that cannot be fully captured in a written process. For these, you need structured hand-off methods.
 
