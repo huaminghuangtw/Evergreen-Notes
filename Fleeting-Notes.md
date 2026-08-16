@@ -1,5 +1,5 @@
 ---
-modified: 2026-08-15
+modified: 2026-08-16
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -243,12 +243,6 @@ I chose silence over the last word and it gave me something no argument ever did
 
 ---
 
-生产力工具“，想要盈利不能面向 C 端（消费者），只能面向 B 端（企业）。
-
-原因是，企业为员工的时间付费，所以他们愿意为能提高员工效率的工具买单；而消费者则大多只想消磨时间，不喜欢节省时间，所以他们不会为提高效率的软件买单。
-
----
-
 There’s a famous saying in finance, “past performance is not indicative of future results,” yet every prediction of the future is built on the basis of the past.
 
 ---
@@ -291,10 +285,6 @@ Janet’s Law, named after 19th century French philosopher Paul Janet, which arg
 ---
 
 Shisa Kanko, pointing and calling
-
----
-
-A B C D Runnin Drills
 
 ---
 
