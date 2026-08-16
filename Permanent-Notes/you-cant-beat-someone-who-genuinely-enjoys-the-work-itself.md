@@ -1,6 +1,6 @@
 ---
 title: You can’t beat someone who genuinely enjoys the work itself
-modified: 2026-08-02
+modified: 2026-08-16
 ---
 
 > [“Play is our first energizer. Life is stressful. Play makes it fun. If we can integrate the spirit of play into our lives, we’ll feel better — and do more too.” — Ali Abdaal, Feel-Good Productivity: How to Do More of What Matters to You](https://www.goodreads.com/work/quotes/100097284-feel-good-productivity-how-to-do-more-of-what-matters-to-you)
@@ -34,7 +34,9 @@ It’s almost impossible to beat someone who genuinely enjoys the work itself.
 
 ---
 
-[Find your “unfair competitive advantages”](leverage.md): 清楚知道自己的強項與天賦 [^1]，把興趣變成自己的優勢。
+[Find your “unfair competitive advantages”](leverage.md)
+
+清楚知道自己的強項與天賦 [^1]，把興趣變成自己的優勢。
 
 And when you find that thing—that game you genuinely enjoy—good luck to anyone trying to compete with you.
 
