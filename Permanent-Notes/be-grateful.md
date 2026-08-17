@@ -1,6 +1,6 @@
 ---
 title: Be Grateful
-modified: 2026-07-31
+modified: 2026-08-17
 ---
 
 #NEWSLETTER
@@ -34,6 +34,10 @@ Take 30 seconds to pause and be [thankful](https://jacksondahl.com/Posts/Gratefu
 
 * There are a lot of tiny beauties in life that are easy to miss if you’re moving too fast to appreciate them.
 * When we slow down and lean into gratitude for these moments, feelings, and people, we find new joy and happiness in our lives.
+
+---
+
+Even if you don’t have all the things you want, be grateful for the things you don’t have that you don’t want.
 
 ---
 
