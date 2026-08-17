@@ -1,6 +1,6 @@
 ---
 title: Why we exist?
-modified: 2026-07-19
+modified: 2026-08-17
 ---
 
 > [“The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” — David Viscott](https://www.goodreads.com/quotes/7407260-the-purpose-of-life-is-to-discover-your-gift-the)
@@ -94,7 +94,7 @@ Both because of and in spite of his awareness of the meaninglessness of life, he
 
 ---
 
-## Service to others as the most durable container for meaning
+# Service to others as the most durable container for meaning
 
 > [“I’ve come to believe that each of us has a personal calling that’s as unique as a fingerprint - and that the best way to succeed is to discover what you love and then find a way to offer it to others in the form of service, working hard, and also allowing the energy of the universe to lead you.” — Oprah Winfrey](https://www.goodreads.com/quotes/24752-i-ve-come-to-believe-that-each-of-us-has-a)
 
@@ -141,6 +141,8 @@ The most extraordinary people in the world today don’t have a _career_. They h
 ---
 
 # Meaning is made
+
+> 人生本無意義，意義是自己賦予的。
 
 Not to find the meaning of life, but to use your life to create things that are meaningful.
 
@@ -191,6 +193,10 @@ is a self-discovery tool used primarily in Christian contexts to help individual
 # Outlive
 
 > The sad part is, that I will probably end up loving you without you for much longer than I loved you when I knew you. Some people might find that strange. But the truth of it is that the amount of love you feel for someone and the impact they have on you as a person, is in no way relative to the amount of time you have known them.” — Ranata Suzuki
+
+> “When a beautiful rose dies beauty does not die because it is not really in the rose. Beauty is an awareness in the mind.” — Agnes Martin, _Beauty Is the Mystery of Life_, 1989
+>
+> 當一朵美麗的玫瑰凋謝時，美並不會隨之消逝，因為它並不存在玫瑰本身。美，是一種感覺，是一種內心的意識。
 
 > [“The dead can survive as part of the lives of those that still live.” — Kenzaburō Ōe, Hiroshima Notes](http://goodreads.com/quotes/463370-the-dead-can-survive-as-part-of-the-lives-of)
 
