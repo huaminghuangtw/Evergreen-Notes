@@ -1,6 +1,6 @@
 ---
 title: Death
-modified: 2026-07-07
+modified: 2026-08-17
 ---
 
 > “Dying is active. Dying is not what happens to you. Dying is what you do.” — Stephen Jenkinson, [Die Wise: A Manifesto for Sanity and Soul](https://www.goodreads.com/work/quotes/42243793)
@@ -167,7 +167,7 @@ Remarks: Through history, people have gone back into their own pasts, sometime t
 
 ---
 
-[life-is-shorter-than-you-think](life-is-shorter-than-you-think.md)
+[Life is shorter than you think](life-is-shorter-than-you-think.md)
 
 ---
 
