@@ -1,6 +1,6 @@
 ---
 title: Burnout
-modified: 2026-07-19
+modified: 2026-08-17
 ---
 
 = 過勞
@@ -20,9 +20,9 @@ You may feel overwhelmed, unmotivated, and unable to keep up, no matter how hard
 
 According to the [World Health Organization (WHO)](https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases), burn-out is a syndrome conceptualized as resulting from chronic workplace stress that has not been successfully managed. It is characterized by three dimensions:
 
-1. feelings of energy depletion or exhaustion;
-2. increased mental distance from one’s job, or feelings of negativism or cynicism related to one’s job; and
-3. reduced professional efficacy.
+1. feelings of energy depletion or exhaustion
+2. increased mental distance from one’s job, or feelings of negativism or cynicism related to one’s job
+3. reduced professional efficacy
 
 ---
 
@@ -43,7 +43,7 @@ There’s a difference between being _tired_ and being _empty_. Tiredness can be
 # 烤土司症候群
 
 * 指身心極度疲憊，接近崩潰但尚未完全過勞的狀態，就像差一步就要烤焦的吐司。
-* 看似金黃收香，但其實只差一步就要焦黑？
+* 看似金黃收香，其實只差一步就要焦黑？
 
 ---
 
