@@ -1,6 +1,6 @@
 ---
 title: Information Overwhelm
-modified: 2026-07-31
+modified: 2026-08-17
 ---
 
 # The Problem
@@ -54,6 +54,8 @@ modified: 2026-07-31
 	* Practice **strategic ignorance**. Be selectively ignorant. Sometimes, choosing what to pay attention to and letting go of the rest is true bliss. [^1]
 
 		> Ignorance is bliss. (無知便是福。)
+
+		> “Half the skill of being educated is learning what you can ignore.” — Kevin Kelly, Excellent Advice for Living: Wisdom I Wish I’d Known Earlier
 
 		> “Ignore topics that drain your attention. Unfollow people that drain your energy. Abandon projects that drain your time. Do not keep up with it all. The more selectively ignorant you become, the more broadly knowledgeable you can be.” — James Clear
 
