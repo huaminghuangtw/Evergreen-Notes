@@ -20,6 +20,28 @@ It posits that visible signs of disorder and neglect—such as broken windows, g
 * **Urban Decay:** In neighborhoods where abandoned buildings and vandalism are common, residents may feel less safe, and criminal activity can increase. Conversely, communities that quickly repair damage and maintain cleanliness often experience lower crime rates.
 * **Subway Policing:** The theory influenced policing strategies in New York City in the 1990s, most notably the “[zero tolerance](https://www.google.com/search?q=zero+tolerance+New+York+City)” approach. One of the earliest and most visible applications was in the subway system, where cracking down on fare evasion and minor offenses was credited with reducing more serious crimes.
 * **Digital Spaces:** The theory can also apply to online communities. If moderators allow spam or abusive comments to persist, the overall quality of discourse may decline, and more disruptive behavior may follow.
+
+# Applications Beyond Crime
+
 * **Software and Code Quality:** In _The Pragmatic Programmer_, Andy Hunt and Dave Thomas popularized “broken windows” as a software engineering principle: if you leave a broken build, a messy codebase, or a shortcut in place, others will follow suit and the quality of the codebase decays rapidly. Fixing small problems immediately—however trivial—prevents the whole project from falling apart.
 * **Personal Habits and Environment:** The same logic applies to daily life. Leaving your desk cluttered, your inbox overflowing, or your physical space in disrepair signals to yourself (and others) that disorder is acceptable, making further neglect easier. Tending to small things consistently keeps larger decay at bay.
 * **Organizational Culture:** Tolerating minor misconduct, sloppy work, or low standards can normalize them across a team or company, just as addressing them early can preserve a healthy culture.
+
+# Evidence and Criticism
+
+* **Mixed empirical support:** The theory has been influential, but the evidence is contested. A well-known 2015 reanalysis by O’Brien, Sampson, and Winship found that the statistical link between visible disorder and crime largely disappears once neighborhood-level factors such as poverty and collective efficacy are accounted for. Other studies have found more modest effects than the theory’s strongest claims suggest.
+* **The risks of “zero tolerance”:** The aggressive enforcement associated with broken-windows policing has been criticized for leading to over-policing, racial disparities, and damaged police-community trust (as with New York’s stop-and-frisk practices). Critics argue that order maintenance can become a pretext for discrimination rather than a genuine public-safety strategy.
+* **Original intent:** Kelling himself later cautioned against enforcement-heavy interpretations, emphasizing foot patrol, community relationships, and residents’ own role in maintaining order rather than punitive crackdowns.
+
+# Related Concepts
+
+* [Nudge theory](nudge-theory.md) — small environmental cues that shape behavior
+* [The spillover effect](the-spillover-effect.md) — how a change in one domain cascades into others
+* [The compounding effect](the-compounding-effect.md) — small, consistent actions that accumulate
+* [Feedback loop](feedback-loop.md) — the self-reinforcing cycle of disorder and withdrawal
+* [Systems thinking](systems-thinking.md) — viewing crime and disorder as properties of an environment
+* [Second-order thinking](second-order-thinking.md) — anticipating the unintended consequences of well-intentioned policies
+* [The cobra effect](the-cobra-effect.md) — how a policy meant to solve a problem can make it worse
+* [The bystander effect](the-bystander-effect.md) — the role of social context in individual action
+* [The Stanford Prison Experiment](stanford-prison-experiment.md) — Zimbardo’s demonstration that environments shape behavior
+* [Chesterton’s fence](chestertons-fence.md) — understanding a system before removing or changing it
