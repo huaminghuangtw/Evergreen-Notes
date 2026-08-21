@@ -1,6 +1,6 @@
 ---
 title: Every single day, chop wood, carry water
-modified: 2026-08-07
+modified: 2026-08-21
 ---
 
 > “We are what we repeatedly do.” — Aristotle
@@ -157,20 +157,7 @@ Embrace the daily mundane activities / ordinary actions. Find the lifelong rhyth
 
 ---
 
-[Mental toughness](https://en.wikipedia.org/wiki/Mental_toughness) is often associated with dramatic efforts to **push through the [pain](pain-is-inevitable-suffering-is-optional.md)**, **grind it out to the end**, and **find a way to make it happen**—the kind of perseverance needed to cross a finish line. However, true [mental toughness](resilience.md) shows up in quieter moments: it’s the discipline to **show up when no one is watching**, **keep your eye on the ball**, and **do a little bit every day**. At its core, mental toughness means not skipping the days that are easy to skip.
-
----
-
-> “Eighty percent of success is showing up.” — Woody Allen
-
-> “Keep showing up. 99% of success is just showing up. In fact, most success is just persistence.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
-
-On your bad days, you have a choice to make:
-
-1. Show up anyway.
-2. Wait until they see me on a good day.
-
-There’s a magic in showing up on your bad days. The choice is yours. Choose wisely.
+[Show up, then show up again](show-up-then-show-up-again.md)
 
 ---
 
