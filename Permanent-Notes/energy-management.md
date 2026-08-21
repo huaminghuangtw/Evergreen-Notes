@@ -1,6 +1,6 @@
 ---
 title: Energy Management
-modified: 2026-08-07
+modified: 2026-08-21
 ---
 
 > “Energy is eternal delight.” — William Blake
@@ -60,6 +60,10 @@ A common failure mode is to treat energy as a fixed budget to be spent conservat
 * **Recover intentionally** — treat [rest](the-most-productive-people-prioritize-intentional-rest.md) as a _productive activity_ rather than the absence of work. Sleep, walks, and unstructured time are not wasted hours; they are the production side of the energy equation ([recharging activities](the-most-productive-people-prioritize-intentional-rest.md)).
 
 There’s no such thing as working too hard. There’s just being under rested. — Don’t focus on energy output. Focus on energy production.
+
+![](https://media.huam.ing/image/663131d5ee92a13c96b24f8e25c3f8e0.webp)
+
+![](https://media.huam.ing/image/2b0f5aeb21982bcf07477e2728d833de.webp)
 
 ---
 
