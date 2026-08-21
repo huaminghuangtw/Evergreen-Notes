@@ -1,6 +1,6 @@
 ---
 title: The Arrival Fallacy
-modified: 2026-07-24
+modified: 2026-08-21
 ---
 
 > “Arriving someplace more desirable at some future time is an illusion. This is it.” — Jon Kabat-Zinn
@@ -10,8 +10,6 @@ modified: 2026-07-24
 ---
 
 = The Hedonic Treadmill/Adaptation = 抵達謬誤
-
----
 
 ![](https://media.huam.ing/image/d6663971b18df3f7d284f95d2925ee9c.webp)
 
@@ -53,11 +51,7 @@ Beware of destination addiction: The idea that happiness is in the next place, t
 	* Reward Prediction Error = Actual Reward — Expected Reward
 	* Miracles do happen when you least expect it.
 	* 「[把目標砍半，以退為進](https://onyourpsy.com/010219/)」
-	* 「不要將任何願望的實現視為終點，亦或是一切焦慮與煩惱的終結。」— 雖然實現目標會帶來喜悅，但這種快樂往往比不上追求過程中的期待與熱情。一旦達成一個目標，我們便會開始追尋新的方向，這也是人生 [焦慮](stress-and-anxiety.md) 不斷的根源。沒有任何狀態能帶來絕對的安全感，因為人類天性便是不斷追求與 [渴望](the-absence-of-desire-is-true-happiness.md)。**因此，我們的目標不應是永久去除焦慮，而是學習如何控制焦慮，與焦慮共處。**
-
----
-
-[Journey over destination](journey-over-destination.md)
+* [Journey over destination](journey-over-destination.md)
 
 ---
 
@@ -66,7 +60,3 @@ Beware of destination addiction: The idea that happiness is in the next place, t
 ---
 
 [The Impact Bias](the-impact-bias.md)
-
----
-
-[The Nova Effect](the-nova-effect.md)
