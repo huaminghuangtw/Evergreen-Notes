@@ -1,6 +1,6 @@
 ---
 title: Language Learning
-modified: 2026-06-10
+modified: 2026-08-20
 ---
 
 # Materials beat methods
@@ -14,6 +14,7 @@ The content you engage with shapes your vocabulary, comprehension, and motivatio
 * **Relevant** to your interests or goals
 * **Comprehensible** (not too hard, not too easy)
 * **Authentic** (real-world, not just textbook)
+
 then you are more likely to stick with learning and make meaningful progress.
 
 ## Examples
