@@ -1,6 +1,6 @@
 ---
 title: The Nova Effect
-modified: 2026-06-22
+modified: 2026-08-21
 ---
 
 > “You never know what worse luck your bad luck saved you from.” — Cormac McCarthy
@@ -30,6 +30,8 @@ Something that appears fantastic at first may later cause harm, and something th
 ---
 
 The decline in well-being arises from our tendency to adapt to prolonged positive conditions, making it difficult to recalibrate when those conditions change. In other words, individuals become victims of the _[tragedy of good luck](https://youtu.be/oGVhOWqsBWM)_.
+
+[The Arrival Fallacy](the-arrival-fallacy.md)
 
 ---
 
