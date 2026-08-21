@@ -1,6 +1,6 @@
 ---
 title: Prioritization
-modified: 2026-07-06
+modified: 2026-08-20
 ---
 
 > “The whole point of getting things done is knowing what to leave undone.” — Oswald Chambers
@@ -22,6 +22,10 @@ modified: 2026-07-06
 ---
 
 先做完該做的事，再做你想做的事。
+
+---
+
+**若重要，則優先**：現在沒在做的事，就是不夠重要的事。
 
 ---
 
