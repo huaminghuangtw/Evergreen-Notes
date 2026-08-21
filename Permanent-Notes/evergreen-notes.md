@@ -1,6 +1,10 @@
 ---
 title: Evergreen Notes
-modified: 2026-06-10
+modified: 2026-08-19
+---
+
+[Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes) — Andy Matuschak
+
 ---
 
 [卡片盒筆記法 (Zettelkasten, Slip Box) by 德國社會學家 Niklas Luhmann](https://youtu.be/qRSCKSPMuDc?t=37m30s)
