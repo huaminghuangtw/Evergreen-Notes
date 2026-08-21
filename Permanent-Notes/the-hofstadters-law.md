@@ -1,6 +1,6 @@
 ---
 title: The Hofstadter’s Law
-modified: 2026-06-24
+modified: 2026-08-21
 ---
 
 > “A hero is one who knows how to hang on for one minute longer.” — Norwegian proverb
@@ -39,9 +39,13 @@ Great work isn’t unlocked by wanting greatness more. It’s unlocked by placin
 
 The margin between **good** and **great** is narrower than it seems. What begins as a slight edge over the competition [compounds](the-compounding-effect.md) with each additional contest.
 
-![](https://cdn.prod.website-files.com/66915d91469ad34b8324ab88/695184197510a7e65f0a1f73_email.jpeg)
+![](https://media.huam.ing/image/fdc3cab637008c4540da67473f90fbb6.webp)
 
-![](https://media.huam.ing/image/a084c9867ae04b23f54b45afcd49e2e2.webp)
+![](https://media.huam.ing/image/87116ce1954c1db5290114dc5ec2a3b9.webp)
+
+---
+
+> [“It’s so easy to be great nowadays, my friend, because most people are weak. Most people don’t want to go that extra mile. Most people don’t want to find that extra, because it sucks; it’s miserable; it’s lonely.” — David Goggins](https://www.instagram.com/davidgoggins/reel/Covry8HvPr3)
 
 ---
 
