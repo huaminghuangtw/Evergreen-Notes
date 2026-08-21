@@ -1,6 +1,6 @@
 ---
 title: Why we exist?
-modified: 2026-08-17
+modified: 2026-08-21
 ---
 
 > [“The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” — David Viscott](https://www.goodreads.com/quotes/7407260-the-purpose-of-life-is-to-discover-your-gift-the)
@@ -36,6 +36,9 @@ modified: 2026-08-17
 > “It’s more important to be good ancestors than dutiful descendants. Too many people spend their lives being custodians of the past instead of stewards of the future. We worry about making our parents proud when we should be focused on making our children proud. The responsibility of each generation is not to please our predecessors—it’s to improve conditions for our successors.” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)
 
 ---
+
+> 我們追求的不是第一，心裡那個不變的理想，才是支持我們繼續跑下去的動力。
+> — 三浦紫苑《強風吹拂》
 
 Life’s Highest Calling
 
