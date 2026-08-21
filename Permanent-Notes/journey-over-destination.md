@@ -1,6 +1,6 @@
 ---
 title: Journey over destination
-modified: 2026-07-17
+modified: 2026-08-21
 ---
 
 > “To travel is to be alive, but to get somewhere is to be dead.” — Alan Watts
@@ -51,8 +51,6 @@ Real, durable satisfaction, happiness and contentment are found in the anticipat
 
 **Those who love the climb will reach higher than those who only love the view from the summit.** [^1]
 
-真正讓我們感到幸福的，不是登頂的成就，而是沿途的風景。別因急於趕路前行，而忽略了值得駐足的美好。
-
 ---
 
 Since most of life is spent on the journey, it’s crucial to find enjoyment in the process rather than solely focusing on the destination.
@@ -63,8 +61,13 @@ Focus on the [happiness](happiness.md) of pursuit, not the pursuit of happiness.
 
 * Becoming is better than being.
 * Having things isn’t fun. Getting things is fun.
-* The pleasure of anticipation is often greater than the pleasure of acquisition.
+* The pleasure of anticipation is often greater than the pleasure of acquisition. [^2]
 * The happiness is not in the _having_, but in the _becoming_.
+* 好萊塢演員 [Will Smith](https://www.google.com/search?q=Will+Smith) 在回憶錄《[Will](https://www.goodreads.com/en/book/show/58375739-will)》裡寫道：
+
+> 成名是世界上最美妙的感受；成名之後，滋味苦樂參半；失去名氣，則是你從未經歷過的痛苦。
+>
+> Becoming famous is the most amazing feeling in the world. Being famous is a mixed bag. Losing fame is pain like you’ve never experienced before.
 
 ---
 
@@ -80,13 +83,13 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 
 ---
 
-[The wedding is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice.](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice) [^2] The focus and energy we lavish on events can easily distract us from the journeys we care about.
+[The wedding is an event, love is a practice. The graduation is an event, education is a practice. The race is an event, fitness is a practice.](https://jamesclear.com/quotes/the-wedding-is-an-event-love-is-a-practice) [^3] The focus and energy we lavish on events can easily distract us from the journeys we care about.
 
 ---
 
 [@hesseSiddharthaIndischeDichtung2021]
 
-> [“We are not going in circles, we are going upwards. The path is a spiral; we have already climbed many steps.” — Hermann Hesse, Siddhartha](https://www.instagram.com/mounika.studio/p/CmslMjcBEaI/) [^3]
+> [“We are not going in circles, we are going upwards. The path is a spiral; we have already climbed many steps.” — Hermann Hesse, Siddhartha](https://www.instagram.com/mounika.studio/p/CmslMjcBEaI/) [^4]
 
 * Trust the process & Have faith in the process
 
@@ -104,7 +107,11 @@ Attach to input/intention. Detach from output/outcomes. Focus on efforts (which 
 
 ---
 
-「放下執著，享受過程。」— 學會享受追求目標的過程，而不是把注意力放在最終結果。目標的實現只是旅程中的一個里程碑，而非目的地。
+「放下執著，享受過程。」— 學會享受追求目標的過程，而不是把注意力放在最終結果。目標的實現只是其中的一個里程碑，而非目的地。
+
+---
+
+Real happiness is found in the journey. It’s the quest. It’s the hunt. It’s the process. It’s the anticipation. It’s the moment right before you achieve it. It’s not in the having, but in the becoming.
 
 ---
 
@@ -168,5 +175,7 @@ Paradox: Although it’s being said that “you got to focus on the journey beca
 [The Arrival Fallacy](the-arrival-fallacy.md)
 
 [^1]: If you were suddenly dropped on the top of Mount Everest, you’d quickly lose consciousness and die because your body isn’t acclimatized to the altitude. It’s the climb that prepares you for the summit.
-[^2]: Similar analogy: Climate vs Weather
-[^3]: [The Upward Spiral](https://sketchplanations.com/the-upward-spiral)
+[^2]: 期待的快感，往往比得到時還要強烈。
+[^3]: Similar analogy: Climate vs Weather
+[^4]: [The Upward Spiral](https://sketchplanations.com/the-upward-spiral)
+<kbd></kbd>
