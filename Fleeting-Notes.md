@@ -1,5 +1,5 @@
 ---
-modified: 2026-08-16
+modified: 2026-08-22
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -302,10 +302,6 @@ prepper（末日準備者）文化
 
 ---
 
-愛情最珍貴的不是那些瞬間的美好，而是我們在平淡的時刻，依然選擇彼此。
-
----
-
 過碳酸鈉 ACTIVE OXYGEN
 
 * 去漬 + 殺菌＋去 + 消臭＋漂白＋去螨
@@ -313,3 +309,13 @@ prepper（末日準備者）文化
 * 洗淨茶垢、咖啡漬、碗盤上的頑漬
 * 清潔廚房抽油煙機，油垢、抹布龜清理浴室污垢、黃斑、霉菌
 * 洗淨洗衣機內槽污垢
+
+
+---
+
+@ [津芳冰城](https://www.google.com/maps?q=津芳冰城)
+  > 冰底是細緻的香蕉清冰
+
+---
+
+瑞典日記：[Why You Need to Subtract: The Vasa Effect | The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/why-you-need-to-subtract-the-vasa-effect)
