@@ -1,6 +1,6 @@
 ---
 title: Love
-modified: 2026-07-08
+modified: 2026-08-22
 ---
 
 > “Love is the absence of judgment.” — Dalai Lama
@@ -169,7 +169,9 @@ Find a partner who believes in you more than you believe in yourself.
 
 [Find someone you genuinely enjoy spending time with doing nothing. Life isn’t about the glamorous moments—most of long-term relationships are spent just chilling—quietly sitting around and doing nothing.](https://www.sahilbloom.com/newsletter/how-we-spend-our-time)
 
-* A great romantic relationship is not only finding the person you have fun with, but also finding the person you want to be bored with. The beauty of long-term relationships is often hidden in boring, ordinary moments.
+A great romantic relationship is not only finding the person you have fun with, but also finding the person you want to be bored with. The beauty of long-term relationships is often hidden in boring, ordinary moments.
+
+愛情最珍貴的不是那些瞬間的美好，而是在平淡的時刻，依然選擇彼此。
 
 ---
 
