@@ -1,6 +1,6 @@
 ---
 title: Every single day, chop wood, carry water
-modified: 2026-08-21
+modified: 2026-08-22
 ---
 
 > “We are what we repeatedly do.” — Aristotle
@@ -154,6 +154,14 @@ Embrace the daily mundane activities / ordinary actions. Find the lifelong rhyth
 # Tony Robbins’ Cani Theory
 
 > Committing yourself to **Constant And Never-Ending Improvement**
+
+---
+
+> “Inspiration exists, but it has to find you working.” — Pablo Picasso
+
+Inspiration is merely the reward for working every day.
+
+Daily work beats natural gift every time. I may be weak, but I am consistent like the sunrise. My weakness becomes strength when I feed it with work.
 
 ---
 
