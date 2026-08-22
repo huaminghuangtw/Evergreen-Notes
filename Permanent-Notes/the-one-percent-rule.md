@@ -1,6 +1,6 @@
 ---
 title: The One Percent Rule
-modified: 2026-08-14
+modified: 2026-08-21
 ---
 
 > “Tend to the small things. More people are defeated by blisters than by mountains.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
