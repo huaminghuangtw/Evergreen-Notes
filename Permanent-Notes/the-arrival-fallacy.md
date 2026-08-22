@@ -1,6 +1,6 @@
 ---
 title: The Arrival Fallacy
-modified: 2026-08-21
+modified: 2026-08-22
 ---
 
 > “Arriving someplace more desirable at some future time is an illusion. This is it.” — Jon Kabat-Zinn
@@ -23,21 +23,21 @@ Humans have a tendency to quickly return to a baseline level of [happiness](happ
 
 ---
 
-人們往往誤以為一旦達到、實現某個重要目標後，生活便會迎來穩定，所有痛苦、悲傷與煩惱都將消失，從而獲得永久的幸福與快樂。然而，現實並非如此，這個世界上並不存在「王子與公主從此過著幸福快樂的生活」的童話式結局。
-
----
-
 Beware of destination addiction: The idea that happiness is in the next place, the next job, or even with the next partner. Until you give up the idea that happiness is somewhere else, it will never be where you are.
 
 [Hedonic Happiness & Eudaimonic Happiness](hedonic-happiness-vs-eudaimonic-happiness.md)
 
 ---
 
-「馬拉松後憂鬱症」— 因馬拉松賽事需要長時間的訓練與準備，讓跑者在賽前能夠有明確的目標及方向，然而，當比賽一結束，這種明確的目標感與方向感會突然消失，導致心理上的空虛及失落。
+# 馬拉松後憂鬱症
+
+因馬拉松賽事需要長時間的訓練與準備，讓跑者在賽前能夠有明確的目標及方向，然而，當比賽一結束，這種明確的目標感與方向感會突然消失，導致心理上的空虛及失落。
 
 ---
 
-身份錯位（Identity Displacement/Dislocation/Disorder）
+# 身份錯位
+
+> = Identity Displacement/Dislocation/Disorder
 
 [Your identity dictates your actions](your-identity-dictates-your-actions.md)
 
@@ -50,7 +50,7 @@ Beware of destination addiction: The idea that happiness is in the next place, t
 * [Expect nothing](not-caring-lets-us-perform-better.md)
 	* Reward Prediction Error = Actual Reward — Expected Reward
 	* Miracles do happen when you least expect it.
-	* 「[把目標砍半，以退為進](https://onyourpsy.com/010219/)」
+	* [把目標砍半，以退為進](https://onyourpsy.com/010219/)
 * [Journey over destination](journey-over-destination.md)
 
 ---
