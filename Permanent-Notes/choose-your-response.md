@@ -1,6 +1,6 @@
 ---
 title: Choose your response
-modified: 2026-07-15
+modified: 2026-08-23
 ---
 
 > “How we decide to respond to our fears, that is the person we become.” — Will Smith, [Will](https://www.goodreads.com/work/quotes/91549698)
@@ -32,6 +32,10 @@ modified: 2026-07-15
 * It’s not what happens to us that shapes our lives, but how we _choose to_ respond.
 * You can’t control the behavior of others, but you can always control how you respond to it.
 * You are not the cause of everything that happens to you, but you are responsible for how you respond to everything that happens to you.
+
+---
+
+Other people’s words are like the weather. You can’t control the weather, but you can choose what clothes to wear.
 
 ---
 
