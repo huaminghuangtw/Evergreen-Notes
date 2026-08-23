@@ -1,6 +1,6 @@
 ---
 title: You are what you eat
-modified: 2026-06-29
+modified: 2026-08-23
 ---
 
 > “Let food be thy medicine and medicine be thy food.” — Hippocrates [^1]
