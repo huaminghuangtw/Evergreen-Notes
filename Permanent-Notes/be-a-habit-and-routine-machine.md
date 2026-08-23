@@ -1,6 +1,6 @@
 ---
 title: Be a habit and routine machine
-modified: 2026-07-12
+modified: 2026-08-23
 ---
 
 > “Outer order contributes to inner calm.” — Gretchen Rubin
@@ -112,6 +112,8 @@ More often than not (= usually)
 [Time will multiply whatever you feed it. Good habits make time your ally. Bad habits make time your enemy.](https://jamesclear.com/3-2-1/may-22-2025)
 
 [Good habits stockpile ease. Bad habits postpone pain.](https://jamesclear.com/3-2-1/october-2-2025)
+
+好習慣，替未來的自己累積財富；壞習慣，替未來的自己累積債務。
 
 ---
 
