@@ -1,5 +1,5 @@
 ---
-modified: 2026-08-22
+modified: 2026-08-23
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -74,12 +74,6 @@ And after five minutes, you’re handed a beautiful, bitter, piping hot cup of e
 ---
 
 [The power of streaks](https://sketchplanations.com/the-power-of-streaks)
-
----
-
-YMMV 是「Your Mileage May Vary」的縮寫，字面意思是「你的行駛里程可能會有所不同」，常用於網路用語，意指「見仁見智」、「因人而異」或「個人的經驗/結果可能與我不同」。它被當作一種免責聲明，表達分享的觀點僅供參考。
-
-「口絡（ㄌㄨㄛˋ）」（kǒu luò）主要指套在動物嘴上的籠套或罩子，用來防止動物咬人或亂吃東西（類似 muzzle）。
 
 ---
 
@@ -310,11 +304,11 @@ prepper（末日準備者）文化
 * 清潔廚房抽油煙機，油垢、抹布龜清理浴室污垢、黃斑、霉菌
 * 洗淨洗衣機內槽污垢
 
-
 ---
 
 @ [津芳冰城](https://www.google.com/maps?q=津芳冰城)
-  > 冰底是細緻的香蕉清冰
+
+	> 冰底是細緻的香蕉清冰
 
 ---
 
