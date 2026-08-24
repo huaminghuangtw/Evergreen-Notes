@@ -1,6 +1,6 @@
 ---
 title: Focus is about saying no
-modified: 2026-08-06
+modified: 2026-08-24
 ---
 
 > [“Focus is about saying no.” — Steve Jobs](https://youtu.be/H8eP99neOVs)
@@ -60,12 +60,6 @@ You’d rather have one sharp knife than 1,000 dull ones.
 ---
 
 The problem with keeping your options open is that every option requires energy to hold. And a shelf full of maybes is often heavier than a hand holding one yes. Put something down.
-
----
-
-# Negative Capability
-
-The mental fortitude to be able to entertain multiple contradictory ideas in your head at the same time / to stay with one activity, despite so many other things feeling unresolved.
 
 ---
 
