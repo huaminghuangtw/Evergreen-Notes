@@ -1,6 +1,6 @@
 ---
 title: Slow down to speed up
-modified: 2026-08-04
+modified: 2026-08-24
 ---
 
 **Where are you going and why are you in such a rush?**
