@@ -1,6 +1,6 @@
 ---
 title: Minimalism
-modified: 2026-08-04
+modified: 2026-08-24
 ---
 
 > “It is not a daily increase, but a daily decrease. Hack away at the inessentials.” — Bruce Lee
@@ -12,6 +12,8 @@ modified: 2026-08-04
 > “You own the things you own and they in turn own you.” [^1]
 
 > “It isn’t the stuff. It’s what the stuff means.” — Joe Dominguez, [Your Money or Your Life](https://www.goodreads.com/work/quotes/1509321)
+
+> [“I make spaces that are calm rather than confrontational. I seek a certain kind of logic that allows you to move in space and perceive it as beautiful and rational. Clarity is a worthwhile quality.” — Annabelle Selldorf](http://brainyquote.com/quotes/annabelle_selldorf_556361)
 
 ---
 
