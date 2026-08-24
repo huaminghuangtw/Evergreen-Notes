@@ -1,13 +1,11 @@
 ---
 title: Dare to be different
-modified: 2026-08-04
+modified: 2026-08-24
 ---
 
 > “Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.” — Robert Frost, The Road Not Taken
 
 > “I will not be another flower, picked for my beauty and left to die. I will be wild, difficult to find, and impossible to forget.” — Erin Van Vuren
-
-> “The universe reveals its secrets to those who dare to follow their hearts.” — Ralph Smart
 
 > “Never dull your shine for somebody else.” — Tyra Banks
 
@@ -87,6 +85,18 @@ Sources:
 
 * [German](https://www.gutenberg.org/files/30821/30821-h/30821-h.htm)
 * [English](https://www.nypl.org/sites/default/files/kant_whatisenlightenment.pdf)
+
+---
+
+# Follow Your Hearts
+
+> “The universe reveals its secrets to those who dare to follow their hearts.” — Ralph Smart
+
+> [“Pursue what catches your heart, not what catches your eyes.” — Roy T. Bennett](https://www.goodreads.com/quotes/6564377-pursue-what-catches-your-heart-not-what-catches-your-eyes)
+
+> “Stay stupid. Follow your unconventional, crazy heart.” — Steven Pressfield, [Do the Work](https://www.goodreads.com/work/quotes/15554094)
+
+> “Do what you feel in your heart to be right - for you’ll be criticized anyway. You’ll be damned if you do, and damned if you don’t.” — Eleanor Roosevelt
 
 ---
 
