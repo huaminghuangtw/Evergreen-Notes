@@ -1,6 +1,6 @@
 ---
 title: How to know when to end a relationship?
-modified: 2026-06-10
+modified: 2026-08-24
 ---
 
 # Good questions to ask yourself
@@ -28,4 +28,6 @@ modified: 2026-06-10
 
 # [沈默成本](the-sunk-cost-fallacy.md) 不是成本
 
-[Time invested in a relationship isn’t a good reason to NOT leave.](https://www.reddit.com/r/YouShouldKnow/comments/glcj8n/ysk_time_invested_in_a_relationship_isnt_a_good/) [You can’t start the next chapter of your life if you keep re-reading the last one. When are you going to turn the page?](https://www.reddit.com/r/ExNoContact/comments/6eud60/you_cant_start_the_next_chapter_of_your_life_if/)
+[Time invested in a relationship isn’t a good reason to NOT leave.](https://www.reddit.com/r/YouShouldKnow/comments/glcj8n/ysk_time_invested_in_a_relationship_isnt_a_good/) [You can’t start the next chapter of your life if you keep re-reading the last one. When are you going to turn the page?](https://www.reddit.com/r/ExNoContact/comments/6eud60/you_cant_start_the_next_chapter_of_your_life_if/) [^1]
+
+[^1]: _[“There comes a time in your life when you have to choose to turn the page, write another book or simply close it.” — Shannon L. Alder](http://goodreads.com/quotes/795135-there-comes-a-time-in-your-life-when-you-have)_
