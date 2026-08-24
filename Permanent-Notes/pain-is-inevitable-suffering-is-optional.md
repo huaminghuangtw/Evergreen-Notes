@@ -1,6 +1,6 @@
 ---
-title: Pain Is Inevitable. Suffering Is Optional.
-modified: 2026-07-24
+title: Pain is inevitable. Suffering is optional.
+modified: 2026-08-24
 ---
 
 > [“The trick is not minding that it hurts.”](https://youtu.be/TvQViPBAvPk) — [Lawrence of Arabia (1962 film)](https://www.imdb.com/title/tt0056172/)
@@ -28,3 +28,7 @@ Say you’re running and you think, ‘Man, this hurts, I can’t take it anymor
 ---
 
 _Duḥkha_ (commonly spelled _dukkha_) is a central Buddhist concept usually translated as “suffering,” “pain,” “unsatisfactoriness,” or “discontentment”
+
+---
+
+Pain did not show you who you were. It showed you who was actually there when you stopped performing.
