@@ -1,6 +1,6 @@
 ---
 title: Be like water
-modified: 2026-06-10
+modified: 2026-08-24
 ---
 
 > [“I said empty your mind, be formless, shapeless — like water. Now, you put water in a cup, it becomes the cup; You put water into a bottle, it becomes the bottle; You put it in a teapot, it becomes the teapot. Now, water can flow, or it can crash. Be water, my friend.” — Bruce Lee](https://youtu.be/e78SV6EjTQg)
@@ -28,4 +28,8 @@ modified: 2026-06-10
 
 ---
 
-「人無常勢，水無常形。」
+人無常勢，水無常形。
+
+---
+
+Bend around problem, not break against it. Water is soft, yet it cuts through mountains over time. Water is gentle with flower, but it can move a big boulder when needed.
