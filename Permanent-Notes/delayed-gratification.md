@@ -1,11 +1,15 @@
 ---
 title: Delayed Gratification
-modified: 2026-06-10
+modified: 2026-08-24
 ---
 
 > “It is by going down into the abyss that we recover the treasures of life. Where you stumble, there lies your treasure.” — Joseph Campbell
 
 > “All things are difficult before they are easy.” — Thomas Fuller
+
+---
+
+Satisfied Later > Happy Now
 
 ---
 
