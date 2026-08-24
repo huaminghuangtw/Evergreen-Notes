@@ -1,6 +1,6 @@
 ---
 title: Abandon your ego
-modified: 2026-08-15
+modified: 2026-08-24
 ---
 
 > “Showing off is the fool’s idea of glory.” — Bruce Lee
@@ -11,7 +11,9 @@ modified: 2026-08-15
 
 > “If you want to improve, be content to be thought foolish and stupid.” — Epictetus
 
-> “I’ve done more for the environment than any single human on earth—what I care about is the reality of goodness not the perception of it and what I see all over the place is people who care about looking good while doing evil. F\*ck them.” — Elon Musk](<https://x.com/HansMahncke/status/1730019598064390597>)
+> [“I’ve done more for the environment than any single human on earth—what I care about is the reality of goodness not the perception of it and what I see all over the place is people who care about looking good while doing evil. F\*ck them.” — Elon Musk](https://x.com/HansMahncke/status/1730019598064390597)
+
+> [“I’m just sick of ego, ego, ego. My own and everybody else’s. I’m sick of everybody that wants to get somewhere, do something distinguished and all, be somebody interesting. It’s disgusting.” — J.D. Salinger, Franny and Zooey](http://goodreads.com/quotes/71745-i-m-just-sick-of-ego-ego-ego-my-own-and)
 
 ---
 
