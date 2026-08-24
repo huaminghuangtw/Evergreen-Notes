@@ -1,6 +1,6 @@
 ---
 title: Solitude
-modified: 2026-06-10
+modified: 2026-08-24
 ---
 
 > “Solitude gives birth to the original in us.” — Thomas Mann
@@ -10,6 +10,12 @@ modified: 2026-06-10
 > [“Remember: the time you feel lonely is the time you most need to be by yourself. Life’s cruelest irony.” — Douglas Coupland, Shampoo Planet](https://www.goodreads.com/quotes/7143-remember-the-time-you-feel-lonely-is-the-time-you) [^1]
 
 > “I’m here to tell you that the path to peace is right there, when you want to get away.” — Pema Chodron
+
+---
+
+|        ![](https://preview.redd.it/7c323bdvs1ae1.jpeg?auto=webp&s=1312a0fd14f3f9243b4b47f4806af4c7e39ca2b4)         |
+| :-----------------------------------------------------------------------------------------------------------------: |
+| <sub>[Being alone is addicting](https://www.reddit.com/r/Adulting/comments/1hpx1d5/being_alone_is_addicting/)</sub> |
 
 ---
 
