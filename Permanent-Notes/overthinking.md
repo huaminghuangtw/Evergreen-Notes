@@ -1,13 +1,11 @@
 ---
 title: Overthinking
-modified: 2026-06-25
+modified: 2026-08-24
 ---
 
 > “Imagination and fiction make up more than three quarters of our real life.” — Simone Weil
 
 > “Everything is created twice, first in the mind and then in reality.” — Robin Sharma
-
-> “I am an old man and have known a great many troubles, but most of them never happened.” — Mark Twain
 
 > “We suffer more in imagination than in reality.” — Seneca
 
@@ -17,22 +15,22 @@ modified: 2026-06-25
 
 ---
 
-= 想太多 = 過度延伸 = 對號入座
+= 想太多 = 過度延伸 = 對號入座 ➞ [內耗](negative-thoughts-and-emotions.md)
 
 ---
 
 The primary cause of unhappiness is never the situation but your thoughts about it.
 
-人最大的限制是自己的想像力 — 折磨我們的恐懼，通常都是來自對於事情的「想像」，而不是事情「本身」；很多時候，我們只是被自己的一些想法「綑綁」住而已。
+人最大的 [限制](push-your-limits.md) 是自己的想像力 — 折磨我們的恐懼，通常來自對事情的「想像」，而非事情「本身」；很多時候，我們只是被自己的一些想法綁住而已。
 
 ---
 
-唐代禪宗六祖惠能大師所作偈（ㄐㄧˋ）語「<mark>菩提本無樹，明鏡亦非台；本來無一物，何處惹塵埃？</mark>」，意指佛性（菩提）原本就不是什麼樹，清淨的心性（明鏡）也根本不是一個可以被安置的台座，強調「自性清淨，本來空寂」，沒有實體，因此無從被煩惱（塵埃）所附著，是人心的終極開悟境界。
+唐代禪宗六祖惠能大師所作偈（ㄐㄧˋ）語「<mark>菩提本無樹，明鏡亦非台；本來無一物，何處惹塵埃？</mark>」，意指佛性（菩提）原本就不是樹，清淨的心性（明鏡）也不是一個可以被安置的台座，強調「自性清淨，本來空寂」，沒有實體，因此無從被煩惱（塵埃）所附著，是終極開悟境界。
 
 另一句：「[應無所住，而生其心。](https://www.ddm.org.tw/xmnews/cont?xsmsid=0K297379120077217595&sid=0M210565215863679987)」—《金剛經》
 
-* 「無所住」：身在紅塵，但不受紅塵困擾。
-* 「生其心」：出入紅塵，還能救濟紅塵中的眾生。
+* 無所住：身在紅塵，但不受紅塵困擾。
+* 生其心：出入紅塵，還能救濟紅塵中的眾生。
 
 ---
 
@@ -41,12 +39,17 @@ The primary cause of unhappiness is never the situation but your thoughts about 
 > 有時候，最小的東西，卻在心中佔了最大的位置。
 
 * We often worry a lot in the head throughout our life time, but most of the things that we internally panic about never actually happened.
-* Usually our fears/worries are based on “_what might happen_”, not “_what is actually happening right now_”
+
+	> “I am an old man and have known a great many troubles, but most of them never happened.” — Mark Twain
+
+* Usually our fears/worries are based on “_what might happen_”, not “_what is actually happening right now._”
 * Try to remind yourself: “_I am safe right now._”
 
 ---
 
 Understand the difference between **imagination** and **rumination**
+
+See also: [Poisoned Arrow](https://huam.ing/poisoned-arrow)
 
 ---
 
@@ -60,14 +63,6 @@ A surefire way to make a bad situation worse is to continue replaying it in your
 
 **You don’t have a thinking problem—you have an [action](cultivate-a-strong-bias-towards-action.md)/[skill](https://avthar.com/blog/growth-mindset) problem:** _Overthinking_ breeds _indecision_, leading to _inaction/underact_. Accept the consequences, stay true to your values, and move forward.
 ​
----
-
-# The Poison Arrow Principle
-
-Imagine someone is struck by a poisoned arrow. A doctor is called to remove the arrow, but the man stops him. “Not so fast! Before you remove it, I want to know who shot me. What town or village does he come from? What kind of wood was his bow made from? Was it a crossbow or a longbow?” While he asks the questions, the poison takes hold and he dies.
-
-Like the man in the story, we occasionally get shot with the poisoned arrows of life. But ruminating too much on the nature of those arrows is unlikely to help.
-
 ---
 
 Put overthinking to bed. With an average of 60,000–80,000 daily thoughts, remember you don’t need to engage with every single one. Breathe, relax, let it pass.
