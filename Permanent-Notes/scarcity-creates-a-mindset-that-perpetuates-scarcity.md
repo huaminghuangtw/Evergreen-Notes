@@ -1,6 +1,6 @@
 ---
 title: Scarcity creates a mindset that perpetuates scarcity
-modified: 2026-07-27
+modified: 2026-08-24
 ---
 
 [@mullainathanScarcityWhyHaving2013]
@@ -52,7 +52,7 @@ modified: 2026-07-27
 
 ---
 
-# 「富不過三代，貧窮卻能延續三十代」
+# 富不過三代，貧窮卻能延續三十代
 
 匱乏的代際傳遞（Intergenerational Transmission of Scarcity）不只是財富分配不均的問題，更深層的原因是**匱乏心態的遺傳**：長期在資源稀缺的環境中成長的孩子，大腦會被訓練成永遠處於「緊急模式」，習慣性地優先處理短期威脅而非長期投資。這種神經迴路一旦形成，即便日後環境改善，也難以輕易逆轉。[^5]
 
