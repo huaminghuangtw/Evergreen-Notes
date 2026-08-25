@@ -1,6 +1,6 @@
 ---
 title: Rational Emotive Behavior Therapy
-modified: 2026-06-10
+modified: 2026-08-25
 ---
 
 Rational Emotive Behavior Therapy (REBT), developed by [Albert Ellis](https://www.google.com/search?q=Albert+Ellis) in the 1950s, is a pioneering form of cognitive-behavioral therapy.
