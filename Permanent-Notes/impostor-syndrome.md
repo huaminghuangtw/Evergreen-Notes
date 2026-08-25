@@ -1,6 +1,6 @@
 ---
 title: Impostor Syndrome
-modified: 2026-06-10
+modified: 2026-08-25
 ---
 
 # You don’t need to be a _guru_. You can just be a _guide_.
