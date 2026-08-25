@@ -1,6 +1,6 @@
 ---
 title: How to use AI effectively
-modified: 2026-08-24
+modified: 2026-08-25
 ---
 
 > The dumbest person you know is currently being told “You’re absolutely right!” by ChatGPT.
@@ -18,7 +18,7 @@ AI is an eager intern or new grad hire, not a senior engineer. Give it the work 
 Analogy:
 
 * 「0 到 1」的突破仰賴人類的創造力，而 AI 工具則擅長將「1 到 100」的流程高效擴展。
-* 備料 → 煮飯 — 人類準備原料（想法、脈絡、線索），AI 負責烹調上菜
+* 備料 → 煮飯 — 人類準備原料（想法、脈絡、上下文、線索），AI 負責烹調上菜
 * 點 → 線 + 面 — 人類提供零散點子，AI 將其串聯成有結構的成果
 
 ---
