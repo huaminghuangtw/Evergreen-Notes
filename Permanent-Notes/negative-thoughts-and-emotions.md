@@ -1,6 +1,6 @@
 ---
 title: Negative Thoughts & Emotions
-modified: 2026-08-03
+modified: 2026-08-25
 ---
 
 > “You cannot prevent the birds of sorrow from flying over your head, but you can prevent them from building nests in your hair.” — Chinese Proverb
@@ -12,6 +12,8 @@ modified: 2026-08-03
 > “Kites rise highest against the wind - not with it.” — Winston Churchill [^1]
 
 ---
+
+> “The only time we suffer is when we believe a thought that argues with what is.” — Byron Katie
 
 * Notice/identify/recognize/acknowledge these feelings/thought patterns in the negative loop and let them guide you. They are your compass toward growth. Don’t ruminate/dwell on negative thoughts. (內耗)
 * We cannot grow when we are in shame, and we can’t use shame to change ourselves or others.
