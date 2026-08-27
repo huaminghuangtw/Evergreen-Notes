@@ -1,6 +1,6 @@
 ---
 title: Always start small
-modified: 2026-08-14
+modified: 2026-08-27
 ---
 
 > “It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith
@@ -72,6 +72,12 @@ Every race starts with one step. Every fortune starts with a small deposit. Ever
 
 * ❌ [失敗](failing-forward-turns-setbacks-into-stepping-stones.md) 為成功之母
 * ✅（微）小成功為成功之母
+
+---
+
+> [“You can lose yourself one small compromise at a time. You can transform yourself one small win at a time.” — James Clear](https://jamesclear.com/3-2-1/november-28-2024)
+
+Do **one rep** of something that takes you out of your comfort zone every single day. Harness the power of small wins.
 
 ---
 
