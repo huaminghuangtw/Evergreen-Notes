@@ -1,6 +1,6 @@
 ---
-title: 終端筋膜
-modified: 2026-08-11
+title: Fascia
+modified: 2026-08-27
 ---
 
 > “Fascia is the biological fabric that holds us together.” — Thomas W. Myers, Anatomy Trains
