@@ -1,6 +1,6 @@
 ---
 title: How to build muscles?
-modified: 2026-07-04
+modified: 2026-08-27
 ---
 
 = Resistance Training
@@ -53,8 +53,16 @@ For cyclists, each gym session is a Leg Day 😂 (Core work is secondary)
 
 ---
 
+# r/bodyweightfitness
+
+* <https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/>
+* <https://www.reddit.com/r/bodyweightfitness/comments/fto8ya/training_at_home_but_dont_have_access_to_a_pullup/>
+* <https://www.reddit.com/r/bodyweightfitness/comments/fxrooc/how_to_strengthen_your_back_in_5_minutes_a_day/>
+
+---
+
 [Whey Protein](whey-protein.md)
 
 ---
 
-[Recommended Routine by r/bodyweightfitness](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/)
+[Delayed Onset Muscle Soreness](delayed-onset-muscle-soreness.md)
