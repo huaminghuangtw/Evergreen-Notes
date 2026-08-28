@@ -1,6 +1,6 @@
 ---
 title: "Find joy, not pleasure" 
-modified: 2026-06-23
+modified: 2026-08-28
 ---
 
 > “Pleasure is always derived from something outside you, whereas joy arises from within.” — Eckhart Tolle
@@ -18,6 +18,8 @@ modified: 2026-06-23
 > “Find a place inside where there’s joy, and the joy will burn out the pain.” — Joseph Campbell
 
 > “Childhood may be defined as the age of play; therefore some children are never young, and some adults are never old.” — Will Durant
+
+> “The ultimate joys are moral joys.” — David Brooks, [The Road to Character](https://www.goodreads.com/work/quotes/42009504)
 
 ---
 
