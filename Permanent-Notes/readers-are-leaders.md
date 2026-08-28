@@ -1,6 +1,6 @@
 ---
 title: Leaders are readers
-modified: 2026-08-16
+modified: 2026-08-28
 ---
 
 > “Not all readers are leaders, but all leaders are readers.” — Harry S. Truman
@@ -89,6 +89,7 @@ They are more likely to contain enduring truths.
 * 好書重覆讀過無數遍後，文字就會：
 	* 像血液般流入體內，深入骨髓。
 	* 如魔音穿腦般，在腦中反覆迴盪。
+* 每個人都有那麼一本「命定之書」，它改變我們的思維、選擇、行為和習慣，甚至整個人生路徑；但如果沒有大量閱讀，就很難遇到那本命定之書。
 
 # Passive Leisure Reading → Proactive Information Processing & Extraction
 
