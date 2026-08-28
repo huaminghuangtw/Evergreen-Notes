@@ -1,6 +1,6 @@
 ---
 title: Journaling
-modified: 2026-08-07
+modified: 2026-08-28
 ---
 
 > “Create an environment where you’re free to express what you’re afraid to express.” — Rick Rubin
@@ -109,6 +109,10 @@ E.g., feelings, emotions, thoughts, memories, special moments/occasions/events
 	* Jog down keywords anytime and anywhere throughout the day, rather than sit down to write in complete sentences at a specific time each day.
 * [The Five Minute Journal](https://www.intelligentchange.com/products/the-five-minute-journal)
 * [Gratitude](be-grateful.md) Journaling (感恩日記)
+
+---
+
+[Mr. 6 日記](https://mr6.life/)
 
 [^1]: _“To plant a garden is to believe in tomorrow.” — Audrey Hepburn_
 [^2]: Memory is everything. You’re doing this for your future self. Future You will want to look back at this time in your life, and find out what you were actually doing, day-to-day, and how you really felt back then. It will help you [make better decisions](https://fs.blog/decision-journal/). Future You will thank Today You.
