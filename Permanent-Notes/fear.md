@@ -1,7 +1,9 @@
 ---
 title: Fear
-modified: 2026-06-10
+modified: 2026-08-28
 ---
+
+> “The only thing we have to fear is fear itself.” — Franklin D. Roosevelt
 
 > “Danger is real, fear is a choice” — Will Smith
 
