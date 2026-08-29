@@ -1,6 +1,6 @@
 ---
 title: Sleep
-modified: 2026-06-17
+modified: 2026-08-29
 ---
 
 > “Sleep is a kindness you give your future self.” — Matthew Walker
@@ -156,6 +156,21 @@ sleep arousals (brief awakenings during the night)
 
 ---
 
+ 🛌 [Bryan Johnson’s Twitter thread on sleep](https://x.com/bryan_johnson/status/1824078073018581129) [^2]
+
+1. **Reframe Your Identity:** You are a professional sleeper. Make sleep your #1 priority. Nothing influences your conscious and unconscious existence more. Plan your day around sleep. It’s the most important appointment in your calendar. Sleep will make you a top performer.
+2. **Create a 30–60 minute Wind-Down Routine**: Set a specific time each evening to start winding down, for example: reading, taking a warm bath, breathing exercises, soothing music. Focus on transitioning your work and worry brain to sleep mode.
+3. **Get Morning Light**: Get outside within the first 15–30 minutes of waking to set your circadian rhythm and boost mood or use a light therapy device if natural sunlight isn’t available.
+4. **Regulate Evening Light:** Dim the lights one to two hours before bedtime to create a relaxed atmosphere. Use warm (red is best) lighting in the evening. Install blue light filters on your devices (i.e. f.lux) and consider blue light-blocking glasses. Limit screen time at least an hour before bed and blackout your bedroom.
+5. **Regulate Bedroom Temperature**: Keep your bedroom temperature between 60–67°F (15–19°C). Choose breathable bedding and light sleepwear. Use fans or cooling devices and consider taking a warm bath before bed. Ventilate your room and or use a temperature-controlled mattress if possible.
+6. **Consistent Bedtime**: Choose a bedtime that allows for 7–9 hours in bed each night. Avoid scheduling late nights and be consistent even on weekends. Set an alarm for winding down.
+7. **Curate a Peaceful Sleep Environment**: Ensure your bedroom is quiet, dark, and cool. Invest in a comfortable mattress and pillows. I have a copper pillowcase. Remove distractions and keep your bedroom clean and clutter-free. Consider using a noise machine to offset environmental sounds or earplugs if necessary. Buy a temperature controlled mattress if you can.
+8. **Eat Early**: Try to have your last meal of the day at least two hours (experiment with 4 and 6 hours before) before bed and avoid large meals close to bedtime. Eating close to bed creates large metabolic demands on your body, causes blood glucose fluctuations, reduces melatonin production, and disrupts your body’s natural process of lowering core body temperature.
+9. **Avoid Stimulants**: Try to avoid caffeine, alcohol, and other stimulants at least 10 hours before sleep. Caffeine has a half life of 6 hours in the blood. That means that consuming a cup of coffee 6 hours before bedtime is equivalent to drinking half a cup immediately before going to bed! Opt for herbal teas or other relaxing drinks in the evening.
+10. **Gather Data**: Track your sleep habits and patterns with a journal or sleep tracker. Use the data to make informed decisions and adjustments to your routine. Continuously monitor and tweak your habits to optimize your sleep quality.
+
+---
+
 [Sleep Is Your Superpower | Matt Walker](https://huam.ing/sleep-is-your-superpower)
 
 ---
@@ -163,3 +178,4 @@ sleep arousals (brief awakenings during the night)
 [Jet Leg](jet-lag.md)
 
 [^1]: When done correctly, your body’s natural circadian rhythms should cause you to feel sleepy at the same time every day.
+[^2]: See also: [How I FIXED My Terrible Sleep](https://youtu.be/Wk9p3dhMYdk)
