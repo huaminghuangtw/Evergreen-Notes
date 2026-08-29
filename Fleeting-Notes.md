@@ -1,5 +1,5 @@
 ---
-modified: 2026-08-23
+modified: 2026-08-29
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -313,7 +313,6 @@ prepper（末日準備者）文化
 ---
 
 瑞典日記：[Why You Need to Subtract: The Vasa Effect | The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/why-you-need-to-subtract-the-vasa-effect)
-
 
 ---
 
