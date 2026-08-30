@@ -1,5 +1,5 @@
 ---
-modified: 2026-08-29
+modified: 2026-08-30
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -303,12 +303,6 @@ prepper（末日準備者）文化
 * 洗淨茶垢、咖啡漬、碗盤上的頑漬
 * 清潔廚房抽油煙機，油垢、抹布龜清理浴室污垢、黃斑、霉菌
 * 洗淨洗衣機內槽污垢
-
----
-
-@ [津芳冰城](https://www.google.com/maps?q=津芳冰城)
-
-	> 冰底是細緻的香蕉清冰
 
 ---
 
