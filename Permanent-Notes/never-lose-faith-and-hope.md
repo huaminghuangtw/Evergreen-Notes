@@ -1,6 +1,6 @@
 ---
 title: Never lose faith and hope
-modified: 2026-07-02
+modified: 2026-08-29
 ---
 
 > “Without faith, it is impossible for you to become great.” — Wallace D. Wattles, [The Science of Being Great](https://www.goodreads.com/work/quotes/1881171)
@@ -33,6 +33,16 @@ modified: 2026-07-02
 >
 > 那些還沒看見就信的，有福了。
 > — 約翰福音 20：29
+
+> “Nothing that is worth doing can be achieved in our lifetime; therefore we must be saved by hope.
+>
+> Nothing which is true or beautiful or good makes complete sense in any immediate context of history; therefore we must be saved by faith.
+>
+> Nothing we do, however virtuous, can be accomplished alone; therefore we must be saved by love.
+>
+> No virtuous act is quite as virtuous from the standpoint of our friend or foe as it is from our standpoint. Therefore we must be saved by the final form of love which is forgiveness.”
+>
+> — Reinhold Niebuhr, [The Irony of American History](https://www.goodreads.com/work/quotes/781014)
 
 ---
 
