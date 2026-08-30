@@ -85,9 +85,7 @@ Djokovic’s ultimate competitive advantage is his intrinsic love for the mundan
 
 ---
 
-# [David Brooks - Résumé Virtues (履歷美德) & Eulogy Virtues (悼詞美德)](https://youtu.be/MlLWTeApqIM)
-
-> So I’ve been thinking about the difference between the résumé virtues and the eulogy virtues. The résumé virtues are the ones you put on your résumé, which are the skills you bring to the marketplace. The eulogy virtues are the ones that get mentioned in the eulogy, which are deeper: who are you, in your depth, what is the nature of your relationships, are you bold, loving, dependable, consistency? And most of us, including me, would say that the eulogy virtues are the more important of the virtues. But at least in my case, are they the ones that I think about the most? And the answer is no.
+# [David Brooks - Résumé Virtues (履歷美德) & Eulogy Virtues (悼詞美德)](https://huam.ing/should-you-live-for-your-resume-or-your-eulogy)
 
 * [你要追求你的履歷表，還是你的墓誌銘？](https://youtu.be/SBDWLvTRmP0)
 * [王文華：要寫出精彩的「履歷表」，先擬一篇動人的「墓誌銘」](https://www.cheers.com.tw/article/article.action?id=5085147)
@@ -96,7 +94,9 @@ Djokovic’s ultimate competitive advantage is his intrinsic love for the mundan
 
 ---
 
-The Two Side of Our Natures, which are at war with each other. We happen to live in a society that favors **Adam I**, and often neglects **Adam II**. [@soloveitchikLonelyManFaith2006]
+The Two Side of Our Natures, which are at war with each other. We happen to live in a society that favors **Adam I**, and often neglects **Adam II**.
+
+[@soloveitchikLonelyManFaith2006]
 
 | **Adam I**                                                                                | **Adam II**                                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
