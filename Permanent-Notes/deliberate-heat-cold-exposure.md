@@ -1,6 +1,6 @@
 ---
 title: Deliberate Heat Cold Exposure
-modified: 2026-06-10
+modified: 2026-08-31
 ---
 
 # Heat Exposure
@@ -34,6 +34,23 @@ modified: 2026-06-10
 
 ---
 
+# Heat-Cold Contrast Therapy
+
+> The Kneipp Therapy
+
+* [Sauna](sauna.md) Session 15–20 mins + Ice Baths/Cold Shower/Cold Plunge 5 mins ONCE a week
+	* 加入浴鹽 (Epsom Salt) [^1] + 茶樹精油 (Tea Tree Oil) [^2]
+	* Prefer traditional sauna instead of infrared sauna, due to the heat range they can reach
+
+		> According to Andrew Huberman, the optimal temperature for sauna therapy is 80–87°C 
+
+* Do 2–3 rounds of 冷熱交替的三溫暖
+	* Hot: 5–20 mins
+	* Take a quick cold shower & warm foot bath (+ drink a glass of water) between sauna sessions
+	* Cooldown: 10–15 mins (in fresh air, sit still)
+
+---
+
 # Vocalizing, Including Moaning During Cold Exposure
 
 * **Stress Release**: Helps relieve emotional discomfort caused by the cold.
@@ -53,6 +70,6 @@ Cooling “Glabrous Skin Surfaces” [^3] can…
 
 [The Science & Use of Cold Exposure for Health & Performance](https://huam.ing/the-science-and-use-of-cold-exposure-for-health-and-performance)
 
-[^1]: LeBron uses a cryotherapy chamber to replicate the therapeutic effects of an ice bath—reducing inflammation and pain—in significantly less time.
-[^2]: See [The Diver Reflex](the-diver-reflex.md)
+[^1]: = 浴鹽 = 瀉鹽 = 鎂鹽 (硫酸鹽 + 鎂)
+[^2]: Tea tree oil is the best therapy for _acnes_ and _scars_.
 [^3]: meaning non-hairy skin areas such as palms of the hands, soles of the feet, upper portion/half of the face, ears
