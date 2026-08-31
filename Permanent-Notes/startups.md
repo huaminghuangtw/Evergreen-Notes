@@ -1,6 +1,6 @@
 ---
 title: Startups
-modified: 2026-07-05
+modified: 2026-08-31
 ---
 
 * First step: attract great people
@@ -73,6 +73,7 @@ modified: 2026-07-05
 		2. Avoid repetitive information
 * The quality of your business is directly proportional to the quality of the people you hire which is directly proportional to your character and your ability to cast a clear vision and how they fit in it (not how they help you accomplish yours)
 	* **Taleb’s Surgeon** - If presented with two equal candidates for a role, pick the one with the least amount of charisma. The uncharismatic one has got there despite their lack of charisma. The charismatic one has got there with the aid of their charisma.
+* Your employees will care the things you care about as much as you care about them.
 * Run the company by ideas, not by hierarchy
 * 2 main focuses every single day
 	* Build the product
@@ -118,6 +119,9 @@ modified: 2026-07-05
 	* Open communication = transparency = honesty
 	* Supportiveness = collaborative teamwork
 	* Lean management (base on high-trust base)
+
+		> Your company will move at the speed of trust.
+
 	* Fun environment
 * Cultivate an environment of respectful disagreement. [Encourage candor. One of the worst things that can happen to a team is for people to feel uncomfortable discussing problems and expressing their honest opinions. Build a culture of candor so that people know it’s the norm to tell the truth, even when it’s difficult or awkward.](https://www.goodreads.com/quotes/829722-this-is-a-story-about-four-people-named-everybody-somebody)
 * 公司的 Mission 由三個部分組成：
