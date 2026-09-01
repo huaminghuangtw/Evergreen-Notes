@@ -1,6 +1,6 @@
 ---
 title: Neuroscience
-modified: 2026-06-10
+modified: 2026-09-01
 ---
 
 The brain is a monkey brain with a supercomputer on top.
@@ -85,7 +85,7 @@ The brain is a monkey brain with a supercomputer on top.
 
 ---
 
-# 潛/下意識 ([Subconsciousness](https://www.psychologytoday.com/us/basics/unconscious)) ↔ 主/表/顯意識 (Consciousness)
+# 潛/下意識 ([Subconsciousness](https://www.psychologytoday.com/us/basics/unconscious)) ↔ 前意識 (Preconscious) ↔ 主/表/顯意識 (Consciousness)
 
 > “Psychologists tell us that by the time we’re in our mid-30s, our identity or personality will be completely formed. This means that for those of us over 35, we have memorized a select set of behaviors, attitudes, beliefs, emotional reactions, habits, skills, associative memories, conditioned responses, and perceptions that are now subconsciously programmed within us. Those programs are running us, because the body has become the mind. This means that we will think the same thoughts, feel the same feelings, react in identical ways, behave in the same manner, believe the same dogmas, and perceive reality the same ways. About 95 percent of who we are by midlife1 is a series of subconscious programs that have become automatic—driving a car, brushing our teeth, overeating when we’re stressed, worrying about our future, judging our friends, complaining about our lives, blaming our parents, not believing in ourselves, and insisting on being chronically unhappy, just to name a few.” — Joe Dispenza, [Breaking the Habit of Being Yourself: How to Lose Your Mind and Create a New One](https://www.goodreads.com/work/quotes/18108532)
 
