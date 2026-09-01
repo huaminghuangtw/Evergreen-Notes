@@ -1,6 +1,6 @@
 ---
 title: Always do your best as possible
-modified: 2026-08-16
+modified: 2026-09-01
 ---
 
 > “Inspire yourself to be great. Being good isn’t good enough.” — Gurbaksh Chahal
@@ -20,6 +20,8 @@ modified: 2026-08-16
 > “People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.” — Andrew Carnegie
 
 > “I found in my career that if you take pride in the little jobs, people will think you worthy of the bigger jobs. Sooner or later we all have to do things we do not want to. But if you are going to do it, do it right. Build the best damn Frog Float you can.” — William McRaven, The Wisdom of the Bullfrog
+
+> “If you’re not 100% into it, somebody else who is 100% into it will outperform you. And they won’t just outperform you by a little bit, they’ll outperform you by a lot.” — Naval Ravikant
 
 ---
 
