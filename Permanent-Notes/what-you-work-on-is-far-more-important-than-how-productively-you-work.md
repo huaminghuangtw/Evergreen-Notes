@@ -1,6 +1,6 @@
 ---
 title: What you work on is far more important than how productively you work
-modified: 2026-07-07
+modified: 2026-09-02
 ---
 
 > “It is not enough that we do our best; sometimes we must do what is required/necessary.” — Winston Churchill
@@ -58,6 +58,8 @@ Strategy defines what you want to achieve and why, laying out your long-term dir
 * [知識工作不像生產線，能用「每小時生產多少零件」衡量，而是看工作成果的品質與影響力，強調「效能」，而非單純的「效率」。](https://calnewport.com/knowledge-workers-are-bad-at-working-and-heres-what-to-do-about-it/)
 
 ## Examples
+
+> Making a bad process more efficient is a negative, not a positive, we should instead strive to improve the situation.
 
 * The best door-to-door salesperson is quick and good at selling, but would sell more by using email instead. Being fast is not enough if you use the wrong way.
 * Someone who checks email 30 times a day and has fancy filter rules is [busy](busyness.md), but not really getting much done. It felt efficient, but it was not effective.
