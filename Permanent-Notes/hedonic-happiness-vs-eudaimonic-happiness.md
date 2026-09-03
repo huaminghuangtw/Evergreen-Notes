@@ -1,6 +1,6 @@
 ---
 title: Hedonic Happiness vs Eudaimonic Happiness
-modified: 2026-08-21
+modified: 2026-09-03
 ---
 
 > “Never become used to anything you love. It blunts the edge of appreciation.” — Richard Laymon
@@ -18,3 +18,9 @@ modified: 2026-08-21
 * Achieved through [purpose, meaning](why-we-exist.md), or [authenticity](escape-competition-through-authenticity.md)
 * Associated with a focus on long-term, value-oriented, and higher-order living
 * The happiness you feel when you embrace [delayed gratification](delayed-gratification.md)
+
+---
+
+**The Hedonic Treadmill/Adaptation**
+
+![](https://media.huam.ing/image/d6663971b18df3f7d284f95d2925ee9c.webp)
