@@ -1,6 +1,6 @@
 ---
 title: No unforced errors
-modified: 2026-07-07
+modified: 2026-09-03
 ---
 
 = 非受迫性失誤
