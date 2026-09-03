@@ -1,6 +1,6 @@
 ---
 title: Procrastination
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 > “To begin, begin.” — William Wordsworth
@@ -88,7 +88,7 @@ Inspiration is perishable. Act IMMEDIATELY at the moment of inspiration. Follow 
 	* 當拖延已發生時，可抱持的心態
 	* Falling behind is not quitting. It’s just a third of the story.
 * 降低成功的門檻
-	* Telling yourself to lower the bar/stakes, embrace mediocrity, and “choose to” be satisfied
+	* Telling yourself to lower the bar/stakes (退階), embrace mediocrity, and “choose to” be satisfied
 * Observe the sensation, [write it down](implementation-intentions.md), and ask yourself: “_What am I trying to escape from?_”
 * [將其分割成一個個細小、可控、明確、具體的階段性任務](the-growth-mindset.md) [^2]
 	1. [Break complex, overwhelming tasks into small, manageable chunks.](https://youtu.be/TQMbvJNRpLE) [^3]
