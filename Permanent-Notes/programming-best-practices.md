@@ -1,6 +1,6 @@
 ---
 title: Programming Best Practices
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 # Code should be self-commenting
@@ -86,7 +86,10 @@ Write clean, compact, clear, readable, modular, and [extensible](https://en.wiki
 			* [Single Source of Truth (SSOT)](https://www.google.com/search?q=Single+Source+of+Truth+(SSOT)) is a better variant of DRY: ensure that every piece of knowledge or logic exists in only one place in your codebase or system. This reduces the risk of inconsistencies and makes maintenance easier.
 	* Atomize everything (Principle of Atomicity)
 	* [The Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
-		* Do one thing and do it extremely well.
+
+		> Do one thing and do it extremely well.
+
+	* [The Art of Unix Programming](https://huam.ing/the-art-of-unix-programming)
 	* Functions should only do one thing well. Keep functions small.
 		* [Make small focused modules for reusability and to make it possible to build larger more advanced things.](https://sindresorhus.com/blog/small-focused-modules)
 		* It’s **not about LOC (Lines Of Code)**, but the complexity! ➞ Number of **indentations** is a good metric.
