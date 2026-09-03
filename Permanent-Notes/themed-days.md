@@ -1,6 +1,6 @@
 ---
 title: Themed Days
-modified: 2026-07-31
+modified: 2026-09-03
 ---
 
 > [“The way I found that works for me is I theme my days. On Monday, at both companies, I focus on management and running the company. Tuesday is focused on product. Wednesday is focused on marketing and communications and growth. Thursday is focused on developers and partnerships. Friday is focused on the company and the culture and recruiting. Saturday I take off, I hike. Sunday is reflection, feedback, strategy, and getting ready for the week.” — Jack Dorsey](https://www.forbes.com/sites/kevinkruse/2015/10/12/jack-dorsey-productivity-secret/#3212986c136a)
@@ -21,7 +21,7 @@ A [goal](goal-setting.md) asks _“What do I want?”_, but a theme asks _“Who
 
 ---
 
-# [Example by Jacky Wang](https://podcasts.apple.com/de/podcast/%E9%9B%BB%E6%89%B6%E6%A2%AF%E8%B5%B0%E5%B7%A6%E9%82%8A-with-jacky-left-side-escalator/id1544225078?i=1000685545309)
+# [Example by Jacky Wang](https://podcasts.apple.com/podcast/id1544225078?i=1000685545309)
 
 > [我如何在 2025 年讓工作效率和幸福感翻倍？｜電扶梯走左邊 with Jacky](https://leftsideescalator.substack.com/p/2025-81f)
 
