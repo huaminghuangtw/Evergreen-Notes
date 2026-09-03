@@ -1,6 +1,6 @@
 ---
 title: Empathy
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 > “I do not ask the wounded person how he feels, I myself become the wounded person.” — Walt Whitman
@@ -44,6 +44,10 @@ The emptiest head rattles the loudest.
 ---
 
 設身處地替人著想/感受別人的感受
+
+---
+
+Compassion is not looking down at others from a high rock. Compassion is knowing that we are all the same inside. We help because we are the _same_, not because we are _different_.
 
 ---
 
