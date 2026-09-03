@@ -1,6 +1,6 @@
 ---
 title: Journaling
-modified: 2026-09-01
+modified: 2026-09-03
 ---
 
 > “Create an environment where you’re free to express what you’re afraid to express.” — Rick Rubin
@@ -12,7 +12,7 @@ modified: 2026-09-01
 * 多位一體，包含了：
 	1. 感恩日記
 	2. 工作日誌
-	3. 訓練日記
+	3. 訓練日誌
 * 是我做決定 & 採取行動 の 指南針 🧭
 
 ## Wins I Achieved
