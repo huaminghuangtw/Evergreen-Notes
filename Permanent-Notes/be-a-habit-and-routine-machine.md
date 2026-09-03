@@ -1,6 +1,6 @@
 ---
 title: Be a habit and routine machine
-modified: 2026-08-23
+modified: 2026-09-03
 ---
 
 > “Outer order contributes to inner calm.” — Gretchen Rubin
@@ -132,6 +132,15 @@ Good habits have a “blast radius” — Those around you are watching. Be a li
 When determining the size or complexity of a new habit ask yourself: **“What can I stick to—even on my worst day?”** Start there. Master the art of showing up. Then advance.
 
 Have “Accountability Partners” [^2]
+
+Creating positive rituals is the most powerful means we have found to effectively [manage energy](energy-management.md) in the service of full engagement. Look at any part of your life in which you are consistently effective and you will find that certain habits help make that possible:
+
+* If you eat in a healthy way, it is probably because you have built routines around the food you buy and what you are willing to order at restaurants.
+* If you are fit, it is probably because you have regular days and times for working out.
+* If you are successful in a sales job, you probably have a ritual of mental preparation for calls and ways that you talk to yourself to stay positive in the face of rejection.
+* If you manage others effectively, you likely have a style of giving feedback that leaves people feeling challenged rather than threatened.
+* If you are closely connected to your spouse and your children, you probably have rituals around spending time with them.
+* If you sustain high positive energy despite an extremely demanding job, you almost certainly have predictable ways of ensuring that you get intermittent recovery.
 
 ---
 
