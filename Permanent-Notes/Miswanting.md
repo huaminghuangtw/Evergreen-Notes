@@ -1,6 +1,10 @@
 ---
 title: Miswanting
-modified: 2026-08-21
+modified: 2026-09-03
+---
+
+≈ Wishful Thinking = False Hope
+
 ---
 
 is a concept from behavioral psychology that…
@@ -25,3 +29,7 @@ Miswanting occurs when there’s a gap between:
 ---
 
 The term is most closely associated with **Daniel Gilbert** (Harvard psychologist), especially his work on _[affective forecasting](https://www.google.com/search?q=affective+forecasting)_.
+
+---
+
+Don’t wish anything at all because wishing wastes time you could be doing.
