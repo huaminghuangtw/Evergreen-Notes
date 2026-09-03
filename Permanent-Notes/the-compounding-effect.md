@@ -1,6 +1,6 @@
 ---
 title: The Compounding Effect
-modified: 2026-06-20
+modified: 2026-09-03
 ---
 
 > Compound interest is the eighth wonder of the world. He who understands it, earns it. He who doesn’t, pays it.” — Albert Einstein
@@ -9,9 +9,9 @@ modified: 2026-06-20
 
 # Positive Compounding
 
-leads to a [Virtuous Cycle (惡性循環)](https://www.google.com/search?q=Virtuous+Cycle)
+leads to a [Virtuous Cycle (良性循環)](https://www.google.com/search?q=Virtuous+Cycle)
 
-1 + 1 = 11
+$1 + 1 = 11$
 
 冰凍三尺，非一日之寒
 
@@ -43,11 +43,7 @@ The most important thing about compound interest isn’t the math. It’s the ps
 
 > “Powerful avalanches begin with small shifts.” — Pamela McFarland Walsh
 
----
-
-leads to a [Vicious Cycle (良性循環)](https://www.google.com/search?q=Vicious+Cycle) [^2]
-
----
+leads to a [Vicious Cycle (惡性循環)](https://www.google.com/search?q=Vicious+Cycle) [^2]
 
 #NEWSLETTER
 
@@ -67,7 +63,7 @@ leads to a [Vicious Cycle (良性循環)](https://www.google.com/search?q=Viciou
 >
 > Some areas of life reward your best day. Others punish your worst day. <mark>Know which situation you’re in, and you can better decide when to be risky and when to play it safe.</mark>
 
-10 - 1 = 0: 即使做對十件事，只要其中一件事做錯，一切就歸零，避免犯錯比什麼都重要!!!
+$10 - 1 = 0$：即使做對十件事，只要其中一件事做錯，一切就歸零。因此，[避免犯錯](no-unforced-errors.md) 比什麼都重要！
 
 > Bad things happen dramatically. Good things happen gradually, and don’t feel like “news”.
 
@@ -85,6 +81,8 @@ leads to a [Vicious Cycle (良性循環)](https://www.google.com/search?q=Viciou
 10. Saving steadily doesn’t guarantee wealth, but one large impulsive expense can set you back significantly.
 
 **Success comes from getting all pieces right. That’s why it’s so hard.**
+
+[The Lollapalooza Effect](the-lollapalooza-effect.md)
 
 ---
 
@@ -120,5 +118,5 @@ The gradual acceptance of negative change, because it happens in such small incr
 
 > Life Analogy: The most dangerous habits, behaviors, and beliefs are the ones you slip into slowly, day after day, without ever realizing the damage they are doing to your life. We think that catastrophic outcomes can be avoided by simply avoiding significant mistakes, when in reality, catastrophic outcomes are often simply the macro result of thousands of micro mistakes. Minimizing stupidity will get you far in life.
 
-[^1]: 巴菲特的「滾雪球理論」（The Snowball Theory）：必須找到「一顆夠濕的雪球」與「一條夠長的下坡路」。
+[^1]: 巴菲特的「滾雪球理論」（The Snowball Theory）：找到一顆夠濕的雪球與一條夠長的下坡。
 [^2]: aka 善的循環
