@@ -1,6 +1,6 @@
 ---
 title: Energy Management
-modified: 2026-08-21
+modified: 2026-09-03
 ---
 
 > “Energy is eternal delight.” — William Blake
@@ -17,12 +17,16 @@ modified: 2026-08-21
 
 > 能量/精力管理 > [時間管理](time-management.md)
 
-> “Energy, not time, is the fundamental currency of high performance.” — Jim Loehr
+> “Energy, not time, is the fundamental currency of high performance.” — Jim Loehr [^1]
 
-Time is the same for everyone — 24 hours a day, no more, no less. [^1] Energy, by contrast, is highly variable: it fluctuates with sleep, nutrition, stress, environment, and mindset. Time management optimizes _when_ you do things; energy management optimizes _how well_ you do them. Time is a container; energy is the fuel that fills it.
+Time is the same for everyone — 24 hours a day, no more, no less. [^2] Energy, by contrast, is highly variable: it fluctuates with sleep, nutrition, stress, environment, and mindset. Time management optimizes _when_ you do things; energy management optimizes _how well_ you do them. Time is a container; energy is the fuel that fills it.
 
 * 時間是有限的，但能量或精力可以無限。
 * 時間以不變的速度流逝，但能量或精力不斷地在變。
+
+> There are undeniably bad bosses, toxic work environments, difficult relationships and real-life crises. Nonetheless, we have far more control over our energy than we ordinarily realize. The number of hours in a day is fixed, but the quantity and quality of energy available to us is not. **It is our most precious resource. The more we take responsibility for the energy we bring to the world, the more empowered and productive we become. The more we blame others or external circumstances, the more negative and compromised our energy is likely to be**.
+
+![](https://media.huam.ing/image/ad025681fd6a1c2e111a5af8f1e80d82.webp)
 
 ---
 
@@ -31,8 +35,6 @@ Time is the same for everyone — 24 hours a day, no more, no less. [^1] Energy,
 > 情緒能量表
 
 Hawkins’ map (scaled 0–1000) is one lens for seeing why _state_ dominates productivity. At low levels — shame, guilt, apathy, fear — the same task feels exhausting, and self-defeating thoughts quietly drain energy. At higher levels — courage, acceptance, reason, love — the same task becomes intrinsically motivating. From this view, energy management is partly _state management_: raise the level from which you operate, rather than merely squeezing more output from a low state.
-
-[You can’t beat someone who genuinely enjoys the work itself](you-cant-beat-someone-who-genuinely-enjoys-the-work-itself.md)
 
 ---
 
@@ -47,7 +49,7 @@ Hawkins’ map (scaled 0–1000) is one lens for seeing why _state_ dominates pr
 	* [@jobBeliefsWillpowerDetermine2013]
 		* …following a demanding task, only people who view willpower as limited and easily depleted (a limited resource theory) exhibited improved self-control after sugar consumption.
 		* In contrast, people who view willpower as plentiful (unlimited) showed no benefits from glucose—they exhibited high levels of self-control performance with or without sugar boosts.
-* Here’s the key point: **Simply believing that we’re “spent” or mentally drained can create a sense of fatigue, a phenomenon linked to [the nocebo effect](https://en.wikipedia.org/wiki/Nocebo). Clinging to / Holding onto the idea that willpower is a finite resource can be harmful/detrimental, making us more likely to lose self-control and make poor decisions. In reality, ego depletion is driven by [self-defeating thoughts](negative-thoughts-and-emotions.md), rather than any biological limitation. It’s not the sugar in the lemonade that sustains mental stamina—it’s [the placebo effect](https://en.wikipedia.org/wiki/Placebo) in action.** [^2]
+* Here’s the key point: **Simply believing that we’re “spent” or mentally drained can create a sense of fatigue, a phenomenon linked to [the nocebo effect](https://en.wikipedia.org/wiki/Nocebo). Clinging to / Holding onto the idea that willpower is a finite resource can be harmful/detrimental, making us more likely to lose self-control and make poor decisions. In reality, ego depletion is driven by [self-defeating thoughts](negative-thoughts-and-emotions.md), rather than any biological limitation. It’s not the sugar in the lemonade that sustains mental stamina—it’s [the placebo effect](https://en.wikipedia.org/wiki/Placebo) in action.** [^3]
 * Moreover, **willpower functions like an emotion.** Just as we don’t “run out” of joy or anger, willpower rises and falls depending on what’s happening to us and how we feel. ⭐️ If mental energy behaves like an emotion rather than fuel in a tank, it can be managed and harnessed accordingly: **When faced with a difficult task, it’s more productive and healthy to view a lack of motivation as temporary, rather than assuming we’re spent/drained and need a break.**
 
 ---
@@ -92,12 +94,23 @@ Conversely, energy-draining actions expand to fill any unmonitored space — wha
 
 # The Four Dimensions of Energy
 
+> To be fully engaged, we need to [be fully present](live-in-the-present.md). To be fully present we must be physically energized, emotionally connected, mentally focused and spiritually aligned with a purpose beyond our own immediate self-interest.
+
 In _The Power of Full Engagement_, Jim Loehr and Tony Schwartz argue that energy has four dimensions, each of which must be managed separately:
 
 * **Physical energy 身體能量** — the _foundation_ of energy. Sleep, nutrition, and movement are the cheapest, highest-leverage energy upgrades available; everything else is built on this base.
 * **Emotional energy 情感能量** — the _quality_ of energy. Positive emotions (curiosity, gratitude, connection) widen capacity; negative emotions (fear, frustration, resentment) leak it.
-* **Mental energy 心智能量** — the _focus_ of energy. Trained through concentration and mental challenge; best refreshed by novelty and a change of task. [^3]
+* **Mental energy 心智能量** — the _focus_ of energy. Trained through concentration and mental challenge; best refreshed by novelty and a change of task. [^4]
 * **Spiritual energy 心靈能量** — the _meaning_ of energy. Purpose and values act as a force multiplier: work aligned with meaning energizes, while misaligned work depletes no matter how much time it consumes.
+
+---
+
+# The Four Energy Management Principles that Drive Performance
+
+1. Full engagement requires drawing on four separate but related sources of energy: physical, emotional, mental and spiritual.
+2. Because energy capacity diminishes both with overuse and with underuse, we must balance _energy expenditure_ with intermittent _energy renewal_.
+3. To build capacity, we must push beyond our normal limits, training in the same systematic way that elite athletes do. [^5]
+4. Positive energy rituals—highly specific routines for managing energy—are the key to full engagement and sustained high performance.
 
 ---
 
@@ -141,6 +154,8 @@ pie showData
 * **Dream Investments**: Things that you want to do at some point, but probably not right now; can be as long as you like.
 * **Active Investments**: Things that you want to work on right now (e.g., this week); should be limited (~5) based on how much time and energy you’ve got to invest in them.
 
-[^1]: 每個人每天都是固定 24 小時
-[^2]: [Studies show that our brain does not consume more blood sugar when working on difficult tasks. The brain is an organ, not a muscle. It does not burn extra calories but maintains a steady energy consumption with increased effort. Whether you’re solving calculus problems or watching cat videos, your brain burns roughly the same number of calories per waking minute.](https://www.scientificamerican.com/article/thinking-hard-calories/)
-[^3]: 靠專注練出來，靠新鮮事補回來。
+[^1]: The ultimate measure of our lives is not how much time we spend on the planet, but rather how much energy we invest in the time that we have.
+[^2]: 每個人每天都是固定 24 小時
+[^3]: [Studies show that our brain does not consume more blood sugar when working on difficult tasks. The brain is an organ, not a muscle. It does not burn extra calories but maintains a steady energy consumption with increased effort. Whether you’re solving calculus problems or watching cat videos, your brain burns roughly the same number of calories per waking minute.](https://www.scientificamerican.com/article/thinking-hard-calories/)
+[^4]: 靠專注練出來，靠新鮮事補回來。
+[^5]: Stress is not the enemy in our lives. Paradoxically, it is the key to growth. In order to build strength in a muscle we must systematically stress it, expending energy beyond normal levels. We build emotional, mental and spiritual capacity in precisely the same way that we build physical capacity.
