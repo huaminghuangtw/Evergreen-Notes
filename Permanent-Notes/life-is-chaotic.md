@@ -1,6 +1,6 @@
 ---
 title: Life is chaotic
-modified: 2026-07-05
+modified: 2026-09-03
 ---
 
 > “A vacation + a disaster = an adventure.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
@@ -20,6 +20,8 @@ modified: 2026-07-05
 > “To be interested in the changing seasons is a happier state of mind than to be hopelessly in love with spring.” — George Santayana
 
 > “You should enjoy the little detours to the fullest. Because that’s where you’ll find the things more important than what you want.” — Yoshihiro Togashi
+
+> [“The world you live in is imperfect. The weather is unsettled, the mood is changeable, relationships are unstable, jobs are insecure, the future is uncertain, and sometimes nothing seems to go your way. But life will always go on.” — Mouloud Benzadi](http://goodreads.com/quotes/10921968-the-world-you-live-in-is-imperfect-the-weather-is)
 
 ---
 
