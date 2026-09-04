@@ -1,6 +1,6 @@
 ---
 title: Ask for forgiveness, not permission
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 [@ferriss4hourWorkweekEscape2011]
