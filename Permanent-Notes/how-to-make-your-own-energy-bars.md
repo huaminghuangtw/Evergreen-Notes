@@ -1,6 +1,6 @@
 ---
 title: How to Make Your Own Energy Bars
-modified: 2026-07-04
+modified: 2026-09-03
 ---
 
 # Flapjacks
