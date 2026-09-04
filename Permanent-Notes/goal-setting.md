@@ -1,6 +1,6 @@
 ---
 title: Goal Setting
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 > “A goal is not always meant to be reached, it often serves simply as something to aim at.” — Bruce Lee
