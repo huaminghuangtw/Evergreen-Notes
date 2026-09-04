@@ -1,6 +1,6 @@
 ---
 title: Dental & Oral Hygiene
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 Brush and floss teeth at least twice a day, ideally after meals, to remove plaque and prevent cavities and gum disease.
