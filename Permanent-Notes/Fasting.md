@@ -1,6 +1,6 @@
 ---
 title: Fasting
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 日本生物學家大隅良典 (Yoshinori Ohsumi) 因為在細胞自噬 ([Autophagy](https://www.google.com/search?q=Autophagy)) 領域的卓越研究，於 2016 年獲得諾貝爾醫學獎
