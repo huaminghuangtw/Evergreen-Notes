@@ -1,6 +1,6 @@
 ---
 title: The Reitoff Principle
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 [by Ali Abdaal](https://aliabdaal.com/newsletter/the-reitoff-principle-for-productivity/)
