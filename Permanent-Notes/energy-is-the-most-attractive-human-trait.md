@@ -1,6 +1,6 @@
 ---
 title: Energy is the most attractive human trait
-modified: 2026-07-01
+modified: 2026-09-03
 ---
 
 > “Enthusiasm is the great hill-climber.” — Elbert Hubbard
