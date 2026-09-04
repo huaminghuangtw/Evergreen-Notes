@@ -1,6 +1,6 @@
 ---
 title: Default Mode Network
-modified: 2026-07-08
+modified: 2026-09-03
 ---
 
 Two modes of thinking:
