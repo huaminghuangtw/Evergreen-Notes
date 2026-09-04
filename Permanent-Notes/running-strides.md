@@ -1,6 +1,6 @@
 ---
 title: Running Strides
-modified: 2026-07-23
+modified: 2026-09-03
 ---
 
 Also known as: **striders**, **accelerations (加速跑)*, or **pickups**
