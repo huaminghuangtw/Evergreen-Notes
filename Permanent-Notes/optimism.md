@@ -21,7 +21,8 @@ modified: 2026-09-03
 
 > [“We don’t make mistakes, we have happy accidents.” — Bob Ross](https://www.youtube.com/shorts/KKN-qE2bRuU)
 
-> "Are you going to let the obstacles in your life be **stumbling blocks (絆腳石)** or **stepping stones (墊腳石)**? Choose the positive. You are the master of your attitude." — Bruce Lee
+> “Are you going to let the obstacles in your life be **stumbling blocks (絆腳石)** or **stepping stones (墊腳石)**? Choose the positive. You are the master of your attitude.” — Bruce Lee
+
 ---
 
 Life is like a mirror: it smiles at you if you look at it smiling.
