@@ -1,6 +1,6 @@
 ---
 title: Attention
-modified: 2026-06-16
+modified: 2026-09-03
 ---
 
 > “Attention, taken to its highest degree, is the same thing as prayer. It presupposes faith and love. Absolutely unmixed attention is prayer.” — Simone Weil, [Simone Weil: An Anthology](https://www.goodreads.com/work/quotes/85237)
