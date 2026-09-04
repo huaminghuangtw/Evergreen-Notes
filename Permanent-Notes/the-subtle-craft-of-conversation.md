@@ -1,6 +1,6 @@
 ---
 title: The Subtle Craft of Conversation
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 = 說話的藝術 = 話術
