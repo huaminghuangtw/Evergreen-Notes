@@ -1,6 +1,6 @@
 ---
 title: How to say NO with grace and style
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 # General Principle
