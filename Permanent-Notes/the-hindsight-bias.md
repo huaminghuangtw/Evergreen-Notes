@@ -1,6 +1,6 @@
 ---
 title: The Hindsight Bias
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 = 後見之明偏見 = 事後諸葛
