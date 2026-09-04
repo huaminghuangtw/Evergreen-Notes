@@ -1,6 +1,6 @@
 ---
 title: A man who is a master of patience is master of everything else
-modified: 2026-07-03
+modified: 2026-09-03
 ---
 
 > “Adopt the pace of nature, her secret is patience.” — Ralph Emerson
