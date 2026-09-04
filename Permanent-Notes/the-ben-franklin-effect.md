@@ -1,6 +1,6 @@
 ---
 title: The Ben Franklin Effect
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 # What is the Ben Franklin Effect?
