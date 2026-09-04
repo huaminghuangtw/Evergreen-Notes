@@ -1,6 +1,6 @@
 ---
 title: Incentives
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 > “Show me the incentive, and I’ll show you the outcome.” — Charlie Munger
@@ -22,7 +22,6 @@ Incentives are the most fundamental concept in [Decision Making](decision-making
 People respond to incentives like Pavlov’s dogs, and they are more likely to act in their own self-interest, even if it contradicts their moral values.
 
 ---
-
 
 ---
 
