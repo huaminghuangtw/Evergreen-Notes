@@ -1,6 +1,6 @@
 ---
 title: Always keep going
-modified: 2026-07-02
+modified: 2026-09-03
 ---
 
 > [“Remember diamonds are created under pressure so hold on, it will be your time to shine soon.” — Sope Agbelusi](https://www.goodreads.com/quotes/7900485-remember-diamonds-are-created-under-pressure-so-hold-on-it)
