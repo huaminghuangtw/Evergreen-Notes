@@ -1,6 +1,6 @@
 ---
 title: The Impact Bias
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 > “Nothing in life is as important as you think it is, while you are thinking about it.” — Daniel Kahneman
