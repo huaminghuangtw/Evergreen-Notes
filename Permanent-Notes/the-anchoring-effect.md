@@ -1,6 +1,6 @@
 ---
 title: The Anchoring Effect
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 [The anchoring effect](https://sketchplanations.com/anchoring) is a cognitive bias where people rely too heavily on the first piece of information (the “anchor”) when [making decisions](decision-making.md).
