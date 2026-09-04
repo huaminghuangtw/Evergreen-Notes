@@ -1,6 +1,6 @@
 ---
 title: Mastering yourself is superpower
-modified: 2026-07-08
+modified: 2026-09-03
 ---
 
 > “Knowing yourself is the beginning of all wisdom.” — Aristotle
