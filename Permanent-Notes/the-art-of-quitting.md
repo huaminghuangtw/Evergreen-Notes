@@ -1,6 +1,6 @@
 ---
 title: The Art of Quitting
-modified: 2026-07-05
+modified: 2026-09-03
 ---
 
 > “I am as proud of what we don’t do as I am of what we do.” — Steve Jobs
