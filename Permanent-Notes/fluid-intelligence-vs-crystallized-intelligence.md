@@ -1,6 +1,6 @@
 ---
 title: Fluid Intelligence vs Crystallized Intelligence
-modified: 2026-06-11
+modified: 2026-09-03
 ---
 
 ![](https://media.huam.ing/image/91220db8072cb9879c79d2a95812fbfe.webp)
