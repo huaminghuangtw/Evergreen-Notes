@@ -1,6 +1,6 @@
 ---
 title: First-Principle Thinking
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 > “There comes a point where we need to stop just pulling people out of the river. We need to go upstream and find out why they’re falling in.” — Desmond Tutu
