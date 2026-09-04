@@ -1,6 +1,6 @@
 ---
 title: The Law of Reversed Effort
-modified: 2026-06-29
+modified: 2026-09-03
 ---
 
 > “The harder we try with the conscious will to do something, the less we shall succeed.” — Aldous Huxley
