@@ -1,6 +1,6 @@
 ---
 title: Fame
-modified: 2026-07-19
+modified: 2026-09-04
 ---
 
 > “Uneasy lies the head that wears a crown.” — William Shakespeare
@@ -23,7 +23,7 @@ Don’t volunteer information. Don’t tell people more than they need to know. 
 
 You must learn to enjoy life without needing an audience to see that you are enjoying life.
 
-Travel and tell no one. Live a true love story and tell no one. Live happily and tell no one.
+Travel and _tell no one_. Live a true love story and _tell no one_. Live happily and _tell no one_.
 
 People ruin beautiful things.
 
@@ -68,4 +68,4 @@ Less eyes on you = more freedom
 [Manage the gap between expectations and reality](manage-the-gap-between-expectations-and-reality.md)
 
 [^1]: The richest people in the world have full-time security teams whose sole job is to monitor, protect, and scrub that personal information from public records and data brokers.
-[^2]: 形容某種人事物或經歷中，同時包含了好與壞、優與劣，或不同種類的元素。
+[^2]: 形容某種人事物或經歷中，同時包含好與壞、優與劣的元素。
