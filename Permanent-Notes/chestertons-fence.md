@@ -1,6 +1,6 @@
 ---
 title: Chesterton’s Fence
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
  [A reminder to look before we leap; to understand before we act.](https://fs.blog/chestertons-fence/)
