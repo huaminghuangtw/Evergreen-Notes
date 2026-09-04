@@ -1,6 +1,6 @@
 ---
 title: Live in the present
-modified: 2026-07-01
+modified: 2026-09-03
 ---
 
 > “Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why we call it the present” — Eleanor Roosevelt
