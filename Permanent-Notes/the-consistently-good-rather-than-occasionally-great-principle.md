@@ -1,6 +1,6 @@
 ---
 title: The “Consistently Good Rather Than Occasionally Great” Principle
-modified: 2026-07-07
+modified: 2026-09-03
 ---
 
 > “Long-term consistency trumps short-term intensity.” — Bruce Lee
