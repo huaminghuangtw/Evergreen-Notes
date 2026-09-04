@@ -1,6 +1,6 @@
 ---
 title: The Theory of Mimetic Desire
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 = 慾望模仿理論
