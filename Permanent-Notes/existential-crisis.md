@@ -1,6 +1,6 @@
 ---
 title: Existential Crisis
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 > “Man is condemned to be free; because once thrown into the world, he is responsible for everything he does.” — Jean-Paul Sartre
