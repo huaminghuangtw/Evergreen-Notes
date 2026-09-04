@@ -1,6 +1,6 @@
 ---
 title: Active Listening
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 > “There is a difference between listening and waiting for your turn to speak.” — Simon Sinek
