@@ -1,6 +1,6 @@
 ---
 title: Train yourself not to worry
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 > “Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.” — Benjamin Franklin
