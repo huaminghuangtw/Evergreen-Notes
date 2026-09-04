@@ -1,6 +1,6 @@
 ---
 title: Never gossip about others
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 > “Great minds discuss ideas; average minds discuss events; small minds discuss people.” — Eleanor Roosevelt
