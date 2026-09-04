@@ -1,6 +1,6 @@
 ---
 title: The Ship of Theseus
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 忒修斯之船 = Theseus’s Paradox 船舶悖論
