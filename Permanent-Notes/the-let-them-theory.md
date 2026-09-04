@@ -1,6 +1,6 @@
 ---
 title: The Let-Them Theory
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 # What is the Let-Them Theory?
