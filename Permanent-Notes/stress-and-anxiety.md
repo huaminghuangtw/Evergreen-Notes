@@ -1,6 +1,6 @@
 ---
 title: Stress & Anxiety
-modified: 2026-07-08
+modified: 2026-09-03
 ---
 
 > “Stress happens when the mind resists what is.” — Dan Millman
