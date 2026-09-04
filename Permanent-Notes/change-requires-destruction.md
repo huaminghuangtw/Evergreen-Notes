@@ -1,6 +1,6 @@
 ---
 title: Change requires destruction
-modified: 2026-07-05
+modified: 2026-09-03
 ---
 
 > “The attempt to escape from pain, is what creates more pain.” — Gabor Mate
