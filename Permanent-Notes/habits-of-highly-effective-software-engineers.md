@@ -1,6 +1,6 @@
 ---
 title: Habits of Highly Effective Software Engineers
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 # [They invest in good documentation](https://x.com/mojombo/status/1260718505273393153)
