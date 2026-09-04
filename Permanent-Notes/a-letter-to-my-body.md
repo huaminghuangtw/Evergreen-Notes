@@ -1,6 +1,6 @@
 ---
 title: A Letter to My Body
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 > Dear body, thank you.
