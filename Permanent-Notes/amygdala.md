@@ -1,6 +1,6 @@
 ---
 title: Amygdala
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 ![](https://media.huam.ing/image/87b53db4761fa6b46da0b95b7ab9110f.webp)
