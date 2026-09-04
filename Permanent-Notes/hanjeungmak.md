@@ -1,6 +1,6 @@
 ---
 title: 汗蒸幕 (Hanjeungmak)
-modified: 2026-08-14
+modified: 2026-09-03
 ---
 
 **汗蒸幕 (hanjeungmak, 한증막)** is the traditional Korean-style [sauna](sauna.md). it’s a form of deliberate heat exposure / thermotherapy
@@ -22,4 +22,3 @@ modified: 2026-08-14
 * **Body**: balances body pH; beauty (美容); weight loss (減肥); reduces water retention
 * **Systems**: improves blood circulation & respiratory function; relieves joint pain & inflammation/swelling; supports digestion and kidney function
 * **Immunity**: strengthens immunity; helps prevent colds
-
