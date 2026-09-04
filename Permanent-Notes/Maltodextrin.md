@@ -1,6 +1,6 @@
 ---
 title: Maltodextrin
-modified: 2026-06-23
+modified: 2026-09-03
 ---
 
 = Glucose Powder
