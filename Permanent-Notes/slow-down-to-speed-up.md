@@ -1,6 +1,6 @@
 ---
 title: Slow down to speed up
-modified: 2026-08-24
+modified: 2026-09-04
 ---
 
 **Where are you going and why are you in such a rush?**
@@ -57,7 +57,7 @@ There’s never enough time to do it right but there’s plenty of time to do it
 
 ---
 
-果實熟透了，才能採摘。思考沉穩了，才能充分表達。
+果實熟透了，才能瓜熟蒂落。思考沉穩了，才能充分表達。
 
 ---
 
