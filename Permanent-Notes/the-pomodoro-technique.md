@@ -1,6 +1,6 @@
 ---
 title: The Pomodoro Technique
-modified: 2026-06-24
+modified: 2026-09-03
 ---
 
 The [original technique](https://www.pomodorotechnique.com/) has six steps:
