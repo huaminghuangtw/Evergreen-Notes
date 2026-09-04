@@ -1,6 +1,6 @@
 ---
 title: Frameworks to achieve any goals
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 # 💡 Core Concept
