@@ -1,6 +1,6 @@
 ---
 title: Decision Fatigue
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 ![](https://media.huam.ing/image/71dacbcf34b15b9c99d1ae5471fe8e56.webp)
