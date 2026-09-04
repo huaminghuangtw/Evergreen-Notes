@@ -1,6 +1,6 @@
 ---
 title: Ludwig Wittgenstein’s Theory of Meaning
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 **Things are not defined by a single common essence [^1], but connected by a series of overlapping similarities.**
