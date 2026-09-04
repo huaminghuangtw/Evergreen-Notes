@@ -1,6 +1,6 @@
 ---
 title: Linking Your Thinking
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 > “Neurons that fire together wire together” — Hebb’s Rule
