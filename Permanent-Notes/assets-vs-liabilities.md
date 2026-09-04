@@ -1,6 +1,6 @@
 ---
 title: Assets vs Liabilities
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 |                | **Asset (資產)**                                                                                     | **Liability (負債)**                                                                                    |
