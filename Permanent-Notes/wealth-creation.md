@@ -1,6 +1,6 @@
 ---
 title: Wealth Creation
-modified: 2026-07-07
+modified: 2026-09-03
 ---
 
 Your true wealth is the quality of your [attention](attention.md). What you pay attention to—_expands_.
