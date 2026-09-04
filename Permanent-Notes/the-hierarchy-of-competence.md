@@ -1,6 +1,6 @@
 ---
 title: The Hierarchy of Competence
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 ![](https://media.huam.ing/image/6703e4a54443e5507718458802383a45.webp)
