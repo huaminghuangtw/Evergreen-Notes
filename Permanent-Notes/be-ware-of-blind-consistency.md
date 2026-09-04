@@ -1,6 +1,6 @@
 ---
 title: Be ware of blind consistency
-modified: 2026-07-02
+modified: 2026-09-03
 ---
 
 > [“A foolish consistency is the hobgoblin of little mind.” — Ralph Waldo Emerson](https://www.sahilbloom.com/newsletter/the-dangers-of-blind-consistency)
