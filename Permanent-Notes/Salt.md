@@ -1,6 +1,6 @@
 ---
 title: Salt
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 # Table Salt vs Sea Salt
