@@ -1,6 +1,6 @@
 ---
 title: Probabilistic Thinking
-modified: 2026-06-10
+modified: 2026-09-03
 ---
 
 ↔ Deterministic Thinking (絕對型思維)
