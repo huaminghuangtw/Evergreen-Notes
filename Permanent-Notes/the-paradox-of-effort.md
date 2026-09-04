@@ -1,6 +1,6 @@
 ---
 title: The Paradox of Effort
-modified: 2026-06-25
+modified: 2026-09-03
 ---
 
 > “If people knew how hard I worked to get my mastery, it wouldn’t seem so wonderful at all.” — Michelangelo
