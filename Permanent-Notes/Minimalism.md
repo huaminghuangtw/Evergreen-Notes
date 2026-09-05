@@ -1,6 +1,6 @@
 ---
 title: Minimalism
-modified: 2026-08-24
+modified: 2026-09-05
 ---
 
 > “It is not a daily increase, but a daily decrease. Hack away at the inessentials.” — Bruce Lee
@@ -80,5 +80,9 @@ Always eliminate first, then accumulate.
 ---
 
 [Addition by subtraction](addition-by-subtraction.md)
+
+---
+
+[The content is the interface](https://sketchplanations.com/the-content-is-the-interface)
 
 [^1]: _[“The things you own end up owning you.” — Fight Club (1999 film)](https://youtu.be/zp-eEVkKh60)_
