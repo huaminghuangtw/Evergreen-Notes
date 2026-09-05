@@ -1,6 +1,6 @@
 ---
 title: Slow down to speed up
-modified: 2026-09-04
+modified: 2026-09-05
 ---
 
 **Where are you going and why are you in such a rush?**
@@ -65,14 +65,16 @@ One step back for two steps forward.
 
 ---
 
-> “No hurry. No pause.”
+> [No hurry. No pause.](https://x.com/tferriss/status/1922361086248157554)
 
-* Refuse to feel rushed (or in a hurry). Rushing causes errors. Errors cause setbacks. Setbacks cause delays.
+* Refuse to feel rushed (or in a hurry). Rushing causes errors. Errors cause setbacks. Setbacks cause delays. [^1]
 	* Rushing sacrifices quality for speed and leaves you rebuilding later.
 	* It’s better to climb slowly up the right mountain than fast up the wrong one.
 * Remember: You have all the time in the world you give yourself!
 * Think about [a 45-minute versus 43-minute bike ride](https://sive.rs/relax) (No difference actually…)
-* 如同「開車」，讓日常生活中的每一個瞬間都保持在「<mark>[專注，但放鬆柔和](nonchalant.md)</mark>」的狀態 [^1] [^2]，建立 [心流狀態](flow-state.md) 中，那種行雲流水般的節奏感。
+* 如同「開車」，讓日常生活中的每一個瞬間都保持在「<mark>[專注，但放鬆柔和](nonchalant.md)</mark>」的狀態 [^2] [^3]，建立 [心流狀態](flow-state.md) 中，那種行雲流水般的節奏感。
+
+![](https://media.huam.ing/image/eb180a903546a2a02e16b81d0f298f71.webp)
 
 ---
 
@@ -93,7 +95,7 @@ It takes time to make a base that can hold up what comes next.
 
 The strongest things are built one brick at a time — not in bursts of speed, but in layers of [patience](a-man-who-is-a-master-of-patience-is-master-of-everything-else.md).
 
-In a world obsessed with shortcuts, endurance is a superpower.
+In a world obsessed with shortcuts, **endurance** is a superpower.
 
 Once you’ve done that, that’s when you can go fast.
 
@@ -102,8 +104,8 @@ Once you’ve done that, that’s when you can go fast.
 # The Paradox Of Speed: You Have To Slow Down To Speed Up
 
 * Benefits
-	* Restore and gather your energy to deploy your resources more efficiently
 	* Notice small and beautiful things you previously missed
+	* Restore and gather your energy to deploy your resources more efficiently
 	* Be more deliberate with actions and focus on highest leverage opportunities
 
 ---
@@ -122,5 +124,6 @@ Once you’ve done that, that’s when you can go fast.
 
 [Slow Dance](https://huam.ing/slow-dance)
 
-[^1]: 柔中帶剛、柔中帶韌 (Strength in softness)
-[^2]: 「[Be Water，My Friend !](https://www.goodreads.com/work/quotes/74693436-be-water-my-friend-the-true-teachings-of-bruce-lee)」，意思是武者不被形式所拘，要像水一樣流動，既柔軟又剛強堅韌；既能適應萬物，又能匯聚為強大的力量。當水被某種障礙物擋住時，它會平靜等待，卻又伺機而動；一旦移開障礙物，就會立刻奔流過去，毫不遲疑。 所以，李小龍說，面對競爭與阻礙，「水，永遠都是放鬆卻做好準備的。」
+[^1]: 為什麼急，反而慢？因為一趕，就會出錯；一出錯，就要重做；一重做，花的時間往往比原本慢慢做還多。急躁不會省下時間，它只會增加意外的次數。
+[^2]: 柔中帶剛、柔中帶韌 (Strength in softness)
+[^3]: 「[Be Water，My Friend !](https://www.goodreads.com/work/quotes/74693436-be-water-my-friend-the-true-teachings-of-bruce-lee)」，意思是武者不被形式所拘，要像水一樣流動，既柔軟又剛強堅韌；既能適應萬物，又能匯聚為強大的力量。當水被某種障礙物擋住時，它會平靜等待，卻又伺機而動；一旦移開障礙物，就會立刻奔流過去，毫不遲疑。 所以，李小龍說，面對競爭與阻礙，「**水，永遠都是放鬆卻做好準備的。**」
