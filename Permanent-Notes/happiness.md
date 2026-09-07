@@ -1,6 +1,6 @@
 ---
 title: Happiness
-modified: 2026-07-19
+modified: 2026-09-07
 ---
 
 > “Happiness is a state where nothing is missing.” — Naval Ravikant
@@ -47,9 +47,7 @@ If you’re not happy here, you won’t be happy there.
 
 ⭐️ [Happiness is a skill that can be learned/developed/practiced and a choice that can be made.](https://www.navalmanack.com/almanack-of-naval-ravikant/happiness-is-learned)
 
-Happiness is the absence of the striving for happiness.
-
-* The secret of the pursuit of happiness is that happiness is in the pursuit.
+Happiness is the absence of the striving for happiness. [^2]
 
 Happiness is abundant by design, scarce by luck.
 
@@ -59,14 +57,19 @@ Happiness is something you decide on ahead of time.
 
 Happiness is not a destination you reach by hitting an arbitrary set of goals, but rather an accumulation of the small choices you make every day.
 
-Happiness is when what you think, what you say, and what you do are in harmony.
+Happiness is when _what you think_, _what you say_, and _what you do_ are in harmony.
 
 ---
 
 True happiness is not just pleasure, but comes out of [peace](peace-from-mind.md) and [fundamentally understanding oneself](mastering-yourself-is-superpower.md).
 
-* Physical pleasure (Oh, that tasted good.)
-* Momentary pleasure (Oh, he/she loves me.)
+* Physical pleasure
+
+	> Oh, that tasted good.
+
+* Momentary pleasure
+
+	> Oh, he/she loves me.
 
 ---
 
@@ -76,24 +79,11 @@ Happiness
 
 > “Happiness is not something ready made. It comes from your own actions.” — Dalai Lama
 
-= [Agency](cultivate-a-strong-bias-towards-action.md) + [Gratitude](be-grateful.md) [^2]
+= [Agency](cultivate-a-strong-bias-towards-action.md) + [Gratitude](be-grateful.md) [^3]
 
 = [Reality - Expectations](manage-the-gap-between-expectations-and-reality.md)
 
 = Do what you love + Live where you like + Be with who you love
-
----
-
-#TODO
-
-[#226 ‒ The science of happiness | Arthur Brooks, Ph.D. - Peter Attia (peterattiamd.com)](https://peterattiamd.com/arthurbrooks/)
-
-* The three “macronutrients” of happiness:
-	* Enjoyment: Enjoy your life
-	* Satisfaction: The feeling of reward from a job well done
-	* Purpose: Big picture meaning and significance
-* To be a happy person, you need to have these three in balance and abundance.
-* The happiest people have a transcendental understanding of life. It’s just to say that they have an understanding of life bigger than themselves.
 
 ---
 
@@ -143,7 +133,7 @@ The ability to think about what is not happening in a moment is a cognitive achi
 
 ---
 
-# 要有隨時可以獲得快樂的能力 [^3]
+# 要有隨時可以獲得快樂的能力 [^4]
 
 [@brysonAreYouHappy2017]
 
@@ -177,7 +167,7 @@ Simple story on “Happiness is found through service of others.”
 
 > A teacher asked her students to write their names on a balloon and release them in her classroom. Thirty balloons jumbled around in the air. She then gave the students one minute to find the balloon that had their name on it. After a minute passed, none were able to find their balloon. The teacher then asked the students to take the first balloon they found and give it to the person whose name was on it. Within seconds, everyone had their balloon.
 >
-> The teacher then explained: _**These balloons represent your happiness. Focus on your own happiness, and you may never find it. Focus on helping others find their happiness, and you will find yours as well.**_
+> The teacher then explained: _These balloons represent your happiness. Focus on your own happiness, and you may never find it. Focus on helping others find their happiness, and you will find yours as well._
 
 ---
 
@@ -185,11 +175,11 @@ Simple story on “Happiness is found through service of others.”
 
 > 如何獲得幸福?
 >
-> 這一題應該是前面六題的總結。獲得幸福的步驟就是要先認識自己，接受真實的自己，進而喜愛自己。然後就會知道自己要什麼? 為何而活? 進而找到自己的信仰，也找到自己靈魂的主宰。這時候的你，已經可以和這個世界愉快的相處，從大自然裡得到快樂和寧靜，和身邊遇到的任何人都能和平相處、相互尊重。最後當你學會了承擔世間的痛苦，幸福將隨時隨處俯拾皆是。
+> 這一題應該是前面六題的總結。獲得幸福的步驟就是要先認識自己，接受真實的自己，進而喜愛自己。然後就會知道自己要什麼？為何而活？進而找到自己的信仰，也找到自己靈魂的主宰。這時候的你，已經可以和這個世界愉快的相處，從大自然裡得到快樂和寧靜，和身邊遇到的任何人都能和平相處、相互尊重。最後當你學會了承擔世間的痛苦，幸福將隨時隨處俯拾皆是。
 >
 > 媽媽是個笑口常開的幸福之人。因為她覺得自己很平庸但很幸運，她總覺得別人都比她聰明，所似他發自內心的欣賞別人，讚美別人，也常給別人溫暖和方便。我幾乎沒聽過她怨天怨地怨別人，她也不會怨自己，所以她是一個完全能接受自己的人。
 >
-> 我的二姊最像媽媽，我問起她關於幸福的感覺，她燦爛的笑起來說:「我常常感到幸福。看到窗外綠意盎然，感到腸光曬在身上，有體力爬山，兒子弄一桌飯菜，替我鋪好被單，衣服洗好被曬起來，看一本好書，聽一場講道，親友們的問候和體貼，和家人聊天或回憶。」
+> 我的二姊最像媽媽，我問起她關於幸福的感覺，她燦爛的笑起來說：「我常常感到幸福。看到窗外綠意盎然，感到腸光曬在身上，有體力爬山，兒子弄一桌飯菜，替我鋪好被單，衣服洗好被曬起來，看一本好書，聽一場講道，親友們的問候和體貼，和家人聊天或回憶。」
 >
 > 幸福就是這樣隨手可得的。每個人每天每時每刻都有可能體驗到幸福，除非你是一個非常頑強又自以爲是的人，把幸福當成是不能回收的垃圾，隨手丟棄，讓垃圾筒裡堆滿了你丟棄的幸福，兀自嘆息。
 
@@ -199,8 +189,13 @@ Simple story on “Happiness is found through service of others.”
 
 ---
 
+[The Science of Happiness | Arthur Brooks, Ph.D.](https://huam.ing/the-science-of-happiness-arthur-brooks-phd)
+
+---
+
 [Being unhappy is extremely inefficient](https://nav.al/inefficient)
 
 [^1]: Real happiness only comes as a side-effect of peace. Most of it is going to come from **[acceptance](self-compassion.md)**, not from changing your external environment.
-[^2]: [Dr. Paul Conti presented that the most salient 2 variables associated with mental health are **agency** and **gratitude**.](https://youtu.be/tLRCS48Ens4?t=11m15s)
-[^3]: [How to Instantly Feel Better?](https://sketchplanations.com/how-to-instantly-feel-better)
+[^2]: The secret of the pursuit of happiness is that happiness is in the pursuit.
+[^3]: [Dr. Paul Conti presented that the most salient 2 variables associated with mental health are **agency** and **gratitude**.](https://youtu.be/tLRCS48Ens4?t=11m15s)
+[^4]: [How to Instantly Feel Better?](https://sketchplanations.com/how-to-instantly-feel-better)
