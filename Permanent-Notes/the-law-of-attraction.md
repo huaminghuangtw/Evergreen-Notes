@@ -1,6 +1,6 @@
 ---
 title: The Law of Attraction
-modified: 2026-07-29
+modified: 2026-09-07
 ---
 
 > “What you seek is seeking you.” — Rumi
@@ -8,6 +8,9 @@ modified: 2026-07-29
 > [“You’re dangerous,” he says. “Why?” “Because you make me believe in the impossible.” — Simone Elkeles, Rules of Attraction](https://www.goodreads.com/quotes/257182-you-re-dangerous-he-says-why-because-you-make-me-believe)
 
 > “Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.” — Earl Nightingale
+
+> 如來善護念諸菩薩，善付囑諸菩薩。
+> —《金剛經》
 
 ---
 
