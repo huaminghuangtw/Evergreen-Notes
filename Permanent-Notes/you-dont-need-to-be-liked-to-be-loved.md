@@ -1,6 +1,6 @@
 ---
 title: You don’t need to be liked to be loved
-modified: 2026-07-19
+modified: 2026-09-08
 ---
 
 > “When you say yes to others, make sure you are not saying no to yourself.” — Paulo Coelho
@@ -21,7 +21,7 @@ Sometimes when you say no to others, it opens a pathway to a hell yes for yourse
 
 ---
 
-如果你的善良讓你不斷消耗自己，那善良就變成對自己的殘忍。
+如果善良讓你不斷消耗自己，那它就變成對自己的殘忍。
 
 ---
 
