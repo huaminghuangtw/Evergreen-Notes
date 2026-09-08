@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-08-08
+modified: 2026-09-08
 ---
 
 > [“The work is behind the scene. Competition is the easy part.” — Usain Bolt](https://youtu.be/LEIxpcYukqc?t=113s) [^1]
@@ -139,6 +139,9 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 * [Pose（關鍵姿勢）、Fall（收腿, 向前落下）、Pull（推蹬, 向上拉提）](https://posemethod.com/running/)
 	* 專注於上拉「腳掌」（而非「大腿」或「膝蓋」），拉起後立即放鬆，讓它自然上拋、自然落下。
 	* 不需刻意跨大步：重心落在臀部「正下方」，而非「前方」。
+
+		> 關鍵：腿往後拉！
+
 	* 無為而無不為：像原地跑一樣向前跑！
 	* Avoid bouncing up & down (Minimize vertical oscillation)
 	* Increase steps per minute (cadence)
