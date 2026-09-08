@@ -1,6 +1,6 @@
 ---
 title: Minimalism
-modified: 2026-09-05
+modified: 2026-09-08
 ---
 
 > “It is not a daily increase, but a daily decrease. Hack away at the inessentials.” — Bruce Lee
@@ -18,6 +18,8 @@ modified: 2026-09-05
 ---
 
 Simple Living (極簡生活)
+
+> 也許只有拋棄那些「習慣擁有」，才會重新思考「真正需要」。
 
 ---
 
