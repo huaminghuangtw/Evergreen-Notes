@@ -1,6 +1,6 @@
 ---
 title: Be a habit and routine machine
-modified: 2026-09-03
+modified: 2026-09-08
 ---
 
 > “Outer order contributes to inner calm.” — Gretchen Rubin
@@ -21,7 +21,7 @@ modified: 2026-09-03
 
 [@curreyDailyRitualsHow2013]
 
-> “The repetition itself becomes the important thing; it’s a form of mesmerism. I mesmerize myself to reach a deeper state of mind.”
+> “In the afternoon, I run for 10km or swim for 1500m (or do both), then I read a bit and listen to some music. I go to bed at 9:00 pm. I keep to this routine every day without variation. The repetition itself becomes the important thing; it’s a form of mesmerism. I mesmerize myself to reach a deeper state of mind.” — Haruki Murakami
 
 > “Habits and practice are very interrelated. What we practice will become a habit.” — Thomas M. Sterner, [The Practicing Mind: Developing Focus and Discipline in Your Life Master Any Skill or Challenge by Learning to Love the Process](https://www.goodreads.com/work/quotes/326331)
 
