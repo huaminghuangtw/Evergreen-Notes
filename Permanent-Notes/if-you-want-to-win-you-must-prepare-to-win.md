@@ -1,6 +1,6 @@
 ---
 title: If you want to win, you must prepare to win
-modified: 2026-07-24
+modified: 2026-09-09
 ---
 
 > “The will to win is not nearly as important as the will to prepare to win. Everyone wants to win, but not everyone wants to prepare to win. Preparing to win is where the determination that you will win, is made. Once the game is underway, it is too late to prepare to win. The actual game is just the end of a long process of getting ready, in which the outcome was really determined. So if you want to win, you must want to prepare to win.” — Bobby Knight
@@ -25,4 +25,4 @@ You can literally change your life _any day_— you can wake up and decide that 
 
 [Your identity dictates your actions](your-identity-dictates-your-actions.md)
 
-[^1]: 你有多麼「渴望」（Hunger）？
+[^1]: 你有多麼「渴望」（Hunger）？[你真的「夠想」嗎？](https://mr6.cc/2010/09/02/%e6%88%91%e5%80%91%e7%9c%9f%e7%9a%84%e3%80%8c%e5%a4%a0%e6%83%b3%e3%80%8d%e8%ae%8a%e5%af%8c%e6%9c%89%e5%97%8e%ef%bc%9f/)
