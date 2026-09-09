@@ -1,9 +1,11 @@
 ---
 title: Learning is the single best investment that you can make for your time
-modified: 2026-09-03
+modified: 2026-09-09
 ---
 
 > “Learning never exhausts the mind.” — Leonardo da Vinci
+
+> “Learning and enjoyment are the secret to a fulfilled life. Learning without enjoyment wears you down, enjoyment without learning dulls you.” — David Precht
 
 ---
 
