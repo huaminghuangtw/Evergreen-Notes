@@ -1,6 +1,6 @@
 ---
 title: Mastering yourself is superpower
-modified: 2026-09-03
+modified: 2026-09-09
 ---
 
 > “Knowing yourself is the beginning of all wisdom.” — Aristotle
@@ -30,6 +30,8 @@ modified: 2026-09-03
 > “Until you make the unconscious conscious, it will direct your life and you will call it fate.” — Carl Jung
 
 > “A great way to understand yourself is to seriously reflect on everything you find irritating in others.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
+
+> [“I think overall, I’m just a pensive person, I’m an introspective young woman. I spend a lot of time in my head. It’s not a bad place to be. I journal a lot. I break down all of my thought processes. I apply a very analytical lens to my own thinking, and I kind of modify it because it’s so interesting. You can control what you think, and therefore you can control who you are. So I can literally become exactly who I want to be. How cool is that? Like how empowering is that, right? And so, the fact is I get to become every day the kind of person that me, at age 8, would revere. Like I would be obsessed with me today. Are you kidding? I would love me. And I think it’s the biggest flex of all time, that you can have like little younger you be proud of you today.” — Eileen Gu](https://youtu.be/b-m2DntVdQU?t=5m42s)
 
 ---
 
