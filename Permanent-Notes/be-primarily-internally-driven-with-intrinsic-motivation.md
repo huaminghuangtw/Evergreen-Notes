@@ -1,6 +1,6 @@
 ---
 title: Be primarily internally driven with intrinsic motivation
-modified: 2026-08-29
+modified: 2026-09-09
 ---
 
 > “Glory is fleeting, but obscurity is forever.” — Napoleon Bonaparte
@@ -86,6 +86,8 @@ Djokovic’s ultimate competitive advantage is his intrinsic love for the mundan
 ---
 
 # [David Brooks - Résumé Virtues (履歷美德) & Eulogy Virtues (悼詞美德)](https://huam.ing/should-you-live-for-your-resume-or-your-eulogy)
+
+> “Decide what you would like your obituary to say, and live the life to deserve it.” — [Warren Buffet in his final letter to Berkshire Hathaway shareholders](https://www.berkshirehathaway.com/news/nov1025.pdf)
 
 * [你要追求你的履歷表，還是你的墓誌銘？](https://youtu.be/SBDWLvTRmP0)
 * [王文華：要寫出精彩的「履歷表」，先擬一篇動人的「墓誌銘」](https://www.cheers.com.tw/article/article.action?id=5085147)
