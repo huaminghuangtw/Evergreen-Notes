@@ -1,13 +1,11 @@
 ---
 title: How to live a life?
-modified: 2026-07-19
+modified: 2026-09-09
 ---
 
 > [“The goal of life is to be excited to go to work and excited to go home.” — Josh Kushner](https://x.com/JoshuaKushner/status/1944388157828718893)
 
 > “As long as you live, keep learning how to live.” — Seneca
-
-> “Let every dawn of morning be to you as the beginning of life, and every setting sun be to you as its close.” — John Ruskin, [The Two Paths](https://www.goodreads.com/work/quotes/2166737)
 
 > “Life is a question and how we live it is our answer.” — [@kellerOneThingSurprisingly2013]
 
@@ -23,11 +21,11 @@ modified: 2026-07-19
 
 > “Live life as though nobody is watching, and express yourself as though everyone is listening.” — Nelson Mandela
 
-> [“I think a good formula for a pretty good life at the simplest level is independence plus purpose. You need to have a purpose that is bigger than yourself… and you need to have the independence to make sure you can do it on your own terms rather than chasing somebody else’s goal. That’s the highest level of psychological well-being, independence and purpose.” — Morgan Housel](https://www.hubermanlab.com/episode/morgan-housel-understand-apply-the-psychology-of-money-to-gain-greater-happiness)
+> [“I think a good formula for a pretty good life at the simplest level is independence plus purpose. You need to have a purpose that is bigger than yourself […] and you need to have the independence to make sure you can do it on your own terms rather than chasing somebody else’s goal. That’s the highest level of psychological well-being, independence and purpose.” — Morgan Housel](https://www.hubermanlab.com/episode/morgan-housel-understand-apply-the-psychology-of-money-to-gain-greater-happiness)
 
 > “A master in the art of living draws no sharp distinction between his work and his play; his labor and his leisure; his mind and his body; his education and his recreation. He hardly knows which is which. He simply pursues his vision of excellence through whatever he is doing, and leaves others to determine whether he is working or playing. To himself, he always appears to be doing both.” — Lawrence Pearsall Jacks
 
-> “A few simple tips for life: feet on the ground, head to the skies, heart open…quiet mind.” — Rasheed Ogunlaru
+> “A few simple tips for life: feet on the ground, head to the skies, heart open, quiet mind.” — Rasheed Ogunlaru
 
 > “Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.” — Norman Vincent Peale
 
@@ -37,8 +35,6 @@ modified: 2026-07-19
 
 > 人生不是戰場，不必追求勝利，也沒有勝利可追求，更重要的是經歷。
 > — 張曼娟
-
-> “Decide what you would like your obituary to say, and live the life to deserve it.” — [Warren Buffet in his final letter to Berkshire Hathaway shareholders](https://www.berkshirehathaway.com/news/nov1025.pdf)
 
 > “Life isn’t about waiting for the storm to pass. It’s about learning to dance in the rain.” — Vivian Greene
 >
@@ -52,15 +48,13 @@ modified: 2026-07-19
 
 > “Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!” — Sathya Sai Baba
 
-> “Learning and enjoyment are the secret to a fulfilled life. Learning without enjoyment wears you down, enjoyment without learning dulls you.” — David Precht
-
-> “The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety.” — Sathya Sai Baba
-
 ---
 
 # 每天都是全新的生命
 
 > “Begin at once to live, and count each separate day as a separate life.” — Seneca
+
+> “Let every dawn of morning be to you as the beginning of life, and every setting sun be to you as its close.” — John Ruskin, [The Two Paths](https://www.goodreads.com/work/quotes/2166737)
 
 > “Each night, when I go to sleep, I die. And the next morning, when I wake up, I am reborn.” — Mahatma Gandhi
 
@@ -74,10 +68,6 @@ Life is neither a problem to be solved nor a game to be won.
 
 ---
 
-[Life isn’t just about where we’re going, but how we get there.](journey-over-destination.md)
-
----
-
 A good life has a healthy mix of selfish boundaries and unselfish giving.
 
 ---
@@ -86,7 +76,7 @@ A good life has a healthy mix of selfish boundaries and unselfish giving.
 
 ---
 
-# [The Pencil’s Tale](https://youtu.be/HisYsqqszq0)１
+# [The Pencil’s Tale](https://youtu.be/HisYsqqszq0)
 
 1. You’ll be able to do many great things—but only if you allow yourself to be held in someone’s hand.
 2. You will experience a painful “sharpening” from time to time—but that’s what makes you stronger.
@@ -99,6 +89,8 @@ A good life has a healthy mix of selfish boundaries and unselfish giving.
 # Life is a dance, not a race
 
 The goal of life isn’t to reach a destination, but to enjoy the journey itself.
+
+[Life isn’t just about where we’re going, but how we get there.](journey-over-destination.md)
 
 ---
 
