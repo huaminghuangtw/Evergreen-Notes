@@ -1,6 +1,10 @@
 ---
 title: Humor is a way to show you are smart without bragging
-modified: 2026-07-20
+modified: 2026-09-09
+---
+
+> [“There is nothing in the world so irresistibly contagious as laughter and good humor.” — Charles Dickens, A Christmas Carol](http://goodreads.com/quotes/122226-there-is-nothing-in-the-world-so-irresistibly-contagious-as)
+
 ---
 
 # Principles
