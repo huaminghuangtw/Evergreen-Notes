@@ -1,6 +1,6 @@
 ---
 title: Work smart
-modified: 2026-09-03
+modified: 2026-09-10
 ---
 
 > “You’re more likely to unlock a big leap in performance by trying differently than by trying harder. You might be able to work 10% harder, but a different approach might work 10x better. Remain focused on the core problem, but explore a new line of attack. Persistence is not just about effort, but also strategy. Don’t merely try harder, try differently.” — James Clear
@@ -8,6 +8,8 @@ modified: 2026-09-03
 > “A fanatic is one who redoubles his effort when he has forgotten his aim.” — George Santayana
 
 > “I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it.” — Bill Gates
+
+> [“We glorify sacrifice too much as a culture, and that’s kind of my hot take for the day. I think that sometimes people think, _‘You know, I’ve suffered. I woke up at 4:00 in the morning to do this thing.’_ Okay, how productive were you from 4:00 to 7:00? How did that lack of sleep affects you? No one gets a prize for suffering. If you want to talk about productivity and optimization, talk about that, but don’t talk about the suffering that you went through. <mark>If you can do something easier, do it easier. You don’t need to take the hard way; you don’t need to follow the beaten path.</mark>” — Eileen Gu](https://youtu.be/5sPAyKrk0-s?t=25m25s)
 
 ---
 
