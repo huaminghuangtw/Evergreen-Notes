@@ -1,6 +1,6 @@
 ---
 title: Frameworks to achieve any goals
-modified: 2026-09-03
+modified: 2026-09-10
 ---
 
 # 💡 Core Concept
@@ -25,6 +25,8 @@ modified: 2026-09-03
 ---
 
 # [The 90/90/1 Rule — Robin Sharma](https://youtu.be/rdc9p71hygs)
+
+> If everything else stayed the same, what’s the one area where a concerted effort would have the most needle-moving impact over the next 90 days?
 
 * Dedicate the first 90 minutes of your day to the most valuable/needle-moving project for 90 days straight.
 * No internet connection. No distractions. No interruptions. No excuses.
