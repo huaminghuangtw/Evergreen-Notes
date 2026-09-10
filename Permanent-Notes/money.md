@@ -1,6 +1,6 @@
 ---
 title: Money
-modified: 2026-08-14
+modified: 2026-09-10
 ---
 
 > “Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence
@@ -90,6 +90,8 @@ Reasonable Rational
 	* 為了「幸福感」賺錢，不要為了「饋乏感」賺錢。
 * Use money to make more money for you. [^6]
 
+	> “The poor and the middle class work for money. The rich have money work for them.” — Robert T. Kiyosaki, [Rich Dad Poor Dad](https://www.goodreads.com/work/quotes/3366043)
+
 	> “Rich men use most of their money to get richer. Poor men use most of their money to look richer.” — Mokokoma Mokhonoana
 
 	[@collinsSimplePathWealth2016]
@@ -133,7 +135,7 @@ Reasonable Rational
 
 	[@collinsSimplePathWealth2016]
 
-	> “There are many things money can buy, but the most valuable of all is freedom. Freedom to do what you want and to work for whom you respect.”
+	> There are many things money can buy, but the most valuable of all is freedom. Freedom to do what you want and to work for whom you respect.
 
 	> [“What’s the point of having f\*ck you money if you never say f\*ck you?”](https://www.youtube.com/shorts/upfyoQdc_r4)
 
