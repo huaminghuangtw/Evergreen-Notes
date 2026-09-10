@@ -1,6 +1,6 @@
 ---
 title: Invert, always invert
-modified: 2026-07-19
+modified: 2026-09-10
 ---
 
 In the 19th century, mathematician [Carl Gustav Jacob Jacobi](https://www.google.com/search?q=Carl+Gustav+Jacob+Jacobi) famously said:
@@ -20,7 +20,7 @@ In **linear algebra**, proofs often require working with the inverse of a matrix
 * Complex problems are sometimes better solved backwards
 * Invert the problem
 * Prevention over pursuit
-* Focusing on what to avoid rather than what to achieve
+* Focusing on what to _avoid_ rather than what to _achieve_
 * Reverse Engineering
 
 ---
