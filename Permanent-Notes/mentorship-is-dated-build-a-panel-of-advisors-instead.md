@@ -1,6 +1,6 @@
 ---
 title: Mentorship is dated, build a panel of advisors instead
-modified: 2026-07-23
+modified: 2026-09-10
 ---
 
 # Braintrust (Personal Advisory Board Of Mentors)
