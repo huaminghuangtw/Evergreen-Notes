@@ -1,6 +1,6 @@
 ---
 title: Life is shorter than you think
-modified: 2026-09-03
+modified: 2026-09-10
 ---
 
 > “No matter how many times you do something, there will come a day when you do it for the last time.” — Sam Harris
@@ -45,7 +45,13 @@ We often hear “Life is short, enjoy it.”, but often forget: “Eternity is l
 
 ---
 
-Accept the impermanence of everything in our lives.
+Accept the **[impermanence](https://www.sahilbloom.com/newsletter/it-was-just-a-game-of-catch)** of everything in our lives.
+
+> The most beautiful things in life are made beautiful by their impermanence.
+>
+> The vibrant sunset. The smile from an old friend. The high from a hard workout. The perfect silence during a walk. The smell after a summer rainstorm. The laugh of a young child.
+>
+> All of these things are special precisely because they don’t last.
 
 ---
 
