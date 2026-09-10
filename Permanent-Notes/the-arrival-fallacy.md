@@ -1,6 +1,6 @@
 ---
 title: The Arrival Fallacy
-modified: 2026-09-03
+modified: 2026-09-10
 ---
 
 > “Arriving someplace more desirable at some future time is an illusion. This is it.” — Jon Kabat-Zinn
@@ -57,15 +57,18 @@ _Derice: Hey Coach, how will I know if I’m enough?_
 
 _Coach: When you cross that finish line, you’ll know._
 
-See also: [Michael Phelps: ‘I am extremely thankful that I did not take my life’ \| CNN](https://edition.cnn.com/2018/01/19/health/michael-phelps-depression/index.html)
+This is related [Post-Olympic Depression](https://www.google.com/search?q=Post-Olympic+Depression) that many world-class athletes experience after the Olympics.
 
-➞ 偶像包袱
+* [Michael Phelps](https://youtu.be/NaDfRqFwKVM)
+* [Eileen Gu](https://youtu.be/5sPAyKrk0-s?t=1m24s)
 
 ---
 
 # 身份錯位
 
 > = Identity Displacement/Dislocation/Disorder
+
+➞ 偶像包袱
 
 [Your identity dictates your actions](your-identity-dictates-your-actions.md)
 
