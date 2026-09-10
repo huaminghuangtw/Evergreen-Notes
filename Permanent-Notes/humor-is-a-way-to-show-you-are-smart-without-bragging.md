@@ -1,9 +1,11 @@
 ---
 title: Humor is a way to show you are smart without bragging
-modified: 2026-09-09
+modified: 2026-09-10
 ---
 
 > [“There is nothing in the world so irresistibly contagious as laughter and good humor.” — Charles Dickens, A Christmas Carol](http://goodreads.com/quotes/122226-there-is-nothing-in-the-world-so-irresistibly-contagious-as)
+
+> “I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living, It’s a way of looking at life through the wrong end of a telescope. Which is what I do, And that enables you to laugh at life’s realities.” — Dr. Seuss
 
 ---
 
