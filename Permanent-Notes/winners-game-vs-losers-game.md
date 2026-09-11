@@ -1,6 +1,6 @@
 ---
 title: Winner’s Game vs Loser’s Game
-modified: 2026-07-19
+modified: 2026-09-11
 ---
 
 In the 1999 tennis book, _Extraordinary Tennis for the Ordinary Tennis Player_, author [Simon Ramo](https://www.google.com/search?q=Simon+Ramo) broke down the difference between amateur and professional tennis, writing that they were two different types of games:
@@ -57,7 +57,7 @@ When asked about how he rose from undrafted nobody to this level of stardom, he 
 
 # Average is Elite
 
-Mediocre but consistent performance sustained over an above-average timeframe inevitably yields an extraordinary outcome. Survival (staying in the game) is the ultimate competitive advantage.
+[Mediocre but consistent](the-consistently-good-rather-than-occasionally-great-principle.md) performance sustained over an above-average timeframe inevitably yields an extraordinary outcome. Survival (staying in the game) is the ultimate competitive advantage.
 
 Consistently achieving “average” results for an above-average duration (such as buying index funds every month for 40 years) will place you in the top 1% of performers.
 
