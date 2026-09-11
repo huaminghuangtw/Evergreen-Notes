@@ -1,6 +1,6 @@
 ---
 title: The Arrival Fallacy
-modified: 2026-09-10
+modified: 2026-09-11
 ---
 
 > “Arriving someplace more desirable at some future time is an illusion. This is it.” — Jon Kabat-Zinn
@@ -57,10 +57,12 @@ _Derice: Hey Coach, how will I know if I’m enough?_
 
 _Coach: When you cross that finish line, you’ll know._
 
-This is related [Post-Olympic Depression](https://www.google.com/search?q=Post-Olympic+Depression) that many world-class athletes experience after the Olympics.
+---
 
-* [Michael Phelps](https://youtu.be/NaDfRqFwKVM)
-* [Eileen Gu](https://youtu.be/5sPAyKrk0-s?t=1m24s)
+一輩子都在訓練，最後終於如願站上奧運會頒獎台、國歌響起、金牌掛上脖子 — 然後呢？隔天醒來，沒有下一個目標、沒有下一張訓練課表，只剩下空虛。心理學上稱為「[後奧運憂鬱](https://www.google.com/search?q=Post-Olympic+Depression)」（Post-Olympic Depression），許多世界級運動員都走過這一段：
+
+* [Michael Phelps](https://youtu.be/NaDfRqFwKVM)：奧運史上獎牌最多的運動員，28 面獎牌、23 面金牌。他在 2012 年倫敦奧運後陷入嚴重憂鬱，甚至一度不想再活下去。
+* [Eileen Gu](https://youtu.be/5sPAyKrk0-s?t=1m24s)：在 2022 年北京冬奧拿下兩金一銀，成為該屆最受矚目的選手。站上人生最高點之後，她坦言並沒有想像中的長久滿足。
 
 ---
 
