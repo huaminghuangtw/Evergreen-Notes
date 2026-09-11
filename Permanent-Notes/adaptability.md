@@ -1,6 +1,6 @@
 ---
 title: Adaptability
-modified: 2026-07-20
+modified: 2026-09-10
 ---
 
 > “It is not the strongest of the species that survives, nor the most intelligent. It is the one most adaptable to change; but the species that survives is the one that is able best to adapt and adjust to the changing environment in which it finds itself.” — Charles Darwin [^1]
@@ -59,6 +59,13 @@ You’ll only go as far as your ability to absorb life’s punches and pivot (�
 Fear uncertainty and you fear life. To fear the unknown is to fear life itself. Life without unpredictability isn’t life, not for human beings.
 
 [Who Moved My Cheese?](https://huam.ing/who-moved-my-cheese)
+
+---
+
+**[目標](goal-setting.md) 刻在鋼板上，方法寫在沙灘上。**
+
+* 鋼板堅固難以改變。大方向、理想或最終目的必須牢固。無論遇到任何挫折，都不應輕易放棄初衷。
+* 沙灘上的字跡隨時會被海浪沖走。做事的方法和步驟需要保持彈性。當原本的方法行不通時，就要順應環境，動態調整。
 
 ---
 
