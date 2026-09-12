@@ -1,6 +1,6 @@
 ---
 title: Peace from mind
-modified: 2026-09-03
+modified: 2026-09-12
 ---
 
 > “I once asked a monk how he found peace. “I say ‘yes,’” he’d said. “To all that happens, I say ‘yes.” — Kamal Ravikant, [Love Yourself Like Your Life Depends On It](https://www.goodreads.com/work/quotes/21367410)
@@ -39,7 +39,7 @@ Not having the urge to explain or defend yourself is real inner peace.
 
 # 內心平靜的指標
 
-1. 情緒穩定：不容易因小事而生氣、焦慮或沮喪，常發出會心和真誠的微笑。
+1. 情緒穩定：不容易因小事而生氣、焦慮或沮喪（陰情不定），常發出會心和真誠的微笑。
 2. 接受力強：不強烈抗拒現實，也不強迫它一定要發生。
 3. 內在滿足感：即使外在環境不理想，也能保持心裡的平衡與愉悅。
 4. 清晰思考：頭腦清楚，不容易陷入負面思緒漩渦。
