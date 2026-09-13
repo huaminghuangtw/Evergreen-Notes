@@ -1,14 +1,18 @@
 ---
 title: The Pomodoro Technique
-modified: 2026-09-03
+modified: 2026-09-13
+---
+
+conceived by [Francesco Cirillo](https://www.google.com/search?q=Francesco+Cirillo)
+
 ---
 
 The [original technique](https://www.pomodorotechnique.com/) has six steps:
 
 1. Decide on the task to be done. [^1]
 2. Set the Pomodoro timer (typically for 25 minutes).
-3. Work on the task. <mark>If your mind wanders to something else during a Pomodoro, note it down and return to it after the break — do not act on it!</mark>
-4. End work when the timer rings and take a short break (typically 5–10 minutes).
+3. Work on the task. <mark>Protect your Pomodoro from multitasking or distractions. If your mind wanders to something else during a Pomodoro, note it down and return to it after the break — do not act on it!</mark>
+4. End work when the timer rings and take a short break (typically 5–10 minutes). <mark>Properly break in your breaks — no sneaky working.</mark>
 5. Go back to Step 2 and repeat until you complete four pomodori.
 6. After 4 pomodori are done, take a long break (typically 20–30 minutes) instead of a short break. Once the long break is finished, return to step 2.
 
@@ -18,5 +22,5 @@ After completing a task within a Pomodoro session, utilize any remaining time to
 
 Additionally, to transit smoothly into future sessions, take this time to glance over your list of upcoming tasks for the next Pomodoro sessions, update them if necessary.
 
-[^1]: It’s recommended to assign just one task to each 25-minute block. Make sure to link the task to your big goals. For every task, ask yourself: “_Why does this matter?_”
+[^1]: It’s recommended to assign just ONE task to each 25-minute block. Make sure to link the task to your big goals. For every task, ask yourself: “_Why does this matter?_”
 [^2]: _What did you accomplish? Did you fulfill your learning target, objective, or outcome for the task?_
