@@ -1,6 +1,6 @@
 ---
 title: Kindness
-modified: 2026-09-04
+modified: 2026-09-14
 ---
 
 > “Kindness is a language which the deaf can hear and the blind can see.” — Mark Twain
