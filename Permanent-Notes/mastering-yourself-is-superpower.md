@@ -1,6 +1,6 @@
 ---
 title: Mastering yourself is superpower
-modified: 2026-09-09
+modified: 2026-09-14
 ---
 
 > “Knowing yourself is the beginning of all wisdom.” — Aristotle
@@ -76,44 +76,11 @@ modified: 2026-09-09
 
 ---
 
-#NEWSLETTER #todo move to Brainfoodie
-
-# [Master Shi Heng Yi — 5 hindrances to self-mastery](https://youtu.be/4-079YIasck) [^3]
-
-* “_The universal law of being successful and happy at the same time means finding the balance._”
-* _“There are 2 mistakes along the way to Mastery: Not starting it, and not going all the way.”_
-* 5 Hindrances
-	1. [Sensual desire](instant-gratification.md) (pleasures & distractions)
-		* from the five gates of the body:
-			* Seeing
-			* Hearing
-			* Smelling
-			* Tasting (口腹之慾)
-			* Feeling
-	2. [Ill-will (aversion & negative thoughts)](negative-thoughts-and-emotions.md)
-	3. Slothful body & mind (lack of energy/motivation, heaviness of body, dullness of mind)
-	4. Restlessness (unsettled/monkey mind)
-		* Regret about the past
-		* Worry about the future
-		* Unable to [stay in the present](live-in-the-present.md)
-	5. [Skeptical doubt (indecisiveness)](overthinking.md)
-* How to remove these hindrances?
-	1. Recognize (what state of mind you’re in)
-	2. [Accept & Acknowledge](acceptance-and-commitment-therapy.md) (the situations and people to be the way as it is/they are)
-		* Just let it rain
-	3. Investigate (your emotional & mental state)
-		* Observe the sensation and ask yourself:
-			* _“Why did it come up?”_
-			* _“What is the consequence if I remain in this state?”_
-	4. Non-Identification (無我)
-		* Practice “_I’m not the body, I’m not the mind, I’m not my emotion, I can just see all these 3 aspects about me._” [^4] [^5]
+[5 Hindrances to Self-Mastery](https://huam.ing/5-hindrances-to-self-mastery)
 
 ---
 
 [The Johari Window](the-johari-window.md)
 
 [^1]: _“Instead of shaming your emotions, try to understand what they are telling you.” — Lindsay C. Gibson_
-[^2]: This also points out the importance of being **authentic** and **honest**: _<mark>“The moment you tell somebody something dishonest, you’ve lied to yourself. Then you’ll start believing your own lie, which will disconnect you from reality and take you down the wrong road.” — Almanack of Naval Ravikant</mark>_
-[^3]: = The discovery of oneself
-[^4]: 我只是一名自己 の 觀察員
-[^5]: Your physical body is just a heap of food you have eaten over time. Your mind is just a heap of impressions you have gathered from the outside. Everything is temporary.
+[^2]: This also points out the importance of being **authentic** and **honest**: _“The moment you tell somebody something dishonest, you’ve lied to yourself. Then you’ll start believing your own lie, which will disconnect you from reality and take you down the wrong road.” — Almanack of Naval Ravikant_
