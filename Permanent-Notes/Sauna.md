@@ -1,6 +1,6 @@
 ---
 title: Sauna
-modified: 2026-08-31
+modified: 2026-09-14
 ---
 
 * Order
@@ -23,6 +23,13 @@ modified: 2026-08-31
 		* It is most effective to sweat briefly but violently on the upper benches. The higher up you sit in the sauna, the higher the temperature.
 	* Unwind: meditation, breathwork, tree pose, sit stretching, etc.
 	* Remove jewelry or watches to avoid damaging them in the heat and moisture.
+	* Salt scrub in steam room to exfoliate dead skin
+		* Risk: scrubbing hard on dry or sweaty skin creates microscopic cuts, raising the risk of bacterial infection
+		* Steps
+			1. First, spend a few minutes in the steam room or sauna to soften the skin
+			2. Do one round of heat
+			3. Rub a paste of salt with water onto yourself as an exfoliant
+			4. Leave it on through the next round and _for ten minutes more_, then shower it off
 * After the sauna
 	* Shower and let your body cool completely before getting dressed (or you’re gonna sweat)
 	* Drink LOTS of water (Stay hydrated)
