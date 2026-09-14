@@ -1,6 +1,6 @@
 ---
 title: The One Percent Rule
-modified: 2026-08-21
+modified: 2026-09-14
 ---
 
 > “Tend to the small things. More people are defeated by blisters than by mountains.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
@@ -38,6 +38,8 @@ $1.00^{365} = 1.00$ vs $1.01^{365} = 37.8$
 # Small Things Become Big Things
 
 > “If you cannot do great things, do small things in a great way.” — Napoleon Hill
+
+> “Good and evil both increase at compound interest. That is why the little decisions you and I make every day are of such infinite importance. The smallest good act today is the capture of a strategic point from which, a few months later, you may be able to go on to victories you never dreamed of.” — C.S. Lewis, [Mere Christianity](https://www.goodreads.com/work/quotes/801500)
 
 * [For Want of a Nail](https://huam.ing/for-want-of-a-nail)
 * 涓滴成河（Kleinvieh macht auch Mist.）
