@@ -1,6 +1,6 @@
 ---
 title: Lateral Thinking
-modified: 2026-09-08
+modified: 2026-09-14
 ---
 
 > “The young man knows the rules, but the old man knows the exceptions.” — Oliver Wendell Holmes, Sr.
@@ -65,17 +65,7 @@ Reality is largely negotiable. If you stress-test the boundaries and experiment 
 
 ---
 
-# The 3 Stages of Mastery
-
-> The Shu Ha Ri model from traditional Japanese martial arts
-
-1. **Shu (to obey):** Learn to operate according to the rules.
-2. **Ha (to break):** Begin to challenge and adapt the rules.
-3. **Ri (to transcend):** Create new rules.
-
-知味 ➞ 品味 ➞ 玩味
-
-[Wittgenstein’s Ladder](wittgensteins-ladder.md)
+[The Shu-Ha-Ri Model](the-shu-ha-ri-model.md)
 
 ---
 
