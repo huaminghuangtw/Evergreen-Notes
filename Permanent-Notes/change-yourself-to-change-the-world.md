@@ -1,6 +1,6 @@
 ---
 title: Change yourself to change the world
-modified: 2026-09-03
+modified: 2026-09-14
 ---
 
 > “Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi
@@ -99,6 +99,8 @@ Self-reliance is the ultimate source of strength. Self-help is the best help.
 Tend your garden. Sow your seeds. Water your grass. The grass is greener where you water it.
 
 ---
+
+# The greatest project you’ll ever work on is you
 
 Personal development/growth/improvement is a lifelong endeavor. Every single day, you have to [act in favor of the person you want to become](your-identity-dictates-your-actions.md). [The work never stops.](every-single-day-chop-wood-carry-water.md) [Be a habit and routine machine](be-a-habit-and-routine-machine.md).
 
