@@ -1,6 +1,6 @@
 ---
 title: Wittgenstein’s Ladder
-modified: 2026-07-19
+modified: 2026-09-14
 ---
 
 > “My propositions serve as illustrations. He who understands me finally recognizes them as senseless, when he has climbed out through them, on them, over them. (He must so to speak throw away the ladder, after he has climbed up on it.)” — Ludwig Wittgenstein, _Tractatus Logico-Philosophicus_ (6.54)
@@ -36,27 +36,14 @@ Essentially, **Wittgenstein’s Ladder** reminds us that some teachings or theor
 * **Programming and Abstraction**: In software development, abstractions are ladders. A high-level programming language abstracts away machine code so we can think in concepts; but when debugging a critical performance issue, one may need to descend the ladder and reason about memory directly.
 * **Education**: A teacher’s explanations are ladders for the student’s understanding. The best explanations dissolve once the insight they were designed to convey is achieved — the student no longer needs the metaphor or the simplifying analogy.
 
-## The Ladder and the Moon
-
-The ladder metaphor resonates across traditions. In Zen Buddhism, the **finger pointing at the moon** warns against confusing the pointer (the teaching) with the referent (the truth). In Taoism, the _Tao Te Ching_ opens by declaring that the eternal Tao cannot be named — any name or concept is a provisional tool, not the thing itself.
-
-All three traditions converge on a shared insight: **the ultimate understanding cannot be captured in propositions**. Language is a tool for pointing beyond itself.
+---
 
 ## The Paradox of the Ladder
 
-There is a provocative tension at the heart of Wittgenstein’s Ladder: the ladder is both necessary and ultimately disposable. One cannot skip the climbing, yet one must not cling to the rungs. This mirrors what might be called **The Paradox of Mastery**: to truly master something, you must first submit to its rules; once mastered, you are free to break them. The beginner follows instructions; the expert internalizes and transcends them.
+The ladder is both necessary and ultimately disposable. One cannot skip the climbing, yet one must not cling to the rungs. This mirrors what might be called **The Paradox of Mastery**: _to truly master something, you must first submit to its rules; once mastered, you are free to break them._ The beginner follows instructions; the expert internalizes and transcends them.
+
+[The Shu-Ha-Ri Model](the-shu-ha-ri-model.md)
 
 ---
 
-See also: [The Paradox of Mastery | The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-paradox-of-mastery)
-
-## Related Concepts
-
-* **The Raft Parable (Buddhism)**: The dharma is like a raft used to cross a river — once you reach the other shore, you leave the raft behind rather than carrying it on your head.
-* **The Map Is Not the Territory** (Alfred Korzybski): Our models of reality are not reality itself; confusing them leads to mistaking abstraction for truth.
-* **Plato’s Allegory of the Cave**: The journey from shadow to sunlight requires discarding old beliefs about what is real.
-* **Shoshin (Beginner’s Mind)**: A Zen concept emphasizing approaching subjects with openness, free from preconceptions — the inverse clinging of holding onto old ladders prevents new understanding.
-* **Paradigm Shifts** (Thomas Kuhn): Scientific revolutions occur when old frameworks are discarded for new ones that better explain observed phenomena.
-* **Deconstruction** (Jacques Derrida): A method of reading that seeks to show how texts undermine their own assumptions — a form of throwing away the ladder of the text’s intended meaning.
-* **Musement** (Charles Sanders Peirce): A state of free, playful inquiry that precedes disciplined reasoning — the ground from which new ladders are built.
-* **The Double Movement** (Kierkegaard): The knight of faith must make an infinite movement of resignation (throwing away the finite) and then a movement of faith to receive it back — a ladder that must be climbed and transcended.
+[The Buddha’s Raft](https://huam.ing/the-buddhas-raft)
