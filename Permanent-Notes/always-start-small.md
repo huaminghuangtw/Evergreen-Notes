@@ -1,6 +1,6 @@
 ---
 title: Always start small
-modified: 2026-08-27
+modified: 2026-09-15
 ---
 
 > “It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith
@@ -10,6 +10,10 @@ modified: 2026-08-27
 > “We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.” — Mother Teresa [^1]
 
 > “Sometimes when I consider what tremendous consequences come from little things, I am tempted to think there are no little things.” — Bruce Barton
+
+---
+
+Minimum Viable Action
 
 ---
 
