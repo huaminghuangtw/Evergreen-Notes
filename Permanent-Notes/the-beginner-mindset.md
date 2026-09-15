@@ -1,6 +1,6 @@
 ---
 title: The Beginner Mindset
-modified: 2026-09-03
+modified: 2026-09-15
 ---
 
 > “It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” — Mark Twain
@@ -58,6 +58,8 @@ Every expert started out as a beginner. Embrace the embarrassment of feeling lik
 ---
 
 歸零 = 回歸初心 ([Shoshin](https://www.google.com/search?q=Shoshin))
+
+> 回歸初心，不是回到過去，而是重新認識自己。
 
 ---
 
