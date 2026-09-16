@@ -1,6 +1,6 @@
 ---
 title: Happiness
-modified: 2026-09-07
+modified: 2026-09-16
 ---
 
 > “Happiness is a state where nothing is missing.” — Naval Ravikant
@@ -79,7 +79,7 @@ Happiness
 
 > “Happiness is not something ready made. It comes from your own actions.” — Dalai Lama
 
-= [Agency](cultivate-a-strong-bias-towards-action.md) + [Gratitude](be-grateful.md) [^3]
+= [Agency (主動性)](cultivate-a-strong-bias-towards-action.md) + [Gratitude](be-grateful.md) [^3]
 
 = [Reality - Expectations](manage-the-gap-between-expectations-and-reality.md)
 
@@ -197,5 +197,5 @@ Simple story on “Happiness is found through service of others.”
 
 [^1]: Real happiness only comes as a side-effect of peace. Most of it is going to come from **[acceptance](self-compassion.md)**, not from changing your external environment.
 [^2]: The secret of the pursuit of happiness is that happiness is in the pursuit.
-[^3]: [Dr. Paul Conti presented that the most salient 2 variables associated with mental health are **agency** and **gratitude**.](https://youtu.be/tLRCS48Ens4?t=11m15s)
+[^3]: [Dr. Paul Conti presented that the most salient 2 variables associated with mental health are **agency (主動性)** and **gratitude**.](https://youtu.be/tLRCS48Ens4?t=11m15s)
 [^4]: [How to Instantly Feel Better?](https://sketchplanations.com/how-to-instantly-feel-better)
