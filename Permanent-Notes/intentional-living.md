@@ -1,6 +1,6 @@
 ---
 title: Intentional Living
-modified: 2026-09-03
+modified: 2026-09-16
 ---
 
 > [“Your goal in life is to be able to say on the day before you die that you have fully become yourself.” — Kevin Kelly](https://tim.blog/2023/04/26/kevin-kelly-excellent-advice-for-living/)
@@ -38,6 +38,10 @@ modified: 2026-09-03
 > “Concentrate every minute like a Roman—like a man—on doing what’s in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions.”
 
 > “To affect the quality of the day, that is the highest of arts. Every man is tasked to make his life, even in its details, worthy of the contemplation of his most elevated and critical hour.” — Henry David Thoreau
+
+---
+
+= 有意識地生活 = Live deliberately
 
 ---
 
