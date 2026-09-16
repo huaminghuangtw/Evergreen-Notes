@@ -1,11 +1,11 @@
 ---
 title: Visual Perceptual Exercise by Andrew Huberman
-modified: 2026-07-19
+modified: 2026-09-16
 ---
 
-This is a useful tool for our nervous system to manage [stress](stress-and-anxiety.md) and enhancing cognitive flexibility. The core insight is that **visual attention directly modulates the autonomic nervous system** — by deliberately shifting where and how we look, we can regulate our internal state in real time.
+A tool to manage [stress](stress-and-anxiety.md) and enhance cognitive flexibility. Core insight: **visual attention directly modulates the autonomic nervous system** — shifting where and how we look regulates our internal state.
 
-The exercise operates on a principle known as **Space-Time Bridging 時空橋樑**. When you shift your visual focus from near to far, you are simultaneously shifting your **time perspective** from the immediate present (fine/thin slicing) to the long view (coarse/thick slicing). This trains the brain to [move fluidly between different timescales of awareness](https://youtu.be/eC9fiJBdMG0?t=1982s).
+It works via **Space-Time Bridging 時空橋樑**: shifting focus from near to far also shifts **time perspective** from the present (fine/thin slicing) to the long view (coarse/thick slicing), training the brain to [move fluidly between timescales of awareness](https://youtu.be/eC9fiJBdMG0?t=1982s).
 
 ---
 
@@ -27,7 +27,7 @@ The spectrum from internal body awareness to external world awareness.
 
 # Tools
 
-* **Overt Visual Focus:** physically focus your visual attention on a **specific point** (or “**spotlight**”) will help maintain focus during bouts of goal work.
+* **Overt Visual Focus:** focus your visual attention on a **specific point** (or “**spotlight**”).
 * **Covert Visual Focus:** focus your eyes on one location, such as a pen, but direct your focus elsewhere in the room or location that you’re in.
 
 ---
@@ -36,8 +36,8 @@ The spectrum from internal body awareness to external world awareness.
 
 * **Before a stressful meeting:** Run through the 5-step Space-Time Bridging cycle to reset your nervous system from fight-or-flight to calm awareness.
 * **When feeling stuck or tunnel-visioned:** Expand your visual attention to panoramic mode. This often unlocks creative solutions by shifting from narrow problem-solving to broad perspective-taking.
-* **During deep work sessions:** Use overt visual focus as a concentration anchor — fix your gaze on a single spot to prevent mental drift.
-* **Before sleep:** The reverse direction (panoramic → near → internal) can help down-regulate the nervous system for rest.
+* **During [deep-work](deep-work.md) sessions:** Use overt visual focus as a concentration anchor — fix your gaze on a single spot to prevent mental drift.
+* **Before [sleep](sleep.md):** The reverse direction (panoramic → near → internal) can help down-regulate the nervous system for rest.
 
 ---
 
