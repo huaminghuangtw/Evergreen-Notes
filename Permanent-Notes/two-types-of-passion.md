@@ -1,6 +1,6 @@
 ---
 title: Two Types of Passion
-modified: 2026-07-19
+modified: 2026-09-17
 ---
 
 > [“Passion is defined as a strong inclination toward an activity that people like, that they find important, and in which they invest time and energy.” — Robert J. Vallerand](https://doi.org/10.1037/0022-3514.85.4.756)
@@ -25,7 +25,7 @@ This form of passion arises from **controlled internalization**. The activity co
 
 > Example: A musician who feels worthless unless they are practicing or performing, who experiences guilt on days off, and whose entire social circle revolves around their music career. The music stops being a choice and becomes a compulsion.
 
-The pursuit defines the life.
+_The pursuit defines the life._
 
 # 2. Harmonious Passion
 
@@ -41,7 +41,7 @@ Harmonious passion results from **autonomous internalization**. The person engag
 
 > Example: A software engineer who loves coding but can walk away from the keyboard to cook dinner, spend time with loved ones, or pursue other hobbies — and returns to coding refreshed rather than resentful.
 
-The life defines the pursuit.
+_The life defines the pursuit._
 
 ---
 
