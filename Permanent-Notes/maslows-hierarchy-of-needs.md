@@ -1,6 +1,6 @@
 ---
 title: Maslow’s Hierarchy of Needs
-modified: 2026-08-07
+modified: 2026-09-17
 ---
 
 = [Maslow’s Pyramid of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
@@ -20,5 +20,5 @@ by the psychologist Abraham Maslow in a [1943 paper](https://psychclassics.yorku
 1. 生理
 2. 安全
 3. 愛與隸屬（社交）
-4. 尊嚴
+4. 尊嚴（ego）
 5. 自我實現
