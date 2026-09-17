@@ -1,6 +1,6 @@
 ---
 title: Temptation Bundling
-modified: 2026-07-19
+modified: 2026-09-17
 ---
 
 > “Temptation bundling involves pairing an activity that is good for you in the long-run with an activity that feels good in the short-run.” — Katherine Milkman
@@ -17,7 +17,7 @@ by Katherine Milkman [@milkmanHoldingHungerGames2014] [@kirgiosTeachingTemptatio
 
 ---
 
-A “forcing function” refers to something that drives a desired outcome.
+A [“forcing function”](look-for-single-decision-that-removes-hundreds-or-thousands-of-other-decisions.md) refers to something that drives a desired outcome.
 
 ---
 
