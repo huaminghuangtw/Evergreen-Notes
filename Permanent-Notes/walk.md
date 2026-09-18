@@ -1,6 +1,6 @@
 ---
 title: Walk
-modified: 2026-09-03
+modified: 2026-09-18
 ---
 
 > “A walk in nature walks the soul back home.” — Mary Davis
@@ -10,6 +10,8 @@ modified: 2026-09-03
 > “I can only meditate when I am walking. When I stop, I cease to think; my mind works only with my legs.” — Jean-Jacques Rousseau
 >
 > 散步促進我的思想。唯有身體不停行走，腦筋才會甦醒運轉。
+
+> “I am alarmed when it happens that I have walked a mile into the woods bodily, without getting there in spirit.” — Henry David Thoreau, [Walking](https://www.goodreads.com/work/quotes/1713299)
 
 ---
 
@@ -36,11 +38,18 @@ You’ll never regret taking a walk outside.
 
 Goal: 8000–10000 steps per day
 
-* 10 minutes of walking is around 1,000 steps
+> 10 minutes of walking is around 1,000 steps
 
 ---
 
-康德（Immanuel Kant）每天在固定時間散步，準時到鄰居可以用他出門的時刻校對時鐘。他一生幾乎沒有離開過故鄉柯尼斯堡（Königsberg），生活環境單純而規律。堪稱自律的典範。
+創造力取決於移動的身體，不要相信坐著時產生的任何想法。
+
+> [“Sit as little as possible; give credence to no thought that is not born in the open air and accompanied by free movement — in which the muscles do not also celebrate a feast.” — Friedrich Nietzsche](https://www.goodreads.com/quotes/9741414-sit-as-little-as-possible-give-credence-to-no-thought)
+
+> “Only ideas won by walking have any value.” — Friedrich Nietzsche, [Twilight of the Idols](https://www.goodreads.com/work/quotes/19234046)
+>
+> 唯有散步之際悟出的想法才有價值。
+> — 尼采
 
 ---
 
@@ -90,10 +99,22 @@ Goal: 8000–10000 steps per day
 
 ---
 
+Everyone _should_ feel alert walking the streets at night — that’s not oppression, it’s a necessary survival instinct. Twisted, sick, fucked-up people (most drunk) will always exist, and both women and men need to be psychologically and physiologically ready for that threat, especially when alone/isolated in the dark. They prey on vulnerable targets, and night is their peak.
+
+---
+
 [What Happened When One Runner Tried a 1-Month Walking Challenge](https://www.runnersworld.com/runners-stories/a71536278/one-month-walking-challenge/)
 
 ---
 
 [Non-Exercise Activity Thermogenesis](nonexercise-activity-thermogenesis.md)
+
+---
+
+[Wander](wander.md)
+
+---
+
+[*Walking* by Henry David Thoreau](https://huam.ing/walking)
 
 [^1]: 「有界」(bounded, telic) 和「無界」(unbounded, atelic)
