@@ -1,6 +1,6 @@
 ---
 title: The most productive people prioritize intentional rest
-modified: 2026-08-07
+modified: 2026-09-18
 ---
 
 > “Rest until you feel like playing, then play until you feel like resting.” — Martha Beck
@@ -40,6 +40,10 @@ There’s a simple formula for identifying the highest leverage relaxation for y
 ---
 
 放鬆不是懶惰，而是一種對身心界線的尊重。
+
+---
+
+當出現「再撐一下」的念頭，就是該休息的警訊 🚨
 
 ---
 
