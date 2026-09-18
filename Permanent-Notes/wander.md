@@ -1,6 +1,6 @@
 ---
 title: Wander
-modified: 2026-08-01
+modified: 2026-09-18
 ---
 
 > “Not all those who wander are lost.” — J.R.R. Tolkien
@@ -39,7 +39,10 @@ Penicillin, microwaves, and Post-it notes were all discovered by someone who not
 * **Steve Jobs** took long walks — sometimes barefoot — as a deliberate thinking practice. He held walking meetings and credited meandering walks with some of his best ideas.
 * **Albert Einstein** famously said, “I take my most important walks alone.” His thought experiments — chasing a beam of light, riding alongside a falling elevator — were acts of intellectual wandering that reshaped physics.
 * **Virginia Woolf** was a devoted flâneuse [^2]. Her essay “Street Haunting” frames a walk to buy a pencil as an excuse to wander London and let the city feed the imagination.
-* **Friedrich Nietzsche** declared that “only thoughts reached by walking have value,” and his most influential works were composed during his daily vigorous hikes.
+* **Friedrich Nietzsche** declared that “[only thoughts reached by walking have value,](https://www.goodreads.com/quotes/634773-only-ideas-won-by-walking-have-any-value)” and his most influential works were composed during his daily vigorous hikes.
+* [康德（Immanuel Kant）](https://www.google.com/search?q=Immanuel+Kant) 每天在固定時間散步，準時到鄰居可以用他出門的時刻校對時鐘。他一生幾乎沒有離開過故鄉柯尼斯堡（Königsberg），生活環境單純而規律。堪稱自律的典範。
+* 散步是一種神聖的遠征與朝聖。漫遊者刻意漫無邊際地信步而走，除了步行，別無目的。對 [梭羅（Henry David Thoreau）](https://www.google.com/search?q=Henry+David+Thoreau) 來說，漫遊的人遠離家庭，拋開憂慮苦惱，他們四處流浪、無所事事，「以四海為家」；綠樹成蔭的小徑、圓潤的丘陵和蜿蜒的山谷，就是他們的棲身之處 — 寧靜祥和，無憂無慮。他們置身於行走的當下，猶如「蜿蜒的河流，尋找著通往大海的捷徑」。
+* [逍遙/漫步學派](https://www.google.com/search?q=逍遙學派)：**亞里斯多德**及其門下弟子無不熱衷於散步（邊走邊討論學問）
 
 ---
 
