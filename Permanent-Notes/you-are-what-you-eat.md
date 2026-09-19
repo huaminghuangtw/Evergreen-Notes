@@ -1,6 +1,6 @@
 ---
 title: You are what you eat
-modified: 2026-08-23
+modified: 2026-09-18
 ---
 
 > “Let food be thy medicine and medicine be thy food.” — Hippocrates [^1]
@@ -61,6 +61,16 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 * Whole Food vs Non-whole Food (→ chemicals → inflammation in the body → harmful to our lives)
 	* 植化素
 	* 膳食纖維
+
+---
+
+純淨飲食
+
+純淨飲食。
+
+二〇〇七年起托斯卡•雷諾（Tosca Reno）出版一系列純淨飲
+
+叢書（Eat Clean Diet），推廣純淨飲食 （clean eating） 的生活概念至十四），其關鍵在於「不吃加工食品」，禁吃速食，以及以精糖、文式脂肪、色素、甜味劑或白麵粉等製成的加工食品。此外，盡可能食用天然的新鮮蔬果、瘦肉、魚類、未加工乳製品、全穀類或堅果，並提倡有意識的飲食習慣，推廣吃得好（品質）與慢食精神，自動減量與少量多餐。她也鼓勵在家下廚，做菜不是為了填飽肚子，而是享受過程。（註 + 五）這些聽起來是不是很耳熟呢？純淨飲食可說
 
 ---
 
