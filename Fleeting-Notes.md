@@ -1,5 +1,5 @@
 ---
-modified: 2026-08-30
+modified: 2026-09-19
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -289,10 +289,6 @@ Shisa Kanko, pointing and calling
 * （有些人只是無聊，想來點刺激的。有些人則是想成為他們爸媽口中那些英勇故事的主角。）
 * ——Edward Nordskog，縱火與炸彈調查專家
 * [Expert: Firefighter arson a long-standing issue](https://www.firerescue1.com/arson-investigation/articles/expert-firefighter-arson-a-long-standing-issue-xHXLFAdYVcQPiuPU/)
-
----
-
-prepper（末日準備者）文化
 
 ---
 
