@@ -1,6 +1,6 @@
 ---
 title: Change yourself to change the world
-modified: 2026-09-14
+modified: 2026-09-19
 ---
 
 > “Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi
@@ -87,7 +87,7 @@ Self-reliance is the ultimate source of strength. Self-help is the best help.
 
 ---
 
-[All great things start from within.](be-primarily-internally-driven-with-intrinsic-motivation.md) What lies behind us and what lies before us are tiny matters compared to what lies within us.
+[All great things start from within.](be-primarily-internally-driven-with-intrinsic-motivation.md) [What lies behind us and what lies before us are tiny matters compared to what lies within us.](https://www.goodreads.com/quotes/698986-what-lies-behind-you-and-what-lies-in-front-of)
 
 ---
 
