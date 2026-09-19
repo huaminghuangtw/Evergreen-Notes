@@ -1,6 +1,6 @@
 ---
 title: Journaling
-modified: 2026-09-18
+modified: 2026-09-19
 ---
 
 > “Create an environment where you’re free to express what you’re afraid to express.” — Rick Rubin
@@ -21,7 +21,11 @@ modified: 2026-09-18
 		* etc.
 * 是我做決定 & 採取行動 の 指南針 🧭
 
-## Wins I Achieved
+## 1. Daily Highlights
+
+## 2. I Am Grateful For
+
+## 3. Wins I Achieved
 
 > “Don’t judge each day by the harvest you reap but by the seeds you plant.” — Robert Louis Stevenson [^1]
 
@@ -32,7 +36,7 @@ modified: 2026-09-18
 	* The “Cookie Jar” is a metaphorical repository of your personal victories—instances where you overcame obstacles, endured hardship, or achieved goals against the odds. Goggins refers to these memories as “cookies.”
 	* When facing a difficult situation, he mentally “reaches into the cookie jar” to remind himself of these past successes, reigniting motivation and reinforcing self-belief.
 
-## Things I Can Improve
+## 4. Things I Can Improve
 
 * The Bug Book
 
