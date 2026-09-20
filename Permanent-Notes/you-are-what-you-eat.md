@@ -1,6 +1,6 @@
 ---
 title: You are what you eat
-modified: 2026-09-18
+modified: 2026-09-20
 ---
 
 > “Let food be thy medicine and medicine be thy food.” — Hippocrates [^1]
@@ -21,7 +21,10 @@ modified: 2026-09-18
 
 ---
 
-何謂「食」的本質？為維持、延續自己的生命，將大自然中其他動植物的生命攝入體內。
+# 何謂「食」的本質？
+
+* 為維持、延續自己的生命，將大自然中其他動植物吸收至體內
+* 攝取營養、補充能量
 
 ---
 
