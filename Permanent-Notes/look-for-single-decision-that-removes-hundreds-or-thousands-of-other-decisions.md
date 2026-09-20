@@ -1,6 +1,6 @@
 ---
 title: Look for single decision that removes hundreds or thousands of other decisions
-modified: 2026-09-17
+modified: 2026-09-20
 ---
 
 > “Don’t make a hundred decisions when one will do.” — [Jim Collins](https://www.jimcollins.com/index.html)
@@ -15,7 +15,7 @@ modified: 2026-09-17
 
 ---
 
-哪一種決定可以把水龍頭 🚰 關起來？
+**從源頭切斷**：哪一種決定可以把水龍頭關起來？🚰
 
 ---
 
