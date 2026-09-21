@@ -1,6 +1,6 @@
 ---
 title: The “Consistently Good Rather Than Occasionally Great” Principle
-modified: 2026-09-03
+modified: 2026-09-21
 ---
 
 > “Long-term consistency trumps short-term intensity.” — Bruce Lee
@@ -12,3 +12,8 @@ modified: 2026-09-03
 * Mastery follows consistent/constant work.
 * Intensity makes a good story. Consistency makes progress.
 * Remember, the sum of consistent, boring, ordinary performances adds up to something extraordinary. The next time you feel the urge to do something dramatic, come back to the mantra: **[No unforced errors.](no-unforced-errors.md)**
+* [Average effort, sustained over above-average time, produces way-above-average results.](https://youtu.be/zEx_IGVfi7Y)
+
+---
+
+[The Compounding Effect](the-compounding-effect.md)
