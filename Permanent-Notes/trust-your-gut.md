@@ -1,6 +1,6 @@
 ---
 title: Trust your gut
-modified: 2026-09-03
+modified: 2026-09-22
 ---
 
 > “Intuition is the whisper of the soul.” — Jidda Krishnamurti
@@ -12,6 +12,8 @@ modified: 2026-09-03
 > “It takes time to develop your gut, but once it’s developed, don’t listen to anything else.” — Naval Ravikant
 
 > “The more knowledge you have, the more you’re free to rely on your instincts.” — Arnold Schwarzenegger
+
+> [“Following your convictions means you must be willing to face criticism from those who lack the same courage to do what is right. It’s called the road less traveled.” — Donald Trump](http://goodreads.com/quotes/9708906-following-your-convictions-means-you-must-be-willing-to-face)
 
 ---
 
