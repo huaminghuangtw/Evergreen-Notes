@@ -1,9 +1,9 @@
 ---
 title: Heart Rate Variability
-modified: 2026-09-14
+modified: 2026-09-22
 ---
 
-**Heart Rate Variability (HRV, 心率變異度)** is the variation in the time [^1] between consecutive heartbeats — not how _fast_ your heart beats, but how _unevenly_ it beats.
+**Heart Rate Variability (HRV, 心率變異度)** is the change in time between consecutive heartbeats, measured in **milliseconds** [^1] — not how _fast_ your heart beats, but how _unevenly_ it beats.
 
 HRV is a biomarker of resilience and adaptability.
 
@@ -13,7 +13,9 @@ Suppose your heart beats 60 times per minute. You might imagine:
 
 > 1 second → ❤️ → 1 second → ❤️ → 1 second → ❤️
 
-But your actual heart might do:
+But a heart beating 60 times a minute does not beat exactly once a second.
+
+Your actual heart might do:
 
 > 0.92s → ❤️ → 1.05s → ❤️ → 0.98s → ❤️ → 1.08s → ❤️
 
