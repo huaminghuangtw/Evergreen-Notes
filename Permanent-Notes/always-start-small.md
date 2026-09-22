@@ -1,13 +1,13 @@
 ---
 title: Always start small
-modified: 2026-09-15
+modified: 2026-09-22
 ---
 
 > “It is the greatest of all mistakes to do nothing because you can only do little; do something.” — Sydney Smith
 
 > [“If you can’t feed a hundred people, then feed just one.” — Mother Teresa](https://www.brainyquote.com/quotes/mother_teresa_105649)
 
-> “We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.” — Mother Teresa [^1]
+> “We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.” — Mother Teresa
 
 > “Sometimes when I consider what tremendous consequences come from little things, I am tempted to think there are no little things.” — Bruce Barton
 
@@ -94,5 +94,3 @@ Do **one rep** of something that takes you out of your comfort zone every single
 ---
 
 [The Starfish Story](https://huam.ing/the-starfish-story)
-
-[^1]: _“You are not a drop in the ocean, you are the entire ocean in a drop.” — Rumi_
