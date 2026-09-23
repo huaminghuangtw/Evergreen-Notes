@@ -1,6 +1,6 @@
 ---
 title: You are what you eat
-modified: 2026-09-20
+modified: 2026-09-23
 ---
 
 > “Let food be thy medicine and medicine be thy food.” — Hippocrates [^1]
@@ -128,6 +128,7 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 * I won’t eat anything unless I know I will actually enjoy it.
 * I don’t force myself to eat. I will only eat whenever I actually feel hungry.
 * If you aren’t hungry, you aren’t hungry.
+* Hunger often gets buried under stress and boredom, so pause before a meal or snack and check whether your body really feels hungry. An empty stomach, low energy, or trouble focusing are real hunger signals worth honoring with food.
 * Feeling good is better than that “third” slice of pizza.
 * Kuchisabishii (口寂しい): When you’re not hungry, but you eat because your mouth is lonely.
 * Avoid eating (or drinking) your feelings.
