@@ -1,6 +1,6 @@
 ---
 title: Skin Care
-modified: 2026-09-03
+modified: 2026-09-24
 ---
 
 # 如何擁有「水煮蛋肌」?
@@ -34,11 +34,11 @@ modified: 2026-09-03
 	* #TODO 杜鵑花酸
 	* #TODO 玻尿酸不是酸
 		* 「玻尿酸」和「膠原蛋白」是肌膚最自然的保濕屏障。
-* [比較] 視黃醇 / 維 A 醇 / A 醇
-	* Retinol
+* 維生素 A 類
+	* Retinol (A 醇)
 		* _lower_ concentration of the active retinoic acid ingredient
 		* available over the counter (OTC)
-	* Retinoid
+	* Retinoid (A 醛)
 		* _higher_ concentration of the active retinoic acid ingredient
 		* often only available with a medical prescription
 * 「<mark>刷酸煥膚</mark>」: 調理痘痘粉刺肌膚最好的辦法是「長期持續地」使用「弱酸性」產品，去除毛孔內堆積的老廢角質
