@@ -1,11 +1,16 @@
 ---
 title: Startups
-modified: 2026-08-31
+modified: 2026-09-24
 ---
 
 * First step: attract great people
-	* _“Great things in business are never done by one person, they’re done by a team of people.” - Steve Jobs_
-	* _A players hire A players, and B players hire C players.” — Steve Jobs_*
+
+	> “The bigger the dream, the more important the team.” — Robin Sharma
+
+	> “Great things in business are never done by one person, they’re done by a team of people.” — Steve Jobs
+
+	> “A players hire A players, and B players hire C players.” — Steve Jobs
+
 	* Do not hire before the system/playbook is created, in the hope that this hire will drive revenue
 		* “~~That hire is necessary because we want to create a new thing.~~”
 		* 別為了拓展事業雇人，而是雇人幫你買回時間。
