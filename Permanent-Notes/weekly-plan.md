@@ -1,6 +1,6 @@
 ---
 title: Weekly Plan
-modified: 2026-08-04
+modified: 2026-09-25
 ---
 
 1. Spend the first 15–20 minutes at the beginning of each week to reflect on your progress from the past week and gather insights to improve this week.
