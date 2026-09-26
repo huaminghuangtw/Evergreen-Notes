@@ -1,5 +1,5 @@
 ---
-modified: 2026-09-19
+modified: 2026-09-26
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -308,7 +308,6 @@ Shisa Kanko, pointing and calling
 
 阿米什人 Amish
 
-
 ---
 
 [Thumbtrap](https://sketchplanations.com/thumbtrap)
@@ -316,11 +315,19 @@ Shisa Kanko, pointing and calling
 ---
 
 the most interesting application of Jevons Paradox is in your life.
+
 When you optimize for efficiency, you may find yourself doing more, not less, of the thing you tried to become more efficient at.
+
 Efficiency is great. But only when it gets you more of what you want.
+
 I think we all need to do a Jevons Paradox audit of our own lives:
-List out 3-5 things you've become more efficient at in the last year. The things you've downloaded new tools for. Built new skills around. Really focused on.
+
+List out 3-5 things you’ve become more efficient at in the last year. The things you’ve downloaded new tools for. Built new skills around. Really focused on.
+
 Then ask yourself these two questions:
+
 Are you doing less of that thing than before? In other words, did the newfound efficiency create time, or consume it?
+
 Was that your intended result? Sometimes, we intended for the efficiency to allow us to get more of that thing done. Sometimes, not. Notice the difference.
+
 Price-to-earnings
