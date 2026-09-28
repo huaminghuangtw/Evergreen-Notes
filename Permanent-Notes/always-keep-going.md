@@ -1,6 +1,6 @@
 ---
 title: Always keep going
-modified: 2026-09-15
+modified: 2026-09-28
 ---
 
 > [“Remember diamonds are created under pressure so hold on, it will be your time to shine soon.” — Sope Agbelusi](https://www.goodreads.com/quotes/7900485-remember-diamonds-are-created-under-pressure-so-hold-on-it)
@@ -26,5 +26,7 @@ modified: 2026-09-15
 > [“What’s done is done. What’s gone is gone. One of life’s lessons is always moving on. It’s okay to look back to see how far you’ve come but keep moving forward.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7711460-what-s-done-is-done-what-s-gone-is-gone-one-of)
 
 ---
+
+> “The best way out is always through.” — Robert Frost
 
 Everything you’re going through will soon turn into everything you made it through. Keep going.
