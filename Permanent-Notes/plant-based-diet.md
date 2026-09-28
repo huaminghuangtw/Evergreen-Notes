@@ -1,6 +1,6 @@
 ---
 title: Plant-based Diet
-modified: 2026-09-03
+modified: 2026-09-28
 ---
 
 Carnivore vs Vegetarian
@@ -32,3 +32,7 @@ Eat the rainbow - 30 types of plants per week
 ---
 
 [Plant-based diets may increase the risk of stroke, but this can be mitigated by restricting salt intake and ensuring adequate B12.](https://youtu.be/Lo7-EF8tu4c)
+
+---
+
+<https://darebeets.com>
