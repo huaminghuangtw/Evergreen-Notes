@@ -1,11 +1,16 @@
 ---
 title: The “Consistently Good Rather Than Occasionally Great” Principle
-modified: 2026-09-21
+modified: 2026-09-29
 ---
 
 > “Long-term consistency trumps short-term intensity.” — Bruce Lee
 
 > “Success is the product of daily habits—not once-in-a-lifetime transformations.” — James Clear
+
+> Doe maar gewoon, dan doe je al gek genoeg.
+>
+> 表現得正常/普通就好了，因為那已經足夠瘋狂。
+> — 荷蘭諺語
 
 * 「配速」很重要！
 * Don’t aim to be consistently great; aim to be great at being _consistent_.
