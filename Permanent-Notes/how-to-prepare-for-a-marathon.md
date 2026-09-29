@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-09-08
+modified: 2026-09-29
 ---
 
 > [“The work is behind the scene. Competition is the easy part.” — Usain Bolt](https://youtu.be/LEIxpcYukqc?t=113s) [^1]
@@ -123,6 +123,7 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 ## 📊 關鍵課表比較
 
 * <https://www.reddit.com/r/AdvancedRunning/wiki/workoutoftheweek/>
+- 倒金字塔間歇速度訓練：距離逐步減少，配速逐漸增加
 * Tempo Run: at a “Comfortably Uncomfortable/Hard” (moderate-to-hard) pace
 	* 5–10% below the GMP
 	* 8 out of 10 on a perceived-exertion scale
