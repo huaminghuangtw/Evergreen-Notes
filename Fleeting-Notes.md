@@ -331,3 +331,8 @@ Are you doing less of that thing than before? In other words, did the newfound e
 Was that your intended result? Sometimes, we intended for the efficiency to allow us to get more of that thing done. Sometimes, not. Notice the difference.
 
 Price-to-earnings
+
+
+---
+
+Niksen，荷蘭引以為傲的生活哲學，也就是無所事事。
