@@ -1,6 +1,6 @@
 ---
 title: Teaching is the most powerful form of learning
-modified: 2026-09-25
+modified: 2026-09-30
 ---
 
 > “The best teachers are those who show you where to look, but don’t tell you what to see.” — Alexandra K. Trenfor
@@ -51,11 +51,14 @@ The people who had to teach others about a subject would learn the material bett
 
 # The Feynman Technique
 
-1. Name the person you’re going to teach it to.
-2. Study the material.
-3. Teach it to the person. Identify the gaps from the experience.
-4. Study to fill the gaps.
-5. Teach it again.
+1. Teach it to a child (ELI5).
+2. Identify knowledge gaps.
+3. Study to fill the gaps.
+4. Teach it again.
+
+**The Feynman Razor**
+
+_If someone uses a lot of complexity and jargon to explain something to you, they probably don’t understand it._
 
 ---
 
