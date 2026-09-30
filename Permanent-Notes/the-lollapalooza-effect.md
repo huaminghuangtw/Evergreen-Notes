@@ -1,11 +1,15 @@
 ---
 title: The Lollapalooza Effect
-modified: 2026-09-03
+modified: 2026-09-29
 ---
 
 > “The wise man looks for all the bellwethers, all the forces at work, and how they combine.” — Charlie Munger
 
 > “When you get lollapalooza effects, you get extreme outcomes, not just a little more, but a lot more.” — Charlie Munger
+
+---
+
+≈ The Synergy Effect
 
 ---
 
