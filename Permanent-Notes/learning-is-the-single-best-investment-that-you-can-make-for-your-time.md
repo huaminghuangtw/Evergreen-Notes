@@ -1,6 +1,6 @@
 ---
 title: Learning is the single best investment that you can make for your time
-modified: 2026-09-09
+modified: 2026-09-30
 ---
 
 > “Learning never exhausts the mind.” — Leonardo da Vinci
@@ -214,13 +214,7 @@ True learning requires “[[desirable difficulty]]”—the cognitive effort inv
 
 > Principle: Instead of focusing solely on acquiring knowledge, prioritize strategies that help _retain information_ and _offset the natural tendencies of forgetting_ that occur with any new material we just learned.
 
-* The Feynman Technique
-	* Prioritizes simplicity to build depth of understanding
-	* [Teaching is the most powerful form of learning](teaching-is-the-most-powerful-form-of-learning.md)
-	* [Learn In Public](https://www.swyx.io/learn-in-public)
-	* “The Feynman Razor”
-		* If someone uses a lot of complexity and jargon to explain something to you, they probably don’t understand it.
-		* Use simple and elegant language.
+* [The Feynman Technique](teaching-is-the-most-powerful-form-of-learning.md)
 * [刻意練習 (Deliberate Practice)](deliberate-practice.md)
 * 交錯練習 (Interleaving Practice / Interleaved Learning)
 
