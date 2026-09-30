@@ -1,5 +1,5 @@
 ---
-modified: 2026-09-26
+modified: 2026-09-29
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -332,7 +332,32 @@ Was that your intended result? Sometimes, we intended for the efficiency to allo
 
 Price-to-earnings
 
-
 ---
 
 Niksen，荷蘭引以為傲的生活哲學，也就是無所事事。
+
+
+---
+
+[🔎 芬蘭 sisu](https://www.google.com/search?q=%E8%8A%AC%E8%98%AD+sisu)
+
+---
+
+赫爾辛基，芬蘭的首都，擁有千湖之國的稱號，嚕嚕米(Moomins)與聖誕老人的故鄉，
+還有一項特點，芬蘭人喜愛黑暗重金屬音樂，這是意料之外的北歐印象。
+當走在街道上，有著和諧平靜的氣味，不意外的，赫爾辛基成為我喜愛的城市之一。
+
+在四場北歐馬拉松中，尤以赫爾辛基馬的天氣最討人喜愛，
+這場的特點有著美麗湖畔，跑進森林，新鮮的芬多精，氣候適宜，
+起跑時間下午三點，早上可以睡飽吃好，順便來趟晨跑，
+繞去吃吃著名的市場魚湯，逛逛早市，體驗當地人的夏日生活。
+
+赫爾辛基馬和冰島馬的舉辦時間，剛好在前後的星期六，來場連馬是十分值得，
+
+---
+
+[“The best love is the kind that awakens the soul and makes us reach for more, that plants a fire in our hearts and brings peace to our minds. And that's what you've given me. That's what I'd hoped to give you forever.” — Nicholas Sparks](http://goodreads.com/quotes/137748-the-best-love-is-the-kind-that-awakens-the-soul)
+
+---
+
+[“Where the mind is without fear and the head is held high; Where knowledge is free; Where the world has not been broken up into fragments by narrow domestic walls; Where words come out from the depth of truth; Where tireless striving stretches its arms toward perfection; Where the clear stream of reason has not lost its way into the dreary desert sand of dead habit; Where the mind is led forward by thee into ever-widening thought and action - Into that heaven of freedom, my Father, let my country awake.” — Rabindranath Tagore, Gitanjali](http://goodreads.com/quotes/217931-where-the-mind-is-without-fear-and-the-head-is)
