@@ -1,6 +1,6 @@
 ---
 title: How to use AI effectively
-modified: 2026-08-31
+modified: 2026-09-30
 ---
 
 > The dumbest person you know is currently being told “You’re absolutely right!” by ChatGPT.
@@ -48,7 +48,7 @@ AI is not just a tool, but an extension of our will, allowing us to accomplish f
 
 ---
 
-1. Prompt Engineering (提示詞工程)
+1. [Prompt Engineering](prompt-engineering.md) (提示詞工程)
 2. Context Engineering (脈絡工程)
 3. Harness Engineering (駕馭工程)
 
@@ -61,43 +61,6 @@ AI is not just a tool, but an extension of our will, allowing us to accomplish f
 # A/B Testing
 
 Develop an _[experimental mindset](the-growth-mindset.md)_ when using AI—treating it as a partner to learn from through trial and error.
-
----
-
-Basic Invitation Structure: _“Act as a \[ROLE\] perform \[TASK\] in \[FORMAT\]”_
-
----
-
-The best way to create prompts is to ask the AI agent to create them for you.
-
----
-
-# [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) by Andrew Ng
-
-* Start general, then get specific.
-
-	```text
-    Generate a Calculator class.
-    Add methods for addition, subtraction, multiplication, division, and factorial.
-    Don’t use any external libraries and don’t use recursion.
-    ```
-
-* Break down complex tasks into simpler tasks. For example, instead of asking AI to generate a meal planner app, break it down into smaller tasks:
-	* Generate a function that takes a list of ingredients and returns a list of recipes.
-	* Generate a function that takes a list of recipes and returns a shopping list.
-	* Generate a function that takes a list of recipes and returns a meal plan for the week.
-* Iterate on your prompts. Provide follow-up prompts to refine or modify the response. For example:
-	* “Write a function to calculate the factorial of a number.”
-	* “Don’t use recursion and optimize by using caching.”
-	* “Use meaningful variable names.”
-* Give examples of what you want.
-
-	```text
-    Generate a function that takes a string and returns the number of vowels in it.
-    Example:
-    findVowels("hello") returns 2
-    findVowels("sky") returns 0
-    ```
 
 ---
 
@@ -129,12 +92,7 @@ A good LLM serves as a great groove-greaser / a productivity catalyst—helping 
 
 ## [Best practices for using AI in VS Code](https://code.visualstudio.com/docs/copilot/copilot-tips-and-tricks)
 
-* Write natural language comments before coding:
-
-	```python
-	# Function to fetch user data from an API and return JSON response
-	```
-
+* ⭐️ Write natural language comments before coding:
 	* Helps in generating **more relevant** code
 	* Works well for boilerplate and repetitive tasks
 * Use Copilot **as an assistant, not a replacement** :
@@ -149,14 +107,6 @@ A good LLM serves as a great groove-greaser / a productivity catalyst—helping 
 	* Drag and drop files, folders, or editor tabs onto the chat prompt.
 	* Add problems, test failures, or terminal output to your prompt.
 	* Add images or screenshots to your prompt.
-
----
-
-[AI Prompt Hacks](ai-prompt-hacks.md)
-
----
-
-[Getting Started with AI: Good Enough Prompting](https://huam.ing/getting-started-with-ai-good-enough-prompting)
 
 [^1]: 修潤，而非生成。
 [^2]: Why? They often hallucinate confidently.（一本正經地胡說八道/講幹話、似是而非、包裝得煞有其事）
