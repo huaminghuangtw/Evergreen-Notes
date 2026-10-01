@@ -1,6 +1,6 @@
 ---
 title: Supplements
-modified: 2026-09-03
+modified: 2026-10-01
 ---
 
 > “Be the kind of person who takes supplements, then skip the supplements.” — Michael Pollan, [Food Rules: An Eater’s Manual](https://www.goodreads.com/work/quotes/7261546)
@@ -54,19 +54,6 @@ Supplement to Microspike Dopamine
 * The Depot Effect: supplements are gradually released for hours and thus provided to the body through smaller “portions”, which are distributed throughout the day
 * Resveratrol: (1) a chemical mostly found in red grapes and products made from these grapes (e.g., wine) (2) helpful for type 2 diabetes
 * 蝦清素
-
-# Brands
-
-* Create’s delicious Creatine Monohydrate Gummier
-* Bio.me (Resistant Strach)
-* LMNT (Electrolyte Powder)
-	* <https://click.convertkit-mail4.com/wvu9964w0mbgh5xromnhoieweekxx/x0hph6hwdp93gec5/aHR0cDovL2RyaW5rbG1udC5jb20vVGhlQ3VyaW9zaXR5Q2hyb25pY2xl>
-* <https://takethesis.com/pages/huberman>
-* House of Macadamias
-* MMM Supplements
-* Momentous
-* Nordic Naturals
-* Renue by Science
 
 ---
 
