@@ -1,6 +1,6 @@
 ---
 title: Two Types of Work
-modified: 2026-07-19
+modified: 2026-10-01
 ---
 
 > “If you don’t produce, you won’t thrive—no matter how skilled or talented you are.” — Cal Newport, _Deep Work_
@@ -34,7 +34,7 @@ modified: 2026-07-19
 
 ---
 
-It’s crucial to schedule time for both types of work to keep life in order. Think of it like managing a boat: _admin tasks_ are like bailing out water that’s piling up — essential for keeping the boat afloat but not propelling it forward. On the other hand, _focused tasks_ are like rowing, actively moving you toward your goals and desired direction. The art of productive living lies in allocating enough energy to reactive work to keep the boat afloat, while reserving most of your finite cognitive energy for reflective work that moves you forward.
+It’s crucial to schedule time for both types of work to keep life in order. Think of it like managing a boat: _admin tasks_ are like bailing out water that’s piling up — essential for keeping the boat afloat but not propelling it forward. On the other hand, _focused tasks_ are like rowing, actively moving you toward your goals and desired direction. The balance lies in allocating enough energy to reactive work to keep the boat afloat, while reserving most of your finite cognitive energy for reflective work that moves you forward.
 
 ---
 
