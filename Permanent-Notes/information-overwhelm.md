@@ -1,6 +1,6 @@
 ---
 title: Information Overwhelm
-modified: 2026-08-17
+modified: 2026-10-01
 ---
 
 # The Problem
@@ -114,6 +114,7 @@ modified: 2026-08-17
 > “To attain knowledge add things every day. To attain wisdom [subtract](addition-by-subtraction.md) things every day.” — Lao Tzu
 
 * Information is raw, abundant, and cheap. Knowledge is processed, organized, and connected to experience. Wisdom is knowing which knowledge to apply, when, and why.
+* Transforming _information_ into true, critical _knowledge_ requires focused attention and memory consolidation.
 * The pipeline: **Data → Information → Knowledge → Wisdom**. Most of us stop at the first step — data consumption — and mistake it for the last.
 * 批判 & 獨立思考的能力至關重要
 
