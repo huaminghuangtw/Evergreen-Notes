@@ -361,3 +361,7 @@ Niksen，荷蘭引以為傲的生活哲學，也就是無所事事。
 ---
 
 [“Where the mind is without fear and the head is held high; Where knowledge is free; Where the world has not been broken up into fragments by narrow domestic walls; Where words come out from the depth of truth; Where tireless striving stretches its arms toward perfection; Where the clear stream of reason has not lost its way into the dreary desert sand of dead habit; Where the mind is led forward by thee into ever-widening thought and action - Into that heaven of freedom, my Father, let my country awake.” — Rabindranath Tagore, Gitanjali](http://goodreads.com/quotes/217931-where-the-mind-is-without-fear-and-the-head-is)
+
+---
+
+You can tell a lot about someone’s character by the way they treat service personels like waiters, guards, cashiers, etc.
