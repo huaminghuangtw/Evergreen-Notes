@@ -1,6 +1,6 @@
 ---
 title: Fame
-modified: 2026-09-04
+modified: 2026-10-01
 ---
 
 > “Uneasy lies the head that wears a crown.” — William Shakespeare
@@ -40,6 +40,12 @@ Keep quiet about your… (不要張揚這些事)
 * Love Life
 * Next Move
 * Family Issues
+
+---
+
+# Knowing more means liking less
+
+[The better people get to know one another, the more differences they tend to notice—and the more likely they are to dislike each other.](https://youtu.be/WrQesbxOFNo?t=1608s)
 
 ---
 
