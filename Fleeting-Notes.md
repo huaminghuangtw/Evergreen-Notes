@@ -365,3 +365,7 @@ Niksen，荷蘭引以為傲的生活哲學，也就是無所事事。
 ---
 
 You can tell a lot about someone’s character by the way they treat service personels like waiters, guards, cashiers, etc.
+
+---
+
+[“Moving on is easy. It's staying moved on that's trickier.” — Katerina Stoykova Klemer](http://goodreads.com/quotes/267704-moving-on-is-easy-it-s-staying-moved-on-that-s-trickier)
