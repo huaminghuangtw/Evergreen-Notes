@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-09-29
+modified: 2026-10-03
 ---
 
 > [“The work is behind the scene. Competition is the easy part.” — Usain Bolt](https://youtu.be/LEIxpcYukqc?t=113s) [^1]
@@ -79,7 +79,6 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 
 ---
 
-* [Wrap up your keys for running](https://sketchplanations.com/wrap-up-your-keys-for-running)
 * 跑步前確實做好熱身動作 (彈性練習): (1) 墊腳尖 (2) 原地踮腳跳 (3) 原地單腳跳 (三下為一拍)
 * 跑步前做「登階跳」: (1) 跳的時候，下面那隻腳不發力 (2) 雙手幫忙擺臂，帶動身體的重心轉換 → 抓準發力的時間點，讓跑步動作更有效率、更協調
 * Shin Training
