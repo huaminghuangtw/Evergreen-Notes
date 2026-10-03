@@ -1,6 +1,6 @@
 ---
 title: Be a habit and routine machine
-modified: 2026-09-08
+modified: 2026-10-03
 ---
 
 > “Outer order contributes to inner calm.” — Gretchen Rubin
@@ -63,9 +63,10 @@ Intention → Action → Practice → Consistency → **Habit** → Simply Who Y
 
 # [The 95% Compliance Rule by Sahil Bloom](https://x.com/SahilBloom/status/1832407335303835752)
 
-Focus on 95% compliance with any routine. It’s high enough to get the benefits of the structure, but leaves room (unstructured times) for the 5% chaos where a lot of incredible memories are made.
+> More often than not (= usually)
 
-More often than not (= usually)
+* Focus on 95% compliance with any routine. It’s high enough to get the benefits of the structure, but leaves room (unstructured times) for the 5% chaos where a lot of incredible memories are made.
+* Don’t be too rigid. A routine is a tool you pick up, not a cage you climb into, and the very structures meant to _serve_ you can quietly start to _own_ you. Structure should give your days a spine, not a straitjacket. Build routines you can bend without breaking, because _the best routine is the one you can break_: a rhythm you are afraid to interrupt is no longer discipline, but dependence.
 
 ---
 
