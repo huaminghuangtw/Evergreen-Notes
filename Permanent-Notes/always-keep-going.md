@@ -1,6 +1,6 @@
 ---
 title: Always keep going
-modified: 2026-09-28
+modified: 2026-10-03
 ---
 
 > [“Remember diamonds are created under pressure so hold on, it will be your time to shine soon.” — Sope Agbelusi](https://www.goodreads.com/quotes/7900485-remember-diamonds-are-created-under-pressure-so-hold-on-it)
@@ -24,6 +24,8 @@ modified: 2026-09-28
 > “If you can’t fly, run. If you can’t run, walk. If you can’t walk, crawl, but by all means, keep moving.” — Martin Luther King, Jr.
 
 > [“What’s done is done. What’s gone is gone. One of life’s lessons is always moving on. It’s okay to look back to see how far you’ve come but keep moving forward.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7711460-what-s-done-is-done-what-s-gone-is-gone-one-of)
+
+> [“Moving on is easy. It’s staying moved on that’s trickier.” — Katerina Stoykova Klemer](http://goodreads.com/quotes/267704-moving-on-is-easy-it-s-staying-moved-on-that-s-trickier)
 
 ---
 
