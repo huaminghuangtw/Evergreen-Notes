@@ -1,6 +1,6 @@
 ---
 title: Love
-modified: 2026-08-22
+modified: 2026-10-03
 ---
 
 > “Love is the absence of judgment.” — Dalai Lama
@@ -75,6 +75,8 @@ modified: 2026-08-22
 > 愛情是嘆息吹起的一陣煙。
 
 > “I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.” — Steve Maraboli
+
+> [“The best love is the kind that awakens the soul and makes us reach for more, that plants a fire in our hearts and brings peace to our minds. And that’s what you’ve given me. That’s what I’d hoped to give you forever.” — Nicholas Sparks](http://goodreads.com/quotes/137748-the-best-love-is-the-kind-that-awakens-the-soul)
 
 ---
 
