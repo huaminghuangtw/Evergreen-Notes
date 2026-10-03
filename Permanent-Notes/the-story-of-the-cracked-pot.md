@@ -1,7 +1,11 @@
 ---
 title: The Story of the Cracked Pot
-modified: 2026-09-03
+modified: 2026-10-03
 ---
+
+| ![](https://media.huam.ing/image/0e9cb673216f414e9e653943dcd8f54f.webp) |
+| :-: |
+| <sub>不完美就是一種完整。</sub> |
 
 > There was an old man who lived in a village in India. Every morning, he would place a long stick across his back, hang a water pot from each end, and walk several miles to the river to get fresh water for his family.
 >
@@ -39,6 +43,27 @@ You are the cracked pot. Perfectly imperfect. Remember that. [^1]
 * Look for ways to use [your unique experiences](specific-knowledge.md) to help others.
 * Remember that [value is not always measured by conventional standards of success](what-success-means-to-me.md).
 
+---
+
+# The Power of Embracing Imperfection
+
 > “There is a crack in everything, that’s how the light gets in.” — Leonard Cohen
+
+> “Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.” — Bob Marley
+
+> 修真養性，服食導引，卻病延年，沖舉可俟。
+> —《東周列國志》第 87 回
+
+> 比丘常帶三分病，是助道因緣。
+
+You are not perfect, nor should you try to be. Your flaws attract the right people you want to be around and filter out those who don’t belong.
+
+---
+
+[Wabi-sabi](wabi-sabi.md)
+
+---
+
+[Kintsugi](Kintsugi.md)
 
 [^1]: You are not perfect, nor should you try to be.
