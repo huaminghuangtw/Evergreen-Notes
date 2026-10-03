@@ -1,6 +1,6 @@
 ---
 title: Perfectionism
-modified: 2026-08-14
+modified: 2026-10-03
 ---
 
 > “All software has bugs — it’s just a fact of life. You.” — Jason Fried, [Getting Real](https://www.goodreads.com/work/quotes/72546)
@@ -31,23 +31,6 @@ Perfectionism is a [double-edged sword (雙面刃)](duality-vs-polarity.md). On 
 
 * Embracing this mindset allows for a more balanced approach to perfectionism.
 * Remember: You have to start poorly to end well.
-
----
-
-# The Power of Embracing Imperfection
-
-> “Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.” — Bob Marley
-
-[Kintsugi](https://www.google.com/search?q=Kintsugi)—the Japanese practice of repairing broken pottery with gold, rendering a new piece that is more exquisite than it was before the break.
-
-You are not perfect, nor should you try to be. Your flaws attract the right people you want to be around and filter out those who don’t belong.
-
-> 修真養性，服食導引，卻病延年，沖舉可俟。
-> —《東周列國志》第 87 回
-
-> 比丘常帶三分病，是助道因緣。
-
-[The Catfish Effect](the-catfish-effect.md)
 
 ---
 
