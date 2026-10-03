@@ -1,6 +1,6 @@
 ---
 title: Self-compassion
-modified: 2026-07-25
+modified: 2026-10-03
 ---
 
 > “The man who renounces himself, comes to himself.” — Ralph Waldo Emerson
@@ -67,7 +67,7 @@ To embrace oneself fully, to understand our imperfections, to accept one’s tru
 
 ---
 
-Embrace every aspect of yourself (your entirety), including strengths and weaknesses, rather than striving for an unattainable ideal of perfection. You are a perfectly imperfect person. You are whole in your own right. When you authentically manifest your deep presence in the world, every action becomes a natural expression of your truth. Truth is more than just honesty or the absence of lies. It is a deeper connection to who you truly are, an alignment with your soul. 💪
+Embrace every aspect of yourself (your entirety), including strengths and weaknesses, rather than striving for an unattainable ideal of perfection. You are a [perfectly imperfect](the-story-of-the-cracked-pot.md) person. You are whole in your own right. When you authentically manifest your deep presence in the world, every action becomes a natural expression of your truth. Truth is more than just honesty or the absence of lies. It is a deeper connection to who you truly are, an alignment with your soul. 💪
 
 ---
 
