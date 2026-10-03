@@ -1,6 +1,6 @@
 ---
 title: Wu Wei
-modified: 2026-08-02
+modified: 2026-10-03
 ---
 
 > “Nature never hurries, yet everything is accomplished.” — Lao Tzu
@@ -74,6 +74,10 @@ By “don’t do anything,” I mean don’t move, don’t fidget, don’t indul
 By “be content,” I mean be completely okay with your experience of doing nothing. Don’t try to change anything, and don’t get impatient with what’s happening. Be completely okay for three minutes.
 
 _It’s oddly difficult to do nothing, and while you’re doing nothing, it’s oddly difficult to feel at ease._ There’s such a strong urge to do something: look around the room, rehash a conversation, explore your incisors with your tongue, wiggle your toes, anything. When you stop doing everything and just **exist**, you almost feel like you’re dying.
+
+---
+
+[Niksen](https://www.google.com/search?q=Niksen)，荷蘭引以為傲的生活哲學，也就是無所事事。
 
 ---
 
