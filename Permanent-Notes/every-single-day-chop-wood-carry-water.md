@@ -1,6 +1,6 @@
 ---
 title: Every single day, chop wood, carry water
-modified: 2026-08-22
+modified: 2026-10-03
 ---
 
 > “We are what we repeatedly do.” — Aristotle
@@ -145,9 +145,14 @@ Embrace the daily mundane activities / ordinary actions. Find the lifelong rhyth
 
 # [恆毅力 (Grit) = perseverance and passion for very long term goals](https://youtu.be/H14bBuluwB8)
 
+> [Slow and steady wins the race.](slow-down-to-speed-up.md)
+
 * Perseverance is not a long race; it is many short races one after another.
 * Don’t mistake _hustle_ for _grit_. Real grit is [finishing what you start](the-hofstadters-law.md) when it’s no longer exciting. It’s important to knowing when to _grit_ and when to _[quit](the-art-of-quitting.md)_.
-* [“Slow and steady wins the race.”](slow-down-to-speed-up.md)
+
+---
+
+芬蘭語 [Sisu](https://www.google.com/search?q=Sisu+芬蘭)
 
 ---
 
