@@ -1,6 +1,6 @@
 ---
 title: Speak less, listen more
-modified: 2026-09-03
+modified: 2026-10-03
 ---
 
 > [“Shallow rivers are noisy. Deep lakes are silent.” — Derek Sivers](https://sive.rs/h)
@@ -47,6 +47,8 @@ What is not full rattles loudly; what is full rests quiet.
 The sea is pure only in its depths.
 
 ---
+
+# 靜默是最深層的語言
 
 Silence is more eloquent than [words](be-impeccable-with-your-word.md). Silence speaks volumes.
 
