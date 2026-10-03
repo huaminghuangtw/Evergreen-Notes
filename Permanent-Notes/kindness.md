@@ -1,6 +1,6 @@
 ---
 title: Kindness
-modified: 2026-09-14
+modified: 2026-10-03
 ---
 
 > “Kindness is a language which the deaf can hear and the blind can see.” — Mark Twain
@@ -60,7 +60,7 @@ Treat everyone as equal, regardless of status or age. Avoid hierarchical thinkin
 
 You are how you treat people when nobody’s watching. [Character is who you are when nobody’s watching.](character-is-who-you-are-when-nobodys-watching.md)
 
-You can tell a lot about someone’s character by how they treat service staff.
+You can tell a lot about someone’s character by the way they treat service staff like waiters, guards, cashiers, etc.
 
 > 觀察一個人對待服務生/侍者的態度，就可以大致看出一個人的真實性格。若是採取冷漠和輕視的態度，或是命令的口氣，就可以知道這個人不適合長期來往，因為有很大的機率，他們內心有一種優越感，認為自己比別人高級，缺乏站在他人角度思考的同理心。
 
