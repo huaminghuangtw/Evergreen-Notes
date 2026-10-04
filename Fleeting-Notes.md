@@ -1,5 +1,5 @@
 ---
-modified: 2026-10-03
+modified: 2026-10-04
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -292,20 +292,6 @@ Shisa Kanko, pointing and calling
 
 ---
 
-過碳酸鈉 ACTIVE OXYGEN
-
-* 去漬 + 殺菌＋去 + 消臭＋漂白＋去螨
-* 清洗衣服/襪子/床被單，可適量添加，特別適合於白色衣物
-* 洗淨茶垢、咖啡漬、碗盤上的頑漬
-* 清潔廚房抽油煙機，油垢、抹布龜清理浴室污垢、黃斑、霉菌
-* 洗淨洗衣機內槽污垢
-
----
-
-瑞典日記：[Why You Need to Subtract: The Vasa Effect | The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/why-you-need-to-subtract-the-vasa-effect)
-
----
-
 阿米什人 Amish
 
 ---
@@ -331,5 +317,3 @@ Are you doing less of that thing than before? In other words, did the newfound e
 Was that your intended result? Sometimes, we intended for the efficiency to allow us to get more of that thing done. Sometimes, not. Notice the difference.
 
 Price-to-earnings
-
----
