@@ -64,6 +64,6 @@ You are not perfect, nor should you try to be. Your flaws attract the right peop
 
 ---
 
-[Kintsugi](Kintsugi.md)
+[kintsugi](kintsugi.md)
 
 [^1]: You are not perfect, nor should you try to be.
