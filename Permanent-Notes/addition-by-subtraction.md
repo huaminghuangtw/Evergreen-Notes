@@ -1,6 +1,6 @@
 ---
 title: Addition by subtraction
-modified: 2026-08-04
+modified: 2026-10-04
 ---
 
 > “Simplify, then add lightness.” — Colin Chapman, founder of Lotus Card
@@ -56,3 +56,7 @@ The path of removal
 ---
 
 [Simple is beautiful](simple-is-beautiful.md)
+
+---
+
+[Why You Need to Subtract: The Vasa Effect](https://www.sahilbloom.com/newsletter/why-you-need-to-subtract-the-vasa-effect)
