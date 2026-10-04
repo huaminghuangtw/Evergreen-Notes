@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-10-03
+modified: 2026-10-04
 ---
 
 > [“The work is behind the scene. Competition is the easy part.” — Usain Bolt](https://youtu.be/LEIxpcYukqc?t=113s) [^1]
@@ -273,7 +273,7 @@ At the start of your training, replace a weekly tempo run with 5 miles at your *
 
 # Long Run Workouts
 
-> 不應超過週跑量的 25–30%
+> 不應超過週跑量的 25–30% 或 18–22 miles（29–35 kms）
 
 * **Optimal Duration:** The greatest aerobic benefits from long runs occur between 60 and 120 minutes. Beyond 2 hours, the additional gains decrease, and after 2.5 to 3 hours, the risk of injury and excessive fatigue rises significantly.
 * **Risk Management:** Running longer than 2.5 hours increases your risk of overuse injuries, poor recovery, and diminishing returns in fitness. For most runners, capping the long run at 3 hours is a smart, sustainable approach.
