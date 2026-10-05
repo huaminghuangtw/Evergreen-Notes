@@ -1,6 +1,6 @@
 ---
 title: Specialization is for insects
-modified: 2026-09-03
+modified: 2026-10-05
 ---
 
 > “At some level, all humans are broad. We’re all multivariate/multifaceted, but we get summarized in pithy ways in our lives.” — Naval Ravikant
@@ -18,6 +18,10 @@ modified: 2026-09-03
 ![](https://media.huam.ing/image/e9bb03ad356d27a9e28b36f9e5ea7c0f.webp)
 
 ![](https://media.huam.ing/image/31bfb57423212e7f5a7dae4bb5979390.webp)
+
+---
+
+**Hybridize > Generalize > Specialize**
 
 ---
 
