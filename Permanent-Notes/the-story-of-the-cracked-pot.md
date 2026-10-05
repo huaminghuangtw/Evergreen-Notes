@@ -1,6 +1,6 @@
 ---
 title: The Story of the Cracked Pot
-modified: 2026-10-03
+modified: 2026-10-05
 ---
 
 | ![](https://media.huam.ing/image/0e9cb673216f414e9e653943dcd8f54f.webp) |
@@ -57,6 +57,8 @@ You are the cracked pot. Perfectly imperfect. Remember that. [^1]
 > 比丘常帶三分病，是助道因緣。
 
 You are not perfect, nor should you try to be. Your flaws attract the right people you want to be around and filter out those who don’t belong.
+
+Being happy doesn’t mean that everything is perfect. It means that you decided to look beyond the imperfections.
 
 ---
 
