@@ -1,6 +1,6 @@
 ---
 title: Solitude
-modified: 2026-08-24
+modified: 2026-10-05
 ---
 
 > “Solitude gives birth to the original in us.” — Thomas Mann
@@ -26,6 +26,8 @@ Staying alone is better than staying with the wrong.
 To shine in the light, you have to embrace the boredom in the dark.
 
 ---
+
+# Life is in those mundane moments
 
 There are many elements of [living a good life](how-to-live-a-life.md), but the first and most foundational is to [love yourself](self-compassion.md) and enjoy spending time with yourself.
 
