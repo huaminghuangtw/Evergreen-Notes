@@ -1,6 +1,6 @@
 ---
 title: Specific Knowledge
-modified: 2026-09-01
+modified: 2026-10-05
 ---
 
 > “Specific knowledge is found much more by pursuing your innate talents, your [genuine curiosity](stay-curious.md), and your passion. It’s not by going to school for whatever is the hottest job.” — Naval Ravikant
@@ -52,6 +52,8 @@ When the work is a full expression of who you are, you don’t need to summon mo
 ---
 
 # The Top-25% Stacking Strategy
+
+> [“Someone with B+ intelligence in several fields likely has a better grasp of how the world works than someone with A+ intelligence in one field.” — Morgen Housel](https://collabfund.com/blog/different-kinds-of-smart)
 
 Specific knowledge is rarely a single skill — it is often a **rare combination** of skills. It is brutally hard to be the top 1% in any single field, but far easier to be in the top 25% of two (or more) skills, and the _combination itself_ is what becomes hard to replicate.
 
