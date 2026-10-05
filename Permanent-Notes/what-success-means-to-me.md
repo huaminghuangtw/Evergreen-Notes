@@ -1,6 +1,6 @@
 ---
 title: What success means to me
-modified: 2026-07-20
+modified: 2026-10-05
 ---
 
 > “The road to success is always under construction.” — Steve Harvey
@@ -111,6 +111,10 @@ The most important thing in life is _not having_ what you want, but _knowing_ wh
 ---
 
 If you love what you’re doing, then you’ve already succeeded.
+
+> “Of all the things that can boost emotions, motivation, and perceptions during a workday, the single most important is making progress in meaningful work.” — Teresa Amabile
+
+> “The best prize that life has to offer is the chance to work hard at work worth doing.” — Theodore Roosevelt
 
 [^1]: It is insane to risk what you have and need for something you don’t have and need.
 [^2]: is the exclusive group/circle to which people are drown to and want to belong throughout their lives.
