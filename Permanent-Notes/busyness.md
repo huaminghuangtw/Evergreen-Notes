@@ -1,6 +1,6 @@
 ---
 title: Busyness
-modified: 2026-09-04
+modified: 2026-10-05
 ---
 
 > “Beware the barrenness of a busy life.” — Socrates
@@ -46,9 +46,9 @@ modified: 2026-09-04
 
 ---
 
-> “The best prize that life has to offer is the chance to work hard at work worth doing.” — Theodore Roosevelt
+# The most invisible form of wasted time is doing a good job on an unimportant task
 
-The most invisible form of wasted time is doing a good job on an unimportant task.
+It probably doesn’t look like lying in bed doing nothing for thirty years. It looks like a normal life: you wake up, answer messages, go to work, scroll for a bit, deal with whatever feels urgent, tell yourself you’ll start that thing when life gets less hectic, and go to sleep. Repeat that often enough and five years can disappear without a single memorable catastrophe. That’s what scares me. **A wasted life doesn’t feel wasted while you’re living it. It can feel productive, responsible, even successful.** You can spend decades _efficiently_ doing things that never mattered much to you. Maybe the question isn’t whether you’re doing enough with your life. Maybe it’s whether the things keeping you so busy deserve this much of you.
 
 ---
 
