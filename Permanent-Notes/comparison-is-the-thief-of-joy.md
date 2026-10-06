@@ -1,6 +1,6 @@
 ---
 title: Comparison is the thief of joy
-modified: 2026-09-03
+modified: 2026-10-05
 ---
 
 > ”Don’t bother just to be better than your contemporaries or predecessors. Try to be better than yourself.” — William Faulkner
@@ -101,6 +101,12 @@ There’s a saying I love:
 * At 18, you worry about what people think of you.
 * At 40, you stop caring what people think of you.
 * At 60, you realize nobody was thinking about you at all.
+
+---
+
+Don’t let your movie get put on pause watching someone else’s play out.
+
+> [You should be too busy working on your grass to notice others is greener.](https://www.reddit.com/r/GetMotivated/comments/fk2pol/image_im_too_busy_working_on_my_own_grass_to/) [Let the improvement of yourself keep you so busy that you have no time to criticize others.](https://www.goodreads.com/quotes/7973266-let-the-improvement-of-yourself-keep-you-so-busy-that) Water your own grass. Focus on bettering yourself.
 
 ---
 
