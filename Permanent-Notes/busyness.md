@@ -17,6 +17,8 @@ modified: 2026-10-05
 
 # Perpetual Busyness: We’re in the midst of a global busyness crisis
 
+> Overworking does not mean productive.
+
 * [The Busy Trap = The Rat Race](https://fs.blog/david-foster-wallace-this-is-water/) — A treadmill to nowhere
 
 	> = 瞎忙 = 窮忙 = 假勤奮 = 偽生產力 [^1]
