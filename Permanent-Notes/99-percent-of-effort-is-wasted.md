@@ -1,6 +1,6 @@
 ---
 title: 99% of effort is wasted
-modified: 2026-07-20
+modified: 2026-10-06
 ---
 
 [@jorgensonAlmanackNavalRavikant2021]
@@ -19,8 +19,8 @@ This is the same logic that underpins venture capital: _most investments fail, b
 
 ---
 
-[Eat the biggest frog first thing in the morning](eat-the-biggest-frog-first-thing-in-the-morning.md)
+[The Pareto Principle](the-pareto-principle.md)
 
 ---
 
-[The Pareto Principle](the-pareto-principle.md)
+[Eat the biggest frog first thing in the morning](eat-the-biggest-frog-first-thing-in-the-morning.md)
