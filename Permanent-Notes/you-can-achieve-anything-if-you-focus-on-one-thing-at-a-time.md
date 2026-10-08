@@ -1,6 +1,6 @@
 ---
 title: You can achieve anything if you focus on one thing at a time
-modified: 2026-08-07
+modified: 2026-10-08
 ---
 
 > If you chase two rabbits, you catch none.
@@ -10,6 +10,8 @@ modified: 2026-08-07
 > [“The only way to gain enough efficiency to complete The Art of Computer Programming is to operate in batch mode, concentrating intensively and uninterruptedly on one subject at a time, rather than swapping a number of topics in and out of my head.” — Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/retd.html)
 
 ---
+
+![](https://media.huam.ing/image/2df2226253a53b6875143048c9142395.webp)
 
 **Multitasking (多工)** is a myth. Focus on completing one task at a time _in series/sequence_; avoid multi-task _in parallel_.[^1]
 
