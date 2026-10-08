@@ -317,3 +317,9 @@ Are you doing less of that thing than before? In other words, did the newfound e
 Was that your intended result? Sometimes, we intended for the efficiency to allow us to get more of that thing done. Sometimes, not. Notice the difference.
 
 Price-to-earnings
+
+
+---
+
+An empty barrel makes the most noise.
+	> Deep ocean
