@@ -1,6 +1,6 @@
 ---
 title: Decision Making
-modified: 2026-09-17
+modified: 2026-10-09
 ---
 
 > “The decisions of our past are the architects of our present.” — Dan Brown
@@ -146,6 +146,14 @@ Razors
 	* If someone downplays their success or happiness, assume it’s double what they claim.
 		* If a person tells you why their thing (city, relationship, or job) is terrible, take it like a handful of gold.
 	* Beware of Trojan Horses (特洛伊木馬)
+* Occam’s razor
+	* When multiple explanations fit the evidence, the simplest one with the fewest assumptions is usually the best starting point.
+	* Example: Your phone won’t charge.
+		* Explanation A: The charging cable is broken.
+		* Explanation B: A rare software bug is interfering with the charging system.
+		Check the cable first. It’s simpler and more likely.
+	* The simplest explanation isn’t always correct. Occam’s razor is a rule of thumb for choosing where to start, not proof that an explanation is true.
+	* In practice: Don’t add complexity until the evidence requires it.
 * Taleb’s Surgeon
 	* If presented with two equal candidates for a role, pick the one that doesn’t “look the part” / with the least amount of charisma.
 	* The uncharismatic one has got there despite their lack of charisma. The charismatic one has got there with the aid of their charisma.
