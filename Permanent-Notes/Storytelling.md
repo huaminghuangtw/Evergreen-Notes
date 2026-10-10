@@ -1,7 +1,9 @@
 ---
 title: Storytelling
-modified: 2026-07-28
+modified: 2026-10-10
 ---
+
+> “The shortest distance between a human being and Truth is a story.” — Anthony de Mello
 
 > “Human thinking depends on metaphor. We understand new or complex things in relation to things we already know.” — Jonathan Haidt [^1]
 
