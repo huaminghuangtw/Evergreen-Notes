@@ -1,6 +1,6 @@
 ---
 title: 汗蒸幕 (Hanjeungmak)
-modified: 2026-09-03
+modified: 2026-10-10
 ---
 
 **汗蒸幕 (hanjeungmak, 한증막)** is the traditional Korean-style [sauna](sauna.md). it’s a form of deliberate heat exposure / thermotherapy
@@ -22,3 +22,7 @@ modified: 2026-09-03
 * **Body**: balances body pH; beauty (美容); weight loss (減肥); reduces water retention
 * **Systems**: improves blood circulation & respiratory function; relieves joint pain & inflammation/swelling; supports digestion and kidney function
 * **Immunity**: strengthens immunity; helps prevent colds
+
+# 為何汗蒸後不能馬上洗澡？
+
+汗蒸結束後，體溫仍高、皮膚血管仍擴張，散熱還沒結束，汗腺會繼續工作 — 這就是 **二次出汗**。若此時立刻沖冷水會使血管急速收縮、散熱中斷，容易頭痛、感冒，也讓汗蒸效果大打折扣。
