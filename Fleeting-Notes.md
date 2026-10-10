@@ -1,5 +1,5 @@
 ---
-modified: 2026-10-04
+modified: 2026-10-10
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -318,8 +318,26 @@ Was that your intended result? Sometimes, we intended for the efficiency to allo
 
 Price-to-earnings
 
+---
+
 
 ---
 
-An empty barrel makes the most noise.
-	> Deep ocean
+Baby Boomer
+
+---
+
+The cheapest thing you can buy is nothing.
+Nothing costs nothing.
+
+---
+
+A sixty-dollar gadget at half price doesn’t save you thirty dollars. It costs you thirty dollars you weren’t planning to spend
+
+---
+
+[“A good plan violently executed now is better than a perfect plan executed next week.” — George S. Patton](http://brainyquote.com/quotes/george_s_patton_138200)
+
+---
+
+A silver lining is a hopeful, positive aspect or advantage that comes out of a difficult, unpleasant, or unfortunate situation.
