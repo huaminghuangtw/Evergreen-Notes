@@ -1,6 +1,6 @@
 ---
 title: The Story of the Cracked Pot
-modified: 2026-10-05
+modified: 2026-10-11
 ---
 
 | ![](https://media.huam.ing/image/0e9cb673216f414e9e653943dcd8f54f.webp) |
