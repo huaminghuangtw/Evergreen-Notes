@@ -1,6 +1,6 @@
 ---
 title: Cultivate a strong bias towards action
-modified: 2026-08-14
+modified: 2026-10-11
 ---
 
 > “To be is to do.” — Immanuel Kant
@@ -51,6 +51,8 @@ modified: 2026-08-14
 
 > 不做不知道，做了才知道，犯錯沒關係，輸得起就好。
 > — 郝旭烈
+
+> [“A good plan violently executed now is better than a perfect plan executed next week.” — George S. Patton](http://brainyquote.com/quotes/george_s_patton_138200)
 
 ---
 
