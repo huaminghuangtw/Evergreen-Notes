@@ -1,5 +1,5 @@
 ---
-modified: 2026-10-10
+modified: 2026-10-11
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -320,7 +320,6 @@ Price-to-earnings
 
 ---
 
-
 ---
 
 Baby Boomer
@@ -328,6 +327,7 @@ Baby Boomer
 ---
 
 The cheapest thing you can buy is nothing.
+
 Nothing costs nothing.
 
 ---
@@ -336,8 +336,12 @@ A sixty-dollar gadget at half price doesn’t save you thirty dollars. It costs 
 
 ---
 
-[“A good plan violently executed now is better than a perfect plan executed next week.” — George S. Patton](http://brainyquote.com/quotes/george_s_patton_138200)
 
 ---
 
-A silver lining is a hopeful, positive aspect or advantage that comes out of a difficult, unpleasant, or unfortunate situation.
+今天是最年輕的一天：“Today, you have 100% of your life left.” — Tom Landry
+
+---
+
+Like people out loud.
+Being a loud liker costs you the occasional rejection and buys you nearly everything else.
