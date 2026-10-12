@@ -1,6 +1,6 @@
 ---
 title: Storytelling
-modified: 2026-10-10
+modified: 2026-10-12
 ---
 
 > “The shortest distance between a human being and Truth is a story.” — Anthony de Mello
@@ -12,6 +12,10 @@ modified: 2026-10-10
 ---
 
 The best way to share knowledge is to tell a story.
+
+---
+
+A good storyteller with a decent idea will always have more influence than someone with a great idea who hopes the facts will speak for themselves.
 
 ---
 
