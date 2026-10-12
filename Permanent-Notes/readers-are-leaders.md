@@ -1,6 +1,6 @@
 ---
 title: Leaders are readers
-modified: 2026-08-28
+modified: 2026-10-12
 ---
 
 > “Not all readers are leaders, but all leaders are readers.” — Harry S. Truman
@@ -170,7 +170,10 @@ Prefer “audiobooks” over “physical books”. Research shows that listening
 
 ---
 
-「雜食」：It’s important to read unconventional books as well, not just New York Times Best Sellers.
+# 雜食
+
+* It’s important to read unconventional books as well, not just New York Times Best Sellers.
+* It is more productive to read _around_ one’s field (breadth) than _in_ one’s field (depth).
 
 ---
 
