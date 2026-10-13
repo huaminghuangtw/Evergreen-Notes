@@ -1,6 +1,6 @@
 ---
 title: Embrace the beauty of enoughness
-modified: 2026-08-22
+modified: 2026-10-13
 ---
 
 > 真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。
@@ -35,6 +35,10 @@ modified: 2026-08-22
 # Be content
 
 降低需求、[減少慾望](the-absence-of-desire-is-true-happiness.md)、知足常樂。
+
+> “Contentment, however, is more a state of psychological balance, not something we actively pursue—we feel contentment when we cherish the present moment.” — Marc Brackett, [Permission to Feel: The Power of Emotional Intelligence to Achieve Well-Being and Success](https://www.goodreads.com/work/quotes/68114068)
+
+> [How many times has the thing your younger self **dreamed of** become the thing you **complain about** after you’ve gotten it? Remember those moments when you wished for the gifts that you now have. Sometimes, you are quite literally living out your prayers. Remember that.](https://www.sahilbloom.com/newsletter/the-most-dangerous-trap-in-life)
 
 ---
 
