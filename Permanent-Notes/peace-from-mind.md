@@ -1,6 +1,6 @@
 ---
 title: Peace from mind
-modified: 2026-09-12
+modified: 2026-10-15
 ---
 
 > “I once asked a monk how he found peace. “I say ‘yes,’” he’d said. “To all that happens, I say ‘yes.” — Kamal Ravikant, [Love Yourself Like Your Life Depends On It](https://www.goodreads.com/work/quotes/21367410)
@@ -52,3 +52,10 @@ Not having the urge to explain or defend yourself is real inner peace.
 11. 規律生活：有良好的作息、飲食與運動習慣，生活節奏穩定。
 12. 對別人的愛意與慈愛分外有感，並讓愛傳出去。
 13. 與大自然有充分連結和感應，內心經常充滿感激。
+
+---
+
+《般若波羅蜜多心經》第一句「**觀自在菩薩**」，點出欲得「自在」，須在「觀」字下工夫。「觀」即內觀自覺：以正觀、正思惟，覺察每個起心動念，不比較、不計較、不強求，使「[六根](https://www.google.com/search?q=六根)」[^1] 接觸「[六塵](https://www.google.com/search?q=六塵)」[^2]，而不生貪欲執取，就能漸漸消除貪瞋癡三毒，擺脫煩惱、痛苦的束縛，讓心得得到清淨，回歸靈明善良的本性。
+
+[^1]: 接收資訊的感官：眼、耳、鼻、舌、身、意。
+[^2]: 感官所接觸的對象：色、聲、香、味、觸、法。
