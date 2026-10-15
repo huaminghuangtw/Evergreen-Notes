@@ -345,3 +345,11 @@ A sixty-dollar gadget at half price doesn’t save you thirty dollars. It costs 
 
 Like people out loud.
 Being a loud liker costs you the occasional rejection and buys you nearly everything else.
+
+---
+
+[How to tell a centipede from a millipede](https://sketchplanations.com/centipede-millipede)
+
+---
+
+a good presentation you should start by saying what you'll say, say it, then conclude by saying what you said.
