@@ -1,6 +1,6 @@
 ---
 title: Solitude
-modified: 2026-10-05
+modified: 2026-10-15
 ---
 
 > “Solitude gives birth to the original in us.” — Thomas Mann
@@ -22,6 +22,9 @@ modified: 2026-10-05
 Staying alone is better than staying with the wrong.
 
 ---
+
+> 其實人跟樹是一樣的，越是嚮往高處的陽光，它的根就越要伸向黑暗的地底。
+> — 尼采
 
 To shine in the light, you have to embrace the boredom in the dark.
 
