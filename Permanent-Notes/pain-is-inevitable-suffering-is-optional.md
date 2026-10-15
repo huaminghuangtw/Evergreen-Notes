@@ -1,6 +1,6 @@
 ---
 title: Pain is inevitable. Suffering is optional.
-modified: 2026-08-24
+modified: 2026-10-15
 ---
 
 > [“The trick is not minding that it hurts.”](https://youtu.be/TvQViPBAvPk) — [Lawrence of Arabia (1962 film)](https://www.imdb.com/title/tt0056172/)
@@ -12,6 +12,11 @@ modified: 2026-08-24
 > “Pain is neither unbearable nor unending, as long as you keep in mind its limits and don’t magnify them in your imagination.”
 
 > “Suffering is humbling. It pays to know how to get your butt kicked.” — Christopher McDougall, [Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen](https://www.goodreads.com/work/quotes/6473602)
+
+> “Je mehr er hinauf in die Höhe und Helle will, um so stärker streben seine Wurzeln erdwärts, abwärts, in’s Dunkle, Tiefe, — in’s Böse.” — Friedrich Nietzsche
+>
+> 其實人跟樹是一樣的，越是嚮往高處的陽光，它的根就越要伸向黑暗的地底。
+> — 尼采
 
 ---
 
