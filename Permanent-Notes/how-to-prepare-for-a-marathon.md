@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-10-04
+modified: 2026-10-16
 ---
 
 > [“The work is behind the scene. Competition is the easy part.” — Usain Bolt](https://youtu.be/LEIxpcYukqc?t=113s) [^1]
@@ -10,6 +10,8 @@ modified: 2026-10-04
 ---
 
 # Principles
+
+> “I train like I’ve never won, and I compete like I’ve never lost.” — Eileen Gu
 
 * Train smarter, not harder.
 * ⭐️ Start cautiously, finish strong.
