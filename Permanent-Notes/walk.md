@@ -1,6 +1,6 @@
 ---
 title: Walk
-modified: 2026-09-18
+modified: 2026-10-16
 ---
 
 > “A walk in nature walks the soul back home.” — Mary Davis
@@ -62,8 +62,7 @@ Goal: 8000–10000 steps per day
 
 # How To Get More Daily Walking Steps In?
 
-* Walk for transportation
-	* If you take a bus or train as part of your commute, getting off a stop or two earlier
+* Walk for transportation: if you take a bus or train as part of your commute, getting off a stop or two earlier
 * Try parking further
 * Use stairs instead of elevators
 * Take a 5-10 min post-meal walk
@@ -72,10 +71,14 @@ Goal: 8000–10000 steps per day
 # Tips
 
 * Walk alone or with someone else ([pair walking](https://www.google.com/search?q=pair+walking)). You can enjoy health benefits, plus enjoy your surroundings or enjoy a good conversation.
-* Frequent, multiple, and brief walking breaks throughout the day are more effective at improving well-being than a single, longish walk — especially if you’re busy or get fatigued easily.
-	* Devote _five minutes every hour_ to physical activity, whether you walk up and down a staircase, along a corridor or just pace around your office. [@bergouignanEffectFrequentInterruptions2016]
+* Frequent, multiple, and brief walking breaks throughout the day are more effective at improving well-being than a single, longish walk.
+
+	> Devote _five minutes every hour_ to physical activity, whether you walk up and down a staircase, along a corridor or just pace around your office. [@bergouignanEffectFrequentInterruptions2016]
+
 * Walk in nature (Park Walk) > Walk in urban (Street Walk) [@sellersTakeWalkPark2012] [@bratmanNatureExperienceReduces2015]
-	* Walking in nature significantly reduced rumination (the act of dwelling on negative thoughts, replaying mistakes, or worrying about the future) and activity in the corresponding part of the brain, while those assigned to urban walks experienced no notable impact, highlighting the enhanced mental health benefits of natural environments.
+
+	> Walking in nature significantly reduced rumination (the act of dwelling on [negative thoughts](negative-thoughts-and-emotions.md), replaying mistakes, or worrying about the future) and activity in the corresponding part of the brain, while those assigned to urban walks experienced no notable impact, highlighting the enhanced mental health benefits of natural environments.
+
 * **Break Walks**
 * **Active Walks:** I will often spend my active walks listening to an audiobook or podcast, or thinking about something specific that I want to work through (a problem, writing idea, etc.).
 * **Passive “Tech-Free” Walks**
@@ -85,7 +88,6 @@ Goal: 8000–10000 steps per day
 * Nordic Walking
 * Walking Meditation
 * Rucking: walking with weight on your back
-	* [GORUCK](https://www.goruck.com/)
 
 ---
 
