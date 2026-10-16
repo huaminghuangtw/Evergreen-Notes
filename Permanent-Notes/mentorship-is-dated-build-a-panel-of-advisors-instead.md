@@ -1,6 +1,6 @@
 ---
 title: Mentorship is dated, build a panel of advisors instead
-modified: 2026-09-10
+modified: 2026-10-16
 ---
 
 # Braintrust (Personal Advisory Board Of Mentors)
@@ -27,6 +27,18 @@ modified: 2026-09-10
 
 * also known as a “scrub-down”
 * is a committee of questioners set up to critically review a proposal and/or help someone prepare for a difficult oral examination.
+
+---
+
+[EILEEN GU: “The Ground Was Cracking Beneath Me.” | Jay Shetty](https://www.jayshetty.me/podcast/eileen-gu-the-ground-was-cracking-beneath-me)
+
+> [!TIP] Only use the following approaches with your [closest friends group](a-friend-to-all-is-a-friend-to-none.md).
+
+[36:55] **Constructive Criticism Circles (CCC)**
+
+“Hey guys, it’s Friday night, let’s sit in a circle and criticize each other!” 🤣
+
+[39:37] We have to say to each other’s face the things we say behind each other’s back.
 
 ---
 
