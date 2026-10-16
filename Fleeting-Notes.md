@@ -353,3 +353,19 @@ Being a loud liker costs you the occasional rejection and buys you nearly everyt
 ---
 
 a good presentation you should start by saying what you'll say, say it, then conclude by saying what you said.
+
+---
+
+If you want to know your past, look into your present conditions. If you want to know your future, look into your present actions.
+
+---
+
+[“According to Vedanta, there are only two symptoms of enlightenment, just two indications that a transformation is taking place within you toward a higher consciousness. The first symptom is that you stop worrying. Things don't bother you anymore. You become light-hearted and full of joy. The second symptom is that you encounter more and more meaningful coincidences in your life, more and more synchronicities. And this accelerates to the point where you actually experience the miraculous. (quoted by Carol Lynn Pearson in Consider the Butterfly).” — Deepak Chopra, SynchroDestiny: Harnessing the Infinite Power of Coincidence to Create Miracles](http://goodreads.com/quotes/48319-according-to-vedanta-there-are-only-two-symptoms-of-enlightenment)
+
+---
+
+the research that shared struggle releases oxytocin, the chemical that creates feelings of connection, trust, and empathy.
+
+---
+
+Over the years, I’ve shifted away from buying material things because I’ve realized that owning things means they end up owning your time.
