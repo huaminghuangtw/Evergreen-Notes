@@ -1,6 +1,6 @@
 ---
 title: Criticism
-modified: 2026-09-03
+modified: 2026-10-16
 ---
 
 > “To avoid criticism, do nothing, say nothing, be nothing.” — Elbert Hubbard
@@ -31,3 +31,17 @@ When receiving negative feedback, ask yourself:
 
 1. Should I change my procedure? (What I do)
 2. Or should I change my perception? (How I view it)
+
+---
+
+[EILEEN GU: “The Ground Was Cracking Beneath Me.” | Jay Shetty](https://www.jayshetty.me/podcast/eileen-gu-the-ground-was-cracking-beneath-me)
+
+> [36:39] Real resilience is being able to take constructive criticism without the emotions.
+
+> [!TIP] Only use the following approaches with your [closest friends group](a-friend-to-all-is-a-friend-to-none.md).
+
+[36:55] **Constructive Criticism Circles (CCC)**
+
+“Hey guys, it’s Friday night, let’s sit in a circle and criticize each other!” 🤣
+
+[39:37] We have to say to each other’s face the things we say behind each other’s back.
