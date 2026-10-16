@@ -1,9 +1,13 @@
 ---
 title: Wander
-modified: 2026-09-18
+modified: 2026-10-16
 ---
 
 > “Not all those who wander are lost.” — J.R.R. Tolkien
+
+---
+
+ = 漫步、閒晃、溜達 = saunter = stroll = walk in a slow, relaxed, and casual manner, with no particular destination or hurry.
 
 ---
 
