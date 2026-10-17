@@ -1,6 +1,6 @@
 ---
 title: Relationships
-modified: 2026-09-03
+modified: 2026-10-17
 ---
 
 > “The longer I live, the more deeply I learn that love — whether we call it friendship or family or romance — is the work of mirroring and magnifying each other’s light.” — James Baldwin
@@ -163,7 +163,7 @@ While small talk (= idle talk = chitchat) has its place [^3], real bonding/conve
 > “Trouble shared is trouble halved.” — Lee Iacocca
 
 * builds unbreakable bonds that transcend time and distance.
-* releases oxytocin, a chemical that creates feelings of love and connection.
+* releases oxytocin, a chemical that creates feelings of connection, trust, and empathy.
 
 True connection often come from overcoming challenges together.
 
