@@ -1,6 +1,6 @@
 ---
 title: Minimalism
-modified: 2026-09-17
+modified: 2026-10-17
 ---
 
 > “It is not a daily increase, but a daily decrease. Hack away at the inessentials.” — Bruce Lee
@@ -74,6 +74,10 @@ Always eliminate first, then accumulate.
 * 第一次支付是用金錢換取你想要的東西，比如一本書、一個 App 或是一輛自行車。
 * 但要真正享用這些東西，還需要進行第二次支付。這次支付的是你的時間和努力，才能從中獲得實際的價值。
 * 第二次支付的成本可能遠高於第一次支付。例如，購買一本書可能只需要 20 元，但真正讀完它可能需要花費 10 小時。只有完成第二次支付，這本書的價值才能真正體現。如果沒有第二次支付，那第一次支付幾乎毫無意義，和把錢丟進垃圾桶差不多。
+
+---
+
+Over the years, I’ve shifted away from buying material things because I’ve realized that owning things means they end up owning your time.
 
 ---
 
