@@ -1,6 +1,6 @@
 ---
 title: Money
-modified: 2026-09-10
+modified: 2026-10-17
 ---
 
 > “Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence
@@ -173,6 +173,9 @@ Reasonable Rational
 
 	> Before you buy something, ask yourself: Would I buy that thing if I couldn’t tell anyone about it?
 
+* Over the years, I’ve shifted away from buying material things because I’ve realized that owning things means they end up owning your time.
+* The cheapest thing you can buy is nothing. Nothing costs nothing.
+* A sixty-dollar gadget at half price doesn’t save you thirty dollars. It costs you thirty dollars you weren’t planning to spend.
 * The best uses of money are those that create one of four things in your life: **Time**, **Experiences**, **Purpose**, or **Health**.
 
 	> [“I try to keep in mind that there are two ways to use money. One is as a tool to live a better life. The other is as a yardstick of success to measure yourself against other people. The first is quiet and personal, the second is loud and performative. It’s so obvious which leads to a happier life.” — Morgen Housel](https://collabfund.com/blog/quiet-compounding/) [^8]
