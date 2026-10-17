@@ -1,6 +1,6 @@
 ---
 title: Public Speaking
-modified: 2026-09-03
+modified: 2026-10-17
 ---
 
 > “When speaking to an audience, pause frequently. Pause before you say something in a new way. Pause after you have said something you believe is important. And pause as a relief to let listeners absorb details.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
@@ -76,6 +76,10 @@ Pregnant Pause/Silence = A pause that…
 ---
 
 The goal of any pitches/presentations: understandable/easy-to-understand for others
+
+---
+
+A good presentation you should start by saying what you’ll say, say it, then conclude by saying what you said.
 
 ---
 
