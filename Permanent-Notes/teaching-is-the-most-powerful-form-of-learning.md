@@ -1,6 +1,6 @@
 ---
 title: Teaching is the most powerful form of learning
-modified: 2026-09-30
+modified: 2026-10-17
 ---
 
 > “The best teachers are those who show you where to look, but don’t tell you what to see.” — Alexandra K. Trenfor
@@ -33,7 +33,8 @@ The person who learns the most in any classroom is the teacher. When you teach s
 
 > “Those who know, do. Those that understand, teach.” — Aristotle
 
-You don’t fully understand a thing until you try to explain/speak for it.
+* You don’t fully understand a thing until you try to explain/speak for it.
+* Sometimes our gaps in understanding only become clear when we try to explain something to someone else.
 
 ---
 
