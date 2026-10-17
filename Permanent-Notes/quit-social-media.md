@@ -1,6 +1,6 @@
 ---
 title: Quit social media
-modified: 2026-07-31
+modified: 2026-10-17
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -57,7 +57,7 @@ The goal of social media is to make every problem, your problem.
 
 ---
 
-頭號時間殺手/小偷 (No.1 Timer Killer/Thief) 🪬
+注意力黑洞、頭號時間殺手/小偷 (No.1 Timer Killer/Thief) 🪬
 
 ---
 
