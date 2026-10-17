@@ -1,5 +1,5 @@
 ---
-modified: 2026-10-11
+modified: 2026-10-17
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -320,52 +320,4 @@ Price-to-earnings
 
 ---
 
----
-
 Baby Boomer
-
----
-
-The cheapest thing you can buy is nothing.
-
-Nothing costs nothing.
-
----
-
-A sixty-dollar gadget at half price doesn’t save you thirty dollars. It costs you thirty dollars you weren’t planning to spend
-
----
-
-
----
-
-今天是最年輕的一天：“Today, you have 100% of your life left.” — Tom Landry
-
----
-
-Like people out loud.
-Being a loud liker costs you the occasional rejection and buys you nearly everything else.
-
----
-
-[How to tell a centipede from a millipede](https://sketchplanations.com/centipede-millipede)
-
----
-
-a good presentation you should start by saying what you'll say, say it, then conclude by saying what you said.
-
----
-
-If you want to know your past, look into your present conditions. If you want to know your future, look into your present actions.
-
----
-
-[“According to Vedanta, there are only two symptoms of enlightenment, just two indications that a transformation is taking place within you toward a higher consciousness. The first symptom is that you stop worrying. Things don't bother you anymore. You become light-hearted and full of joy. The second symptom is that you encounter more and more meaningful coincidences in your life, more and more synchronicities. And this accelerates to the point where you actually experience the miraculous. (quoted by Carol Lynn Pearson in Consider the Butterfly).” — Deepak Chopra, SynchroDestiny: Harnessing the Infinite Power of Coincidence to Create Miracles](http://goodreads.com/quotes/48319-according-to-vedanta-there-are-only-two-symptoms-of-enlightenment)
-
----
-
-the research that shared struggle releases oxytocin, the chemical that creates feelings of connection, trust, and empathy.
-
----
-
-Over the years, I’ve shifted away from buying material things because I’ve realized that owning things means they end up owning your time.
