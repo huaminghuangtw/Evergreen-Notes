@@ -1,6 +1,6 @@
 ---
 title: Spirituality
-modified: 2026-09-03
+modified: 2026-10-17
 ---
 
 > “Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.” — Eckhart Tolle
@@ -25,3 +25,7 @@ modified: 2026-09-03
 ---
 
 Spiritual Elevation ↔ Spiritual Degradation/Decay
+
+---
+
+According to Vedanta, there are only two symptoms of enlightenment. The first symptom is that you stop worrying. Things don’t bother you anymore. You become light-hearted and full of joy. The second symptom is that you encounter more and more meaningful coincidences in your life, more and more synchronicities. And this accelerates to the point where you actually experience the miraculous.
