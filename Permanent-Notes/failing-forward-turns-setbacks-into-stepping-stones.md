@@ -1,6 +1,6 @@
 ---
 title: Failing forward turns setbacks into stepping stones
-modified: 2026-08-15
+modified: 2026-10-18
 ---
 
 > “A stumble may prevent a fall.” — Gretchen Rubin
@@ -29,7 +29,7 @@ You don’t have to get it right the first time. Just fail faster.
 
 # Failing Forward
 
-If you want to _win_, you have to _lose_ first. All _success_ begins with _failure_.
+If you want to _win_, you have to _lose_ first. All _success_ begins with _failure_. Failure is success if you learn from it.
 
 > “One fails forward toward success.” — Charles Kettering
 
