@@ -1,6 +1,6 @@
 ---
 title: Death
-modified: 2026-08-17
+modified: 2026-10-18
 ---
 
 > “Dying is active. Dying is not what happens to you. Dying is what you do.” — Stephen Jenkinson, [Die Wise: A Manifesto for Sanity and Soul](https://www.goodreads.com/work/quotes/42243793)
@@ -12,6 +12,10 @@ modified: 2026-08-17
 [@markaurelMeditations2006]
 
 > “Death. The end of sense-perception, of being controlled by our emotions, of mental activity, of enslavement to our bodies.”
+
+> [Der Sinn des Lebens liegt darin, dass es aufhört.](http://www.godic.net/home/dailysentence/65b2750d-5c1a-4545-ad92-6dc2f36a0273)
+>
+> 生命的意義在於它會停止。
 
 ---
 
