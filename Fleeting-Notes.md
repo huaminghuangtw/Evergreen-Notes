@@ -1,5 +1,5 @@
 ---
-modified: 2026-10-17
+modified: 2026-10-18
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -296,10 +296,6 @@ Shisa Kanko, pointing and calling
 
 ---
 
-[Thumbtrap](https://sketchplanations.com/thumbtrap)
-
----
-
 the most interesting application of Jevons Paradox is in your life.
 
 When you optimize for efficiency, you may find yourself doing more, not less, of the thing you tried to become more efficient at.
@@ -317,7 +313,3 @@ Are you doing less of that thing than before? In other words, did the newfound e
 Was that your intended result? Sometimes, we intended for the efficiency to allow us to get more of that thing done. Sometimes, not. Notice the difference.
 
 Price-to-earnings
-
----
-
-Baby Boomer
