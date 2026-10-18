@@ -1,6 +1,6 @@
 ---
 title: Quit social media
-modified: 2026-10-17
+modified: 2026-10-18
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -173,6 +173,14 @@ If you were to reduce screen time—especially social media—by just one hour p
 ---
 
 [Humblebrag](humblebrag.md)
+
+---
+
+[Thumbtrap](https://sketchplanations.com/thumbtrap)
+
+---
+
+[Variable Rewards](https://sketchplanations.com/variable-rewards)
 
 ---
 
