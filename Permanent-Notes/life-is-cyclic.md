@@ -1,6 +1,6 @@
 ---
 title: Life is cyclic
-modified: 2026-08-04
+modified: 2026-10-20
 ---
 
 > “Life is like a wheel. Sooner or later, it always comes around to where you started again.” — Stephen King
@@ -32,7 +32,7 @@ modified: 2026-08-04
 
 ---
 
-沒有任何事是永恆的，凡事皆無常；人生的一切起起伏伏都會過去，無論是美好的事物或痛苦的經歷。
+世事無常，沒有任何事是永恆的，人生的一切起起伏伏 [都會過去](this-too-shall-pass.md)，無論是美好的事物或痛苦的經歷。
 
 ---
 
