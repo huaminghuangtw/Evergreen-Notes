@@ -1,6 +1,6 @@
 ---
 title: The One Percent Rule
-modified: 2026-09-14
+modified: 2026-10-20
 ---
 
 > “Tend to the small things. More people are defeated by blisters than by mountains.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
@@ -10,6 +10,8 @@ modified: 2026-09-14
 ---
 
 $1.00^{365} = 1.00$ vs $1.01^{365} = 37.8$
+
+![](https://media.huam.ing/image/f58dfdbddb0e81d0b203787fb327bbc9.webp "圖片來源：James Clear")
 
 ![](https://media.huam.ing/image/ae4c5ced67ee74bc5197f513c2d957f4.webp)
 
