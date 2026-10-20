@@ -1,6 +1,6 @@
 ---
 title: Embrace the beauty of enoughness
-modified: 2026-10-13
+modified: 2026-10-20
 ---
 
 > 真正的窮，不是沒有錢，而是沒有能力去付出。相對的，富裕是什麼？不是誰擁有得多，而是誰需要的少。
@@ -82,6 +82,8 @@ For everything in life, the answer always lies somewhere in the middle. Beyond a
 [The dose makes the poison](https://www.google.com/search?q=The+dose+makes+the+poison). Some things are beneficial in small amounts but become harmful in excess—such as free time, intensity, and stress. The key is to find the optimal dose, which is unique to you and will evolve through different seasons of your life.
 
 ---
+
+# 人生的最高點，是站在甜蜜點上
 
 > “Life is the art of drawing sufficient conclusions from insufficient premises.” — Samuel Butler
 
