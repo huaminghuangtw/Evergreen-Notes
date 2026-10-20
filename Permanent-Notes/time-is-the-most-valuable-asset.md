@@ -1,11 +1,13 @@
 ---
 title: Time is the most valuable asset
-modified: 2026-08-23
+modified: 2026-10-20
 ---
 
 > “The price of anything is the amount of life you exchange for it.” — Henry David Thoreau
 
-> “An inch of time is an inch of gold but you can’t buy that inch of time with an inch of gold. (一寸光陰一寸金，寸金難買寸光陰)” — Chinese Proverb
+> “An inch of time is an inch of gold but you can’t buy that inch of time with an inch of gold.” — Chinese Proverb
+>
+> 一寸光陰一寸金，寸金難買寸光陰
 
 > “Spend your money on the things money can buy. Spend your time on the things money can’t buy.” — Haruki Murakami
 
@@ -48,7 +50,7 @@ Are you willing to trade your life with Warren Buffett?
 
 	It’s easy to notice when you’ve spent money, but the loss of time often goes unnoticed until it’s too late.
 
-	Make sure you’re making intentional trades. Aim to make every minute on this Earth count for something. <mark>You can always make more money, but you can never make more time.</mark> [^1]
+	Make sure you’re making intentional trades. Aim to make every minute on this Earth count for something. <mark>You can always make more money, but you can never make more time.</mark>
 
 	Being cheap with your time and generous with your money allows you to focus on what truly matters and achieve greater freedom in the long run.
 
@@ -92,5 +94,3 @@ At age 20, you likely have around two billion seconds remaining (assuming you li
 # 與時間為友
 
 珍惜每分每秒，以慎重而禮貌的態度對待它，就像把時間拉入自己的陣營，讓它成為可靠的夥伴。
-
-[^1]: 千金難買寸光陰
