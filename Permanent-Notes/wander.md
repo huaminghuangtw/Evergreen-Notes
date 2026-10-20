@@ -1,9 +1,15 @@
 ---
 title: Wander
-modified: 2026-10-16
+modified: 2026-10-20
 ---
 
 > “Not all those who wander are lost.” — J.R.R. Tolkien
+
+---
+
+| ![](https://media.huam.ing/image/962d492e35a6e01fbbc8b6a48f871e3e.webp) |
+| :-: |
+| <sub>[Source](https://unsplash.com/photos/a-narrow-path-winds-through-a-dense-mossy-forest-6AvWsUl_Sjs)</sub> |
 
 ---
 
