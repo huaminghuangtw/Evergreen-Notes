@@ -1,6 +1,6 @@
 ---
 title: Journaling
-modified: 2026-10-01
+modified: 2026-10-19
 ---
 
 > “Create an environment where you’re free to express what you’re afraid to express.” — Rick Rubin
@@ -16,7 +16,8 @@ modified: 2026-10-01
 	4. 生活觀察、體悟，還有好笑的（糗）事
 	5. 心情紀錄（能量條）
 	6. 好習慣（和壞習慣）追蹤
-	7. 健康紀錄
+	7. 起床時所在的城市
+	8. 健康紀錄
 		* 起床時間
 		* 第一次拿起手機時間
 		* 最後一次放下手機時間
