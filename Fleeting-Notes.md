@@ -313,3 +313,8 @@ Are you doing less of that thing than before? In other words, did the newfound e
 Was that your intended result? Sometimes, we intended for the efficiency to allow us to get more of that thing done. Sometimes, not. Notice the difference.
 
 Price-to-earnings
+
+
+---
+
+[“A lie can travel half way around the world while the truth is putting on its shoes.” — Mark Twain](http://goodreads.com/quotes/76-a-lie-can-travel-half-way-around-the-world-while)
