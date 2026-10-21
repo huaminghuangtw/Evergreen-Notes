@@ -1,6 +1,6 @@
 ---
 title: A true transformation begins with a mental shift
-modified: 2026-08-01
+modified: 2026-10-21
 ---
 
 **TL; DR** Perspective is everything. [^1] [Curiosity](stay-curious.md) is key.
@@ -249,6 +249,10 @@ If you’re 37, don’t regret not waking up at 18 again. Instead, imagine you�
 ---
 
 “[Mens sana in corpore sano](https://www.google.com/search?q=Mens+sana+in+corpore+sano)” is a Latin phrase that translates to “a healthy mind in a healthy body.”
+
+> 健全的心靈寓於健康的身體。
+
+> 健康的身體是精神的家園。
 
 ---
 
