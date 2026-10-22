@@ -178,7 +178,7 @@ modified: 2026-10-22
 	* The goal is to make your reader feel smart — not you. Think of comedians: they want to make the audience laugh rather than make themselves feel smart. The reader is the main character, not the writer. Writers are in the business of serving the reader. You should not waste your reader’s time or energy.
 	* Either 實用性 or 娛樂性
 
-		> Engaging writing = Personal + Insightful + Playful
+		> Engaging writing = Personal + Insightful/Observational + Playful
 
 	* 既要有「心法」，也要有「實作方法」
 	* 故事不是講道理：人們會懷疑理論，但很少會苛責故事。
@@ -285,8 +285,6 @@ modified: 2026-10-22
 		5. Hate how messy these thoughts have become.
 		6. Reduce them to a tiny outline of the key points.
 		7. Post the outline. Trash the rest.
-* Always use the Rule of One
-	![](../../Life-Notes/_attachments/7843c1ab62be7c7fb54a0a30ab4f6314.png)
 * Write the way you talk. WRITE as you TALK/SPEAK (with authenticity).
 
 	> “Fill your paper with the breathings of your heart.” — William Wordsworth
@@ -309,9 +307,11 @@ modified: 2026-10-22
 	* 大白話：Do not try to sound smart. You can’t make an impact if you’re trying to impress. Confusion is the killer. Drop the big words (jargons) and formal style. Use simple words and short sentences. Be precise and concise. Swap Complexity for Clarity. Be clear, not clever. A 10-year-old should be able to understand your point. Aim for grade-5 writing.
 	* Vary sentence length and use different structures to convey the message
 		* _“Don’t just write words. Write music.” — Gary Provost_
-			![](../../Life-Notes/_attachments/01f8032908d60ee1210b515fce626da5.png)
+			![](https://media.huam.ing/image/01f8032908d60ee1210b515fce626da5.webp)
 		* Finish strong
-			![](../../Life-Notes/_attachments/e9eea70164906e26d189fbbb0be038c8.png)
+			1. Saying **no** is the ultimate productivity hack. → The ultimate productivity hack is saying **no**.
+			2. He **died** on Tuesday. → On Tuesday, he **died**.
+			3. The easiest path to **success** is to change the first hour of your morning. → The first hour of your morning determines the height of your **success**.
 		* Like a poem (“poetric”)
 		* “Always write (and read) with the ear, not the eye. You should hear every sentence you write as if it was being read aloud or spoken. If it does not sound nice, try again.” — C. S. Lewis, Advice to a Young Writer
 	* Remove first-party “I” (無機感): 說教式的教科書 → 平易近人地說故事/分享經驗
@@ -358,7 +358,6 @@ modified: 2026-10-22
 * [Separate creation and release. When you’ve finished a work, wait a while before you release it to the world.](https://sive.rs/htl23)
 	* [Give your self a long pause before publishing. You need it to get there.](https://jacksondahl.com/dialectic/steph-ango#%5B00+22+35%5D+Asking+what+can+be+removed+and+making+incremental+progress)
 * Multiple Rewrites: “Round 2 Writing” - 好文章是改出來的，沒有一篇好文章的「初稿」就是「終稿」
-	![](../../Life-Notes/_attachments/6c499136cdcb39db6c510dbe24b11d67.png)
 * Read it loud
 
 ### Micro (Atomic/Mini Essays/Blog Posts)
@@ -461,11 +460,7 @@ FAST Writing: Find, Assemble, Speak, Teach
 	> 
 	> The most important article you write is the second article someone reads.
 
-![](../../Life-Notes/_attachments/06b7b6b8fde84d2fc280a31b4ecc278e.jpg)
-
-![](../../Life-Notes/_attachments/f979af7a22c9c817b5488a777f224e7a.png)
-
-![](../../Life-Notes/_attachments/8609560777b3fbc0f9958ed5da70468a.png)
+![](https://media.huam.ing/image/06b7b6b8fde84d2fc280a31b4ecc278e.webp)
 
 ---
 
