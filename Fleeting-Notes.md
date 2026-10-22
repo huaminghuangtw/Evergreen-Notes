@@ -318,3 +318,7 @@ Price-to-earnings
 ---
 
 [“A lie can travel half way around the world while the truth is putting on its shoes.” — Mark Twain](http://goodreads.com/quotes/76-a-lie-can-travel-half-way-around-the-world-while)
+
+---
+
+“Above all, do not lose your desire to walk. Every day, I walk myself into a state of well-being and walk away from every illness...if one just keeps on walking, everything will be all right.” — Søren Kierkegaard
