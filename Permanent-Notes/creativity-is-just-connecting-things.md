@@ -1,6 +1,6 @@
 ---
 title: Creativity is just connecting things
-modified: 2026-07-23
+modified: 2026-10-22
 ---
 
 > “Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. That’s because they were able to connect experiences they’ve had and synthesize new things. And the reason they were able to do that was that they’ve had more experiences or they have thought more about their experiences than other people.” — Steve Jobs
@@ -10,6 +10,8 @@ modified: 2026-07-23
 > “If a plant only gets sunlight, it’s very harmful. It needs darkness too…In the darkness, it converts oxygen into carbon dioxide. We are like that too. We need periods of doing & periods of non-doing.” — Robert Pirsig
 
 > “You can’t use up creativity. The more you use, the more you have.” — Maya Angelou
+
+> “Language can become a screen which stands between the thinker and reality. This is the reason why true creativity often starts where language ends.” — Arthur Koestler
 
 ---
 
