@@ -59,7 +59,7 @@ A positive mind finds a way it can be done; A negative mind looks for all the wa
 
 > In life, you can choose to be G(rouchy) or you can choose to be J(olly).
 
-> If you call out the biggest [complainers](never-ever-complain-about-anything.md) you know about their behavior, starting with yourself, we bet the most common retort will be some version of **standards**. _I pride myself on having good taste in food, so of course I have to complain about how nasty this Big Mac is instead of eating it and moving on with my life._
+> If you call out the biggest [complainers](never-complain-about-anything.md) you know about their behavior, starting with yourself, we bet the most common retort will be some version of **standards**. _I pride myself on having good taste in food, so of course I have to complain about how nasty this Big Mac is instead of eating it and moving on with my life._
 
 > Choosing optimism and joy doesn’t mean you can’t have standards. All it means is that you don’t have to vocalize those standards all of the time.
 
