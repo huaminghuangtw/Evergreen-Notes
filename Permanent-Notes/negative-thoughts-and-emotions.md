@@ -36,7 +36,7 @@ modified: 2026-08-25
 * 害怕、恐懼、心魔 ([Fear](fear.md))
 * 擔心 (Worry)
 * 焦慮 ([Anxiety](stress-and-anxiety.md))
-* 抱怨 ([Complain](never-ever-complain-about-anything.md))
+* 抱怨 ([Complain](never-complain-about-anything.md))
 * 憤怒 ([Anger/Irritation](anger.md))
 * 不安 (Uncertainty/Insecurity)
 * 羞愧 (Shame)
