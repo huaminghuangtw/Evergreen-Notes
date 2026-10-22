@@ -83,7 +83,7 @@ Before changing yourself, you need to [knowing yourself](mastering-yourself-is-s
 
 Self-reliance is the ultimate source of strength. Self-help is the best help.
 
-[Never ever complain about anything](never-ever-complain-about-anything.md)
+[Never ever complain about anything](never-complain-about-anything.md)
 
 ---
 
