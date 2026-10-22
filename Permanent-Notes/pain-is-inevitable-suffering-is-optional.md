@@ -1,6 +1,6 @@
 ---
 title: Pain is inevitable. Suffering is optional.
-modified: 2026-10-15
+modified: 2026-10-22
 ---
 
 > [“The trick is not minding that it hurts.”](https://youtu.be/TvQViPBAvPk) — [Lawrence of Arabia (1962 film)](https://www.imdb.com/title/tt0056172/)
@@ -17,6 +17,8 @@ modified: 2026-10-15
 >
 > 其實人跟樹是一樣的，越是嚮往高處的陽光，它的根就越要伸向黑暗的地底。
 > — 尼采
+
+> “The qualities of “patience” and “endurance” are so similar that they are the same word in Greek, hypomonē. As the apostle Paul wrote, “We rejoice in our sufferings, knowing that suffering produces endurance, and endurance produces character, and character produces hope.” I think my mother could have been an excellent marathoner.” — Nicholas Thompson, [The Running Ground: A Father, a Son, and the Simplest of Sports](https://www.goodreads.com/work/quotes/231307611)
 
 ---
 
