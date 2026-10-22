@@ -4,6 +4,8 @@ modified: 2026-10-22
 ---
 
 > “Everything that happens is either endurable or not. If it’s endurable, then endure it. Stop complaining. If it’s unendurable … then stop complaining. Your destruction will mean its end as well. Just remember: you can endure anything your mind can make endurable, by treating it as in your interest to do so. In your interest, or in your nature.” — Marcus Aurelius
+>
+> 如果痛苦是可以忍受的，那就忍受它，別抱怨；如果無法忍受的，那抱怨也沒用，因為毀滅你的同時，它也會結束。
 
 > “He who blames others has a long way to go on his journey. He who blames himself is halfway there. He who blames no one has arrived.”
 >
