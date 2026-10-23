@@ -1,6 +1,6 @@
 ---
 title: Change yourself to change the world
-modified: 2026-09-19
+modified: 2026-10-23
 ---
 
 > “Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi
@@ -79,7 +79,11 @@ Before changing yourself, you need to [knowing yourself](mastering-yourself-is-s
 
 > “The best years of your life are the ones in which you decide your problems are your own. You do not blame them on your mother, the ecology, or the president. You realize that you control your own destiny.” — Albert Ellis
 
+> “It doesn’t matter who you are, where you come from. The ability to triumph begins with you. Always.” — Oprah Winfrey
+
 [Your entire life will change the day you realize that everything is on you. No one is coming to save you. No one will fix your problems. No one can act on your behalf. No one will change your mindsets. No one will hand you the things you want in life. It’s the acceptance that you have to hunt if you want to eat. It’s all on you.](https://x.com/SahilBloom/status/1855607589578453496)
+
+You are the author of your own narrative. The power to change your story is already within you, no matter which page you’re on. Turn the page.
 
 Self-reliance is the ultimate source of strength. Self-help is the best help.
 
