@@ -1,6 +1,6 @@
 ---
 title: Programming Best Practices
-modified: 2026-09-03
+modified: 2026-10-23
 ---
 
 # Code should be self-commenting
@@ -85,18 +85,27 @@ Write clean, compact, clear, readable, modular, and [extensible](https://en.wiki
 				* Prefer clarity (and loose coupling) over cleverness.
 			* [Single Source of Truth (SSOT)](https://www.google.com/search?q=Single+Source+of+Truth+(SSOT)) is a better variant of DRY: ensure that every piece of knowledge or logic exists in only one place in your codebase or system. This reduces the risk of inconsistencies and makes maintenance easier.
 	* Atomize everything (Principle of Atomicity)
+		* [Small Focused Modules — Sindre Sorhus](https://sindresorhus.com/blog/small-focused-modules)
+			* Think of node modules as Lego blocks. You don’t necessarily care about the details of how it’s made. All you need to know is how to use the Lego blocks to build your Lego castle.
+			* By making small focused modules, you can easily build large, complex, durable systems without having to know every single detail of how everything works.
+			* In addition, by having these modules as reusable packages, other people can reuse them, and when a module is improved or a bug is fixed, every consumer benefits.
+			* It’s **not about LOC (Lines Of Code)**, but the complexity! ➞ Number of **indentations** is a good metric.
+		* [The Building Block Economy — Mitchell Hashimoto](https://mitchellh.com/writing/building-block-economy)
+			* AI is okay at building everything from scratch, but it is really good at gluing together high quality, well documented, and proven components.
 	* [The Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
 
 		> Do one thing and do it extremely well.
 
 	* [The Art of Unix Programming](https://huam.ing/the-art-of-unix-programming)
 	* Functions should only do one thing well. Keep functions small.
-		* [Make small focused modules for reusability and to make it possible to build larger more advanced things.](https://sindresorhus.com/blog/small-focused-modules)
-		* It’s **not about LOC (Lines Of Code)**, but the complexity! ➞ Number of **indentations** is a good metric.
 
 ---
 
 # Test everything
+
+> [“Here’s a good rule on code correctness. All code you haven’t tested is wrong. All code you have tested is also wrong, but appears to work by coincidence. And code you’ve proven correct does the wrong thing, correctly.” — Tim Sweeney](https://x.com/TimSweeneyEpic/status/1190383627340783618)
+
+> [“Write tests. Not too many. Mostly integration.” — Guillermo Rauch](https://x.com/rauchg/status/807626710350839808)
 
 * Ensure your code is tested with, tons of “unit tests”, “integration tests”, and some “End to End tests”
 * Code should have unit tests before it is approved for merging or refactoring.
@@ -126,6 +135,9 @@ A good developer always writes:
 * Well-documented code
 * Well-formatted code
 * Performant code
+
+	> [“Computers exist to serve us, not the other way around. If it is not fast and reliable then it is wrong!” — Gary Bernhardt](https://x.com/garybernhardt/status/1007699924866093056)
+
 * Secure code
 
 ---
