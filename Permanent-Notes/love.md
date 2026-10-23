@@ -1,6 +1,6 @@
 ---
 title: Love
-modified: 2026-10-03
+modified: 2026-10-23
 ---
 
 > “Love is the absence of judgment.” — Dalai Lama
@@ -157,7 +157,7 @@ Growing in love > Falling in love
 
 We waste time looking for the perfect lover, instead of creating the perfect love.
 
-* Love is a verb, not a permanent state of enthusiasm.
+ Love is a verb, not a permanent state of enthusiasm.
 
 ---
 
@@ -174,6 +174,10 @@ Find a partner who believes in you more than you believe in yourself.
 A great romantic relationship is not only finding the person you have fun with, but also finding the person you want to be bored with. The beauty of long-term relationships is often hidden in boring, ordinary moments.
 
 愛情最珍貴的不是那些瞬間的美好，而是在平淡的時刻，依然選擇彼此。
+
+---
+
+It’s better to have loved and lost than never to have loved at all.
 
 ---
 
