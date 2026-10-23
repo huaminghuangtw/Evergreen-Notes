@@ -322,3 +322,19 @@ Price-to-earnings
 ---
 
 “Above all, do not lose your desire to walk. Every day, I walk myself into a state of well-being and walk away from every illness...if one just keeps on walking, everything will be all right.” — Søren Kierkegaard
+
+---
+
+Speed is rewarded in life.
+Decisive. Make decisions quickly and you can correct them faster.
+Proactive. Solve problems now, while they are still small.
+Bold. Go for it today rather than delaying your dreams.
+Don't rush, but don't wait.
+
+---
+
+Long-term thinking changes your short-term actions.
+When you intend to invest long-term, it changes which stocks you buy.
+When you intend to be in a relationship long-term, it changes the type of person you look for.
+When you intend to stay injury-free for the long term, it changes the type of workouts you do.
+Build what lasts.
