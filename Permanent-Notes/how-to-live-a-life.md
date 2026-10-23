@@ -1,6 +1,6 @@
 ---
-title: How to live a life?
-modified: 2026-09-09
+title: How to live a life
+modified: 2026-10-23
 ---
 
 > [“The goal of life is to be excited to go to work and excited to go home.” — Josh Kushner](https://x.com/JoshuaKushner/status/1944388157828718893)
