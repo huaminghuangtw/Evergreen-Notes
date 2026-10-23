@@ -1,6 +1,6 @@
 ---
 title: Sleep
-modified: 2026-08-29
+modified: 2026-10-23
 ---
 
 > “Sleep is a kindness you give your future self.” — Matthew Walker
@@ -123,7 +123,12 @@ Why do I wake up in the middle of the night, no matter what time I go to sleep?
 
 # Can we “bank” sleep or catch up on lost sleep?
 
-Sleep doesn’t work like a bank. You cannot accumulate a sleep “debt” and then hopefully pay it off later, such as on the weekend. There is no such a credit system when it comes to sleep. The body can **only recoup ~25% of the lost hours**. Frequently sleeping less than the recommended 7 to 8 hours/night (some may need 6, others 9 or even 10 hours!) means you will always be running a sleep debt - predictive of ill health outcomes and early mortality.
+No — sleep is not a bank account. You cannot run a “debt” during the week and settle it on the weekend; there is no credit system for sleep. The body **recoups only ~25% of the lost hours**, so if you routinely sleep less than the recommended 7–8 hours a night, you will always be running a sleep debt — one that is predictive of ill health outcomes and early mortality.
+
+That debt behaves like a bad loan in two ways:
+
+* **There is no balance to check.** Being debt-free is a feeling. It’s when you notice yourself waking up consistently in the morning at around the same time, feeling rested and able to tackle your day.
+* **The interest rate is punishing.** One [estimate](https://www.nature.com/articles/srep35812) suggests that for _every hour_ of sleep debt you rack up, you can expect to need about _four days_ of extra sleep to fully pay it back.
 
 ---
 
