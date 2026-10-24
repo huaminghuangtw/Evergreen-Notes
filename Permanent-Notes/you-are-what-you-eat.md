@@ -1,6 +1,6 @@
 ---
 title: You are what you eat
-modified: 2026-09-23
+modified: 2026-10-24
 ---
 
 > “Let food be thy medicine and medicine be thy food.” — Hippocrates [^1]
@@ -48,6 +48,12 @@ Your gut is your second brain.
 	* 最好吃的食物通常是最不健康的食物
 * 一方面營養不足 [^3]
 	* 加工食品和垃圾食物通常會加入無營養價值的人工添加劑，同時剝奪掉其中原有的有益營養成分。[^4]
+
+---
+
+# 情緒性進食（Emotional Eating）
+
+人吃東西，有時只是為了壓抑焦慮而已。透過動動嘴巴換取心靈安定，這是普遍人性。
 
 ---
 
