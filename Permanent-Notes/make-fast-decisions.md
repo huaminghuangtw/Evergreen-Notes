@@ -1,6 +1,6 @@
 ---
 title: Make fast decisions
-modified: 2026-09-24
+modified: 2026-10-24
 ---
 
 > “It’s better to be boldly decisive and risk being wrong than to agonise at length and be right too late.” — Marilyn Moats Kennedy
@@ -13,6 +13,18 @@ Make fast (_but not rushed_) decisions as quickly as possible. Any decision is b
 * [It’s important to do things & make decisions very fast!](https://nat.org)
 	* You learn more per unit time because you make contact with reality more frequently.
 	* Going fast makes you focus on what’s important.
+
+---
+
+Speed is rewarded in life.
+
+* **Decisive.** Make decisions quickly and you can correct them faster.
+* **Proactive.** Solve problems now, while they are still small.
+* **Bold.** Go for it today rather than delaying your dreams.
+
+[Don’t rush](slow-down-to-speed-up.md), but don’t wait.
+
+[No hurry. No Pause.](https://x.com/tferriss/status/1922361086248157554)
 
 ---
 
