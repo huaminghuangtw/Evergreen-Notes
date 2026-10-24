@@ -1,6 +1,6 @@
 ---
 title: Frameworks to structure your day
-modified: 2026-08-22
+modified: 2026-10-24
 ---
 
 > [Live life by design, not default.](https://fs.blog/david-foster-wallace-this-is-water/) [^1] Make each day your masterpiece. How you spend your days is how you spend your life.
@@ -17,7 +17,7 @@ modified: 2026-08-22
 
 	> “Put your life in service to your values rather than putting your time in service to money.” — Vicki Robin, [Your Money or Your Life](https://www.goodreads.com/work/quotes/1509321)
 
-* 生活是全職，工作是兼職。
+* 生活是全職，工作是兼職。賺錢是用來改善生活，而不是為了賺錢失去生活。
 
 	> “Don’t let making a living prevent you from making a life.” — John Wooden
 
