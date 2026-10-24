@@ -1,6 +1,6 @@
 ---
 title: Slow down to speed up
-modified: 2026-09-05
+modified: 2026-10-24
 ---
 
 **Where are you going and why are you in such a rush?**
@@ -64,8 +64,6 @@ There’s never enough time to do it right but there’s plenty of time to do it
 One step back for two steps forward.
 
 ---
-
-> [No hurry. No pause.](https://x.com/tferriss/status/1922361086248157554)
 
 * Refuse to feel rushed (or in a hurry). Rushing causes errors. Errors cause setbacks. Setbacks cause delays. [^1]
 	* Rushing sacrifices quality for speed and leaves you rebuilding later.
