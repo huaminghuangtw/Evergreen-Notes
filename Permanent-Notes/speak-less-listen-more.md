@@ -1,6 +1,6 @@
 ---
 title: Speak less, listen more
-modified: 2026-10-10
+modified: 2026-10-25
 ---
 
 > [“Shallow rivers are noisy. Deep lakes are silent.” — Derek Sivers](https://sive.rs/h) [^1]
@@ -18,6 +18,10 @@ modified: 2026-10-10
 ---
 
 The less you speak, the more you [listen](active-listening.md) (and learn).
+
+---
+
+I chose silence over the last word and it gave me something no argument ever did. **Rest**.
 
 ---
 
