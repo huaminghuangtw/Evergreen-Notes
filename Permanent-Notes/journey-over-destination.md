@@ -1,6 +1,6 @@
 ---
 title: Journey over destination
-modified: 2026-10-20
+modified: 2026-10-26
 ---
 
 > “To travel is to be alive, but to get somewhere is to be dead.” — Alan Watts
@@ -23,7 +23,8 @@ modified: 2026-10-20
 
 > “The great mistake is to anticipate the outcome of the engagement; you ought not to be thinking of whether it ends in victory or defeat. Let nature take its course, and your tools will strike at the right moment.” — Bruce Lee
 
-> “We don’t climb mountains to get to the top—we climb to see who we can become in trying to get there.” ― Jim Murphy, [Inner Excellence](https://www.goodreads.com/work/quotes/9212098)
+> “We don’t climb mountains to get to the top—we climb to see who we can become in trying to get there.” — Jim Murphy, [Inner Excellence](https://www.goodreads.com/work/quotes/9212098)
+
 ---
 
 人生極致的悲劇是一切皆目標，人生極致的幸福是一切皆過程。
