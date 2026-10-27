@@ -1,6 +1,6 @@
 ---
 title: Walk
-modified: 2026-10-16
+modified: 2026-10-27
 ---
 
 > “A walk in nature walks the soul back home.” — Mary Davis
@@ -15,9 +15,11 @@ modified: 2026-10-16
 
 ---
 
-![](https://media.huam.ing/image/316d587a5c95f54ea7a4f86fbb986d63.webp)
+| ![](https://media.huam.ing/image/e4b78802e9f27d60cb4d6f1c0c52cfaf.webp) |
+| :-: |
+| <sub>[@hillmanEffectAcuteTreadmill2009]</sub> |
 
-![](https://media.huam.ing/image/19d8ef9fa9213552e887aee3e54540ec.webp)
+![](https://media.huam.ing/image/fd271c4321d20b72aca51c9638461555.webp)
 
 ---
 
