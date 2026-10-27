@@ -1,5 +1,5 @@
 ---
-modified: 2026-10-25
+modified: 2026-10-26
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -310,49 +310,88 @@ Was that your intended result? Sometimes, we intended for the efficiency to allo
 
 Price-to-earnings
 
-
 ---
 
 The Locksmith Paradox
+
 overemphasize input over output
+
 The Locksmith Paradox
+
 watch on YouTube or read and listen on sahilbloom.com​
+
 ​read time 10 minutes
+
 Welcome to The Curiosity Chronicle, a newsletter where I provide actionable ideas to help you build a high-performing, healthy, wealthy life.
+
 Forwarded this email? Join 800,000+ other readers here.
+
 My single best purchase this year: Matic Robot!
-Confession: I expected to be disappointed when I bought a Matic in 2025. Tech CEOs were hyping it, but I figured it was just that...hype. 30 days later, I asked the CEO to let me invest.
-It's magical. Works in total darkness. Handles wet or dry messes with mop and vacuum funcionality. So quiet that we run it at night. Saves us hours every week. Automate a cleaning cycle each night or simply point to the mess and say, "Hey Matic, clean this" and off it goes.
+
+Confession: I expected to be disappointed when I bought a Matic in 2025. Tech CEOs were hyping it, but I figured it was just that…hype. 30 days later, I asked the CEO to let me invest.
+
+It’s magical. Works in total darkness. Handles wet or dry messes with mop and vacuum funcionality. So quiet that we run it at night. Saves us hours every week. Automate a cleaning cycle each night or simply point to the mess and say, “Hey Matic, clean this” and off it goes.
+
 Now, I bought one for my parents and sister. And have all my friends buying it. Use the link below or code FRIEND-SAHILBLOOM at checkout to get a free year of HEPA bags with your Matic purchase!
+
 Get Your Matic Today!
-​
+
 The Locksmith Paradox
+
 In an apocryphal story, legendary painter Pablo Picasso was walking through the market one day when a woman approached him.
+
 She pulled out a piece of paper and said:
-"Mr. Picasso, I am a great admirer of your work. Please, could you do a little drawing for me?"
+
+“Mr. Picasso, I am a great admirer of your work. Please, could you do a little drawing for me?”
+
 Picasso nodded, quickly drew a small, but beautiful piece of art on the paper, and handed it back to her.
-"That'll be one million dollars," he smiled.
-"But Mr. Picasso," the woman protested, "It only took you thirty seconds to draw this little masterpiece."
-"On the contrary," he replied.
-"It took me thirty years to draw that masterpiece in thirty seconds."
-This rather cute story is a perfect example of a modern crisis I'm starting to see in the AI era.
-Let me explain...
+
+“That’ll be one million dollars,” he smiled.
+
+“But Mr. Picasso,” the woman protested, “It only took you thirty seconds to draw this little masterpiece.”
+
+“On the contrary,” he replied.
+
+“It took me thirty years to draw that masterpiece in thirty seconds.”
+
+This rather cute story is a perfect example of a modern crisis I’m starting to see in the AI era.
+
+Let me explain…
+
 A behavioral economist named Dan Ariely once told a story about an interaction he had with a locksmith.
-It's easiest to pose it as a thought experiment to contextualize this type of situation:
+
+It’s easiest to pose it as a thought experiment to contextualize this type of situation:
+
 Imagine you come home from work one day and find yourself locked out of your apartment.
+
 You call a locksmith to help you get in.
+
 A junior locksmith arrives and gets to work. He seems quite new to this. After an hour of work, he manages to pick the lock and get through the door.
-"That'll be $100," he says. You happily pay him the fee, satisfied with the significant effort and ultimate outcome.
-A year later, you find yourself once again locked out. This time, you've got the number saved in your phone. You call the locksmith, who quickly arrives at your door.
-But this time around, he's clearly quite seasoned. The year of experience has done wonders.
+
+“That’ll be $100," he says. You happily pay him the fee, satisfied with the significant effort and ultimate outcome.
+
+A year later, you find yourself once again locked out. This time, you’ve got the number saved in your phone. You call the locksmith, who quickly arrives at your door.
+
+But this time around, he’s clearly quite seasoned. The year of experience has done wonders.
+
 Within two minutes, he picks the lock and gets you inside.
-"That'll be $100," he says.
+
+"That’ll be $100,” he says.
+
 You frown, confused and annoyed by the steep fee.
-"But it only took two minutes," you argue.
+
+“But it only took two minutes,” you argue.
+
 He stares blankly at you. You pay the fee, frustrated, and walk inside.
+
 The output of the two scenarios was the same, but your perception of the value of that output changed based on the input required to achieve it.
+
 This is the Locksmith Paradox:
+
 We overemphasize input over output. We have a tendency to undervalue something because of the low visible input required to create it, despite the output being exactly what we requested or required.
+
 Blind consistency
+
 Am I focusing on input, or output per unit input?
+
 Am I focusing on solving the problem, or on creating the appearance of solving the problem?
