@@ -1,6 +1,6 @@
 ---
 title: Failing forward turns setbacks into stepping stones
-modified: 2026-10-18
+modified: 2026-10-26
 ---
 
 > “A stumble may prevent a fall.” — Gretchen Rubin
@@ -46,6 +46,8 @@ If you want to _win_, you have to _lose_ first. All _success_ begins with _failu
 > “When you double your rate of failure you double your rate of success.” — James Swanwick
 
 > [“Legends aren’t defined by their success, they’re defined by how they bounce back from their failures.” — Chris Bosh](https://youtu.be/naCn_91SuVU?t=3m14s)
+
+> “The secret of winners is that failure inspires winning; thus, they’re not afraid of losing. Repeating Fran Tarkenton’s quote, “[Winning means being unafraid to lose.](https://www.goodreads.com/quotes/8707636-winning-means-being-unafraid-to-lose)” People like Fran Tarkenton are not afraid of losing, because they know who they are. They hate losing, so they know that losing will only inspire them to become better. There is a big difference between _hating losing_ and _being afraid to lose_.” — Robert Kiyosaki, Rich Dad Poor Dad
 
 * Failure is not the opposite of success, it’s part of success. Failure is success in progress.
 * Success comes from turning _setbacks_ into _comebacks_.
