@@ -1,6 +1,6 @@
 ---
 title: Decision Making
-modified: 2026-10-09
+modified: 2026-10-27
 ---
 
 > “The decisions of our past are the architects of our present.” — Dan Brown
@@ -45,11 +45,19 @@ modified: 2026-10-09
 
 # The 10-10-10 Rule
 
-A simple decision-making framework created by author and speaker Suzy Welch. The idea is that you pause and evaluate your decision across three timeframes:
+A simple decision-making framework created by author and speaker [Suzy Welch](https://youtu.be/yW9QqH8RXCo). The idea is that you pause and evaluate your decision across three timeframes (時間尺度):
 
 * 10 Minutes: _How will you feel about this decision in 10 minutes?_
+
+	> 10 分鐘後，你會怎麼看這個決定？
+
 * 10 Months: _How will you feel about this decision in 10 months?_
+
+	> 10 個月後，你會怎麼看這個決定？
+
 * 10 Years: _How will you feel about this decision in 10 years?_
+
+	> 10 年後，你會怎麼看這個決定？
 
 ---
 
