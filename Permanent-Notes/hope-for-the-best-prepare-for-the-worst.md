@@ -1,6 +1,6 @@
 ---
 title: Hope for the best, prepare for the worst
-modified: 2026-10-21
+modified: 2026-10-28
 ---
 
 > “Do not think there are no crocodiles just because the water is calm.”
@@ -22,6 +22,8 @@ Do favors for tomorrow you. [Set yourself up for success. Create a condition tha
 ---
 
 [未雨綢繆、防範於未然](long-term-thinking.md)：用最壞的打算，做最好的準備
+
+> Dig the well before you are thirsty.
 
 ---
 
