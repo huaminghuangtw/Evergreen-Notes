@@ -1,6 +1,6 @@
 ---
 title: Always keep going
-modified: 2026-10-03
+modified: 2026-10-28
 ---
 
 > [“Remember diamonds are created under pressure so hold on, it will be your time to shine soon.” — Sope Agbelusi](https://www.goodreads.com/quotes/7900485-remember-diamonds-are-created-under-pressure-so-hold-on-it)
@@ -10,8 +10,6 @@ modified: 2026-10-03
 > [“Darkness is preparation for light. Sadness is preparation for joy. Failure is preparation for success. But only if you keep going and remain open to what comes next.” — James Clear](https://jamesclear.com/3-2-1/june-18-2026)
 
 > “Take into account that great love and great achievements involve great risk.” — Dalai Lama
-
-> “No mud, no lotus.” — Thích Nhất Hạnh
 
 > [“Keep going. Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.” — Roy T. Bennett, The Light in the Heart](http://goodreads.com/quotes/7636973-keep-going-your-hardest-times-often-lead-to-the-greatest)
 
