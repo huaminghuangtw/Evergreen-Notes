@@ -1,5 +1,5 @@
 ---
-modified: 2026-10-26
+modified: 2026-10-28
 ---
 
 [🔎 The Gestalt effect](https://www.google.com/search?q=The+Gestalt+effect)
@@ -368,7 +368,7 @@ You call a locksmith to help you get in.
 
 A junior locksmith arrives and gets to work. He seems quite new to this. After an hour of work, he manages to pick the lock and get through the door.
 
-“That’ll be $100," he says. You happily pay him the fee, satisfied with the significant effort and ultimate outcome.
+“That’ll be $100,” he says. You happily pay him the fee, satisfied with the significant effort and ultimate outcome.
 
 A year later, you find yourself once again locked out. This time, you’ve got the number saved in your phone. You call the locksmith, who quickly arrives at your door.
 
@@ -376,7 +376,7 @@ But this time around, he’s clearly quite seasoned. The year of experience has 
 
 Within two minutes, he picks the lock and gets you inside.
 
-"That’ll be $100,” he says.
+“That’ll be $100,” he says.
 
 You frown, confused and annoyed by the steep fee.
 
