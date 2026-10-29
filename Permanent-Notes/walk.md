@@ -1,6 +1,6 @@
 ---
 title: Walk
-modified: 2026-10-27
+modified: 2026-10-29
 ---
 
 > “A walk in nature walks the soul back home.” — Mary Davis
@@ -46,7 +46,7 @@ Goal: 8000–10000 steps per day
 
 創造力取決於移動的身體，不要相信坐著時產生的任何想法。
 
-> [“Sit as little as possible; give credence to no thought that is not born in the open air and accompanied by free movement — in which the muscles do not also celebrate a feast.” — Friedrich Nietzsche](https://www.goodreads.com/quotes/9741414-sit-as-little-as-possible-give-credence-to-no-thought)
+> [“Sit as little as possible; give credence to no thought that is not born in the open air and accompanied by free movement.” — Friedrich Nietzsche](https://www.goodreads.com/quotes/9741414-sit-as-little-as-possible-give-credence-to-no-thought)
 
 > “Only ideas won by walking have any value.” — Friedrich Nietzsche, [Twilight of the Idols](https://www.goodreads.com/work/quotes/19234046)
 >
