@@ -1,6 +1,6 @@
 ---
 title: Negative Thoughts & Emotions
-modified: 2026-10-26
+modified: 2026-10-29
 ---
 
 > “You cannot prevent the birds of sorrow from flying over your head, but you can prevent them from building nests in your hair.” — Chinese Proverb
@@ -10,6 +10,8 @@ modified: 2026-10-26
 > “When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.” — Henry Ford
 
 > “Kites rise highest against the wind - not with it.” — Winston Churchill [^1]
+
+> “When you notice that you’re having negative thoughts about how all of this is going to pan out, you need to remind yourself that you are not a very good fortune teller.” — Donna W. Hill
 
 ---
 
