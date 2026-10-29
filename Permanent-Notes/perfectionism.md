@@ -1,6 +1,6 @@
 ---
 title: Perfectionism
-modified: 2026-10-03
+modified: 2026-10-28
 ---
 
 > “All software has bugs — it’s just a fact of life. You.” — Jason Fried, [Getting Real](https://www.goodreads.com/work/quotes/72546)
@@ -24,6 +24,10 @@ Perfect is the enemy of good. ([Good is the enemy of great.](do-great-work.md))
 ---
 
 Perfectionism is a [double-edged sword (雙面刃)](duality-vs-polarity.md). On one hand, it can drive individuals to achieve great heights, pushing them to strive for excellence and meticulousness in their endeavors. On the other hand, it can lead to chronic dissatisfaction and overwhelming stress.
+
+---
+
+Perfectionism is the most common form of self-sabotage; it’s a way to keep your work in your head where it can’t be criticized or tested by reality.
 
 ---
 
