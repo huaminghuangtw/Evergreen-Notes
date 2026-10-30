@@ -1,6 +1,6 @@
 ---
-title: 汗蒸幕 (Hanjeungmak)
-modified: 2026-10-11
+title: Hanjeungmak
+modified: 2026-10-29
 ---
 
 **汗蒸幕 (hanjeungmak, 한증막)** is the traditional Korean-style [sauna](sauna.md). it’s a form of deliberate heat exposure / thermotherapy
