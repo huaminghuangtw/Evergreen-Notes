@@ -1,6 +1,6 @@
 ---
 title: Work hard
-modified: 2026-09-03
+modified: 2026-10-30
 ---
 
 > “Without ambition one starts nothing. Without work one finishes nothing. The prize will not be sent to you. You have to win it.” — Ralph Waldo Emerson
@@ -46,10 +46,6 @@ You don’t get the things you dream of, you get the things that you work for.
 ---
 
 你必須很努力，才能看起來 [毫不費力](sprezzatura.md)。
-
----
-
-勞動是社會中每個人不可避免的義務，沒有勞動就不會有正常人的生活。勞動是快活的根源。
 
 ---
 
