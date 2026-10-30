@@ -1,13 +1,13 @@
 ---
 title: Long-Term Thinking
-modified: 2026-10-24
+modified: 2026-10-30
 ---
 
 > 欲知前世因，今生受者是，欲知來世果，今生作者是。
 >
 > —《三世因果經》
 >
-> 如果你想知道過去，就看看你現在的處境；如果你想知道未來，就看看你今天的行為。
+> 如果你想知道過去，就看看你現在的處境；如果你想知道未來，就看看你今天的行為。[^1]
 >
 > If you want to know your past, look into your present conditions. If you want to know your future, look into your present actions.
 
@@ -34,3 +34,5 @@ Long-term thinking changes your short-term actions.
 * When you intend to stay injury-free for the long term, it changes the type of workouts you do.
 
 **Build what lasts.**
+
+[^1]: What’s right for you today is determined by what you’ve been doing lately.
