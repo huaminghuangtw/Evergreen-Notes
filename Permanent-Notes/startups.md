@@ -1,6 +1,6 @@
 ---
 title: Startups
-modified: 2026-09-24
+modified: 2026-10-31
 ---
 
 * First step: attract great people
@@ -98,7 +98,6 @@ modified: 2026-09-24
 	* 7-hour workday (instead of 8)
 * The Peter Principle
 * The Bike Shed Effect (The Law of Triviality)
-* The Locksmith Paradox
 * “It’s a marathon, not a sprint.”
 	* The goal is to create and maintain MOMENTUM, not burn ourselves out on SPEED.
 * 10 Facts
