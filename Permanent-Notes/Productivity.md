@@ -1,6 +1,6 @@
 ---
 title: Productivity
-modified: 2026-08-07
+modified: 2026-10-31
 ---
 
 > “If you can’t fit everything in within the time and budget allotted then don’t expand the time and budget. Instead, pull back the scope. There’s always time to add stuff later — later is eternal, now is fleeting.” — Jason Fried, [Getting Real](https://www.goodreads.com/work/quotes/72546)
@@ -96,6 +96,6 @@ There are two synergistic approaches for increasing productivity that are invers
 [What you work on is far more important than how productively you work](what-you-work-on-is-far-more-important-than-how-productively-you-work.md)
 
 [^1]: Productivity can be redefined as minimizing waste in various aspects of life, such as time, energy, attention, ideas, and one’s potential. → [Lean Thinking](https://www.google.com/search?q=Lean+Thinking)
-[^2]: Increased productivity is creating more value in less time. It’s about getting the _right_ things done, not the _most_ things done. The goal isn’t to generate prolific _output_, but to generate prolific _output per unit input_. It’s about the leverage on your input.
+[^2]: Productivity is creating more value in less time. It’s about getting the _right_ things done, not the _most_ things done. The goal isn’t to generate prolific _output_, but to generate prolific _output per unit input_. It’s about the leverage on your input.
 [^3]: It’s not about the number of hours you put in. It’s about the _quality_ of those hours.
 [^4]: Productivity porn refers to the obsession with consuming content and strategies about productivity rather than actually being productive. It tricks you into feeling productive when in reality you didn’t actually do anything productive. By focusing on the appearance of being productive (e.g., perfect planners, aesthetic workspaces), individuals may neglect the actual work that drives results or moves the needle. Productivity porn creates an endless loop of preparation. This term highlights how people often spend time reading books, watching videos, or engaging with tools and systems about productivity instead of applying these methods in practice. The abundance of advice can overwhelm users, making it harder to choose and stick to a single approach, leading to frustration and decision fatigue.
