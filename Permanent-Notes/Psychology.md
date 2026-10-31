@@ -1,6 +1,6 @@
 ---
 title: Psychology
-modified: 2026-09-03
+modified: 2026-10-31
 ---
 
 * Egocentric Bias
@@ -20,20 +20,6 @@ modified: 2026-09-03
 		* Standing out is dangerous. It’s always going to be safer and more comfortable to blend in. But it’s only by taking this risk that you can accomplish truly remarkable things.
 		* Those from our class who were willing to look crazy for long periods of time had built unique and impactful things. They also seemed happier on average.
 * The Pyrrhic Victory
-* The Locksmith Paradox
-	* The locksmith is penalized for proficiency!
-	* Outcome over input time
-		* Focus on the value the customer receives, not how long it took to create that value
-		* Whenever you can, separate time from your service pricing and charge based on deliverables
-	* Challenge: Need trust foundation
-	* The Picasso Paradox
-
-		> Picasso was walking through the market one day when a woman approached him.
-		> She pulled out a piece of paper and said, “Mr. Picasso, I am a fan of your work. Please, could you do a little drawing for me?”
-		> Picasso smiled and quickly drew a small, but beautiful piece of art on the paper. He handed it back to her. “That will be one million dollars.”
-		> “But Mr. Picasso,” the woman protested, “It only took you thirty seconds to draw this little masterpiece.”
-		> “My good woman,” Picasso smiled, “It took me thirty years to draw that masterpiece in thirty seconds.”
-
 * The Diderot Effect
 	* When acquiring a new possession leads to a spiral of consumption that results in the acquisition of even more possessions. In other words, it means that buying something new can cause a chain reaction of buying more and more things because the new item makes one feel like one needs other things to go with it or to keep up with it.
 * [斯坦福棉花糖實驗 Stanford Marshmallow Experiment on Delayed Gratification](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment)
