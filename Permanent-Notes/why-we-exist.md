@@ -1,6 +1,6 @@
 ---
 title: Why we exist?
-modified: 2026-09-10
+modified: 2026-10-31
 ---
 
 > [“The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” — David Viscott](https://www.goodreads.com/quotes/7407260-the-purpose-of-life-is-to-discover-your-gift-the)
@@ -43,7 +43,7 @@ modified: 2026-09-10
 
 ---
 
-> 我們追求的不是第一，心裡那個不變的理想，才是支持我們繼續跑下去的動力。
+> 我們追求的不是第一，心中那個不變的理想，才是支持我們繼續跑下去的動力。
 > — 三浦紫苑《強風吹拂》
 
 Life’s Highest Calling
