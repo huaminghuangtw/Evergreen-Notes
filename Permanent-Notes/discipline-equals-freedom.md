@@ -1,6 +1,6 @@
 ---
 title: Discipline equals freedom
-modified: 2026-09-03
+modified: 2026-11-01
 ---
 
 > [“Discipline is doing what you hate to do, but nonetheless doing it like you love it.” — Mike Tyson](https://x.com/MikeTyson/status/1051925919710027777)
@@ -72,3 +72,5 @@ Winners are not people who never _fail_, but people who never _quit_. Remember: 
 # The One-Second Decision By David Goggins
 
 > When you are doing something hard in life, you are making a second by second decision to keep going. If you lose one of those seconds, you’ve lost. Each second is an opportunity to keep going or to quit.
+
+一個正確決定需要長時間的累積，一個錯誤決定只需要一瞬間/一念之間。
