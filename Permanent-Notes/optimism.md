@@ -1,9 +1,11 @@
 ---
 title: Optimism
-modified: 2026-10-26
+modified: 2026-11-03
 ---
 
 > “Turn your face to the sun, as flowers know how to do.” — Ming-Dao Deng [^1]
+
+> “There are far, far better things ahead than any we leave behind.” — C.S. Lewis
 
 > “A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.” — Winston Churchill [^2]
 
