@@ -1,6 +1,6 @@
 ---
 title: The MECE Principle
-modified: 2026-09-03
+modified: 2026-11-04
 ---
 
 [@mintoMintoPyramidPrinciple2007]
@@ -36,4 +36,4 @@ invented by [Barbara Minto](https://www.google.com/search?q=Barbara+Minto)
 
 …發展而來
 
-所有大腦運作，包含思考、記憶和解決問題，都會經過「<mark>分類（Grouping）</mark>」和「<mark>概括（Summarizing）</mark>」兩個過程。
+所有大腦運作，包含思考、記憶和解決問題，都會經過「**分類（Grouping）**」和「**概括（Summarizing）**」兩個過程。
