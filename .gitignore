@@ -3,3 +3,6 @@
 
 # Exception
 !.gitignore
+
+# Ignore fleeting notes
+Fleeting-Notes.md
