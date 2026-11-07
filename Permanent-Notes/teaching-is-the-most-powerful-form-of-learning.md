@@ -1,6 +1,6 @@
 ---
 title: Teaching is the most powerful form of learning
-modified: 2026-10-17
+modified: 2026-11-07
 ---
 
 > “The best teachers are those who show you where to look, but don’t tell you what to see.” — Alexandra K. Trenfor
@@ -10,6 +10,8 @@ modified: 2026-10-17
 > “Qui docet discit”
 >
 > He who teaches, learns.
+
+> “Tell me and I forget, teach me and I may remember, involve me and I learn.” — Benjamin Franklin
 
 ---
 
