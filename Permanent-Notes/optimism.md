@@ -1,6 +1,6 @@
 ---
 title: Optimism
-modified: 2026-11-03
+modified: 2026-11-08
 ---
 
 > “Turn your face to the sun, as flowers know how to do.” — Ming-Dao Deng [^1]
@@ -24,6 +24,8 @@ modified: 2026-11-03
 > [“We don’t make mistakes, we have happy accidents.” — Bob Ross](https://www.youtube.com/shorts/KKN-qE2bRuU)
 
 > “Are you going to let the obstacles in your life be **stumbling blocks (絆腳石)** or **stepping stones (墊腳石)**? Choose the positive. You are the master of your attitude.” — Bruce Lee
+
+> [“It takes but one positive thought when given a chance to survive and thrive to overpower an entire army of negative thoughts.” — Robert H. Schuller](http://brainyquote.com/quotes/robert_h_schuller_120987)
 
 ---
 
