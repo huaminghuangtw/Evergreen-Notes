@@ -1,6 +1,6 @@
 ---
 title: Learning is the single best investment that you can make for your time
-modified: 2026-09-30
+modified: 2026-11-10
 ---
 
 > “Learning never exhausts the mind.” — Leonardo da Vinci
@@ -125,6 +125,8 @@ Always starting from the most basic and simplest level, then adding more complex
 
 * Because it takes a lot more time going backward.
 * It’s very important to _crawl_ before you can _walk_, and _walk_ before your can _run_.
+
+⭐️ <mark>Peak performance isn’t about superhuman abilities. It’s about mastering the fundamentals at an elite level.</mark>
 
 ---
 
