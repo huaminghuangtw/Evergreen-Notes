@@ -1,6 +1,6 @@
 ---
 title: The Game of Life
-modified: 2026-09-03
+modified: 2026-11-12
 ---
 
 > [The reason to play the game is to be free of it.” — Naval Ravikant](https://youtu.be/KyfUysrNaco)
@@ -10,7 +10,7 @@ modified: 2026-09-03
 = 人生賽局
 
 * Be carefully selective/picky in the games you choose to play. Which game you play is much more important than how well you play the game. Fight battles you are destined to win.
-* Don’t play games you don’t want to win. If you play stupid games, you will win stupid prizes. [Escape the rat race cycle.](https://fs.blog/david-foster-wallace-this-is-water/)
+* Don’t play games you don’t want to win. If you play stupid games, you will win stupid prizes. There is no value in winning when the game doesn’t matter to you. [Escape the rat race cycle.](https://fs.blog/david-foster-wallace-this-is-water/)
 * Analogy: 夾娃娃機
 	* 本體 (e.g., 機台造型、擺設方式)
 	* 贈品 (e.g., 保夾金額、物品價值)
