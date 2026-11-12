@@ -1,6 +1,6 @@
 ---
 title: How to be a better writer
-modified: 2026-10-23
+modified: 2026-11-12
 ---
 
 > “Either write something worth reading or do something worth writing.” — Benjamin Franklin
@@ -20,6 +20,8 @@ modified: 2026-10-23
 > 寫作之難，在於將網狀的思考，梳理成樹狀的結構，並展現於線性展開的語句之中。
 
 > “If you’re thinking without writing, you only think you’re thinking.” — Leslie Lamport
+
+> “Clear writing leads to clear thinking. You don’t know what you know until you try to express it.” — Michael A. Covington
 
 > “Once we begin to explore this much wider and deeper world, we realize how much we’ve been missing. It’s as though we’ve been living and working in a corridor without even realizing there are windows and doors on either side. More than that: writing enables us to open the window blinds, undo the catches, lean out and look, smell, hear, touch, taste adventure. We can climb out of those windows. Writing can give us the keys to open those doors: explore what’s on the other side.” — Alison Jones, [Exploratory Writing: Everyday magic for life and work](https://www.goodreads.com/work/quotes/97641297)
 
@@ -301,6 +303,8 @@ modified: 2026-10-23
 	* Write from your substantial personal life experience/expertise like you’re writing an empathic tutorial that includes insider tips and details.
 
 		> “Even if you’re not selling your stories yet, your writing time is precious, often gained at the expense of other worthwhile activities. Don’t waste it on a book you don’t love.” — Rachel Aaron, [2,000 to 10,000: How to Write Faster, Write Better, and Write More of What You Love](https://www.goodreads.com/work/quotes/21879311)
+
+		> “Tell the story of the mountain you climbed. Your words could become a page in someone else’s survival guide.” — Morgan Harper Nichols
 
 	* Use “voice dictation”
 * You’re not writing a research paper. You don’t need to write like an academic. Drop the formality.
