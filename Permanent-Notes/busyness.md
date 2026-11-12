@@ -1,6 +1,6 @@
 ---
 title: Busyness
-modified: 2026-10-05
+modified: 2026-11-12
 ---
 
 > “Beware the barrenness of a busy life.” — Socrates
@@ -36,6 +36,10 @@ modified: 2026-10-05
 > “Never mistake activity for achievement.” — John Wooden
 
 * You gain clarity through _motion_, but don’t mistake motion with _action_. Beware of false progress.
+
+---
+
+<mark>Most [hard work](work-hard.md) is a form of laziness. The real hard work is in finding a way to make it easy. _It’s easy to work hard, but hard to make the work easy._</mark>
 
 ---
 
