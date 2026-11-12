@@ -1,6 +1,6 @@
 ---
 title: Make fast decisions
-modified: 2026-10-24
+modified: 2026-11-12
 ---
 
 > “It’s better to be boldly decisive and risk being wrong than to agonise at length and be right too late.” — Marilyn Moats Kennedy
@@ -16,7 +16,7 @@ Make fast (_but not rushed_) decisions as quickly as possible. Any decision is b
 
 ---
 
-Speed is rewarded in life.
+Today instead of tomorrow. Speed is rewarded in life. Moving fast compounds so much more than people realize.
 
 * **Decisive.** Make decisions quickly and you can correct them faster.
 * **Proactive.** Solve problems now, while they are still small.
