@@ -1,6 +1,6 @@
 ---
 title: Overthinking
-modified: 2026-10-15
+modified: 2026-11-12
 ---
 
 > “Imagination and fiction make up more than three quarters of our real life.” — Simone Weil
@@ -19,7 +19,7 @@ modified: 2026-10-15
 
 ---
 
-The primary cause of unhappiness is never the situation but your thoughts about it.
+The primary cause of unhappiness is never the situation but your thoughts about it. We create our own stress due to our perception of what we must do.
 
 人最大的 [限制](push-your-limits.md) 是自己的想像力 — 折磨我們的恐懼，通常來自對事情的「想像」，而非事情「本身」；很多時候，我們只是被自己的一些想法綁住而已。
 
