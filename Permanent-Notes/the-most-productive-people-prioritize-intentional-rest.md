@@ -1,6 +1,6 @@
 ---
 title: The most productive people prioritize intentional rest
-modified: 2026-09-20
+modified: 2026-11-12
 ---
 
 > “Rest until you feel like playing, then play until you feel like resting.” — Martha Beck
@@ -35,11 +35,17 @@ Build a daily ritual that allows you to _create space to think_ and _wrestle wit
 
 There’s a simple formula for identifying the highest leverage relaxation for yourself = Energy produced ÷ Time it takes
 
-* If rest increases your output per unit of time, then it was productive.
+> If rest increases your output per input, then it was productive.
 
 ---
 
 # Eliminate the guilt associated with free time and rest
+
+> The single greatest challenge for any ambitious person is eliminating the guilt associated with rest, slowness, and free time.
+> 
+> Reframe these acts as part of your performance, rather than a reward for your efforts.
+> 
+> You need the well-maintained brakes alongside a strong engine.
 
 * 不要對休息有任何罪惡感。
 * 放鬆不是懶惰，而是一種對身心界線的尊重。
