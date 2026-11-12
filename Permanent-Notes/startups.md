@@ -1,6 +1,6 @@
 ---
 title: Startups
-modified: 2026-10-31
+modified: 2026-11-12
 ---
 
 * First step: attract great people
@@ -41,6 +41,7 @@ modified: 2026-10-31
 			* They may never have done it before and have no experience in this area, but are they a smart person who can figure things out? Are they a quick learner and persistent improver?
 			* Look for curiosity and lack of ego as a proxy, because the combination of these attributes helps people learn faster.
 	* If you hire people just because they can do the job, they will work for money/paycheck. But if you hire people who believe what you believe, they will work for blood, sweat, and tears
+	* “If you are deciding between two people to hire, always choose the better writer. Assuming they are equally qualified, the better writer will communicate work issues more clearly. This extends to emails, messages—frankly, everywhere.” — David Heinemeier Hansson
 	* “Is this person a force of nature?” is a good heuristic for finding people who are likely to accomplish great things.
 	* Great people are never on the market because bad people—the seriously unqualified—are on the market quite a lot
 	* Instead of thinking as recruiting as a “gather resumes, filter resumes” procedure, you’re going to have to think of it as a “track down the winners and make them talk to you” procedure
