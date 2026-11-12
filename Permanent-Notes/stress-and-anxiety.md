@@ -1,6 +1,6 @@
 ---
 title: Stress & Anxiety
-modified: 2026-09-03
+modified: 2026-11-12
 ---
 
 > “Stress happens when the mind resists what is.” — Dan Millman
@@ -136,7 +136,7 @@ Often, stress and anxiety come from the lack of a plan to bridge [the gap betwee
 
 真正的關鍵不是消除壓力，而是學會與之共處，懂得如何駕馭它。
 
-當你感到生活困難重重、人生充滿困境時，請記得：飛機借逆風升空，風箏憑逆風飛揚。
+當你感到生活困難重重、人生充滿困境時，請記得：**飛機借逆風升空，風箏憑逆風飛揚**。
 
 ---
 
