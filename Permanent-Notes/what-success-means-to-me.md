@@ -1,6 +1,6 @@
 ---
 title: What success means to me
-modified: 2026-10-05
+modified: 2026-11-12
 ---
 
 > “The road to success is always under construction.” — Steve Harvey
@@ -33,7 +33,7 @@ modified: 2026-10-05
 
 > ⭐️ [“How do you grade yourself? It’s important to know in advance, to make sure you’re staying focused on **what’s honestly important to you**, instead of doing what others think you should.” — Derek Sivers](https://sive.rs/grade)
 
-> ⭐️ [“The ultimate success metric is whether you get what you want out of life. But that’s harder than it sounds because it’s easy to try to copy someone who wants something you don’t.” — Morgan Housel](https://collabfund.com/blog/your-way-is-the-only-way/) [^1]
+> ⭐️ [“The ultimate success metric is whether you get what you want out of life. But that’s harder than it sounds because it’s easy to try to copy someone who wants something you don’t.” — Morgan Housel](https://collabfund.com/blog/your-way-is-the-only-way/) [^1] [^2]
 
 > “Redefine success. The most meaningful form of performance is progress. The ultimate mark of potential is not the height of the peak you’ve reached, but the distance you’ve traveled—and helped others travel.” — Adam M. Grant, [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/work/quotes/170223349)
 
@@ -49,9 +49,9 @@ Would I want to do this again? If the answer is yes, then it was successful.
 
 ---
 
-# [“The Inner Ring” by C.S. Lewis](https://www.lewissociety.org/innerring/) [^2]
+# [“The Inner Ring” by C.S. Lewis](https://www.lewissociety.org/innerring/) [^3]
 
-> [As long as you are governed by that desire you will never get what you want.](the-arrival-fallacy.md) You are trying to peel an onion; if you succeed there will be nothing left. Until you conquer the fear of being an outsider, an outsider you will remain.” [^3]
+> [As long as you are governed by that desire you will never get what you want.](the-arrival-fallacy.md) You are trying to peel an onion; if you succeed there will be nothing left. Until you conquer the fear of being an outsider, an outsider you will remain.” [^4]
 
 ---
 
@@ -69,7 +69,7 @@ The most important thing in life is _not having_ what you want, but _knowing_ wh
 
 # 知行合一
 
-1. 想：知道自己想要/不想要什麼、定義自己的平衡/甜蜜點 [^4] [^5]
+1. 想：知道自己想要/不想要什麼、定義自己的平衡/甜蜜點 [^5] [^6]
 2. 做：有能力真正地得到/避免自己想要/不想要 の 東西、想辦法站在上面，死都不要下來
 
 [Life is a game of awareness and action: Awareness to understand something’s importance and action to execute on that importance.](https://www.sahilbloom.com/newsletter/11-uncommon-lessons-from-uncommon-minds)
@@ -116,8 +116,13 @@ If you love what you’re doing, then you’ve already succeeded.
 
 > “The best prize that life has to offer is the chance to work hard at work worth doing.” — Theodore Roosevelt
 
+---
+
+Success isn’t an end state. Success is having the freedom to pursue the endless grind you enjoy most.
+
 [^1]: It is insane to risk what you have and need for something you don’t have and need.
-[^2]: is the exclusive group/circle to which people are drown to and want to belong throughout their lives.
-[^3]: [If you define success on the basis of comparison to others, you will never feel successful. _The only way to feel successful is to create your own definition of success, rather than consenting to one that was handed to you._](https://www.sahilbloom.com/newsletter/13-harsh-truths-about-success-nobody-told-you)
-[^4]: The most important thing in life is _not having_ what you want, but _knowing_ what you want—figuring it out is everything!
-[^5]: If you don’t know what you want, how are you going to know when you get it?
+[^2]: _“I’ve noticed that many people compete in games they don’t understand because they are modeling the behavior of people around them. Most common is the competition for wealth as a proxy for happiness.” — Michael Seibel_
+[^3]: is the exclusive group/circle to which people are drown to and want to belong throughout their lives.
+[^4]: [If you define success on the basis of comparison to others, you will never feel successful. _The only way to feel successful is to create your own definition of success, rather than consenting to one that was handed to you._](https://www.sahilbloom.com/newsletter/13-harsh-truths-about-success-nobody-told-you)
+[^5]: The most important thing in life is _not having_ what you want, but _knowing_ what you want—figuring it out is everything!
+[^6]: If you don’t know what you want, how are you going to know when you get it?
