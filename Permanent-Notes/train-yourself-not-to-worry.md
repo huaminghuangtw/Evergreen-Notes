@@ -1,11 +1,13 @@
 ---
 title: Train yourself not to worry
-modified: 2026-09-03
+modified: 2026-11-13
 ---
 
 > “Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.” — Benjamin Franklin
 
 > “There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.” — Epictetus
+
+> “Little minds have little worries, big minds have no time for worries.” — Ralph Waldo Emerson
 
 > [“Take all the energy you spend on 1) worrying about the past 2) worrying about the future 3) worrying about what others think 4) worrying about if you might fail, and channel that energy into one useful action within your control.” — James Clear](https://jamesclear.com/3-2-1/march-27-2025)
 
