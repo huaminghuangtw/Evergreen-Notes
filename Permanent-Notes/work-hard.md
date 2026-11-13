@@ -1,13 +1,13 @@
 ---
 title: Work hard
-modified: 2026-10-30
+modified: 2026-11-13
 ---
 
 > “Without ambition one starts nothing. Without work one finishes nothing. The prize will not be sent to you. You have to win it.” — Ralph Waldo Emerson
 
-> “Work hard until you no longer have to introduce yourself.”
+> ⭐️ “Work hard until you no longer have to introduce yourself.”
 
-> “Work hard in silence. Let your work make the noise.”
+> ⭐️ “Work hard in silence. Let your work make the noise.”
 
 > “Hard work beats talent when talent doesn’t work hard.” — Tim Notke
 
