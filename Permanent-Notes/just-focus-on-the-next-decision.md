@@ -1,6 +1,6 @@
 ---
 title: Just focus on the next decision
-modified: 2026-09-15
+modified: 2026-11-13
 ---
 
 > [“You are always just one good decision away from being in a better place tomorrow — just focus on the next decision.” — Sahil Bloom](https://www.sahilbloom.com/newsletter/information-action-gap-one-decision-away-more)
@@ -14,6 +14,10 @@ modified: 2026-09-15
 > “We take care of the future best by taking care of the present now.” — Jon Kabat-Zinn
 
 > [“You can’t make time go faster or success come sooner. The only thing you can control is the next action.” — James Clear](https://jamesclear.com/3-2-1/april-24-2025)
+
+---
+
+**What is the first right thing I can do?**
 
 ---
 
