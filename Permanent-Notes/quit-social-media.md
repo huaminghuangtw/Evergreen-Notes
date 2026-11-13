@@ -1,6 +1,6 @@
 ---
 title: Quit social media
-modified: 2026-10-18
+modified: 2026-11-13
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -61,7 +61,7 @@ The goal of social media is to make every problem, your problem.
 
 ---
 
-生活有兩大誤區：一是生活給別人看，二是看別人生活。
+生活有兩大誤區：一是生活給別人看，二是看別人生活。生活不是為了線上觀眾表演，一個人不需要那麼多「點讚之交」。
 
 ---
 
