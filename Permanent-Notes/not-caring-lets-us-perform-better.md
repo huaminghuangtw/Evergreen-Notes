@@ -1,11 +1,15 @@
 ---
 title: Not caring lets us perform better
-modified: 2026-09-14
+modified: 2026-11-12
 ---
 
 > “If you aim at nothing, you will hit it every time.” — Zig Ziglar
 
 > “There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.” — Morihei Ueshiba
+
+---
+
+Don’t Aim. Just Shoot.
 
 ---
 
