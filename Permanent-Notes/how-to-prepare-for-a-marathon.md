@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-10-16
+modified: 2026-11-13
 ---
 
 > [“The work is behind the scene. Competition is the easy part.” — Usain Bolt](https://youtu.be/LEIxpcYukqc?t=113s) [^1]
@@ -12,6 +12,8 @@ modified: 2026-10-16
 # Principles
 
 > “I train like I’ve never won, and I compete like I’ve never lost.” — Eileen Gu
+
+> Don’t Aim. Just Shoot.
 
 * Train smarter, not harder.
 * ⭐️ Start cautiously, finish strong.
@@ -158,7 +160,10 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 	* 目視前方
 	* 抬起胸膛，避免聳肩
 	* 身體微微前傾
-	* ⭐️ 前不露肘、後不露手
+	* 擺臂
+		* 前不露肘、後不露手
+		* 上至胸口、下至腰際
+		* 不過中線
 	* 雙手輕握
 	* 腹式呼吸
 	* [臀部、大腿出力，保持小腿、腳踝與膝蓋放鬆](https://www.facebook.com/reel/782777457834647)
@@ -180,11 +185,9 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 * Pacing Strategies
 	![](https://media.huam.ing/image/12edafc503bc5d0a567475e493c7e895.webp)
 	* 緩緩加速（負分段）是最理想的，或至少全程保持一樣的配速（和跑姿！）。[^2]
-
-		> 前面有多囂張，後面就有多落魄。
-
-		> Marathons are 10ks with a 20 mile warm up.
-
+		* 前面有多囂張，後面就有多落魄。
+		* 配速不是定存，而是高利貸！不要有「先跑起來放，前半馬預支幾分鐘，後半馬慢下來還」的錯誤心態！！
+		* Marathons are 10ks with a 20 mile warm up.
 	* 最後 12 公里，拆成 5/4/3
 	* 最後 10 公里
 		* Break it into familiar workouts: After miles of hard training, you have a mental library of difficult efforts you’ve already completed. When the last 10K feels enormous, break it into something familiar. “I’ve done a 2 × 3 mile tempo run. I just need to run this the same way.” Framing the remaining distance as a workout you’ve already finished is far more manageable than thinking “I still have 6 miles left.”
@@ -194,7 +197,6 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 	* Half marathon checkpoint: At 13.1 miles, check your elapsed time against your calculator’s target. If you’re more than 30 seconds ahead, you’ve been running too fast and need to pull back immediately. If you’re within 30 seconds either way, you’re executing perfectly.
 	* The proper strategy is to target a pace 5 to 10 seconds per mile slower than your goal pace for the first three or four miles. It will feel painfully/absurdly slow. It’s the right call. Just trust your splits.
 	* The payoff: Runners who execute a negative split race pass people in the final miles. They don’t get passed. That sensation — moving through a field of people who went out too fast — is one of the best feelings in marathon running.
-* 賽前約一週安排 Big/Hero Day 作為模擬考，然後全休 6 天。
 * 賽前三天開始做 [What Happened When One Runner Tried a 1-Month Walking Challenge]([https://www.runnersworld.com/runners-stories/a71536278/one-month-walking-challenge/](https://www.runnersworld.com/runners-stories/a71536278/one-month-walking-challenge/))，要吃到體重公斤數的「八倍」公克數。
 
 ---
@@ -281,6 +283,19 @@ At the start of your training, replace a weekly tempo run with 5 miles at your *
 * **Risk Management:** Running longer than 2.5 hours increases your risk of overuse injuries, poor recovery, and diminishing returns in fitness. For most runners, capping the long run at 3 hours is a smart, sustainable approach.
 * **Progress Over Time:** Structure the long runs progressively. For example, on a 30km run you could do something like: 2k easy / 8k @ 5:45/km / 1k easy / 8k @ 5:30/km / 1k easy / 8k @ 5:15/km / 2k easy. This approach breaks a long run into a series of manageable segments.
 * **Practical Advice:** Focus on quality and consistency. Prioritize staying healthy and finishing your long runs feeling strong, rather than exhausted. Long-term consistency is more valuable than pushing for extra mileage in a single session.
+
+## 漸速長跑（Build-up Long Run）
+
+1. 略慢於比賽配速
+2. 比賽配速
+3. 略快於比賽配速
+
+---
+
+# 兩大訓練重點
+
+1. 配速（Pacing）
+2. 補給（Fueling）
 
 ---
 
