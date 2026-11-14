@@ -1,11 +1,11 @@
 ---
 title: Two Types of Work
-modified: 2026-10-01
+modified: 2026-11-14
 ---
 
 > “If you don’t produce, you won’t thrive—no matter how skilled or talented you are.” — Cal Newport, _Deep Work_
 
-> [More generally, tasks that require little concentration seem to be best done in batches if possible, while tasks that require a lot of concentration seem to be best done individually, with as few distractions as one can manage.](https://terrytao.wordpress.com/2008/08/07/on-time-management/)
+> [“More generally, tasks that require little concentration seem to be best done in batches if possible, while tasks that require a lot of concentration seem to be best done individually, with as few distractions as one can manage.” — Terence Tao](https://terrytao.wordpress.com/2008/08/07/on-time-management/)
 
 ---
 
