@@ -1,6 +1,6 @@
 ---
 title: Money
-modified: 2026-10-17
+modified: 2026-11-14
 ---
 
 > “Money poisons you when you’ve got it, and starves you when you haven’t.” — D. H. Lawrence
@@ -85,6 +85,7 @@ Reasonable Rational
 	* 人們真正想要的，是食、衣、住、行、育、樂，而不是銀行裡的數字。
 * Having a lot of money ≠ Rich life
 	* 而財富，是這些東西的總稱，而非金錢。
+	* 或者說：財富是當你丟掉所有的金錢後剩下的東西。
 	* 所以，在人生中，你應該追求「財富」，而不是追求「金錢」。
 * Never allow self-worth to be dictated by net worth.
 	* 為了「幸福感」賺錢，不要為了「饋乏感」賺錢。
