@@ -1,6 +1,6 @@
 ---
 title: Always start with end in mind
-modified: 2026-09-03
+modified: 2026-11-14
 ---
 
 > “It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement(/accomplishment).” — Isocrates
@@ -15,7 +15,7 @@ modified: 2026-09-03
 
 > “Decide what you would like your obituary to say, and live the life to deserve it.” — [Warren Buffet in his final letter to Berkshire Hathaway shareholders](https://www.berkshirehathaway.com/news/nov1025.pdf)
 
-> “If you don’t know where you’re going, you might not like where you end up.” — David Bach, [The Latte Factor: Why You Don’t Have to Be Rich to Live Rich](https://www.goodreads.com/work/quotes/66413238)
+> “If you don’t know where you’re going, you might not like where you end up.” — David Bach, [The Latte Factor](https://www.goodreads.com/work/quotes/66413238)
 
 ---
 
