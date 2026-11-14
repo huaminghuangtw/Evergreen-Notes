@@ -1,6 +1,6 @@
 ---
 title: Prioritization
-modified: 2026-08-20
+modified: 2026-11-14
 ---
 
 > “The whole point of getting things done is knowing what to leave undone.” — Oswald Chambers
@@ -43,7 +43,7 @@ If you have more than 3 priorities, you don’t have any. You must choose what t
 
 ---
 
-[There are also many situations in which it makes tactical sense to defer, delay, delegate, or procrastinate on any given task, and go work on something else instead in the meantime; not everything is equally important, and also a given task may in fact become much easier (and be completed in a much better way) if one waits for one’s own skills to get stronger, or for other events to happen that reduce the importance or need for the task in the first place.](https://terrytao.wordpress.com/career-advice/batch-low-intensity-tasks-together/)
+> [“There are also many situations in which it makes tactical sense to defer, delay, delegate, or procrastinate on any given task, and go work on something else instead in the meantime; not everything is equally important, and also a given task may in fact become much easier (and be completed in a much better way) if one waits for one’s own skills to get stronger, or for other events to happen that reduce the importance or need for the task in the first place.” — Terence Tao](https://terrytao.wordpress.com/career-advice/batch-low-intensity-tasks-together/)
 
 ---
 
