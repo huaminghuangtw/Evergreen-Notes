@@ -1,6 +1,6 @@
 ---
 title: Leadership
-modified: 2026-09-03
+modified: 2026-11-13
 ---
 
 > “To lead people, walk beside them.” — Lao Tzu
@@ -88,6 +88,25 @@ Think of a great leader like a captain of a ship: they make sure everyone is saf
 “I can afford to wait, because I trust myself and my tribe.”
 
 Insecure leaders rush to take first, fearing there’s not enough. Confident leaders **create abundance** by leading with stability and assurance.
+
+---
+
+To be a Leader, you must be able to:
+
+1. Manage expectations.
+2. Deliver bad news.
+3. Assume responsibility and blame.
+4. Serve the people on your team.
+
+You serve people by:
+
+* Being kind.
+* Being honest.
+* Being available.
+* Learning to listen.
+* Clearing paths they will walk on.
+* Giving credit, immediately and openly.
+* Offering a clear vision of where you are going together.
 
 ---
 
