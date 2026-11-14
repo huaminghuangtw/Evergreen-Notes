@@ -1,6 +1,6 @@
 ---
 title: Attention Residue
-modified: 2026-08-12
+modified: 2026-11-14
 ---
 
 Professor [Sophie Leroy](https://www.google.com/search?q=Sophie+Leroy) of the University of Washington coined the term **attention residue** to describe the cognitive half-life left behind after [switching tasks](task-switching.md). Even after you physically move to a new task, a portion of your attention remains stuck on the previous one. <mark>The more complex or incomplete the previous task, the heavier the residue.</mark>
@@ -32,8 +32,8 @@ The only way to eliminate attention residue entirely is to:
 
 Always finish what you’ve started. Never start what you can’t finish.
 
-> [Drop a task when it is only partially finished, without any good “closure”; it then either gets lost, or weighs on one’s mind and prevents one from fully thinking about something else, or has to be redone from an earlier point when one picks it up again.](https://terrytao.wordpress.com/2008/08/07/on-time-management/)
+> [“Drop a task when it is only partially finished, without any good “closure”; it then either gets lost, or weighs on one’s mind and prevents one from fully thinking about something else, or has to be redone from an earlier point when one picks it up again.” — Terence Tao](https://terrytao.wordpress.com/2008/08/07/on-time-management/)
 
-> [There’s something magical in that last little bit, simply because so few are willing to do it. That’s where you unlock new levels to the game. And it does not take talent, just energy and courage.](https://www.sahilbloom.com/newsletter/11-uncommon-lessons-from-uncommon-minds)
+> [“There’s something magical in that last little bit, simply because so few are willing to do it. That’s where you unlock new levels to the game. And it does not take talent, just energy and courage.” — Sahil Bloom](https://www.sahilbloom.com/newsletter/11-uncommon-lessons-from-uncommon-minds)
 
 [^1]: Closing with (a sense of) completion
