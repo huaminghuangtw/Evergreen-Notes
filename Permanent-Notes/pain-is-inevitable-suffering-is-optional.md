@@ -1,6 +1,6 @@
 ---
 title: Pain is inevitable. Suffering is optional.
-modified: 2026-10-22
+modified: 2026-11-14
 ---
 
 > [“The trick is not minding that it hurts.”](https://youtu.be/TvQViPBAvPk) — [Lawrence of Arabia (1962 film)](https://www.imdb.com/title/tt0056172/)
@@ -31,6 +31,8 @@ Say you’re running and you think, ‘Man, this hurts, I can’t take it anymor
 ---
 
 [Suffering = Pain × Resistance; To suffer more = To suffer before it is necessary](https://weeklyio.substack.com/p/useful-definitions)
+
+> “A man who suffers before it is necessary, suffers more than is necessary.” — Seneca
 
 ---
 
