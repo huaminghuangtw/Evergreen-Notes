@@ -1,9 +1,9 @@
 ---
 title: A man who is a master of patience is master of everything else
-modified: 2026-09-03
+modified: 2026-11-14
 ---
 
-> “Adopt the pace of nature, her secret is patience.” — Ralph Emerson
+> “Adopt the pace of nature, her secret is patience.” — Ralph Waldo Emerson
 
 > [“All the benefits in life come from compound interest - relationship, money, learning, habits - anything of importance.” — Naval Ravikant](https://nav.al/long-term)
 
@@ -98,6 +98,8 @@ Weigh the potential **benefits of [delayed action](procrastination.md) [^2]** ag
 Patience builds foundations that last. Patience builds what shortcuts destroy. Patience is the secret sauce.
 
 ---
+
+#TODO
 
 # [“Slow Change Can Be Radical Change” by Rebecca Solnit](https://lithub.com/rebecca-solnit-slow-change-can-be-radical-change/)
 
