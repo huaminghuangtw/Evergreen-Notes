@@ -1,6 +1,6 @@
 ---
 title: Energy Management
-modified: 2026-09-03
+modified: 2026-11-14
 ---
 
 > “Energy is eternal delight.” — William Blake
@@ -143,7 +143,7 @@ pie showData
 
 ➞ a practice sometimes called _working with your energy, not against it_
 
-> [My ability to do any serious mathematics fluctuates greatly from day to day; sometimes I can think hard on a problem for an hour, other times I feel ready to type up the full details of a sketch that I or my coauthors already wrote, and other times I only feel qualified to respond to email and do errands, or just to take a walk or even a nap. I find it very helpful to organise my time to match this fluctuation: for instance, if I have a free afternoon, and feel inspired to do so, I might close my office door, shut off the internet, and begin typing on a languishing paper; or if not, I go and work on a week’s worth of email, referee a paper, write a blog article, or whatever else seems suited to my current levels of energy and enthusiasm.](https://terrytao.wordpress.com/2008/08/07/on-time-management/)
+> [“My ability to do any serious mathematics fluctuates greatly from day to day; sometimes I can think hard on a problem for an hour, other times I feel ready to type up the full details of a sketch that I or my coauthors already wrote, and other times I only feel qualified to respond to email and do errands, or just to take a walk or even a nap. I find it very helpful to organise my time to match this fluctuation: for instance, if I have a free afternoon, and feel inspired to do so, I might close my office door, shut off the internet, and begin typing on a languishing paper; or if not, I go and work on a week’s worth of email, referee a paper, write a blog article, or whatever else seems suited to my current levels of energy and enthusiasm.” — Terence Tao](https://terrytao.wordpress.com/2008/08/07/on-time-management/)
 
 [Work in sprints, work with your biology](work-in-sprints-work-with-your-biology.md)
 
