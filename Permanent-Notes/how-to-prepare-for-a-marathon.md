@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-11-13
+modified: 2026-11-14
 ---
 
 > [“The work is behind the scene. Competition is the easy part.” — Usain Bolt](https://youtu.be/LEIxpcYukqc?t=113s) [^1]
@@ -217,20 +217,16 @@ Breathing Rate: Count the steps you take on each inhale and exhale. A 3-step inh
 
 > Use a high-quality chest strap or [armband](https://coros.com/heart-rate-monitor) heart rate monitor (HRM) for best results. Wrist-based optical sensors are not reliable for rapid heart rate changes.
 
-## 1. Field Test (Most Accurate)
-
-* **Warm Up:** 15–20 minutes, including some higher paces and strides, on a flat surface.
-* **Hill Sprints:**
+1. Field Test (Most Accurate)
+	* **Warm Up:** 15–20 minutes, including some higher paces and strides, on a flat surface.
+	* **Hill Sprints:**
 	* Find a steep hill (15–25 seconds to climb).
 	* Do 4–5 reps: start at a moderate pace, accelerate in the second half, and sprint hard in the last third.
 	* On your final rep, sprint all out until exhaustion. The highest heart rate you reach is close to your max HR.
-
-## 2. Calculation Methods (Less Accurate)
-
-* **Traditional Formula:** Max HR = 220 - age
-* **More Accurate Formula:** Max HR = 211 - (0.64 × age) = 207 - (age x 0.7)
-
-## 3. Run 3 x 800 meters with two minutes recovery. On the 3<sup>rd</sup> 800m, run the last 400m as hard as you can, and you will come close to your max heart rate.
+2. Calculation Methods (Less Accurate)
+	* **Traditional Formula:** Max HR = 220 - age
+	* **More Accurate Formula:** Max HR = 211 - (0.64 × age) = 207 - (age x 0.7)
+3. Run 3 x 800 meters with two minutes recovery. On the 3<sup>rd</sup> 800m, run the last 400m as hard as you can, and you will come close to your max heart rate.
 
 # Joe Friel’s Lactate Threshold Heart Rate (LTHR) Field Test
 
