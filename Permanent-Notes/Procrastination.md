@@ -1,6 +1,6 @@
 ---
 title: Procrastination
-modified: 2026-09-03
+modified: 2026-11-15
 ---
 
 > “To begin, begin.” — William Wordsworth
@@ -63,7 +63,7 @@ Inspiration is perishable. Act IMMEDIATELY at the moment of inspiration. Follow 
 	> “The more you see yourself like a stranger, the more likely you are to give your future self the same workload that you would give a stranger, and the more likely you are to put things off to tomorrow—for your future self to do.” — [@baileyProductivityProjectAccomplishing2016]
 
 * If you’re going to procrastinate, do something you enjoy.
-* **積極拖延 (Active/Positive/Productive/Structured Procrastination)**
+* **積極拖延 (Active/Positive/Productive/Structured/Effective Procrastination)**
 	* The gist is that you should never fight the tendency to procrastinate—instead, you should use it to your advantage in order to get other things done.
 	* While you’re procrastinating, just do lots of other stuff instead.
 	* Deliberately postponing tasks until tomorrow instead of trying to do everything today. [@forsterItTomorrowOther2008]
