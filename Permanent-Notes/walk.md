@@ -1,6 +1,6 @@
 ---
 title: Walk
-modified: 2026-10-29
+modified: 2026-11-15
 ---
 
 > “A walk in nature walks the soul back home.” — Mary Davis
@@ -120,5 +120,9 @@ Everyone _should_ feel alert walking the streets at night — that’s not oppre
 ---
 
 [*Walking* by Henry David Thoreau](https://huam.ing/walking)
+
+---
+
+[walk and talk | Derek Sivers](https://sive.rs/wt)
 
 [^1]: 「有界」(bounded, telic) 和「無界」(unbounded, atelic)
