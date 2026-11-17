@@ -1,6 +1,6 @@
 ---
 title: Dopamine
-modified: 2026-09-03
+modified: 2026-11-17
 ---
 
 > “Persons with severe addictions are among those contemporary prophets that we ignore to our own demise, for they show us who we truly are. (重度成癮者是當代的預言家，不把他們當一回事，沒有好下場的是我們，因為他們反映的正是我們真實的面貌)” — Kent Dunnington
@@ -103,8 +103,10 @@ Natural (Real) Dopamine (associated with [long-term thinking](delayed-gratificat
 	* Monk Mode
 	* Sakoku
 	* Clarity Break
-	* The Think Day/Week
-		* Bill Gates’ famous “Think Week,” where he spends two weeks alone at his cottage [^1] twice a year, reading and thinking about the future of Microsoft.
+	* The Think Day/Week (對齊日／週)
+
+		> Bill Gates’ famous “Think Week,” where he spends two weeks alone at his cottage [^1] twice a year, reading and thinking about the future of Microsoft.
+
 	* [Nyepi]([https://www.google.com/search?q=Nyepi](https://www.google.com/search?q=Nyepi)), also known as the “Balinese Day of Silence”, is a Hindu celebration held every Isakawarsa (“new year”) in Bali, Indonesia. It lasts for 24 hours, beginning at 6:00 AM on the day of Nyepi and ending at 6:00 AM the following day. During this time, the island observes complete silence, with no activities allowed, including travel, work, or entertainment. Even the airport shuts down for 24 hours. The day is dedicated to self-reflection, meditation, and spiritual cleansing, as the entire island enters a state of peace and quiet to start the new year with a clean slate. (寧靜日/靜居日是印尼峇里島著名的國定假日，也是印度教的新年，是全球唯一一個將整座島嶼封閉並暫停所有活動的節日。)
 
 [^1]: **[Attention Cottage](https://blog.ayjay.org/the-attention-cottage/)** is a dedicated physical space designed for giving your full and focused attention to a specific task, particularly creative or intellectually demanding work.
