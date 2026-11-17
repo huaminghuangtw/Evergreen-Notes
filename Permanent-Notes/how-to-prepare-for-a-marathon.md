@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-11-14
+modified: 2026-11-17
 ---
 
 > [“The work is behind the scene. Competition is the easy part.” — Usain Bolt](https://youtu.be/LEIxpcYukqc?t=113s) [^1]
@@ -163,6 +163,7 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 	* 擺臂
 		* 前不露肘、後不露手
 		* 上至胸口、下至腰際
+		* 往上，不往前
 		* 不過中線
 	* 雙手輕握
 	* 腹式呼吸
@@ -184,6 +185,8 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 * Set your target in the final 6 to 8 weeks before the race, then confirm it during the taper. A goal chosen 5 months out rarely survives contact with real training.
 * Pacing Strategies
 	![](https://media.huam.ing/image/12edafc503bc5d0a567475e493c7e895.webp)
+	* **Stay patient until halfway:** By the time you reach the halfway point, you should be bored. Seriously, bored. The pace should feel almost uneventful. Switch off mentally and resist the urge to do more. You’ll need that mental energy for the second half.
+	* **Delay the urge to speed up:** When you feel incredibly good and want to pick up the pace, wait two more miles. If you still feel great, wait another two. Only then should you consider speeding up.
 	* 緩緩加速（負分段）是最理想的，或至少全程保持一樣的配速（和跑姿！）。[^2]
 		* 前面有多囂張，後面就有多落魄。
 		* 配速不是定存，而是高利貸！不要有「先跑起來放，前半馬預支幾分鐘，後半馬慢下來還」的錯誤心態！！
@@ -300,4 +303,4 @@ At the start of your training, replace a weekly tempo run with 5 miles at your *
 Zone 2 決定你能用這個速度撐多久（油耗效率），VO2 Max 決定你的速度天花板在哪裡（油箱容量）。
 
 [^1]: Medals are won in training. Tournaments are where you pick them up.
-[^2]: 跑全馬好比將一杯盛滿的水緩緩倒至見底 — 最好的狀態是抵達終點時水恰好倒完。
+[^2]: 如果馬拉松是倒一杯水，最好的配速，是讓這杯水在終點時剛好見底。
