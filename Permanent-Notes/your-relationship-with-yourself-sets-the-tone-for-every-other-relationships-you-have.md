@@ -1,6 +1,6 @@
 ---
 title: Your relationship with yourself sets the tone for every other relationships you have
-modified: 2026-08-28
+modified: 2026-11-17
 ---
 
 > “Your relationship with yourself sets the tone for every other relationship you have.” — Robert Holden
@@ -115,6 +115,8 @@ Loving yourself well has a ripple effect beyond the personal. When you are groun
 
 * A starving chef can’t feed anyone.
 * You can’t pour from an empty cup.
+
+❌ 泥菩薩過江——自身難保、自顧不暇
 
 ---
 
