@@ -1,6 +1,6 @@
 ---
 title: Why we exist?
-modified: 2026-10-31
+modified: 2026-11-17
 ---
 
 > [“The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” — David Viscott](https://www.goodreads.com/quotes/7407260-the-purpose-of-life-is-to-discover-your-gift-the)
@@ -109,7 +109,7 @@ Both because of and in spite of his awareness of the meaninglessness of life, he
 
 > “Joy can only be real if people look upon their life as a service and have a definite object in life outside themselves and their personal happiness.” — Leo Tolstoy
 
-強者要為弱者而活
+[強者要為弱者而活](https://youtu.be/PmTFBJLZD58?t=3m41s)
 
 > “We who are strong ought to bear with the failings of the weak.” — Romans 15:1
 
