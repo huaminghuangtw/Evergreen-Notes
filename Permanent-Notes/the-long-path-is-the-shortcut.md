@@ -1,6 +1,6 @@
 ---
 title: The long path is the shortcut
-modified: 2026-09-03
+modified: 2026-11-18
 ---
 
 > “Sometimes taking time is actually a shortcut.” — Haruki Murakami, [What I Talk About When I Talk About Running](https://www.goodreads.com/work/quotes/2475030)
@@ -12,7 +12,7 @@ The long path is the shortcut. The [hard](do-hard-things.md) way is always the r
 > 識得最近的路，最短也最長；而最遠的路，最長也最短。
 > — 周夢蝶
 
-有時候，花時間才是最近的捷徑。
+有時候，花時間才是最近的捷徑、繞遠路才是最短的捷徑。
 
 ---
 
