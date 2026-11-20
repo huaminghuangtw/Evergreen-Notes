@@ -1,6 +1,6 @@
 ---
 title: What success means to me
-modified: 2026-11-12
+modified: 2026-11-20
 ---
 
 > “The road to success is always under construction.” — Steve Harvey
@@ -115,6 +115,8 @@ If you love what you’re doing, then you’ve already succeeded.
 > “Of all the things that can boost emotions, motivation, and perceptions during a workday, the single most important is making progress in meaningful work.” — Teresa Amabile
 
 > “The best prize that life has to offer is the chance to work hard at work worth doing.” — Theodore Roosevelt
+
+> “What a privilege it is to be tired in the pursuit of a challenge of your own choosing.” — Molly Karagyaurov
 
 ---
 
