@@ -1,6 +1,6 @@
 ---
 title: Be ready to change your mind completely at any given time
-modified: 2026-08-24
+modified: 2026-11-20
 ---
 
 > [“Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won’t come in.” — Alan Alda](https://www.goodreads.com/quotes/667214-your-assumptions-are-your-windows-on-the-world-scrub-them)
@@ -76,6 +76,10 @@ The mental fortitude to be able to entertain multiple contradictory ideas in you
 ---
 
 [Wittgenstein’s Ladder](wittgensteins-ladder.md)
+
+---
+
+[Uncorrelated perspectives | Derek Sivers](https://sive.rs/portfolio)
 
 [^1]: To remain “stupid” means refusing to learn, refusing to think, or deliberately avoiding knowledge and growth.
 [^2]: The “work hard” part is ironic. It suggests that since life constantly gives us chances to learn—from experience, other people, mistakes, books, etc.—you’d actually have to put in effort to ignore all that and stay uninformed.
