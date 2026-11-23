@@ -1,6 +1,6 @@
 ---
 title: Sleep
-modified: 2026-10-23
+modified: 2026-11-22
 ---
 
 > “Sleep is a kindness you give your future self.” — Matthew Walker
@@ -32,6 +32,13 @@ Sleep deprivation makes hard things feel impossible. High quality sleep makes se
 Make sleep your #1 appointment in your calendar. Sleep is your #1 life priority. Plan your day around sleep.
 
 [Minimize light, red/amber light ideal](nighttime-lighting.md)
+
+---
+
+# 子午覺
+
+1. 子時（23–1）：23 點前進入深層睡眠
+2. 午時（11-13）：睡 [午覺](napping.md)
 
 ---
 
