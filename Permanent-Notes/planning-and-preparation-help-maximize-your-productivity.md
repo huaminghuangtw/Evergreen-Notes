@@ -1,6 +1,6 @@
 ---
 title: Planning and preparation help maximize your productivity
-modified: 2026-08-04
+modified: 2026-11-22
 ---
 
 > [“The antidote to impulsiveness is forethought.” — Nir Eyal](https://youtu.be/VVez_sI1zTU)
@@ -22,6 +22,9 @@ modified: 2026-08-04
 > “To win is not important. To be successful is not even important. How to plan and prepare is crucial. When you plan very well and prepare very well, then success can come on the way. Then winning can come on your way.” — Eliud Kipchoge
 
 > _“I never won a fight in the ring; I always won in preparation_.” — Muhammad Ali
+
+> 凡事豫則立，不豫則廢。言前定，則不跲；事前定，則不困；行前定，則不疚；道前定，則不窮。
+> —《禮記 · 中庸》
 
 ---
 
