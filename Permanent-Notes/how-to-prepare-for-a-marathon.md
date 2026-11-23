@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-11-17
+modified: 2026-11-21
 ---
 
 > [“The work is behind the scene. Competition is the easy part.” — Usain Bolt](https://youtu.be/LEIxpcYukqc?t=113s) [^1]
@@ -24,6 +24,14 @@ modified: 2026-11-17
 	* Most people run their easy days too hard and their hard days too easy.
 	* Run your easy runs easier so you can run your hard runs harder. If you find yourself wanting to run your easy runs harder, you probably aren’t doing your hard runs hard enough. And easy days are rest days if you do them easy enough.
 	* See: [Be Aware of the Gray Zone Where Junk Miles Live](beware-of-the-gray-zone-where-junk-miles-live.md)
+
+---
+
+# 三大主流
+
+1. 金字塔訓練：適合在訓練週期前段操作
+2. 極化訓練：適合在訓練週期中後段操作
+3. 閾值訓練
 
 ---
 
@@ -182,7 +190,10 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 * 兩大原則：
 	* 訓練不足 > 訓練過度
 	* 如果表現越來越差，肯定是過度訓練。
-* Set your target in the final 6 to 8 weeks before the race, then confirm it during the taper. A goal chosen 5 months out rarely survives contact with real training.
+* Set your target in the final 6–8 weeks before the race, then confirm it during the taper.
+	* A tune-up race is how you get that confirmation: a half marathon about 6 weeks out tells you whether the goal time is real.
+	* A goal chosen 5 months out rarely survives with the real training.
+* ⭐️ 一場馬拉松中，應至少有三分之二以上的時間落於「最大心率的 80–90%」（不超過 Threshold HR）。
 * Pacing Strategies
 	![](https://media.huam.ing/image/12edafc503bc5d0a567475e493c7e895.webp)
 	* **Stay patient until halfway:** By the time you reach the halfway point, you should be bored. Seriously, bored. The pace should feel almost uneventful. Switch off mentally and resist the urge to do more. You’ll need that mental energy for the second half.
@@ -276,7 +287,7 @@ At the start of your training, replace a weekly tempo run with 5 miles at your *
 
 # Long Run Workouts
 
-> 不應超過週跑量的 25–30% 或 18–22 miles（29–35 kms）
+> 不應超過週跑量的 30%，或 18–22 miles（29–35 kms）
 
 * **Optimal Duration:** The greatest aerobic benefits from long runs occur between 60 and 120 minutes. Beyond 2 hours, the additional gains decrease, and after 2.5 to 3 hours, the risk of injury and excessive fatigue rises significantly.
 * **Risk Management:** Running longer than 2.5 hours increases your risk of overuse injuries, poor recovery, and diminishing returns in fitness. For most runners, capping the long run at 3 hours is a smart, sustainable approach.
