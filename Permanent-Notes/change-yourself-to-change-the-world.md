@@ -1,6 +1,6 @@
 ---
 title: Change yourself to change the world
-modified: 2026-10-23
+modified: 2026-11-22
 ---
 
 > “Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi
@@ -25,6 +25,8 @@ modified: 2026-10-23
 > “Being aware of a single shortcoming within yourself is far more useful than being aware of a thousand in someone else.” — Dalai Lama
 
 > “I will not be surprised by human nature, nor will I spend a long time feeling betrayed. When surprises come as a result of human nature, I just puts my head down and adjusts.” — Charlie Munger
+
+> “You take your life in your own hands, and what happens? A terrible thing, no one to blame.” — Erica Jong
 
 ---
 
