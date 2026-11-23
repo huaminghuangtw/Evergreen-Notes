@@ -1,6 +1,6 @@
 ---
 title: Courage is knowing what not to fear
-modified: 2026-09-03
+modified: 2026-11-22
 ---
 
 > [“Success is not final, failure is not fatal: it is the courage to continue that counts.” — Winston Churchill](https://youtu.be/uuxMZL6ieWM)
@@ -11,6 +11,8 @@ modified: 2026-09-03
 
 > “Courage is not the absence of fear, but rather the assessment that something else is more important than fear.” — Franklin D. Roosevelt
 
+> [“Courage is not simply one of the virtues, but the form of every virtue at the testing point.” — C. S. Lewis](http://brainyquote.com/quotes/c_s_lewis_100842)
+
 > [“Courage is feeling fear, not getting rid of fear, and taking action in the face of fear.” — Roy T. Bennett, The Light in the Heart](https://www.goodreads.com/quotes/7913240-courage-is-feeling-fear-not-getting-rid-of-fear-and)
 
 > [“I feel fear quite strongly. So it’s not as though I just have the absence of fear, but there are times when something is important enough, you believe in it enough, that you do it in spite of the fear.” — Elon Musk](https://youtu.be/tnBQmEqBCY0?t=8m26s)
@@ -19,7 +21,7 @@ modified: 2026-09-03
 
 > “The only courage that matters is the kind that gets you from one moment to the next.” — Mignon McLaughlin
 
-> [“You cannot swim for new horizons until you have courage to lose sight of the shore.” — William Faulkner](https://www.goodreads.com/quotes/132400-you-cannot-swim-for-new-horizons-until-you-have-courage)
+> “You cannot swim for new horizons until you have courage to lose sight of the shore.” — Christopher Columbus
 
 > [“Courage is not simply one of the virtues but the form of every virtue at the testing point, which means at the point of highest reality.” — C.S. Lewis, The Screwtape Letters](https://www.goodreads.com/quotes/37169-courage-is-not-simply-one-of-the-virtues-but-the)
 
