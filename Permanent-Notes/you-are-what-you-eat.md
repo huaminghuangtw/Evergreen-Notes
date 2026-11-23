@@ -1,6 +1,6 @@
 ---
 title: You are what you eat
-modified: 2026-10-24
+modified: 2026-11-22
 ---
 
 > “Let food be thy medicine and medicine be thy food.” — Hippocrates [^1]
@@ -91,6 +91,8 @@ Eat as many minimally processed foods as possible (以原型食物為主)
 	3. **高纖維和植物基**：生機飲食通常是基於植物的，並且富含纖維和抗氧化劑。
 * 全食物蔬食/植物性飲食 (Whole Food Plant-Based Diet = WFPBD)
 	* ≈ The Mediterranean Diet or The Pescatarian/Pescetarianism Diet [^7]
+		* The MIND diet (Mediterranean-DASH Intervention for Neurodegenerative Delay)
+		* 麥得飲食（MIND）是結合地中海飲食與得舒飲食（DASH）的護腦飲食法
 	* ≠ The Western Diet or Carnivore
 	* [從人類的牙齒也可以看出動植物飲食應有的比例。我們有 32 顆牙，但是跟吃肉有關的只有 4 顆犬齒，4:28，可見上天原來就規畫動物性飲食不該超過 15 %。](https://www.books.com.tw/products/0010786351)
 	* Eat a diverse range of plants + fruits (「均衡飲食」)
