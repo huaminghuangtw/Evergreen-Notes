@@ -1,6 +1,6 @@
 ---
 title: The Beginner Mindset
-modified: 2026-09-15
+modified: 2026-11-24
 ---
 
 > “It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.” — Mark Twain
@@ -18,6 +18,10 @@ modified: 2026-09-15
 ---
 
 Normalize looking bad/cringy. Enjoy being wrong or looking/sounding “stupid” in a public setting.
+
+---
+
+Until you make the effort to get to know something, you don’t know anything.
 
 ---
 
