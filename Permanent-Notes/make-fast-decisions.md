@@ -1,9 +1,12 @@
 ---
 title: Make fast decisions
-modified: 2026-11-12
+modified: 2026-11-24
 ---
 
 > “It’s better to be boldly decisive and risk being wrong than to agonise at length and be right too late.” — Marilyn Moats Kennedy
+
+> 天下武功，無堅不破，唯快不破。
+> — 火雲邪神，電影《功夫》
 
 ---
 
