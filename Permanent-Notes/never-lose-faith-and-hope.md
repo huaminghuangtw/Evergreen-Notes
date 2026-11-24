@@ -1,6 +1,6 @@
 ---
 title: Never lose faith and hope
-modified: 2026-08-29
+modified: 2026-11-24
 ---
 
 > “Without faith, it is impossible for you to become great.” — Wallace D. Wattles, [The Science of Being Great](https://www.goodreads.com/work/quotes/1881171)
@@ -43,6 +43,10 @@ modified: 2026-08-29
 > No virtuous act is quite as virtuous from the standpoint of our friend or foe as it is from our standpoint. Therefore we must be saved by the final form of love which is forgiveness.”
 >
 > — Reinhold Niebuhr, [The Irony of American History](https://www.goodreads.com/work/quotes/781014)
+
+---
+
+不是看見了才相信，而是相信了，才有機會 [看見](visualization.md)。
 
 ---
 
