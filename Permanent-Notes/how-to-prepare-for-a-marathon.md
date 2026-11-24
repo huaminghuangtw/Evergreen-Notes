@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-11-21
+modified: 2026-11-24
 ---
 
 > [“The work is behind the scene. Competition is the easy part.” — Usain Bolt](https://youtu.be/LEIxpcYukqc?t=113s) [^1]
@@ -9,7 +9,7 @@ modified: 2026-11-21
 
 ---
 
-# Principles
+# Principles & Mindsets
 
 > “I train like I’ve never won, and I compete like I’ve never lost.” — Eileen Gu
 
@@ -24,6 +24,7 @@ modified: 2026-11-21
 	* Most people run their easy days too hard and their hard days too easy.
 	* Run your easy runs easier so you can run your hard runs harder. If you find yourself wanting to run your easy runs harder, you probably aren’t doing your hard runs hard enough. And easy days are rest days if you do them easy enough.
 	* See: [Be Aware of the Gray Zone Where Junk Miles Live](beware-of-the-gray-zone-where-junk-miles-live.md)
+* Approach your training as a _practice_, not a _workout_.
 
 ---
 
