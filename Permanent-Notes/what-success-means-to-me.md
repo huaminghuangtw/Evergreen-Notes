@@ -1,6 +1,6 @@
 ---
 title: What success means to me
-modified: 2026-11-20
+modified: 2026-11-24
 ---
 
 > “The road to success is always under construction.” — Steve Harvey
@@ -61,7 +61,7 @@ Would I want to do this again? If the answer is yes, then it was successful.
 
 ---
 
-#NEWSLETTER
+# 成功，是過上自己想要的生活
 
 The most important thing in life is _not having_ what you want, but _knowing_ what you want—figuring it out is everything!
 
