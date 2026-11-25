@@ -1,6 +1,10 @@
 ---
 title: Be patient with results, but inpatient with actions
-modified: 2026-10-30
+modified: 2026-11-24
+---
+
+對行動心急如焚，對成果耐心等待。
+
 ---
 
 Set 5-year goals, but take 10-minute actions. Think long. Act now.
