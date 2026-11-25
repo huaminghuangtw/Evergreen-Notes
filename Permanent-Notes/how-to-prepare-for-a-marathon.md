@@ -1,6 +1,6 @@
 ---
 title: How to prepare for a marathon
-modified: 2026-11-24
+modified: 2026-11-25
 ---
 
 > [“The work is behind the scene. Competition is the easy part.” — Usain Bolt](https://youtu.be/LEIxpcYukqc?t=113s) [^1]
@@ -149,37 +149,47 @@ A rising heart rate means you need more easy miles. Easy runs build aerobic fitn
 		* In short: interval training is about mental discipline and control, while fartlek running is about body awareness and responsiveness. Both approaches develop different aspects of the runner’s mind-body connection.
 * [亞索 800（Yasso 800s）](https://www.google.com/search?q=Yasso+800) 是一種經典的馬拉松訓練與預測方法，由 Bart Yasso 發明。核心內容是進行 10 趟 800 公尺的快速間歇跑，休息時間與快跑時間相同（例如：800m 跑 3 分 30 秒，休息 3 分 30 秒）。其理論認為，若能順利完成 10 趟，800 公尺的時間（分：秒）便對應馬拉松的完賽時間（時：分），如 3 分 30 秒對應 3 小時 30 分的潛力。
 	* 前 50 公尺刻意放慢，後 200 公尺加速。
-* [Pose（關鍵姿勢）、Fall（收腿, 向前落下）、Pull（推蹬, 向上拉提）](https://posemethod.com/running/)
-	* 專注於上拉「腳掌」（而非「大腿」或「膝蓋」），拉起後立即放鬆，讓它自然上拋、自然落下。
-	* 不需刻意跨大步：重心落在臀部「正下方」，而非「前方」。
 
-		> 關鍵：腿往後拉！
+---
 
-	* 無為而無不為：像原地跑一樣向前跑！
-	* Avoid bouncing up & down (Minimize vertical oscillation)
-	* Increase steps per minute (cadence)
+# 動力鏈
 
-	![](https://posemethod.com/wp-content/uploads/2021/10/1pose.png)
+[Pose（關鍵姿勢）、Fall（收腿, 向前落下）、Pull（推蹬, 向上拉提）](https://posemethod.com/running/)
 
-	![](https://posemethod.com/wp-content/uploads/2021/10/2fall.png)
+* 專注於上拉「腳掌」（而非「大腿」或「膝蓋」），拉起後立即放鬆，讓它自然上拋、自然落下。
+* 不需刻意跨大步：重心落在臀部「正下方」，而非「前方」。
 
-	![](https://posemethod.com/wp-content/uploads/2021/10/3pull.png)
+> 關鍵：腿往後拉！
 
-* [完美跑姿](https://www.google.com/search?q=%E5%AE%8C%E7%BE%8E%E8%B7%91%E5%A7%BF)（[Running Form](https://www.youtube.com/shorts/rd63EN0juAI)）
-	* 目視前方
-	* 抬起胸膛，避免聳肩
-	* 身體微微前傾
-	* 擺臂
-		* 前不露肘、後不露手
-		* 上至胸口、下至腰際
-		* 往上，不往前
-		* 不過中線
-	* 雙手輕握
-	* 腹式呼吸
-	* [臀部、大腿出力，保持小腿、腳踝與膝蓋放鬆](https://www.facebook.com/reel/782777457834647)
-	* ⭐️ 中足、前腳掌外側/前緣著地
-	* 想像在身體前方處，把腳趾頭插進地裡
-	* 腳掌落地時與地面平行，腳背不向下施壓
+* 無為而無不為：像原地跑一樣向前跑！
+* Avoid bouncing up & down (Minimize vertical oscillation)
+* Increase steps per minute (cadence)
+
+![](https://posemethod.com/wp-content/uploads/2021/10/1pose.png)
+
+![](https://posemethod.com/wp-content/uploads/2021/10/2fall.png)
+
+![](https://posemethod.com/wp-content/uploads/2021/10/3pull.png)
+
+[完美跑姿](https://www.google.com/search?q=%E5%AE%8C%E7%BE%8E%E8%B7%91%E5%A7%BF)（[Running Form](https://www.youtube.com/shorts/rd63EN0juAI)）
+
+* 目視前方
+* 抬起胸膛，避免聳肩
+* 身體微微前傾
+* 擺臂
+	* 前不露肘、後不露手
+	* 上至胸口、下至腰際
+	* 往上，不往前
+	* 不過中線
+* 雙手輕握
+* 腹式呼吸
+* [臀部、大腿出力，保持小腿、腳踝與膝蓋放鬆](https://www.facebook.com/reel/782777457834647)
+* ⭐️ 中足、前腳掌外側/前緣著地
+* 想像在身體前方處，把腳趾頭插進地裡
+* 腳掌落地時與地面平行，腳背不向下施壓
+
+---
+
 * 送髖奧義/技術
 * 意象訓練：在準備過程中，不斷地想像自己衝過終點線的那一刻。
 * 心無旁鶩，專注在自己身上：
