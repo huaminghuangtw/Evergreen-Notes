@@ -1,9 +1,13 @@
 ---
 title: The Map Is Not the Territory
-modified: 2026-09-14
+modified: 2026-11-25
 ---
 
 > “A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.” — Alfred Korzybski, _Science and Sanity_
+
+---
+
+地圖不等於疆域
 
 ---
 
