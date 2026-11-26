@@ -1,6 +1,6 @@
 ---
 title: Life is cyclic
-modified: 2026-10-20
+modified: 2026-11-26
 ---
 
 > “Life is like a wheel. Sooner or later, it always comes around to where you started again.” — Stephen King
@@ -51,6 +51,8 @@ Some seasons you produce fruit, some seasons you prune, and some seasons you let
 ---
 
 [業 (Karma)](https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/karma) is the belief that your actions and choices can shape your life and the next.
+
+自食其果
 
 ---
 
