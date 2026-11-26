@@ -1,6 +1,6 @@
 ---
 title: Abandon your ego
-modified: 2026-11-23
+modified: 2026-11-26
 ---
 
 > “Showing off is the fool’s idea of glory.” — Bruce Lee
@@ -15,7 +15,7 @@ modified: 2026-11-23
 
 > [“I’m just sick of ego, ego, ego. My own and everybody else’s. I’m sick of everybody that wants to get somewhere, do something distinguished and all, be somebody interesting. It’s disgusting.” — J.D. Salinger, Franny and Zooey](http://goodreads.com/quotes/71745-i-m-just-sick-of-ego-ego-ego-my-own-and)
 
-> [“A major failure mode is when your ego-to-ability ratio is > 1. When your ego exceeds your ability, you break the feedback loop to reality. Smash your ego. Internalize responsibility. Do whatever it takes.⁣” — Elon Musk](https://x.com/garrytan/status/1936466932330324165)
+> ⭐️ [“A major failure mode is when your ego-to-ability ratio is > 1. When your ego exceeds your ability, you break the feedback loop to reality. Smash your ego. Internalize responsibility. Do whatever it takes.⁣” — Elon Musk](https://x.com/garrytan/status/1936466932330324165)
 
 ---
 
