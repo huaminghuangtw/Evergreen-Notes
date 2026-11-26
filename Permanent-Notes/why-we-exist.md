@@ -1,6 +1,6 @@
 ---
 title: Why we exist?
-modified: 2026-11-17
+modified: 2026-11-25
 ---
 
 > [“The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” — David Viscott](https://www.goodreads.com/quotes/7407260-the-purpose-of-life-is-to-discover-your-gift-the)
@@ -138,6 +138,7 @@ We make a living by what we get, but we make a life by what we give.
 * Missions are _directions/scope_ of life, not the _destination_ of life.
 * Mission statements usually (and should) sound like vague platitudes.
 * [Goals](goal-setting.md) are focused around discrete achievements, [with specific ends](the-game-of-life.md).
+* [Goals are finite; they are achievements and once achieved, you are done with them. Values, on the other hand, are enduring, **ongoing guides to living**. You cannot achieve a value, you can only manifest it by acting in accordance with it.](https://stevenchayes.com/how-to-find-your-life-purpose/)
 
 The distinction between missions (infinite) and goals (finite) maps onto James Carse’s distinction between **finite games** (played to win, with clear endpoints) and **infinite games** (played to keep playing, with the goal of continuation).
 
