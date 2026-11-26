@@ -1,6 +1,6 @@
 ---
 title: Change yourself to change the world
-modified: 2026-11-22
+modified: 2026-11-26
 ---
 
 > “Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.” — Rubi
@@ -38,7 +38,7 @@ Before changing yourself, you need to [knowing yourself](mastering-yourself-is-s
 
 ---
 
-# 修身、齊家、治國、平１天下
+# 修身、齊家、治國、平天下
 
 > 古之欲明明德於天下者，先治其國。欲治其國者，先齊其家。欲齊其家者，先修其身。欲修其身者，先正其心。
 > —《禮記 · 大學》
@@ -110,7 +110,7 @@ Tend your garden. Sow your seeds. Water your grass. The grass is greener where y
 
 Personal development/growth/improvement is a lifelong endeavor. Every single day, you have to [act in favor of the person you want to become](your-identity-dictates-your-actions.md). [The work never stops.](every-single-day-chop-wood-carry-water.md) [Be a habit and routine machine](be-a-habit-and-routine-machine.md).
 
-> “By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure. Purity and impurity depend on oneself; no one can purify another.” — Dhammapada
+> “By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by yoneself is one made pure. Purity and impurity depend on oneself; no one can purify another.” — Dhammapada
 
 ---
 
