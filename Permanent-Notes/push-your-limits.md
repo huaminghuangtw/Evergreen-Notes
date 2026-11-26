@@ -1,6 +1,6 @@
 ---
 title: Push your limits
-modified: 2026-07-30
+modified: 2026-11-26
 ---
 
 > “Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot
@@ -70,6 +70,8 @@ modified: 2026-07-30
 > “Some men see things as they are and ask why. Others dream things that never were and ask why not.” — George Bernard Shaw
 
 > “You are confined only by the walls you build yourself.” — Andrew Murphy
+
+> “Unless you try to do something beyond what you have already mastered you will never grow.” — Ralph Waldo Emerson
 
 ---
 
