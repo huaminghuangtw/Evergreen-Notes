@@ -1,9 +1,11 @@
 ---
 title: Integrity
-modified: 2026-09-03
+modified: 2026-11-25
 ---
 
 > “Trust is earned in drops and lost in buckets. Unwavering honesty will help seal in trust.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
+
+> [“Acting in line with your heart’s deepest desires brings a sense of fulfillment and vitality that no material wealth is able to match.” — Steven C. Hayes](https://stevenchayes.com/how-to-find-your-life-purpose/)
 
 ---
 
