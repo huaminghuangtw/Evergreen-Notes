@@ -1,6 +1,6 @@
 ---
 title: Quit social media
-modified: 2026-11-13
+modified: 2026-11-25
 ---
 
 [@haidtAnxiousGenerationHow2024]
@@ -169,6 +169,10 @@ If you were to reduce screen time—especially social media—by just one hour p
 * Enough time to become a master at nearly anything.
 * Enough time to build a thriving business.
 * Enough time to make hundreds of memories with your loved ones.
+
+---
+
+If you’re not the customer, you’re the product.
 
 ---
 
