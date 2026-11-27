@@ -1,6 +1,6 @@
 ---
 title: Apple Shortcuts
-modified: 2026-11-12
+modified: 2026-11-27
 ---
 
 # Overview
@@ -92,7 +92,7 @@ AppleScript ➞ Automator ➞ Shortcuts
 
 ## URL schemes
 
-* “Open X-Callback URL” (= [URL_Schemes](URL_Schemes.md))
+* “Open X-Callback URL” (= URL Schemes)
 	* Allow you to go beyond “Open App” in Shortcuts
 	* They are helpful in the Shortcuts app when the App itself doesn’t have any Shortcut Actions support available by default
 * [Run a shortcut using a URL scheme on iPhone or iPad](https://support.apple.com/en-gb/guide/shortcuts/apd624386f42/ios)
