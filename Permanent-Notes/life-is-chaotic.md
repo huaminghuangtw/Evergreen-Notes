@@ -1,6 +1,6 @@
 ---
 title: Life is chaotic
-modified: 2026-09-03
+modified: 2026-11-27
 ---
 
 > “A vacation + a disaster = an adventure.” — Kevin Kelly, [Excellent Advice for Living: Wisdom I Wish I’d Known Earlier](https://www.goodreads.com/work/quotes/98113859)
@@ -17,7 +17,7 @@ modified: 2026-09-03
 
 > [“We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.” — C.S. Lewis](https://www.goodreads.com/quotes/615-we-are-not-necessarily-doubting-that-god-will-do-the)
 
-> “To be interested in the changing seasons is a happier state of mind than to be hopelessly in love with spring.” — George Santayana
+> ⭐️ “To be interested in the changing seasons is a happier state of mind than to be hopelessly in love with spring.” — George Santayana
 
 > “You should enjoy the little detours to the fullest. Because that’s where you’ll find the things more important than what you want.” — Yoshihiro Togashi
 
