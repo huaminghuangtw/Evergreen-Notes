@@ -1,6 +1,6 @@
 ---
 title: Courage is knowing what not to fear
-modified: 2026-11-22
+modified: 2026-11-27
 ---
 
 > [“Success is not final, failure is not fatal: it is the courage to continue that counts.” — Winston Churchill](https://youtu.be/uuxMZL6ieWM)
@@ -25,7 +25,7 @@ modified: 2026-11-22
 
 > [“Courage is not simply one of the virtues but the form of every virtue at the testing point, which means at the point of highest reality.” — C.S. Lewis, The Screwtape Letters](https://www.goodreads.com/quotes/37169-courage-is-not-simply-one-of-the-virtues-but-the)
 
-> [“Are you paralyzed with fear? That’s a good sign. Fear is good. Like self-doubt, fear is an indicator. Fear tells us what we have to do. Remember one rule of thumb: the more scared we are of a work or calling, the more sure we can be that we have to do it. The amateur believes he must first overcome his fear; then he can do his work. The professional knows that fear can never be overcome.” — Steven Pressfield, The War of Art](https://www.goodreads.com/work/quotes/722104)
+> [“Are you paralyzed with fear? That’s a good sign. Fear is good. Like self-doubt, fear is an indicator. Fear tells us what we have to do. Remember one rule of thumb: the more scared we are of a work or calling, the more sure we can be that we have to do it. <mark>The amateur believes he must first overcome his fear; then he can do his work. The professional knows that fear can never be overcome.</mark>” — Steven Pressfield, The War of Art](https://www.goodreads.com/work/quotes/722104)
 
 > “If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution. Timidity is dangerous: Better to enter with boldness. Any mistakes you commit through audacity are easily corrected with more audacity. Everyone admires the bold; no one honors the timid.” — Robert Greene, [The 48 Laws of Power](https://www.goodreads.com/work/quotes/1297604)
 
