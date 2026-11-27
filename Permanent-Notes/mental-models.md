@@ -1,6 +1,6 @@
 ---
-title: mental models
-modified: 2026-09-03
+title: Mental Models
+modified: 2026-11-27
 ---
 
 > “Being aware of your mental models is key to being objective.” — Elizabeth Thornton
