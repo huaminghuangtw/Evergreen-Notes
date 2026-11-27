@@ -1,6 +1,6 @@
 ---
 title: Energy Management
-modified: 2026-11-14
+modified: 2026-11-26
 ---
 
 > “Energy is eternal delight.” — William Blake
@@ -126,14 +126,14 @@ In _The Power of Full Engagement_, Jim Loehr and Tony Schwartz argue that energy
 
 舉例來說，m = 2 時，第 1 主題就拿走一半，其餘快速衰減：
 
-| 主題 | 注意力 |
-| --- | --- |
-| 第 1 主題 | 50% |
-| 第 2 主題 | 25% |
-| 第 3 主題 | 12.5% |
-| 第 4 主題 | 6.25% |
+| 主題     | 注意力    |
+| ------ | ------ |
+| 第 1 主題 | 50%    |
+| 第 2 主題 | 25%    |
+| 第 3 主題 | 12.5%  |
+| 第 4 主題 | 6.25%  |
 | 第 5 主題 | 3.125% |
-| 其餘主題 | 3.125% |
+| 其餘主題   | 3.125% |
 
 ---
 
